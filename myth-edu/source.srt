@@ -1,0 +1,1128 @@
+1
+00:00:00,000 --> 00:00:01,987
+- This video is about learning styles.
+
+2
+00:00:01,987 --> 00:00:03,950
+What kind of learner are you?
+
+3
+00:00:03,950 --> 00:00:05,893
+- Oh yeah, I'm a visual person so I have to see things, yeah.
+
+4
+00:00:05,060 --> 00:00:05,893
+- Oh yeah, same.
+
+5
+00:00:05,893 --> 00:00:07,630
+- I think visual learner.
+
+6
+00:00:07,630 --> 00:00:08,463
+- Visual.
+
+7
+00:00:08,463 --> 00:00:11,040
+- I mean, like, I remember formulas like auditory.
+
+8
+00:00:11,040 --> 00:00:13,260
+- I need to be like, interacting with the material.
+
+9
+00:00:13,260 --> 00:00:15,010
+- I like to learn by doing it myself.
+
+10
+00:00:15,010 --> 00:00:15,843
+- Very hands-on.
+
+11
+00:00:15,843 --> 00:00:16,820
+- Hands-on learner.
+
+12
+00:00:16,820 --> 00:00:17,653
+- Hands-on?
+
+13
+00:00:17,653 --> 00:00:20,430
+- So like, if I have a model, I'd like to look at that and look it over.
+
+14
+00:00:20,430 --> 00:00:23,030
+- Part of this video was sponsored by Google Search.
+
+15
+00:00:25,040 --> 00:00:27,000
+There is this idea in education that
+
+16
+00:00:27,000 --> 00:00:29,210
+everyone has their own preferred way of learning,
+
+17
+00:00:29,210 --> 00:00:31,160
+their so-called learning style.
+
+18
+00:00:31,160 --> 00:00:33,840
+If information is presented in accordance with the learning style,
+
+19
+00:00:33,840 --> 00:00:36,090
+well, then they'll learn better.
+
+20
+00:00:36,090 --> 00:00:38,950
+Now, there are dozens of different learning style theories,
+
+21
+00:00:38,950 --> 00:00:41,500
+but the most common one identifies four main learning styles,
+
+22
+00:00:41,500 --> 00:00:47,132
+visual, auditory, reading-writing, and kinesthetic or VARK for short.
+
+23
+00:00:47,132 --> 00:00:51,560
+Visual learners learn best from images, demonstrations, and pictures.
+
+24
+00:00:51,560 --> 00:00:54,110
+- People may say things, but I can't really take it in.
+
+25
+00:00:54,110 --> 00:00:57,830
+I just gotta see 'em act it out or write it or something.
+
+26
+00:00:57,830 --> 00:01:01,240
+- Auditory learners learn best from listening to an explanation.
+
+27
+00:01:01,240 --> 00:01:04,410
+- Like in school, I was always engaged in the lecture
+
+28
+00:01:04,410 --> 00:01:07,300
+and that was usually good enough to pass a test.
+
+29
+00:01:07,300 --> 00:01:10,100
+- Reading-writing learners learn best from reading and writing.
+
+30
+00:01:10,100 --> 00:01:13,610
+- Like I can get pretty much anything out of reading a textbook or something.
+
+31
+00:01:13,610 --> 00:01:16,010
+- And kinesthetic learners learn best by doing.
+
+32
+00:01:16,010 --> 00:01:17,740
+Physically interacting with the world.
+
+33
+00:01:17,740 --> 00:01:18,573
+- Hands-on.
+
+34
+00:01:18,573 --> 00:01:20,500
+You have to touch things, you have to play with things,
+
+35
+00:01:20,500 --> 00:01:24,550
+you know, it's a contact sport. You have to do it yourself.
+
+36
+00:01:24,550 --> 00:01:27,530
+- I want to try something with you, a little experiment.
+
+37
+00:01:27,530 --> 00:01:29,067
+I want to show you 10 pictures of things
+
+38
+00:01:29,067 --> 00:01:31,400
+and I don't want you to say anything while you're looking at them,
+
+39
+00:01:31,400 --> 00:01:34,660
+and at the end of the 10 you tell me how many you can remember.
+
+40
+00:01:34,660 --> 00:01:35,493
+- Okay.
+
+41
+00:01:35,493 --> 00:01:36,326
+- Okay?
+- Okay.
+
+42
+00:01:36,326 --> 00:01:37,159
+- Okay.
+
+43
+00:01:38,910 --> 00:01:43,510
+- Now, learning styles make intuitive sense because we know everyone is different.
+
+44
+00:01:43,510 --> 00:01:45,960
+Some people have better spacial reasoning.
+
+45
+00:01:45,960 --> 00:01:48,580
+Others have better listening comprehension.
+
+46
+00:01:48,580 --> 00:01:50,210
+We know some people are better readers
+
+47
+00:01:50,210 --> 00:01:52,540
+while others are good with their hands.
+
+48
+00:01:52,540 --> 00:01:56,430
+- It's sort of very much fits with a broad strain
+
+49
+00:01:56,430 --> 00:02:00,180
+of thought in the recent Western tradition is,
+
+50
+00:02:00,180 --> 00:02:01,850
+we're all unique, we're all different.
+
+51
+00:02:01,850 --> 00:02:04,157
+And so you don't want to say, like, everybody learns the same way.
+
+52
+00:02:04,157 --> 00:02:09,190
+That sort of conflicts with our feelings about what it means to be human.
+
+53
+00:02:09,190 --> 00:02:10,500
+- So doesn't it make sense that
+
+54
+00:02:12,190 --> 00:02:14,390
+people should learn better in their own preferred learning style?
+
+55
+00:02:14,390 --> 00:02:16,720
+Well, teachers certainly seem to think so.
+
+56
+00:02:16,720 --> 00:02:19,610
+A survey of nearly 400 teachers from the UK and
+
+57
+00:02:19,410 --> 00:02:22,750
+the Netherlands found that over 90% believed that
+
+58
+00:02:22,750 --> 00:02:27,340
+individuals learn better when they receive information in their preferred learning style.
+
+59
+00:02:27,340 --> 00:02:30,000
+- Just like every professor has a different style of teaching,
+
+60
+00:02:30,000 --> 00:02:31,840
+you have a different style of learning.
+
+61
+00:02:31,840 --> 00:02:34,000
+- But when his teacher starts using visuals,
+
+62
+00:02:34,000 --> 00:02:36,910
+Johnathan finds it easier to focus and understand the material
+
+63
+00:02:36,910 --> 00:02:39,382
+so he might be a visual learner.
+
+64
+00:02:39,382 --> 00:02:41,610
+- Can you tell me what that means to you?
+
+65
+00:02:41,610 --> 00:02:43,360
+Like, what does it mean to be a visual learner?
+
+66
+00:02:43,360 --> 00:02:45,620
+- To me it means that… for me, to learn something,
+
+67
+00:02:45,620 --> 00:02:48,250
+sometimes you need to draw it or I need to write it down
+
+68
+00:02:48,250 --> 00:02:51,080
+or I need to see a picture or a movie.
+
+69
+00:02:51,080 --> 00:02:55,000
+- For example, science classes, I get bored easily just listening
+
+70
+00:02:54,200 --> 00:02:59,140
+and I think it's more interesting for me to actually be able to do it.
+
+71
+00:02:59,140 --> 00:03:00,750
+- How do you know that you're a visual learner?
+
+72
+00:03:00,750 --> 00:03:02,253
+- I don't, I just assumed.
+
+73
+00:03:03,380 --> 00:03:07,520
+- To take advantage of learning styles then teachers need to do two things.
+
+74
+00:03:07,520 --> 00:03:11,120
+First, identify the learning style of each of their students.
+
+75
+00:03:11,120 --> 00:03:15,550
+And second, teach each student in accordance with their learning style.
+
+76
+00:03:15,550 --> 00:03:17,200
+On the VARK website it says,
+
+77
+00:03:19,120 --> 00:03:22,720
+once you know about VARK, its power to explain things will be a revelation.
+
+78
+00:03:22,720 --> 00:03:25,310
+But before you take an online learning styles quiz,
+
+79
+00:03:25,310 --> 00:03:29,060
+it's a good idea to ask, do learning styles even exist?
+
+80
+00:03:29,060 --> 00:03:30,260
+I mean, do you have one?
+
+81
+00:03:30,260 --> 00:03:35,320
+And if you're taught in accordance with it, would you learn better?
+
+82
+00:03:35,320 --> 00:03:38,363
+Well, you could test this by running a randomized control trial
+
+83
+00:03:38,363 --> 00:03:40,620
+where first you would identify learners
+
+84
+00:03:40,620 --> 00:03:43,800
+with at least two different learning styles, say visual and auditory
+
+85
+00:03:43,800 --> 00:03:48,840
+and then randomly assign learners to one of two educational presentations,
+
+86
+00:03:48,840 --> 00:03:50,870
+one visual, one auditory.
+
+87
+00:03:50,870 --> 00:03:54,700
+So for half of the students, the experience will match their learning style
+
+88
+00:03:54,700 --> 00:03:57,000
+and for the other half it won't.
+
+89
+00:03:57,000 --> 00:03:59,930
+And then you give everyone the same test.
+
+90
+00:03:59,930 --> 00:04:02,350
+If the learning style hypothesis is correct,
+
+91
+00:04:02,350 --> 00:04:05,000
+the results should show better performance when the presentation
+
+92
+00:04:04,270 --> 00:04:08,613
+matches the learning style than when they're mismatched.
+
+93
+00:04:09,830 --> 00:04:14,090
+I tried a very unscientific version of this experiment on the street.
+
+94
+00:04:14,090 --> 00:04:16,637
+For some people, I matched their learning style
+
+95
+00:04:16,637 --> 00:04:21,149
+so I showed visual learners pictures of 10 items,
+
+96
+00:04:21,149 --> 00:04:25,819
+but for other visual learners I read out the items instead.
+
+97
+00:04:25,819 --> 00:04:29,810
+Bell, penguin, sun.
+
+98
+00:04:29,810 --> 00:04:30,780
+- Okay, I'm maxed out.
+
+99
+00:04:30,780 --> 00:04:32,033
+- How many can you remember?
+
+100
+00:04:32,033 --> 00:04:32,866
+- I don't know.
+
+101
+00:04:32,866 --> 00:04:37,280
+- Hair, knife, duck, heart, butterfly.
+
+102
+00:04:38,800 --> 00:04:42,230
+- Apple, bicycle, guitar.
+
+103
+00:04:42,230 --> 00:04:43,313
+- There was a spider.
+
+104
+00:04:44,240 --> 00:04:45,400
+Did I say eye already?
+
+105
+00:04:45,400 --> 00:04:47,040
+- Trumpet, pear.
+- Pear.
+
+106
+00:04:47,040 --> 00:04:48,340
+- Butterfly.
+- Duck.
+
+107
+00:04:48,340 --> 00:04:49,350
+- Knife.
+- Boat.
+
+108
+00:04:49,350 --> 00:04:50,200
+- Heart.
+- Knife.
+
+109
+00:04:50,200 --> 00:04:51,033
+- Heart.
+
+110
+00:04:51,033 --> 00:04:53,390
+- I couldn't tell you the rest, that's all I got.
+
+111
+00:04:53,390 --> 00:04:54,840
+- Most people could remember
+
+112
+00:04:54,840 --> 00:04:56,897
+only about five or six things.
+
+113
+00:04:56,897 --> 00:04:58,227
+- Yeah, yeah.
+- Six, six is not bad.
+
+114
+00:04:58,227 --> 00:04:59,060
+- All right.
+
+115
+00:04:59,060 --> 00:05:00,420
+- Six.
+- Six out of 10
+
+116
+00:05:00,420 --> 00:05:02,007
+which is not bad, right?
+- Oh, all right, yeah.
+
+117
+00:05:02,007 --> 00:05:03,170
+- That's a passing score.
+
+118
+00:05:03,170 --> 00:05:04,003
+Candle.
+- Oh.
+
+119
+00:05:04,003 --> 00:05:05,475
+- Candle.
+- Everyone forgets the candle.
+
+120
+00:05:05,475 --> 00:05:08,540
+But a few could remember substantially more,
+
+121
+00:05:08,540 --> 00:05:10,380
+say, eight or nine items.
+
+122
+00:05:10,380 --> 00:05:12,432
+- Bug, I don't know if I said bug.
+
+123
+00:05:12,432 --> 00:05:17,432
+Guitar, bike, eye, bell, spoon, sun, chair.
+
+124
+00:05:17,450 --> 00:05:18,710
+I'm forgetting the last two.
+
+125
+00:05:18,710 --> 00:05:20,270
+- That's pretty good.
+- Eight is really good.
+
+126
+00:05:20,270 --> 00:05:21,103
+- Oh, cool.
+
+127
+00:05:21,103 --> 00:05:22,050
+- Nine?
+- Nine out of 10.
+
+128
+00:05:22,050 --> 00:05:24,900
+- Nine, very impressive.
+
+129
+00:05:24,900 --> 00:05:27,000
+But the reason didn't seem to be
+
+130
+00:05:27,000 --> 00:05:29,930
+because the presentation matched their preferred learning style
+
+131
+00:05:29,930 --> 00:05:33,112
+but because they employed a memory strategy.
+
+132
+00:05:33,112 --> 00:05:36,047
+- So as you were showing I was making an order in my head.
+
+133
+00:05:36,047 --> 00:05:39,250
+So as I saw more I would just add it to the list
+
+134
+00:05:39,250 --> 00:05:41,240
+and I was repeating the list as I was looking at them
+
+135
+00:05:41,240 --> 00:05:42,600
+so I could just say it out loud.
+
+136
+00:05:42,600 --> 00:05:46,580
+- Did you try a strategy while you were looking at those pictures?
+
+137
+00:05:44,788 --> 00:05:46,580
+- Yeah, yeah.
+
+138
+00:05:46,580 --> 00:05:49,263
+So I guess I tried creating a story
+
+139
+00:05:49,263 --> 00:05:52,660
+'cause it's easier to remember a story than just individual objects.
+
+140
+00:05:52,660 --> 00:05:55,190
+So I tried to tie it all into one story.
+
+141
+00:05:55,190 --> 00:05:57,370
+- This is all obviously anecdotal evidence,
+
+142
+00:05:57,370 --> 00:06:01,220
+but rigorous studies like the one I outlined have been conducted.
+
+143
+00:06:01,220 --> 00:06:04,790
+For example, one looked at visualizers versus verbalizers
+
+144
+00:06:04,790 --> 00:06:06,966
+instead of visual versus auditory learners.
+
+145
+00:06:06,966 --> 00:06:09,600
+The study was computer-based,
+
+146
+00:06:09,600 --> 00:06:12,500
+so first students' learning styles were assessed using questions like,
+
+147
+00:06:12,500 --> 00:06:17,440
+would you rather read a paragraph or see a diagram describing an atom?
+
+148
+00:06:17,440 --> 00:06:20,520
+The researchers also provided some challenging explanations
+
+149
+00:06:20,520 --> 00:06:24,110
+with two buttons, visual help or verbal help.
+
+150
+00:06:24,110 --> 00:06:26,290
+The visual one played a short animation
+
+151
+00:06:26,290 --> 00:06:29,670
+whereas the verbal help gave a written explanation.
+
+152
+00:06:29,670 --> 00:06:30,700
+From these measures combined,
+
+153
+00:06:32,100 --> 00:06:35,280
+the researchers categorized the students as either visualizers or verbalizers
+
+154
+00:06:35,280 --> 00:06:37,470
+and then the students were randomly assigned
+
+155
+00:06:37,470 --> 00:06:42,220
+to go through a text-based or picture-based lesson on electronics.
+
+156
+00:06:42,220 --> 00:06:46,560
+When a student hovered their mouse over key words in the lesson in the text-based group,
+
+157
+00:06:46,560 --> 00:06:48,810
+a definition and clarification came up.
+
+158
+00:06:48,810 --> 00:06:50,130
+But in the picture group,
+
+159
+00:06:50,130 --> 00:06:52,780
+an annotated diagram was shown instead.
+
+160
+00:06:52,780 --> 00:06:56,710
+And after the lesson, the students did a test to assess their learning.
+
+161
+00:06:56,710 --> 00:07:00,000
+The students whose preferred learning style matched their instruction
+
+162
+00:06:58,470 --> 00:07:05,200
+performed no better on the tests than those whose instruction was mismatched.
+
+163
+00:07:05,200 --> 00:07:09,250
+The researchers ran the test again with 61 non-college-educated adults
+
+164
+00:07:09,250 --> 00:07:11,364
+and found exactly the same result.
+
+165
+00:07:11,364 --> 00:07:13,886
+But learning styles are a preference
+
+166
+00:07:13,886 --> 00:07:17,710
+so how strongly do learners stick to their preference?
+
+167
+00:07:17,710 --> 00:07:20,630
+Well, in a 2018 study during the first week of semester,
+
+168
+00:07:20,630 --> 00:07:25,000
+over 400 students at a university in Indiana completed the VARK questionnaire
+
+169
+00:07:25,000 --> 00:07:28,100
+and they were classified according to their learning style.
+
+170
+00:07:28,100 --> 00:07:29,320
+Then at the end of the semester
+
+171
+00:07:29,320 --> 00:07:32,374
+the same students completed a study strategy questionnaire.
+
+172
+00:07:32,374 --> 00:07:35,780
+So how did they actually study during the term?
+
+173
+00:07:35,780 --> 00:07:39,200
+Well, an overwhelming majority of students used study strategies
+
+174
+00:07:39,200 --> 00:07:42,580
+which were supposedly incompatible with their learning style,
+
+175
+00:07:42,580 --> 00:07:44,118
+and the minority of students who did
+
+176
+00:07:44,118 --> 00:07:48,553
+did not perform significantly differently on the assessments in the course.
+
+177
+00:07:48,553 --> 00:07:52,000
+The visual auditory reading-writing, kinesthetic or VARK model
+
+178
+00:07:52,000 --> 00:07:56,040
+came about from Neil Fleming, a school inspector in New Zealand.
+
+179
+00:07:56,040 --> 00:07:58,390
+Describing the origins of VARK he says,
+
+180
+00:07:58,390 --> 00:08:02,000
+I was puzzled when I observed excellent teachers who did not reach some learners
+
+181
+00:08:02,000 --> 00:08:04,220
+and poor teachers who did.
+
+182
+00:08:04,220 --> 00:08:06,360
+I decided to try to solve this puzzle.
+
+183
+00:08:06,360 --> 00:08:09,540
+There are, of course, many reasons for what I observed.
+
+184
+00:08:09,540 --> 00:08:14,150
+But one topic that seemed to hold some magic, some explanatory power,
+
+185
+00:08:14,150 --> 00:08:17,850
+was preferred modes of learning, modal preferences.
+
+186
+00:08:17,850 --> 00:08:20,240
+And thus, VARK was born.
+
+187
+00:08:20,240 --> 00:08:24,980
+There was no study that revealed students naturally cluster into four distinct groups.
+
+188
+00:08:24,980 --> 00:08:26,720
+Just some magic that might explain
+
+189
+00:08:26,720 --> 00:08:29,930
+why some teachers can reach students while others can't.
+
+190
+00:08:29,930 --> 00:08:31,430
+But how can this be?
+
+191
+00:08:31,430 --> 00:08:33,650
+If we accept that some people are more skilled
+
+192
+00:08:33,650 --> 00:08:35,960
+at interpreting and remembering certain kinds of stimuli
+
+193
+00:08:35,960 --> 00:08:38,659
+than others like visual or auditory,
+
+194
+00:08:38,659 --> 00:08:43,599
+then why don't we see differences in learning or recall with different presentations?
+
+195
+00:08:43,600 --> 00:08:46,480
+Well, it's because what we actually want people to recall
+
+196
+00:08:46,480 --> 00:08:51,010
+is not the precise nature of the images or the pitch or quality of the sound.
+
+197
+00:08:51,010 --> 00:08:53,212
+It's the meaning behind the presentations.
+
+198
+00:08:53,212 --> 00:08:57,520
+There are some tasks that obviously require the use of a particular modality.
+
+199
+00:08:57,520 --> 00:09:01,180
+Learning about music, for example, should have an auditory component.
+
+200
+00:09:01,180 --> 00:09:05,055
+Similarly, learning about geography will involve looking at maps.
+
+201
+00:09:05,055 --> 00:09:09,310
+And some people will have greater aptitude to learn one task over another.
+
+202
+00:09:09,310 --> 00:09:13,830
+Someone with perfect pitch, for example,
+
+203
+00:09:11,090 --> 00:09:13,830
+will be better able to recall certain tones in music.
+
+204
+00:09:13,830 --> 00:09:15,820
+Someone with excellent visual-spatial reasoning
+
+205
+00:09:15,820 --> 00:09:18,870
+will be better at learning the locations of countries on a map.
+
+206
+00:09:18,870 --> 00:09:20,930
+But the claim of learning style theories is that
+
+207
+00:09:20,930 --> 00:09:24,792
+these preferences will be consistent across learning domains.
+
+208
+00:09:24,792 --> 00:09:29,157
+The person with perfect pitch should learn everything better auditorily
+
+209
+00:09:29,157 --> 00:09:31,780
+but that is clearly not the case.
+
+210
+00:09:31,780 --> 00:09:34,633
+Most people will learn geography better with a map.
+
+211
+00:09:35,940 --> 00:09:38,910
+Review articles of learning styles consistently conclude
+
+212
+00:09:38,910 --> 00:09:43,030
+there is no credible evidence that learning styles exist.
+
+213
+00:09:43,030 --> 00:09:45,000
+In a 2009 review, the researchers note,
+
+214
+00:09:45,000 --> 00:09:48,100
+the contrast between the enormous popularity
+
+215
+00:09:48,100 --> 00:09:50,630
+of the learning styles approach within education
+
+216
+00:09:50,630 --> 00:09:54,060
+and the lack of credible evidence for its utility is,
+
+217
+00:09:54,060 --> 00:09:57,250
+in our opinion, striking and disturbing.
+
+218
+00:09:57,250 --> 00:10:00,200
+If classification of students' learning styles has practical utility,
+
+219
+00:10:00,200 --> 00:10:02,870
+it remains to be demonstrated.
+
+220
+00:10:02,870 --> 00:10:06,210
+- What we're expecting is, if your style was honored
+
+221
+00:10:06,210 --> 00:10:08,320
+you're going to perform better than if
+
+222
+00:10:08,320 --> 00:10:10,880
+you had some experience that conflicted with your style.
+
+223
+00:10:10,880 --> 00:10:15,730
+And this is where we don't see any support for the learning styles theory.
+
+224
+00:10:15,730 --> 00:10:17,581
+- One of the reasons many people find learning styles
+
+225
+00:10:17,581 --> 00:10:21,720
+so convincing is because they already believe it to be true.
+
+226
+00:10:21,720 --> 00:10:24,500
+For example, they might already think that they're a visual learner,
+
+227
+00:10:24,500 --> 00:10:29,000
+and then when a teacher shows them a diagram of, say, a bike pump
+
+228
+00:10:29,000 --> 00:10:30,920
+and suddenly the concept clicks,
+
+229
+00:10:30,920 --> 00:10:34,310
+well, they interpret this as evidence for their visual learning style.
+
+230
+00:10:34,310 --> 00:10:36,810
+- You already believe that learning styles is right.
+
+231
+00:10:36,810 --> 00:10:39,600
+When you have an experience the first think you think is,
+
+232
+00:10:39,600 --> 00:10:42,260
+is that in some way consistent with learning styles?
+
+233
+00:10:42,260 --> 00:10:43,830
+And if it is, you don't think further.
+
+234
+00:10:43,830 --> 00:10:45,000
+- When in reality that diagram
+
+235
+00:10:45,000 --> 00:10:49,240
+might just be a great diagram that would have helped anyone learn.
+
+236
+00:10:49,240 --> 00:10:52,230
+When we already believe the world to be a certain way,
+
+237
+00:10:52,230 --> 00:10:55,690
+then we interpret new experiences to fit with those beliefs
+
+238
+00:10:55,690 --> 00:10:57,908
+whether they actually do or not.
+
+239
+00:10:57,908 --> 00:11:02,440
+So if learning styles don't improve learning, then what does?
+
+240
+00:11:02,440 --> 00:11:04,500
+Well, there's a large body of literature that supports the claim that
+
+241
+00:11:03,720 --> 00:11:07,330
+everyone learns better with multimodal approaches
+
+242
+00:11:07,330 --> 00:11:09,980
+where words and pictures are presented together
+
+243
+00:11:09,980 --> 00:11:12,600
+rather than either words or pictures alone.
+
+244
+00:11:12,600 --> 00:11:15,090
+Now there's gonna be words as well as the picture.
+
+245
+00:11:15,090 --> 00:11:17,060
+We're gonna see if this is any better.
+
+246
+00:11:17,060 --> 00:11:19,500
+This is known as the multimedia effect,
+
+247
+00:11:19,500 --> 00:11:21,430
+and it explains in part, at least,
+
+248
+00:11:21,430 --> 00:11:24,220
+why videos can be such powerful tools for learning
+
+249
+00:11:24,220 --> 00:11:26,920
+when the narration complements the visuals.
+
+250
+00:11:26,920 --> 00:11:28,013
+Duck.
+- Duck.
+
+251
+00:11:30,134 --> 00:11:31,720
+- Heart.
+- Heart.
+
+252
+00:11:31,720 --> 00:11:36,140
+- In my PhD research, I found explicit discussion of misconceptions was essential
+
+253
+00:11:36,140 --> 00:11:38,830
+in multimedia teaching for introductory physics.
+
+254
+00:11:38,830 --> 00:11:40,050
+- How many is that?
+- Six.
+
+255
+00:11:40,050 --> 00:11:41,030
+- Six, okay, that's good.
+
+256
+00:11:41,030 --> 00:11:43,490
+- That is a whole 50% better.
+
+257
+00:11:43,490 --> 00:11:44,948
+Do you think that was easier?
+
+258
+00:11:44,948 --> 00:11:47,980
+- Yeah, yeah, 100%, 100%.
+- Yeah, with the words, yeah.
+
+259
+00:11:47,980 --> 00:11:50,214
+- Ultimately, the most important thing for learning
+
+260
+00:11:50,214 --> 00:11:52,980
+is not the way the information is presented
+
+261
+00:11:52,980 --> 00:11:55,990
+but what is happening inside the learner's head.
+
+262
+00:11:55,990 --> 00:11:59,000
+People learn best when they're actively thinking about the material,
+
+263
+00:11:59,000 --> 00:12:04,010
+solving problems or imagining what happens if different variables change.
+
+264
+00:12:04,010 --> 00:12:06,290
+I talked about how and why we learn best
+
+265
+00:12:06,290 --> 00:12:09,690
+in my video, "The Science of Thinking" so check that out.
+
+266
+00:12:09,690 --> 00:12:14,220
+Now, the truth is, there are many evidence-based teaching methods that improve learning.
+
+267
+00:12:14,220 --> 00:12:17,810
+Learning styles is just not one of them.
+
+268
+00:12:17,810 --> 00:12:21,830
+And it is likely, given the prevalence of the learning styles misconception
+
+269
+00:12:21,830 --> 00:12:24,210
+that it actually makes learning worse.
+
+270
+00:12:24,210 --> 00:12:27,800
+I mean, learning styles give teachers unnecessary things to worry about,
+
+271
+00:12:27,130 --> 00:12:32,650
+and they make some students reluctant to engage with certain types of instruction.
+
+272
+00:12:32,650 --> 00:12:35,600
+And all the time and money spent on learning styles and related training
+
+273
+00:12:35,600 --> 00:12:40,180
+could be better spent on interventions that actually improve learning.
+
+274
+00:12:40,180 --> 00:12:45,200
+You are not a visual learner nor an auditory learner nor a kinesthetic learner,
+
+275
+00:12:45,200 --> 00:12:50,400
+or more accurately, you are all these kinds of learner in one.
+
+276
+00:12:50,400 --> 00:12:52,470
+The best learning experiences are those
+
+277
+00:12:52,470 --> 00:12:56,620
+that involve multiple different ways of understanding the same thing.
+
+278
+00:12:56,620 --> 00:13:03,435
+And best of all, this strategy works not just for one subset of people but for everyone.
+
