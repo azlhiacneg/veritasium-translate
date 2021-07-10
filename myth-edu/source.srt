@@ -1,78 +1,100 @@
 1
 00:00:00,000 --> 00:00:01,987
 - This video is about learning styles.
+这是一个关于学习风格的视频
 
 2
 00:00:01,987 --> 00:00:03,950
 What kind of learner are you?
+你是哪种学习者？
 
 3
 00:00:03,950 --> 00:00:05,893
-- Oh yeah, I'm a visual person so I have to see things, yeah.
+- Oh yeah, I'm a visual person
+啊，我是视觉型的那种
+
+so I have to see things, yeah.
+所以我得看着东西来学
 
 4
 00:00:05,060 --> 00:00:05,893
 - Oh yeah, same.
+- 我也一样
 
 5
 00:00:05,893 --> 00:00:07,630
 - I think visual learner.
+- 视觉型的
 
 6
 00:00:07,630 --> 00:00:08,463
 - Visual.
+- 视觉那种
 
 7
 00:00:08,463 --> 00:00:11,040
 - I mean, like, I remember formulas like auditory.
+- 我用听的方式来记公式
 
 8
 00:00:11,040 --> 00:00:13,260
 - I need to be like, interacting with the material.
+- 我要用交互式的方式去学
 
 9
 00:00:13,260 --> 00:00:15,010
 - I like to learn by doing it myself.
+- 我喜欢通过自己动手来学
 
 10
 00:00:15,010 --> 00:00:15,843
 - Very hands-on.
+- 上手去做
 
 11
 00:00:15,843 --> 00:00:16,820
 - Hands-on learner.
+- 动手的那种类型
 
 12
 00:00:16,820 --> 00:00:17,653
 - Hands-on?
+- 要上手的
 
 13
 00:00:17,653 --> 00:00:20,430
 - So like, if I have a model, I'd like to look at that and look it over.
+- 比如我拿着个模型，我倾向仔细去看它
 
 14
 00:00:20,430 --> 00:00:23,030
 - Part of this video was sponsored by Google Search.
+- 本视频部分内容由不存在的搜索引擎赞助
 
 15
 00:00:25,040 --> 00:00:27,000
 There is this idea in education that
+教育领域普遍认为
 
 16
 00:00:27,000 --> 00:00:29,210
 everyone has their own preferred way of learning,
+每个人都有自己所倾向的学习方式
 
 17
 00:00:29,210 --> 00:00:31,160
 their so-called learning style.
+也就是通常所说的学习风格
 
 18
 00:00:31,160 --> 00:00:33,840
 If information is presented in accordance with the learning style,
+如果呈现信息的方式和学生的学习风格相匹配
 
 19
 00:00:33,840 --> 00:00:36,090
 well, then they'll learn better.
+他们将能够学得更好
 
 20
 00:00:36,090 --> 00:00:38,950
@@ -81,291 +103,364 @@ Now, there are dozens of different learning style theories,
 21
 00:00:38,950 --> 00:00:41,500
 but the most common one identifies four main learning styles,
+其中最著名的那个指出有四种主要的学习方式
 
 22
 00:00:41,500 --> 00:00:47,132
 visual, auditory, reading-writing, and kinesthetic or VARK for short.
+视觉、听觉、读写以及动手，简称 VARK
 
 23
 00:00:47,132 --> 00:00:51,560
 Visual learners learn best from images, demonstrations, and pictures.
+视觉学习者从图像、图示等中学习效果最好
 
 24
 00:00:51,560 --> 00:00:54,110
 - People may say things, but I can't really take it in.
+有时别人通过说话的方式来教我 我吸收并不怎么样
 
 25
 00:00:54,110 --> 00:00:57,830
 I just gotta see 'em act it out or write it or something.
+我需要通过一些动作或者写出来这样来理解
 
 26
 00:00:57,830 --> 00:01:01,240
 - Auditory learners learn best from listening to an explanation.
+听觉学习者听别人讲解学习效果最佳
 
 27
 00:01:01,240 --> 00:01:04,410
 - Like in school, I was always engaged in the lecture
+- 在学校的时候我在课上很积极
 
 28
 00:01:04,410 --> 00:01:07,300
 and that was usually good enough to pass a test.
+也很有利于帮助我考试通过
 
 29
 00:01:07,300 --> 00:01:10,100
 - Reading-writing learners learn best from reading and writing.
+- 读写学习者通过读和写来达到最佳的学习效果
 
 30
 00:01:10,100 --> 00:01:13,610
 - Like I can get pretty much anything out of reading a textbook or something.
+- 我读课本的时候能读出挺多东西的
 
 31
 00:01:13,610 --> 00:01:16,010
-- And kinesthetic learners learn best by doing.
+- And kinesthetic learners learn best by doing,
+- 动手的学习者最有效的学习方式
 
 32
 00:01:16,010 --> 00:01:17,740
-Physically interacting with the world.
+physically interacting with the world.
+是真正的去接触东西，去实践
 
 33
 00:01:17,740 --> 00:01:18,573
 - Hands-on.
+- 上手去做
 
 34
 00:01:18,573 --> 00:01:20,500
 You have to touch things, you have to play with things,
+你需要去接触和把玩那些东西
 
 35
 00:01:20,500 --> 00:01:24,550
 you know, it's a contact sport. You have to do it yourself.
+这个东西是要接触的 你必须得亲自去做才能学到 [REVIEW: "it"?]
 
 36
 00:01:24,550 --> 00:01:27,530
 - I want to try something with you, a little experiment.
+- 我想和你来做个小实验
 
 37
 00:01:27,530 --> 00:01:29,067
 I want to show you 10 pictures of things
+- 我现在给你看十个东西的图
 
 38
 00:01:29,067 --> 00:01:31,400
 and I don't want you to say anything while you're looking at them,
+你看的时候不要说话
 
 39
 00:01:31,400 --> 00:01:34,660
 and at the end of the 10 you tell me how many you can remember.
+看完了以后把记得的告诉我
 
 40
 00:01:34,660 --> 00:01:35,493
 - Okay.
+好
 
 41
 00:01:35,493 --> 00:01:36,326
 - Okay?
 - Okay.
+- 可以吗
+- 可
 
 42
 00:01:36,326 --> 00:01:37,159
 - Okay.
+- 嗯
 
 43
 00:01:38,910 --> 00:01:43,510
 - Now, learning styles make intuitive sense because we know everyone is different.
+学习风格在直觉上挺合理的 我们都知道人和不一样
 
 44
 00:01:43,510 --> 00:01:45,960
 Some people have better spacial reasoning.
+有些人空间感知能力强
 
 45
 00:01:45,960 --> 00:01:48,580
 Others have better listening comprehension.
+有些人听力理解能力强
 
 46
 00:01:48,580 --> 00:01:50,210
 We know some people are better readers
+有些人读文章强
 
 47
 00:01:50,210 --> 00:01:52,540
 while others are good with their hands.
+有些人动手能力强
 
 48
 00:01:52,540 --> 00:01:56,430
 - It's sort of very much fits with a broad strain
+这和一直流传下来的
 
 49
 00:01:56,430 --> 00:02:00,180
 of thought in the recent Western tradition is,
+近代的西方思想非常吻合
 
 50
 00:02:00,180 --> 00:02:01,850
 we're all unique, we're all different.
+我们每个人都是独特、不同的
 
 51
 00:02:01,850 --> 00:02:04,157
 And so you don't want to say, like, everybody learns the same way.
+所以没必要每个人都用同一种方式来学习
 
 52
 00:02:04,157 --> 00:02:09,190
 That sort of conflicts with our feelings about what it means to be human.
+学习方式完全一致与人类的意义相冲突
 
 53
 00:02:09,190 --> 00:02:10,500
 - So doesn't it make sense that
+那这样说的话
 
 54
 00:02:12,190 --> 00:02:14,390
 people should learn better in their own preferred learning style?
+人们以自己的学习方式学习效果更好？
 
 55
 00:02:14,390 --> 00:02:16,720
 Well, teachers certainly seem to think so.
+啊，老师们当然这么想
 
 56
 00:02:16,720 --> 00:02:19,610
 A survey of nearly 400 teachers from the UK and
+英国和荷兰 400 名左右的教师里
 
 57
 00:02:19,410 --> 00:02:22,750
 the Netherlands found that over 90% believed that
+有超过 90% 的认为
 
 58
 00:02:22,750 --> 00:02:27,340
 individuals learn better when they receive information in their preferred learning style.
+学生以他们的学习风格接收信息学得更快
 
 59
 00:02:27,340 --> 00:02:30,000
 - Just like every professor has a different style of teaching,
+- 教授有不同的教学方式
 
 60
 00:02:30,000 --> 00:02:31,840
 you have a different style of learning.
+学生也有不同的学习方式
 
 61
 00:02:31,840 --> 00:02:34,000
 - But when his teacher starts using visuals,
+- 当老师开始使用视觉方式教学时
 
 62
 00:02:34,000 --> 00:02:36,910
 Johnathan finds it easier to focus and understand the material
+Johnathan 发现他理解课堂内容更快了 听课更专注了
 
 63
 00:02:36,910 --> 00:02:39,382
 so he might be a visual learner.
+因此他可能是个视觉学习者
 
 64
 00:02:39,382 --> 00:02:41,610
 - Can you tell me what that means to you?
+你能说一下作为一个视觉学习者
 
 65
 00:02:41,610 --> 00:02:43,360
 Like, what does it mean to be a visual learner?
+这对你来说有什么样的意义吗
 
 66
 00:02:43,360 --> 00:02:45,620
-- To me it means that… for me, to learn something,
+- To me it means that... for me, to learn something,
+- 对我来说 这意味着我学东西的时候
 
 67
 00:02:45,620 --> 00:02:48,250
 sometimes you need to draw it or I need to write it down
+有时得要画出来或者写下来
 
 68
 00:02:48,250 --> 00:02:51,080
 or I need to see a picture or a movie.
+或者看图像、影片
 
 69
 00:02:51,080 --> 00:02:55,000
 - For example, science classes, I get bored easily just listening
+例如科学课上听着听着我就睡着了
 
 70
 00:02:54,200 --> 00:02:59,140
 and I think it's more interesting for me to actually be able to do it.
+能让我上手做我会更喜欢这个课
 
 71
 00:02:59,140 --> 00:03:00,750
 - How do you know that you're a visual learner?
+- 你咋知道你是视觉学习者的
 
 72
 00:03:00,750 --> 00:03:02,253
 - I don't, I just assumed.
+- 不懂，我就觉得我是
 
 73
 00:03:03,380 --> 00:03:07,520
 - To take advantage of learning styles then teachers need to do two things.
+- 要把学生学习风格的优势运用起来 老师要做两件事
 
 74
 00:03:07,520 --> 00:03:11,120
 First, identify the learning style of each of their students.
+首先他们要弄清楚他们各个学生的学习风格
 
 75
 00:03:11,120 --> 00:03:15,550
 And second, teach each student in accordance with their learning style.
+然后根据各个学生的学习风格来教学
 
 76
 00:03:15,550 --> 00:03:17,200
 On the VARK website it says,
+在 VARK 的网站上
 
 77
 00:03:19,120 --> 00:03:22,720
 once you know about VARK, its power to explain things will be a revelation.
+它说你一旦知道了这东西 你便知道了如何教别人的惊天秘密
 
 78
 00:03:22,720 --> 00:03:25,310
 But before you take an online learning styles quiz,
+但是在你跑去测你的学习风格之前
 
 79
 00:03:25,310 --> 00:03:29,060
 it's a good idea to ask, do learning styles even exist?
+想想看 学习风格真的存在吗？
 
 80
 00:03:29,060 --> 00:03:30,260
 I mean, do you have one?
+你有学习风格吗？
 
 81
 00:03:30,260 --> 00:03:35,320
 And if you're taught in accordance with it, would you learn better?
+如果有人按着你的学习风格教你 你会学得更好吗
 
 82
 00:03:35,320 --> 00:03:38,363
 Well, you could test this by running a randomized control trial
+这个东西可以通过一个控制变量的随机试验来检验
 
 83
 00:03:38,363 --> 00:03:40,620
 where first you would identify learners
+首先你先找到一批的不同学习风格的学习者
 
 84
 00:03:40,620 --> 00:03:43,800
 with at least two different learning styles, say visual and auditory
+假设他们的学习风格有视觉和听觉的
 
 85
 00:03:43,800 --> 00:03:48,840
 and then randomly assign learners to one of two educational presentations,
+然后把他们随机分到两个课堂里
 
 86
 00:03:48,840 --> 00:03:50,870
 one visual, one auditory.
+一个视觉教学，一个听觉教学
 
 87
 00:03:50,870 --> 00:03:54,700
 So for half of the students, the experience will match their learning style
+那这样一半的学生会以他们的学习方式学习
 
 88
 00:03:54,700 --> 00:03:57,000
 and for the other half it won't.
+另外一半则不会
 
 89
 00:03:57,000 --> 00:03:59,930
 And then you give everyone the same test.
+在此之后给他们一份测试题
 
 90
 00:03:59,930 --> 00:04:02,350
 If the learning style hypothesis is correct,
+如果学习风格的假说是对的
 
 91
 00:04:02,350 --> 00:04:05,000
 the results should show better performance when the presentation
+去的课堂的教授方式和他们学习风格一致的学生
 
 92
 00:04:04,270 --> 00:04:08,613
 matches the learning style than when they're mismatched.
+应该考得比那些不一致的学生要好
 
 93
 00:04:09,830 --> 00:04:14,090
