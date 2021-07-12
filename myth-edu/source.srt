@@ -99,6 +99,7 @@ well, then they'll learn better.
 20
 00:00:36,090 --> 00:00:38,950
 Now, there are dozens of different learning style theories,
+现在关于学习风格的理论有很多
 
 21
 00:00:38,950 --> 00:00:41,500
@@ -455,7 +456,7 @@ If the learning style hypothesis is correct,
 91
 00:04:02,350 --> 00:04:05,000
 the results should show better performance when the presentation
-去的课堂的教授方式和他们学习风格一致的学生
+那些去教授方式和他们学习风格一致课堂的学生
 
 92
 00:04:04,270 --> 00:04:08,613
@@ -465,301 +466,383 @@ matches the learning style than when they're mismatched.
 93
 00:04:09,830 --> 00:04:14,090
 I tried a very unscientific version of this experiment on the street.
+我在大街上很不严谨地进行了一下这个实验
 
 94
 00:04:14,090 --> 00:04:16,637
 For some people, I matched their learning style
+对于一部分人，我展示这些东西的方式和他们的学习风格一致
 
 95
 00:04:16,637 --> 00:04:21,149
 so I showed visual learners pictures of 10 items,
+例如我给（一部分）视觉学习者看了十个事物的图像
 
 96
 00:04:21,149 --> 00:04:25,819
 but for other visual learners I read out the items instead.
+但是对于另一部分的视觉学习者 我则是把这些东西读出来
 
 97
 00:04:25,819 --> 00:04:29,810
 Bell, penguin, sun.
+铃铛、企鹅、太阳
 
 98
 00:04:29,810 --> 00:04:30,780
 - Okay, I'm maxed out.
+- 好了我就记得这么多了~~别念了~~
 
 99
 00:04:30,780 --> 00:04:32,033
 - How many can you remember?
+- 你记住了多少？
 
 100
 00:04:32,033 --> 00:04:32,866
 - I don't know.
+- 不懂了
 
 101
 00:04:32,866 --> 00:04:37,280
 - Hair, knife, duck, heart, butterfly.
+- 头发、刀、鸭、心、蝴蝶
 
 102
 00:04:38,800 --> 00:04:42,230
 - Apple, bicycle, guitar.
+- 苹果、单车、吉他
 
 103
 00:04:42,230 --> 00:04:43,313
 - There was a spider.
+- 蜘蛛
 
 104
 00:04:44,240 --> 00:04:45,400
 Did I say eye already?
+眼睛说过了吗
 
 105
 00:04:45,400 --> 00:04:47,040
 - Trumpet, pear.
 - Pear.
+- 小号，梨
+- 梨
 
 106
 00:04:47,040 --> 00:04:48,340
 - Butterfly.
 - Duck.
+- 蝴蝶
+- 鸭鸭
 
 107
 00:04:48,340 --> 00:04:49,350
 - Knife.
 - Boat.
+- 刀
+- 船
 
 108
 00:04:49,350 --> 00:04:50,200
 - Heart.
 - Knife.
+- 心
+- 刀
 
 109
 00:04:50,200 --> 00:04:51,033
 - Heart.
+- 心
 
 110
 00:04:51,033 --> 00:04:53,390
 - I couldn't tell you the rest, that's all I got.
+- 我就记得这么多了
 
 111
 00:04:53,390 --> 00:04:54,840
 - Most people could remember
+- 许多人都只记住了
 
 112
 00:04:54,840 --> 00:04:56,897
 only about five or six things.
+五到六件事物
 
 113
 00:04:56,897 --> 00:04:58,227
 - Yeah, yeah.
 - Six, six is not bad.
+六个 不错
 
 114
 00:04:58,227 --> 00:04:59,060
 - All right.
+- 好吧
 
 115
 00:04:59,060 --> 00:05:00,420
 - Six.
 - Six out of 10
+- 六个
+- 十个里面记住了六个
 
 116
 00:05:00,420 --> 00:05:02,007
 which is not bad, right?
 - Oh, all right, yeah.
+不错
+- 好
 
 117
 00:05:02,007 --> 00:05:03,170
 - That's a passing score.
+- 及格了
 
 118
 00:05:03,170 --> 00:05:04,003
 Candle.
 - Oh.
+蜡烛
+- 啊...
 
 119
 00:05:04,003 --> 00:05:05,475
 - Candle.
 - Everyone forgets the candle.
+- 蜡烛
+- 没人记得蜡烛
 
 120
 00:05:05,475 --> 00:05:08,540
 But a few could remember substantially more,
+不过有几个人记得还挺多的
 
 121
 00:05:08,540 --> 00:05:10,380
 say, eight or nine items.
+记了七八个
 
 122
 00:05:10,380 --> 00:05:12,432
 - Bug, I don't know if I said bug.
+- 我说过虫虫了吗
 
 123
 00:05:12,432 --> 00:05:17,432
 Guitar, bike, eye, bell, spoon, sun, chair.
+吉他，单车，眼睛，铃铛，勺子，太阳，椅子
 
 124
 00:05:17,450 --> 00:05:18,710
 I'm forgetting the last two.
+最后两个不记得了
 
 125
 00:05:18,710 --> 00:05:20,270
 - That's pretty good.
 - Eight is really good.
+- 很棒了
+- 八个真的挺不错了
 
 126
 00:05:20,270 --> 00:05:21,103
 - Oh, cool.
+- 好诶
 
 127
 00:05:21,103 --> 00:05:22,050
 - Nine?
 - Nine out of 10.
+- 九个
+- 十个里记住了九个
 
 128
 00:05:22,050 --> 00:05:24,900
 - Nine, very impressive.
+- 九个，真的好强
 
 129
 00:05:24,900 --> 00:05:27,000
 But the reason didn't seem to be
+但是看上去原因并不在于
 
 130
 00:05:27,000 --> 00:05:29,930
 because the presentation matched their preferred learning style
+告诉他们的方式和他们的学习风格一致
 
 131
 00:05:29,930 --> 00:05:33,112
 but because they employed a memory strategy.
+而是因为他们用了记忆的技巧
 
 132
 00:05:33,112 --> 00:05:36,047
 - So as you were showing I was making an order in my head.
+- 你在给我看的时候我脑内就形成了一个顺序
 
 133
 00:05:36,047 --> 00:05:39,250
 So as I saw more I would just add it to the list
+新加进来一个我就把它加到列表里
 
 134
 00:05:39,250 --> 00:05:41,240
 and I was repeating the list as I was looking at them
+我回答的时候就会像把这个列表念出来一样
 
 135
 00:05:41,240 --> 00:05:42,600
 so I could just say it out loud.
+所以就挺轻松的
 
 136
 00:05:42,600 --> 00:05:46,580
 - Did you try a strategy while you were looking at those pictures?
+- 你记忆的时候用了什么特殊技巧吗
 
 137
 00:05:44,788 --> 00:05:46,580
 - Yeah, yeah.
+- 是
 
 138
 00:05:46,580 --> 00:05:49,263
 So I guess I tried creating a story
+我把它们连成了一个故事
 
 139
 00:05:49,263 --> 00:05:52,660
 'cause it's easier to remember a story than just individual objects.
+这样记起来比这些零散的要轻松
 
 140
 00:05:52,660 --> 00:05:55,190
 So I tried to tie it all into one story.
+所以我刚刚尝试把它串成故事
 
 141
 00:05:55,190 --> 00:05:57,370
 - This is all obviously anecdotal evidence,
+当然这不是太正经的依据了
 
 142
 00:05:57,370 --> 00:06:01,220
 but rigorous studies like the one I outlined have been conducted.
+但是实际上类似的研究已经做过了
 
 143
 00:06:01,220 --> 00:06:04,790
 For example, one looked at visualizers versus verbalizers
+他研究的不是视觉或者听觉学习者
 
 144
 00:06:04,790 --> 00:06:06,966
 instead of visual versus auditory learners.
+而是图形学习者和文字学习者
 
 145
 00:06:06,966 --> 00:06:09,600
 The study was computer-based,
+这是一个基于计算机的测试
 
 146
 00:06:09,600 --> 00:06:12,500
 so first students' learning styles were assessed using questions like,
+首先这些学生会回答一些问题
 
 147
 00:06:12,500 --> 00:06:17,440
 would you rather read a paragraph or see a diagram describing an atom?
+例如你喜欢看原子的文字还是示意图的描述
 
 148
 00:06:17,440 --> 00:06:20,520
 The researchers also provided some challenging explanations
+研究者还整了一些复杂的介绍
 
 149
 00:06:20,520 --> 00:06:24,110
 with two buttons, visual help or verbal help.
+配上“图形解说”和“文字解说”的两个按钮
 
 150
 00:06:24,110 --> 00:06:26,290
 The visual one played a short animation
+图形解说会放一个小动画
 
 151
 00:06:26,290 --> 00:06:29,670
 whereas the verbal help gave a written explanation.
+文字解说则会弹出一段文字
 
 152
 00:06:29,670 --> 00:06:30,700
 From these measures combined,
+通过这些方式
 
 153
 00:06:32,100 --> 00:06:35,280
 the researchers categorized the students as either visualizers or verbalizers
+研究者将这些学生分成了视觉和文字学习者两类
 
 154
 00:06:35,280 --> 00:06:37,470
 and then the students were randomly assigned
+然后将他们随机分配到一个电子电路课堂
 
 155
 00:06:37,470 --> 00:06:42,220
 to go through a text-based or picture-based lesson on electronics.
+这个课堂有文字和图像两种授课方式
 
 156
 00:06:42,220 --> 00:06:46,560
-When a student hovered their mouse over key words in the lesson in the text-based group,
+When a student hovered their mouse over key words 
+当学生把指针悬停在关键词上时
 
 157
 00:06:46,560 --> 00:06:48,810
-a definition and clarification came up.
+in the lesson in the text-based group, a definition and clarification came up.
+文字授课方式的课堂将显示它的定义和解释
 
 158
 00:06:48,810 --> 00:06:50,130
 But in the picture group,
+而图像授课方式的课堂
 
 159
 00:06:50,130 --> 00:06:52,780
 an annotated diagram was shown instead.
+则是显示一个示意图
 
 160
 00:06:52,780 --> 00:06:56,710
 And after the lesson, the students did a test to assess their learning.
+上完课后，测试者发给学生一套测试题来检验学习情况
 
 161
 00:06:56,710 --> 00:07:00,000
 The students whose preferred learning style matched their instruction
+测试结果表明学习的方式与学习风格一致的学生
 
 162
 00:06:58,470 --> 00:07:05,200
 performed no better on the tests than those whose instruction was mismatched.
+并没有比不一致的好
 
 163
 00:07:05,200 --> 00:07:09,250
 The researchers ran the test again with 61 non-college-educated adults
+测试者还在 61 个没受过大学教育的学生上做了同样的测试
 
 164
 00:07:09,250 --> 00:07:11,364
 and found exactly the same result.
+结果是一致的
 
 165
 00:07:11,364 --> 00:07:13,886
