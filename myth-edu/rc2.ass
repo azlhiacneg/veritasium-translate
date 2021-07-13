@@ -1,0 +1,585 @@
+﻿[Script Info]
+PlayDepth: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: no
+ScriptType: v4.00+
+Title: 0
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: English,MonyharOS Sans SC Medium,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,4,1
+Style: Chinese,MonyharOS Sans SC Medium,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,20,1
+Style: Caption,MonyharOS Sans SC Medium,20,&H00FFFFFF,&H000000FF,&H00DC712B,&H00000000,0,0,0,0,100,100,0,0,3,2,0,4,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.98,Chinese,,0,0,0,,这期视频我们聊聊「学习风格」
+Dialogue: 0,0:00:00.00,0:00:01.98,English,,0,0,0,,- This video is about learning styles.
+Dialogue: 0,0:00:01.98,0:00:03.95,Chinese,,0,0,0,,你是哪种学习者？
+Dialogue: 0,0:00:01.98,0:00:03.95,English,,0,0,0,,What kind of learner are you?
+Dialogue: 0,0:00:03.95,0:00:05.89,Chinese,,0,0,0,,{\an3}呃  我是视觉型的那种  所以我得看着东西来学
+Dialogue: 0,0:00:03.95,0:00:05.89,English,,0,0,0,,{\an3}- Oh yeah, I'm a visual person so I have to see things, yeah.
+Dialogue: 0,0:00:05.06,0:00:05.89,Chinese,,0,0,0,,{\an1}- 我也一样
+Dialogue: 0,0:00:05.06,0:00:05.89,English,,0,0,0,,{\an1}- Oh yeah, same.
+Dialogue: 0,0:00:05.89,0:00:07.63,Chinese,,0,0,0,,- 我觉得是视觉型
+Dialogue: 0,0:00:05.89,0:00:07.63,English,,0,0,0,,- I think visual learner.
+Dialogue: 0,0:00:07.63,0:00:08.46,Chinese,,0,0,0,,- 视觉型
+Dialogue: 0,0:00:07.63,0:00:08.46,English,,0,0,0,,- Visual.
+Dialogue: 0,0:00:08.46,0:00:11.04,Chinese,,0,0,0,,- 我用听的方式来记公式
+Dialogue: 0,0:00:08.46,0:00:11.04,English,,0,0,0,,- I mean, like, I remember formulas like auditory.
+Dialogue: 0,0:00:11.04,0:00:13.26,Chinese,,0,0,0,,- 我要用交互式的方式去学
+Dialogue: 0,0:00:11.04,0:00:13.26,English,,0,0,0,,- I need to be like, interacting with the material.
+Dialogue: 0,0:00:13.26,0:00:15.01,Chinese,,0,0,0,,- 我喜欢通过自己动手来学
+Dialogue: 0,0:00:13.26,0:00:15.01,English,,0,0,0,,- I like to learn by doing it myself.
+Dialogue: 0,0:00:15.01,0:00:15.84,Chinese,,0,0,0,,- 上手去做
+Dialogue: 0,0:00:15.01,0:00:15.84,English,,0,0,0,,- Very hands-on.
+Dialogue: 0,0:00:15.84,0:00:16.82,Chinese,,0,0,0,,- 动手的那种类型
+Dialogue: 0,0:00:15.84,0:00:16.82,English,,0,0,0,,- Hands-on learner.
+Dialogue: 0,0:00:16.82,0:00:17.65,Chinese,,0,0,0,,- 要上手的
+Dialogue: 0,0:00:16.82,0:00:17.65,English,,0,0,0,,- Hands-on?
+Dialogue: 0,0:00:17.65,0:00:20.43,Chinese,,0,0,0,,- 比如我拿着个模型，我倾向于仔细地把它里外看个遍
+Dialogue: 0,0:00:17.65,0:00:20.43,English,,0,0,0,,- So like, if I have a model, I'd like to look at that and look it over.
+Dialogue: 0,0:00:20.43,0:00:23.03,Chinese,,0,0,0,,- 本视频部分内容由不存在的搜索引擎赞助
+Dialogue: 0,0:00:20.43,0:00:23.03,English,,0,0,0,,- Part of this video was sponsored by Google Search.
+Dialogue: 0,0:00:25.04,0:00:27.14,Chinese,,0,0,0,,教育领域普遍认为
+Dialogue: 0,0:00:25.04,0:00:27.14,English,,0,0,0,,There is this idea in education that
+Dialogue: 0,0:00:27.14,0:00:29.21,Chinese,,0,0,0,,每个人都有自己所倾向的学习方式
+Dialogue: 0,0:00:27.14,0:00:29.21,English,,0,0,0,,everyone has their own preferred way of learning,
+Dialogue: 0,0:00:29.21,0:00:31.16,Chinese,,0,0,0,,也就是通常所说的学习风格
+Dialogue: 0,0:00:29.21,0:00:31.16,English,,0,0,0,,their so-called learning style.
+Dialogue: 0,0:00:31.16,0:00:33.84,Chinese,,0,0,0,,如果呈现信息的方式和学生的学习风格相匹配
+Dialogue: 0,0:00:31.16,0:00:33.84,English,,0,0,0,,If information is presented in accordance with the learning style,
+Dialogue: 0,0:00:33.84,0:00:36.00,Chinese,,0,0,0,,他们将能够学得更好
+Dialogue: 0,0:00:33.84,0:00:36.00,English,,0,0,0,,well, then they'll learn better.
+Dialogue: 0,0:00:36.00,0:00:38.89,Chinese,,0,0,0,,现如今  人们提出了几十种有关教育风格的理论
+Dialogue: 0,0:00:36.00,0:00:38.89,English,,0,0,0,,Now, there are dozens of different learning style theories,
+Dialogue: 0,0:00:38.89,0:00:42.21,Chinese,,0,0,0,,其中最广为认知的理论指出  有四种主要的学习方式
+Dialogue: 0,0:00:38.89,0:00:42.21,English,,0,0,0,,but the most common one identifies four main learning styles,
+Dialogue: 0,0:00:42.21,0:00:47.31,Chinese,,0,0,0,,视觉、听觉、读写以及动手，简称 VARK
+Dialogue: 0,0:00:42.21,0:00:47.31,English,,0,0,0,,visual, auditory, reading-writing, and kinesthetic or VARK for short.
+Dialogue: 0,0:00:47.32,0:00:51.56,Chinese,,0,0,0,,视觉学习者从图像、图示等中学习效果最好
+Dialogue: 0,0:00:47.32,0:00:51.56,English,,0,0,0,,Visual learners learn best from images, demonstrations, and pictures.
+Dialogue: 0,0:00:51.56,0:00:54.01,Chinese,,0,0,0,,靠别人的言语来让我理解事物  效果并不好
+Dialogue: 0,0:00:51.56,0:00:54.01,English,,0,0,0,,- People may say things, but I can't really take it in.
+Dialogue: 0,0:00:54.01,0:00:57.77,Chinese,,0,0,0,,我需要通过一些动作或者写出来这样来理解
+Dialogue: 0,0:00:54.01,0:00:57.77,English,,0,0,0,,I just gotta see 'em act it out or write it or something.
+Dialogue: 0,0:00:57.77,0:01:01.17,Chinese,,0,0,0,,听觉学习者听别人讲解学习效果最佳
+Dialogue: 0,0:00:57.77,0:01:01.17,English,,0,0,0,,- Auditory learners learn best from listening to an explanation.
+Dialogue: 0,0:01:01.17,0:01:04.33,Chinese,,0,0,0,,- 在学校的时候我在课上很积极
+Dialogue: 0,0:01:01.17,0:01:04.33,English,,0,0,0,,- Like in school, I was always engaged in the lecture
+Dialogue: 0,0:01:04.33,0:01:07.22,Chinese,,0,0,0,,也很有利于帮助我考试通过
+Dialogue: 0,0:01:04.33,0:01:07.22,English,,0,0,0,,and that was usually good enough to pass a test.
+Dialogue: 0,0:01:07.22,0:01:10.05,Chinese,,0,0,0,,- 读写学习者通过读和写来达到最佳的学习效果
+Dialogue: 0,0:01:07.22,0:01:10.05,English,,0,0,0,,- Reading-writing learners learn best from reading and writing.
+Dialogue: 0,0:01:10.05,0:01:13.54,Chinese,,0,0,0,,- 我读课本的时候能读出挺多东西的
+Dialogue: 0,0:01:10.05,0:01:13.54,English,,0,0,0,,- Like I can get pretty much anything out of reading a textbook or something.
+Dialogue: 0,0:01:13.54,0:01:15.19,Chinese,,0,0,0,,- 动手的学习者最有效的学习方式
+Dialogue: 0,0:01:13.54,0:01:15.19,English,,0,0,0,,- And kinesthetic learners learn best
+Dialogue: 0,0:01:15.19,0:01:17.65,Chinese,,0,0,0,,是真正的去接触东西，去实践
+Dialogue: 0,0:01:15.19,0:01:17.65,English,,0,0,0,,by doing physically interacting with the world.
+Dialogue: 0,0:01:17.65,0:01:18.32,Chinese,,0,0,0,,- 上手去做
+Dialogue: 0,0:01:17.65,0:01:18.32,English,,0,0,0,,- Hands-on.
+Dialogue: 0,0:01:18.32,0:01:20.73,Chinese,,0,0,0,,你需要去接触和把玩那些东西
+Dialogue: 0,0:01:18.32,0:01:20.73,English,,0,0,0,,You have to touch things, you have to play with things,
+Dialogue: 0,0:01:21.19,0:01:24.48,Chinese,,0,0,0,,做东西是要亲身接触的  必须得亲自动手做
+Dialogue: 0,0:01:21.19,0:01:24.48,English,,0,0,0,,you know, it's a contact sport. You have to do it yourself.
+Dialogue: 0,0:01:24.48,0:01:27.53,Chinese,,0,0,0,,- 我想和你来做个小实验
+Dialogue: 0,0:01:24.48,0:01:27.53,English,,0,0,0,,- I want to try something with you, a little experiment.
+Dialogue: 0,0:01:27.53,0:01:29.06,Chinese,,0,0,0,,- 我现在给你看十张图  有十个东西
+Dialogue: 0,0:01:27.53,0:01:29.06,English,,0,0,0,,I want to show you 10 pictures of things
+Dialogue: 0,0:01:29.06,0:01:31.40,Chinese,,0,0,0,,你看的时候不要说话
+Dialogue: 0,0:01:29.06,0:01:31.40,English,,0,0,0,,and I don't want you to say anything while you're looking at them,
+Dialogue: 0,0:01:31.40,0:01:34.55,Chinese,,0,0,0,,看完这10个东西后  把你记得的东西告诉我
+Dialogue: 0,0:01:31.40,0:01:34.55,English,,0,0,0,,and at the end of the 10 you tell me how many you can remember.
+Dialogue: 0,0:01:34.56,0:01:35.01,Chinese,,0,0,0,,好
+Dialogue: 0,0:01:34.56,0:01:35.01,English,,0,0,0,,- Okay.
+Dialogue: 0,0:01:35.01,0:01:35.50,Chinese,,0,0,0,,- 可以吗
+Dialogue: 0,0:01:35.01,0:01:35.50,English,,0,0,0,,- Okay?
+Dialogue: 0,0:01:35.50,0:01:36.40,Chinese,,0,0,0,,- 嗯
+Dialogue: 0,0:01:35.50,0:01:36.40,English,,0,0,0,,- Okay. ×2
+Dialogue: 0,0:01:38.85,0:01:43.45,Chinese,,0,0,0,,乍一看  存在不同的学习风格很合理  因为每个人都是独特的
+Dialogue: 0,0:01:38.85,0:01:43.45,English,,0,0,0,,- Now, learning styles make intuitive sense because we know everyone is different.
+Dialogue: 0,0:01:43.45,0:01:45.90,Chinese,,0,0,0,,有些人空间感知能力强
+Dialogue: 0,0:01:43.45,0:01:45.90,English,,0,0,0,,Some people have better spacial reasoning.
+Dialogue: 0,0:01:45.90,0:01:48.52,Chinese,,0,0,0,,有些人听力理解能力强
+Dialogue: 0,0:01:45.90,0:01:48.52,English,,0,0,0,,Others have better listening comprehension.
+Dialogue: 0,0:01:48.52,0:01:50.21,Chinese,,0,0,0,,有些人读文章强
+Dialogue: 0,0:01:48.52,0:01:50.21,English,,0,0,0,,We know some people are better readers
+Dialogue: 0,0:01:50.21,0:01:52.49,Chinese,,0,0,0,,有些人动手能力强
+Dialogue: 0,0:01:50.21,0:01:52.49,English,,0,0,0,,while others are good with their hands.
+Dialogue: 0,0:01:52.49,0:01:57.40,Caption,,0,0,0,,{\fad(1500,1500)}​ 丹尼尔 · 威灵汉 ​\N​ 弗吉尼亚州大学  心理学教授 ​
+Dialogue: 0,0:01:52.49,0:01:56.43,Chinese,,0,0,0,,这和一直流传下来的
+Dialogue: 0,0:01:52.49,0:01:56.43,English,,0,0,0,,- It's sort of very much fits with a broad strain
+Dialogue: 0,0:01:56.43,0:02:00.18,Chinese,,0,0,0,,近代的西方思想非常吻合
+Dialogue: 0,0:01:56.43,0:02:00.18,English,,0,0,0,,of thought in the recent Western tradition is,
+Dialogue: 0,0:02:00.18,0:02:01.85,Chinese,,0,0,0,,我们每个人都是独特、不同的
+Dialogue: 0,0:02:00.18,0:02:01.85,English,,0,0,0,,we're all unique, we're all different.
+Dialogue: 0,0:02:01.85,0:02:04.15,Chinese,,0,0,0,,所以我们会觉得  所有人不可能会用同一种方法来学习
+Dialogue: 0,0:02:01.85,0:02:04.15,English,,0,0,0,,And so you don't want to say, like, everybody learns the same way.
+Dialogue: 0,0:02:04.15,0:02:09.12,Chinese,,0,0,0,,我们多少会感觉  统一的学习风格并不符合我们的直觉
+Dialogue: 0,0:02:04.15,0:02:09.12,English,,0,0,0,,That sort of conflicts with our feelings about what it means to be human.
+Dialogue: 0,0:02:09.12,0:02:14.31,Chinese,,0,0,0,,人们使用自己偏好的学习风格  效果会更好  感觉好像挺合理？ 人们使用自己偏好的学习风格  效果会更好  感觉好像挺合理？
+Dialogue: 0,0:02:09.12,0:02:10.80,English,,0,0,0,,- So doesn't it make sense that
+Dialogue: 0,0:02:10.80,0:02:14.31,English,,0,0,0,,people should learn better in their own preferred learning style?
+Dialogue: 0,0:02:14.31,0:02:16.68,Chinese,,0,0,0,,啊，老师们当然这么想
+Dialogue: 0,0:02:14.31,0:02:16.68,English,,0,0,0,,Well, teachers certainly seem to think so.
+Dialogue: 0,0:02:16.68,0:02:20.07,Chinese,,0,0,0,,英国和荷兰 400 名左右的教师里
+Dialogue: 0,0:02:16.68,0:02:20.07,English,,0,0,0,,A survey of nearly 400 teachers from the UK and the Netherlands
+Dialogue: 0,0:02:20.07,0:02:22.75,Chinese,,0,0,0,,逾九成人相信
+Dialogue: 0,0:02:20.07,0:02:22.75,English,,0,0,0,,found that over 90% believed that
+Dialogue: 0,0:02:22.75,0:02:27.34,Chinese,,0,0,0,,如果学生接收的信息符合他们偏好的学习风格  学生会学得更快
+Dialogue: 0,0:02:22.75,0:02:27.34,English,,0,0,0,,individuals learn better when they receive information in their preferred learning style.
+Dialogue: 0,0:02:27.34,0:02:30.00,Chinese,,0,0,0,,- 教授有不同的教学方式
+Dialogue: 0,0:02:27.34,0:02:30.00,English,,0,0,0,,- Just like every professor has a different style of teaching,
+Dialogue: 0,0:02:30.00,0:02:31.84,Chinese,,0,0,0,,学生也有不同的学习方式
+Dialogue: 0,0:02:30.00,0:02:31.84,English,,0,0,0,,you have a different style of learning.
+Dialogue: 0,0:02:31.84,0:02:34.00,Chinese,,0,0,0,,- 当老师开始使用视觉方式教学时
+Dialogue: 0,0:02:31.84,0:02:34.00,English,,0,0,0,,- But when his teacher starts using visuals,
+Dialogue: 0,0:02:34.00,0:02:36.91,Chinese,,0,0,0,,乔纳森发现  他理解课堂内容更快了  听课更专注了
+Dialogue: 0,0:02:34.00,0:02:36.91,English,,0,0,0,,Johnathan finds it easier to focus and understand the material
+Dialogue: 0,0:02:36.91,0:02:39.50,Chinese,,0,0,0,,因此他可能是个视觉学习者
+Dialogue: 0,0:02:36.91,0:02:39.50,English,,0,0,0,,so he might be a visual learner.
+Dialogue: 0,0:02:40.02,0:02:41.61,Chinese,,0,0,0,,你能说一下作为一个视觉学习者
+Dialogue: 0,0:02:40.02,0:02:41.61,English,,0,0,0,,- Can you tell me what that means to you?
+Dialogue: 0,0:02:41.61,0:02:43.36,Chinese,,0,0,0,,这对你来说有什么样的意义吗
+Dialogue: 0,0:02:41.61,0:02:43.36,English,,0,0,0,,Like, what does it mean to be a visual learner?
+Dialogue: 0,0:02:43.36,0:02:45.62,Chinese,,0,0,0,,- 对我来说 这意味着我学东西的时候
+Dialogue: 0,0:02:43.36,0:02:45.62,English,,0,0,0,,- To me it means that... for me, to learn something,
+Dialogue: 0,0:02:45.62,0:02:48.17,Chinese,,0,0,0,,有时得要画出来或者写下来
+Dialogue: 0,0:02:45.62,0:02:48.17,English,,0,0,0,,sometimes you need to draw it or I need to write it down
+Dialogue: 0,0:02:48.17,0:02:50.99,Chinese,,0,0,0,,或者看图像、影片
+Dialogue: 0,0:02:48.17,0:02:50.99,English,,0,0,0,,or I need to see a picture or a movie.
+Dialogue: 0,0:02:50.99,0:02:55.00,Chinese,,0,0,0,,例如科学课上听着听着我就睡着了
+Dialogue: 0,0:02:50.99,0:02:55.00,English,,0,0,0,,- For example, science classes, I get bored easily just listening
+Dialogue: 0,0:02:55.00,0:02:59.14,Chinese,,0,0,0,,我觉得  要是能让我上手做的话  我会更喜欢这个课
+Dialogue: 0,0:02:55.00,0:02:59.14,English,,0,0,0,,and I think it's more interesting for me to actually be able to do it.
+Dialogue: 0,0:02:59.14,0:03:00.68,Chinese,,0,0,0,,- 你咋知道你是视觉学习者的
+Dialogue: 0,0:02:59.14,0:03:00.68,English,,0,0,0,,- How do you know that you're a visual learner?
+Dialogue: 0,0:03:00.68,0:03:02.25,Chinese,,0,0,0,,- 我没法证明  我只是猜的
+Dialogue: 0,0:03:00.68,0:03:02.25,English,,0,0,0,,- I don't, I just assumed.
+Dialogue: 0,0:03:03.35,0:03:07.52,Chinese,,0,0,0,,- 要把学生学习风格的优势运用起来 老师要做两件事
+Dialogue: 0,0:03:03.35,0:03:07.52,English,,0,0,0,,- To take advantage of learning styles then teachers need to do two things.
+Dialogue: 0,0:03:07.52,0:03:11.12,Chinese,,0,0,0,,首先他们要弄清楚他们各个学生的学习风格
+Dialogue: 0,0:03:07.52,0:03:11.12,English,,0,0,0,,First, identify the learning style of each of their students.
+Dialogue: 0,0:03:11.12,0:03:15.38,Chinese,,0,0,0,,然后根据各个学生的学习风格来教学
+Dialogue: 0,0:03:11.12,0:03:15.38,English,,0,0,0,,And second, teach each student in accordance with their learning style.
+Dialogue: 0,0:03:15.87,0:03:17.73,Chinese,,0,0,0,,在 VARK 的网站上
+Dialogue: 0,0:03:15.87,0:03:17.73,English,,0,0,0,,On the VARK website it says,
+Dialogue: 0,0:03:17.73,0:03:22.64,Chinese,,0,0,0,,它说你一旦知道了这东西 你便知道了如何教别人的惊天秘密
+Dialogue: 0,0:03:17.73,0:03:22.64,English,,0,0,0,,once you know about VARK, its power to explain things will be a revelation.
+Dialogue: 0,0:03:22.64,0:03:25.24,Chinese,,0,0,0,,但是在你跑去测你的学习风格之前
+Dialogue: 0,0:03:22.64,0:03:25.24,English,,0,0,0,,But before you take an online learning styles quiz,
+Dialogue: 0,0:03:25.24,0:03:28.96,Chinese,,0,0,0,,不妨思考一下  学习风格真的存在吗？
+Dialogue: 0,0:03:25.24,0:03:28.96,English,,0,0,0,,it's a good idea to ask, do learning styles even exist?
+Dialogue: 0,0:03:28.96,0:03:30.19,Chinese,,0,0,0,,你有学习风格吗？
+Dialogue: 0,0:03:28.96,0:03:30.19,English,,0,0,0,,I mean, do you have one?
+Dialogue: 0,0:03:30.19,0:03:35.23,Chinese,,0,0,0,,如果有人按着你的学习风格教你  你会学得更好吗
+Dialogue: 0,0:03:30.19,0:03:35.23,English,,0,0,0,,And if you're taught in accordance with it, would you learn better?
+Dialogue: 0,0:03:35.23,0:03:38.60,Chinese,,0,0,0,,这个东西可以通过一个控制变量的随机试验来检验
+Dialogue: 0,0:03:35.23,0:03:38.60,English,,0,0,0,,Well, you could test this by running a randomized control trial
+Dialogue: 0,0:03:38.61,0:03:42.40,Chinese,,0,0,0,,先找一批至少有两种学习风格的学习者
+Dialogue: 0,0:03:38.61,0:03:42.40,English,,0,0,0,,where first you would identify learners with at least two different learning styles,
+Dialogue: 0,0:03:42.40,0:03:44.46,Chinese,,0,0,0,,比如  视觉和听觉
+Dialogue: 0,0:03:42.40,0:03:44.46,English,,0,0,0,,say visual and auditory
+Dialogue: 0,0:03:44.47,0:03:48.84,Chinese,,0,0,0,,然后把他们随机分到两个课堂里
+Dialogue: 0,0:03:44.47,0:03:48.84,English,,0,0,0,,and then randomly assign learners to one of two educational presentations,
+Dialogue: 0,0:03:48.84,0:03:50.87,English,,0,0,0,,one visual, one auditory.
+Dialogue: 0,0:03:48.84,0:03:50.87,Chinese,,0,0,0,,一组视觉教学  一组听觉教学
+Dialogue: 0,0:03:50.87,0:03:54.70,Chinese,,0,0,0,,那这样一半的学生会以他们的学习方式学习
+Dialogue: 0,0:03:50.87,0:03:54.70,English,,0,0,0,,So for half of the students, the experience will match their learning style
+Dialogue: 0,0:03:54.70,0:03:56.92,Chinese,,0,0,0,,另外一半则不会
+Dialogue: 0,0:03:54.70,0:03:56.92,English,,0,0,0,,and for the other half it won't.
+Dialogue: 0,0:03:56.92,0:03:59.88,Chinese,,0,0,0,,在此之后给他们一份测试题
+Dialogue: 0,0:03:56.92,0:03:59.88,English,,0,0,0,,And then you give everyone the same test.
+Dialogue: 0,0:03:59.88,0:04:02.35,Chinese,,0,0,0,,如果学习风格的假说是对的
+Dialogue: 0,0:03:59.88,0:04:02.35,English,,0,0,0,,If the learning style hypothesis is correct,
+Dialogue: 0,0:04:02.35,0:04:05.23,Chinese,,0,0,0,,在匹配自身学习风格的课堂里  上课的学生
+Dialogue: 0,0:04:02.35,0:04:05.23,English,,0,0,0,,the results should show better performance when the presentation
+Dialogue: 0,0:04:05.24,0:04:08.61,Chinese,,0,0,0,,应该考得比那些风格不匹配的学生要好
+Dialogue: 0,0:04:05.24,0:04:08.61,English,,0,0,0,,matches the learning style than when they're mismatched.
+Dialogue: 0,0:04:09.77,0:04:14.09,Chinese,,0,0,0,,我在大街上做了次不太严谨的这个实验
+Dialogue: 0,0:04:09.77,0:04:14.09,English,,0,0,0,,I tried a very unscientific version of this experiment on the street.
+Dialogue: 0,0:04:14.09,0:04:17.00,Chinese,,0,0,0,,对于一部分人，我展示这些东西的方式和他们的学习风格一致
+Dialogue: 0,0:04:14.09,0:04:17.00,English,,0,0,0,,For some people, I matched their learning style
+Dialogue: 0,0:04:17.00,0:04:21.14,Chinese,,0,0,0,,例如我给（一部分）视觉学习者看了十个事物的图像
+Dialogue: 0,0:04:17.00,0:04:21.14,English,,0,0,0,,so I showed visual learners pictures of 10 items,
+Dialogue: 0,0:04:21.14,0:04:25.49,Chinese,,0,0,0,,但是对于另一部分的视觉学习者 我则是把这些东西读出来
+Dialogue: 0,0:04:21.14,0:04:25.49,English,,0,0,0,,but for other visual learners I read out the items instead.
+Dialogue: 0,0:04:26.01,0:04:29.74,Chinese,,0,0,0,,铃铛、企鹅、太阳
+Dialogue: 0,0:04:26.01,0:04:29.74,English,,0,0,0,,Bell, penguin, sun.
+Dialogue: 0,0:04:29.74,0:04:30.71,Chinese,,0,0,0,,- 好了我就记得这么多了   {\s1}别念了{\s0}
+Dialogue: 0,0:04:29.74,0:04:30.71,English,,0,0,0,,- Okay, I'm maxed out.
+Dialogue: 0,0:04:30.71,0:04:31.90,Chinese,,0,0,0,,- 你记住了多少？
+Dialogue: 0,0:04:30.71,0:04:31.90,English,,0,0,0,,- How many can you remember?
+Dialogue: 0,0:04:31.90,0:04:32.49,Chinese,,0,0,0,,- 不懂了
+Dialogue: 0,0:04:31.90,0:04:32.49,English,,0,0,0,,- I don't know.
+Dialogue: 0,0:04:32.49,0:04:38.72,Chinese,,0,0,0,,- 头发、刀、鸭、心、蝴蝶
+Dialogue: 0,0:04:32.49,0:04:38.72,English,,0,0,0,,- Hair, knife, duck, heart, butterfly.
+Dialogue: 0,0:04:38.72,0:04:42.17,Chinese,,0,0,0,,- 苹果、单车、吉他
+Dialogue: 0,0:04:38.72,0:04:42.17,English,,0,0,0,,- Apple, bicycle, guitar.
+Dialogue: 0,0:04:42.17,0:04:43.31,Chinese,,0,0,0,,- 蜘蛛
+Dialogue: 0,0:04:42.17,0:04:43.31,English,,0,0,0,,- There was a spider.
+Dialogue: 0,0:04:44.18,0:04:45.34,Chinese,,0,0,0,,眼睛说过了吗
+Dialogue: 0,0:04:44.18,0:04:45.34,English,,0,0,0,,Did I say eye already?
+Dialogue: 0,0:04:45.34,0:04:46.98,Chinese,,0,0,0,,{\an3}- 小号，梨
+Dialogue: 0,0:04:45.34,0:04:46.98,English,,0,0,0,,{\an3}- Trumpet, pear.
+Dialogue: 0,0:04:46.22,0:04:46.55,Chinese,,0,0,0,,{\an1}- 梨
+Dialogue: 0,0:04:46.22,0:04:46.55,English,,0,0,0,,{\an1}- Pear.
+Dialogue: 0,0:04:46.98,0:04:47.62,Chinese,,0,0,0,,{\an3}- 蝴蝶
+Dialogue: 0,0:04:46.98,0:04:47.62,English,,0,0,0,,{\an3}- Butterfly.
+Dialogue: 0,0:04:47.62,0:04:48.20,Chinese,,0,0,0,,{\an1}- 鸭
+Dialogue: 0,0:04:47.62,0:04:48.70,Chinese,,0,0,0,,{\an2}- 刀
+Dialogue: 0,0:04:47.62,0:04:48.20,English,,0,0,0,,{\an1}- Duck.
+Dialogue: 0,0:04:47.62,0:04:48.70,English,,0,0,0,,{\an2}- Knife. ×2
+Dialogue: 0,0:04:48.71,0:04:49.32,Chinese,,0,0,0,,{\an3}- 船
+Dialogue: 0,0:04:48.71,0:04:49.32,English,,0,0,0,,{\an3}- Boat.
+Dialogue: 0,0:04:49.32,0:04:49.72,Chinese,,0,0,0,,{\an1}- 心
+Dialogue: 0,0:04:49.32,0:04:49.72,English,,0,0,0,,{\an1}- Heart.
+Dialogue: 0,0:04:49.72,0:04:50.14,Chinese,,0,0,0,,{\an2}- 刀
+Dialogue: 0,0:04:49.72,0:04:50.14,English,,0,0,0,,{\an2}- Knife.
+Dialogue: 0,0:04:50.14,0:04:50.54,Chinese,,0,0,0,,{\an3}- 心
+Dialogue: 0,0:04:50.14,0:04:50.54,English,,0,0,0,,{\an3}- Heart.
+Dialogue: 0,0:04:51.03,0:04:53.30,Chinese,,0,0,0,,- 我就记得这么多了
+Dialogue: 0,0:04:51.03,0:04:53.30,English,,0,0,0,,- I couldn't tell you the rest, that's all I got.
+Dialogue: 0,0:04:53.30,0:04:56.89,Chinese,,0,0,0,,- 许多人都只记住了五到六件事物
+Dialogue: 0,0:04:53.30,0:04:56.89,English,,0,0,0,,- Most people could remember only about five or six things.
+Dialogue: 0,0:04:56.89,0:04:59.06,Chinese,,0,0,0,,{\an3}- 好吧
+Dialogue: 0,0:04:56.89,0:04:59.06,English,,0,0,0,,{\an3}- Yeah, yeah. All right.
+Dialogue: 0,0:04:57.21,0:04:58.37,Chinese,,0,0,0,,{\an1}六个 不赖呀
+Dialogue: 0,0:04:57.21,0:04:58.37,English,,0,0,0,,{\an1}- Six, six is not bad.
+Dialogue: 0,0:04:59.06,0:04:59.40,Chinese,,0,0,0,,- 六个
+Dialogue: 0,0:04:59.06,0:04:59.40,English,,0,0,0,,- Six.
+Dialogue: 0,0:04:59.40,0:05:01.42,Chinese,,0,0,0,,{\an1}- 十个里面记住了六个  不错啊
+Dialogue: 0,0:04:59.40,0:05:01.42,English,,0,0,0,,{\an1}- Six out of 10, which is not bad, right?
+Dialogue: 0,0:05:01.42,0:05:02.00,Chinese,,0,0,0,,- 好
+Dialogue: 0,0:05:01.42,0:05:02.00,English,,0,0,0,,- Oh, all right, yeah.
+Dialogue: 0,0:05:02.00,0:05:02.90,Chinese,,0,0,0,,{\an1}- 及格了
+Dialogue: 0,0:05:02.00,0:05:02.90,English,,0,0,0,,{\an1}- That's a passing score.
+Dialogue: 0,0:05:02.95,0:05:03.53,Chinese,,0,0,0,,{\an1}- 蜡烛
+Dialogue: 0,0:05:02.95,0:05:03.53,English,,0,0,0,,{\an1}- Candle.
+Dialogue: 0,0:05:03.16,0:05:04.38,Chinese,,0,0,0,,- 啊...\N- 蜡烛
+Dialogue: 0,0:05:03.16,0:05:04.38,English,,0,0,0,,- Oh.\N- Candle.
+Dialogue: 0,0:05:04.38,0:05:05.47,Chinese,,0,0,0,,{\an3}- 没人记得
+Dialogue: 0,0:05:04.38,0:05:05.47,English,,0,0,0,,{\an3}- Everyone forgets.
+Dialogue: 0,0:05:05.47,0:05:08.54,Chinese,,0,0,0,,不过有几个人记得还挺多的
+Dialogue: 0,0:05:05.47,0:05:08.54,English,,0,0,0,,But a few could remember substantially more,
+Dialogue: 0,0:05:08.54,0:05:10.38,Chinese,,0,0,0,,记了八九个
+Dialogue: 0,0:05:08.54,0:05:10.38,English,,0,0,0,,say, eight or nine items.
+Dialogue: 0,0:05:10.38,0:05:12.43,Chinese,,0,0,0,,- 我说过虫虫了吗
+Dialogue: 0,0:05:10.38,0:05:12.43,English,,0,0,0,,- Bug, I don't know if I said bug.
+Dialogue: 0,0:05:12.43,0:05:17.43,Chinese,,0,0,0,,吉他，单车，眼睛，铃铛，勺子，太阳，椅子
+Dialogue: 0,0:05:12.43,0:05:17.43,English,,0,0,0,,Guitar, bike, eye, bell, spoon, sun, chair.
+Dialogue: 0,0:05:17.45,0:05:18.71,Chinese,,0,0,0,,最后两个不记得了
+Dialogue: 0,0:05:17.45,0:05:18.71,English,,0,0,0,,I'm forgetting the last two.
+Dialogue: 0,0:05:18.71,0:05:19.26,Chinese,,0,0,0,,- 很棒了
+Dialogue: 0,0:05:18.71,0:05:19.26,English,,0,0,0,,- That's pretty good.
+Dialogue: 0,0:05:19.26,0:05:20.27,Chinese,,0,0,0,,{\an1}- 八个真的挺不错了
+Dialogue: 0,0:05:19.26,0:05:20.27,English,,0,0,0,,{\an1}- Eight is really good.
+Dialogue: 0,0:05:20.27,0:05:20.71,Chinese,,0,0,0,,- 好诶
+Dialogue: 0,0:05:20.27,0:05:20.71,English,,0,0,0,,- Oh, cool.
+Dialogue: 0,0:05:20.71,0:05:21.20,Chinese,,0,0,0,,- 九个
+Dialogue: 0,0:05:20.71,0:05:21.20,English,,0,0,0,,- Nine?
+Dialogue: 0,0:05:21.20,0:05:22.05,Chinese,,0,0,0,,{\an1}- 十个里记住了九个
+Dialogue: 0,0:05:21.20,0:05:22.05,English,,0,0,0,,{\an1}- Nine out of 10.
+Dialogue: 0,0:05:22.05,0:05:24.81,Chinese,,0,0,0,,- 九个  真的好强
+Dialogue: 0,0:05:22.05,0:05:24.81,English,,0,0,0,,- Nine, very impressive.
+Dialogue: 0,0:05:24.81,0:05:26.40,Chinese,,0,0,0,,但是看上去原因并不在于
+Dialogue: 0,0:05:24.81,0:05:26.40,English,,0,0,0,,But the reason didn't seem to be
+Dialogue: 0,0:05:26.40,0:05:29.93,Chinese,,0,0,0,,告诉他们的方式和他们的学习风格一致
+Dialogue: 0,0:05:26.40,0:05:29.93,English,,0,0,0,,because the presentation matched their preferred learning style
+Dialogue: 0,0:05:29.93,0:05:33.11,Chinese,,0,0,0,,而是因为他们在记忆时运用了技巧
+Dialogue: 0,0:05:29.93,0:05:33.11,English,,0,0,0,,but because they employed a memory strategy.
+Dialogue: 0,0:05:33.11,0:05:36.35,Chinese,,0,0,0,,- 你在给我看的时候我脑内就形成了一个顺序
+Dialogue: 0,0:05:33.11,0:05:36.35,English,,0,0,0,,- So as you were showing I was making an order in my head.
+Dialogue: 0,0:05:36.35,0:05:39.13,Chinese,,0,0,0,,新加进来一个我就把它加到列表里
+Dialogue: 0,0:05:36.35,0:05:39.13,English,,0,0,0,,So as I saw more I would just add it to the list
+Dialogue: 0,0:05:39.13,0:05:41.24,Chinese,,0,0,0,,我回答的时候就会像把这个列表念出来一样
+Dialogue: 0,0:05:39.13,0:05:41.24,English,,0,0,0,,and I was repeating the list as I was looking at them
+Dialogue: 0,0:05:41.24,0:05:42.41,Chinese,,0,0,0,,所以就挺轻松的
+Dialogue: 0,0:05:41.24,0:05:42.41,English,,0,0,0,,so I could just say it out loud.
+Dialogue: 0,0:05:42.41,0:05:45.88,Chinese,,0,0,0,,- 你记忆的时候用了什么特殊技巧吗
+Dialogue: 0,0:05:42.41,0:05:45.88,English,,0,0,0,,- Did you try a strategy while you were looking at those pictures?
+Dialogue: 0,0:05:44.68,0:05:46.48,Chinese,,0,0,0,,{\an3}- 是
+Dialogue: 0,0:05:44.68,0:05:46.48,English,,0,0,0,,{\an3}- Yeah, yeah.
+Dialogue: 0,0:05:46.58,0:05:49.54,Chinese,,0,0,0,,我把它们连成了一个故事
+Dialogue: 0,0:05:46.58,0:05:49.54,English,,0,0,0,,So I guess I tried creating a story
+Dialogue: 0,0:05:49.54,0:05:52.66,Chinese,,0,0,0,,这样记起来比这些零散的要轻松
+Dialogue: 0,0:05:49.54,0:05:52.66,English,,0,0,0,,'cause it's easier to remember a story than just individual objects.
+Dialogue: 0,0:05:52.66,0:05:55.11,Chinese,,0,0,0,,所以我刚刚尝试把它串成故事
+Dialogue: 0,0:05:52.66,0:05:55.11,English,,0,0,0,,So I tried to tie it all into one story.
+Dialogue: 0,0:05:55.11,0:05:57.37,Chinese,,0,0,0,,当然这不是太正经的依据了
+Dialogue: 0,0:05:55.11,0:05:57.37,English,,0,0,0,,- This is all obviously anecdotal evidence,
+Dialogue: 0,0:05:57.37,0:06:01.22,Chinese,,0,0,0,,但是类似的更严谨的研究已经有人做过了
+Dialogue: 0,0:05:57.37,0:06:01.22,English,,0,0,0,,but rigorous studies like the one I outlined have been conducted.
+Dialogue: 0,0:06:01.22,0:06:04.79,Chinese,,0,0,0,,有项研究  对比的是图形学习者和文字学习者
+Dialogue: 0,0:06:01.22,0:06:04.79,English,,0,0,0,,For example, one looked at visualizers versus verbalizers
+Dialogue: 0,0:06:04.79,0:06:07.21,Chinese,,0,0,0,,而非视觉、听觉学习者
+Dialogue: 0,0:06:04.79,0:06:07.21,English,,0,0,0,,instead of visual versus auditory learners.
+Dialogue: 0,0:06:07.21,0:06:09.60,Chinese,,0,0,0,,这是一个基于计算机的测试
+Dialogue: 0,0:06:07.21,0:06:09.60,English,,0,0,0,,The study was computer-based,
+Dialogue: 0,0:06:09.60,0:06:12.50,Chinese,,0,0,0,,首先这些学生会回答一些问题
+Dialogue: 0,0:06:09.60,0:06:12.50,English,,0,0,0,,so first students' learning styles were assessed using questions like,
+Dialogue: 0,0:06:12.50,0:06:17.44,Chinese,,0,0,0,,例如你喜欢看原子的文字还是示意图的描述
+Dialogue: 0,0:06:12.50,0:06:17.44,English,,0,0,0,,would you rather read a paragraph or see a diagram describing an atom?
+Dialogue: 0,0:06:17.44,0:06:20.47,Chinese,,0,0,0,,研究者还整了一些复杂的介绍
+Dialogue: 0,0:06:17.44,0:06:20.47,English,,0,0,0,,The researchers also provided some challenging explanations
+Dialogue: 0,0:06:20.47,0:06:24.11,Chinese,,0,0,0,,配上「图形解说」和「文字解说」的两个按钮
+Dialogue: 0,0:06:20.47,0:06:24.11,English,,0,0,0,,with two buttons, visual help or verbal help.
+Dialogue: 0,0:06:24.11,0:06:26.29,Chinese,,0,0,0,,图形解说会放一个小动画
+Dialogue: 0,0:06:24.11,0:06:26.29,English,,0,0,0,,The visual one played a short animation
+Dialogue: 0,0:06:26.29,0:06:29.67,Chinese,,0,0,0,,文字解说则会弹出一段文字
+Dialogue: 0,0:06:26.29,0:06:29.67,English,,0,0,0,,whereas the verbal help gave a written explanation.
+Dialogue: 0,0:06:29.67,0:06:30.86,Chinese,,0,0,0,,通过这些方式
+Dialogue: 0,0:06:29.67,0:06:30.86,English,,0,0,0,,From these measures combined,
+Dialogue: 0,0:06:30.87,0:06:35.21,Chinese,,0,0,0,,研究者将这些学生分成了图形和文字学习者两类
+Dialogue: 0,0:06:30.87,0:06:35.21,English,,0,0,0,,the researchers categorized the students as either visualizers or verbalizers
+Dialogue: 0,0:06:35.21,0:06:37.47,Chinese,,0,0,0,,然后将他们在一堂电路课里随机分配
+Dialogue: 0,0:06:35.21,0:06:37.47,English,,0,0,0,,and then the students were randomly assigned
+Dialogue: 0,0:06:37.47,0:06:42.11,Chinese,,0,0,0,,这堂课有文字和图像两种授课方式
+Dialogue: 0,0:06:37.47,0:06:42.11,English,,0,0,0,,to go through a text-based or picture-based lesson on electronics.
+Dialogue: 0,0:06:42.11,0:06:46.52,Chinese,,0,0,0,,当学生把指针悬停在关键词上时
+Dialogue: 0,0:06:42.11,0:06:46.52,English,,0,0,0,,When a student hovered their mouse over key words
+Dialogue: 0,0:06:46.52,0:06:48.81,Chinese,,0,0,0,,文字授课方式的课堂将显示它的定义和解释
+Dialogue: 0,0:06:46.52,0:06:48.81,English,,0,0,0,,in the lesson in the text-based group, a definition and clarification came up.
+Dialogue: 0,0:06:48.81,0:06:50.01,Chinese,,0,0,0,,而图像授课方式的课堂
+Dialogue: 0,0:06:48.81,0:06:50.01,English,,0,0,0,,But in the picture group,
+Dialogue: 0,0:06:50.01,0:06:52.78,Chinese,,0,0,0,,则是显示一个示意图
+Dialogue: 0,0:06:50.01,0:06:52.78,English,,0,0,0,,an annotated diagram was shown instead.
+Dialogue: 0,0:06:52.78,0:06:56.66,Chinese,,0,0,0,,上完课后  测试者发给学生一套测试题来检验学习情况
+Dialogue: 0,0:06:52.78,0:06:56.66,English,,0,0,0,,And after the lesson, the students did a test to assess their learning.
+Dialogue: 0,0:06:56.66,0:07:00.30,Chinese,,0,0,0,,学习方式符合自身学习风格的学生
+Dialogue: 0,0:06:56.66,0:07:00.30,English,,0,0,0,,The students whose preferred learning style matched their instruction
+Dialogue: 0,0:07:00.30,0:07:05.11,Chinese,,0,0,0,,在测试中的发挥  并没有比学习方式不合自身风格的同学好
+Dialogue: 0,0:07:00.30,0:07:05.11,English,,0,0,0,,performed no better on the tests than those whose instruction was mismatched.
+Dialogue: 0,0:07:05.11,0:07:09.25,Chinese,,0,0,0,,测试者还在 61 个没受过大学教育的学生上做了同样的测试
+Dialogue: 0,0:07:05.11,0:07:09.25,English,,0,0,0,,The researchers ran the test again with 61 non-college-educated adults
+Dialogue: 0,0:07:09.25,0:07:11.60,Chinese,,0,0,0,,结果是一致的
+Dialogue: 0,0:07:09.25,0:07:11.60,English,,0,0,0,,and found exactly the same result.
+Dialogue: 0,0:07:11.60,0:07:14.13,Chinese,,0,0,0,,但是  学习风格是种「偏好」
+Dialogue: 0,0:07:11.60,0:07:14.13,English,,0,0,0,,But learning styles are a preference
+Dialogue: 0,0:07:14.13,0:07:17.60,Chinese,,0,0,0,,那么  学生们的偏好是固定的吗
+Dialogue: 0,0:07:14.13,0:07:17.60,English,,0,0,0,,so how strongly do learners stick to their preference?
+Dialogue: 0,0:07:17.60,0:07:20.63,Chinese,,0,0,0,,在 2018 年的一项研究中  在学期伊始
+Dialogue: 0,0:07:17.60,0:07:20.63,English,,0,0,0,,Well, in a 2018 study during the first week of semester,
+Dialogue: 0,0:07:20.63,0:07:25.51,Chinese,,0,0,0,,印第安纳州一所大学的400多名学生  填写了VARK调查问卷
+Dialogue: 0,0:07:20.63,0:07:25.51,English,,0,0,0,,over 400 students at a university in Indiana completed the VARK questionnaire
+Dialogue: 0,0:07:25.51,0:07:28.00,Chinese,,0,0,0,,他们根据问卷得出的学习方法  被分为了四大组
+Dialogue: 0,0:07:25.51,0:07:28.00,English,,0,0,0,,and they were classified according to their learning style.
+Dialogue: 0,0:07:28.00,0:07:29.32,Chinese,,0,0,0,,到了学期结束时
+Dialogue: 0,0:07:28.00,0:07:29.32,English,,0,0,0,,Then at the end of the semester
+Dialogue: 0,0:07:29.32,0:07:32.38,Chinese,,0,0,0,,这帮学生又填写了实际学习策略的调查问卷
+Dialogue: 0,0:07:29.32,0:07:32.38,English,,0,0,0,,the same students completed a study strategy questionnaire.
+Dialogue: 0,0:07:32.72,0:07:35.78,Chinese,,0,0,0,,他们在这个学期实际上是怎么学的
+Dialogue: 0,0:07:32.72,0:07:35.78,English,,0,0,0,,So how did they actually study during the term?
+Dialogue: 0,0:07:35.78,0:07:37.99,Chinese,,0,0,0,,占压倒性多数的学生
+Dialogue: 0,0:07:35.78,0:07:37.99,English,,0,0,0,,Well, an overwhelming majority of students
+Dialogue: 0,0:07:37.99,0:07:42.58,Chinese,,0,0,0,,使用的学习策略反而并不符合自身的学习风格
+Dialogue: 0,0:07:37.99,0:07:42.58,English,,0,0,0,,used study strategies which were supposedly incompatible with their learning style,
+Dialogue: 0,0:07:42.58,0:07:44.49,Chinese,,0,0,0,,而极少数使用了相符策略的学生
+Dialogue: 0,0:07:42.58,0:07:44.49,English,,0,0,0,,and the minority of students who did
+Dialogue: 0,0:07:44.49,0:07:48.76,Chinese,,0,0,0,,在课程的考试中并没有与前者产生显著差异
+Dialogue: 0,0:07:44.49,0:07:48.76,English,,0,0,0,,did not perform significantly differently on the assessments in the course.
+Dialogue: 0,0:07:48.76,0:07:52.29,Chinese,,0,0,0,,视觉、听觉、读写、动手模型（即 VARK 模型）
+Dialogue: 0,0:07:48.76,0:07:52.29,English,,0,0,0,,The visual auditory reading-writing, kinesthetic or VARK model
+Dialogue: 0,0:07:52.29,0:07:56.04,Chinese,,0,0,0,,由新西兰的一位学校督学——尼尔・佛莱明提出
+Dialogue: 0,0:07:52.29,0:07:56.04,English,,0,0,0,,came about from Neil Fleming, a school inspector in New Zealand.
+Dialogue: 0,0:07:56.04,0:07:58.29,Chinese,,0,0,0,,他是这样描述他如何发明 VARK 的
+Dialogue: 0,0:07:56.04,0:07:58.29,English,,0,0,0,,Describing the origins of VARK he says,
+Dialogue: 0,0:07:58.29,0:08:02.43,Chinese,,0,0,0,,我观察到的现象让我困惑  厉害的老师也有教不会的学生
+Dialogue: 0,0:07:58.29,0:08:02.43,English,,0,0,0,,I was puzzled when I observed excellent teachers who did not reach some learners
+Dialogue: 0,0:08:02.43,0:08:04.16,Chinese,,0,0,0,,较差的老师也有能教得会的学生
+Dialogue: 0,0:08:02.43,0:08:04.16,English,,0,0,0,,and poor teachers who did.
+Dialogue: 0,0:08:04.16,0:08:06.29,Chinese,,0,0,0,,我想试试去解决这一问题
+Dialogue: 0,0:08:04.16,0:08:06.29,English,,0,0,0,,I decided to try to solve this puzzle.
+Dialogue: 0,0:08:06.29,0:08:09.49,Chinese,,0,0,0,,当然  我观察到了不少缘由
+Dialogue: 0,0:08:06.29,0:08:09.49,English,,0,0,0,,There are, of course, many reasons for what I observed.
+Dialogue: 0,0:08:09.49,0:08:14.08,Chinese,,0,0,0,,但我觉得有一个原因是最有说服力的
+Dialogue: 0,0:08:09.49,0:08:14.08,English,,0,0,0,,But one topic that seemed to hold some magic, some explanatory power,
+Dialogue: 0,0:08:14.08,0:08:17.80,Chinese,,0,0,0,,那就是「偏好的学习模式」或称「典型偏好」
+Dialogue: 0,0:08:14.08,0:08:17.80,English,,0,0,0,,was preferred modes of learning, modal preferences.
+Dialogue: 0,0:08:17.80,0:08:20.18,Chinese,,0,0,0,,VARK 因此而生
+Dialogue: 0,0:08:17.80,0:08:20.18,English,,0,0,0,,And thus, VARK was born.
+Dialogue: 0,0:08:20.18,0:08:24.91,Chinese,,0,0,0,,原来  研究并没有证明学生会天然的分成四个组别
+Dialogue: 0,0:08:20.18,0:08:24.91,English,,0,0,0,,There was no study that revealed students naturally cluster into four distinct groups.
+Dialogue: 0,0:08:24.91,0:08:26.66,Chinese,,0,0,0,,只是有什么魔法  或许能解释
+Dialogue: 0,0:08:24.91,0:08:26.66,English,,0,0,0,,Just some magic that might explain
+Dialogue: 0,0:08:26.66,0:08:29.88,Chinese,,0,0,0,,为什么有些老师能教得会学生  而有些不行
+Dialogue: 0,0:08:26.66,0:08:29.88,English,,0,0,0,,why some teachers can reach students while others can't.
+Dialogue: 0,0:08:29.88,0:08:31.43,Chinese,,0,0,0,,但其原理是什么
+Dialogue: 0,0:08:29.88,0:08:31.43,English,,0,0,0,,But how can this be?
+Dialogue: 0,0:08:31.43,0:08:33.70,Chinese,,0,0,0,,如果我们认可  有些人相对更擅长
+Dialogue: 0,0:08:31.43,0:08:33.70,English,,0,0,0,,If we accept that some people are more skilled at
+Dialogue: 0,0:08:33.70,0:08:38.65,Chinese,,0,0,0,,处理、记忆某几类因素  比如图像或声音
+Dialogue: 0,0:08:33.70,0:08:38.65,English,,0,0,0,,interpreting and remembering certain kinds of stimuli than others like visual or auditory,
+Dialogue: 0,0:08:38.65,0:08:43.59,Chinese,,0,0,0,,为何在学习或者回忆事物的测试中  显示不出差别呢
+Dialogue: 0,0:08:38.65,0:08:43.59,English,,0,0,0,,then why don't we see differences in learning or recall with different presentations?
+Dialogue: 0,0:08:43.60,0:08:46.48,Chinese,,0,0,0,,这是因为  其实人们需要记忆的东西
+Dialogue: 0,0:08:43.60,0:08:46.48,English,,0,0,0,,Well, it's because what we actually want people to recall
+Dialogue: 0,0:08:46.48,0:08:51.01,Chinese,,0,0,0,,并不是图像的精确性质  亦非声音的音调和质量
+Dialogue: 0,0:08:46.48,0:08:51.01,English,,0,0,0,,is not the precise nature of the images or the pitch or quality of the sound.
+Dialogue: 0,0:08:51.01,0:08:53.21,Chinese,,0,0,0,,要记的是各种表现形式背后的「实际含义」
+Dialogue: 0,0:08:51.01,0:08:53.21,English,,0,0,0,,It's the meaning behind the presentations.
+Dialogue: 0,0:08:53.21,0:08:57.52,Chinese,,0,0,0,,有些任务必然需要使用某一类特定的表现形式
+Dialogue: 0,0:08:53.21,0:08:57.52,English,,0,0,0,,There are some tasks that obviously require the use of a particular modality.
+Dialogue: 0,0:08:57.52,0:09:01.18,Chinese,,0,0,0,,比如说  学音乐肯定依赖于声音
+Dialogue: 0,0:08:57.52,0:09:01.18,English,,0,0,0,,Learning about music, for example, should have an auditory component.
+Dialogue: 0,0:09:01.18,0:09:05.05,Chinese,,0,0,0,,类似的  学地理肯定需要看地图
+Dialogue: 0,0:09:01.18,0:09:05.05,English,,0,0,0,,Similarly, learning about geography will involve looking at maps.
+Dialogue: 0,0:09:05.05,0:09:09.31,Chinese,,0,0,0,,有些人天生就比别人更擅长学习某类任务
+Dialogue: 0,0:09:05.05,0:09:09.31,English,,0,0,0,,And some people will have greater aptitude to learn one task over another.
+Dialogue: 0,0:09:09.31,0:09:13.83,Chinese,,0,0,0,,比如说  有绝对音感的人肯定更容易记住音乐中的音调
+Dialogue: 0,0:09:09.31,0:09:11.08,English,,0,0,0,,Someone with perfect pitch, for example,
+Dialogue: 0,0:09:11.09,0:09:13.83,English,,0,0,0,,will be better able to recall certain tones in music.
+Dialogue: 0,0:09:13.83,0:09:18.87,Chinese,,0,0,0,,视觉-空间推理能力强的人  能更准确地在国家地图上定位
+Dialogue: 0,0:09:13.83,0:09:15.82,English,,0,0,0,,Someone with excellent visual-spatial reasoning
+Dialogue: 0,0:09:15.82,0:09:18.87,English,,0,0,0,,will be better at learning the locations of countries on a map.
+Dialogue: 0,0:09:18.87,0:09:24.79,Chinese,,0,0,0,,但学习风格理论宣称  这些偏好性不管学啥东西都是不变的
+Dialogue: 0,0:09:18.87,0:09:20.93,English,,0,0,0,,But the claim of learning style theories is that
+Dialogue: 0,0:09:20.93,0:09:24.79,English,,0,0,0,,these preferences will be consistent across learning domains.
+Dialogue: 0,0:09:24.79,0:09:29.36,Chinese,,0,0,0,,有绝对音感的人  碰到一切声音信息时  都应该学得更快
+Dialogue: 0,0:09:24.79,0:09:29.36,English,,0,0,0,,The person with perfect pitch should learn everything better auditorily
+Dialogue: 0,0:09:29.36,0:09:31.70,Chinese,,0,0,0,,这很明显不合道理
+Dialogue: 0,0:09:29.36,0:09:31.70,English,,0,0,0,,but that is clearly not the case.
+Dialogue: 0,0:09:31.70,0:09:34.63,Chinese,,0,0,0,,大部分人学好地理靠的是地图
+Dialogue: 0,0:09:31.70,0:09:34.63,English,,0,0,0,,Most people will learn geography better with a map.
+Dialogue: 0,0:09:35.94,0:09:39.28,Chinese,,0,0,0,,专家审查了学习风格的文章后  一致得出
+Dialogue: 0,0:09:35.94,0:09:39.28,English,,0,0,0,,Review articles of learning styles consistently conclude
+Dialogue: 0,0:09:39.28,0:09:43.02,Chinese,,0,0,0,,尚没有显著的证据能证明学习风格真的存在
+Dialogue: 0,0:09:39.28,0:09:43.02,English,,0,0,0,,there is no credible evidence that learning styles exist.
+Dialogue: 0,0:09:43.03,0:09:45.42,Chinese,,0,0,0,,在 2009 年的审核中  研究者指出
+Dialogue: 0,0:09:43.03,0:09:45.42,English,,0,0,0,,In a 2009 review, the researchers note,
+Dialogue: 0,0:09:45.42,0:09:54.06,Chinese,,0,0,0,,学习风格论在教育界的流行  跟它缺乏可信证据的事实  形成了鲜明对比
+Dialogue: 0,0:09:45.42,0:09:48.10,English,,0,0,0,,the contrast between the enormous popularity
+Dialogue: 0,0:09:48.10,0:09:50.63,English,,0,0,0,,of the learning styles approach within education
+Dialogue: 0,0:09:50.63,0:09:54.06,English,,0,0,0,,and the lack of credible evidence for its utility is,
+Dialogue: 0,0:09:54.06,0:09:57.17,Chinese,,0,0,0,,我们认为这很离谱  这样的现状让我们很不安
+Dialogue: 0,0:09:54.06,0:09:57.17,English,,0,0,0,,in our opinion, striking and disturbing.
+Dialogue: 0,0:09:57.18,0:10:00.61,Chinese,,0,0,0,,要是对学生的学习风格进行分类有实际作用的话
+Dialogue: 0,0:09:57.18,0:10:00.61,English,,0,0,0,,If classification of students' learning styles has practical utility,
+Dialogue: 0,0:10:00.61,0:10:02.68,Chinese,,0,0,0,,我们还愿意去论证一下学习风格论
+Dialogue: 0,0:10:00.61,0:10:02.68,English,,0,0,0,,it remains to be demonstrated.
+Dialogue: 0,0:10:02.68,0:10:06.14,Chinese,,0,0,0,,我们本来期望的是  在遵循了相符的学习风格的情况下
+Dialogue: 0,0:10:02.68,0:10:06.14,English,,0,0,0,,- What we're expecting is, if your style was honored
+Dialogue: 0,0:10:06.14,0:10:10.80,Chinese,,0,0,0,,你应该比使用了相异学习风格的表现要更好
+Dialogue: 0,0:10:06.14,0:10:08.25,English,,0,0,0,,you're going to perform better than if
+Dialogue: 0,0:10:08.25,0:10:10.80,English,,0,0,0,,you had some experience that conflicted with your style.
+Dialogue: 0,0:10:10.80,0:10:15.59,Chinese,,0,0,0,,我们在这一点上看不到任何支持学习风格论的证据
+Dialogue: 0,0:10:10.80,0:10:15.59,English,,0,0,0,,And this is where we don't see any support for the learning styles theory.
+Dialogue: 0,0:10:15.59,0:10:17.58,Chinese,,0,0,0,,人们对学习风格论如此的深信不疑
+Dialogue: 0,0:10:15.59,0:10:17.58,English,,0,0,0,,- One of the reasons many people find learning styles
+Dialogue: 0,0:10:17.58,0:10:21.72,Chinese,,0,0,0,,或许是因为他们先相信学习风格是真实存在的
+Dialogue: 0,0:10:17.58,0:10:21.72,English,,0,0,0,,so convincing is because they already believe it to be true.
+Dialogue: 0,0:10:21.72,0:10:25.14,Chinese,,0,0,0,,他们可能已经相信自己是视觉学习者
+Dialogue: 0,0:10:21.72,0:10:25.14,English,,0,0,0,,For example, they might already think that they're a visual learner,
+Dialogue: 0,0:10:25.14,0:10:29.00,Chinese,,0,0,0,,如果老师给他们展示了一份图解  比如说自行车打气筒
+Dialogue: 0,0:10:25.14,0:10:29.00,English,,0,0,0,,and then when a teacher shows them a diagram of, say, a bike pump
+Dialogue: 0,0:10:29.00,0:10:30.88,Chinese,,0,0,0,,然后学生一下子开窍了
+Dialogue: 0,0:10:29.00,0:10:30.88,English,,0,0,0,,and suddenly the concept clicks,
+Dialogue: 0,0:10:30.88,0:10:34.31,Chinese,,0,0,0,,他们就认为  这恰好能作为证据  印证自己是个视觉学习着
+Dialogue: 0,0:10:30.88,0:10:34.31,English,,0,0,0,,well, they interpret this as evidence for their visual learning style.
+Dialogue: 0,0:10:34.31,0:10:36.76,Chinese,,0,0,0,,你先入为主的认为学习方法是正确的
+Dialogue: 0,0:10:34.31,0:10:36.76,English,,0,0,0,,- You already believe that learning styles is right.
+Dialogue: 0,0:10:36.76,0:10:39.50,Chinese,,0,0,0,,当你从实践中获得经验时  你第一时间先想
+Dialogue: 0,0:10:36.76,0:10:39.50,English,,0,0,0,,When you have an experience the first thing you think is,
+Dialogue: 0,0:10:39.50,0:10:42.20,Chinese,,0,0,0,,它符不符合我的学习风格
+Dialogue: 0,0:10:39.50,0:10:42.20,English,,0,0,0,,is that in some way consistent with learning styles?
+Dialogue: 0,0:10:42.20,0:10:43.76,Chinese,,0,0,0,,如果符合  你就不再深入思考了
+Dialogue: 0,0:10:42.20,0:10:43.76,English,,0,0,0,,And if it is, you don't think further.
+Dialogue: 0,0:10:43.76,0:10:49.09,Chinese,,0,0,0,,那个图解说不定只是一个对任何学习者都有帮助的优质图解
+Dialogue: 0,0:10:43.76,0:10:45.00,English,,0,0,0,,- When in reality that diagram
+Dialogue: 0,0:10:45.00,0:10:49.09,English,,0,0,0,,might just be a great diagram that would have helped anyone learn.
+Dialogue: 0,0:10:49.09,0:10:52.23,Chinese,,0,0,0,,你头脑中已经有了思维定势的框框  觉得世界就是这样运行的
+Dialogue: 0,0:10:49.09,0:10:52.23,English,,0,0,0,,When we already believe the world to be a certain way,
+Dialogue: 0,0:10:52.23,0:10:55.64,Chinese,,0,0,0,,然后把一切新的经验往框框里套
+Dialogue: 0,0:10:52.23,0:10:55.64,English,,0,0,0,,then we interpret new experiences to fit with those beliefs
+Dialogue: 0,0:10:55.64,0:10:57.68,Chinese,,0,0,0,,而忽略了这经验符不符合“框框”
+Dialogue: 0,0:10:55.64,0:10:57.68,English,,0,0,0,,whether they actually do or not.
+Dialogue: 0,0:10:58.31,0:11:02.44,Chinese,,0,0,0,,那么，如果学习风格对学习并无帮助，那什么才有帮助呢
+Dialogue: 0,0:10:58.31,0:11:02.44,English,,0,0,0,,So if learning styles don't improve learning, then what does?
+Dialogue: 0,0:11:02.44,0:11:04.50,Chinese,,0,0,0,,事实上  有大量文献支持的一个观点是
+Dialogue: 0,0:11:02.44,0:11:04.50,English,,0,0,0,,Well, there's a large body of literature that supports the claim that
+Dialogue: 0,0:11:03.72,0:11:07.33,Chinese,,0,0,0,,使用多种感官形式来学习的效果会优于单一形式
+Dialogue: 0,0:11:03.72,0:11:07.33,English,,0,0,0,,everyone learns better with multimodal approaches
+Dialogue: 0,0:11:07.33,0:11:12.60,Chinese,,0,0,0,,同时展示文本和图像的效果要优于只展现其中一者
+Dialogue: 0,0:11:07.33,0:11:09.98,English,,0,0,0,,where words and pictures are presented together
+Dialogue: 0,0:11:09.98,0:11:12.60,English,,0,0,0,,rather than either words or pictures alone.
+Dialogue: 0,0:11:12.60,0:11:15.09,Chinese,,0,0,0,,接下来  文字是和图像一起展示的
+Dialogue: 0,0:11:12.60,0:11:15.09,English,,0,0,0,,Now there's gonna be words as well as the picture.
+Dialogue: 0,0:11:15.09,0:11:16.97,Chinese,,0,0,0,,看看结果会不会更好一点
+Dialogue: 0,0:11:15.09,0:11:16.97,English,,0,0,0,,We're gonna see if this is any better.
+Dialogue: 0,0:11:16.98,0:11:19.43,Chinese,,0,0,0,,这种效应被称为「多媒体效应」
+Dialogue: 0,0:11:16.98,0:11:19.43,English,,0,0,0,,This is known as the multimedia effect,
+Dialogue: 0,0:11:19.43,0:11:21.36,Chinese,,0,0,0,,它至少在一定程度上解释了
+Dialogue: 0,0:11:19.43,0:11:21.36,English,,0,0,0,,and it explains in part, at least,
+Dialogue: 0,0:11:21.36,0:11:26.92,Chinese,,0,0,0,,拥有图像和旁白的视频  为什么能成为一种强大的学习工具
+Dialogue: 0,0:11:21.36,0:11:24.17,English,,0,0,0,,why videos can be such powerful tools for learning
+Dialogue: 0,0:11:24.17,0:11:26.92,English,,0,0,0,,when the narration complements the visuals.
+Dialogue: 0,0:11:26.92,0:11:27.60,Chinese,,0,0,0,,鸭子
+Dialogue: 0,0:11:26.92,0:11:27.60,English,,0,0,0,,- Duck.
+Dialogue: 0,0:11:27.60,0:11:28.14,Chinese,,0,0,0,,{\an3}鸭子
+Dialogue: 0,0:11:27.60,0:11:28.14,English,,0,0,0,,{\an3}- Duck.
+Dialogue: 0,0:11:30.13,0:11:30.68,Chinese,,0,0,0,,心
+Dialogue: 0,0:11:30.13,0:11:30.68,English,,0,0,0,,- Heart.
+Dialogue: 0,0:11:30.68,0:11:31.23,Chinese,,0,0,0,,{\an3}心
+Dialogue: 0,0:11:30.68,0:11:31.23,English,,0,0,0,,{\an3}- Heart.
+Dialogue: 0,0:11:31.64,0:11:33.28,Chinese,,0,0,0,,在我的博士研究中我发现
+Dialogue: 0,0:11:31.64,0:11:33.28,English,,0,0,0,,- In my PhD research, I found
+Dialogue: 0,0:11:33.28,0:11:36.10,Chinese,,0,0,0,,在物理学入门的多媒体教学中
+Dialogue: 0,0:11:33.28,0:11:36.10,English,,0,0,0,,explicit discussion of misconceptions was essential
+Dialogue: 0,0:11:36.10,0:11:38.74,Chinese,,0,0,0,,对错误概念的明确讨论是至关重要的
+Dialogue: 0,0:11:36.10,0:11:38.74,English,,0,0,0,,in multimedia teaching for introductory physics.
+Dialogue: 0,0:11:38.74,0:11:39.49,Chinese,,0,0,0,,几个了
+Dialogue: 0,0:11:38.74,0:11:39.49,English,,0,0,0,,- How many is that?
+Dialogue: 0,0:11:39.49,0:11:40.12,Chinese,,0,0,0,,六个
+Dialogue: 0,0:11:39.49,0:11:40.12,English,,0,0,0,,{\an1}- Six.
+Dialogue: 0,0:11:40.12,0:11:41.12,Chinese,,0,0,0,,六个，不错嘛
+Dialogue: 0,0:11:40.12,0:11:41.12,English,,0,0,0,,- Six, okay, that's good.
+Dialogue: 0,0:11:41.12,0:11:43.49,Chinese,,0,0,0,,这好了一半呢
+Dialogue: 0,0:11:41.12,0:11:43.49,English,,0,0,0,,- That is a whole 50% better.
+Dialogue: 0,0:11:43.49,0:11:45.05,Chinese,,0,0,0,,你觉得这样更简单吗
+Dialogue: 0,0:11:43.49,0:11:45.05,English,,0,0,0,,Do you think that was easier?
+Dialogue: 0,0:11:45.05,0:11:47.93,Chinese,,0,0,0,,- 对，百分百更简单
+Dialogue: 0,0:11:45.05,0:11:47.93,English,,0,0,0,,- Yeah, yeah, 100%, 100%.
+Dialogue: 0,0:11:45.52,0:11:47.07,Chinese,,0,0,0,,- 对，有了文字更简单，对
+Dialogue: 0,0:11:45.52,0:11:47.07,English,,0,0,0,,- Yeah, with the words, yeah.
+Dialogue: 0,0:11:47.94,0:11:50.50,Chinese,,0,0,0,,学习中最终极、最重要的特质
+Dialogue: 0,0:11:47.94,0:11:50.50,English,,0,0,0,,- Ultimately, the most important thing for learning
+Dialogue: 0,0:11:50.50,0:11:52.91,Chinese,,0,0,0,,不是呈现信息的方式
+Dialogue: 0,0:11:50.50,0:11:52.91,English,,0,0,0,,is not the way the information is presented
+Dialogue: 0,0:11:52.91,0:11:55.94,Chinese,,0,0,0,,而是学习者脑袋里有何过程
+Dialogue: 0,0:11:52.91,0:11:55.94,English,,0,0,0,,but what is happening inside the learner's head.
+Dialogue: 0,0:11:55.94,0:11:59.34,Chinese,,0,0,0,,人们学得最牢固的时候  是他们活跃地思考材料、
+Dialogue: 0,0:11:55.94,0:11:59.34,English,,0,0,0,,People learn best when they're actively thinking about the material,
+Dialogue: 0,0:11:59.34,0:12:03.91,Chinese,,0,0,0,,解决问题、或是想象不同变量的变化方式
+Dialogue: 0,0:11:59.34,0:12:03.91,English,,0,0,0,,solving problems or imagining what happens if different variables change.
+Dialogue: 0,0:12:03.92,0:12:06.29,Chinese,,0,0,0,,我之前聊过学习的最佳方式、为什么这方式最佳
+Dialogue: 0,0:12:03.92,0:12:06.29,English,,0,0,0,,I talked about how and why we learn best
+Dialogue: 0,0:12:06.29,0:12:09.59,Chinese,,0,0,0,,快去康康我之前的视频「思考的科学」
+Dialogue: 0,0:12:06.29,0:12:09.59,English,,0,0,0,,in my video, "The Science of Thinking" so check that out.
+Dialogue: 0,0:12:09.59,0:12:14.22,Chinese,,0,0,0,,真相是  有许多教学方法已得到证据佐证  有助于学习
+Dialogue: 0,0:12:09.59,0:12:14.22,English,,0,0,0,,Now, the truth is, there are many evidence-based teaching methods that improve learning.
+Dialogue: 0,0:12:14.22,0:12:17.72,Chinese,,0,0,0,,但学习风格论不能算在里面
+Dialogue: 0,0:12:14.22,0:12:17.72,English,,0,0,0,,Learning styles is just not one of them.
+Dialogue: 0,0:12:17.72,0:12:21.83,Chinese,,0,0,0,,鉴于对学习风格广泛存在的误解
+Dialogue: 0,0:12:17.72,0:12:21.83,English,,0,0,0,,And it is likely, given the prevalence of the learning styles misconception
+Dialogue: 0,0:12:21.83,0:12:24.21,Chinese,,0,0,0,,它很可能实际上会让学习效果更差
+Dialogue: 0,0:12:21.83,0:12:24.21,English,,0,0,0,,that it actually makes learning worse.
+Dialogue: 0,0:12:24.21,0:12:27.89,Chinese,,0,0,0,,我的意思是  学习风格论给教师带来了不必要的担心
+Dialogue: 0,0:12:24.21,0:12:27.89,English,,0,0,0,,I mean, learning styles give teachers unnecessary things to worry about,
+Dialogue: 0,0:12:27.89,0:12:32.65,Chinese,,0,0,0,,还导致一些学生不愿参与某些类别的教学
+Dialogue: 0,0:12:27.89,0:12:32.65,English,,0,0,0,,and they make some students reluctant to engage with certain types of instruction.
+Dialogue: 0,0:12:32.65,0:12:36.02,Chinese,,0,0,0,,在学习风格一脉的培训上浪费的时间和金钱
+Dialogue: 0,0:12:32.65,0:12:36.02,English,,0,0,0,,And all the time and money spent on learning styles and related training
+Dialogue: 0,0:12:36.02,0:12:40.18,Chinese,,0,0,0,,本可以更好地用于真正改善学习的措施上
+Dialogue: 0,0:12:36.02,0:12:40.18,English,,0,0,0,,could be better spent on interventions that actually improve learning.
+Dialogue: 0,0:12:40.18,0:12:45.64,Chinese,,0,0,0,,你并不是什么视觉、听觉、动手学习者
+Dialogue: 0,0:12:40.18,0:12:45.64,English,,0,0,0,,You are not a visual learner nor an auditory learner nor a kinesthetic learner,
+Dialogue: 0,0:12:45.65,0:12:50.31,Chinese,,0,0,0,,更准确地说  你是依赖于所有感官的学习者  是上面的集合体
+Dialogue: 0,0:12:45.65,0:12:50.31,English,,0,0,0,,or more accurately, you are all these kinds of learner in one.
+Dialogue: 0,0:12:50.31,0:12:56.61,Chinese,,0,0,0,,最好的学习实践  应囊括了对同一事物的多种理解角度
+Dialogue: 0,0:12:50.31,0:12:52.95,English,,0,0,0,,The best learning experiences are those that involve
+Dialogue: 0,0:12:52.95,0:12:56.61,English,,0,0,0,,multiple different ways of understanding the same thing.
+Dialogue: 0,0:12:56.62,0:13:03.43,Chinese,,0,0,0,,并且最好的是  这样的策略不是对一部分人  而是对所有人都适用
+Dialogue: 0,0:12:56.62,0:13:03.43,English,,0,0,0,,And best of all, this strategy works not just for one subset of people but for everyone.
