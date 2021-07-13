@@ -1,7 +1,7 @@
 1
 00:00:00,000 --> 00:00:01,987
 - This video is about learning styles.
-这是一个关于学习风格的视频
+这期视频我们聊聊「学习风格」
 
 2
 00:00:01,987 --> 00:00:03,950
@@ -10,11 +10,8 @@ What kind of learner are you?
 
 3
 00:00:03,950 --> 00:00:05,893
-- Oh yeah, I'm a visual person
-啊，我是视觉型的那种
-
-so I have to see things, yeah.
-所以我得看着东西来学
+- Oh yeah, I'm a visual person so I have to see things, yeah.
+呃  我是视觉型的那种  所以我得看着东西来学
 
 4
 00:00:05,060 --> 00:00:05,893
@@ -64,7 +61,7 @@ so I have to see things, yeah.
 13
 00:00:17,653 --> 00:00:20,430
 - So like, if I have a model, I'd like to look at that and look it over.
-- 比如我拿着个模型，我倾向仔细去看它
+- 比如我拿着个模型，我倾向于仔细地把它里外看个遍
 
 14
 00:00:20,430 --> 00:00:23,030
@@ -99,12 +96,12 @@ well, then they'll learn better.
 20
 00:00:36,090 --> 00:00:38,950
 Now, there are dozens of different learning style theories,
-现在关于学习风格的理论有很多
+现如今  人们提出了几十种有关教育风格的理论
 
 21
 00:00:38,950 --> 00:00:41,500
 but the most common one identifies four main learning styles,
-其中最著名的那个指出有四种主要的学习方式
+其中最广为认知的理论指出  有四种主要的学习方式
 
 22
 00:00:41,500 --> 00:00:47,132
@@ -119,7 +116,7 @@ Visual learners learn best from images, demonstrations, and pictures.
 24
 00:00:51,560 --> 00:00:54,110
 - People may say things, but I can't really take it in.
-有时别人通过说话的方式来教我 我吸收并不怎么样
+靠别人的言语来让我理解事物  效果并不好
 
 25
 00:00:54,110 --> 00:00:57,830
@@ -216,7 +213,7 @@ and at the end of the 10 you tell me how many you can remember.
 43
 00:01:38,910 --> 00:01:43,510
 - Now, learning styles make intuitive sense because we know everyone is different.
-学习风格在直觉上挺合理的 我们都知道人和不一样
+每个人都是独特的 这让我们感觉 大家自然而然会有不同的学习风格
 
 44
 00:01:43,510 --> 00:01:45,960
@@ -351,7 +348,7 @@ or I need to see a picture or a movie.
 70
 00:02:54,200 --> 00:02:59,140
 and I think it's more interesting for me to actually be able to do it.
-能让我上手做我会更喜欢这个课
+我觉得  要是能让我上手做的话  我会更喜欢这个课
 
 71
 00:02:59,140 --> 00:03:00,750
@@ -361,7 +358,7 @@ and I think it's more interesting for me to actually be able to do it.
 72
 00:03:00,750 --> 00:03:02,253
 - I don't, I just assumed.
-- 不懂，我就觉得我是
+- 我没法证明  我只是猜的
 
 73
 00:03:03,380 --> 00:03:07,520
@@ -456,12 +453,12 @@ If the learning style hypothesis is correct,
 91
 00:04:02,350 --> 00:04:05,000
 the results should show better performance when the presentation
-那些去教授方式和他们学习风格一致课堂的学生
+在匹配自身学习风格的课堂里  上课的学生
 
 92
 00:04:04,270 --> 00:04:08,613
 matches the learning style than when they're mismatched.
-应该考得比那些不一致的学生要好
+应该考得比那些风格不匹配的学生要好
 
 93
 00:04:09,830 --> 00:04:14,090
@@ -847,94 +844,117 @@ and found exactly the same result.
 165
 00:07:11,364 --> 00:07:13,886
 But learning styles are a preference
+但是  学习风格是种「偏好」
 
 166
 00:07:13,886 --> 00:07:17,710
 so how strongly do learners stick to their preference?
+那么  学生们的偏好固定吗
 
 167
 00:07:17,710 --> 00:07:20,630
 Well, in a 2018 study during the first week of semester,
+在 2018 年的一项研究中  在学期伊始
 
 168
 00:07:20,630 --> 00:07:25,000
 over 400 students at a university in Indiana completed the VARK questionnaire
+印第安纳州一所大学的400多名学生  填写了VARK调查问卷
 
 169
 00:07:25,000 --> 00:07:28,100
 and they were classified according to their learning style.
+他们根据问卷得出的学习方法  被分为了四大组
 
 170
 00:07:28,100 --> 00:07:29,320
 Then at the end of the semester
+到了学期结束时
 
 171
 00:07:29,320 --> 00:07:32,374
 the same students completed a study strategy questionnaire.
+这帮学生又填写了实际学习策略的调查问卷
 
 172
 00:07:32,374 --> 00:07:35,780
 So how did they actually study during the term?
+他们在这个学期实际上是怎么学的
 
 173
 00:07:35,780 --> 00:07:39,200
 Well, an overwhelming majority of students used study strategies
+占压倒性多数的学生
 
 174
 00:07:39,200 --> 00:07:42,580
 which were supposedly incompatible with their learning style,
+使用的学习策略反而并不符合自身的学习风格
 
 175
 00:07:42,580 --> 00:07:44,118
 and the minority of students who did
+而极少数使用了相符策略的学生
 
 176
 00:07:44,118 --> 00:07:48,553
 did not perform significantly differently on the assessments in the course.
+在课程的考试中并没有与前者产生显著差异
 
 177
 00:07:48,553 --> 00:07:52,000
 The visual auditory reading-writing, kinesthetic or VARK model
+视觉、听觉、读写、动手模型（即 VARK 模型）
 
 178
 00:07:52,000 --> 00:07:56,040
 came about from Neil Fleming, a school inspector in New Zealand.
+由新西兰的一位学校督学——尼尔・佛莱明提出
 
 179
 00:07:56,040 --> 00:07:58,390
 Describing the origins of VARK he says,
+他是这样描述他如何发明 VARK 的
 
 180
 00:07:58,390 --> 00:08:02,000
 I was puzzled when I observed excellent teachers who did not reach some learners
+让我很困惑的是  我观察到最厉害的老师也有教不会的学生
 
 181
 00:08:02,000 --> 00:08:04,220
 and poor teachers who did.
+但最差的老师反而能教会这些学生
 
 182
 00:08:04,220 --> 00:08:06,360
 I decided to try to solve this puzzle.
+我想试试去解决这一问题
 
 183
 00:08:06,360 --> 00:08:09,540
 There are, of course, many reasons for what I observed.
+当然  我观察到了不少缘由
 
 184
 00:08:09,540 --> 00:08:14,150
 But one topic that seemed to hold some magic, some explanatory power,
+但我觉得有一个原因是最有说服力的
 
 185
 00:08:14,150 --> 00:08:17,850
 was preferred modes of learning, modal preferences.
+那就是「偏好的学习模式」或称「典型偏好」
 
 186
 00:08:17,850 --> 00:08:20,240
 And thus, VARK was born.
+VARK 因此而生
 
 187
 00:08:20,240 --> 00:08:24,980
 There was no study that revealed students naturally cluster into four distinct groups.
+原来  研究并没有证明学生会天然的分成四个组别
 
 188
 00:08:24,980 --> 00:08:26,720
@@ -951,6 +971,7 @@ But how can this be?
 191
 00:08:31,430 --> 00:08:33,650
 If we accept that some people are more skilled
+如果我们认可这种观点  有些人相对更擅长处理、记忆某几类因素  比如图像或声音
 
 192
 00:08:33,650 --> 00:08:35,960
@@ -963,344 +984,429 @@ than others like visual or auditory,
 194
 00:08:38,659 --> 00:08:43,599
 then why don't we see differences in learning or recall with different presentations?
+为何在学习或者回忆事物的测试中  显示不出差别呢
 
 195
 00:08:43,600 --> 00:08:46,480
 Well, it's because what we actually want people to recall
+这是因为  其实人们需要记忆的东西
 
 196
 00:08:46,480 --> 00:08:51,010
 is not the precise nature of the images or the pitch or quality of the sound.
+并不是图像的精确性质  亦非声音的音调和质量
 
 197
 00:08:51,010 --> 00:08:53,212
 It's the meaning behind the presentations.
+要记的是各种表现形式背后的「实际含义」
 
 198
 00:08:53,212 --> 00:08:57,520
 There are some tasks that obviously require the use of a particular modality.
+有些任务必然需要使用某一类特定的表现形式
 
 199
 00:08:57,520 --> 00:09:01,180
 Learning about music, for example, should have an auditory component.
+比如说  学音乐肯定依赖于声音
 
 200
 00:09:01,180 --> 00:09:05,055
 Similarly, learning about geography will involve looking at maps.
+类似的  学地理肯定需要看地图
 
 201
 00:09:05,055 --> 00:09:09,310
 And some people will have greater aptitude to learn one task over another.
+有些人天生就比别人更擅长学习某类任务
 
 202
 00:09:09,310 --> 00:09:13,830
 Someone with perfect pitch, for example,
+比如说  有绝对音感的人肯定更容易记住音乐中的音调
 
 203
 00:09:11,090 --> 00:09:13,830
 will be better able to recall certain tones in music.
+比如说  有绝对音感的人肯定更容易记住音乐中的音调
 
 204
 00:09:13,830 --> 00:09:15,820
 Someone with excellent visual-spatial reasoning
+视觉-空间推理能力强的人  能更准确地在国家地图上定位
 
 205
 00:09:15,820 --> 00:09:18,870
 will be better at learning the locations of countries on a map.
+视觉-空间推理能力强的人  能更准确地在国家地图上定位
 
 206
 00:09:18,870 --> 00:09:20,930
 But the claim of learning style theories is that
+但学习风格理论宣称  这些偏好性不管学啥东西都是不变的
 
 207
 00:09:20,930 --> 00:09:24,792
 these preferences will be consistent across learning domains.
+但学习风格理论宣称  这些偏好性不管学啥东西都是不变的
 
 208
 00:09:24,792 --> 00:09:29,157
 The person with perfect pitch should learn everything better auditorily
+有绝对音感的人  碰到一切关乎声音的内容时  都应该学得更快
 
 209
 00:09:29,157 --> 00:09:31,780
 but that is clearly not the case.
+这很明显不合道理
 
 210
 00:09:31,780 --> 00:09:34,633
 Most people will learn geography better with a map.
+大部分人学好地理靠的是地图
 
 211
 00:09:35,940 --> 00:09:38,910
 Review articles of learning styles consistently conclude
+专家审查了学习风格的文章后  一致得出
 
 212
 00:09:38,910 --> 00:09:43,030
 there is no credible evidence that learning styles exist.
+尚没有显著的证据能证明学习风格真的存在
 
 213
 00:09:43,030 --> 00:09:45,000
 In a 2009 review, the researchers note,
+在 2009 年的审核中  研究者指出
 
 214
 00:09:45,000 --> 00:09:48,100
 the contrast between the enormous popularity
-
+学习风格论在教育界的流行  跟它缺乏可信证据的事实  形成了鲜明对比
 215
 00:09:48,100 --> 00:09:50,630
 of the learning styles approach within education
-
+学习风格论在教育界的流行  跟它缺乏可信证据的事实  形成了鲜明对比
 216
 00:09:50,630 --> 00:09:54,060
 and the lack of credible evidence for its utility is,
-
+学习风格论在教育界的流行  跟它缺乏可信证据的事实  形成了鲜明对比
 217
 00:09:54,060 --> 00:09:57,250
 in our opinion, striking and disturbing.
-
+我们认为这很离谱  这样的现状让我们很不安
 218
 00:09:57,250 --> 00:10:00,200
 If classification of students' learning styles has practical utility,
+要是对学生的学习风格进行分类有实际作用的话
 
 219
 00:10:00,200 --> 00:10:02,870
 it remains to be demonstrated.
+我们还愿意去论证一下学习风格论
 
 220
 00:10:02,870 --> 00:10:06,210
 - What we're expecting is, if your style was honored
+我们本来期望的是  在遵循了相符的学习风格的情况下
 
 221
 00:10:06,210 --> 00:10:08,320
 you're going to perform better than if
+你应该比使用了相异学习风格的表现要更好
 
 222
 00:10:08,320 --> 00:10:10,880
 you had some experience that conflicted with your style.
+你应该比使用了相异学习风格的表现要更好
 
 223
 00:10:10,880 --> 00:10:15,730
 And this is where we don't see any support for the learning styles theory.
+我们在这一点上看不到任何支持学习风格论的证据
 
 224
 00:10:15,730 --> 00:10:17,581
 - One of the reasons many people find learning styles
+人们对学习风格论如此的深信不疑
 
 225
 00:10:17,581 --> 00:10:21,720
 so convincing is because they already believe it to be true.
+或许是因为他们先相信学习风格是真实存在的
 
 226
 00:10:21,720 --> 00:10:24,500
 For example, they might already think that they're a visual learner,
+他们可能已经相信自己是视觉学习者
 
 227
 00:10:24,500 --> 00:10:29,000
 and then when a teacher shows them a diagram of, say, a bike pump
+如果老师给他们展示了一份图解  比如说自行车打气筒
 
 228
 00:10:29,000 --> 00:10:30,920
 and suddenly the concept clicks,
+然后学生一下子开窍了
 
 229
 00:10:30,920 --> 00:10:34,310
 well, they interpret this as evidence for their visual learning style.
+他们就认为  这恰好能作为证据  印证自己是个视觉学习着
 
 230
 00:10:34,310 --> 00:10:36,810
 - You already believe that learning styles is right.
+你先入为主的认为学习方法是正确的
 
 231
 00:10:36,810 --> 00:10:39,600
-When you have an experience the first think you think is,
+When you have an experience the first thing you think is,
+当你从实践中获得经验时  你第一时间先想
 
 232
 00:10:39,600 --> 00:10:42,260
 is that in some way consistent with learning styles?
+它符不符合我的学习风格
 
 233
 00:10:42,260 --> 00:10:43,830
 And if it is, you don't think further.
+如果符合  你就不再深入思考了
 
 234
 00:10:43,830 --> 00:10:45,000
 - When in reality that diagram
+那个图解说不定只是一个对任何学习者都有帮助的优质图解
 
 235
 00:10:45,000 --> 00:10:49,240
 might just be a great diagram that would have helped anyone learn.
+那个图解说不定只是一个对任何学习者都有帮助的优质图解
+
 
 236
 00:10:49,240 --> 00:10:52,230
 When we already believe the world to be a certain way,
+你头脑中已经给世界画了个框框（认为世界就是这样运行的）
 
 237
 00:10:52,230 --> 00:10:55,690
 then we interpret new experiences to fit with those beliefs
+然后对一切新的经验  不管三七二十一就往框框里套
 
 238
 00:10:55,690 --> 00:10:57,908
 whether they actually do or not.
+然后对一切新的经验  不管三七二十一就往框框里套
 
 239
 00:10:57,908 --> 00:11:02,440
 So if learning styles don't improve learning, then what does?
+那么，如果学习风格对学习并无帮助，那什么才有帮助呢
 
 240
 00:11:02,440 --> 00:11:04,500
 Well, there's a large body of literature that supports the claim that
+事实上  有大量文献支持的一个观点是
 
 241
 00:11:03,720 --> 00:11:07,330
 everyone learns better with multimodal approaches
+使用多种感官形式来学习的效果会优于单一形式
 
 242
 00:11:07,330 --> 00:11:09,980
 where words and pictures are presented together
+同时展示文本和图像的效果要优于只展现其中一者
 
 243
 00:11:09,980 --> 00:11:12,600
 rather than either words or pictures alone.
+同时展示文本和图像的效果要优于只展现其中一者
 
 244
 00:11:12,600 --> 00:11:15,090
 Now there's gonna be words as well as the picture.
+接下来  文字是和图像一起展示的
 
 245
 00:11:15,090 --> 00:11:17,060
 We're gonna see if this is any better.
+看看结果会不会更好一点
 
 246
 00:11:17,060 --> 00:11:19,500
 This is known as the multimedia effect,
+这种效应被称为“多媒体效应”
 
 247
 00:11:19,500 --> 00:11:21,430
 and it explains in part, at least,
+它至少在一定程度上解释了
 
 248
 00:11:21,430 --> 00:11:24,220
 why videos can be such powerful tools for learning
+拥有图像和旁白的视频  为什么能成为一种强大的学习工具
 
 249
 00:11:24,220 --> 00:11:26,920
 when the narration complements the visuals.
+拥有图像和旁白的视频  为什么能成为一种强大的学习工具
 
 250
 00:11:26,920 --> 00:11:28,013
 Duck.
 - Duck.
+鸭子
+鸭子
 
 251
 00:11:30,134 --> 00:11:31,720
 - Heart.
 - Heart.
+心
+心
 
 252
 00:11:31,720 --> 00:11:36,140
 - In my PhD research, I found explicit discussion of misconceptions was essential
+在我的博士研究中我发现  在物理学入门的多媒体教学中
 
 253
 00:11:36,140 --> 00:11:38,830
 in multimedia teaching for introductory physics.
+对错误概念的明确讨论是至关重要的
 
 254
 00:11:38,830 --> 00:11:40,050
 - How many is that?
 - Six.
+总共多少
+六个
 
 255
 00:11:40,050 --> 00:11:41,030
 - Six, okay, that's good.
+六个，不错嘛
 
 256
 00:11:41,030 --> 00:11:43,490
 - That is a whole 50% better.
+这好了一半呢
 
 257
 00:11:43,490 --> 00:11:44,948
 Do you think that was easier?
+你觉得这样更简单吗
 
 258
 00:11:44,948 --> 00:11:47,980
 - Yeah, yeah, 100%, 100%.
 - Yeah, with the words, yeah.
+- 对，百分百更简单
+- 对，有了文字更简单，对
 
 259
 00:11:47,980 --> 00:11:50,214
 - Ultimately, the most important thing for learning
+学习中最终极、最重要的特质
 
 260
 00:11:50,214 --> 00:11:52,980
 is not the way the information is presented
+不是呈现信息的方式
 
 261
 00:11:52,980 --> 00:11:55,990
 but what is happening inside the learner's head.
+而是学习者脑袋里有何过程
 
 262
 00:11:55,990 --> 00:11:59,000
 People learn best when they're actively thinking about the material,
+人们学得最牢固的时候  是他们活跃地思考材料、
 
 263
 00:11:59,000 --> 00:12:04,010
 solving problems or imagining what happens if different variables change.
+解决问题、或是想象不同变量的变化方式
 
 264
 00:12:04,010 --> 00:12:06,290
 I talked about how and why we learn best
+我之前聊过学习的最佳方式、为什么这方式最佳
 
 265
 00:12:06,290 --> 00:12:09,690
 in my video, "The Science of Thinking" so check that out.
+快去康康我之前的视频「思考的科学」
 
 266
 00:12:09,690 --> 00:12:14,220
 Now, the truth is, there are many evidence-based teaching methods that improve learning.
+真相是  有许多教学方法已得到证据佐证  有助于学习
 
 267
 00:12:14,220 --> 00:12:17,810
 Learning styles is just not one of them.
+但学习风格论不能算在里面
 
 268
 00:12:17,810 --> 00:12:21,830
 And it is likely, given the prevalence of the learning styles misconception
+鉴于对学习风格广泛存在的误解
 
 269
 00:12:21,830 --> 00:12:24,210
 that it actually makes learning worse.
+它很可能实际上会让学习效果更差
 
 270
 00:12:24,210 --> 00:12:27,800
 I mean, learning styles give teachers unnecessary things to worry about,
+我的意思是  学习风格论给教师带来了不必要的担心
 
 271
 00:12:27,130 --> 00:12:32,650
 and they make some students reluctant to engage with certain types of instruction.
+还导致一些学生不愿参与某些类别的教学
 
 272
 00:12:32,650 --> 00:12:35,600
 And all the time and money spent on learning styles and related training
+在学习风格一脉的培训上浪费的时间和金钱
 
 273
 00:12:35,600 --> 00:12:40,180
 could be better spent on interventions that actually improve learning.
+本可以更好地用于真正改善学习的措施上
 
 274
 00:12:40,180 --> 00:12:45,200
 You are not a visual learner nor an auditory learner nor a kinesthetic learner,
+你并不是什么视觉、听觉、动手学习者
 
 275
 00:12:45,200 --> 00:12:50,400
 or more accurately, you are all these kinds of learner in one.
+更准确地说  你是依赖于所有感官的学习者  是上面的集合体
 
 276
 00:12:50,400 --> 00:12:52,470
 The best learning experiences are those
+最好的学习实践  应囊括了对同一事物的多种理解角度
 
 277
 00:12:52,470 --> 00:12:56,620
 that involve multiple different ways of understanding the same thing.
+最好的学习实践  应囊括了对同一事物的多种理解角度
 
 278
 00:12:56,620 --> 00:13:03,435
 And best of all, this strategy works not just for one subset of people but for everyone.
-
+并且最好的是  这样的策略不是对一部分人  而是对所有人都适用
