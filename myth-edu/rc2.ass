@@ -175,7 +175,7 @@ Dialogue: 0,0:03:25.24,0:03:28.96,Chinese,,0,0,0,,不妨思考一下  学习风�
 Dialogue: 0,0:03:25.24,0:03:28.96,English,,0,0,0,,it's a good idea to ask, do learning styles even exist?
 Dialogue: 0,0:03:28.96,0:03:30.19,Chinese,,0,0,0,,你有学习风格吗？
 Dialogue: 0,0:03:28.96,0:03:30.19,English,,0,0,0,,I mean, do you have one?
-Dialogue: 0,0:03:30.19,0:03:35.23,Chinese,,0,0,0,,如果有人按着你的学习风格教你  你会学得更好吗
+Dialogue: 0,0:03:30.19,0:03:35.23,Chinese,,0,0,0,,如果有人按照你的学习风格教你  你会学得更好吗
 Dialogue: 0,0:03:30.19,0:03:35.23,English,,0,0,0,,And if you're taught in accordance with it, would you learn better?
 Dialogue: 0,0:03:35.23,0:03:38.60,Chinese,,0,0,0,,这个东西可以通过一个控制变量的随机试验来检验
 Dialogue: 0,0:03:35.23,0:03:38.60,English,,0,0,0,,Well, you could test this by running a randomized control trial
@@ -201,11 +201,11 @@ Dialogue: 0,0:04:05.24,0:04:08.61,Chinese,,0,0,0,,应该考得比那些风格不
 Dialogue: 0,0:04:05.24,0:04:08.61,English,,0,0,0,,matches the learning style than when they're mismatched.
 Dialogue: 0,0:04:09.77,0:04:14.09,Chinese,,0,0,0,,我在大街上做了次不太严谨的这个实验
 Dialogue: 0,0:04:09.77,0:04:14.09,English,,0,0,0,,I tried a very unscientific version of this experiment on the street.
-Dialogue: 0,0:04:14.09,0:04:17.00,Chinese,,0,0,0,,对于一部分人，我展示这些东西的方式和他们的学习风格一致
+Dialogue: 0,0:04:14.09,0:04:17.00,Chinese,,0,0,0,,对于一部分人，我展示的方式和他们的学习风格一致
 Dialogue: 0,0:04:14.09,0:04:17.00,English,,0,0,0,,For some people, I matched their learning style
 Dialogue: 0,0:04:17.00,0:04:21.14,Chinese,,0,0,0,,例如我给（一部分）视觉学习者看了十个事物的图像
 Dialogue: 0,0:04:17.00,0:04:21.14,English,,0,0,0,,so I showed visual learners pictures of 10 items,
-Dialogue: 0,0:04:21.14,0:04:25.49,Chinese,,0,0,0,,但是对于另一部分的视觉学习者 我则是把这些东西读出来
+Dialogue: 0,0:04:21.14,0:04:25.49,Chinese,,0,0,0,,但对于另一部分的视觉学习者 我则是把这些东西读出来
 Dialogue: 0,0:04:21.14,0:04:25.49,English,,0,0,0,,but for other visual learners I read out the items instead.
 Dialogue: 0,0:04:26.01,0:04:29.74,Chinese,,0,0,0,,铃铛、企鹅、太阳
 Dialogue: 0,0:04:26.01,0:04:29.74,English,,0,0,0,,Bell, penguin, sun.
@@ -477,9 +477,9 @@ Dialogue: 0,0:10:25.14,0:10:29.00,Chinese,,0,0,0,,如果老师给他们展示了
 Dialogue: 0,0:10:25.14,0:10:29.00,English,,0,0,0,,and then when a teacher shows them a diagram of, say, a bike pump
 Dialogue: 0,0:10:29.00,0:10:30.88,Chinese,,0,0,0,,然后学生一下子开窍了
 Dialogue: 0,0:10:29.00,0:10:30.88,English,,0,0,0,,and suddenly the concept clicks,
-Dialogue: 0,0:10:30.88,0:10:34.31,Chinese,,0,0,0,,他们就认为  这恰好能作为证据  印证自己是个视觉学习着
+Dialogue: 0,0:10:30.88,0:10:34.31,Chinese,,0,0,0,,他们就以为  这正好能证明自己是个视觉学习者
 Dialogue: 0,0:10:30.88,0:10:34.31,English,,0,0,0,,well, they interpret this as evidence for their visual learning style.
-Dialogue: 0,0:10:34.31,0:10:36.76,Chinese,,0,0,0,,你先入为主的认为学习方法是正确的
+Dialogue: 0,0:10:34.31,0:10:36.76,Chinese,,0,0,0,,你先入为主的认为学习方法论是正确的
 Dialogue: 0,0:10:34.31,0:10:36.76,English,,0,0,0,,- You already believe that learning styles is right.
 Dialogue: 0,0:10:36.76,0:10:39.50,Chinese,,0,0,0,,当你从实践中获得经验时  你第一时间先想
 Dialogue: 0,0:10:36.76,0:10:39.50,English,,0,0,0,,When you have an experience the first thing you think is,
@@ -487,7 +487,7 @@ Dialogue: 0,0:10:39.50,0:10:42.20,Chinese,,0,0,0,,它符不符合我的学习风
 Dialogue: 0,0:10:39.50,0:10:42.20,English,,0,0,0,,is that in some way consistent with learning styles?
 Dialogue: 0,0:10:42.20,0:10:43.76,Chinese,,0,0,0,,如果符合  你就不再深入思考了
 Dialogue: 0,0:10:42.20,0:10:43.76,English,,0,0,0,,And if it is, you don't think further.
-Dialogue: 0,0:10:43.76,0:10:49.09,Chinese,,0,0,0,,那说不定是对任何人都有帮助的优质图解
+Dialogue: 0,0:10:43.76,0:10:49.09,Chinese,,0,0,0,,那说不定只是对任何人都有帮助的优质图解
 Dialogue: 0,0:10:43.76,0:10:45.00,English,,0,0,0,,- When in reality that diagram
 Dialogue: 0,0:10:45.00,0:10:49.09,English,,0,0,0,,might just be a great diagram that would have helped anyone learn.
 Dialogue: 0,0:10:49.09,0:10:52.23,Chinese,,0,0,0,,当头脑中已经有了思维定势的框框  认为世界就是这样运行
@@ -496,13 +496,13 @@ Dialogue: 0,0:10:52.23,0:10:55.64,Chinese,,0,0,0,,然后把一切新的经验往
 Dialogue: 0,0:10:52.23,0:10:55.64,English,,0,0,0,,then we interpret new experiences to fit with those beliefs
 Dialogue: 0,0:10:55.64,0:10:57.68,Chinese,,0,0,0,,而忽略了这经验符不符合「框框」
 Dialogue: 0,0:10:55.64,0:10:57.68,English,,0,0,0,,whether they actually do or not.
-Dialogue: 0,0:10:58.31,0:11:02.44,Chinese,,0,0,0,,那么，如果学习风格对学习并无帮助，那什么才有帮助呢
+Dialogue: 0,0:10:58.31,0:11:02.44,Chinese,,0,0,0,,那么  如果学习风格对学习并无帮助  那什么才有帮助呢
 Dialogue: 0,0:10:58.31,0:11:02.44,English,,0,0,0,,So if learning styles don't improve learning, then what does?
 Dialogue: 0,0:11:02.44,0:11:04.50,Chinese,,0,0,0,,事实上  有大量文献支持的一个观点是
 Dialogue: 0,0:11:02.44,0:11:04.50,English,,0,0,0,,Well, there's a large body of literature that supports the claim that
-Dialogue: 0,0:11:03.72,0:11:07.33,Chinese,,0,0,0,,使用多种感官形式来学习的效果会优于单一形式
+Dialogue: 0,0:11:03.72,0:11:07.33,Chinese,,0,0,0,,使用多种感官形式来学习  效果更好
 Dialogue: 0,0:11:03.72,0:11:07.33,English,,0,0,0,,everyone learns better with multimodal approaches
-Dialogue: 0,0:11:07.33,0:11:12.60,Chinese,,0,0,0,,同时展示文本和图像的效果要优于只展现其中一者
+Dialogue: 0,0:11:07.33,0:11:12.60,Chinese,,0,0,0,,同时展示文本和图像的效果  要优于只展现其中一者
 Dialogue: 0,0:11:07.33,0:11:09.98,English,,0,0,0,,where words and pictures are presented together
 Dialogue: 0,0:11:09.98,0:11:12.60,English,,0,0,0,,rather than either words or pictures alone.
 Dialogue: 0,0:11:12.60,0:11:15.09,Chinese,,0,0,0,,接下来  文字是和图像一起展示的
