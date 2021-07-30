@@ -39,13 +39,13 @@ Dialogue: 0,0:00:16.18,0:00:19.16,Chinese,,0,0,0,,本车由您独享  前排没�
 Dialogue: 0,0:00:19.16,0:00:22.73,English,,0,0,0,,- I really like the idea of fully autonomous vehicles,
 Dialogue: 0,0:00:19.16,0:00:22.73,Chinese,,0,0,0,,我挺喜欢全自动驾驶汽车这个概念的
 Dialogue: 0,0:00:22.73,0:00:26.76,English,,0,0,0,,but it's weird getting into a car with no driver
-Dialogue: 0,0:00:22.73,0:00:26.76,Chinese,,0,0,0,,但真正坐着没有司机的汽车  任其驾驶  感觉还是怪怪的
+Dialogue: 0,0:00:22.73,0:00:26.76,Chinese,,0,0,0,,但真正坐着没上司机的汽车  任其驾驶  感觉还是怪怪的
 Dialogue: 0,0:00:26.76,0:00:28.40,English,,0,0,0,,and just trusting the car.
-Dialogue: 0,0:00:26.76,0:00:28.40,Chinese,,0,0,0,,但真正坐着没有司机的汽车  任其驾驶  感觉还是怪怪的
+Dialogue: 0,0:00:26.76,0:00:28.40,Chinese,,0,0,0,,但真正坐着没上司机的汽车  任其驾驶  感觉还是怪怪的
 Dialogue: 0,0:00:28.92,0:00:32.25,English,,0,0,0,,I'm gonna report back how this ride goes
 Dialogue: 0,0:00:28.92,0:00:32.25,Chinese,,0,0,0,,待会我会分享一下  这一趟下来跑得怎样
 Dialogue: 0,0:00:32.25,0:00:33.49,English,,0,0,0,,and how I feel about it.
-Dialogue: 0,0:00:32.25,0:00:33.49,Chinese,,0,0,0,,以及我自己的感受
+Dialogue: 0,0:00:32.25,0:00:33.49,Chinese,,0,0,0,,以及我的一些感受
 Dialogue: 0,0:00:34.04,0:00:37.66,English,,0,0,0,,Oh, but full disclosure, this video is sponsored by Waymo.
 Dialogue: 0,0:00:34.04,0:00:37.66,Chinese,,0,0,0,,但是先说清楚  本视频由Waymo赞助
 Dialogue: 0,0:00:43.81,0:00:45.01,English,,0,0,0,,Start ride.
@@ -77,7 +77,7 @@ Dialogue: 0,0:01:14.28,0:01:18.49,Chinese,,0,0,0,,半数投票者很乐于尝试
 Dialogue: 0,0:01:18.49,0:01:24.01,English,,0,0,0,,but over 40% said you thought the technology was still over 10 years away.
 Dialogue: 0,0:01:18.49,0:01:24.01,Chinese,,0,0,0,,但逾四成人认为  真正的自动驾驶至少还得等10年
 Dialogue: 0,0:01:24.01,0:01:26.97,English,,0,0,0,,And for those people, I have news,
-Dialogue: 0,0:01:24.01,0:01:26.97,Chinese,,0,0,0,,对这些悲观者  我有件事要告诉你
+Dialogue: 0,0:01:24.01,0:01:26.97,Chinese,,0,0,0,,对这些参与者  我可要告诉你
 Dialogue: 0,0:01:26.97,0:01:30.40,English,,0,0,0,,which is that, well, there is no driver in this car.
 Dialogue: 0,0:01:26.97,0:01:30.40,Chinese,,0,0,0,,我现在坐的车已经没有司机了
 Dialogue: 0,0:01:30.40,0:01:34.17,English,,0,0,0,,I'm currently inside a fully autonomous vehicle
@@ -97,7 +97,7 @@ Dialogue: 0,0:01:46.89,0:01:51.50,Chinese,,0,0,0,,但至少在较好的路况下
 Dialogue: 0,0:01:58.82,0:02:02.50,English,,0,0,0,,- Now Waymo started out as the Google self-driving car project
 Dialogue: 0,0:01:58.82,0:02:02.50,Chinese,,0,0,0,,Waymo一开始是谷歌的自动驾驶项目
 Dialogue: 0,0:02:02.89,0:02:06.04,English,,0,0,0,,with what is possibly one of the cutest cars ever made.
-Dialogue: 0,0:02:02.89,0:02:06.04,Chinese,,0,0,0,,用着可能是世界上最可可爱的车
+Dialogue: 0,0:02:02.89,0:02:06.04,Chinese,,0,0,0,,用着可能是世界上最最可爱的车
 Dialogue: 0,0:02:08.57,0:02:12.78,English,,0,0,0,,I am inside the world's first fully autonomous vehicle.
 Dialogue: 0,0:02:08.57,0:02:12.78,Chinese,,0,0,0,,我现在坐在世界上第一辆全自动驾驶汽车里面
 Dialogue: 0,0:02:12.78,0:02:17.77,English,,0,0,0,,Back in October 2015, this car went on a public road,
@@ -115,7 +115,7 @@ Dialogue: 0,0:02:32.32,0:02:34.64,Chinese,,0,0,0,,没有方向盘  没有仪表�
 Dialogue: 0,0:02:34.64,0:02:36.17,English,,0,0,0,,This car is super basic.
 Dialogue: 0,0:02:34.64,0:02:36.17,Chinese,,0,0,0,,这车太精简了
 Dialogue: 0,0:02:36.17,0:02:37.81,English,,0,0,0,,There is no AC,
-Dialogue: 0,0:02:36.17,0:02:37.81,Chinese,,0,0,0,,没有空调
+Dialogue: 0,0:02:36.17,0:02:37.81,Chinese,,0,0,0,,还没有空调
 Dialogue: 0,0:02:37.81,0:02:40.69,English,,0,0,0,,but there is an emergency stop button.
 Dialogue: 0,0:02:37.81,0:02:40.69,Chinese,,0,0,0,,但是却有个紧急按钮
 Dialogue: 0,0:02:41.10,0:02:43.10,English,,0,0,0,,That's my favorite button in the car.
@@ -151,7 +151,7 @@ Dialogue: 0,0:03:19.84,0:03:21.78,English,,0,0,0,,and that really annoyed people
 Dialogue: 0,0:03:21.78,0:03:24.99,English,,0,0,0,,and it helped the adoption of automated elevators.
 Dialogue: 0,0:03:19.84,0:03:24.99,Chinese,,0,0,0,,从而促使人们接受自动电梯
 Dialogue: 0,0:03:25.21,0:03:27.38,English,,0,0,0,,If you found a driver in an elevator today,
-Dialogue: 0,0:03:25.21,0:03:27.38,Chinese,,0,0,0,,当你今天看到电梯里有个司机
+Dialogue: 0,0:03:25.21,0:03:27.38,Chinese,,0,0,0,,你今天如果看到电梯里有个操纵员
 Dialogue: 0,0:03:27.38,0:03:29.71,English,,0,0,0,,you would wonder, "Why are they there?"
 Dialogue: 0,0:03:27.38,0:03:29.71,Chinese,,0,0,0,,你肯定很迷惑 「这人是干啥的{\fsp-16}」
 Dialogue: 0,0:03:30.05,0:03:32.64,English,,0,0,0,,Now you might think an elevator is just so simple,
