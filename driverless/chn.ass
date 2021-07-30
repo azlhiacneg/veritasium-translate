@@ -6,28 +6,28 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1920
-PlayResY: 1080
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
 Audio File: car.mp4
 Video File: car.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 187
-Active Line: 207
-Video Position: 8287
+Video Zoom Percent: 0.625000
+Scroll Position: 437
+Active Line: 448
+Video Position: 18841
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: English,Fira Sans,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,97,100,0,0,1,2,2,2,10,10,10,1
-Style: Chinese,Noto Sans CJK SC,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,15,15,10,1
+Style: English,Inter Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,97,100,0,0,1,1.3,1.3,2,7,7,7,1
+Style: Chinese,Noto Sans CJK SC,67,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.33333,1.33333,2,10,10,7,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:04.86,English,,0,0,0,,- Alright, I'm about to go for my first ever ride in a fully autonomous vehicle.
-Dialogue: 0,0:00:00.00,0:00:04.86,Chinese,,0,0,0,,我现在要第一次坐上完全自动驾驶的汽车
+Dialogue: 0,0:00:00.00,0:00:04.86,Chinese,,0,0,0,,我现在要第一次坐上全自动驾驶的汽车
 Dialogue: 0,0:00:09.66,0:00:11.62,English,,0,0,0,,Whoa, no driver.
 Dialogue: 0,0:00:09.66,0:00:11.62,Chinese,,0,0,0,,哇，没有司机
 Dialogue: 0,0:00:14.14,0:00:14.89,English,,0,0,0,,All right.
@@ -47,7 +47,7 @@ Dialogue: 0,0:00:28.92,0:00:32.25,Chinese,,0,0,0,,待会我会分享一下  这�
 Dialogue: 0,0:00:32.25,0:00:33.49,English,,0,0,0,,and how I feel about it.
 Dialogue: 0,0:00:32.25,0:00:33.49,Chinese,,0,0,0,,以及我自己的感受
 Dialogue: 0,0:00:34.04,0:00:37.66,English,,0,0,0,,Oh, but full disclosure, this video is sponsored by Waymo.
-Dialogue: 0,0:00:34.04,0:00:37.66,Chinese,,0,0,0,,但是先说清楚 本视频由 Waymo 赞助
+Dialogue: 0,0:00:34.04,0:00:37.66,Chinese,,0,0,0,,但是先说清楚  本视频由Waymo赞助
 Dialogue: 0,0:00:43.81,0:00:45.01,English,,0,0,0,,Start ride.
 Dialogue: 0,0:00:43.81,0:00:45.01,Chinese,,0,0,0,,行程开始
 Dialogue: 0,0:00:46.57,0:00:47.30,English,,0,0,0,,Ha ha!
@@ -63,9 +63,9 @@ Dialogue: 0,0:00:54.92,0:00:56.62,Chinese,,0,0,0,,现在看看我们往哪走
 Dialogue: 0,0:00:56.62,0:00:59.50,English,,0,0,0,,It's looking at this car coming here. What's it gonna do?
 Dialogue: 0,0:00:56.62,0:00:59.50,Chinese,,0,0,0,,那边来了一辆车 它会怎么应对呢
 Dialogue: 0,0:01:00.54,0:01:04.00,English,,0,0,0,,Oh, and it pulls in very smoothly behind it.
-Dialogue: 0,0:01:00.54,0:01:04.00,Chinese,,0,0,0,,刚好停在它前面
+Dialogue: 0,0:01:00.54,0:01:04.00,Chinese,,0,0,0,,哦  很丝滑地跟在它后面
 Dialogue: 0,0:01:04.00,0:01:06.40,English,,0,0,0,,No problems. Did not turn into traffic.
-Dialogue: 0,0:01:04.00,0:01:06.40,Chinese,,0,0,0,,没问题 没堵塞交通
+Dialogue: 0,0:01:04.00,0:01:06.40,Chinese,,0,0,0,,没问题  没堵塞交通
 Dialogue: 0,0:01:06.40,0:01:08.68,English,,0,0,0,,Waited until the car has went, and then it turned.
 Dialogue: 0,0:01:06.40,0:01:08.68,Chinese,,0,0,0,,等到前面车走了才转弯
 Dialogue: 0,0:01:09.42,0:01:10.06,English,,0,0,0,,I like that.
@@ -95,13 +95,13 @@ Dialogue: 0,0:01:44.66,0:01:46.89,Chinese,,0,0,0,,这种情况  驾驶电脑可�
 Dialogue: 0,0:01:46.89,0:01:51.50,English,,0,0,0,,but at least under good conditions, the technology is currently functional.
 Dialogue: 0,0:01:46.89,0:01:51.50,Chinese,,0,0,0,,但至少在较好的路况下  自动驾驶已能投入实用
 Dialogue: 0,0:01:58.82,0:02:02.50,English,,0,0,0,,- Now Waymo started out as the Google self-driving car project
-Dialogue: 0,0:01:58.82,0:02:02.50,Chinese,,0,0,0,,Waymo 一开始是谷歌的自动驾驶项目
+Dialogue: 0,0:01:58.82,0:02:02.50,Chinese,,0,0,0,,Waymo一开始是谷歌的自动驾驶项目
 Dialogue: 0,0:02:02.89,0:02:06.04,English,,0,0,0,,with what is possibly one of the cutest cars ever made.
-Dialogue: 0,0:02:02.89,0:02:06.04,Chinese,,0,0,0,,用着可能是世界上最小巧可爱的车
+Dialogue: 0,0:02:02.89,0:02:06.04,Chinese,,0,0,0,,用着可能是世界上最可可爱的车
 Dialogue: 0,0:02:08.57,0:02:12.78,English,,0,0,0,,I am inside the world's first fully autonomous vehicle.
 Dialogue: 0,0:02:08.57,0:02:12.78,Chinese,,0,0,0,,我现在坐在世界上第一辆全自动驾驶汽车里面
 Dialogue: 0,0:02:12.78,0:02:17.77,English,,0,0,0,,Back in October 2015, this car went on a public road,
-Dialogue: 0,0:02:12.78,0:02:17.77,Chinese,,0,0,0,,2015 年十月  这辆车上了公开道路
+Dialogue: 0,0:02:12.78,0:02:17.77,Chinese,,0,0,0,,2015年10月  这辆车上了公开道路
 Dialogue: 0,0:02:17.77,0:02:22.21,English,,0,0,0,,ridden by Steve Mann, who has a disability, he is legally blind,
 Dialogue: 0,0:02:17.77,0:02:22.21,Chinese,,0,0,0,,乘客 Steve Mann 是一位盲人
 Dialogue: 0,0:02:22.21,0:02:25.21,English,,0,0,0,,but he could get around in this thing,
@@ -121,35 +121,39 @@ Dialogue: 0,0:02:37.81,0:02:40.69,Chinese,,0,0,0,,但是好歹有个紧急按钮
 Dialogue: 0,0:02:41.10,0:02:43.10,English,,0,0,0,,That's my favorite button in the car.
 Dialogue: 0,0:02:41.10,0:02:43.10,Chinese,,0,0,0,,这车上我最喜欢这个按钮
 Dialogue: 0,0:02:43.10,0:02:44.72,English,,0,0,0,,It reminds me of elevators.
-Dialogue: 0,0:02:43.10,0:02:44.72,Chinese,,0,0,0,,我使我联想到了电梯的
-Dialogue: 0,0:02:44.72,0:02:48.73,English,,0,0,0,,You know, one of the important measures that they had to put in automatic elevators
-Dialogue: 0,0:02:44.72,0:02:48.73,Chinese,,0,0,0,,自动电梯的制造商必须要设置的一样东西
+Dialogue: 0,0:02:43.10,0:02:44.72,Chinese,,0,0,0,,我使我联想到了电梯
+Dialogue: 0,0:02:44.72,0:02:46.59,English,,0,0,0,,You know, one of the important measures
+Dialogue: 0,0:02:46.59,0:02:48.73,English,,0,0,0,,that they had to put in automatic elevators
+Dialogue: 0,0:02:44.72,0:02:48.73,Chinese,,0,0,0,,你知道吗  自动电梯的制造商必须要设置的一样东西
 Dialogue: 0,0:02:48.73,0:02:51.10,English,,0,0,0,,was a big red stop button.
 Dialogue: 0,0:02:48.73,0:02:51.10,Chinese,,0,0,0,,就是那个大大红红的停止按钮
 Dialogue: 0,0:02:51.10,0:02:56.06,English,,0,0,0,,Did you know that before the 1940s, almost all elevators had drivers in them?
 Dialogue: 0,0:02:51.10,0:02:56.06,Chinese,,0,0,0,,你是否听说过  在1940年以前  几乎每辆电梯都有司机
 Dialogue: 0,0:02:56.69,0:02:59.94,English,,0,0,0,,And when people started putting in driverless elevators,
 Dialogue: 0,0:02:56.69,0:02:59.94,Chinese,,0,0,0,,后来当不用司机的电梯普及起来的时候
-Dialogue: 0,0:03:00.32,0:03:03.89,English,,0,0,0,,well, the public was very concerned, and they didn't wanna ride in those elevators.
+Dialogue: 0,0:03:00.32,0:03:02.12,English,,0,0,0,,well, the public was very concerned,
+Dialogue: 0,0:03:02.12,0:03:03.89,English,,0,0,0,,and they didn't wanna ride in those elevators.
 Dialogue: 0,0:03:00.32,0:03:03.89,Chinese,,0,0,0,,公众十分担心  他们不想坐这种电梯
 Dialogue: 0,0:03:03.89,0:03:05.08,English,,0,0,0,,There was one guy who was like,
 Dialogue: 0,0:03:03.89,0:03:05.08,Chinese,,0,0,0,,甚至还有个人说
 Dialogue: 0,0:03:05.08,0:03:08.92,English,,0,0,0,,"I don't care if I have to walk up 12 flights of stairs for the rest of my life.
-Dialogue: 0,0:03:05.08,0:03:08.92,Chinese,,0,0,0,,{\fsp-20} {\fsp-0}「我宁可后半辈子都走十二层楼梯
+Dialogue: 0,0:03:05.08,0:03:08.92,Chinese,,0,0,0,,{\fsp-16} {\fsp0}「我宁可后半辈子都走十二层楼梯
 Dialogue: 0,0:03:08.92,0:03:10.52,English,,0,0,0,,I'm not taking that elevator."
 Dialogue: 0,0:03:08.92,0:03:10.52,Chinese,,0,0,0,,也坚决不坐自动电梯{\fsp-16}」
+Dialogue: 0,0:03:08.92,0:03:10.52,Chinese,,0,0,0,,{\an3\s1\fs54\pos(960,670)}真香{\s0}
 Dialogue: 0,0:03:10.52,0:03:11.57,English,,0,0,0,,And adoption was slow.
 Dialogue: 0,0:03:10.52,0:03:11.57,Chinese,,0,0,0,,大众久久不能接纳
 Dialogue: 0,0:03:11.57,0:03:15.39,English,,0,0,0,,I mean, they tried to advertise to help people understand that it was in fact safe,
 Dialogue: 0,0:03:11.57,0:03:15.39,Chinese,,0,0,0,,制造商想尽办法让公众相信  自动电梯很安全
 Dialogue: 0,0:03:15.39,0:03:19.84,English,,0,0,0,,but, ultimately, there was an elevator drivers strike in New York City,
 Dialogue: 0,0:03:15.39,0:03:19.84,Chinese,,0,0,0,,但最后  是纽约电梯司机的罢工彻底激怒了大众
-Dialogue: 0,0:03:19.84,0:03:24.99,English,,0,0,0,,and that really annoyed people, and it helped the adoption of automated elevators.
+Dialogue: 0,0:03:19.84,0:03:21.78,English,,0,0,0,,and that really annoyed people,
+Dialogue: 0,0:03:21.78,0:03:24.99,English,,0,0,0,,and it helped the adoption of automated elevators.
 Dialogue: 0,0:03:19.84,0:03:24.99,Chinese,,0,0,0,,从而促使人们接受自动电梯
 Dialogue: 0,0:03:25.21,0:03:27.38,English,,0,0,0,,If you found a driver in an elevator today,
 Dialogue: 0,0:03:25.21,0:03:27.38,Chinese,,0,0,0,,当你今天看到电梯里有个司机
 Dialogue: 0,0:03:27.38,0:03:29.71,English,,0,0,0,,you would wonder, "Why are they there?"
-Dialogue: 0,0:03:27.38,0:03:29.71,Chinese,,0,0,0,,你肯定很迷惑“这人是干啥的”
+Dialogue: 0,0:03:27.38,0:03:29.71,Chinese,,0,0,0,,你肯定很迷惑 「这人是干啥的{\fsp-16}」
 Dialogue: 0,0:03:30.05,0:03:32.64,English,,0,0,0,,Now you might think an elevator is just so simple,
 Dialogue: 0,0:03:30.05,0:03:32.64,Chinese,,0,0,0,,你可能会说 电梯多简单啊
 Dialogue: 0,0:03:32.64,0:03:35.45,English,,0,0,0,,I mean, it is effectively one dimensional motion,
@@ -184,10 +188,11 @@ Dialogue: 0,0:04:22.34,0:04:28.03,English,,0,0,0,,humans are much more likely to
 Dialogue: 0,0:04:22.34,0:04:28.03,Chinese,,0,0,0,,人们在晴朗的天气  更倾向于手动操作降落
 Dialogue: 0,0:04:28.03,0:04:30.13,English,,0,0,0,,like July 6th, 2013,
 Dialogue: 0,0:04:28.03,0:04:30.13,Chinese,,0,0,0,,比如2013年7月6日
-Dialogue: 0,0:04:28.03,0:04:34.95,Chinese,,0,0,0,,{\an9}{\fs80}BV11s411R7rt / av3613944\N【ACI字幕组】空中浩劫S15：韩亚航空214号班机
+Dialogue: 0,0:04:28.03,0:04:34.95,Chinese,,0,0,0,,{\an9}{\fs53.333}BV11s411R7rt / av3613944\N【ACI字幕组】空中浩劫S15：韩亚航空214号班机
 Dialogue: 0,0:04:30.42,0:04:34.95,English,,0,0,0,,when Asiana Airlines flight 214 was on final approach to San Francisco.
 Dialogue: 0,0:04:30.42,0:04:34.95,Chinese,,0,0,0,,韩亚航空214号班机准备在旧金山机场降落
-Dialogue: 0,0:04:35.39,0:04:40.55,English,,0,0,0,,Attempting to manually land the plane, the pilot accidentally left the throttle at zero,
+Dialogue: 0,0:04:35.39,0:04:37.62,English,,0,0,0,,Attempting to manually land the plane,
+Dialogue: 0,0:04:37.62,0:04:40.55,English,,0,0,0,,the pilot accidentally left the throttle at zero,
 Dialogue: 0,0:04:35.39,0:04:40.55,Chinese,,0,0,0,,在手动降落的过程中  飞行员不小心把节流阀打到零了
 Dialogue: 0,0:04:40.97,0:04:43.52,English,,0,0,0,,and by the time they realized and tried to abort the landing,
 Dialogue: 0,0:04:40.97,0:04:43.52,Chinese,,0,0,0,,当他们意识到操作错误想要取消降落时
@@ -211,13 +216,12 @@ Dialogue: 0,0:05:12.03,0:05:13.78,Chinese,,0,0,0,,同样的事会发生在汽车
 Dialogue: 0,0:05:15.34,0:05:17.56,English,,0,0,0,,There are all these different levels of autonomy
 Dialogue: 0,0:05:15.34,0:05:17.56,Chinese,,0,0,0,,汽车自动化被分为这些级别
 Dialogue: 0,0:05:17.56,0:05:20.81,English,,0,0,0,,and everything up to four requires a human driver
-Dialogue: 0,0:05:17.56,0:05:20.81,Chinese,,0,0,0,,四级（L4）以下的水平  都需要驾驶员持续观察和操作
 Dialogue: 0,0:05:20.81,0:05:24.28,English,,0,0,0,,to be responsible and at the wheel at all times.
-Dialogue: 0,0:05:20.81,0:05:24.28,Chinese,,0,0,0,,四级（L4）以下的水平  都需要驾驶员持续观察和操作
+Dialogue: 0,0:05:17.56,0:05:24.28,Chinese,,0,0,0,,四级 (L4) 以下的水平  都需要驾驶员持续观察和操作
 Dialogue: 0,0:05:24.28,0:05:26.78,English,,0,0,0,,In the early days of the Google self-driving car project,
 Dialogue: 0,0:05:24.28,0:05:26.78,Chinese,,0,0,0,,谷歌早期的自动驾驶汽车
 Dialogue: 0,0:05:27.11,0:05:29.52,English,,0,0,0,,they had a vehicle that was not yet level four,
-Dialogue: 0,0:05:27.11,0:05:29.52,Chinese,,0,0,0,,并没有达到四级
+Dialogue: 0,0:05:27.11,0:05:29.52,Chinese,,0,0,0,,并没有达到L4
 Dialogue: 0,0:05:29.52,0:05:31.60,English,,0,0,0,,so it still required a human driver.
 Dialogue: 0,0:05:29.52,0:05:31.60,Chinese,,0,0,0,,因此需要驾驶员
 Dialogue: 0,0:05:31.60,0:05:34.24,English,,0,0,0,,They let Google employees borrow the cars,
@@ -226,7 +230,7 @@ Dialogue: 0,0:05:34.24,0:05:36.48,English,,0,0,0,,but they still had to be in co
 Dialogue: 0,0:05:34.24,0:05:36.48,Chinese,,0,0,0,,但是要手动操作
 Dialogue: 0,0:05:36.83,0:05:38.49,English,,0,0,0,,And the volunteers were informed that
 Dialogue: 0,0:05:38.49,0:05:41.17,English,,0,0,0,,they were responsible for the car at all times
-Dialogue: 0,0:05:36.83,0:05:41.17,Chinese,,0,0,0,,志愿者们也被告知  他们开车时得完全对这辆车负责
+Dialogue: 0,0:05:36.83,0:05:41.17,Chinese,,0,0,0,,志愿者们也被告知  他们开车时得对这辆车全权负责
 Dialogue: 0,0:05:41.17,0:05:44.36,English,,0,0,0,,and that they would be constantly recorded, like video recorded,
 Dialogue: 0,0:05:44.36,0:05:45.63,English,,0,0,0,,while they were in the car.
 Dialogue: 0,0:05:41.17,0:05:45.63,Chinese,,0,0,0,,并且他们在车内时将会被持续录像
@@ -242,383 +246,411 @@ Dialogue: 0,0:05:53.89,0:05:56.98,English,,0,0,0,,or even sleeping in the driver
 Dialogue: 0,0:05:53.89,0:05:56.98,Chinese,,0,0,0,,甚至坐在驾驶座上睡大觉zzz
 Dialogue: 0,0:05:57.46,0:06:00.57,English,,0,0,0,,All these drivers were trusting the technology too much,
 Dialogue: 0,0:05:57.46,0:06:00.57,Chinese,,0,0,0,,这些司机对这个科技太过信任了
-Dialogue: 0,0:06:00.57,0:06:06.17,English,,0,0,0,,which makes almost fully autonomous vehicles potentially more dangerous than regular cars,
-Dialogue: 0,0:06:00.57,0:06:06.17,Chinese,,0,0,0,,使得这些近乎全自动驾驶的汽车  比普通的车要更危险
+Dialogue: 0,0:06:00.57,0:06:03.11,English,,0,0,0,,which makes almost fully autonomous vehicles
+Dialogue: 0,0:06:03.11,0:06:06.17,English,,0,0,0,,potentially more dangerous than regular cars,
+Dialogue: 0,0:06:00.57,0:06:06.17,Chinese,,0,0,0,,使得这些近乎全自动驾驶的汽车  可能会比普通的车要更危险
+Dialogue: 0,0:06:00.40,0:06:09.59,Chinese,,0,0,0,,{\an9}{\fs45}2020年6月1日\N台湾嘉义  特斯拉Model 3事故
 Dialogue: 0,0:06:06.17,0:06:09.59,English,,0,0,0,,I mean, if the driver is distracted or not prepared to take over.
-Dialogue: 0,0:06:06.17,0:06:09.59,Chinese,,0,0,0,,
-Dialogue: 0,0:06:10.17,0:06:16.91,English,,0,0,0,,So this is why Waymo decided that the only safe way to proceed is with a car that has at least level four autonomy.
-Dialogue: 0,0:06:10.17,0:06:16.91,Chinese,,0,0,0,,
-Dialogue: 0,0:06:21.23,0:06:24.33,English,,0,0,0,,This is the depot where the cars go when they're not on the road.
-Dialogue: 0,0:06:21.23,0:06:24.33,Chinese,,0,0,0,,
-Dialogue: 0,0:06:24.74,0:06:28.19,English,,0,0,0,,And it's also where people monitor all the rides in progress.
-Dialogue: 0,0:06:24.74,0:06:28.19,Chinese,,0,0,0,,
-Dialogue: 0,0:06:28.89,0:06:30.64,English,,0,0,0,,- Yes, so that's where my team sits.
-Dialogue: 0,0:06:28.89,0:06:30.64,Chinese,,0,0,0,,
-Dialogue: 0,0:06:30.64,0:06:32.75,English,,0,0,0,,You see three teams basically here.
-Dialogue: 0,0:06:30.64,0:06:32.75,Chinese,,0,0,0,,
-Dialogue: 0,0:06:32.75,0:06:35.51,English,,0,0,0,,One of the teams is my team of fleet dispatchers,
-Dialogue: 0,0:06:32.75,0:06:35.51,Chinese,,0,0,0,,
-Dialogue: 0,0:06:35.51,0:06:39.22,English,,0,0,0,,so basically making sure that all the mission are assigned every day
-Dialogue: 0,0:06:35.51,0:06:39.22,Chinese,,0,0,0,,
-Dialogue: 0,0:06:39.22,0:06:41.31,English,,0,0,0,,and they are completed successfully on the road.
-Dialogue: 0,0:06:39.22,0:06:41.31,Chinese,,0,0,0,,
-Dialogue: 0,0:06:41.31,0:06:43.63,English,,0,0,0,,And then you have the Rider Support team that takes the calls.
-Dialogue: 0,0:06:41.31,0:06:43.63,Chinese,,0,0,0,,
-Dialogue: 0,0:06:46.50,0:06:50.62,English,,0,0,0,,Thank you for calling the Waymo Rider Support. This is Beulah, how can I help today?
-Dialogue: 0,0:06:46.50,0:06:50.62,Chinese,,0,0,0,,
-Dialogue: 0,0:06:50.62,0:06:54.84,English,,0,0,0,,- I just completed my ride, but I don't wanna get out of the car. I just wanna keep driving.
-Dialogue: 0,0:06:50.62,0:06:54.84,Chinese,,0,0,0,,
+Dialogue: 0,0:06:06.17,0:06:09.59,Chinese,,0,0,0,,我指的是驾驶员分心了、没准备应对突发问题的情况
+Dialogue: 0,0:06:10.17,0:06:14.31,English,,0,0,0,,So this is why Waymo decided that the only safe way to proceed is
+Dialogue: 0,0:06:10.17,0:06:14.31,Chinese,,0,0,0,,这就是为什么Waymo认为  唯一安全的方式是
+Dialogue: 0,0:06:14.31,0:06:16.91,English,,0,0,0,,with a car that has at least level four autonomy.
+Dialogue: 0,0:06:14.31,0:06:16.91,Chinese,,0,0,0,,上路的自动驾驶汽车必须得达到L4级别
+Dialogue: 0,0:06:21.23,0:06:24.33,English,,0,0,0,,This is the depot where the cars go when they're not on the road,
+Dialogue: 0,0:06:21.23,0:06:24.33,Chinese,,0,0,0,,还没上路的汽车就停放在这个仓库
+Dialogue: 0,0:06:24.74,0:06:28.19,English,,0,0,0,,and it's also where people monitor all the rides in progress.
+Dialogue: 0,0:06:24.74,0:06:28.19,Chinese,,0,0,0,,这里也有工程师在监控所有正在进行的行程
+Dialogue: 0,0:06:28.89,0:06:30.40,Chinese,,0,0,0,,我的团队就坐这里
+Dialogue: 0,0:06:30.40,0:06:32.40,Chinese,,0,0,0,,你差不多可以看到有3支团队
+Dialogue: 0,0:06:32.72,0:06:35.30,Chinese,,0,0,0,,其中一支是我带的车队调度团队
+Dialogue: 0,0:06:35.30,0:06:41.08,Chinese,,0,0,0,,我们每天都要分配驾驶任务  保障所有行程都能顺利完成
+Dialogue: 0,0:06:41.08,0:06:43.75,Chinese,,0,0,0,,然后是司机支持团队  负责接听司机的问题
+Dialogue: 0,0:06:46.50,0:06:48.65,English,,0,0,0,,Thank you for calling the Waymo Rider Support.
+Dialogue: 0,0:06:46.50,0:06:48.65,Chinese,,0,0,0,,Waymo司机支持团队感谢您的来电
+Dialogue: 0,0:06:48.65,0:06:50.62,English,,0,0,0,,This is Beulah, how can I help today?
+Dialogue: 0,0:06:48.65,0:06:50.62,Chinese,,0,0,0,,我是比拉  请问您需要什么帮助
+Dialogue: 0,0:06:50.62,0:06:53.53,English,,0,0,0,,- I just completed my ride, but I don't wanna get out of the car.
+Dialogue: 0,0:06:50.63,0:06:53.53,Chinese,,0,0,0,,我刚跑完这趟行程  但我还想再多坐会
+Dialogue: 0,0:06:53.53,0:06:54.84,English,,0,0,0,,I just wanna keep driving.
+Dialogue: 0,0:06:53.53,0:06:54.84,Chinese,,0,0,0,,我想让它继续开
 Dialogue: 0,0:06:54.84,0:06:55.95,English,,0,0,0,,Is there a way that I can do that?
-Dialogue: 0,0:06:54.84,0:06:55.95,Chinese,,0,0,0,,
+Dialogue: 0,0:06:54.84,0:06:55.95,Chinese,,0,0,0,,我能再设置行程吗
 Dialogue: 0,0:06:55.95,0:06:58.18,English,,0,0,0,,Right now, I don't see a trip started.
-Dialogue: 0,0:06:55.95,0:06:58.18,Chinese,,0,0,0,,
+Dialogue: 0,0:06:55.95,0:06:58.18,Chinese,,0,0,0,,您目前暂时没有已开始的行程
 Dialogue: 0,0:06:58.18,0:07:00.78,English,,0,0,0,,Give me one moment here while I partner with my team, okay?
-Dialogue: 0,0:06:58.18,0:07:00.78,Chinese,,0,0,0,,
+Dialogue: 0,0:06:58.18,0:07:00.78,Chinese,,0,0,0,,我需要跟团队一同处理  请稍后
+Dialogue: 0,0:06:58.18,0:07:01.27,Chinese,,0,0,0,,{\an9}{\fs48}前方高亮警告
 Dialogue: 0,0:07:00.78,0:07:01.27,English,,0,0,0,,- Okay.
-Dialogue: 0,0:07:00.78,0:07:01.27,Chinese,,0,0,0,,
+Dialogue: 0,0:07:00.78,0:07:01.27,Chinese,,0,0,0,,好
 Dialogue: 0,0:07:08.44,0:07:10.26,English,,0,0,0,,Well, I just left all my stuff in the car.
-Dialogue: 0,0:07:08.44,0:07:10.26,Chinese,,0,0,0,,
+Dialogue: 0,0:07:08.44,0:07:10.26,Chinese,,0,0,0,,我的所有物品全丢车上了
 Dialogue: 0,0:07:11.16,0:07:12.16,English,,0,0,0,,I hope it comes back.
-Dialogue: 0,0:07:11.16,0:07:12.16,Chinese,,0,0,0,,
+Dialogue: 0,0:07:11.16,0:07:12.16,Chinese,,0,0,0,,希望这车能转回来
 Dialogue: 0,0:07:18.91,0:07:24.35,English,,0,0,0,,- I think there's a lot of, still, resistance in terms of trusting the vehicle.
-Dialogue: 0,0:07:18.91,0:07:24.35,Chinese,,0,0,0,,
+Dialogue: 0,0:07:18.91,0:07:24.35,Chinese,,0,0,0,,我认为  要想信任自动驾驶  仍然有很多障碍
 Dialogue: 0,0:07:24.35,0:07:29.05,English,,0,0,0,,And they ask you like, "How does it feel to be in a car without the driver?"
-Dialogue: 0,0:07:24.35,0:07:29.05,Chinese,,0,0,0,,
+Dialogue: 0,0:07:24.35,0:07:29.05,Chinese,,0,0,0,,人们会问你 「在没有司机的情况下  在车里的感觉如何{\fsp-16}」
 Dialogue: 0,0:07:29.05,0:07:35.31,English,,0,0,0,,I was the first person to do public roads, fully driverless ride at night.
-Dialogue: 0,0:07:29.05,0:07:35.31,Chinese,,0,0,0,,
+Dialogue: 0,0:07:29.05,0:07:35.31,Chinese,,0,0,0,,在公开道路上  我是在夜间进行全自动驾驶的第一人
 Dialogue: 0,0:07:35.31,0:07:36.69,English,,0,0,0,,I always share the experience with them.
-Dialogue: 0,0:07:35.31,0:07:36.69,Chinese,,0,0,0,,
-Dialogue: 0,0:07:36.69,0:07:42.16,English,,0,0,0,,It takes about two minutes for you to completely forget that you are in a driverless vehicle.\N
-Dialogue: 0,0:07:36.69,0:07:42.16,Chinese,,0,0,0,,
+Dialogue: 0,0:07:35.31,0:07:36.69,Chinese,,0,0,0,,我一直和人们分享我的经历
+Dialogue: 0,0:07:36.69,0:07:39.57,English,,0,0,0,,It takes about two minutes for you to completely
+Dialogue: 0,0:07:39.57,0:07:42.16,English,,0,0,0,,forget that you are in a driverless vehicle.
+Dialogue: 0,0:07:36.69,0:07:42.16,Chinese,,0,0,0,,只要两分钟  你就能完全忘记自己坐着一辆没有司机的汽车
 Dialogue: 0,0:07:42.78,0:07:46.92,English,,0,0,0,,If the system really provides that feeling that you're safe
-Dialogue: 0,0:07:42.78,0:07:46.92,Chinese,,0,0,0,,
+Dialogue: 0,0:07:42.78,0:07:46.92,Chinese,,0,0,0,,如果系统能让你切实体会到安全感
 Dialogue: 0,0:07:46.92,0:07:48.89,English,,0,0,0,,and you see a couple of maneuvers,
-Dialogue: 0,0:07:46.92,0:07:48.89,Chinese,,0,0,0,,
-Dialogue: 0,0:07:48.89,0:07:53.83,English,,0,0,0,,in less than two minutes, you're talking to whoever is next to you and not paying attention to what's happening anymore.
-Dialogue: 0,0:07:48.89,0:07:53.83,Chinese,,0,0,0,,
+Dialogue: 0,0:07:46.92,0:07:48.89,Chinese,,0,0,0,,你又看到车跑得很熟练
+Dialogue: 0,0:07:48.89,0:07:51.76,English,,0,0,0,,in less than two minutes, you're talking to whoever is next to you
+Dialogue: 0,0:07:48.89,0:07:51.76,Chinese,,0,0,0,,那不出两分钟  你就会跟旁边人开始唠嗑
+Dialogue: 0,0:07:51.76,0:07:53.83,English,,0,0,0,,and not paying attention to what's happening anymore.
+Dialogue: 0,0:07:51.76,0:07:53.83,Chinese,,0,0,0,,不再关注驾驶情况
 Dialogue: 0,0:07:56.68,0:07:57.04,English,,0,0,0,,- Whoa,
-Dialogue: 0,0:07:56.68,0:07:57.04,Chinese,,0,0,0,,
+Dialogue: 0,0:07:56.68,0:07:57.04,Chinese,,0,0,0,,哇
 Dialogue: 0,0:07:58.33,0:08:00.22,English,,0,0,0,,it doesn't make the indicator sound,
-Dialogue: 0,0:07:58.33,0:08:00.22,Chinese,,0,0,0,,
+Dialogue: 0,0:07:58.33,0:08:00.22,Chinese,,0,0,0,,这车转向时没有“滴滴”声
 Dialogue: 0,0:08:00.22,0:08:03.63,English,,0,0,0,,so I just don't know when it's going to turn,
-Dialogue: 0,0:08:00.22,0:08:03.63,Chinese,,0,0,0,,
+Dialogue: 0,0:08:00.22,0:08:03.63,Chinese,,0,0,0,,所以我（听声音）没法知道它往哪边转
 Dialogue: 0,0:08:04.31,0:08:06.30,English,,0,0,0,,but if I was watching the map, I would know.
-Dialogue: 0,0:08:04.31,0:08:06.30,Chinese,,0,0,0,,
-Dialogue: 0,0:08:08.72,0:08:13.86,English,,0,0,0,,I think we have this bias to believe that we're better at certain tasks than we actually are,
-Dialogue: 0,0:08:08.72,0:08:13.86,Chinese,,0,0,0,,
+Dialogue: 0,0:08:04.31,0:08:06.30,Chinese,,0,0,0,,但我看地图就可以知道了
+Dialogue: 0,0:08:08.72,0:08:11.40,English,,0,0,0,,I think we have this bias to believe that
+Dialogue: 0,0:08:11.40,0:08:13.86,English,,0,0,0,,we're better at certain tasks than we actually are,
+Dialogue: 0,0:08:08.72,0:08:13.86,Chinese,,0,0,0,,我们常常会高估了自己处理特定任务的水平
 Dialogue: 0,0:08:14.33,0:08:16.89,English,,0,0,0,,like thinking that people are good at driving.
-Dialogue: 0,0:08:14.33,0:08:16.89,Chinese,,0,0,0,,
+Dialogue: 0,0:08:14.33,0:08:16.89,Chinese,,0,0,0,,比如说  估计自己擅长开车
 Dialogue: 0,0:08:17.28,0:08:22.99,English,,0,0,0,,Surveys show 74% of people believe they are above average drivers.
-Dialogue: 0,0:08:17.28,0:08:22.99,Chinese,,0,0,0,,
+Dialogue: 0,0:08:17.28,0:08:22.99,Chinese,,0,0,0,,调查显示  74%的人认为自己的驾驶水平高于平均值
 Dialogue: 0,0:08:23.87,0:08:24.50,English,,0,0,0,,Think about that.
-Dialogue: 0,0:08:23.87,0:08:24.50,Chinese,,0,0,0,,
+Dialogue: 0,0:08:23.87,0:08:24.50,Chinese,,0,0,0,,可想而知
 Dialogue: 0,0:08:25.20,0:08:28.55,English,,0,0,0,,In the 20th century, 60 million people were killed on the road.
-Dialogue: 0,0:08:25.20,0:08:28.55,Chinese,,0,0,0,,
+Dialogue: 0,0:08:25.20,0:08:28.55,Chinese,,0,0,0,,在20世纪  有六千万人死于交通事故
 Dialogue: 0,0:08:28.55,0:08:31.77,English,,0,0,0,,That's basically an extra world war's worth of deaths.
-Dialogue: 0,0:08:28.55,0:08:31.77,Chinese,,0,0,0,,
+Dialogue: 0,0:08:28.55,0:08:31.77,Chinese,,0,0,0,,死亡人数相当于又打了一场世界大战
 Dialogue: 0,0:08:32.29,0:08:34.70,English,,0,0,0,,And we really have no one to blame but ourselves.
-Dialogue: 0,0:08:32.29,0:08:34.70,Chinese,,0,0,0,,
-Dialogue: 0,0:08:34.97,0:08:41.04,English,,0,0,0,,The National Transportation and Safety Board has identified human error as the cause of 94% of accidents.
-Dialogue: 0,0:08:34.97,0:08:41.04,Chinese,,0,0,0,,
+Dialogue: 0,0:08:32.29,0:08:34.70,Chinese,,0,0,0,,但我们能指责的人只有我们自身
+Dialogue: 0,0:08:34.97,0:08:37.57,English,,0,0,0,,The National Transportation and Safety Board has identified
+Dialogue: 0,0:08:34.97,0:08:37.57,Chinese,,0,0,0,,国家运输安全委员会已经确定
+Dialogue: 0,0:08:37.57,0:08:41.04,English,,0,0,0,,human error as the cause of 94% of accidents.
+Dialogue: 0,0:08:37.57,0:08:41.04,Chinese,,0,0,0,,94%的交通事故是人为错误造成的
 Dialogue: 0,0:08:41.49,0:08:45.14,English,,0,0,0,,Most of these errors are impossible for a machine to make.
-Dialogue: 0,0:08:41.49,0:08:45.14,Chinese,,0,0,0,,
+Dialogue: 0,0:08:41.49,0:08:45.14,Chinese,,0,0,0,,绝大多数这类错误是机器不可能犯的
 Dialogue: 0,0:08:46.19,0:08:51.25,English,,0,0,0,,Every year when people are backing out of driveways or parking spaces,
-Dialogue: 0,0:08:46.19,0:08:51.25,Chinese,,0,0,0,,
 Dialogue: 0,0:08:51.25,0:08:54.60,English,,0,0,0,,in the U.S, up to 200 people are killed,
-Dialogue: 0,0:08:51.25,0:08:54.60,Chinese,,0,0,0,,
+Dialogue: 0,0:08:46.19,0:08:54.60,Chinese,,0,0,0,,在美国  每年死于倒车事故的人多达200人
 Dialogue: 0,0:08:54.60,0:08:58.76,English,,0,0,0,,and it's frequently older people or children, the children of the drivers.
-Dialogue: 0,0:08:54.60,0:08:58.76,Chinese,,0,0,0,,
-Dialogue: 0,0:08:59.38,0:08:59.99,English,,0,0,0,,It's awful.
-Dialogue: 0,0:08:59.38,0:08:59.99,Chinese,,0,0,0,,
+Dialogue: 0,0:08:54.60,0:08:58.76,Chinese,,0,0,0,,死者多为老人和小孩  司机的小孩
+Dialogue: 0,0:08:59.38,0:09:00.57,English,,0,0,0,,It's awful.
+Dialogue: 0,0:08:59.38,0:09:00.57,Chinese,,0,0,0,,太糟糕了
 Dialogue: 0,0:09:00.57,0:09:03.97,English,,0,0,0,,And it comes down to the fact that we don't have eyes in the back of our head,
-Dialogue: 0,0:09:00.57,0:09:03.97,Chinese,,0,0,0,,
+Dialogue: 0,0:09:00.57,0:09:03.97,Chinese,,0,0,0,,这归根到底是因为  我们毕竟没在后脑勺长眼睛
 Dialogue: 0,0:09:03.97,0:09:07.35,English,,0,0,0,,and even the backup cameras still have blind spots.
-Dialogue: 0,0:09:03.97,0:09:07.35,Chinese,,0,0,0,,
+Dialogue: 0,0:09:03.97,0:09:07.35,Chinese,,0,0,0,,即使是倒车雷达  也免不了存在盲区
 Dialogue: 0,0:09:07.35,0:09:13.25,English,,0,0,0,,But if you have a vehicle that has lidar, and radar, and 29 cameras,
-Dialogue: 0,0:09:07.35,0:09:13.25,Chinese,,0,0,0,,
+Dialogue: 0,0:09:07.35,0:09:13.25,Chinese,,0,0,0,,但如果你的车子上有激光雷达、微波雷达  还有29个摄像头
 Dialogue: 0,0:09:13.25,0:09:16.40,English,,0,0,0,,you're just not going to hit them.
-Dialogue: 0,0:09:13.25,0:09:16.40,Chinese,,0,0,0,,
+Dialogue: 0,0:09:13.25,0:09:16.40,Chinese,,0,0,0,,那就不会再碰上后面的人了
 Dialogue: 0,0:09:16.40,0:09:21.06,English,,0,0,0,,Up here in the very prominent top, there is a 360 lidar.
-Dialogue: 0,0:09:16.40,0:09:21.06,Chinese,,0,0,0,,
+Dialogue: 0,0:09:16.40,0:09:21.06,Chinese,,0,0,0,,在车顶上有个硕大的360°激光雷达
 Dialogue: 0,0:09:21.49,0:09:23.76,English,,0,0,0,,So it can see all around the car.
-Dialogue: 0,0:09:21.49,0:09:23.76,Chinese,,0,0,0,,
+Dialogue: 0,0:09:21.49,0:09:23.76,Chinese,,0,0,0,,它对周遭事物能一览无余
 Dialogue: 0,0:09:23.76,0:09:26.95,English,,0,0,0,,It can see up to 300 meters away with a lidar.
-Dialogue: 0,0:09:23.76,0:09:26.95,Chinese,,0,0,0,,
+Dialogue: 0,0:09:23.76,0:09:26.95,Chinese,,0,0,0,,激光雷达能识别到300米外的东西
 Dialogue: 0,0:09:27.32,0:09:32.09,English,,0,0,0,,The way the lidar works is it shoots out invisible laser beams,
-Dialogue: 0,0:09:27.32,0:09:32.09,Chinese,,0,0,0,,
+Dialogue: 0,0:09:27.32,0:09:32.09,Chinese,,0,0,0,,激光雷达的工作原理是  发射肉眼不可见的激光束
 Dialogue: 0,0:09:32.09,0:09:35.04,English,,0,0,0,,scanning around millions of times a second,
-Dialogue: 0,0:09:32.09,0:09:35.04,Chinese,,0,0,0,,
+Dialogue: 0,0:09:32.09,0:09:35.04,Chinese,,0,0,0,,以每秒10⁶次的速度扫描周围
 Dialogue: 0,0:09:35.04,0:09:37.05,English,,0,0,0,,and then it detects the reflection,
-Dialogue: 0,0:09:35.04,0:09:37.05,Chinese,,0,0,0,,
-Dialogue: 0,0:09:37.05,0:09:41.72,English,,0,0,0,,\Nand how long it takes to come back allows you to determine how far it is to that object.
-Dialogue: 0,0:09:37.05,0:09:41.72,Chinese,,0,0,0,,
+Dialogue: 0,0:09:35.04,0:09:37.05,Chinese,,0,0,0,,它会探测反射的激光
+Dialogue: 0,0:09:37.05,0:09:38.99,English,,0,0,0,,and how long it takes to come back
+Dialogue: 0,0:09:38.99,0:09:41.72,English,,0,0,0,,allows you to determine how far it is to that object.
+Dialogue: 0,0:09:37.05,0:09:41.72,Chinese,,0,0,0,,计算激光来回的时间  即可知道外部事物距车有多远
 Dialogue: 0,0:09:42.14,0:09:46.57,English,,0,0,0,,So what it's doing is like painting a 3D picture of the world.
-Dialogue: 0,0:09:42.14,0:09:46.57,Chinese,,0,0,0,,
+Dialogue: 0,0:09:42.14,0:09:46.57,Chinese,,0,0,0,,它所做的就好比是给环境画了张三维的画
 Dialogue: 0,0:09:47.08,0:09:50.99,English,,0,0,0,,There are 29 cameras around this vehicle,
-Dialogue: 0,0:09:47.08,0:09:50.99,Chinese,,0,0,0,,
+Dialogue: 0,0:09:47.08,0:09:50.99,Chinese,,0,0,0,,车子全身有29个摄像头
 Dialogue: 0,0:09:50.99,0:09:53.50,English,,0,0,0,,which gives you full 360 vision.
-Dialogue: 0,0:09:50.99,0:09:53.50,Chinese,,0,0,0,,
+Dialogue: 0,0:09:50.99,0:09:53.50,Chinese,,0,0,0,,提供了360°全方位的视野
 Dialogue: 0,0:09:53.50,0:09:56.79,English,,0,0,0,,It gives you close range vision, what is right next to the car,
-Dialogue: 0,0:09:53.50,0:09:56.79,Chinese,,0,0,0,,
+Dialogue: 0,0:09:53.50,0:09:56.79,Chinese,,0,0,0,,它能看得近  近到紧挨着车子的东西
 Dialogue: 0,0:09:56.79,0:10:01.09,English,,0,0,0,,and also long range vision, going out 500 meters.
-Dialogue: 0,0:09:56.79,0:10:01.09,Chinese,,0,0,0,,
+Dialogue: 0,0:09:56.79,0:10:01.09,Chinese,,0,0,0,,也能看得远  远到500米外
 Dialogue: 0,0:10:01.09,0:10:05.61,English,,0,0,0,,This car could detect a stop sign or a pedestrian 500 meters away.
-Dialogue: 0,0:10:01.09,0:10:05.61,Chinese,,0,0,0,,
+Dialogue: 0,0:10:01.09,0:10:05.61,Chinese,,0,0,0,,它能识别出500米外的停车路牌和行人
 Dialogue: 0,0:10:05.61,0:10:08.57,English,,0,0,0,,How many of us have eyesight that is that good?
-Dialogue: 0,0:10:05.61,0:10:08.57,Chinese,,0,0,0,,
+Dialogue: 0,0:10:05.61,0:10:08.57,Chinese,,0,0,0,,没几个地球人有这么好的视力
 Dialogue: 0,0:10:08.57,0:10:11.53,English,,0,0,0,,There is also a microphone up on top
-Dialogue: 0,0:10:08.57,0:10:11.53,Chinese,,0,0,0,,
+Dialogue: 0,0:10:08.57,0:10:11.53,Chinese,,0,0,0,,顶上还有个麦克风
 Dialogue: 0,0:10:12.11,0:10:14.65,English,,0,0,0,,to listen to what's happening in the environment,
-Dialogue: 0,0:10:12.11,0:10:14.65,Chinese,,0,0,0,,
+Dialogue: 0,0:10:12.11,0:10:14.65,Chinese,,0,0,0,,来倾听周围环境发生了什么
 Dialogue: 0,0:10:14.65,0:10:19.38,English,,0,0,0,,and if there are sirens, then the car will pull over to the side of the road.
-Dialogue: 0,0:10:14.65,0:10:19.38,Chinese,,0,0,0,,
+Dialogue: 0,0:10:14.65,0:10:19.38,Chinese,,0,0,0,,如果有警笛声  车子会靠边停
 Dialogue: 0,0:10:19.38,0:10:22.26,English,,0,0,0,,It's gotta be able to respond to emergency vehicles.
-Dialogue: 0,0:10:19.38,0:10:22.26,Chinese,,0,0,0,,
+Dialogue: 0,0:10:19.38,0:10:22.26,Chinese,,0,0,0,,它能够对应急车种有所反应
 Dialogue: 0,0:10:31.56,0:10:35.35,English,,0,0,0,,What I wanna see here is, how does it handle a parking lot
-Dialogue: 0,0:10:31.56,0:10:35.35,Chinese,,0,0,0,,
-Dialogue: 0,0:10:36.04,0:10:39.71,English,,0,0,0,,where there's people driving in unusual ways
-Dialogue: 0,0:10:36.04,0:10:39.71,Chinese,,0,0,0,,
-Dialogue: 0,0:10:40.21,0:10:42.21,English,,0,0,0,,and possibly pedestrians walking around?
-Dialogue: 0,0:10:40.21,0:10:42.21,Chinese,,0,0,0,,
+Dialogue: 0,0:10:31.56,0:10:35.35,Chinese,,0,0,0,,我想看看它如何应对停车场的环境
+Dialogue: 0,0:10:36.04,0:10:40.21,English,,0,0,0,,where there's people driving in unusual ways and
+Dialogue: 0,0:10:36.04,0:10:40.21,Chinese,,0,0,0,,停车场里的开车方式不同于道路
+Dialogue: 0,0:10:40.21,0:10:42.21,English,,0,0,0,,possibly pedestrians walking around?
+Dialogue: 0,0:10:40.21,0:10:42.21,Chinese,,0,0,0,,并且会有行人到处走
 Dialogue: 0,0:10:47.15,0:10:47.64,English,,0,0,0,,Whoa.
-Dialogue: 0,0:10:47.15,0:10:47.64,Chinese,,0,0,0,,
+Dialogue: 0,0:10:47.15,0:10:47.64,Chinese,,0,0,0,,哇
 Dialogue: 0,0:10:48.17,0:10:49.79,English,,0,0,0,,That was a sudden stop.
-Dialogue: 0,0:10:48.17,0:10:49.79,Chinese,,0,0,0,,
+Dialogue: 0,0:10:48.17,0:10:49.79,Chinese,,0,0,0,,这是急停
 Dialogue: 0,0:10:52.04,0:10:53.73,English,,0,0,0,,The car made a pretty hard stop there.
-Dialogue: 0,0:10:52.04,0:10:53.73,Chinese,,0,0,0,,
+Dialogue: 0,0:10:52.04,0:10:53.73,Chinese,,0,0,0,,这刹车怕是踩死了
 Dialogue: 0,0:10:53.73,0:10:57.58,English,,0,0,0,,I think it saw that guy with a cart coming up on a pedestrian crosswalk.
-Dialogue: 0,0:10:53.73,0:10:57.58,Chinese,,0,0,0,,
-Dialogue: 0,0:10:57.95,0:11:00.68,English,,0,0,0,,And one of the interesting things that the vehicle is always doing
-Dialogue: 0,0:10:57.95,0:11:00.68,Chinese,,0,0,0,,
-Dialogue: 0,0:11:01.04,0:11:04.11,English,,0,0,0,,is not only seeing where things are and where they're going,
-Dialogue: 0,0:11:01.04,0:11:04.11,Chinese,,0,0,0,,
-Dialogue: 0,0:11:04.43,0:11:07.65,English,,0,0,0,,but also making predictions about where they're likely to go.
-Dialogue: 0,0:11:04.43,0:11:07.65,Chinese,,0,0,0,,
+Dialogue: 0,0:10:53.73,0:10:57.58,Chinese,,0,0,0,,它应该看到了那个推车的人走到了人行横道上
+Dialogue: 0,0:10:57.95,0:11:01.43,English,,0,0,0,,And one of the interesting things that the vehicle is always doing is
+Dialogue: 0,0:10:57.95,0:11:01.43,Chinese,,0,0,0,,这辆车一直使用的驾驶方式有个好玩之处在于
+Dialogue: 0,0:11:01.43,0:11:04.43,English,,0,0,0,,not only seeing where things are and where they're going,
+Dialogue: 0,0:11:01.43,0:11:04.43,Chinese,,0,0,0,,它不单单看到事物在哪里  事物往哪边移动
+Dialogue: 0,0:11:04.43,0:11:08.15,English,,0,0,0,,but also making predictions about where they're likely to go.
+Dialogue: 0,0:11:04.43,0:11:08.15,Chinese,,0,0,0,,这车还会预测事物最有可能往哪边移动
 Dialogue: 0,0:11:08.15,0:11:12.24,English,,0,0,0,,So this car doesn't just have one potential future.
-Dialogue: 0,0:11:08.15,0:11:12.24,Chinese,,0,0,0,,
+Dialogue: 0,0:11:08.15,0:11:12.24,Chinese,,0,0,0,,所以这车并非一定会刹停  也可能有其他反应
 Dialogue: 0,0:11:12.24,0:11:15.96,English,,0,0,0,,It's constantly imagining, "Well, he might cross at the crosswalk,"
-Dialogue: 0,0:11:12.24,0:11:15.96,Chinese,,0,0,0,,
-Dialogue: 0,0:11:15.96,0:11:18.17,English,,0,0,0,,or, "He might keep going," or, "He might turn left,"
-Dialogue: 0,0:11:15.96,0:11:18.17,Chinese,,0,0,0,,
+Dialogue: 0,0:11:12.24,0:11:15.96,Chinese,,0,0,0,,它不断地想象 「嗯  他可能会在人行横道上过马路{\fsp-16}」
+Dialogue: 0,0:11:15.96,0:11:18.68,English,,0,0,0,,or, "He might keep going," or, "He might turn left,"
+Dialogue: 0,0:11:15.96,0:11:18.68,Chinese,,0,0,0,,或者「他可能会继续走」或者「他可能会左转{\fsp-16}」
 Dialogue: 0,0:11:18.68,0:11:22.16,English,,0,0,0,,and so it has to be prepared for all of those different options.
-Dialogue: 0,0:11:18.68,0:11:22.16,Chinese,,0,0,0,,
+Dialogue: 0,0:11:18.68,0:11:22.16,Chinese,,0,0,0,,它得对这多种可能统统做好准备
 Dialogue: 0,0:11:22.16,0:11:24.08,English,,0,0,0,,And it even weights the options
-Dialogue: 0,0:11:22.16,0:11:24.08,Chinese,,0,0,0,,
+Dialogue: 0,0:11:22.16,0:11:24.08,Chinese,,0,0,0,,它还会衡量各种选项的可能性
 Dialogue: 0,0:11:24.08,0:11:27.10,English,,0,0,0,,of like how likely it thinks that he's gonna go on the crosswalk
-Dialogue: 0,0:11:24.08,0:11:27.10,Chinese,,0,0,0,,
+Dialogue: 0,0:11:24.08,0:11:27.10,Chinese,,0,0,0,,比如说  这人有多大可能上人行横道
 Dialogue: 0,0:11:27.10,0:11:29.03,English,,0,0,0,,versus go straight versus turn.
-Dialogue: 0,0:11:27.10,0:11:29.03,Chinese,,0,0,0,,
-Dialogue: 0,0:11:29.39,0:11:34.31,English,,0,0,0,,And you can see that with the thickness of the line in the little simulated graphic that they have.
-Dialogue: 0,0:11:29.39,0:11:34.31,Chinese,,0,0,0,,
+Dialogue: 0,0:11:27.10,0:11:29.03,Chinese,,0,0,0,,又有多大可能直走或者左转
+Dialogue: 0,0:11:29.39,0:11:31.79,English,,0,0,0,,And you can see that with the thickness of the line
+Dialogue: 0,0:11:31.79,0:11:34.31,English,,0,0,0,,in the little simulated graphic that they have.
+Dialogue: 0,0:11:29.39,0:11:34.31,Chinese,,0,0,0,,这在他们的模拟图像中以线条粗细的方式来体现
 Dialogue: 0,0:11:38.49,0:11:41.29,English,,0,0,0,,A few years back, I think a lot of people were talking about
-Dialogue: 0,0:11:38.49,0:11:41.29,Chinese,,0,0,0,,
+Dialogue: 0,0:11:38.49,0:11:41.29,Chinese,,0,0,0,,几年前有很多人在讨论
 Dialogue: 0,0:11:41.29,0:11:46.16,English,,0,0,0,,how autonomous vehicles have to figure out who to hit in case of an accident,
-Dialogue: 0,0:11:41.29,0:11:46.16,Chinese,,0,0,0,,
+Dialogue: 0,0:11:41.29,0:11:46.16,Chinese,,0,0,0,,发生事故时  自动驾驶汽车要如何抉择该撞谁
 Dialogue: 0,0:11:46.16,0:11:49.04,English,,0,0,0,,like do the pick the orphan or the nun?
-Dialogue: 0,0:11:46.16,0:11:49.04,Chinese,,0,0,0,,
-Dialogue: 0,0:11:49.04,0:11:51.63,English,,0,0,0,,Should the car hit the motorcyclist with the helmet on
-Dialogue: 0,0:11:49.04,0:11:51.63,Chinese,,0,0,0,,
-Dialogue: 0,0:11:51.63,0:11:53.91,English,,0,0,0,,because his injuries might be less severe
-Dialogue: 0,0:11:51.63,0:11:53.91,Chinese,,0,0,0,,
-Dialogue: 0,0:11:53.91,0:11:56.87,English,,0,0,0,,or should the car hit the motorcyclist who does not have a helmet on
-Dialogue: 0,0:11:53.91,0:11:56.87,Chinese,,0,0,0,,
-Dialogue: 0,0:11:56.87,0:11:58.97,English,,0,0,0,,because he did not properly protect himself?
-Dialogue: 0,0:11:56.87,0:11:58.97,Chinese,,0,0,0,,
-Dialogue: 0,0:11:58.97,0:12:01.80,English,,0,0,0,,If cars were programmed to hit the motorcyclist with the helmet,
-Dialogue: 0,0:11:58.97,0:12:01.80,Chinese,,0,0,0,,
-Dialogue: 0,0:12:01.80,0:12:05.47,English,,0,0,0,,that would mean that, in a way, it would become safer to ride without a helmet.
-Dialogue: 0,0:12:01.80,0:12:05.47,Chinese,,0,0,0,,
+Dialogue: 0,0:11:46.16,0:11:49.04,Chinese,,0,0,0,,要撞孤儿还是修女（**REVIEW：不知道是不是俗语**）
+Dialogue: 0,0:11:48.83,0:12:05.43,Chinese,,0,0,0,,{\an1}{\fs48}{\pos(199,598)}{\fad(500,0)}{\c&000000&}{\shad0}{\bord0}{\b1}无人驾驶汽车混乱的伦理{\b0}
+Dialogue: 0,0:11:49.04,0:11:51.63,English,,0,0,0,,{\an8}Should the car hit the motorcyclist with the helmet on
+Dialogue: 0,0:11:49.04,0:11:51.63,Chinese,,0,0,0,,这车是应该撞右边带了头盔的摩托车手…
+Dialogue: 0,0:11:51.63,0:11:53.91,English,,0,0,0,,{\an8}because his injuries might be less severe
+Dialogue: 0,0:11:51.63,0:11:53.91,Chinese,,0,0,0,,因为他受的伤不会那么重呢
+Dialogue: 0,0:11:53.91,0:11:56.87,English,,0,0,0,,{\an8}or should the car hit the motorcyclist who does not have a helmet on
+Dialogue: 0,0:11:53.91,0:11:56.87,Chinese,,0,0,0,,还是应该撞左边没带头盔的摩托车手…
+Dialogue: 0,0:11:56.87,0:11:58.97,English,,0,0,0,,{\an8}because he did not properly protect himself?
+Dialogue: 0,0:11:56.87,0:11:58.97,Chinese,,0,0,0,,因为他没有好好保护自己{\fsp-16}？
+Dialogue: 0,0:11:58.97,0:12:01.80,English,,0,0,0,,{\an8}If cars were programmed to hit the motorcyclist with the helmet,
+Dialogue: 0,0:11:58.97,0:12:01.80,Chinese,,0,0,0,,如果这车的程序被设定为  去撞戴了安全帽的车手
+Dialogue: 0,0:12:01.80,0:12:05.43,English,,0,0,0,,{\an8}that would mean that, in a way, it would become safer to ride without a helmet.
+Dialogue: 0,0:12:01.80,0:12:05.43,Chinese,,0,0,0,,那从某种意义上来说  不带安全帽的车手反而更安全了
 Dialogue: 0,0:12:06.31,0:12:11.70,English,,0,0,0,,But the reality is that 99% of accidents aren't like that.
-Dialogue: 0,0:12:06.31,0:12:11.70,Chinese,,0,0,0,,
+Dialogue: 0,0:12:06.31,0:12:11.70,Chinese,,0,0,0,,可在现实中  99%的事故都不是这样的啊
 Dialogue: 0,0:12:11.70,0:12:16.85,English,,0,0,0,,Every year, around 1.3 million people are killed on the roads,
-Dialogue: 0,0:12:11.70,0:12:16.85,Chinese,,0,0,0,,
+Dialogue: 0,0:12:11.70,0:12:16.85,Chinese,,0,0,0,,每一年  大约有130万人死于交通事故
 Dialogue: 0,0:12:16.85,0:12:19.17,English,,0,0,0,,almost all of them due to human error.
-Dialogue: 0,0:12:16.85,0:12:19.17,Chinese,,0,0,0,,
+Dialogue: 0,0:12:16.85,0:12:19.17,Chinese,,0,0,0,,绝大部分都是人为失误导致
 Dialogue: 0,0:12:19.17,0:12:22.25,English,,0,0,0,,If autonomous cars can reduce these fatalities,
-Dialogue: 0,0:12:19.17,0:12:22.25,Chinese,,0,0,0,,
+Dialogue: 0,0:12:19.17,0:12:22.25,Chinese,,0,0,0,,如果自动驾驶汽车能够减少事故死亡
 Dialogue: 0,0:12:22.25,0:12:25.74,English,,0,0,0,,then the real moral dilemma is not getting them on the road sooner
-Dialogue: 0,0:12:22.25,0:12:25.74,Chinese,,0,0,0,,
+Dialogue: 0,0:12:22.25,0:12:25.74,Chinese,,0,0,0,,那么真正导致这些车没法上路的道德困境在于
 Dialogue: 0,0:12:25.74,0:12:28.37,English,,0,0,0,,for fear we haven't worked out exactly how they'll react
-Dialogue: 0,0:12:25.74,0:12:28.37,Chinese,,0,0,0,,
+Dialogue: 0,0:12:25.74,0:12:28.37,Chinese,,0,0,0,,因为我们惧怕车在极小概率情况下的反应尚未清楚
 Dialogue: 0,0:12:28.37,0:12:32.11,English,,0,0,0,,to extremely unlikely hypothetical scenarios.
-Dialogue: 0,0:12:28.37,0:12:32.11,Chinese,,0,0,0,,
+Dialogue: 0,0:12:28.37,0:12:32.11,Chinese,,0,0,0,,因为我们惧怕车在极小概率情况下的反应尚未清楚
 Dialogue: 0,0:12:33.44,0:12:36.33,English,,0,0,0,,I think humans are becoming worse drivers
-Dialogue: 0,0:12:33.44,0:12:36.33,Chinese,,0,0,0,,
+Dialogue: 0,0:12:33.44,0:12:36.33,Chinese,,0,0,0,,人类正在成为更差的司机
 Dialogue: 0,0:12:36.33,0:12:38.90,English,,0,0,0,,because we're just so prone to distraction.
-Dialogue: 0,0:12:36.33,0:12:38.90,Chinese,,0,0,0,,
+Dialogue: 0,0:12:36.33,0:12:38.90,Chinese,,0,0,0,,因为我们真的太容易分心了
 Dialogue: 0,0:12:39.71,0:12:44.24,English,,0,0,0,,Think about the main reasons why cars crash:
-Dialogue: 0,0:12:39.71,0:12:44.24,Chinese,,0,0,0,,
+Dialogue: 0,0:12:39.71,0:12:44.24,Chinese,,0,0,0,,想想撞车的主要原因
 Dialogue: 0,0:12:44.24,0:12:49.74,English,,0,0,0,,because people are speeding, they're under the influence, they're distracted.
-Dialogue: 0,0:12:44.24,0:12:49.74,Chinese,,0,0,0,,
+Dialogue: 0,0:12:44.24,0:12:49.74,Chinese,,0,0,0,,就是人们超速了、受到什么影响了、分心了
 Dialogue: 0,0:12:50.22,0:12:55.35,English,,0,0,0,,I mean, these sorts of problems, an autonomous vehicle would not have.
-Dialogue: 0,0:12:50.22,0:12:55.35,Chinese,,0,0,0,,
+Dialogue: 0,0:12:50.22,0:12:55.35,Chinese,,0,0,0,,我认为这些问题都是自动驾驶汽车不会有的
 Dialogue: 0,0:12:55.35,0:12:57.39,English,,0,0,0,,You don't get a distracted driver.
-Dialogue: 0,0:12:55.35,0:12:57.39,Chinese,,0,0,0,,
-Dialogue: 0,0:12:57.39,0:13:02.09,English,,0,0,0,,The ultimate question, right, that everyone wants to know, that I want to know the answer to is,
-Dialogue: 0,0:12:57.39,0:13:02.09,Chinese,,0,0,0,,
+Dialogue: 0,0:12:55.35,0:12:57.39,Chinese,,0,0,0,,电脑“司机”永远不会分心
+Dialogue: 0,0:12:57.39,0:12:58.74,English,,0,0,0,,The ultimate question, right,
+Dialogue: 0,0:12:58.74,0:13:02.09,English,,0,0,0,,that everyone wants to know, that I want to know the answer to is,
+Dialogue: 0,0:12:57.39,0:13:02.09,Chinese,,0,0,0,,这个终极问题的答案  也是我和所有人都想知道的
 Dialogue: 0,0:13:02.09,0:13:05.80,English,,0,0,0,,as these vehicles stand, are they better than the average human?
-Dialogue: 0,0:13:02.09,0:13:05.80,Chinese,,0,0,0,,
+Dialogue: 0,0:13:02.09,0:13:05.80,Chinese,,0,0,0,,就目前的自动驾驶水平而言  它们是否优于人类的平均水平
 Dialogue: 0,0:13:05.80,0:13:08.61,English,,0,0,0,,Not than the best human, but just like an average human.
-Dialogue: 0,0:13:05.80,0:13:08.61,Chinese,,0,0,0,,
+Dialogue: 0,0:13:05.80,0:13:08.61,Chinese,,0,0,0,,不和最好的比  但能不能达到普通人的水平
 Dialogue: 0,0:13:08.61,0:13:12.38,English,,0,0,0,,Like replacing some random car on the street with one of these vehicles,
-Dialogue: 0,0:13:08.61,0:13:12.38,Chinese,,0,0,0,,
+Dialogue: 0,0:13:08.61,0:13:12.38,Chinese,,0,0,0,,比如说随机把大街上的一些车换成自动驾驶汽车
 Dialogue: 0,0:13:12.38,0:13:13.83,English,,0,0,0,,does that make the road safer?
-Dialogue: 0,0:13:12.38,0:13:13.83,Chinese,,0,0,0,,
+Dialogue: 0,0:13:12.38,0:13:13.83,Chinese,,0,0,0,,会让这条路更安全吗{\fsp-16}？
 Dialogue: 0,0:13:13.83,0:13:14.89,English,,0,0,0,,- Yes, it does.
-Dialogue: 0,0:13:13.83,0:13:14.89,Chinese,,0,0,0,,
+Dialogue: 0,0:13:13.83,0:13:14.89,Chinese,,0,0,0,,答案是肯定的
 Dialogue: 0,0:13:14.89,0:13:19.86,English,,0,0,0,,I think we would never launch a rider-only service
-Dialogue: 0,0:13:14.89,0:13:19.86,Chinese,,0,0,0,,
+Dialogue: 0,0:13:14.89,0:13:19.86,Chinese,,0,0,0,,我认为  如果一项面向司机的服务不满足基础的安全框架
 Dialogue: 0,0:13:19.86,0:13:23.27,English,,0,0,0,,if we did not meet that base safety framework.
-Dialogue: 0,0:13:19.86,0:13:23.27,Chinese,,0,0,0,,
-Dialogue: 0,0:13:23.27,0:13:31.30,English,,0,0,0,,- If that's true, it means like every vehicle that's not on the road is kind of a worse situation,
-Dialogue: 0,0:13:23.27,0:13:31.30,Chinese,,0,0,0,,
+Dialogue: 0,0:13:19.86,0:13:23.27,Chinese,,0,0,0,,那我们坚决不会将这项服务向大众推行
+Dialogue: 0,0:13:23.27,0:13:26.33,English,,0,0,0,,- If that's true, it means like
+Dialogue: 0,0:13:23.27,0:13:26.33,Chinese,,0,0,0,,如果这是真的，这就意味着
+Dialogue: 0,0:13:26.33,0:13:31.30,English,,0,0,0,,every vehicle that's not on the road is kind of a worse situation,
+Dialogue: 0,0:13:26.33,0:13:31.30,Chinese,,0,0,0,,所有不在路上的车都处于更糟糕的情况
 Dialogue: 0,0:13:31.30,0:13:31.96,English,,0,0,0,,do you know what I mean?
-Dialogue: 0,0:13:31.30,0:13:31.96,Chinese,,0,0,0,,
+Dialogue: 0,0:13:31.30,0:13:31.96,Chinese,,0,0,0,,懂我意思吗
 Dialogue: 0,0:13:31.96,0:13:35.29,English,,0,0,0,,- We are really working really hard to launch this
-Dialogue: 0,0:13:31.96,0:13:35.29,Chinese,,0,0,0,,
 Dialogue: 0,0:13:35.29,0:13:38.41,English,,0,0,0,,in larger areas and new areas too,
-Dialogue: 0,0:13:35.29,0:13:38.41,Chinese,,0,0,0,,
-Dialogue: 0,0:13:38.41,0:13:42.38,English,,0,0,0,,but we need to have the experience to show the regulators why we believe it's safer,
-Dialogue: 0,0:13:38.41,0:13:42.38,Chinese,,0,0,0,,
-Dialogue: 0,0:13:42.38,0:13:50.12,English,,0,0,0,,and, for that, you need to be driving miles, a number of miles that you feel comfortable with, statistically speaking.
-Dialogue: 0,0:13:42.38,0:13:50.12,Chinese,,0,0,0,,
+Dialogue: 0,0:13:31.96,0:13:38.41,Chinese,,0,0,0,,我们真的在想尽办法  往更广阔的领域提供自动驾驶服务
+Dialogue: 0,0:13:38.41,0:13:39.75,English,,0,0,0,,but we need to have the experience
+Dialogue: 0,0:13:38.41,0:13:39.75,Chinese,,0,0,0,,但我们需要更多的实践经验
+Dialogue: 0,0:13:39.75,0:13:42.38,English,,0,0,0,,to show the regulators why we believe it's safer,
+Dialogue: 0,0:13:39.75,0:13:42.38,Chinese,,0,0,0,,来向监管机构证明「我们相信它更安全」
+Dialogue: 0,0:13:42.38,0:13:45.12,English,,0,0,0,,and, for that, you need to be driving miles,
+Dialogue: 0,0:13:42.38,0:13:45.12,Chinese,,0,0,0,,为此需要更多的行驶里程
+Dialogue: 0,0:13:45.12,0:13:50.12,English,,0,0,0,,a number of miles that you feel comfortable with, statistically speaking.
+Dialogue: 0,0:13:45.12,0:13:50.12,Chinese,,0,0,0,,从统计学角度来说要多到让人足够放心
 Dialogue: 0,0:13:50.12,0:13:54.44,English,,0,0,0,,- These vehicles have way more experience than any human driver
-Dialogue: 0,0:13:50.12,0:13:54.44,Chinese,,0,0,0,,
-Dialogue: 0,0:13:54.44,0:14:00.22,English,,0,0,0,,because they've now accumulated data over 20 million miles of driving on public roads.
-Dialogue: 0,0:13:54.44,0:14:00.22,Chinese,,0,0,0,,
-Dialogue: 0,0:14:00.73,0:14:07.09,English,,0,0,0,,If you were an average driver, you'd have to drive for a thousand years to accumulate that sort of experience.
-Dialogue: 0,0:14:00.73,0:14:07.09,Chinese,,0,0,0,,
+Dialogue: 0,0:13:50.12,0:13:54.44,Chinese,,0,0,0,,这些车的驾驶经验比任何一位人类老司机都多
+Dialogue: 0,0:13:54.44,0:13:56.26,English,,0,0,0,,because they've now accumulated data
+Dialogue: 0,0:13:56.26,0:14:00.22,English,,0,0,0,,over 20 million miles of driving on public roads.
+Dialogue: 0,0:13:54.44,0:14:00.22,Chinese,,0,0,0,,因为他们在公共道路上收集的行驶数据  已超过两千万英里
+Dialogue: 0,0:14:00.73,0:14:05.22,English,,0,0,0,,If you were an average driver, you'd have to drive for a thousand years
+Dialogue: 0,0:14:05.22,0:14:07.09,English,,0,0,0,,to accumulate that sort of experience.
+Dialogue: 0,0:14:00.73,0:14:07.09,Chinese,,0,0,0,,普通司机需要开上一千年的车  才能积累这么多里程
 Dialogue: 0,0:14:07.09,0:14:11.88,English,,0,0,0,,And all of that experience can be used to train the systems, to fix the software,
-Dialogue: 0,0:14:07.09,0:14:11.88,Chinese,,0,0,0,,
+Dialogue: 0,0:14:07.09,0:14:11.88,Chinese,,0,0,0,,Waymo积累的所有经验都可用于训练系统、修正软件
 Dialogue: 0,0:14:11.88,0:14:14.29,English,,0,0,0,,and used across all the vehicles in the fleet.
-Dialogue: 0,0:14:11.88,0:14:14.29,Chinese,,0,0,0,,
+Dialogue: 0,0:14:11.88,0:14:14.29,Chinese,,0,0,0,,然后广泛应用于所有现行车辆
 Dialogue: 0,0:14:15.73,0:14:18.90,English,,0,0,0,,In 2019, Waymo released a study of its data,
-Dialogue: 0,0:14:15.73,0:14:18.90,Chinese,,0,0,0,,
-Dialogue: 0,0:14:18.90,0:14:24.26,English,,0,0,0,,over 6.1 million miles of automated driving in the Phoenix, Arizona metropolitan area.
-Dialogue: 0,0:14:18.90,0:14:24.26,Chinese,,0,0,0,,
+Dialogue: 0,0:14:15.73,0:14:18.90,Chinese,,0,0,0,,在2019年  Waymo发布了一份数据研究报告
+Dialogue: 0,0:14:18.90,0:14:21.91,English,,0,0,0,,over 6.1 million miles of automated driving
+Dialogue: 0,0:14:21.91,0:14:24.26,English,,0,0,0,,in the Phoenix, Arizona metropolitan area.
+Dialogue: 0,0:14:18.90,0:14:24.26,Chinese,,0,0,0,,基于超过610万英里的  在凤凰城都市圈的自动驾驶路试
 Dialogue: 0,0:14:24.60,0:14:27.66,English,,0,0,0,,Of the 18 total accidents that occurred during the study,
-Dialogue: 0,0:14:24.60,0:14:27.66,Chinese,,0,0,0,,
+Dialogue: 0,0:14:24.60,0:14:27.66,Chinese,,0,0,0,,这次研究总计发生了18起事故  在这些事故中
 Dialogue: 0,0:14:27.66,0:14:31.20,English,,0,0,0,,none were serious enough to expect significant injury or death.
-Dialogue: 0,0:14:27.66,0:14:31.20,Chinese,,0,0,0,,
+Dialogue: 0,0:14:27.66,0:14:31.20,Chinese,,0,0,0,,没有一项是严重到会导致重大伤亡的
 Dialogue: 0,0:14:31.53,0:14:32.78,English,,0,0,0,,In Waymo's Safety Report,
-Dialogue: 0,0:14:31.53,0:14:32.78,Chinese,,0,0,0,,
-Dialogue: 0,0:14:32.78,0:14:39.33,English,,0,0,0,,they found some types of accidents have been completely eliminated by this autonomous driving system,
-Dialogue: 0,0:14:32.78,0:14:39.33,Chinese,,0,0,0,,
+Dialogue: 0,0:14:31.53,0:14:32.78,Chinese,,0,0,0,,在Waymo的安全报告中
+Dialogue: 0,0:14:32.78,0:14:35.42,English,,0,0,0,,they found some types of accidents have been
+Dialogue: 0,0:14:35.42,0:14:39.33,English,,0,0,0,,completely eliminated by this autonomous driving system,
+Dialogue: 0,0:14:32.78,0:14:39.33,Chinese,,0,0,0,,他们发现  自动驾驶系统已让某些类型的事故不复存在
 Dialogue: 0,0:14:39.33,0:14:42.08,English,,0,0,0,,like the car doesn't go off the road
-Dialogue: 0,0:14:39.33,0:14:42.08,Chinese,,0,0,0,,
+Dialogue: 0,0:14:39.33,0:14:42.08,Chinese,,0,0,0,,车子不会驶离道路
 Dialogue: 0,0:14:42.08,0:14:44.09,English,,0,0,0,,and it doesn't hit stationary objects.
-Dialogue: 0,0:14:42.08,0:14:44.09,Chinese,,0,0,0,,
+Dialogue: 0,0:14:42.08,0:14:44.09,Chinese,,0,0,0,,也不会撞击静止物体
 Dialogue: 0,0:14:44.68,0:14:47.05,English,,0,0,0,,Humans, humans do those things.
-Dialogue: 0,0:14:44.68,0:14:47.05,Chinese,,0,0,0,,
+Dialogue: 0,0:14:44.68,0:14:47.05,Chinese,,0,0,0,,人类才会犯这种错
 Dialogue: 0,0:14:47.82,0:14:52.70,English,,0,0,0,,If you look at the eight significant accidents that happened with Waymo vehicles
-Dialogue: 0,0:14:47.82,0:14:52.70,Chinese,,0,0,0,,
 Dialogue: 0,0:14:52.70,0:14:55.42,English,,0,0,0,,over the six million miles of driving,
-Dialogue: 0,0:14:52.70,0:14:55.42,Chinese,,0,0,0,,
+Dialogue: 0,0:14:47.82,0:14:55.42,Chinese,,0,0,0,,至于他们这600万英里的行驶中  发生的八起重大安全事故
 Dialogue: 0,0:14:55.82,0:14:58.90,English,,0,0,0,,all eight of them involve a human driver
-Dialogue: 0,0:14:55.82,0:14:58.90,Chinese,,0,0,0,,
-Dialogue: 0,0:14:58.90,0:15:01.07,English,,0,0,0,,of another vehicle doing something stupid,\N
-Dialogue: 0,0:14:58.90,0:15:01.07,Chinese,,0,0,0,,
-Dialogue: 0,0:15:01.07,0:15:03.40,English,,0,0,0,,\Nlike driving on the wrong side of the road
-Dialogue: 0,0:15:01.07,0:15:03.40,Chinese,,0,0,0,,
+Dialogue: 0,0:14:58.90,0:15:01.07,English,,0,0,0,,of another vehicle doing something stupid,
+Dialogue: 0,0:14:55.82,0:15:01.07,Chinese,,0,0,0,,这些事故都涉及到  另一辆车有个不守交规的人类司机
+Dialogue: 0,0:15:01.07,0:15:03.40,English,,0,0,0,,like driving on the wrong side of the road
+Dialogue: 0,0:15:01.07,0:15:03.40,Chinese,,0,0,0,,比如  逆行
 Dialogue: 0,0:15:03.40,0:15:04.90,English,,0,0,0,,or running a red light
-Dialogue: 0,0:15:03.40,0:15:04.90,Chinese,,0,0,0,,
+Dialogue: 0,0:15:03.40,0:15:04.90,Chinese,,0,0,0,,闯红灯
 Dialogue: 0,0:15:04.90,0:15:06.84,English,,0,0,0,,or going through a stop sign
-Dialogue: 0,0:15:04.90,0:15:06.84,Chinese,,0,0,0,,
-Dialogue: 0,0:15:06.84,0:15:10.59,English,,0,0,0,,or failing to yield or going 20 miles per hour over the speed limit.
-Dialogue: 0,0:15:06.84,0:15:10.59,Chinese,,0,0,0,,
+Dialogue: 0,0:15:04.90,0:15:06.84,Chinese,,0,0,0,,看到停止路牌却不停车
+Dialogue: 0,0:15:06.84,0:15:07.80,English,,0,0,0,,or failing to yield
+Dialogue: 0,0:15:06.84,0:15:07.80,Chinese,,0,0,0,,让路失败
+Dialogue: 0,0:15:07.80,0:15:10.59,English,,0,0,0,,or going 20 miles per hour over the speed limit.
+Dialogue: 0,0:15:07.80,0:15:10.59,Chinese,,0,0,0,,超速  比上限高了每小时20英里
 Dialogue: 0,0:15:10.59,0:15:15.09,English,,0,0,0,,There were three incidents involving Waymo vehicles and pedestrians,
-Dialogue: 0,0:15:10.59,0:15:15.09,Chinese,,0,0,0,,
+Dialogue: 0,0:15:10.59,0:15:15.09,Chinese,,0,0,0,,有三起事故的当事双方是Waymo的车辆和行人
 Dialogue: 0,0:15:15.82,0:15:19.74,English,,0,0,0,,but in all three, the Waymo vehicle was stationary
-Dialogue: 0,0:15:15.82,0:15:19.74,Chinese,,0,0,0,,
+Dialogue: 0,0:15:15.82,0:15:19.74,Chinese,,0,0,0,,但在这三起事故中  Waymo的车都是静止的
 Dialogue: 0,0:15:20.18,0:15:24.79,English,,0,0,0,,and the pedestrian or cyclist/skateboarder ran into the vehicle.
-Dialogue: 0,0:15:20.18,0:15:24.79,Chinese,,0,0,0,,
+Dialogue: 0,0:15:20.18,0:15:24.79,Chinese,,0,0,0,,是行人、自行车手、滑板者撞向车辆
 Dialogue: 0,0:15:26.88,0:15:29.29,English,,0,0,0,,Waymo also takes some of that real-world data
-Dialogue: 0,0:15:26.88,0:15:29.29,Chinese,,0,0,0,,
+Dialogue: 0,0:15:26.88,0:15:29.29,Chinese,,0,0,0,,Waymo也采集了一些真实世界数据
 Dialogue: 0,0:15:29.66,0:15:31.83,English,,0,0,0,,and they put it into simulations
-Dialogue: 0,0:15:29.66,0:15:31.83,Chinese,,0,0,0,,
+Dialogue: 0,0:15:29.66,0:15:31.83,Chinese,,0,0,0,,放进了模拟系统中
 Dialogue: 0,0:15:32.18,0:15:33.45,English,,0,0,0,,and they tweak it a bit.
-Dialogue: 0,0:15:32.18,0:15:33.45,Chinese,,0,0,0,,
+Dialogue: 0,0:15:32.18,0:15:33.45,Chinese,,0,0,0,,并稍微调整了一下
 Dialogue: 0,0:15:33.45,0:15:37.16,English,,0,0,0,,So they try adding like a bicyclist going fast or going slow,
-Dialogue: 0,0:15:33.45,0:15:37.16,Chinese,,0,0,0,,
+Dialogue: 0,0:15:33.45,0:15:37.16,Chinese,,0,0,0,,他们试着加入一个骑得很快或者很慢的自行车手
 Dialogue: 0,0:15:37.16,0:15:39.43,English,,0,0,0,,or they make the car turn faster or slower.
-Dialogue: 0,0:15:37.16,0:15:39.43,Chinese,,0,0,0,,
-Dialogue: 0,0:15:39.73,0:15:44.88,English,,0,0,0,,So they change all these parameters and variables, and they see what the software will do.
-Dialogue: 0,0:15:39.73,0:15:44.88,Chinese,,0,0,0,,
+Dialogue: 0,0:15:37.16,0:15:39.43,Chinese,,0,0,0,,或者让车加速或减速
+Dialogue: 0,0:15:39.73,0:15:42.65,English,,0,0,0,,So they change all these parameters and variables,
+Dialogue: 0,0:15:39.73,0:15:42.65,Chinese,,0,0,0,,他们更改这些参数与变量
+Dialogue: 0,0:15:42.65,0:15:44.88,English,,0,0,0,,and they see what the software will do.
+Dialogue: 0,0:15:42.65,0:15:44.88,Chinese,,0,0,0,,观察程序会如何应对
 Dialogue: 0,0:15:44.88,0:15:49.52,English,,0,0,0,,And they've trained the software on an additional 20 billion miles of driving,
-Dialogue: 0,0:15:44.88,0:15:49.52,Chinese,,0,0,0,,
 Dialogue: 0,0:15:49.52,0:15:51.72,English,,0,0,0,,not on the road but in the simulation,
-Dialogue: 0,0:15:49.52,0:15:51.72,Chinese,,0,0,0,,
+Dialogue: 0,0:15:44.88,0:15:51.72,Chinese,,0,0,0,,他们额外投入了200亿英里的模拟里程去训练程序
 Dialogue: 0,0:15:51.72,0:15:55.09,English,,0,0,0,,so that's a thousand times more experience again.
-Dialogue: 0,0:15:51.72,0:15:55.09,Chinese,,0,0,0,,
+Dialogue: 0,0:15:51.72,0:15:55.09,Chinese,,0,0,0,,所以这又多了成千倍的经验
 Dialogue: 0,0:15:56.64,0:15:58.35,English,,0,0,0,,The question for me is,
-Dialogue: 0,0:15:56.64,0:15:58.35,Chinese,,0,0,0,,
+Dialogue: 0,0:15:56.64,0:15:58.35,Chinese,,0,0,0,,我的问题是
 Dialogue: 0,0:15:58.85,0:16:01.74,English,,0,0,0,,when is stepping inside an autonomous car
-Dialogue: 0,0:15:58.85,0:16:01.74,Chinese,,0,0,0,,
+Dialogue: 0,0:15:58.85,0:16:01.74,Chinese,,0,0,0,,等到什么时候  坐上自动驾驶汽车的感觉
 Dialogue: 0,0:16:01.74,0:16:04.60,English,,0,0,0,,gonna feel the same as stepping inside an elevator?
-Dialogue: 0,0:16:01.74,0:16:04.60,Chinese,,0,0,0,,
+Dialogue: 0,0:16:01.74,0:16:04.60,Chinese,,0,0,0,,才能无异于坐电梯的感觉{\fsp-16}？
 Dialogue: 0,0:16:05.58,0:16:08.53,English,,0,0,0,,Because I think that time may be coming sooner than you think.
-Dialogue: 0,0:16:05.58,0:16:08.53,Chinese,,0,0,0,,
+Dialogue: 0,0:16:05.58,0:16:08.53,Chinese,,0,0,0,,因为我觉得  这个时刻会比你们想像的来得更快
 Dialogue: 0,0:16:09.11,0:16:10.63,English,,0,0,0,,I like the idea of this technology,
-Dialogue: 0,0:16:09.11,0:16:10.63,Chinese,,0,0,0,,
+Dialogue: 0,0:16:09.11,0:16:10.63,Chinese,,0,0,0,,我喜欢这个技术点子
 Dialogue: 0,0:16:10.63,0:16:14.41,English,,0,0,0,,but, honestly, getting in the car, I wasn't quite sure how I would feel.
-Dialogue: 0,0:16:10.63,0:16:14.41,Chinese,,0,0,0,,
+Dialogue: 0,0:16:10.63,0:16:14.41,Chinese,,0,0,0,,但说实话  刚坐上这车时  我不知道我的感觉会是什么
 Dialogue: 0,0:16:14.41,0:16:15.97,English,,0,0,0,,I was a little bit uncertain,
-Dialogue: 0,0:16:14.41,0:16:15.97,Chinese,,0,0,0,,
+Dialogue: 0,0:16:14.41,0:16:15.97,Chinese,,0,0,0,,我一开始还不太肯定
 Dialogue: 0,0:16:15.97,0:16:19.20,English,,0,0,0,,but once I saw.. it just handles so confidently...
-Dialogue: 0,0:16:15.97,0:16:19.20,Chinese,,0,0,0,,
-Dialogue: 0,0:16:19.20,0:16:22.67,English,,0,0,0,,Like driving is one of those things that I feel like you can't hide whether you're a good or bad driver.
-Dialogue: 0,0:16:19.20,0:16:22.67,Chinese,,0,0,0,,
-Dialogue: 0,0:16:22.67,0:16:28.04,English,,0,0,0,,It's just like, "Oh, what's gonna happen when there's a parked car or a cyclist or a pedestrian,"
-Dialogue: 0,0:16:22.67,0:16:28.04,Chinese,,0,0,0,,
+Dialogue: 0,0:16:15.97,0:16:19.20,Chinese,,0,0,0,,但等我看到  它开起来如此驾轻就熟之后…
+Dialogue: 0,0:16:19.20,0:16:20.82,English,,0,0,0,,Like driving is one of those things that I feel like
+Dialogue: 0,0:16:20.82,0:16:22.67,English,,0,0,0,,you can't hide whether you're a good or bad driver.
+Dialogue: 0,0:16:19.20,0:16:22.67,Chinese,,0,0,0,,开车这种东西嘛  水平是骡子是马一遛就知道了
+Dialogue: 0,0:16:22.67,0:16:24.83,English,,0,0,0,,It's just like, "Oh, what's gonna happen when
+Dialogue: 0,0:16:24.83,0:16:28.04,English,,0,0,0,,there's a parked car or a cyclist or a pedestrian,"
+Dialogue: 0,0:16:22.67,0:16:28.04,Chinese,,0,0,0,,比如说  如果那里停着辆车、有个人骑单车或者步行会怎样
 Dialogue: 0,0:16:28.04,0:16:32.10,English,,0,0,0,,and it just sort of handles all those situations with such confidence and ease
-Dialogue: 0,0:16:28.04,0:16:32.10,Chinese,,0,0,0,,
+Dialogue: 0,0:16:28.04,0:16:32.10,Chinese,,0,0,0,,这车能如此从容自信、驾轻就熟地处理所有这些情况
 Dialogue: 0,0:16:32.10,0:16:34.50,English,,0,0,0,,that I think I stopped thinking about it.
-Dialogue: 0,0:16:32.10,0:16:34.50,Chinese,,0,0,0,,
+Dialogue: 0,0:16:32.10,0:16:34.50,Chinese,,0,0,0,,我觉得我不必再担心了
 Dialogue: 0,0:16:34.50,0:16:36.92,English,,0,0,0,,- After they pass a couple of your mental tests,
-Dialogue: 0,0:16:34.50,0:16:36.92,Chinese,,0,0,0,,
-Dialogue: 0,0:16:36.92,0:16:39.66,English,,0,0,0,,you're like, "I'm good. I think I can.. I'llbe okay."
-Dialogue: 0,0:16:36.92,0:16:39.66,Chinese,,0,0,0,,
+Dialogue: 0,0:16:34.50,0:16:36.92,Chinese,,0,0,0,,你在内心里给它打分通过之后
+Dialogue: 0,0:16:36.92,0:16:39.66,English,,0,0,0,,you're like, "I'm good. I think I can.. I'll be okay."
+Dialogue: 0,0:16:36.92,0:16:39.66,Chinese,,0,0,0,,你会觉得「我可以  我觉得…  我应该没事{\fsp-24}」{\fsp0}（笑
 Dialogue: 0,0:16:40.01,0:16:41.86,English,,0,0,0,,- Yeah, yeah, I felt the same way.
-Dialogue: 0,0:16:40.01,0:16:41.86,Chinese,,0,0,0,,
-Dialogue: 0,0:16:41.86,0:16:48.08,English,,0,0,0,,I think a lot of people miss the bigger implications of what is achievable once fully autonomous driving is commonplace.
-Dialogue: 0,0:16:41.86,0:16:48.08,Chinese,,0,0,0,,
+Dialogue: 0,0:16:40.01,0:16:41.86,Chinese,,0,0,0,,对  我也是这种感觉
+Dialogue: 0,0:16:41.86,0:16:45.37,English,,0,0,0,,I think a lot of people miss the bigger implications of what is achievable
+Dialogue: 0,0:16:41.86,0:16:45.37,Chinese,,0,0,0,,许多人意识不到  等到全自动驾驶真正普及之时
+Dialogue: 0,0:16:45.37,0:16:48.08,English,,0,0,0,,once fully autonomous driving is commonplace.
+Dialogue: 0,0:16:45.37,0:16:48.08,Chinese,,0,0,0,,究竟能产生多么深远的影响
 Dialogue: 0,0:16:48.08,0:16:52.60,English,,0,0,0,,Riders with disabilities, seniors, and the blind can get around more easily.
-Dialogue: 0,0:16:48.08,0:16:52.60,Chinese,,0,0,0,,
+Dialogue: 0,0:16:48.08,0:16:52.60,Chinese,,0,0,0,,残疾人、老年人、盲人乘客出行会方便得多
 Dialogue: 0,0:16:52.60,0:16:54.31,English,,0,0,0,,Transportation will get cheaper.
-Dialogue: 0,0:16:52.60,0:16:54.31,Chinese,,0,0,0,,
-Dialogue: 0,0:16:54.60,0:16:59.77,English,,0,0,0,,Think of all the wasted value in the cars that spend over 95% of their time parked.
-Dialogue: 0,0:16:54.60,0:16:59.77,Chinese,,0,0,0,,
+Dialogue: 0,0:16:52.60,0:16:54.31,Chinese,,0,0,0,,运输会越来越便宜
+Dialogue: 0,0:16:54.60,0:17:00.23,English,,0,0,0,,Think of all the wasted value in the cars that spend over 95% of their time parked.
+Dialogue: 0,0:16:54.60,0:17:00.23,Chinese,,0,0,0,,想想那些每天上路时间不超过5%的车  浪费了多少资源
 Dialogue: 0,0:17:00.23,0:17:03.28,English,,0,0,0,,We can regain a bunch of time and feel happier
-Dialogue: 0,0:17:00.23,0:17:03.28,Chinese,,0,0,0,,
+Dialogue: 0,0:17:00.23,0:17:03.28,Chinese,,0,0,0,,我们可以重新利用这些时间变得更快乐
 Dialogue: 0,0:17:03.28,0:17:06.73,English,,0,0,0,,because commuting and being stuck in traffic sucks.
-Dialogue: 0,0:17:03.28,0:17:06.73,Chinese,,0,0,0,,
+Dialogue: 0,0:17:03.28,0:17:06.73,Chinese,,0,0,0,,因为上下班还堵车糟透了
 Dialogue: 0,0:17:07.40,0:17:11.82,English,,0,0,0,,We can reduce traffic because vehicles will have better awareness of each other.
-Dialogue: 0,0:17:07.40,0:17:11.82,Chinese,,0,0,0,,
+Dialogue: 0,0:17:07.40,0:17:11.82,Chinese,,0,0,0,,我们可以减少交通堵塞  因为车子会更了解彼此
 Dialogue: 0,0:17:11.82,0:17:14.91,English,,0,0,0,,You can imagine one day when all the cars are fully autonomous,
-Dialogue: 0,0:17:11.82,0:17:14.91,Chinese,,0,0,0,,
+Dialogue: 0,0:17:11.82,0:17:14.91,Chinese,,0,0,0,,可以想象  有朝一日  路上的所有车都是全自动驾驶的时候
 Dialogue: 0,0:17:14.91,0:17:18.53,English,,0,0,0,,they can execute a beautiful ballet driving together,
-Dialogue: 0,0:17:14.91,0:17:18.53,Chinese,,0,0,0,,
-Dialogue: 0,0:17:18.53,0:17:23.39,English,,0,0,0,,and when that time comes, we can eliminate parking lots and add green spaces to our cities.
-Dialogue: 0,0:17:18.53,0:17:23.39,Chinese,,0,0,0,,
+Dialogue: 0,0:17:14.91,0:17:18.53,Chinese,,0,0,0,,往来车辆可以交织通行  像芭蕾舞一样优雅
+Dialogue: 0,0:17:18.53,0:17:21.19,English,,0,0,0,,and when that time comes, we can eliminate parking lots
+Dialogue: 0,0:17:18.53,0:17:21.19,Chinese,,0,0,0,,等那一天真正到来之时  我们将再也不需要停车场
+Dialogue: 0,0:17:21.19,0:17:23.39,English,,0,0,0,,and add green spaces to our cities.
+Dialogue: 0,0:17:21.19,0:17:23.39,Chinese,,0,0,0,,给城市节省出了更多的绿化空间
 Dialogue: 0,0:17:23.70,0:17:26.42,English,,0,0,0,,And, most importantly, widespread adoption of autonomous cars
-Dialogue: 0,0:17:23.70,0:17:26.42,Chinese,,0,0,0,,
+Dialogue: 0,0:17:23.70,0:17:26.42,Chinese,,0,0,0,,最重要的是  全自动驾驶汽车的普及
 Dialogue: 0,0:17:26.42,0:17:29.96,English,,0,0,0,,could prevent tens of thousands of fatalities in the U.S. alone.
-Dialogue: 0,0:17:26.42,0:17:29.96,Chinese,,0,0,0,,
+Dialogue: 0,0:17:26.42,0:17:29.96,Chinese,,0,0,0,,光是在美国  就能避免数以万计的交通事故
 Dialogue: 0,0:17:30.50,0:17:33.08,English,,0,0,0,,When do you think that this will be a reality,
-Dialogue: 0,0:17:30.50,0:17:33.08,Chinese,,0,0,0,,
+Dialogue: 0,0:17:30.50,0:17:33.08,Chinese,,0,0,0,,你什么时候会觉得这会成为现实
 Dialogue: 0,0:17:33.08,0:17:35.11,English,,0,0,0,,like, clearly it's coming, but when?
-Dialogue: 0,0:17:33.08,0:17:35.11,Chinese,,0,0,0,,
+Dialogue: 0,0:17:33.08,0:17:35.11,Chinese,,0,0,0,,显然这一切快来了  但具体是啥时候
 Dialogue: 0,0:17:35.11,0:17:37.04,English,,0,0,0,,- Yeah. If you're talking about big cities,
-Dialogue: 0,0:17:35.11,0:17:37.04,Chinese,,0,0,0,,
+Dialogue: 0,0:17:35.11,0:17:37.04,Chinese,,0,0,0,,如果你说的是大城市
 Dialogue: 0,0:17:37.04,0:17:40.70,English,,0,0,0,,I'm hoping the next five years will be really game changing.
-Dialogue: 0,0:17:37.04,0:17:40.70,Chinese,,0,0,0,,
+Dialogue: 0,0:17:37.04,0:17:40.70,Chinese,,0,0,0,,我希望接下来的五年将真正改变游戏规则
 Dialogue: 0,0:17:40.70,0:17:41.37,English,,0,0,0,,- I'm excited to see it.
-Dialogue: 0,0:17:40.70,0:17:41.37,Chinese,,0,0,0,,
+Dialogue: 0,0:17:40.70,0:17:41.37,Chinese,,0,0,0,,我很期待能亲眼看到
 Dialogue: 0,0:17:41.37,0:17:45.15,English,,0,0,0,,- Me too, believe me. Believe me. I just don't want to commute to work anymore.
-Dialogue: 0,0:17:41.37,0:17:45.15,Chinese,,0,0,0,,
-Dialogue: 0,0:17:45.15,0:17:48.69,English,,0,0,0,,I would love to sit in the backseat, do my work on the way there and on the way back.
-Dialogue: 0,0:17:45.15,0:17:48.69,Chinese,,0,0,0,,
+Dialogue: 0,0:17:41.37,0:17:45.15,Chinese,,0,0,0,,我也一样  相信我  我真的不想再堵在通勤路上了
+Dialogue: 0,0:17:45.15,0:17:46.48,English,,0,0,0,,I would love to sit in the backseat,
+Dialogue: 0,0:17:46.48,0:17:48.69,English,,0,0,0,,do my work on the way there and on the way back.
+Dialogue: 0,0:17:45.15,0:17:48.69,Chinese,,0,0,0,,我会爱上坐在后座  在来回的路上做我的工作
 Dialogue: 0,0:17:49.78,0:17:51.34,English,,0,0,0,,- Or do something fun, watch a movie.
-Dialogue: 0,0:17:49.78,0:17:51.34,Chinese,,0,0,0,,
-Dialogue: 0,0:17:51.34,0:17:52.29,English,,0,0,0,,- Or sleep, yeah.
-Dialogue: 0,0:17:51.34,0:17:52.29,Chinese,,0,0,0,,
+Dialogue: 0,0:17:49.78,0:17:51.34,Chinese,,0,0,0,,或者做点什么有意思的  比如看看电影
+Dialogue: 0,0:17:51.34,0:17:52.60,English,,0,0,0,,- Or sleep, yeah.
+Dialogue: 0,0:17:51.34,0:17:52.60,Chinese,,0,0,0,,或者睡觉（笑
