@@ -173,7 +173,7 @@ Dialogue: 0,0:03:58.34,0:03:59.67,Chinese,,0,0,0,,所以他们是咋做到的
 Dialogue: 0,0:04:00.33,0:04:03.04,English,,0,0,0,,The answer is the pilots didn't do it.
 Dialogue: 0,0:04:00.33,0:04:03.04,Chinese,,0,0,0,,答案是  飞行员根本没操作
 Dialogue: 0,0:04:03.04,0:04:05.85,English,,0,0,0,,It was a CAT III autoland procedure.
-Dialogue: 0,0:04:03.04,0:04:05.85,Chinese,,0,0,0,,这是一个三类自动降落流程 （**REVIEW：抓个ACI的人来看看？**）
+Dialogue: 0,0:04:03.04,0:04:05.85,Chinese,,0,0,0,,这是一个三类自动降落流程
 Dialogue: 0,0:04:05.85,0:04:10.03,English,,0,0,0,,The plane just came in and landed itself essentially.
 Dialogue: 0,0:04:05.85,0:04:10.03,Chinese,,0,0,0,,飞机到了地点后  自动进场降落
 Dialogue: 0,0:04:10.03,0:04:11.85,English,,0,0,0,,Now, of course, the pilots are important
@@ -428,7 +428,7 @@ Dialogue: 0,0:11:38.49,0:11:41.29,Chinese,,0,0,0,,几年前有很多人在讨论
 Dialogue: 0,0:11:41.29,0:11:46.16,English,,0,0,0,,how autonomous vehicles have to figure out who to hit in case of an accident,
 Dialogue: 0,0:11:41.29,0:11:46.16,Chinese,,0,0,0,,发生事故时  自动驾驶汽车要如何抉择该撞谁
 Dialogue: 0,0:11:46.16,0:11:49.04,English,,0,0,0,,like do the pick the orphan or the nun?
-Dialogue: 0,0:11:46.16,0:11:49.04,Chinese,,0,0,0,,要撞孤儿还是修女（**REVIEW：不知道是不是俗语**）
+Dialogue: 0,0:11:46.16,0:11:49.04,Chinese,,0,0,0,,要撞孤儿还是修女
 Dialogue: 0,0:11:48.83,0:12:05.43,Chinese,,0,0,0,,{\an1}{\fs48}{\pos(199,598)}{\fad(500,0)}{\c&000000&}{\shad0}{\bord0}{\b1}无人驾驶汽车混乱的伦理{\b0}
 Dialogue: 0,0:11:49.04,0:11:51.63,English,,0,0,0,,{\an8}Should the car hit the motorcyclist with the helmet on
 Dialogue: 0,0:11:49.04,0:11:51.63,Chinese,,0,0,0,,这车是应该撞右边带了头盔的摩托车手…
