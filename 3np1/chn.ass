@@ -9,20 +9,9 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: collatz.mp4
-Video File: collatz.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 422
-Active Line: 431
-Video Position: 17856
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ENG,Inter,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,2,2.5,2,3,3,3,1
+Style: ENG,Inter,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,2,2.5,2,3,3,5,1
 Style: CHN,MonyharOS Sans SC,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,99,100,0,0,1,2,2.5,2,3,3,3,1
 Style: Caption,MonyharOS Sans SC,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,0,0,2,3,3,3,1
 Style: CHNObq,MonyharOS Sans SC,60,&H00FFFFFF,&H000000FF,&H00270302,&H00000000,0,0,0,0,99,100,0,0,3,2,0,2,3,3,3,1
@@ -51,7 +40,7 @@ Dialogue: 0,0:00:26.23,0:00:27.39,CHN,,0,0,0,,好的
 Dialogue: 0,0:00:27.39,0:00:29.64,ENG,,0,0,0,,Okay, we're gonna apply two rules.
 Dialogue: 0,0:00:27.39,0:00:29.64,CHN,,0,0,0,,我们有两条规则
 Dialogue: 0,0:00:29.64,0:00:33.21,ENG,,0,0,0,,If the number is odd, we multiply by three and add one.
-Dialogue: 0,0:00:29.64,0:00:33.21,CHN,,0,0,0,,如果这是个奇数 把它乘3加1
+Dialogue: 0,0:00:29.64,0:00:33.21,CHN,,0,0,0,,如果这是个奇数  把它乘3加1
 Dialogue: 0,0:00:33.21,0:00:37.31,ENG,,0,0,0,,So three times seven is 21, plus one is 22.
 Dialogue: 0,0:00:33.21,0:00:37.31,CHN,,0,0,0,,所以7乘3得21  加1得22
 Dialogue: 0,0:00:37.31,0:00:40.39,ENG,,0,0,0,,If the number is even, we divide by two.
@@ -108,7 +97,7 @@ Dialogue: 0,0:01:59.22,0:02:00.27,CHN,,0,0,0,,{\an5}{\pos(960,730)}{\fs100}{\fsp
 Dialogue: 0,0:02:00.27,0:02:02.62,ENG,,0,0,0,,and simply 3N+1.
 Dialogue: 0,0:02:00.27,0:02:02.62,CHN,,0,0,0,,或者干脆叫3N+1猜想
 Dialogue: 0,0:02:02.62,0:02:05.55,ENG,,0,0,0,,Why is 3x+1 so famous?
-Dialogue: 0,0:02:02.62,0:02:05.55,CHN,,0,0,0,,3X+1 问题为何如此著名
+Dialogue: 0,0:02:02.62,0:02:05.55,CHN,,0,0,0,,3x+1问题为何如此著名
 Dialogue: 0,0:02:05.55,0:02:09.43,ENG,,0,0,0,,- Among professional mathematicians, maybe it's not famous but infamous,
 Dialogue: 0,0:02:05.55,0:02:09.43,CHN,,0,0,0,,它在职业数学家当中的确很知名{\fsp-8}—{\fsp0}—但是知的是恶名
 Dialogue: 0,0:02:09.43,0:02:14.15,ENG,,0,0,0,,in the sense that if someone actually admits in public that they're working on it,
@@ -131,7 +120,7 @@ Dialogue: 0,0:02:36.88,0:02:40.85,CHN,,0,0,0,,那么26这个数就表示海拔26
 Dialogue: 0,0:02:40.85,0:02:45.03,ENG,,0,0,0,,And if you apply 3x+1, it rises up as high as 40 meters.
 Dialogue: 0,0:02:40.85,0:02:45.03,CHN,,0,0,0,,让它跑一遍3x+1  它最高会升到40米
 Dialogue: 0,0:02:45.03,0:02:48.31,ENG,,0,0,0,,And, in total, it takes 10 steps to get to one.
-Dialogue: 0,0:02:45.03,0:02:48.31,CHN,,0,0,0,,总共十步过后 它降到1米
+Dialogue: 0,0:02:45.03,0:02:48.31,CHN,,0,0,0,,总共十步过后  它降到1米
 Dialogue: 0,0:02:48.31,0:02:51.67,ENG,,0,0,0,,So 10 is called its total stopping time.
 Dialogue: 0,0:02:48.31,0:02:51.67,CHN,,0,0,0,,因此  我们称它的停止用时为10
 Dialogue: 0,0:02:51.67,0:02:54.33,ENG,,0,0,0,,But take the very next number, 27,
@@ -141,7 +130,7 @@ Dialogue: 0,0:02:54.33,0:02:57.61,CHN,,0,0,0,,则一路上窜下跳
 Dialogue: 0,0:02:57.61,0:03:01.32,ENG,,0,0,0,,In fact, it climbs all the way up to 9,232.
 Dialogue: 0,0:02:57.61,0:03:01.32,CHN,,0,0,0,,它在落到底之前  最高冲到了9232米
 Dialogue: 0,0:03:03.37,0:03:11.42,ENG,,0,0,0,,As an altitude, that is higher than Mount Everest, before it too falls back to the ground.
-Dialogue: 0,0:03:03.37,0:03:11.42,CHN,,0,0,0,,把它当作高度的话 这比珠穆朗玛峰还高
+Dialogue: 0,0:03:03.37,0:03:11.42,CHN,,0,0,0,,把它当作高度的话  这比珠穆朗玛峰还高
 Dialogue: 0,0:03:11.42,0:03:16.42,ENG,,0,0,0,,In total, it takes 111 steps for 27 to get down to one
 Dialogue: 0,0:03:11.42,0:03:16.42,CHN,,0,0,0,,27这个数总共要111步才能掉到1
 Dialogue: 0,0:03:16.48,0:03:19.66,ENG,,0,0,0,,and end up in the four, two, one loop.
@@ -217,15 +206,15 @@ Dialogue: 0,0:04:55.71,0:04:58.03,CHN,,0,0,0,,正面的话折线往上走
 Dialogue: 0,0:04:58.03,0:05:00.07,ENG,,0,0,0,,tails, it goes down.
 Dialogue: 0,0:04:58.03,0:05:00.07,CHN,,0,0,0,,反面就往下走
 Dialogue: 0,0:05:00.07,0:05:03.91,ENG,,0,0,0,,3x+1 is just like the random wiggles of the stock market.
-Dialogue: 0,0:05:00.07,0:05:03.91,CHN,,0,0,0,,3x+1 就好像是股市的波动
+Dialogue: 0,0:05:00.07,0:05:03.91,CHN,,0,0,0,,3x+1就好像是股市的波动
 Dialogue: 0,0:05:03.91,0:05:07.32,ENG,,0,0,0,,Over long-enough periods, the stock market tends to trend upwards,
 Dialogue: 0,0:05:03.91,0:05:07.32,CHN,,0,0,0,,只要时间足够长 （美国）股市趋向于上涨
 Dialogue: 0,0:05:07.32,0:05:09.88,ENG,,0,0,0,,while 3x+1 trends down.
-Dialogue: 0,0:05:07.32,0:05:09.88,CHN,,0,0,0,,而 3x+1 趋向于下降
+Dialogue: 0,0:05:07.32,0:05:09.88,CHN,,0,0,0,,而3x+1趋向于下降
 Dialogue: 0,0:05:10.74,0:05:12.47,ENG,,0,0,0,,Another way to analyze 3x+1
-Dialogue: 0,0:05:10.74,0:05:12.47,CHN,,0,0,0,,另一种分析 3x+1 的方式
+Dialogue: 0,0:05:10.74,0:05:12.47,CHN,,0,0,0,,另一种分析3x+1的方式
 Dialogue: 0,0:05:12.47,0:05:16.37,ENG,,0,0,0,,is by looking at the leading digit of each number in a sequence.
-Dialogue: 0,0:05:12.47,0:05:16.37,CHN,,0,0,0,,是研究 3x+1 数列里各项的首位
+Dialogue: 0,0:05:12.47,0:05:16.37,CHN,,0,0,0,,是研究3x+1数列里各项的首位
 Dialogue: 0,0:05:16.37,0:05:20.41,ENG,,0,0,0,,{\an8}Here are the hailstone numbers starting with three as the seed.
 Dialogue: 0,0:05:16.37,0:05:20.41,CHN,,0,0,0,,{\an8}这里我们选取3作为初值  看看它的冰雹数列
 Dialogue: 0,0:05:20.41,0:05:22.72,ENG,,0,0,0,,{\an8}And we can count up how many numbers start with a one,
@@ -278,7 +267,7 @@ Dialogue: 0,0:06:25.33,0:06:26.88,CHN,,0,0,0,,物理常数
 Dialogue: 0,0:06:26.88,0:06:30.07,ENG,,0,0,0,,and the Fibonacci numbers, just to name a few.
 Dialogue: 0,0:06:26.88,0:06:30.07,CHN,,0,0,0,,乃至斐波那契数  不胜枚举
 Dialogue: 0,0:06:30.07,0:06:34.20,ENG,,0,0,0,,The distribution is known as Benford's law,
-Dialogue: 0,0:06:30.07,0:06:34.20,CHNObq,,0,0,0,,这个分布被称为「本福特   定律{\fsp-30}」
+Dialogue: 0,0:06:30.07,0:06:34.20,CHNObq,,0,0,0,,这个分布被称为「本福特定律{\fsp-30}」
 Dialogue: 0,0:06:34.20,0:06:36.98,ENG,,0,0,0,,and it is even used to detect fraud.
 Dialogue: 0,0:06:34.20,0:06:36.98,CHN,,0,0,0,,它甚至能检测财务欺诈
 Dialogue: 0,0:06:36.98,0:06:39.77,ENG,,0,0,0,,If all the numbers on your income tax forms obey Benford's law,
@@ -293,21 +282,24 @@ Dialogue: 0,0:06:48.07,0:06:50.42,ENG,,0,0,0,,though you have to apply it correc
 Dialogue: 0,0:06:48.07,0:06:50.42,CHN,,0,0,0,,当然你得用对
 Dialogue: 0,0:06:50.42,0:06:55.20,ENG,,0,0,0,,Benford's law works best when the numbers involved span several orders of magnitude
 Dialogue: 0,0:06:50.42,0:06:55.20,CHN,,0,0,0,,这一定律最适合用于  数据范围跨越好几个数量级的情况
+Dialogue: 0,0:06:51.72,0:06:59.27,CHN,,0,0,0,,{\an5}{\pos(236,208)}{\fad(550,0)}首位是1\N\N\N首位是8
+Dialogue: 0,0:06:54.00,0:06:59.27,CHN,,0,0,0,,{\an5}{\pos(1740,360)}{\fad(250,0)}适用\N本福特定律
+Dialogue: 0,0:06:54.00,0:06:59.27,CHN,,0,0,0,,{\an5}{\pos(1740,660)}{\fad(250,0)}不适用\N本福特定律
 Dialogue: 0,0:06:55.20,0:06:57.82,ENG,,0,0,0,,as they do for 3x+1.
-Dialogue: 0,0:06:55.20,0:06:57.82,CHN,,0,0,0,,就如 3x+1 一样
+Dialogue: 0,0:06:55.20,0:06:57.82,CHN,,0,0,0,,就如3x+1一样
 Dialogue: 0,0:06:57.82,0:06:59.99,ENG,,0,0,0,,But Benford's law can't tell us
-Dialogue: 0,0:06:57.82,0:06:59.99,CHN,,0,0,0,,不过它并不能告诉我们
+Dialogue: 0,0:06:57.82,0:06:59.99,CHNObq,,0,0,0,,不过它并不能告诉我们
 Dialogue: 0,0:06:59.99,0:07:04.80,ENG,,0,0,0,,whether all numbers will end up in the four, two, one loop or not.
-Dialogue: 0,0:06:59.99,0:07:04.80,CHN,,0,0,0,,是不是所有数字都会落入 4-2-1 循环
+Dialogue: 0,0:06:59.99,0:07:04.80,CHNObq,,0,0,0,,是不是所有数字都会落入4-2-1循环
 Dialogue: 0,0:07:04.80,0:07:07.97,ENG,,0,0,0,,For that, we need a different sort of analysis.
-Dialogue: 0,0:07:04.80,0:07:07.97,CHN,,0,0,0,,为此  我们需要用其他方法来分析
+Dialogue: 0,0:07:04.80,0:07:07.97,CHNObq,,0,0,0,,为此  我们需要用其他方法来分析
 Dialogue: 0,0:07:07.97,0:07:10.13,ENG,,0,0,0,,Now, at first glance, it seems strange that
 Dialogue: 0,0:07:10.13,0:07:13.93,ENG,,0,0,0,,when you apply 3x+1, all numbers should end up at one.
 Dialogue: 0,0:07:07.97,0:07:13.93,CHN,,0,0,0,,乍一看  任意数字代进3x+1最终都得到1是蛮奇怪的
 Dialogue: 0,0:07:13.93,0:07:18.81,ENG,,0,0,0,,I mean, consider that there are the same number of odd and even numbers,
-Dialogue: 0,0:07:13.93,0:07:18.81,CHN,,0,0,0,,我的意思是 考虑到奇数和偶数是一样多的
+Dialogue: 0,0:07:13.93,0:07:18.81,CHN,,0,0,0,,我的意思是  考虑到奇数和偶数是一样多的
 Dialogue: 0,0:07:18.81,0:07:21.33,ENG,,0,0,0,,but odd numbers are more than tripled,
-Dialogue: 0,0:07:18.81,0:07:21.33,CHN,,0,0,0,,但奇数不止翻了两倍
+Dialogue: 0,0:07:18.81,0:07:21.33,CHN,,0,0,0,,但奇数会变成三倍以上
 Dialogue: 0,0:07:21.33,0:07:24.40,ENG,,0,0,0,,while even numbers are only cut in half.
 Dialogue: 0,0:07:21.33,0:07:24.40,CHN,,0,0,0,,而偶数只减少了一半
 Dialogue: 0,0:07:24.40,0:07:29.40,ENG,,0,0,0,,Therefore, it seems like every sequence on average should grow, not shrink.
@@ -319,7 +311,7 @@ Dialogue: 0,0:07:30.67,0:07:33.88,CHN,,0,0,0,,每当一个奇数×3+1
 Dialogue: 0,0:07:33.88,0:07:36.76,ENG,,0,0,0,,it will always become an even number,
 Dialogue: 0,0:07:33.88,0:07:36.76,CHN,,0,0,0,,它一定会变成偶数
 Dialogue: 0,0:07:36.76,0:07:40.00,ENG,,0,0,0,,and that means the next step is to divide by 2.
-Dialogue: 0,0:07:36.76,0:07:40.00,CHN,,0,0,0,,下一步它就会÷2
+Dialogue: 0,0:07:36.76,0:07:40.00,CHN,,0,0,0,,也就是说  下一步它就会÷2
 Dialogue: 0,0:07:40.00,0:07:43.55,ENG,,0,0,0,,So odd numbers are not actually tripled by 3x+1.
 Dialogue: 0,0:07:40.00,0:07:43.55,CHN,,0,0,0,,所以奇数实际上不会因为3x+1变成原来的三倍
 Dialogue: 0,0:07:43.55,0:07:46.69,ENG,,0,0,0,,They're increased by a factor of about three over two.
@@ -538,210 +530,201 @@ Dialogue: 0,0:14:35.46,0:14:39.98,CHN,,0,0,0,,或者存在某些数会形成与�
 Dialogue: 0,0:14:39.98,0:14:44.29,ENG,,0,0,0,,As far as we know, there is only one loop: 4, 2, 1.
 Dialogue: 0,0:14:39.98,0:14:44.29,CHN,,0,0,0,,尽管我们现在只知道一个循环：4-2-1
 Dialogue: 0,0:14:44.29,0:14:48.41,ENG,,0,0,0,,But something strange happens if you include negative numbers.
-Dialogue: 0,0:14:44.29,0:14:48.41,CHN,,0,0,0,,
+Dialogue: 0,0:14:44.29,0:14:48.41,CHN,,0,0,0,,不过  如果把负数也考虑在内的话  结果就比较诡异了
 Dialogue: 0,0:14:48.41,0:14:51.95,ENG,,0,0,0,,Applying the same 3x+1 rules as before,
-Dialogue: 0,0:14:48.41,0:14:51.95,CHN,,0,0,0,,
+Dialogue: 0,0:14:48.41,0:14:51.95,CHNObq,,0,0,0,,如果沿用相同的3x+1规则
 Dialogue: 0,0:14:51.95,0:14:54.80,ENG,,0,0,0,,there is not one loop, not two loops,
-Dialogue: 0,0:14:51.95,0:14:54.80,CHN,,0,0,0,,
+Dialogue: 0,0:14:51.95,0:14:54.80,CHNObq,,0,0,0,,这里不只会形成一个循环、两个循环
 Dialogue: 0,0:14:54.80,0:14:58.15,ENG,,0,0,0,,but three independent loops of numbers.
-Dialogue: 0,0:14:54.80,0:14:58.15,CHN,,0,0,0,,
+Dialogue: 0,0:14:54.80,0:14:58.15,CHNObq,,0,0,0,,而是有三个相互独立的数字循环
 Dialogue: 0,0:14:58.15,0:15:03.15,ENG,,0,0,0,,And they start at low values like -17 and -5.
-Dialogue: 0,0:14:58.15,0:15:03.15,CHN,,0,0,0,,
+Dialogue: 0,0:14:58.15,0:15:03.15,CHNObq,,0,0,0,,它们开始于绝对值较小的数字  比如 -17 和 -5
 Dialogue: 0,0:15:03.29,0:15:07.43,ENG,,0,0,0,,Why should there be disconnected loops on the negative side of the number line,
-Dialogue: 0,0:15:03.29,0:15:07.43,CHN,,0,0,0,,
+Dialogue: 0,0:15:03.29,0:15:07.43,CHNObq,,0,0,0,,为什么负数有不互连的循环
 Dialogue: 0,0:15:07.43,0:15:10.05,ENG,,0,0,0,,but not on the positive side?
-Dialogue: 0,0:15:07.43,0:15:10.05,CHN,,0,0,0,,
+Dialogue: 0,0:15:07.43,0:15:10.05,CHN,,0,0,0,,而正数却没有呢
 Dialogue: 0,0:15:10.05,0:15:13.45,ENG,,0,0,0,,Now, one of the most convincing pieces of evidence supporting the conjecture is
-Dialogue: 0,0:15:10.05,0:15:13.45,CHN,,0,0,0,,
+Dialogue: 0,0:15:10.05,0:15:13.45,CHNObq,,0,0,0,,现在  支持这个猜想的最有说服力的证据之一是
 Dialogue: 0,0:15:13.45,0:15:15.73,ENG,,0,0,0,,Terry Tao's proof that almost all numbers
-Dialogue: 0,0:15:13.45,0:15:15.73,CHN,,0,0,0,,
+Dialogue: 0,0:15:13.45,0:15:15.73,CHNObq,,0,0,0,,陶哲轩证明了  几乎所有的数字
 Dialogue: 0,0:15:15.73,0:15:19.15,ENG,,0,0,0,,have a number in their sequence that is arbitrarily small.
-Dialogue: 0,0:15:15.73,0:15:19.15,CHN,,0,0,0,,
+Dialogue: 0,0:15:15.73,0:15:19.15,CHNObq,,0,0,0,,在它们的序列中都存在一个任意小的数字
 Dialogue: 0,0:15:19.15,0:15:22.87,ENG,,0,0,0,,But proving that almost all numbers obey this criteria
-Dialogue: 0,0:15:19.15,0:15:22.87,CHN,,0,0,0,,
+Dialogue: 0,0:15:19.15,0:15:22.87,CHNObq,,0,0,0,,但是证明「几乎所有」数字都遵从这个规则
 Dialogue: 0,0:15:22.87,0:15:26.27,ENG,,0,0,0,,isn't the same thing as proving that all numbers do.
-Dialogue: 0,0:15:22.87,0:15:26.27,CHN,,0,0,0,,
+Dialogue: 0,0:15:22.87,0:15:26.27,CHNObq,,0,0,0,,并不等于证明「所有」数字都这样
 Dialogue: 0,0:15:27.52,0:15:31.94,ENG,,0,0,0,,How many numbers between one and 100 are perfect squares?
-Dialogue: 0,0:15:27.52,0:15:31.94,CHN,,0,0,0,,
+Dialogue: 0,0:15:27.52,0:15:31.94,CHNObq,,0,0,0,,在 1-100 中有多少的数字是完全平方数
 Dialogue: 0,0:15:31.94,0:15:33.87,ENG,,0,0,0,,The answer is 10.
-Dialogue: 0,0:15:31.94,0:15:33.87,CHN,,0,0,0,,
+Dialogue: 0,0:15:31.94,0:15:33.87,CHNObq,,0,0,0,,答案是 10 个
 Dialogue: 0,0:15:33.87,0:15:37.94,ENG,,0,0,0,,So, 10% of numbers up to 100 are perfect squares.
-Dialogue: 0,0:15:33.87,0:15:37.94,CHN,,0,0,0,,
+Dialogue: 0,0:15:33.87,0:15:37.94,CHNObq,,0,0,0,,所以说 1-100 中有 10% 的数是完全平方数
 Dialogue: 0,0:15:37.94,0:15:41.84,ENG,,0,0,0,,How many numbers between one and 1,000 are perfect squares?
-Dialogue: 0,0:15:37.94,0:15:41.84,CHN,,0,0,0,,
+Dialogue: 0,0:15:37.94,0:15:41.84,CHN,,0,0,0,,在1-1000中有多少的数字是完全平方数
 Dialogue: 0,0:15:41.84,0:15:43.93,ENG,,0,0,0,,The answer is 31.
-Dialogue: 0,0:15:41.84,0:15:43.93,CHN,,0,0,0,,
+Dialogue: 0,0:15:41.84,0:15:43.93,CHN,,0,0,0,,答案是 31 个
 Dialogue: 0,0:15:43.93,0:15:48.53,ENG,,0,0,0,,So only 3.1% of the numbers up to 1,000 are perfect squares.
-Dialogue: 0,0:15:43.93,0:15:48.53,CHN,,0,0,0,,
+Dialogue: 0,0:15:43.93,0:15:48.53,CHN,,0,0,0,,所以 1-1000 只有 3.1% 的数是完全平方数
 Dialogue: 0,0:15:48.53,0:15:52.69,ENG,,0,0,0,,And the higher you go, the smaller this percentage becomes,
-Dialogue: 0,0:15:48.53,0:15:52.69,CHN,,0,0,0,,
+Dialogue: 0,0:15:48.53,0:15:52.69,CHN,,0,0,0,,数字的上限越高，百分数越小
 Dialogue: 0,0:15:52.69,0:15:54.80,ENG,,0,0,0,,such that in the limit, you could say
-Dialogue: 0,0:15:52.69,0:15:54.80,CHN,,0,0,0,,
+Dialogue: 0,0:15:52.69,0:15:54.80,CHN,,0,0,0,,像这样不断提高上限，你可以说
 Dialogue: 0,0:15:54.80,0:15:58.12,ENG,,0,0,0,,almost all numbers are not perfect squares.
-Dialogue: 0,0:15:54.80,0:15:58.12,CHN,,0,0,0,,
-Dialogue: 0,0:15:58.12,0:16:00.46,ENG,,0,0,0,,The fraction of numbers that are not perfect squares
-Dialogue: 0,0:15:58.12,0:16:00.46,CHN,,0,0,0,,
-Dialogue: 0,0:16:00.46,0:16:04.08,ENG,,0,0,0,,goes to one as X goes to infinity.
-Dialogue: 0,0:16:00.46,0:16:04.08,CHN,,0,0,0,,
+Dialogue: 0,0:15:54.80,0:15:58.12,CHN,,0,0,0,,几乎所有的数都不是完全平方数
+Dialogue: 0,0:15:58.12,0:16:04.08,ENG,,0,0,0,,The fraction of numbers that are not perfect squares goes to one as X goes to infinity.
+Dialogue: 0,0:15:58.12,0:16:04.08,CHN,,0,0,0,,当 x 趋于无限大时  非完全平方数所占的比例会趋于 1
 Dialogue: 0,0:16:04.08,0:16:07.58,ENG,,0,0,0,,And yet we know there are an infinite number of perfect squares
-Dialogue: 0,0:16:04.08,0:16:07.58,CHN,,0,0,0,,
+Dialogue: 0,0:16:04.08,0:16:07.58,CHN,,0,0,0,,然而我们知道完全平方数有无穷多个
 Dialogue: 0,0:16:07.58,0:16:09.94,ENG,,0,0,0,,and we know exactly where they are.
-Dialogue: 0,0:16:07.58,0:16:09.94,CHN,,0,0,0,,
+Dialogue: 0,0:16:07.58,0:16:09.94,CHN,,0,0,0,,而且我们也确切知道每一个都在哪
 Dialogue: 0,0:16:09.94,0:16:13.35,ENG,,0,0,0,,Now, we've tested by brute force all numbers up to 2^68,
-Dialogue: 0,0:16:09.94,0:16:13.35,CHN,,0,0,0,,
+Dialogue: 0,0:16:09.94,0:16:13.35,CHN,,0,0,0,,目前我们已经暴力测试了所有 2 的 68 次方以下的所有数字
 Dialogue: 0,0:16:13.35,0:16:15.54,ENG,,0,0,0,,and they all obey the Collatz conjecture.
-Dialogue: 0,0:16:13.35,0:16:15.54,CHN,,0,0,0,,
+Dialogue: 0,0:16:13.35,0:16:15.54,CHN,,0,0,0,,并且所有数都符合考拉兹猜想
 Dialogue: 0,0:16:15.54,0:16:19.87,ENG,,0,0,0,,And you might be thinking that we should have found a counterexample by this point.
-Dialogue: 0,0:16:15.54,0:16:19.87,CHN,,0,0,0,,
+Dialogue: 0,0:16:15.54,0:16:19.87,CHN,,0,0,0,,你可能会想  如果有反例的话  到了这么大的范围总该找到了
 Dialogue: 0,0:16:19.87,0:16:23.83,ENG,,0,0,0,,But on the scale of all numbers, 2^68 is nothing.
-Dialogue: 0,0:16:19.87,0:16:23.83,CHN,,0,0,0,,
-Dialogue: 0,0:16:23.83,0:16:27.53,ENG,,0,0,0,,I mean, the Pólya conjecture proposed in 1919 by George Pólya
-Dialogue: 0,0:16:23.83,0:16:27.53,CHN,,0,0,0,,
-Dialogue: 0,0:16:27.53,0:16:30.10,ENG,,0,0,0,,asserted that the majority of natural numbers
-Dialogue: 0,0:16:27.53,0:16:30.10,CHN,,0,0,0,,
-Dialogue: 0,0:16:30.10,0:16:34.36,ENG,,0,0,0,,up to any given number have an odd number of prime factors.
-Dialogue: 0,0:16:30.10,0:16:34.36,CHN,,0,0,0,,
-Dialogue: 0,0:16:34.36,0:16:36.49,ENG,,0,0,0,,The conjecture was eventually proven false
-Dialogue: 0,0:16:34.36,0:16:36.49,CHN,,0,0,0,,
-Dialogue: 0,0:16:36.49,0:16:39.13,ENG,,0,0,0,,by C. Brian Haselgrove in 1958
-Dialogue: 0,0:16:36.49,0:16:39.13,CHN,,0,0,0,,
+Dialogue: 0,0:16:19.87,0:16:23.83,CHN,,0,0,0,,但在所有数字的体量面前  2的68次方啥都不是
+Dialogue: 0,0:16:23.83,0:16:28.12,ENG,,0,0,0,,I mean, the Pólya conjecture proposed in 1919 by George Pólya asserted that
+Dialogue: 0,0:16:23.83,0:16:28.12,CHN,,0,0,0,,1919年  George Pólya 提出了波利亚猜想  他断言
+Dialogue: 0,0:16:28.12,0:16:31.69,ENG,,0,0,0,,the majority of natural numbers up to any given number
+Dialogue: 0,0:16:28.12,0:16:31.69,CHN,,0,0,0,,给定任意上限  在小于上限的所有自然数中
+Dialogue: 0,0:16:31.69,0:16:34.36,ENG,,0,0,0,,have an odd number of prime factors.
+Dialogue: 0,0:16:31.69,0:16:34.36,CHN,,0,0,0,,包含奇数个质因数的占大多数
+Dialogue: 0,0:16:34.36,0:16:39.13,ENG,,0,0,0,,The conjecture was eventually proven false by C. Brian Haselgrove in 1958
+Dialogue: 0,0:16:34.36,0:16:39.13,CHN,,0,0,0,,最终在1958年   被 C. Brian Haselgrove 证伪
 Dialogue: 0,0:16:39.13,0:16:41.61,ENG,,0,0,0,,when he identified a counterexample.
-Dialogue: 0,0:16:39.13,0:16:41.61,CHN,,0,0,0,,
-Dialogue: 0,0:16:41.61,0:16:44.27,ENG,,0,0,0,,What's remarkable is the value of this counterexample
-Dialogue: 0,0:16:41.61,0:16:44.27,CHN,,0,0,0,,
-Dialogue: 0,0:16:44.27,0:16:48.01,ENG,,0,0,0,,was 1.845×10^361.
-Dialogue: 0,0:16:44.27,0:16:48.01,CHN,,0,0,0,,
-Dialogue: 0,0:16:48.01,0:16:50.95,ENG,,0,0,0,,That's some 10^340 times bigger
-Dialogue: 0,0:16:48.01,0:16:50.95,CHN,,0,0,0,,
-Dialogue: 0,0:16:50.95,0:16:54.30,ENG,,0,0,0,,than all the numbers checked for 3x+1.
-Dialogue: 0,0:16:50.95,0:16:54.30,CHN,,0,0,0,,
+Dialogue: 0,0:16:39.13,0:16:41.61,CHN,,0,0,0,,他证明了存在反例
+Dialogue: 0,0:16:41.61,0:16:48.01,ENG,,0,0,0,,What's remarkable is the value of this counterexample was 1.845×10^361.
+Dialogue: 0,0:16:41.61,0:16:48.01,CHN,,0,0,0,,值得注意的是  这个反例的值为 1.845×10^361
+Dialogue: 0,0:16:48.01,0:16:54.30,ENG,,0,0,0,,That's some 10^340 times bigger than all the numbers checked for 3x+1.
+Dialogue: 0,0:16:48.01,0:16:54.30,CHN,,0,0,0,,这比所有用来验证3x+1的数还要大10的340次方倍
 Dialogue: 0,0:16:54.30,0:16:55.90,ENG,,0,0,0,,One way to think about 3x+1
-Dialogue: 0,0:16:54.30,0:16:55.90,CHN,,0,0,0,,
+Dialogue: 0,0:16:54.30,0:16:55.90,CHN,,0,0,0,,看待3x+1的一种方式
 Dialogue: 0,0:16:55.90,0:16:59.73,ENG,,0,0,0,,is as though it's a simple program run on a Turing machine.
-Dialogue: 0,0:16:55.90,0:16:59.73,CHN,,0,0,0,,
+Dialogue: 0,0:16:55.90,0:16:59.73,CHN,,0,0,0,,是把它当作一个在图灵机上运行的简单程序
 Dialogue: 0,0:16:59.73,0:17:03.22,ENG,,0,0,0,,The seed number is the input to the machine.
-Dialogue: 0,0:16:59.73,0:17:03.22,CHN,,0,0,0,,
+Dialogue: 0,0:16:59.73,0:17:03.22,CHN,,0,0,0,,种子数字输入到机器中
 Dialogue: 0,0:17:03.22,0:17:08.68,ENG,,0,0,0,,So in this picture, 2^68 is simply an input tape 68 squares long.
-Dialogue: 0,0:17:03.22,0:17:08.68,CHN,,0,0,0,,
+Dialogue: 0,0:17:03.22,0:17:08.68,CHN,,0,0,0,,所以在这张图中，2 的 68 次方简化为 68 格长的输入磁带
 Dialogue: 0,0:17:08.68,0:17:13.95,ENG,,0,0,0,,You can think of them as a string of ones and zeros or black and white squares.
-Dialogue: 0,0:17:08.68,0:17:13.95,CHN,,0,0,0,,
+Dialogue: 0,0:17:08.68,0:17:13.95,CHN,,0,0,0,,你可以把它们看成一串 0 和 1 或者黑白块
 Dialogue: 0,0:17:13.95,0:17:16.49,ENG,,0,0,0,,Saying the machine has transformed every input
-Dialogue: 0,0:17:13.95,0:17:16.49,CHN,,0,0,0,,
+Dialogue: 0,0:17:13.95,0:17:16.49,CHN,,0,0,0,,仅凭这个机器已经把所有输入
 Dialogue: 0,0:17:16.49,0:17:19.54,ENG,,0,0,0,,up to this 68 square taped down to one
-Dialogue: 0,0:17:16.49,0:17:19.54,CHN,,0,0,0,,
+Dialogue: 0,0:17:16.49,0:17:19.54,CHN,,0,0,0,,68 格之内的数都转化成 1
 Dialogue: 0,0:17:19.54,0:17:24.33,ENG,,0,0,0,,should not give you a lot of confidence that it will do so for all inputs.
-Dialogue: 0,0:17:19.54,0:17:24.33,CHN,,0,0,0,,
-Dialogue: 0,0:17:24.33,0:17:25.90,ENG,,0,0,0,,In fact, it's fairly simple
-Dialogue: 0,0:17:24.33,0:17:25.90,CHN,,0,0,0,,
-Dialogue: 0,0:17:25.91,0:17:27.49,ENG,,0,0,0,,to calculate a number that shows
-Dialogue: 0,0:17:25.91,0:17:27.49,CHN,,0,0,0,,
-Dialogue: 0,0:17:27.49,0:17:30.88,ENG,,0,0,0,,any arbitrary behavior you like, so long as it is finite.
-Dialogue: 0,0:17:27.49,0:17:30.88,CHN,,0,0,0,,
+Dialogue: 0,0:17:19.54,0:17:24.33,CHN,,0,0,0,,应该不会让你有很大信心觉得所有的输入都是这样
+Dialogue: 0,0:17:24.33,0:17:27.49,ENG,,0,0,0,,In fact, it's fairly simple to calculate a number that shows
+Dialogue: 0,0:17:27.49,0:17:29.52,ENG,,0,0,0,,any arbitrary behavior you like,
+Dialogue: 0,0:17:24.33,0:17:29.52,CHN,,0,0,0,,事实上，以任何你喜欢的方式计算数字是很简单的
+Dialogue: 0,0:17:29.52,0:17:30.88,ENG,,0,0,0,,so long as it is finite.
+Dialogue: 0,0:17:29.52,0:17:30.88,CHN,,0,0,0,,只要它长度有限
 Dialogue: 0,0:17:30.88,0:17:33.33,ENG,,0,0,0,,But if you want a number that increases by 3/2,
-Dialogue: 0,0:17:30.88,0:17:33.33,CHN,,0,0,0,,
+Dialogue: 0,0:17:30.88,0:17:33.33,CHN,,0,0,0,,但假如你想要一个数以 1.5 倍翻番
 Dialogue: 0,0:17:33.33,0:17:36.37,ENG,,0,0,0,,five consecutive times, you can calculate that number.
-Dialogue: 0,0:17:33.33,0:17:36.37,CHN,,0,0,0,,
+Dialogue: 0,0:17:33.33,0:17:36.37,CHN,,0,0,0,,翻了五次，这是可以计算的
 Dialogue: 0,0:17:36.37,0:17:38.27,ENG,,0,0,0,,If you want a number that climbs by 3/2,
-Dialogue: 0,0:17:36.37,0:17:38.27,CHN,,0,0,0,,
+Dialogue: 0,0:17:36.37,0:17:38.27,CHN,,0,0,0,,假如你想要一个数以 1.5 倍翻番
 Dialogue: 0,0:17:38.27,0:17:39.80,ENG,,0,0,0,,10 times in a row, or
-Dialogue: 0,0:17:38.27,0:17:39.80,CHN,,0,0,0,,
+Dialogue: 0,0:17:38.27,0:17:39.80,CHN,,0,0,0,,翻了十次或者
 Dialogue: 0,0:17:39.80,0:17:41.98,ENG,,0,0,0,,100 times or 1,000 times,
-Dialogue: 0,0:17:39.80,0:17:41.98,CHN,,0,0,0,,
+Dialogue: 0,0:17:39.80,0:17:41.98,CHN,,0,0,0,,一百次或一千次
 Dialogue: 0,0:17:41.98,0:17:44.53,ENG,,0,0,0,,you can easily calculate those numbers.
-Dialogue: 0,0:17:41.98,0:17:44.53,CHN,,0,0,0,,
+Dialogue: 0,0:17:41.98,0:17:44.53,CHN,,0,0,0,,你都能很简单地去计算这些数
 Dialogue: 0,0:17:44.53,0:17:46.81,ENG,,0,0,0,,But after the finite section you specify,
-Dialogue: 0,0:17:44.53,0:17:46.81,CHN,,0,0,0,,
+Dialogue: 0,0:17:44.53,0:17:46.81,CHN,,0,0,0,,但除了你指定的有限部分
 Dialogue: 0,0:17:46.81,0:17:48.46,ENG,,0,0,0,,you have no more control.
-Dialogue: 0,0:17:46.81,0:17:48.46,CHN,,0,0,0,,
+Dialogue: 0,0:17:46.81,0:17:48.46,CHN,,0,0,0,,就很难继续控制了
 Dialogue: 0,0:17:48.46,0:17:52.69,ENG,,0,0,0,,And every that has ever been tested, always falls to one.
-Dialogue: 0,0:17:48.46,0:17:52.69,CHN,,0,0,0,,
+Dialogue: 0,0:17:48.46,0:17:52.69,CHN,,0,0,0,,而目前测试过的每一个数  总是会回到 1
 Dialogue: 0,0:17:52.69,0:17:57.65,ENG,,0,0,0,,If there is a counterexample, it's virtually impossible that someone's gonna guess it.
-Dialogue: 0,0:17:52.69,0:17:57.65,CHN,,0,0,0,,
+Dialogue: 0,0:17:52.69,0:17:57.65,CHN,,0,0,0,,如果真的有一个反例  那几乎没人能猜到
 Dialogue: 0,0:17:57.65,0:18:02.52,ENG,,0,0,0,,And the space of all possibilities is too big to search exhaustively by brute force.
-Dialogue: 0,0:17:57.65,0:18:02.52,CHN,,0,0,0,,
+Dialogue: 0,0:17:57.65,0:18:02.52,CHN,,0,0,0,,而且所有可能性的空间实在太大  无法用蛮力来穷举
 Dialogue: 0,0:18:02.52,0:18:05.18,ENG,,0,0,0,,2^1,000 is not a searchable space.
-Dialogue: 0,0:18:02.52,0:18:05.18,CHN,,0,0,0,,
+Dialogue: 0,0:18:02.52,0:18:05.18,CHN,,0,0,0,,2 的 1000 次方可没法穷举
 Dialogue: 0,0:18:05.18,0:18:09.15,ENG,,0,0,0,,So, if we're gonna find it, we have to find it by some intelligent process
-Dialogue: 0,0:18:05.18,0:18:09.15,CHN,,0,0,0,,
+Dialogue: 0,0:18:05.18,0:18:09.15,CHN,,0,0,0,,所以  要想找到它  我们必须得想点聪明招解决
 Dialogue: 0,0:18:09.15,0:18:11.53,ENG,,0,0,0,,and not by guess and check.
-Dialogue: 0,0:18:09.15,0:18:11.53,CHN,,0,0,0,,
+Dialogue: 0,0:18:09.15,0:18:11.53,CHN,,0,0,0,,而不是挨个猜测检验
 Dialogue: 0,0:18:11.53,0:18:15.35,ENG,,0,0,0,,I had been on team 3x+1 for 20 years.
-Dialogue: 0,0:18:11.53,0:18:15.35,CHN,,0,0,0,,
+Dialogue: 0,0:18:11.53,0:18:15.35,CHN,,0,0,0,,我在 3x+1 的研究团队已经待了 20 年了
 Dialogue: 0,0:18:15.35,0:18:18.68,ENG,,0,0,0,,And then this point of view,
-Dialogue: 0,0:18:15.35,0:18:18.68,CHN,,0,0,0,,
+Dialogue: 0,0:18:15.35,0:18:18.68,CHN,,0,0,0,,然后就是这个观点
 Dialogue: 0,0:18:18.68,0:18:21.85,ENG,,0,0,0,,I realized that, what do we really know?
-Dialogue: 0,0:18:18.68,0:18:21.85,CHN,,0,0,0,,
+Dialogue: 0,0:18:18.68,0:18:21.85,CHN,,0,0,0,,我意识到，到底什么是我们真明白的
 Dialogue: 0,0:18:23.40,0:18:25.75,ENG,,0,0,0,,It's very hard to prove a theorem that's false.
-Dialogue: 0,0:18:23.40,0:18:25.75,CHN,,0,0,0,,
-Dialogue: 0,0:18:27.47,0:18:29.51,ENG,,0,0,0,,And so, could it be that everyone is struggling
-Dialogue: 0,0:18:27.47,0:18:29.51,CHN,,0,0,0,,
-Dialogue: 0,0:18:29.51,0:18:32.70,ENG,,0,0,0,,to prove this thing because it's not actually true?
-Dialogue: 0,0:18:29.51,0:18:32.70,CHN,,0,0,0,,
+Dialogue: 0,0:18:23.40,0:18:25.75,CHN,,0,0,0,,证伪这个定理实在是太困难了
+Dialogue: 0,0:18:27.47,0:18:30.37,ENG,,0,0,0,,And so, could it be that everyone is struggling to prove this thing
+Dialogue: 0,0:18:30.37,0:18:32.70,ENG,,0,0,0,,because it's not actually true?
+Dialogue: 0,0:18:27.47,0:18:32.70,CHN,,0,0,0,,所有人绞尽脑汁都没法证明  有没有可能因为它其实是假命题{\fsp-30}？
 Dialogue: 0,0:18:32.70,0:18:35.92,ENG,,0,0,0,,And 2^60 is not a lot of evidence.
-Dialogue: 0,0:18:32.70,0:18:35.92,CHN,,0,0,0,,
+Dialogue: 0,0:18:32.70,0:18:35.92,CHN,,0,0,0,,2 的 60 次方也算不上是多庞大的证据
 Dialogue: 0,0:18:35.92,0:18:40.55,ENG,,0,0,0,,And even the statistical version is maybe true and
-Dialogue: 0,0:18:35.92,0:18:40.55,CHN,,0,0,0,,
+Dialogue: 0,0:18:35.92,0:18:40.55,CHN,,0,0,0,,即使是统计学上的说法可能是正确的
 Dialogue: 0,0:18:40.55,0:18:45.38,ENG,,0,0,0,,not evidence for the non-existence of a divergent trajectory somewhere
-Dialogue: 0,0:18:40.55,0:18:45.38,CHN,,0,0,0,,
 Dialogue: 0,0:18:45.38,0:18:47.20,ENG,,0,0,0,,in the 3x+1 sequence.
-Dialogue: 0,0:18:45.38,0:18:47.20,CHN,,0,0,0,,
+Dialogue: 0,0:18:40.55,0:18:47.20,CHN,,0,0,0,,但也证明不了  在3x+1序列中一定不存在什么分叉路径
 Dialogue: 0,0:18:48.06,0:18:52.62,ENG,,0,0,0,,- Of course there is another option, and that is that we'll never know,
-Dialogue: 0,0:18:48.06,0:18:52.62,CHN,,0,0,0,,
+Dialogue: 0,0:18:48.06,0:18:52.62,CHN,,0,0,0,,当然还有另一种可能  那就是我们永远无法知道其真伪
 Dialogue: 0,0:18:52.62,0:18:55.13,ENG,,0,0,0,,that the problem is undecidable.
-Dialogue: 0,0:18:52.62,0:18:55.13,CHN,,0,0,0,,
+Dialogue: 0,0:18:52.62,0:18:55.13,CHN,,0,0,0,,这问题是不可判定的
 Dialogue: 0,0:18:55.13,0:19:00.13,ENG,,0,0,0,,In 1987, John Conway created a generalization of 3x+1.
-Dialogue: 0,0:18:55.13,0:19:00.13,CHN,,0,0,0,,
+Dialogue: 0,0:18:55.13,0:19:00.13,CHN,,0,0,0,,1987年  约翰·康威创造了3n+1的推广理论
 Dialogue: 0,0:19:00.15,0:19:03.47,ENG,,0,0,0,,It was a mathematical machine that he called FRACTRAN.
-Dialogue: 0,0:19:00.15,0:19:03.47,CHN,,0,0,0,,
+Dialogue: 0,0:19:00.15,0:19:03.47,CHN,,0,0,0,,这是一台他称之为 FRACTRAN 的数学机器
 Dialogue: 0,0:19:03.47,0:19:07.48,ENG,,0,0,0,,And he was able to show this machine is Turing-complete,
-Dialogue: 0,0:19:03.47,0:19:07.48,CHN,,0,0,0,,
+Dialogue: 0,0:19:03.47,0:19:07.48,CHN,,0,0,0,,他能证明  这台机器是图灵完备的
 Dialogue: 0,0:19:07.48,0:19:11.26,ENG,,0,0,0,,which means it can do anything a modern computer can do,
-Dialogue: 0,0:19:07.48,0:19:11.26,CHN,,0,0,0,,
+Dialogue: 0,0:19:07.48,0:19:11.26,CHN,,0,0,0,,这意味着它可以做任何现代计算机能做的事
 Dialogue: 0,0:19:11.26,0:19:14.44,ENG,,0,0,0,,but it also means that it's subject to the halting problem,
-Dialogue: 0,0:19:11.26,0:19:14.44,CHN,,0,0,0,,
+Dialogue: 0,0:19:11.26,0:19:14.44,CHN,,0,0,0,,但这也意味着它受制于停机问题
 Dialogue: 0,0:19:14.44,0:19:19.63,ENG,,0,0,0,,a chance that the machine never stops running and so doesn't give you an output.
-Dialogue: 0,0:19:14.44,0:19:19.63,CHN,,0,0,0,,
+Dialogue: 0,0:19:14.44,0:19:19.63,CHN,,0,0,0,,机器可能永远不会停止运行  所以不会给出输出
 Dialogue: 0,0:19:19.63,0:19:24.27,ENG,,0,0,0,,And this does not prove that 3x+1 is also subject to the halting problem,
-Dialogue: 0,0:19:19.63,0:19:24.27,CHN,,0,0,0,,
+Dialogue: 0,0:19:19.63,0:19:24.27,CHN,,0,0,0,,但这并不能证明3n+1问题也是停机问题
 Dialogue: 0,0:19:24.27,0:19:26.67,ENG,,0,0,0,,but it is possible that given what we know,
-Dialogue: 0,0:19:24.27,0:19:26.67,CHN,,0,0,0,,
+Dialogue: 0,0:19:24.27,0:19:26.67,CHN,,0,0,0,,但据我们所知  不排除有这种可能
 Dialogue: 0,0:19:26.67,0:19:31.01,ENG,,0,0,0,,we may never prove the Collatz conjecture true or false.
-Dialogue: 0,0:19:26.67,0:19:31.01,CHN,,0,0,0,,
+Dialogue: 0,0:19:26.67,0:19:31.01,CHN,,0,0,0,,我们永远也无法证明考拉兹猜想的真假
 Dialogue: 0,0:19:31.01,0:19:33.51,ENG,,0,0,0,,- You're gonna be taught in school that we know a bunch of stuff
-Dialogue: 0,0:19:31.01,0:19:33.51,CHN,,0,0,0,,
+Dialogue: 0,0:19:31.01,0:19:33.51,CHN,,0,0,0,,学校可能告诉你我们已经懂很多了
 Dialogue: 0,0:19:33.51,0:19:36.48,ENG,,0,0,0,, and it's a lie. They're all lies.
-Dialogue: 0,0:19:33.51,0:19:36.48,CHN,,0,0,0,,
+Dialogue: 0,0:19:33.51,0:19:36.48,CHN,,0,0,0,,这是谎言  这都是谎言
 Dialogue: 0,0:19:36.48,0:19:38.68,ENG,,0,0,0,,Here's this stupid little problem.
-Dialogue: 0,0:19:36.48,0:19:38.68,CHN,,0,0,0,,
+Dialogue: 0,0:19:36.48,0:19:38.68,CHN,,0,0,0,,看这个愚蠢的小问题
 Dialogue: 0,0:19:38.68,0:19:43.14,ENG,,0,0,0,,Come on, really we can't solve this? Really?
-Dialogue: 0,0:19:38.68,0:19:43.14,CHN,,0,0,0,,
+Dialogue: 0,0:19:38.68,0:19:43.14,CHN,,0,0,0,,我们真的解决不了？真的{\fsp-30}？
 Dialogue: 0,0:19:43.14,0:19:46.87,ENG,,0,0,0,,You know, it just shows that math is hard.
-Dialogue: 0,0:19:43.14,0:19:46.87,CHN,,0,0,0,,
-Dialogue: 0,0:19:46.87,0:19:51.01,ENG,,0,0,0,,If anything, it shows that all of the things that we can solve are miracles.
-Dialogue: 0,0:19:46.87,0:19:51.01,CHN,,0,0,0,,
+Dialogue: 0,0:19:43.14,0:19:46.87,CHN,,0,0,0,,这只能说明数学有多困难
+Dialogue: 0,0:19:46.87,0:19:48.24,ENG,,0,0,0,,If anything, it shows that
+Dialogue: 0,0:19:46.87,0:19:48.24,CHN,,0,0,0,,非要说它有何意义的话  它表明
+Dialogue: 0,0:19:48.24,0:19:51.01,ENG,,0,0,0,,all of the things that we can solve are miracles.
+Dialogue: 0,0:19:48.24,0:19:51.01,CHN,,0,0,0,,我们能解决的所有问题都是奇迹
 Dialogue: 0,0:19:51.01,0:19:54.74,ENG,,0,0,0,,We have no right to have solutions to all of these other problems.
-Dialogue: 0,0:19:51.01,0:19:54.74,CHN,,0,0,0,,
+Dialogue: 0,0:19:51.01,0:19:54.74,CHN,,0,0,0,,我们人类无权给出其他所有问题的解法
 Dialogue: 0,0:19:54.74,0:19:59.65,ENG,,0,0,0,,- For my whole life, I've thought of numbers as these incredibly regular things
-Dialogue: 0,0:19:54.74,0:19:59.65,CHN,,0,0,0,,
+Dialogue: 0,0:19:54.74,0:19:59.65,CHN,,0,0,0,,在我的一生中  我一直认为数字是非常有规律的东西
 Dialogue: 0,0:19:59.65,0:20:02.78,ENG,,0,0,0,,full of patterns, symmetry, and repetition.
-Dialogue: 0,0:19:59.65,0:20:02.78,CHN,,0,0,0,,
+Dialogue: 0,0:19:59.65,0:20:02.78,CHN,,0,0,0,,充满模式、对称性和重复性
 Dialogue: 0,0:20:02.78,0:20:07.33,ENG,,0,0,0,,But what I'm realizing only now is just how peculiar numbers really are.
-Dialogue: 0,0:20:02.78,0:20:07.33,CHN,,0,0,0,,
+Dialogue: 0,0:20:02.78,0:20:07.33,CHN,,0,0,0,,但是我现在才意识到  数字到底有多奇特
 Dialogue: 0,0:20:07.33,0:20:10.44,ENG,,0,0,0,,You can see this most clearly in the coral representation.
-Dialogue: 0,0:20:07.33,0:20:10.44,CHN,,0,0,0,,
+Dialogue: 0,0:20:07.33,0:20:10.44,CHN,,0,0,0,,这一点在珊瑚图中体现得再清楚不过了
 Dialogue: 0,0:20:10.44,0:20:12.74,ENG,,0,0,0,,From a simple mathematical operation
-Dialogue: 0,0:20:10.44,0:20:12.74,CHN,,0,0,0,,
+Dialogue: 0,0:20:10.44,0:20:12.74,CHN,,0,0,0,,从一个简单的数学运算中
 Dialogue: 0,0:20:12.74,0:20:19.03,ENG,,0,0,0,,comes something intricate, organic-looking, and, thus far, intractable to us.
-Dialogue: 0,0:20:12.74,0:20:19.03,CHN,,0,0,0,,
+Dialogue: 0,0:20:12.74,0:20:19.03,CHN,,0,0,0,,产生了一些复杂的、有机的、我们至今都难以驾驭的东西
 Dialogue: 0,0:20:19.03,0:20:21.52,ENG,,0,0,0,,Do all numbers connect to the structure?
-Dialogue: 0,0:20:19.03,0:20:21.52,CHN,,0,0,0,,
+Dialogue: 0,0:20:19.03,0:20:21.52,CHN,,0,0,0,,是否所有的数字都与这个结构相连{\fsp-30}？
 Dialogue: 0,0:20:21.52,0:20:25.26,ENG,,0,0,0,,Or is there some unique filament, a spindly little thread,
-Dialogue: 0,0:20:21.52,0:20:25.26,CHN,,0,0,0,,
+Dialogue: 0,0:20:21.52,0:20:25.26,CHN,,0,0,0,,还是有什么独特的细丝  细长的细线
 Dialogue: 0,0:20:25.26,0:20:29.05,ENG,,0,0,0,,that doesn't connect to any of this, that runs off to infinity?
-Dialogue: 0,0:20:25.26,0:20:29.05,CHN,,0,0,0,,
+Dialogue: 0,0:20:25.26,0:20:29.05,CHN,,0,0,0,,与主图完全没有相连之处  一直遁入无穷尽{\fsp-30}？
 Dialogue: 0,0:20:29.05,0:20:31.76,ENG,,0,0,0,,And why is it so hard to tell?
-Dialogue: 0,0:20:29.05,0:20:31.76,CHN,,0,0,0,,
+Dialogue: 0,0:20:29.05,0:20:31.76,CHN,,0,0,0,,为什么这么难证明呢
 Dialogue: 0,0:20:31.76,0:20:33.72,ENG,,0,0,0,,I think that's why Paul Erdős said,
-Dialogue: 0,0:20:31.76,0:20:33.72,CHN,,0,0,0,,
+Dialogue: 0,0:20:31.76,0:20:33.72,CHN,,0,0,0,,我想这就是为什么 Paul Erdős 说
 Dialogue: 0,0:20:33.72,0:20:37.99,ENG,,0,0,0,,"Mathematics is not yet ripe enough for such questions."
-Dialogue: 0,0:20:33.72,0:20:37.99,CHN,,0,0,0,,
+Dialogue: 0,0:20:33.72,0:20:37.99,CHN,,0,0,0,,「当今的数学还没有成熟到能解决这种问题」
