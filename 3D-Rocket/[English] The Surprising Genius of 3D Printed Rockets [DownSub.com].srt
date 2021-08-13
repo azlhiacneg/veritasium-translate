@@ -105,7 +105,7 @@ So that's the plasma discharge, and it's hard to tell,
 27
 00:01:10,790 --> 00:01:14,150
 but it's doing things every couple of milliseconds,
-大约几毫秒放点一次
+大约几毫秒放电一次
 28
 00:01:14,150 --> 00:01:16,551
 it's actually changing the electric wave form,
@@ -214,7 +214,7 @@ It's funny to me that
 54
 00:02:23,660 --> 00:02:26,010
 you had this experience with 3D printing where you're like,
-你有3D打印的经验
+你有3D打印的体验
 55
 00:02:26,010 --> 00:02:28,240
 oh, 3D printing is clearly the future.
@@ -370,7 +370,7 @@ of the rocket's fuel tanks.
 93
 00:03:58,410 --> 00:04:01,740
 and they've had to spin up all these custom tooling designs
-不得不采用了大量的定制工具
+采用了大量的定制工具
 94
 00:04:01,740 --> 00:04:03,140
 and validate that those work
@@ -569,59 +569,55 @@ within a human hair at the entire length.
 142
 00:05:58,250 --> 00:06:00,650
 The warpy thing turns into the...
-扭曲的部件能够变成……
+扭曲的部件能够变成（笔直的火箭）
 143
 00:06:00,650 --> 00:06:02,070
 - And then we simulate all of that.
 我们模拟了这些扭曲
 144
 00:06:02,070 --> 00:06:04,514
-So it's a big computational solver
-
+So it's a big computational solver that simulates it,
+模拟这些是个很大型的计算过程
 145
 00:06:04,514 --> 00:06:08,250
-that simulates it, and there's
-many, many other problems
-
+and there's many, many other problems
+同时还有很多很多其他的问题
 146
 00:06:08,250 --> 00:06:10,120
 we've had to solve to actually get
-
+解决了这些问题
 147
 00:06:10,120 --> 00:06:11,430
 printing a rocket to work.
-
+才能打印出能用的火箭来
 148
 00:06:11,430 --> 00:06:13,340
 But it's all these little pieces
-
+而这也只是这些年中遇到问题的一部分
 149
 00:06:13,340 --> 00:06:14,664
 over the last couple of years,
-
+而这也只是这些年中遇到问题的一部分
 150
 00:06:14,664 --> 00:06:17,470
-and we've really started
-to hit some breakthroughs,
-
+and we've really started to hit some breakthroughs,
+然后我们开始取得了一些突破性进展
 151
 00:06:17,470 --> 00:06:20,770
-which is also why now
-you see a whole rocket.
-
+which is also why now you see a whole rocket.
+因此才能看到这里的一整个火箭
 152
 00:06:20,770 --> 00:06:22,230
-Yeah, you can step up here actually
-
+Yeah, you can step up here actually if you want.
+你可以站上来
 153
 00:06:22,230 --> 00:06:23,063
-if you want.
 - Can I?
-
+可以吗？
 154
 00:06:23,063 --> 00:06:23,896
 - Yeah, yeah.
-
+可以
 155
 00:06:24,885 --> 00:06:27,420
 (man laughs)
