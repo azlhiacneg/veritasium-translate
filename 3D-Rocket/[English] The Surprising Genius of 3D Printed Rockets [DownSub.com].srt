@@ -1,7 +1,7 @@
 1
 00:00:00,000 --> 00:00:03,710
 - This is the world's largest 3D metal printer.
-这是世界上做大的3D打印机
+这是世界上最大的3D打印机
 2
 00:00:03,710 --> 00:00:06,060
 It was built by Relativity Space,
