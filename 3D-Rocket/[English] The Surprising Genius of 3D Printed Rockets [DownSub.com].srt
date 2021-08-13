@@ -333,272 +333,247 @@ That means before you can build the rocket,
 也就是说，要想造一支火箭
 84
 00:03:35,524 --> 00:03:39,140
-you first have to build the
-tools to build the rocket.
-
+you first have to build the tools to build the rocket.
+你需要先制造出能够加工火箭的工具（类似船坞）
 85
 00:03:39,140 --> 00:03:41,360
-For example, to build
-NASA's next huge rocket,
-
+For example, to build NASA's next huge rocket,
+比方说，为了制造NASA的下一支大火箭
 86
 00:03:41,360 --> 00:03:43,810
 the Space Launch System or SLS,
-
+太空发射系统，简称SLS
 87
 00:03:43,810 --> 00:03:45,090
 they first needed to construct
-
+他们先建造了垂直组装中心（VAC）
 88
 00:03:45,090 --> 00:03:47,033
 the vertical assembly center or VAC.
-
+他们先建造了垂直组装中心（VAC）
 89
 00:03:47,900 --> 00:03:51,740
-This is a 170 foot tall
-tool for welding together
-
+This is a 170 foot tall tool for welding together
+这是个将170英尺（约51.8米）的大家伙
 90
 00:03:51,740 --> 00:03:54,200
 the domes, rings, and barrel sections
-
+用于焊接燃料仓的仓顶，仓壁以及加强环
 91
 00:03:54,200 --> 00:03:56,350
 of the rocket's fuel tanks.
-
+用于焊接燃料仓的仓顶，仓壁以及加强环
 92
 00:03:56,350 --> 00:03:58,410
 - They built that like an aerospace thing,
-
+他们就像建造航天飞机那样
 93
 00:03:58,410 --> 00:04:01,740
-and they've had to spin up all
-these custom tooling designs
-
+and they've had to spin up all these custom tooling designs
+不得不采用了大量的定制工具
 94
 00:04:01,740 --> 00:04:03,140
 and validate that those work
-
+并在实际建造之前进行大量的验证工作
 95
 00:04:03,140 --> 00:04:05,530
 before actually starts
 building the rocket.
-
+并在实际建造之前进行大量的验证工作
 96
 00:04:05,530 --> 00:04:08,720
-And they finally got one
-being assembled on the pad
-
+And they finally got one being assembled on the pad
+最终，花了11年才在发射台上组装好
 97
 00:04:08,720 --> 00:04:11,370
 after 11 years of development.
-
+最终，花了11年才在发射台上组装好
 98
 00:04:11,370 --> 00:04:13,570
 In contrast, Relativity Space the company,
-
+相较而言，Relativity Space公司刚刚成立五年半
 99
 00:04:13,570 --> 00:04:15,091
 is just five and a half years old,
-
+相较而言，Relativity Space公司刚刚成立五年半
 100
 00:04:15,091 --> 00:04:18,579
-and they plan to launch
-their first rocket this year.
-
+and they plan to launch their first rocket this year.
+今年就准备发射他们的第一支火箭了
 101
 00:04:18,579 --> 00:04:22,079
-- I see this as a like
-old engineering style
-
+- I see this as a like old engineering style
+在我看来，这就是传统模式和硅谷模式的区别
 102
 00:04:22,079 --> 00:04:25,342
 versus Silicon valley
 style of build something,
-
+在我看来，这就是传统模式和硅谷模式的区别
 103
 00:04:25,342 --> 00:04:27,030
 figure out what's wrong with it,
-
+找出当前存在的问他
 104
 00:04:27,030 --> 00:04:29,360
-and build another thing
-that fixes those, right?
-
+and build another thing that fixes those, right?
+然后快速迭代，改进问题
 105
 00:04:29,360 --> 00:04:31,995
-The differences, I've always
-done that with software.
-
+The differences, I've always done that with software.
+在软件领域，这种做法很常见
 106
 00:04:31,995 --> 00:04:35,680
-These guys are doing it
-with aerospace hardware.
-
+These guys are doing it with aerospace hardware.
+但是这些人正在太空硬件领域实现它
 107
 00:04:35,680 --> 00:04:38,649
-- So this is the actual
-rocket tank structure
-
+- So this is the actual rocket tank structure
+这个就是真正的火箭燃料仓
 108
 00:04:38,649 --> 00:04:40,930
 of what we're gonna be launching to orbit
-
+今年年底发射的火箭就要用上了
 109
 00:04:40,930 --> 00:04:41,763
 at the end of this year.
-
+今年年底发射的火箭就要用上了
 110
 00:04:41,763 --> 00:04:44,103
-So this actual thing
-is launching to space.
-
+So this actual thing is launching to space.
+这是真正能上天的玩意儿
 111
 00:04:44,103 --> 00:04:45,580
 - That will go to space?
-
+就是这个要上天？
 112
 00:04:45,580 --> 00:04:46,790
 - This will go to space,
-
+就是它要上天
 113
 00:04:46,790 --> 00:04:50,250
-and it's by far the largest
-3D printed product really,
-
+and it's by far the largest 3D printed product really,
+目前为止，在世界上所有能飞的东西里，这是最大的3D打印部件
 114
 00:04:50,250 --> 00:04:52,950
 of any type ever made that's gonna fly.
-
+目前为止，在世界上所有能飞的东西里，这是最大的3D打印部件
 115
 00:04:52,950 --> 00:04:54,830
 I think maybe of any type in the world.
-
+也许连不能飞的也算上，它也是最大的
 116
 00:04:54,830 --> 00:04:56,170
 - But it still looks 3D printed.
-
+但是很明显这个还是3D打印的
 117
 00:04:56,170 --> 00:04:57,580
 Like you can still see the layers.
-
+还是能看到一层层的
 118
 00:04:57,580 --> 00:04:59,910
-- Yeah, yeah, you can
-still see the layers.
-
+- Yeah, yeah, you can still see the layers.
+对对，能看到一层层的
 119
 00:04:59,910 --> 00:05:04,600
-It only adds an extra
-5 to 10% of the mass
-
+It only adds an extra 5 to 10% of the mass
+这样的粗糙度，会增加5%到10%的重量
 120
 00:05:04,600 --> 00:05:05,860
 with the roughness.
-
+这样的粗糙度，会增加5%到10%的重量
 121
 00:05:05,860 --> 00:05:08,030
-When you actually cross
-section the material
-
+When you actually cross section the material
+当你检查材料的横断面时
 122
 00:05:08,030 --> 00:05:10,070
 and look at the machine parts of it,
-
+当你检查材料的横断面时
 123
 00:05:10,070 --> 00:05:11,360
 it looks like normal metal.
-
+与普通材料并无二致
 124
 00:05:11,360 --> 00:05:14,080
-Like actually at this end,
-this is printed as well.
-
+Like actually at this end, this is printed as well.
+尾部这里也是3D打印的
 125
 00:05:14,080 --> 00:05:16,160
 We just machine it afterwards.
-
+我们后期又进行了加工
 126
 00:05:16,160 --> 00:05:19,360
-So it looks like normal
-metal in the joint sections.
-
+So it looks like normal metal in the joint sections.
+连接处看起来和普通金属一样
 127
 00:05:19,360 --> 00:05:22,520
-- Does the surface roughness
-cause any aerodynamic problems?
-
+- Does the surface roughness cause any aerodynamic problems?
+这样粗糙的表面会影响气动性能么？
 128
 00:05:22,520 --> 00:05:23,640
 - No, none at all.
-
+不会，完全不会
 129
 00:05:23,640 --> 00:05:26,560
-Yeah, it's actually the
-exact same aerodynamically.
-
+Yeah, it's actually the exact same aerodynamically.
+空气动力性能完全一致
 130
 00:05:26,560 --> 00:05:30,000
-This whole thing, we simulate
-the print before printing,
-
+This whole thing, we simulate the print before printing,
+整个构件在打印前进行了模拟打印
 131
 00:05:30,000 --> 00:05:33,060
-because if you just printed,
-you know, the 3D file
-
+because if you just printed, you know, the 3D file
+如果你直接把3D模型扔进去
 132
 00:05:33,060 --> 00:05:35,730
-and said press print, you
-would end up with a printer
-
+and said press print, you would end up with a printer
+按打印键的话，成品会受热扭曲
 133
 00:05:35,730 --> 00:05:39,270
-that's warped and like material
-falling all over the place
-
+that's warped and like material falling all over the place
+打印头无法把材料沉积上去，全都撒掉了
 134
 00:05:39,270 --> 00:05:40,700
 that wouldn't actually work.
-
+火箭也没法用了
 135
 00:05:40,700 --> 00:05:43,860
-So we've invented software
-that reverse warps
-
+So we've invented software that reverse warps
+所以我们的打印软件会自动抵消部件的扭曲
 136
 00:05:43,860 --> 00:05:45,980
 the whole part before printing it.
-
+所以我们的打印软件会自动抵消部件的扭曲
 137
 00:05:45,980 --> 00:05:47,700
 So the robots are actually doing this
-
+机器人才能在扭曲后的部件上完成打印
 138
 00:05:47,700 --> 00:05:49,822
 really wobbly, weird shape,
-
+机器人才能在扭曲后的部件上完成打印
 139
 00:05:49,822 --> 00:05:52,860
 but then it's actually perfectly straight
-
+最终的成果非常精确
 140
 00:05:52,860 --> 00:05:57,270
 within a human hair at the entire length.
-
+误差不会超过一根头发
 141
 00:05:57,270 --> 00:05:58,250
 - As it cools
 - As it cools.
-
+-当它冷却之后 -对，当它冷却后
 142
 00:05:58,250 --> 00:06:00,650
 The warpy thing turns into the...
-
+扭曲的部件能够变成……
 143
 00:06:00,650 --> 00:06:02,070
 - And then we simulate all of that.
-
+我们模拟了这些扭曲
 144
 00:06:02,070 --> 00:06:04,514
 So it's a big computational solver
