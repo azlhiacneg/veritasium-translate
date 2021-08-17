@@ -1331,7 +1331,7 @@ as ordinary structures.
 301
 00:12:06,290 --> 00:12:09,660
 - This is actually part of our next rocket, Terran R.
-这个是我们下一代火箭 「地球人 R」的一部分
+这个是我们下一代火箭 「人族R」的一部分
 
 302
 00:12:09,660 --> 00:12:11,360
@@ -1462,7 +1462,7 @@ Like everyone knew electric vehicles were the future,
 327
 00:13:05,080 --> 00:13:09,226
 but Nissan and Ford had really not compelling products
-而尼桑和福特很长一段时间都没什么让人种草的产品了
+而日产和福特很长一段时间都没什么让人种草的产品了
 
 328
 00:13:09,226 --> 00:13:10,750
@@ -1576,539 +1576,659 @@ of how an aerospace factory actually fundamentally works.
 
 351
 00:14:00,825 --> 00:14:04,195
-- Yeah, this is the new
-fully 3D printed rocket.
+- Yeah, this is the new fully 3D printed rocket.
+这就是完全3D打印的新火箭
 
 352
 00:14:04,195 --> 00:14:07,750
-So yeah, we'll have dragon
-fly wing type structures
+So yeah, we'll have dragonfly wing type structures
+嗯，我们会仿造蜻蜓翅膀的结构设计格栅翼
 
 353
 00:14:07,750 --> 00:14:08,920
 and we're building it so.
+我们已经开始制造了
 
 354
 00:14:08,920 --> 00:14:09,950
 But that's the first one,
+不过，左边那台才是初号机
 
 355
 00:14:09,950 --> 00:14:12,340
 and then that's that one for scale.
+那台是尺寸更大的版本
 
 356
 00:14:12,340 --> 00:14:15,660
 So yeah, it is definitely bigger.
+嗯，绝对大了一圈
 
 357
 00:14:15,660 --> 00:14:20,210
 Yeah, so our rocket is named
 Terran One and Terran R,
+是的，我们把火箭命名为 「人族一号」 和 「人族R」
 
 358
 00:14:20,210 --> 00:14:21,838
 and then our 3D printer's Stargate.
+3D打印机则被称为 「星际之门」
 
 359
 00:14:21,838 --> 00:14:23,650
 So all the things here at Relativity
+Relativity 制造的所有产品
 
 360
 00:14:23,650 --> 00:14:25,666
 are named after StarCraft.
+名字都来源于 「星际争霸」 这款游戏
 
 361
 00:14:25,666 --> 00:14:29,050
 So yeah, of course, the Stargate printer
+啊哈，「星际之门」 
 
 362
 00:14:29,050 --> 00:14:32,030
 was with the Protoss
 used to warp in spaceships.
+本来是「神族」乘坐太空飞船时扭曲空间所用的工具
 
 363
 00:14:32,030 --> 00:14:35,521
 And so, that's what's warping
 in spaceships at Relativity.
+所以，那就是 Relativity 用来改变太空飞船的利器
 
 364
 00:14:35,521 --> 00:14:38,980
 We have a system in our
 avionics called the Pylon
+我们的产品中，有一套名为「水晶塔」的系统
 
 365
 00:14:38,980 --> 00:14:40,150
 that we have to build a lot of.
+这套系统我们需求量很大
 
 366
 00:14:40,150 --> 00:14:43,360
 So we always joke, we have to
 construct additional Pylons.
+所以我们经常开玩笑说，我们还得多造一点「水晶塔」啊
 
 367
 00:14:43,360 --> 00:14:45,496
 Most people don't know how rockets
+很多人对于传统的火箭制造方式
 
 368
 00:14:45,496 --> 00:14:48,950
 are built traditionally at all anyway.
+也所知甚少
 
 369
 00:14:48,950 --> 00:14:51,180
 And I think a lot of
 people assume it's rockets,
+我觉得，许多人以为这是火箭
 
 370
 00:14:51,180 --> 00:14:54,360
 so shouldn't it be already very advanced
+那它就应该已经非常先进了
 
 371
 00:14:54,360 --> 00:14:56,540
 and robots everywhere and you know,
+生产线上全是机器人，你知道的
 
 372
 00:14:56,540 --> 00:14:58,540
 Elon's got Space X and Tesla,
+马斯克有SpaceX和Tesla两家公司
 
 373
 00:14:58,540 --> 00:15:00,760
 so doesn't Space X just look like Tesla
+那SpaceX难道不像Tesla那样
 
 374
 00:15:00,760 --> 00:15:02,798
 with all these robots and automation?
+同样有这些机器人和自动化的设备
 
 375
 00:15:02,798 --> 00:15:04,340
 But that's really not true.
+但这大错特错了
 
 376
 00:15:04,340 --> 00:15:07,157
 I mean, aerospace hasn't
 adopted automation at all.
+我想说的是，航空工业并没有完全接纳自动化
 
 377
 00:15:07,157 --> 00:15:09,850
 - One of the issues, right,
 is that you're not making
+其中一个问题就是，恩，你总不会一次性制造
 
 378
 00:15:09,850 --> 00:15:11,260
 a lot of rockets?
+很多的火箭吧？
 
 379
 00:15:11,260 --> 00:15:12,093
 - Right?
+对吧？
 
 380
 00:15:12,093 --> 00:15:14,810
 - So there's no incentive
 to like figure out
+所以并没有那么大的需求去刺激他们
 
 381
 00:15:14,810 --> 00:15:17,280
 how to tool up a factory
 to like pump out rockets
+设计出一种自动化的工厂，用来大量生产火箭
 
 382
 00:15:17,280 --> 00:15:18,590
 like a hundred a day or something.
+比如每天生产一百枚的那种
 
 383
 00:15:18,590 --> 00:15:19,423
 - Exactly.
+是这样
 
 384
 00:15:19,423 --> 00:15:20,256
 - Like you would for cars.
+就像生产汽车那样
 
 385
 00:15:20,256 --> 00:15:21,540
 - Exactly, you're not making a lot.
+的确，你并不会造那么多
 
 386
 00:15:21,540 --> 00:15:22,980
 Even with commercial aircraft,
+即使是商用的飞机
 
 387
 00:15:22,980 --> 00:15:24,450
 you're not making nearly as many
+也完全达不到那么多的产量
 
 388
 00:15:24,450 --> 00:15:27,770
 and there's orders of magnitude
 more parts and complexity.
+另外航空器的零部件数量和复杂程度与其他相比是差了数量级的
 
 389
 00:15:27,770 --> 00:15:32,290
 A commercial aircraft has
 several million individual parts.
+一架商用飞机有数以百万计独立的零件
 
 390
 00:15:32,290 --> 00:15:35,234
 So to have robots assemble
 several million parts
+让机器人组装数百万个零件
 
 391
 00:15:35,234 --> 00:15:38,830
 when an automobile has tens of thousands
+和仅有数万零件的汽车相比
 
 392
 00:15:38,830 --> 00:15:40,250
 is completely different.
+是完全不同的
 
 393
 00:15:40,250 --> 00:15:41,780
 It's a much harder problem.
+这个问题难多了
 
 394
 00:15:41,780 --> 00:15:45,230
 So that's where 3D printing
 is automation for aerospace
+所以，在我们这里，3D打印实现了航空业的自动化
 
 395
 00:15:45,230 --> 00:15:48,340
 because you're not assembling
 all those parts with robots
+因为你并不是像装配汽车那样
 
 396
 00:15:48,340 --> 00:15:50,030
 like you would with a car,
+用机器人组装所有的组件
 
 397
 00:15:50,030 --> 00:15:52,600
 you're assembling them in the 3D file
+你是预先在3D文件里设计整合好它们
 
 398
 00:15:52,600 --> 00:15:55,450
 and then the printer just
 prints them assembled.
+然后打印机以组装好的状态打印出它们
 
 399
 00:15:55,450 --> 00:15:58,660
 - The plan for Relativity Space,
+Relativity Space 的计划
 
 400
 00:15:58,660 --> 00:16:01,320
 is it low-earth orbit or is
 it going further than that?
+是专注于近地轨道，还是会有更远的目标？
 
 401
 00:16:01,320 --> 00:16:03,870
 - So for Terran One, it's
 mostly low earth orbit.
+对于「人族一号」而言，主要是近地轨道
 
 402
 00:16:03,870 --> 00:16:05,204
 The first rocket.
+这是我们的第一款火箭
 
 403
 00:16:05,204 --> 00:16:08,560
 Terran R can actually send
 payload to the moon to Mars.
+而「人族R」实际上可以把载荷送往月球和火星
 
 404
 00:16:08,560 --> 00:16:10,350
 I mean, it's pretty, pretty huge.
+它的运力相当巨大
 
 405
 00:16:10,350 --> 00:16:12,750
 I founded the company
 because I really thought
+我创立这家公司，因为我真心觉得
 
 406
 00:16:12,750 --> 00:16:14,420
 that there needed to be, you know,
+你明白的，需要有
 
 407
 00:16:14,420 --> 00:16:16,870
 dozens of hundreds of
 companies making Mars happen.
+数以千计的公司一起努力，使得前往火星成为现实
 
 408
 00:16:16,870 --> 00:16:19,460
 We're focused on taking
 this 3D printing tech
+我们专注于这种3D打印科技
 
 409
 00:16:19,460 --> 00:16:21,620
 and what we call the
 factory of the future,
+还有被我们称为未来工厂的概念
 
 410
 00:16:21,620 --> 00:16:23,418
 and one day shrinking it down to something
+在未来的某一天将它压缩成
 
 411
 00:16:23,418 --> 00:16:26,350
 we'll actually launch to Mars
 and build an industrial base.
+我们能够真正发射到火星的小工厂
+并且建起一个工业基地
 
 412
 00:16:26,350 --> 00:16:28,580
 So that's the long-term
 vision of the company,
+那是我们公司的长期愿景
 
 413
 00:16:28,580 --> 00:16:30,640
 is build the industrial base on Mars.
+就是在火星建立这种工业基地
 
 414
 00:16:30,640 --> 00:16:33,050
 In many ways, this factory
 is just a prototype.
+在许多方面，这种工厂还只是一个原型
 
 415
 00:16:33,050 --> 00:16:35,120
 It's still far smaller
 than a traditional factory.
+它仍然远小于传统的工厂
 
 416
 00:16:35,120 --> 00:16:36,220
 It's far lighter.
+它的分量小得多
 
 417
 00:16:36,220 --> 00:16:38,220
 And I think it's inevitable
+但是不可避免总有人要创建这样的公司
 
 418
 00:16:38,220 --> 00:16:40,270
 someone has to build this company.
 
+
 419
 00:16:40,270 --> 00:16:42,140
 - I don't know that in 10, 20 years
+我不知道，在十年，或者二十年后
 
 420
 00:16:42,140 --> 00:16:44,220
 that you will be 3D printing
 rockets all the time.
+你会不会随时能乘坐3D打印的火箭
 
 421
 00:16:44,220 --> 00:16:46,440
 Because if you are flying lots of rockets,
+因为如果有大量的火箭投入运营
 
 422
 00:16:46,440 --> 00:16:48,840
 it becomes cheaper to have
 a dedicated machine for it.
+拥有这样一个火箭的花费会更少
 
 423
 00:16:48,840 --> 00:16:52,851
 I do think that as a
 company, they are well-placed
+我认为，作为一家公司，他们的定位相当重要
 
 424
 00:16:52,851 --> 00:16:57,440
 because even if Terran fails
 to capitalize on the market,
+因为即使「人族」系列没能在市场上发挥优势
 
 425
 00:16:57,440 --> 00:17:00,040
 even if nobody wants to
 use it as a launch vehicle,
+即使没人愿意用它作为发射载具
 
 426
 00:17:00,040 --> 00:17:02,840
 they are clearly now the world experts
+我们显然是目前世界级的
 
 427
 00:17:02,840 --> 00:17:04,680
 on 3D printing rocket hardware,
+3D打印火箭硬件专家
 
 428
 00:17:04,680 --> 00:17:06,569
 'cause they've done everything, right?
+因为他们把所有问题都解决了，不是吗
 
 429
 00:17:06,569 --> 00:17:08,519
 They've tried to apply
 3D printing to places
+他们努力将3D打印应用在
 
 430
 00:17:08,520 --> 00:17:09,970
 where a lot of people dismissed it.
+被许多人忽视的领域
 
 431
 00:17:09,970 --> 00:17:12,950
 So I think they're sort
 of secure as a company.
+所以我觉得他们作为一家公司，地位是相当稳固的
 
 432
 00:17:12,950 --> 00:17:18,000
 Whether we will see rockets
 being 3D printed all the time?
+我们会不会看到火箭完全由3D打印制造的那天呢
 
 433
 00:17:18,000 --> 00:17:19,903
 That's a good question.
+这是个好问题
 
 434
 00:17:19,903 --> 00:17:21,270
 - There've been a lot of talk recently
+最近有许多的讨论
 
 435
 00:17:21,270 --> 00:17:23,579
 about billionaires going to space.
+有关于前往太空的大富豪们
 
 436
 00:17:23,579 --> 00:17:24,669
 - Yeah.
+是的
 
 437
 00:17:24,670 --> 00:17:27,137
 - Will a 3D printed
 rocket make it possible
+3D打印的火箭会使前往太空变得可行
 
 438
 00:17:27,137 --> 00:17:31,180
 and a lot cheaper for me to go to space?
+并且为我节省一大笔钱吗
 
 439
 00:17:31,180 --> 00:17:33,330
 - Yes, I mean, certainly what we're doing
+是的，我想说的是，很明显我们在做的
 
 440
 00:17:33,330 --> 00:17:34,720
 is lowering the cost.
+正是降低费用
 
 441
 00:17:34,720 --> 00:17:38,800
 So our rockets are
 costing about five times
+所以说，我们的火箭花费会比当今的可回收火箭便宜五倍
 
 442
 00:17:38,800 --> 00:17:41,260
 to, you know, I believe we can get to 10
+到，emm，我觉得我们可以达到十倍
 
 443
 00:17:41,260 --> 00:17:42,980
 or even a hundred times cheaper
+甚至能达到一百倍
 
 444
 00:17:42,980 --> 00:17:48,000
 with a fully reusable rocket
 than what we have today.
 
+
 445
 00:17:48,000 --> 00:17:50,687
 So it can definitely
 climb down the cost curve.
+那么这绝对能压低成本曲线
 
 446
 00:17:50,687 --> 00:17:52,966
 But I also think, you know, going to Mars
+不过，我还觉得，emm，前往火星
 
 447
 00:17:52,966 --> 00:17:55,192
 and the first people that are going,
+还有最先到达那里的人
 
 448
 00:17:55,192 --> 00:17:57,986
 it really is about what is the
 point of being a human being?
+重要的是成为人类的意义是什么
 
 449
 00:17:57,986 --> 00:18:00,000
 Like for me, why go to Mars?
+比方说，对我而言，为什么要去火星？
 
 450
 00:18:00,000 --> 00:18:01,919
 If we were having this conversation
+假如我们正在谈这个话题
 
 451
 00:18:01,919 --> 00:18:05,009
 and a million people were
 living on another planet,
+而一百万人住在另一个星球
 
 452
 00:18:05,009 --> 00:18:07,046
 I think it would expand the possibilities
+我想，这将带来更多可能性
 
 453
 00:18:07,046 --> 00:18:10,114
 of human experience and what
 it means to be a person.
+人类的体验和生而为人的意义
 
 454
 00:18:10,114 --> 00:18:12,915
 Like we'd have YouTube channels on Mars
+就像，我们可以开个关于火星的频道
 
 455
 00:18:12,915 --> 00:18:16,003
 and people sharing what life
 on Mars is like versus earth.
+人们可以分享在火星的生活是怎样的，并且和地球比较
 
 456
 00:18:16,003 --> 00:18:18,692
 And there'd be long distance
 Amelie, like love stories.
+还会有异地版的「天使艾美丽」，爱情故事之类的
 
 457
 00:18:18,692 --> 00:18:21,249
 Like I think there's
 just a lot of richness
+就像我觉得，人类有很多可能性
 
 458
 00:18:21,249 --> 00:18:25,332
 in what human culture
 and society can be about.
+文化和社会的演进令人期待
 
 459
 00:18:25,332 --> 00:18:27,507
 Yes, I think there's criticism about,
+当然，我想会有一些批评，关于，
 
 460
 00:18:27,507 --> 00:18:29,485
 you know, billionaires going to space
+你懂的，大富豪上太空之类的
 
 461
 00:18:29,485 --> 00:18:31,306
 and I don't agree with.
+对这些声音我不敢苟同
 
 462
 00:18:31,306 --> 00:18:32,945
 You know, all of the projects
+你明白的，所有这些计划
 
 463
 00:18:32,945 --> 00:18:35,350
 need to actually add up to
 some vision that is meaningful.
+都需要被赋予一个有意义的愿景
 
 464
 00:18:35,350 --> 00:18:38,023
 I think that's really important.
+我觉得那真的很重要
 
 465
 00:18:38,023 --> 00:18:40,926
 But I do think going to
 Mars is really just about,
+但我不觉得去火星仅仅是为了
 
 466
 00:18:40,926 --> 00:18:42,972
 you know, we've lived
 for generations on earth,
+emm，我们世世代代生活在地球上
 
 467
 00:18:42,972 --> 00:18:44,966
 so what's it all about like,
+那，去火星是怎样的感觉？
 
 468
 00:18:44,966 --> 00:18:48,660
 why do we want to keep
 improving and getting better
+我们为什么想要改进
 
 469
 00:18:48,660 --> 00:18:50,933
 and furthering society on earth?
+并且拓展地球上的社会
 
 470
 00:18:50,933 --> 00:18:52,689
 So for me, it's pretty existential.
+对我而言，这是相当存在主义的问题
 
 471
 00:18:52,689 --> 00:18:54,632
 What it means to be a human being.
+成为人类意味着什么呢
 
 472
 00:18:54,796 --> 00:18:57,963
@@ -2117,119 +2237,144 @@ What it means to be a human being.
 473
 00:19:00,160 --> 00:19:02,710
 - Hey, this video is sponsored by Omaze.
+嘿，这个视频由 Omaze 赞助
 
 474
 00:19:02,710 --> 00:19:05,155
 Offering you the chance
 to win a trip to space.
+这个金主现在给你个机会去太空兜风
 
 475
 00:19:05,182 --> 00:19:07,892
 The winner will get two seats
 on one of Virgin Galactic's
+中奖的幸运儿能拿到两张维珍银河的船票
 
 476
 00:19:07,892 --> 00:19:09,518
 first commercial space flights.
+这可是维珍银河的第一次商业飞行哦
 
 477
 00:19:09,518 --> 00:19:11,848
 Meaning you and a guest
 will travel 80 kilometers
+你可以再带一个人上天，飞到80千米那么高
 
 478
 00:19:11,848 --> 00:19:13,128
 up in the sky.
 
+
 479
 00:19:13,128 --> 00:19:15,061
 You'll get to see the
 curve of planet earth,
+到时候你可以看到地球的曲线
 
 480
 00:19:15,088 --> 00:19:16,238
 experience weightlessness,
+体验失重感
 
 481
 00:19:16,238 --> 00:19:18,378
 and become one of the
 few people in the world
+成为地球上少有的那一群
 
 482
 00:19:18,378 --> 00:19:19,588
 to have gone to space.
+前往过太空的人类
 
 483
 00:19:19,588 --> 00:19:21,538
 And you also get to
 join Sir Richard Branson
+你还可以和理查德布兰森爵士一起
 
 484
 00:19:21,538 --> 00:19:24,778
 for a personal VIP tour
 of Spaceport America.
+体验美国太空港的VIP旅行
 
 485
 00:19:24,778 --> 00:19:27,421
 The flight is estimated to
 take place in early 2022.
+这个飞行预计排定在2022年上半年
 
 486
 00:19:27,421 --> 00:19:31,468
 So enter at omaze.com/veritasium
 for your chance to win.
+那猛戳这个链接试试手气吧
 
 487
 00:19:31,522 --> 00:19:33,575
 Now, Omaze partners with charities,
+Omaze 和慈善机构一起
 
 488
 00:19:33,602 --> 00:19:35,352
 in this case Space for Humanity,
+这一次是和 Space for Humanity 合作
 
 489
 00:19:35,352 --> 00:19:38,218
 an organization whose mission
 is to expand access to space
+这是个以扩大前往太空途径为己任的组织
 
 490
 00:19:38,245 --> 00:19:40,585
 and train global leaders
 in the eventual goal
+并培养全球领导者为他们的终极目标服务
 
 491
 00:19:40,585 --> 00:19:42,395
 of creating a sustainable future.
+创造一个可持续的未来
 
 492
 00:19:42,422 --> 00:19:44,625
 So part of your contribution
 supports this cause.
+那么，你的一小部分贡献将支持这一事业
 
 493
 00:19:44,625 --> 00:19:46,468
 To potentially win a trip to space
+想薅太空船票
 
 494
 00:19:46,468 --> 00:19:49,021
 and support Space for
 Humanity, a great cause,
+并且支持这个组织的伟大事业吗
 
 495
 00:19:49,048 --> 00:19:51,005
 go to omaze.com/veritasium.
+猛击这个链接
 
 496
 00:19:51,005 --> 00:19:53,353
 I will put that link
 down in the description.
+我会把这个链接放在视频描述里
 
 497
 00:19:53,353 --> 00:19:55,249
 So I wanna thank Omaze
 for sponsoring this video,
+最后在此感谢 Omaze 赞助这期视频
 
 498
 00:19:55,276 --> 00:19:57,026
 and I wanna thank you for watching.
-
+也谢谢你的观看
