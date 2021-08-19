@@ -522,539 +522,662 @@ of bad type II clickbait.
 00:04:39,350 --> 00:04:42,170
 Now, imagine a clickbait
 space where on one axis,
+不妨想像一个平面，它可以覆盖所有的“标题党”
 
 120
 00:04:42,170 --> 00:04:45,630
 you have how misleading
 or sensationalized it is.
+一个维度描述它的误导性或者情绪化程度
 
 121
 00:04:45,630 --> 00:04:47,630
 And on the other, how much information
+另一个维度则表明
 
 122
 00:04:47,630 --> 00:04:50,880
 is intentionally withheld
 to create a curiosity gap.
+为了设置悬念，它所隐瞒信息的多少
 
 123
 00:04:50,880 --> 00:04:54,180
 Well, then these two titles
 fall in the top right corner.
+那么，刚才这两个标题就落在右上角
 
 124
 00:04:54,180 --> 00:04:57,740
 And these are the zones
 of type II clickbait.
+这些就是第二类标题党所在的区域
 
 125
 00:04:57,740 --> 00:04:58,710
 At the other extreme,
+而在另一端
 
 126
 00:04:58,710 --> 00:05:02,730
 you have things that are so
 unsensationalized as to be dull.
+这些标题是如此平淡，以至于有点枯燥
 
 127
 00:05:02,730 --> 00:05:05,550
 You could call this the dead zone.
+可以把这边称作“盲区”
 
 128
 00:05:05,550 --> 00:05:07,727
 Now, here is where you would find
+再看这里，你可以找到
 
 129
 00:05:07,727 --> 00:05:10,650
 "Strange applications
 of the Magnus Effect."
+“马格努斯效应的奇特应用”之类的标题
 
 130
 00:05:10,650 --> 00:05:13,750
 I mean, I didn't tell you
 what the applications were.
+也就是说，标题没有点明这些应用是什么
 
 131
 00:05:13,750 --> 00:05:17,980
 Now, in the middle is where you
 would find type I clickbait.
+中间则是第一类标题党的所在
 
 132
 00:05:17,980 --> 00:05:20,230
 But honestly, I think type
 I and type II clickbait
+但是说真的，这两类标题党的区别
 
 133
 00:05:20,230 --> 00:05:22,440
 are so different, that
 we shouldn't even use
+在我看来是很大的
 
 134
 00:05:22,440 --> 00:05:23,990
 the same word for them.
+大到不该用一个词形容
 
 135
 00:05:23,990 --> 00:05:25,600
 Instead of type I clickbait,
+原来用的“第一类标题党”
 
 136
 00:05:25,600 --> 00:05:29,440
 my friend and YouTuber, Brady
 Heron suggested legitbait.
+我的一位up主朋友，Brady Heron，建议用“守序标题党“来取代它
 
 137
 00:05:29,440 --> 00:05:33,310
 I mean, it might sound
 enticing, but it is legit.
+意思是，它看似在骗点击，但其实是合理的。
 
 138
 00:05:33,310 --> 00:05:34,730
 Instead of type II clickbait,
+与其用“第二类标题党”
 
 139
 00:05:34,730 --> 00:05:39,730
 we could use clicktrap,
 clicktrick, linktrap or dupechute.
+我们不如换成“点击陷阱”“点击诡计”
+“陷阱链接”“整蛊链接”这些词
 
 140
 00:05:40,860 --> 00:05:43,940
 What's important to recognize
 is that for any given video,
+还要意识到一个重要的事实，就是对于任何视频
 
 141
 00:05:43,940 --> 00:05:47,170
 there is no one true title and thumbnail.
+并没有唯一标准的标题和封面图
 
 142
 00:05:47,170 --> 00:05:49,760
 Each video could have
 hundreds or thousands
+每个视频都可以有成百上千
 
 143
 00:05:49,760 --> 00:05:51,760
 of different legitbait titles.
+各不相同的“合理标题”
 
 144
 00:05:51,760 --> 00:05:55,070
 For example, how does a zero-G plane work?
+比方说，“零重力飞机是如何运转的？”
 
 145
 00:05:55,070 --> 00:05:58,440
 I went on a plane that does
 parabolic trajectories.
+我曾乘坐过这种飞机，它沿抛物线飞行
 
 146
 00:05:58,440 --> 00:06:01,970
 What happens to fire on a zero-G plane?
+“零重力飞机上的火焰会发生什么？”
 
 147
 00:06:01,970 --> 00:06:04,160
 Now, the most enticing
 titles and thumbnails
+可以发现，最有诱惑力的标题和封面图
 
 148
 00:06:04,160 --> 00:06:07,150
 are found close to type II clickbait.
+和第二类标题党很接近
 
 149
 00:06:07,150 --> 00:06:09,560
 I'm reminded of the infographic
 by smarter every day,
+我想起 SmarterEveryDay 制作的那张图表
 
 150
 00:06:09,560 --> 00:06:11,270
 showing that on social media,
+它表明，在社交媒体上
 
 151
 00:06:11,270 --> 00:06:13,620
 the greatest engagement
 occurs close to the boundary
+最有吸引力的话题
 
 152
 00:06:13,620 --> 00:06:14,950
 of what's allowable.
+是在违法的边缘打擦边球
 
 153
 00:06:14,950 --> 00:06:17,430
 But remember that everyone's
 definition of clickbait
+但要记住，每个人判断标题党的标准不同
 
 154
 00:06:17,430 --> 00:06:19,260
 is different, and everyone's perceptions
+而且每个人对于
 
 155
 00:06:19,260 --> 00:06:20,970
 of words and images are different.
+文字和图片的理解不同
 
 156
 00:06:20,970 --> 00:06:22,850
 So these are not clear boundaries.
+所以这些分界并不清晰
 
 157
 00:06:22,850 --> 00:06:25,200
 They're actually kind of fuzzy.
+实际上，还有点模糊
 
 158
 00:06:25,200 --> 00:06:27,270
 What for one person might be legitbait,
+某人觉得是“守序标题党”的标题
 
 159
 00:06:27,270 --> 00:06:30,240
 for someone else, could be a clicktrap.
+在另一个人看来，可能就是骗点击的陷阱
 
 160
 00:06:30,240 --> 00:06:32,040
 What's clear is that on a site
+显然
 
 161
 00:06:32,040 --> 00:06:33,960
 where click-through rate is important,
+在一个重视点击率的网站
 
 162
 00:06:33,960 --> 00:06:36,270
 clickbait of all types is inevitable.
+出现各种标题党是难以避免的
 
 163
 00:06:36,270 --> 00:06:38,760
 How important to a video's success
+对一个视频的成功而言
 
 164
 00:06:38,760 --> 00:06:40,000
 is the title and thumbnail?
+标题和封面有多重要呢
 
 165
 00:06:40,000 --> 00:06:41,430
 - Very important. Of course.
+当然是非常重要
 
 166
 00:06:41,430 --> 00:06:42,263
 If they don't click on the video,
+如果观众不点进视频
 
 167
 00:06:42,263 --> 00:06:43,430
 they don't watch it.
+他们压根就看不到它
 
 168
 00:06:43,430 --> 00:06:45,907
 You can't get 10 million views
+只有你获得了一千万点击
 
 169
 00:06:45,907 --> 00:06:48,100
 unless 10 million people
 click on the video.
+才有可能收获一千万的播放量
 
 170
 00:06:48,100 --> 00:06:50,930
 So, I mean, it's literally that simple.
+所以我觉得，它就是这么简单
 
 171
 00:06:50,930 --> 00:06:52,630
 They don't click on it,
 they don't watch it.
+观众点进去，才会看到视频
 
 172
 00:06:52,630 --> 00:06:55,090
 - So, why is clickbait everywhere?
+那，为什么到处都是标题党呢
 
 173
 00:06:55,090 --> 00:06:57,300
 Well, because it works.
+因为它效果好
 
 174
 00:06:57,300 --> 00:06:59,700
 More enticing thumbnails get more clicks.
+封面图越诱人，收获的点击数越多
 
 175
 00:06:59,700 --> 00:07:01,230
 Despite some people's claims
+尽管有人声称
 
 176
 00:07:01,230 --> 00:07:03,430
 that they won't click or they'll unsub,
+他们不会手贱点进去，否则就取关
 
 177
 00:07:03,430 --> 00:07:04,950
 it's just like evolution.
+但这依然像生物进化一样
 
 178
 00:07:04,950 --> 00:07:09,100
 Whatever survives, multiplies
 and traits become amplified.
+凡是存活下来的都会繁殖，它们的特征也会被放大。
 
 179
 00:07:09,100 --> 00:07:11,720
 If you don't begrudge
 the giraffe its long neck
+如果你不反感长颈鹿
 
 180
 00:07:11,720 --> 00:07:13,630
 so it can reach the highest leaves,
+用来够着最高处树叶的脖子
 
 181
 00:07:13,630 --> 00:07:16,070
 can you begrudge a YouTuber the red arrow
+那你会讨厌up主们
 
 182
 00:07:16,070 --> 00:07:18,870
 that allows them to
 reach further audiences?
+用来收割更多关注者的红箭头吗
 
 183
 00:07:18,870 --> 00:07:21,000
 I talked about this in
 my video two years ago.
+两年前，我曾在一期视频里谈到过这个
 
 184
 00:07:21,000 --> 00:07:22,540
 To be successful as a YouTuber,
+想当一个成功的up主
 
 185
 00:07:22,540 --> 00:07:24,440
 you need to optimize two things,
+你要优化两个东西
 
 186
 00:07:24,440 --> 00:07:27,140
 watch time and the click-through
 rate of your videos.
+观看时长，以及视频的点击率
 
 187
 00:07:27,140 --> 00:07:28,460
 That's the number of times
+也就是用
 
 188
 00:07:28,460 --> 00:07:29,730
 the title and thumbnail are clicked,
+标题和封面的点击次数
 
 189
 00:07:29,730 --> 00:07:32,000
 divided by the total number
 of times they're shown.
+除以它们出现的总次数
 
 190
 00:07:32,000 --> 00:07:34,130
 That's the number of impressions.
+也就是印象数
 
 191
 00:07:34,130 --> 00:07:34,963
 Now at the time,
+当时
 
 192
 00:07:34,963 --> 00:07:37,140
 this was something of a revelation for me
+这个概念让我耳目一新
 
 193
 00:07:37,140 --> 00:07:39,910
 because I always thought my
 job was to make great videos.
+因为我一直觉得，我的职责就是制作优质的视频
 
 194
 00:07:39,910 --> 00:07:41,210
 And then a title and thumbnail
+还有一组
 
 195
 00:07:41,210 --> 00:07:43,840
 that adequately represented
 what the video was about.
+恰当呈现视频主旨的标题和封面
 
 196
 00:07:43,840 --> 00:07:46,640
 But now I've realized that
 making the title and thumbnail
+但我现在意识到，构思标题和封面
 
 197
 00:07:46,640 --> 00:07:49,220
 is at least half the job.
+至少占了一半的工作量
 
 198
 00:07:49,220 --> 00:07:51,570
 This is not just because
 better titles and thumbnails
+这不只是因为
 
 199
 00:07:51,570 --> 00:07:52,700
 get you more clicks,
+更好的标题和封面能带来更多点击数
 
 200
 00:07:52,700 --> 00:07:54,140
 but because better titles and thumbnails
+还因为它们可以
 
 201
 00:07:54,140 --> 00:07:57,160
 will get you way more impressions.
+给你带来更多出现的机会
 
 202
 00:07:57,160 --> 00:07:59,260
 YouTube has limited real estate
+Youtube 的空间是有限的
 
 203
 00:07:59,260 --> 00:08:02,280
 with which to show you
 virtually infinite content.
+在这里，它要给你推送几乎无穷多的内容
 
 204
 00:08:02,280 --> 00:08:04,350
 And so it's not enough
 to make a good video
+所以，仅仅做出好视频是不够的
 
 205
 00:08:04,350 --> 00:08:06,130
 even if people watch all of it,
+即使观众会把视频看完
 
 206
 00:08:06,130 --> 00:08:08,270
 you also have to make
 a title and thumbnail
+你也要呈现一个标题和封面
 
 207
 00:08:08,270 --> 00:08:10,140
 that gets clicked,
 especially in competition
+吸引人们去点击它，尤其是在
 
 208
 00:08:10,140 --> 00:08:12,700
 with other really good
 titles and thumbnails.
+和其他相当优秀的标题竞争的时候
 
 209
 00:08:12,700 --> 00:08:14,440
 That's the only way you can expect YouTube
+这是你从 Youtube 那里
 
 210
 00:08:14,440 --> 00:08:16,548
 to give you more impressions.
+获得更多出现机会的唯一方式
 
 211
 00:08:16,548 --> 00:08:19,280
 Now, the big development
 since my last video on this
+自从我上次做同样话题的视频后，有了一个大进展
 
 212
 00:08:19,280 --> 00:08:21,780
 is YouTube introduced real-time metrics
+就是 Youtube 引进了实时的度量指标
 
 213
 00:08:21,780 --> 00:08:24,303
 like views, impressions
 and click-through rate.
+包括观看次数，印象数和点击率等等
 
 214
 00:08:24,303 --> 00:08:26,770
 Now, I suggested this
 would create an arms race.
+我觉得，这将会带来一场创作者的军备竞赛
 
 215
 00:08:26,770 --> 00:08:28,470
 So what you can bet will happen
+那么，几乎可以肯定，接下来会发生的是
 
 216
 00:08:28,470 --> 00:08:30,680
 is that creators will launch a video
+创作者们会开始做视频
 
 217
 00:08:30,680 --> 00:08:31,690
 and then they'll be sitting there
+然后他们就会坐在那
 
 218
 00:08:31,690 --> 00:08:33,640
 with all these different
 variants of thumbnails
+给视频配各种封面
 
 219
 00:08:33,640 --> 00:08:35,380
 and they'll be swapping them out
+再把它们换来换去
 
 220
 00:08:35,380 --> 00:08:38,030
 and looking at what that
 does to click-through rate
+看看这对点击率有什么影响
 
 221
 00:08:38,030 --> 00:08:39,740
 and then going with the one
+接着选定一个
 
 222
 00:08:39,740 --> 00:08:42,610
 that leads to the greatest
 click-through rate.
+能带来最多点击量的封面
 
 223
 00:08:42,610 --> 00:08:45,210
 And this is basically what has happened.
+基本上，这就是已经发生的一切
 
 224
 00:08:45,210 --> 00:08:47,410
 Let me give you my favorite example.
+给你举个我最中意的例子
 
 225
 00:08:47,410 --> 00:08:50,020
 Last year, I made a video about asteroids,
+去年，我做了个关于小行星的视频
 
 226
 00:08:50,020 --> 00:08:51,710
 which I thought was really good.
+我觉得它很不错
 
 227
 00:08:51,710 --> 00:08:54,930
 I called it "Asteroids:
 Earth's Biggest Threat,"
+我给的标题是：“小行星：地球的最大威胁”
 
 228
 00:08:54,930 --> 00:08:56,650
 which is something Stephen Hawking said.
+这是史蒂芬·霍金说过的话
 
 229
 00:08:56,650 --> 00:08:58,930
 And people were very
 positive about the video.
+观众对这个视频的评价很积极
 
 230
 00:08:58,930 --> 00:09:01,200
 They thought it was maybe one of my best,
+他们觉得这也许能成为我的代表作
 
 231
 00:09:01,200 --> 00:09:03,950
 but the performance
 was well below average.
+但是这个视频的表现远低于平均水平
 
 232
 00:09:03,950 --> 00:09:06,720
 In its first day,
 asteroids was ranked ninth
+上线的第一天，在我最近十部作品里
 
 233
 00:09:06,720 --> 00:09:09,080
 out of my previous 10 videos.
+这个视频的指标排在第九位
 
 234
 00:09:09,080 --> 00:09:10,480
 It was probably on target
+它可以达到的观看数目标
 
 235
 00:09:10,480 --> 00:09:13,070
 for about one and a half million views.
+大约在150万左右
 
 236
 00:09:13,070 --> 00:09:15,270
 So I tried different titles and thumbnails
+于是，我尝试了不同的标题和封面
 
 237
 00:09:15,270 --> 00:09:18,130
 like, "Asteroid Impact:
 What Are Our Chances?"
+比如说，“小行星撞地球：我们的机会有多少？”
 
 238
 00:09:18,130 --> 00:09:20,820
 Or "Asteroid Impact: What Could We Do?"
+还有 “小行星撞地球：我们能做什么？”
 
 239
 00:09:20,820 --> 00:09:23,850
 But none of these changes
 got much traction.
+但这些改动没有什么吸引力
 
 240
 00:09:23,850 --> 00:09:25,520
 And then on day three after launch,
+然后，在视频发布的第三天，我吃过午饭以后
 
 241
 00:09:25,520 --> 00:09:27,010

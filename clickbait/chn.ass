@@ -15,9 +15,9 @@ Video File: Clickbait is Unreasonably Effective.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 556
-Active Line: 562
-Video Position: 23771
+Scroll Position: 207
+Active Line: 210
+Video Position: 7326
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -182,7 +182,7 @@ Dialogue: 0,0:03:31.90,0:03:36.79,Chinese,,0,0,0,,在互联网上，用于吸引
 Dialogue: 0,0:03:36.79,0:03:39.36,English,,0,0,0,,to click on a link to a particular webpage.
 Dialogue: 0,0:03:36.79,0:03:39.36,Chinese,,0,0,0,,点击某个网页链接的内容
 Dialogue: 0,0:03:39.36,0:03:42.05,English,,0,0,0,,We could call this type I clickbait,
-Dialogue: 0,0:03:39.36,0:03:42.05,Chinese,,0,0,0,,我们可以把它叫做「一类标题党」
+Dialogue: 0,0:03:39.36,0:03:42.05,Chinese,,0,0,0,,我们可以把它叫做「第一类标题党{\fsp-30}」
 Dialogue: 0,0:03:42.05,0:03:44.41,English,,0,0,0,,and there doesn't seem to be anything wrong with it.
 Dialogue: 0,0:03:42.05,0:03:44.41,Chinese,,0,0,0,,而且它本身似乎没有什么错
 Dialogue: 0,0:03:44.41,0:03:46.98,English,,0,0,0,,I mean, if you didn't try to attract attention
@@ -202,7 +202,7 @@ Dialogue: 0,0:03:59.76,0:04:04.28,Chinese,,0,0,0,,尤其是链接到内容可疑
 Dialogue: 0,0:04:04.28,0:04:07.09,English,,0,0,0,,Wikipedia says, "A defining characteristic of clickbait
 Dialogue: 0,0:04:04.28,0:04:07.09,Chinese,,0,0,0,,维基百科说「标题党的一个根本特征是
 Dialogue: 0,0:04:07.09,0:04:09.98,English,,0,0,0,,is that it is sensationalized or misleading."
-Dialogue: 0,0:04:07.09,0:04:09.98,Chinese,,0,0,0,,情绪化或有误导性」
+Dialogue: 0,0:04:07.09,0:04:09.98,Chinese,,0,0,0,,情绪化或有误导性{\fsp-30}」
 Dialogue: 0,0:04:09.98,0:04:11.82,English,,0,0,0,,And it also talks about teasers
 Dialogue: 0,0:04:11.82,0:04:15.64,English,,0,0,0,,that intentionally withhold information to exploit the "curiosity gap."
 Dialogue: 0,0:04:09.98,0:04:15.64,Chinese,,0,0,0,,它还提到了一种故意卖关子  来吊人胃口的标题
@@ -216,190 +216,300 @@ Dialogue: 0,0:04:25.06,0:04:30.20,Chinese,,0,0,0,,《十个美国人有九个完
 Dialogue: 0,0:04:30.75,0:04:34.92,Chinese,,0,0,0,,《某人给小孩们发了几把剪刀，接下来发生了这些》
 Dialogue: 0,0:04:34.92,0:04:36.20,English,,0,0,0,,I think we can all agree that
 Dialogue: 0,0:04:34.92,0:04:36.20,Chinese,,0,0,0,,我觉得我们都会认可
-Dialogue: 0,0:04:36.20,0:04:38.45,English,,0,0,0,,these are examples of bad type II clickbait.
-Dialogue: 0,0:04:36.20,0:04:38.45,Chinese,,0,0,0,,它们属于坏的「二类标题党」
-Dialogue: 0,0:04:39.35,0:04:42.17,English,,0,0,0,,Now, imagine a clickbait space where on one axis,
-Dialogue: 0,0:04:42.17,0:04:45.63,English,,0,0,0,,you have how misleading or sensationalized it is.
-Dialogue: 0,0:04:45.63,0:04:47.63,English,,0,0,0,,And on the other, how much information
-Dialogue: 0,0:04:47.63,0:04:50.88,English,,0,0,0,,is intentionally withheld to create a curiosity gap.
+Dialogue: 0,0:04:36.20,0:04:39.47,English,,0,0,0,,these are examples of bad type II clickbait.
+Dialogue: 0,0:04:36.20,0:04:39.47,Chinese,,0,0,0,,它们属于坏的「第二类标题党{\fsp-30}」
+Dialogue: 0,0:04:39.47,0:04:41.19,English,,0,0,0,,Now, imagine a clickbait space
+Dialogue: 0,0:04:39.47,0:04:41.19,Chinese,,0,0,0,,想像把各类“标题党”放在平面内
+Dialogue: 0,0:04:41.19,0:04:45.83,English,,0,0,0,,where on one axis, you have how misleading or sensationalized it is.
+Dialogue: 0,0:04:41.19,0:04:45.83,Chinese,,0,0,0,,横轴描述  它的误导性或者情绪化程度
+Dialogue: 0,0:04:45.83,0:04:48.98,English,,0,0,0,,And on the other, how much information is intentionally withheld
+Dialogue: 0,0:04:48.98,0:04:50.88,English,,0,0,0,,to create a curiosity gap.
+Dialogue: 0,0:04:45.83,0:04:50.88,Chinese,,0,0,0,,纵轴描述  它为了设置悬念而隐瞒了多少信息
 Dialogue: 0,0:04:50.88,0:04:54.18,English,,0,0,0,,Well, then these two titles fall in the top right corner.
+Dialogue: 0,0:04:50.88,0:04:54.18,Chinese,,0,0,0,,刚才这两个标题就落在右上角
 Dialogue: 0,0:04:54.18,0:04:57.74,English,,0,0,0,,And these are the zones of type II clickbait.
+Dialogue: 0,0:04:54.18,0:04:57.74,Chinese,,0,0,0,,这些就是第二类标题党所在的区域
 Dialogue: 0,0:04:57.74,0:04:58.71,English,,0,0,0,,At the other extreme,
+Dialogue: 0,0:04:57.74,0:04:58.71,Chinese,,0,0,0,,而在另一个极端
 Dialogue: 0,0:04:58.71,0:05:02.73,English,,0,0,0,,you have things that are so unsensationalized as to be dull.
+Dialogue: 0,0:04:58.71,0:05:02.73,Chinese,,0,0,0,,这些标题是如此平淡  以至于有点枯燥
 Dialogue: 0,0:05:02.73,0:05:05.55,English,,0,0,0,,You could call this the dead zone.
+Dialogue: 0,0:05:02.73,0:05:05.55,Chinese,,0,0,0,,可以把这边称作“盲区{\fsp-30}”
 Dialogue: 0,0:05:05.55,0:05:07.72,English,,0,0,0,,Now, here is where you would find
+Dialogue: 0,0:05:05.55,0:05:07.72,Chinese,,0,0,0,,在这片区域  你可以找到
 Dialogue: 0,0:05:07.72,0:05:10.65,English,,0,0,0,,"Strange applications of the Magnus Effect."
+Dialogue: 0,0:05:07.72,0:05:10.65,Chinese,,0,0,0,,“马格努斯效应的奇特应用”之类的标题
 Dialogue: 0,0:05:10.65,0:05:13.75,English,,0,0,0,,I mean, I didn't tell you what the applications were.
+Dialogue: 0,0:05:10.65,0:05:13.75,Chinese,,0,0,0,,因为标题没有点明这些应用是什么
 Dialogue: 0,0:05:13.75,0:05:17.98,English,,0,0,0,,Now, in the middle is where you would find type I clickbait.
-Dialogue: 0,0:05:17.98,0:05:20.23,English,,0,0,0,,But honestly, I think type I and type II clickbait
-Dialogue: 0,0:05:20.23,0:05:22.44,English,,0,0,0,,are so different, that we shouldn't even use
-Dialogue: 0,0:05:22.44,0:05:23.99,English,,0,0,0,,the same word for them.
+Dialogue: 0,0:05:13.75,0:05:17.98,Chinese,,0,0,0,,中间则是第一类标题党的所在
+Dialogue: 0,0:05:17.98,0:05:21.48,English,,0,0,0,,But honestly, I think type I and type II clickbait are so different,
+Dialogue: 0,0:05:17.98,0:05:21.48,Chinese,,0,0,0,,但是讲真  这两类标题党有着巨大的差别
+Dialogue: 0,0:05:21.48,0:05:23.99,English,,0,0,0,,that we shouldn't even use the same word for them.
+Dialogue: 0,0:05:21.48,0:05:23.99,Chinese,,0,0,0,,大到我觉得不应该归结为同一个词
 Dialogue: 0,0:05:23.99,0:05:25.60,English,,0,0,0,,Instead of type I clickbait,
+Dialogue: 0,0:05:23.99,0:05:25.60,Chinese,,0,0,0,,与其叫“第一类标题党{\fsp-30}”
 Dialogue: 0,0:05:25.60,0:05:29.44,English,,0,0,0,,my friend and YouTuber, Brady Heron suggested legitbait.
+Dialogue: 0,0:05:25.60,0:05:29.44,Chinese,,0,0,0,,我一位UP主朋友 Brady Heron 认为  不如叫「合理标题党{\fsp-30}」
 Dialogue: 0,0:05:29.44,0:05:33.31,English,,0,0,0,,I mean, it might sound enticing, but it is legit.
+Dialogue: 0,0:05:29.44,0:05:33.31,Chinese,,0,0,0,,这种标题听起来很诱人  但是并无误导性
 Dialogue: 0,0:05:33.31,0:05:34.73,English,,0,0,0,,Instead of type II clickbait,
-Dialogue: 0,0:05:34.73,0:05:39.73,English,,0,0,0,,we could use clicktrap, clicktrick, linktrap or dupechute.
-Dialogue: 0,0:05:40.86,0:05:43.94,English,,0,0,0,,What's important to recognize is that for any given video,
-Dialogue: 0,0:05:43.94,0:05:47.17,English,,0,0,0,,there is no one true title and thumbnail.
-Dialogue: 0,0:05:47.17,0:05:49.76,English,,0,0,0,,Each video could have hundreds or thousands
-Dialogue: 0,0:05:49.76,0:05:51.76,English,,0,0,0,,of different legitbait titles.
+Dialogue: 0,0:05:33.31,0:05:34.73,Chinese,,0,0,0,,与其叫“第二类标题党{\fsp-30}”
+Dialogue: 0,0:05:34.73,0:05:40.35,English,,0,0,0,,we could use clicktrap, clicktrick, linktrap or dupechute.
+Dialogue: 0,0:05:34.73,0:05:40.35,Chinese,,0,0,0,,不如改称「点击陷阱 / 点击诡计 / 陷阱链接 / 整蛊链接」
+Dialogue: 0,0:05:40.86,0:05:42.74,English,,0,0,0,,What's important to recognize is that
+Dialogue: 0,0:05:40.86,0:05:42.74,Chinese,,0,0,0,,还要意识到一个重要的事实
+Dialogue: 0,0:05:42.74,0:05:47.17,English,,0,0,0,,for any given video, there is no one true title and thumbnail.
+Dialogue: 0,0:05:42.74,0:05:47.17,Chinese,,0,0,0,,哪个视频都没有唯一准确的标题和封面图
+Dialogue: 0,0:05:47.17,0:05:51.76,English,,0,0,0,,Each video could have hundreds or thousands of different legitbait titles.
+Dialogue: 0,0:05:47.17,0:05:51.76,Chinese,,0,0,0,,每个视频都可以有成百上千各不相同的“合理标题{\fsp-30}”
 Dialogue: 0,0:05:51.76,0:05:55.07,English,,0,0,0,,For example, how does a zero-G plane work?
+Dialogue: 0,0:05:51.76,0:05:55.07,Chinese,,0,0,0,,比方说《零重力飞机是如何运转的{\fsp-19}？{\fsp-30}》
 Dialogue: 0,0:05:55.07,0:05:58.44,English,,0,0,0,,I went on a plane that does parabolic trajectories.
+Dialogue: 0,0:05:55.07,0:05:58.44,Chinese,,0,0,0,,《我坐上了一架沿抛物线飞行的飞机》
 Dialogue: 0,0:05:58.44,0:06:01.97,English,,0,0,0,,What happens to fire on a zero-G plane?
+Dialogue: 0,0:05:58.44,0:06:01.97,Chinese,,0,0,0,,《零重力飞机上的火焰会发生什么{\fsp-19}？{\r}》
 Dialogue: 0,0:06:01.97,0:06:04.16,English,,0,0,0,,Now, the most enticing titles and thumbnails
+Dialogue: 0,0:06:01.97,0:06:04.16,Chinese,,0,0,0,,可以发现，最有诱惑力（但合理）的标题和封面图
 Dialogue: 0,0:06:04.16,0:06:07.15,English,,0,0,0,,are found close to type II clickbait.
-Dialogue: 0,0:06:07.15,0:06:09.56,English,,0,0,0,,I'm reminded of the infographic by smarter every day,
-Dialogue: 0,0:06:09.56,0:06:11.27,English,,0,0,0,,showing that on social media,
-Dialogue: 0,0:06:11.27,0:06:13.62,English,,0,0,0,,the greatest engagement occurs close to the boundary
-Dialogue: 0,0:06:13.62,0:06:14.95,English,,0,0,0,,of what's allowable.
-Dialogue: 0,0:06:14.95,0:06:17.43,English,,0,0,0,,But remember that everyone's definition of clickbait
-Dialogue: 0,0:06:17.43,0:06:19.26,English,,0,0,0,,is different, and everyone's perceptions
-Dialogue: 0,0:06:19.26,0:06:20.97,English,,0,0,0,,of words and images are different.
+Dialogue: 0,0:06:04.16,0:06:07.15,Chinese,,0,0,0,,非常接近第二类标题党
+Dialogue: 0,0:06:07.15,0:06:09.69,English,,0,0,0,,I'm reminded of the infographic by smarter every day,
+Dialogue: 0,0:06:07.15,0:06:09.69,Chinese,,0,0,0,,我想起 SmarterEveryDay 制作的那张图表
+Dialogue: 0,0:06:09.69,0:06:13.62,English,,0,0,0,,showing that on social media, the greatest engagement
+Dialogue: 0,0:06:09.69,0:06:13.62,Chinese,,0,0,0,,那张图表明  社交媒体上最有吸引力的话题
+Dialogue: 0,0:06:13.62,0:06:14.95,English,,0,0,0,,occurs close to the boundary of what's allowable.
+Dialogue: 0,0:06:13.62,0:06:14.95,Chinese,,0,0,0,,都是在违法的边缘疯狂试探
+Dialogue: 0,0:06:14.95,0:06:18.19,English,,0,0,0,,But remember that everyone's definition of clickbait is different,
+Dialogue: 0,0:06:14.95,0:06:18.19,Chinese,,0,0,0,,但要记住  每个人判断标题党的标准不同
+Dialogue: 0,0:06:18.19,0:06:20.97,English,,0,0,0,,and everyone's perceptions of words and images are different.
+Dialogue: 0,0:06:18.19,0:06:20.97,Chinese,,0,0,0,,每个人对相同文字和图片的理解也不同
 Dialogue: 0,0:06:20.97,0:06:22.85,English,,0,0,0,,So these are not clear boundaries.
+Dialogue: 0,0:06:20.97,0:06:22.85,Chinese,,0,0,0,,所以这些类别并非泾渭分明
 Dialogue: 0,0:06:22.85,0:06:25.20,English,,0,0,0,,They're actually kind of fuzzy.
+Dialogue: 0,0:06:22.85,0:06:25.20,Chinese,,0,0,0,,它们之间的边界  事实上比较模糊
 Dialogue: 0,0:06:25.20,0:06:27.27,English,,0,0,0,,What for one person might be legitbait,
+Dialogue: 0,0:06:25.20,0:06:27.27,Chinese,,0,0,0,,某人觉得是“合理标题党”的标题
 Dialogue: 0,0:06:27.27,0:06:30.24,English,,0,0,0,,for someone else, could be a clicktrap.
-Dialogue: 0,0:06:30.24,0:06:32.04,English,,0,0,0,,What's clear is that on a site
-Dialogue: 0,0:06:32.04,0:06:33.96,English,,0,0,0,,where click-through rate is important,
+Dialogue: 0,0:06:27.27,0:06:30.24,Chinese,,0,0,0,,在另一个人看来  可能就是“点击陷阱{\fsp-30}”
+Dialogue: 0,0:06:30.24,0:06:33.96,English,,0,0,0,,What's clear is that on a site where click-through rate is important,
+Dialogue: 0,0:06:30.24,0:06:33.96,Chinese,,0,0,0,,显然  在一个重视点击率的网站上
 Dialogue: 0,0:06:33.96,0:06:36.27,English,,0,0,0,,clickbait of all types is inevitable.
-Dialogue: 0,0:06:36.27,0:06:38.76,English,,0,0,0,,How important to a video's success
-Dialogue: 0,0:06:38.76,0:06:40.00,English,,0,0,0,,is the title and thumbnail?
-Dialogue: 0,0:06:40.00,0:06:41.43,English,,0,0,0,,- Very important. Of course.
-Dialogue: 0,0:06:41.43,0:06:42.26,English,,0,0,0,,If they don't click on the video,
-Dialogue: 0,0:06:42.26,0:06:43.43,English,,0,0,0,,they don't watch it.
+Dialogue: 0,0:06:33.96,0:06:36.27,Chinese,,0,0,0,,出现这两类标题党都是难以避免的
+Dialogue: 0,0:06:36.38,0:06:40.08,English,,0,0,0,,How important to a video's success is the title and thumbnail?
+Dialogue: 0,0:06:36.38,0:06:40.08,Chinese,,0,0,0,,标题和封面  对一个视频的成功有多大帮助
+Dialogue: 0,0:06:40.08,0:06:41.43,English,,0,0,0,,- Very important. Of course.
+Dialogue: 0,0:06:40.08,0:06:41.43,Chinese,,0,0,0,,当然非常重要
+Dialogue: 0,0:06:41.43,0:06:43.43,English,,0,0,0,,If they don't click on the video, they don't watch it.
+Dialogue: 0,0:06:41.43,0:06:43.43,Chinese,,0,0,0,,如果观众不点进视频  他们压根看不到它
 Dialogue: 0,0:06:43.43,0:06:45.90,English,,0,0,0,,You can't get 10 million views
+Dialogue: 0,0:06:43.43,0:06:45.90,Chinese,,0,0,0,,只有你获得了一千万点击
 Dialogue: 0,0:06:45.90,0:06:48.10,English,,0,0,0,,unless 10 million people click on the video.
+Dialogue: 0,0:06:45.90,0:06:48.10,Chinese,,0,0,0,,才有可能收获一千万的播放量
 Dialogue: 0,0:06:48.10,0:06:50.93,English,,0,0,0,,So, I mean, it's literally that simple.
+Dialogue: 0,0:06:48.10,0:06:50.93,Chinese,,0,0,0,,所以  它就是这么简单
 Dialogue: 0,0:06:50.93,0:06:52.63,English,,0,0,0,,They don't click on it, they don't watch it.
+Dialogue: 0,0:06:50.93,0:06:52.63,Chinese,,0,0,0,,不点进去  何谈观看呢
 Dialogue: 0,0:06:52.63,0:06:55.09,English,,0,0,0,,- So, why is clickbait everywhere?
+Dialogue: 0,0:06:52.63,0:06:55.09,Chinese,,0,0,0,,所以  为何到处都是标题党呢
 Dialogue: 0,0:06:55.09,0:06:57.30,English,,0,0,0,,Well, because it works.
+Dialogue: 0,0:06:55.09,0:06:57.30,Chinese,,0,0,0,,因为它行之有效
 Dialogue: 0,0:06:57.30,0:06:59.70,English,,0,0,0,,More enticing thumbnails get more clicks.
-Dialogue: 0,0:06:59.70,0:07:01.23,English,,0,0,0,,Despite some people's claims
-Dialogue: 0,0:07:01.23,0:07:03.43,English,,0,0,0,,that they won't click or they'll unsub,
+Dialogue: 0,0:06:57.30,0:06:59.70,Chinese,,0,0,0,,封面图越吸引人  收获的点击数越多
+Dialogue: 0,0:06:59.70,0:07:03.43,English,,0,0,0,,Despite some people's claims that they won't click or they'll unsub,
+Dialogue: 0,0:06:59.70,0:07:03.43,Chinese,,0,0,0,,尽管有人声称  自己坚决取关这些作者、不点开这类视频  
 Dialogue: 0,0:07:03.43,0:07:04.95,English,,0,0,0,,it's just like evolution.
+Dialogue: 0,0:07:03.43,0:07:04.95,Chinese,,0,0,0,,但是这机制类似于生物的演化
 Dialogue: 0,0:07:04.95,0:07:09.10,English,,0,0,0,,Whatever survives, multiplies and traits become amplified.
+Dialogue: 0,0:07:04.95,0:07:09.10,Chinese,,0,0,0,,生存竞争中的赢家就会增殖  其特征会得到强化
 Dialogue: 0,0:07:09.10,0:07:11.72,English,,0,0,0,,If you don't begrudge the giraffe its long neck
+Dialogue: 0,0:07:09.10,0:07:11.72,Chinese,,0,0,0,,如果你觉得长颈鹿的长脖子是它应得的
 Dialogue: 0,0:07:11.72,0:07:13.63,English,,0,0,0,,so it can reach the highest leaves,
+Dialogue: 0,0:07:11.72,0:07:13.63,English,,0,0,0,,使它能吃到顶上的树叶
 Dialogue: 0,0:07:13.63,0:07:16.07,English,,0,0,0,,can you begrudge a YouTuber the red arrow
 Dialogue: 0,0:07:16.07,0:07:18.87,English,,0,0,0,,that allows them to reach further audiences?
+Dialogue: 0,0:07:13.63,0:07:18.87,Chinese,,0,0,0,,那凭什么UP主就不能出奇招来吸引更多观众呢
 Dialogue: 0,0:07:18.87,0:07:21.00,English,,0,0,0,,I talked about this in my video two years ago.
-Dialogue: 0,0:07:21.00,0:07:22.54,English,,0,0,0,,To be successful as a YouTuber,
-Dialogue: 0,0:07:22.54,0:07:24.44,English,,0,0,0,,you need to optimize two things,
+Dialogue: 0,0:07:18.87,0:07:21.00,Chinese,,0,0,0,,两年前我有期视频聊过这个
+Dialogue: 0,0:07:21.00,0:07:24.44,English,,0,0,0,,To be successful as a YouTuber, you need to optimize two things,
+Dialogue: 0,0:07:21.00,0:07:24.44,Chinese,,0,0,0,,想当一个成功的up主  需要优化两个数据
 Dialogue: 0,0:07:24.44,0:07:27.14,English,,0,0,0,,watch time and the click-through rate of your videos.
-Dialogue: 0,0:07:27.14,0:07:28.46,English,,0,0,0,,That's the number of times
-Dialogue: 0,0:07:28.46,0:07:29.73,English,,0,0,0,,the title and thumbnail are clicked,
+Dialogue: 0,0:07:24.44,0:07:27.14,Chinese,,0,0,0,,观看时长  以及视频的点击率
+Dialogue: 0,0:07:27.14,0:07:29.73,English,,0,0,0,,That's the number of times the title and thumbnail are clicked,
 Dialogue: 0,0:07:29.73,0:07:32.00,English,,0,0,0,,divided by the total number of times they're shown.
+Dialogue: 0,0:07:27.14,0:07:32.00,Chinese,,0,0,0,,即用户从视频封面点进去看的次数 / 视频的总推送次数
 Dialogue: 0,0:07:32.00,0:07:34.13,English,,0,0,0,,That's the number of impressions.
-Dialogue: 0,0:07:34.13,0:07:34.96,English,,0,0,0,,Now at the time,
-Dialogue: 0,0:07:34.96,0:07:37.14,English,,0,0,0,,this was something of a revelation for me
+Dialogue: 0,0:07:32.00,0:07:34.13,Chinese,,0,0,0,,推送次数即为「曝光量{\fsp-30}」
+Dialogue: 0,0:07:34.13,0:07:37.14,English,,0,0,0,,Now at the time, this was something of a revelation for me
+Dialogue: 0,0:07:34.13,0:07:37.14,Chinese,,0,0,0,,这个概念在当年让我耳目一新
 Dialogue: 0,0:07:37.14,0:07:39.91,English,,0,0,0,,because I always thought my job was to make great videos.
-Dialogue: 0,0:07:39.91,0:07:41.21,English,,0,0,0,,And then a title and thumbnail
-Dialogue: 0,0:07:41.21,0:07:43.84,English,,0,0,0,,that adequately represented what the video was about.
-Dialogue: 0,0:07:43.84,0:07:46.64,English,,0,0,0,,But now I've realized that making the title and thumbnail
-Dialogue: 0,0:07:46.64,0:07:49.22,English,,0,0,0,,is at least half the job.
-Dialogue: 0,0:07:49.22,0:07:51.57,English,,0,0,0,,This is not just because better titles and thumbnails
-Dialogue: 0,0:07:51.57,0:07:52.70,English,,0,0,0,,get you more clicks,
-Dialogue: 0,0:07:52.70,0:07:54.14,English,,0,0,0,,but because better titles and thumbnails
-Dialogue: 0,0:07:54.14,0:07:57.16,English,,0,0,0,,will get you way more impressions.
+Dialogue: 0,0:07:37.14,0:07:39.91,Chinese,,0,0,0,,因为我一直觉得  我的职责就是制作优质的视频
+Dialogue: 0,0:07:39.91,0:07:43.84,English,,0,0,0,,And then a title and thumbnail that adequately represented what the video was about.
+Dialogue: 0,0:07:41.21,0:07:43.84,Chinese,,0,0,0,,还有能恰当呈现视频主旨的标题和封面
+Dialogue: 0,0:07:43.84,0:07:49.22,English,,0,0,0,,But now I've realized that making the title and thumbnail is at least half the job.
+Dialogue: 0,0:07:43.84,0:07:49.22,Chinese,,0,0,0,,但我现在意识到  构思标题和封面费的工夫不亚于做视频
+Dialogue: 0,0:07:49.22,0:07:52.70,English,,0,0,0,,This is not just because better titles and thumbnails get you more clicks,
+Dialogue: 0,0:07:49.22,0:07:52.70,Chinese,,0,0,0,,这不只是因为  更好的标题和封面能带来更多点击
+Dialogue: 0,0:07:52.70,0:07:57.16,English,,0,0,0,,but because better titles and thumbnails will get you way more impressions.
+Dialogue: 0,0:07:52.70,0:07:57.16,Chinese,,0,0,0,,还因为它们可以给你带来多得多的曝光量
 Dialogue: 0,0:07:57.16,0:07:59.26,English,,0,0,0,,YouTube has limited real estate
+Dialogue: 0,0:07:57.16,0:07:59.26,Chinese,,0,0,0,,YouTube 得在有限的地盘里
 Dialogue: 0,0:07:59.26,0:08:02.28,English,,0,0,0,,with which to show you virtually infinite content.
-Dialogue: 0,0:08:02.28,0:08:04.35,English,,0,0,0,,And so it's not enough to make a good video
-Dialogue: 0,0:08:04.35,0:08:06.13,English,,0,0,0,,even if people watch all of it,
-Dialogue: 0,0:08:06.13,0:08:08.27,English,,0,0,0,,you also have to make a title and thumbnail
-Dialogue: 0,0:08:08.27,0:08:10.14,English,,0,0,0,,that gets clicked, especially in competition
-Dialogue: 0,0:08:10.14,0:08:12.70,English,,0,0,0,,with other really good titles and thumbnails.
-Dialogue: 0,0:08:12.70,0:08:14.44,English,,0,0,0,,That's the only way you can expect YouTube
-Dialogue: 0,0:08:14.44,0:08:16.54,English,,0,0,0,,to give you more impressions.
+Dialogue: 0,0:07:59.26,0:08:02.28,Chinese,,0,0,0,,给你推送几乎无穷多的内容
+Dialogue: 0,0:08:02.28,0:08:06.22,English,,0,0,0,,And so it's not enough to make a good video even if people watch all of it,
+Dialogue: 0,0:08:02.28,0:08:06.22,Chinese,,0,0,0,,仅仅做出让观众愿意看完的好视频  是不够的
+Dialogue: 0,0:08:06.22,0:08:09.19,English,,0,0,0,,you also have to make a title and thumbnail that gets clicked,
+Dialogue: 0,0:08:06.22,0:08:09.19,Chinese,,0,0,0,,你还得搞个能吸引人点击的标题和封面
+Dialogue: 0,0:08:09.19,0:08:12.70,English,,0,0,0,,especially in competition with other really good titles and thumbnails.
+Dialogue: 0,0:08:09.19,0:08:12.70,Chinese,,0,0,0,,才能在一众优秀的标题和封面中  脱颖而出
+Dialogue: 0,0:08:12.70,0:08:16.54,English,,0,0,0,,That's the only way you can expect YouTube to give you more impressions.
+Dialogue: 0,0:08:12.70,0:08:16.54,Chinese,,0,0,0,,要想在 YouTube 得到更高曝光量  你别无他法
 Dialogue: 0,0:08:16.54,0:08:19.28,English,,0,0,0,,Now, the big development since my last video on this
-Dialogue: 0,0:08:19.28,0:08:21.78,English,,0,0,0,,is YouTube introduced real-time metrics
-Dialogue: 0,0:08:21.78,0:08:24.30,English,,0,0,0,,like views, impressions and click-through rate.
-Dialogue: 0,0:08:24.30,0:08:26.77,English,,0,0,0,,Now, I suggested this would create an arms race.
-Dialogue: 0,0:08:26.77,0:08:28.47,English,,0,0,0,,So what you can bet will happen
-Dialogue: 0,0:08:28.47,0:08:30.68,English,,0,0,0,,is that creators will launch a video
-Dialogue: 0,0:08:30.68,0:08:31.69,English,,0,0,0,,and then they'll be sitting there
-Dialogue: 0,0:08:31.69,0:08:33.64,English,,0,0,0,,with all these different variants of thumbnails
-Dialogue: 0,0:08:33.64,0:08:35.38,English,,0,0,0,,and they'll be swapping them out
-Dialogue: 0,0:08:35.38,0:08:38.03,English,,0,0,0,,and looking at what that does to click-through rate
-Dialogue: 0,0:08:38.03,0:08:39.74,English,,0,0,0,,and then going with the one
-Dialogue: 0,0:08:39.74,0:08:42.61,English,,0,0,0,,that leads to the greatest click-through rate.
-Dialogue: 0,0:08:42.61,0:08:45.21,English,,0,0,0,,And this is basically what has happened.
-Dialogue: 0,0:08:45.21,0:08:47.41,English,,0,0,0,,Let me give you my favorite example.
-Dialogue: 0,0:08:47.41,0:08:50.02,English,,0,0,0,,Last year, I made a video about asteroids,
-Dialogue: 0,0:08:50.02,0:08:51.71,English,,0,0,0,,which I thought was really good.
-Dialogue: 0,0:08:51.71,0:08:54.93,English,,0,0,0,,I called it "Asteroids: Earth's Biggest Threat,"
-Dialogue: 0,0:08:54.93,0:08:56.65,English,,0,0,0,,which is something Stephen Hawking said.
-Dialogue: 0,0:08:56.65,0:08:58.93,English,,0,0,0,,And people were very positive about the video.
-Dialogue: 0,0:08:58.93,0:09:01.20,English,,0,0,0,,They thought it was maybe one of my best,
-Dialogue: 0,0:09:01.20,0:09:03.95,English,,0,0,0,,but the performance was well below average.
-Dialogue: 0,0:09:03.95,0:09:06.72,English,,0,0,0,,In its first day, asteroids was ranked ninth
-Dialogue: 0,0:09:06.72,0:09:09.08,English,,0,0,0,,out of my previous 10 videos.
-Dialogue: 0,0:09:09.08,0:09:10.48,English,,0,0,0,,It was probably on target
-Dialogue: 0,0:09:10.48,0:09:13.07,English,,0,0,0,,for about one and a half million views.
-Dialogue: 0,0:09:13.07,0:09:15.27,English,,0,0,0,,So I tried different titles and thumbnails
-Dialogue: 0,0:09:15.27,0:09:18.13,English,,0,0,0,,like, "Asteroid Impact: What Are Our Chances?"
-Dialogue: 0,0:09:18.13,0:09:20.82,English,,0,0,0,,Or "Asteroid Impact: What Could We Do?"
-Dialogue: 0,0:09:20.82,0:09:23.85,English,,0,0,0,,But none of these changes got much traction.
-Dialogue: 0,0:09:23.85,0:09:25.52,English,,0,0,0,,And then on day three after launch,
-Dialogue: 0,0:09:25.52,0:09:27.01,English,,0,0,0,,I changed the title and thumbnail
-Dialogue: 0,0:09:27.01,0:09:30.65,English,,0,0,0,,to "These Are the Asteroids to Worry About."
-Dialogue: 0,0:09:30.65,0:09:33.48,English,,0,0,0,,And immediately the video started doing better.
-Dialogue: 0,0:09:33.48,0:09:36.98,English,,0,0,0,,It quickly shot up from almost my worst performing video
-Dialogue: 0,0:09:36.98,0:09:38.72,English,,0,0,0,,to my best.
-Dialogue: 0,0:09:38.72,0:09:42.03,English,,0,0,0,,It now has 14 million views.
-Dialogue: 0,0:09:42.03,0:09:43.79,English,,0,0,0,,Nothing about the video changed,
-Dialogue: 0,0:09:43.79,0:09:47.13,English,,0,0,0,,just that one image and 38 characters.
-Dialogue: 0,0:09:47.13,0:09:49.18,English,,0,0,0,,But because of that, the video has reached
-Dialogue: 0,0:09:49.18,0:09:52.82,English,,0,0,0,,nearly 10 times as many people as it otherwise would have.
-Dialogue: 0,0:09:52.82,0:09:55.10,English,,0,0,0,,And the title and thumbnail accurately describe
-Dialogue: 0,0:09:55.10,0:09:56.49,English,,0,0,0,,what the video is about.
-Dialogue: 0,0:09:56.49,0:09:58.70,English,,0,0,0,,I mean, sure, there's a curiosity gap,
-Dialogue: 0,0:09:58.70,0:10:00.74,English,,0,0,0,,but you couldn't explain the whole concept
-Dialogue: 0,0:10:00.74,0:10:02.55,English,,0,0,0,,in the length of the title.
+Dialogue: 0,0:08:16.54,0:08:19.28,Chinese,,0,0,0,,自从我上次做同样话题的视频后，有了一个大进展
+Dialogue: 0,0:08:19.28,0:08:21.87,English,,0,0,0,,is YouTube introduced real-time metrics
+Dialogue: 0,0:08:19.28,0:08:21.87,Chinese,,0,0,0,,YouTube 引进了实时的度量指标  
+Dialogue: 0,0:08:21.87,0:08:24.68,English,,0,0,0,,like views, impressions and click-through rate.
+Dialogue: 0,0:08:21.87,0:08:24.68,Chinese,,0,0,0,,包括观看次数，曝光量和点击率等等
+Dialogue: 0,0:08:24.68,0:08:27.03,English,,0,0,0,,Now, I suggested this would create an arms race.
+Dialogue: 0,0:08:24.68,0:08:27.03,Chinese,,0,0,0,,我觉得  这会带来一场创作者的军备竞赛
+Dialogue: 0,0:08:27.03,0:08:31.02,English,,0,0,0,,So what you can bet will happen is that creators will launch a video
+Dialogue: 0,0:08:27.03,0:08:31.02,Chinese,,0,0,0,,几乎可以肯定  接下来的创作者在发布视频后
+Dialogue: 0,0:08:31.02,0:08:34.02,English,,0,0,0,,and then they'll be sitting there with all these different variants of thumbnails
+Dialogue: 0,0:08:31.02,0:08:34.02,Chinese,,0,0,0,,就会一直鼓捣各种不同的封面
+Dialogue: 0,0:08:34.02,0:08:35.75,English,,0,0,0,,and they'll be swapping them out
+Dialogue: 0,0:08:34.02,0:08:35.75,Chinese,,0,0,0,,再把不同封面换来换去
+Dialogue: 0,0:08:35.75,0:08:38.40,English,,0,0,0,,and looking at what that does to click-through rate
+Dialogue: 0,0:08:35.75,0:08:38.40,Chinese,,0,0,0,,看看对点击率有什么影响
+Dialogue: 0,0:08:38.40,0:08:42.79,English,,0,0,0,,and then going with the one that leads to the greatest click-through rate.
+Dialogue: 0,0:08:38.40,0:08:42.79,Chinese,,0,0,0,,最后敲定使用点击率最高的封面
+Dialogue: 0,0:08:42.79,0:08:45.40,English,,0,0,0,,And this is basically what has happened.
+Dialogue: 0,0:08:42.79,0:08:45.40,Chinese,,0,0,0,,现状基本上就是这样
+Dialogue: 0,0:08:45.40,0:08:47.66,English,,0,0,0,,Let me give you my favorite example.
+Dialogue: 0,0:08:45.40,0:08:47.66,Chinese,,0,0,0,,举个我最喜欢的例子
+Dialogue: 0,0:08:47.66,0:08:50.27,English,,0,0,0,,Last year, I made a video about asteroids,
+Dialogue: 0,0:08:47.66,0:08:50.27,Chinese,,0,0,0,,去年底我做了一期讲小行星的视频
+Dialogue: 0,0:08:50.27,0:08:51.71,English,,0,0,0,,which I thought was really good.
+Dialogue: 0,0:08:50.27,0:08:51.71,Chinese,,0,0,0,,这期我自己感觉不错
+Dialogue: 0,0:08:51.71,0:08:52.62,English,,0,0,0,,I called it
+Dialogue: 0,0:08:51.71,0:08:52.62,Chinese,,0,0,0,,我给的标题是
+Dialogue: 0,0:08:52.63,0:08:55.19,Chinese,,0,0,0,,《小行星：地球受到的最大威胁》
+Dialogue: 0,0:08:55.19,0:08:57.10,English,,0,0,0,,which is something Stephen Hawking said.
+Dialogue: 0,0:08:55.19,0:08:57.10,Chinese,,0,0,0,,语出史蒂芬·霍金
+Dialogue: 0,0:08:57.10,0:08:59.20,English,,0,0,0,,And people were very positive about the video.
+Dialogue: 0,0:08:57.10,0:08:59.20,Chinese,,0,0,0,,观众对这个视频的评价很积极
+Dialogue: 0,0:08:59.20,0:09:01.20,English,,0,0,0,,They thought it was maybe one of my best,
+Dialogue: 0,0:08:59.20,0:09:01.20,Chinese,,0,0,0,,他们觉得  这有望跻身我最受欢迎的视频
+Dialogue: 0,0:09:01.20,0:09:04.19,English,,0,0,0,,but the performance was well below average.
+Dialogue: 0,0:09:01.20,0:09:04.19,Chinese,,0,0,0,,但其播放量让人大跌眼镜
+Dialogue: 0,0:09:04.19,0:09:09.28,English,,0,0,0,,In its first day, asteroids was ranked ninth out of my previous 10 videos.
+Dialogue: 0,0:09:04.19,0:09:09.28,Chinese,,0,0,0,,上线第一天  在我最近十部作品里  它的播放量为倒数第二
+Dialogue: 0,0:09:09.28,0:09:13.27,English,,0,0,0,,It was probably on target for about one and a half million views.
+Dialogue: 0,0:09:09.28,0:09:13.27,Chinese,,0,0,0,,这样下去  这期视频的播放量预计在150万左右
+Dialogue: 0,0:09:13.27,0:09:16.06,English,,0,0,0,,So I tried different titles and thumbnails like
+Dialogue: 0,0:09:13.27,0:09:16.06,Chinese,,0,0,0,,于是  我尝试了不同的标题和封面
+Dialogue: 0,0:09:16.06,0:09:18.97,Chinese,,0,0,0,,《小行星撞击：我们有多少机会{\fsp-19}？{\r}》
+Dialogue: 0,0:09:18.97,0:09:21.06,Chinese,,0,0,0,,《小行星撞击：我们能做什么{\fsp-19}？{\r}》
+Dialogue: 0,0:09:21.06,0:09:23.85,English,,0,0,0,,But none of these changes got much traction.
+Dialogue: 0,0:09:21.06,0:09:23.85,Chinese,,0,0,0,,但这些改动没有什么吸引力
+Dialogue: 0,0:09:23.85,0:09:25.75,English,,0,0,0,,And then on day three after launch,
+Dialogue: 0,0:09:23.85,0:09:25.75,Chinese,,0,0,0,,但到了第三天中午
+Dialogue: 0,0:09:25.75,0:09:27.99,English,,0,0,0,,I changed the title and thumbnail to
+Dialogue: 0,0:09:25.75,0:09:27.99,Chinese,,0,0,0,,我把标题和封面改成了
+Dialogue: 0,0:09:27.99,0:09:30.85,Chinese,,0,0,0,,《这些小行星需要引起我们的警惕》
+Dialogue: 0,0:09:30.85,0:09:33.72,English,,0,0,0,,And immediately the video started doing better.
+Dialogue: 0,0:09:30.85,0:09:33.72,Chinese,,0,0,0,,效果立竿见影
+Dialogue: 0,0:09:33.72,0:09:38.92,English,,0,0,0,,It quickly shot up from almost my worst performing video to my best.
+Dialogue: 0,0:09:33.72,0:09:38.92,Chinese,,0,0,0,,
+Dialogue: 0,0:09:38.92,0:09:42.22,English,,0,0,0,,It now has 14 million views.
+Dialogue: 0,0:09:38.92,0:09:42.22,Chinese,,0,0,0,,
+Dialogue: 0,0:09:42.22,0:09:44.02,English,,0,0,0,,Nothing about the video changed,
+Dialogue: 0,0:09:42.22,0:09:44.02,Chinese,,0,0,0,,
+Dialogue: 0,0:09:44.02,0:09:47.33,English,,0,0,0,,just that one image and 38 characters.
+Dialogue: 0,0:09:44.02,0:09:47.33,Chinese,,0,0,0,,
+Dialogue: 0,0:09:47.33,0:09:50.55,English,,0,0,0,,But because of that, the video has reached nearly 10 times
+Dialogue: 0,0:09:47.33,0:09:50.55,Chinese,,0,0,0,,
+Dialogue: 0,0:09:50.55,0:09:52.82,English,,0,0,0,,as many people as it otherwise would have.
+Dialogue: 0,0:09:50.55,0:09:52.82,Chinese,,0,0,0,,
+Dialogue: 0,0:09:52.82,0:09:56.62,English,,0,0,0,,And the title and thumbnail accurately describe what the video is about.
+Dialogue: 0,0:09:52.82,0:09:56.62,Chinese,,0,0,0,,
+Dialogue: 0,0:09:56.62,0:09:58.70,English,,0,0,0,,I mean, sure, there's a curiosity gap,
+Dialogue: 0,0:09:56.62,0:09:58.70,Chinese,,0,0,0,,
+Dialogue: 0,0:09:58.70,0:10:02.55,English,,0,0,0,,but you couldn't explain the whole concept in the length of the title.
+Dialogue: 0,0:09:58.70,0:10:02.55,Chinese,,0,0,0,,
 Dialogue: 0,0:10:02.55,0:10:05.55,English,,0,0,0,,So if you see a YouTuber changing titles and thumbnails,
+Dialogue: 0,0:10:02.55,0:10:05.55,Chinese,,0,0,0,,
 Dialogue: 0,0:10:05.55,0:10:07.07,English,,0,0,0,,this is why.
-Dialogue: 0,0:10:07.07,0:10:10.25,English,,0,0,0,,Because that effort can be rewarded many times over.
-Dialogue: 0,0:10:10.25,0:10:12.02,English,,0,0,0,,I've seen people objecting to this practice
-Dialogue: 0,0:10:12.02,0:10:13.38,English,,0,0,0,,because they think the creator
-Dialogue: 0,0:10:13.38,0:10:14.73,English,,0,0,0,,is trying to dupe their audience,
-Dialogue: 0,0:10:14.73,0:10:16.70,English,,0,0,0,,get them to click on the same video more than once,
-Dialogue: 0,0:10:16.70,0:10:18.78,English,,0,0,0,,but that's not it.
-Dialogue: 0,0:10:18.78,0:10:20.41,English,,0,0,0,,The whole point is to get YouTube
-Dialogue: 0,0:10:20.41,0:10:22.61,English,,0,0,0,,to show the title and thumbnail to more people.
-Dialogue: 0,0:10:22.61,0:10:25.65,English,,0,0,0,,We're trying to increase the number of impressions,
-Dialogue: 0,0:10:25.65,0:10:28.63,English,,0,0,0,,which is heavily dependent on the click-through rate.
+Dialogue: 0,0:10:05.55,0:10:07.07,Chinese,,0,0,0,,
+Dialogue: 0,0:10:07.30,0:10:10.44,English,,0,0,0,,Because that effort can be rewarded many times over.
+Dialogue: 0,0:10:07.30,0:10:10.44,Chinese,,0,0,0,,
+Dialogue: 0,0:10:10.44,0:10:12.25,English,,0,0,0,,I've seen people objecting to this practice
+Dialogue: 0,0:10:10.44,0:10:12.25,Chinese,,0,0,0,,
+Dialogue: 0,0:10:12.25,0:10:14.99,English,,0,0,0,,because they think the creator is trying to dupe their audience,
+Dialogue: 0,0:10:12.25,0:10:14.99,Chinese,,0,0,0,,
+Dialogue: 0,0:10:14.99,0:10:16.97,English,,0,0,0,,get them to click on the same video more than once,
+Dialogue: 0,0:10:14.99,0:10:16.97,Chinese,,0,0,0,,
+Dialogue: 0,0:10:16.97,0:10:18.97,English,,0,0,0,,but that's not it.
+Dialogue: 0,0:10:16.97,0:10:18.97,Chinese,,0,0,0,,
+Dialogue: 0,0:10:18.97,0:10:22.91,English,,0,0,0,,The whole point is to get YouTube to show the title and thumbnail to more people.
+Dialogue: 0,0:10:18.97,0:10:22.91,Chinese,,0,0,0,,
+Dialogue: 0,0:10:22.91,0:10:25.87,English,,0,0,0,,We're trying to increase the number of impressions,
+Dialogue: 0,0:10:22.91,0:10:25.87,Chinese,,0,0,0,,
+Dialogue: 0,0:10:25.87,0:10:28.63,English,,0,0,0,,which is heavily dependent on the click-through rate.
+Dialogue: 0,0:10:25.87,0:10:28.63,Chinese,,0,0,0,,
 Dialogue: 0,0:10:28.63,0:10:32.47,English,,0,0,0,,Now, a lot of my recent videos have this typical view curve.
-Dialogue: 0,0:10:32.47,0:10:34.69,English,,0,0,0,,There's an initial spike after I release the video
-Dialogue: 0,0:10:34.69,0:10:37.02,English,,0,0,0,,and then a dip, and then a second bump
-Dialogue: 0,0:10:37.02,0:10:40.13,English,,0,0,0,,after I have figured out a better title and thumbnail.
-Dialogue: 0,0:10:40.13,0:10:41.58,English,,0,0,0,,I change the title and thumbnail
-Dialogue: 0,0:10:41.58,0:10:44.15,English,,0,0,0,,and I watch the real time view graph.
-Dialogue: 0,0:10:44.15,0:10:47.48,English,,0,0,0,,What I'm looking for is a noticeable bump in views.
-Dialogue: 0,0:10:47.48,0:10:51.05,English,,0,0,0,,Sometimes there's no change, sometimes it gets worse,
-Dialogue: 0,0:10:51.05,0:10:53.72,English,,0,0,0,,but on occasions, when you see something like this,
-Dialogue: 0,0:10:53.72,0:10:56.52,English,,0,0,0,,well then, you know you've found a winner.
-Dialogue: 0,0:10:56.52,0:10:58.81,English,,0,0,0,,This is something all the big YouTubers are doing.
-Dialogue: 0,0:10:58.81,0:11:00.43,English,,0,0,0,,Not even Mr. Beast knows exactly
-Dialogue: 0,0:11:00.43,0:11:02.89,English,,0,0,0,,which thumbnail will work best beforehand.
-Dialogue: 0,0:11:02.89,0:11:05.74,English,,0,0,0,,Have you ever changed a title and thumbnail
-Dialogue: 0,0:11:05.74,0:11:06.58,English,,0,0,0,,and then the video did better?
+Dialogue: 0,0:10:28.63,0:10:32.47,Chinese,,0,0,0,,
+Dialogue: 0,0:10:32.73,0:10:34.91,English,,0,0,0,,There's an initial spike after I release the video
+Dialogue: 0,0:10:32.73,0:10:34.91,Chinese,,0,0,0,,
+Dialogue: 0,0:10:34.91,0:10:36.00,English,,0,0,0,,and then a dip,
+Dialogue: 0,0:10:34.91,0:10:36.00,Chinese,,0,0,0,,
+Dialogue: 0,0:10:36.00,0:10:40.34,English,,0,0,0,,and then a second bump after I have figured out a better title and thumbnail.
+Dialogue: 0,0:10:36.00,0:10:40.34,Chinese,,0,0,0,,
+Dialogue: 0,0:10:40.34,0:10:44.15,English,,0,0,0,,I change the title and thumbnail and I watch the real time view graph.
+Dialogue: 0,0:10:40.34,0:10:44.15,Chinese,,0,0,0,,
+Dialogue: 0,0:10:44.15,0:10:47.71,English,,0,0,0,,What I'm looking for is a noticeable bump in views.
+Dialogue: 0,0:10:44.15,0:10:47.71,Chinese,,0,0,0,,
+Dialogue: 0,0:10:47.71,0:10:51.28,English,,0,0,0,,Sometimes there's no change, sometimes it gets worse,
+Dialogue: 0,0:10:47.71,0:10:51.28,Chinese,,0,0,0,,
+Dialogue: 0,0:10:51.28,0:10:53.95,English,,0,0,0,,but on occasions, when you see something like this,
+Dialogue: 0,0:10:51.28,0:10:53.95,Chinese,,0,0,0,,
+Dialogue: 0,0:10:53.95,0:10:56.52,English,,0,0,0,,well then, you know you've found a winner.
+Dialogue: 0,0:10:53.95,0:10:56.52,Chinese,,0,0,0,,
+Dialogue: 0,0:10:56.52,0:10:59.06,English,,0,0,0,,This is something all the big YouTubers are doing.
+Dialogue: 0,0:10:56.52,0:10:59.06,Chinese,,0,0,0,,
+Dialogue: 0,0:10:59.06,0:11:03.11,English,,0,0,0,,Not even Mr. Beast knows exactly which thumbnail will work best beforehand.
+Dialogue: 0,0:10:59.06,0:11:03.11,Chinese,,0,0,0,,
+Dialogue: 0,0:11:03.11,0:11:06.58,English,,0,0,0,,Have you ever changed a title and thumbnail and then the video did better?
+Dialogue: 0,0:11:03.11,0:11:06.58,Chinese,,0,0,0,,
 Dialogue: 0,0:11:06.58,0:11:07.76,English,,0,0,0,,- Oh, of course.
-Dialogue: 0,0:11:07.76,0:11:10.29,English,,0,0,0,,So everybody, I usually make like two or three thumbnails,
-Dialogue: 0,0:11:10.29,0:11:12.00,English,,0,0,0,,and then if it's not doing as well as I want,
-Dialogue: 0,0:11:12.00,0:11:15.26,English,,0,0,0,,we usually just swap 'em out and see if it does better.
-Dialogue: 0,0:11:15.26,0:11:17.70,English,,0,0,0,,'cause the thing is like, you don't really know.
-Dialogue: 0,0:11:17.70,0:11:21.19,English,,0,0,0,,I mean, you could know if you just were an almighty being
-Dialogue: 0,0:11:21.19,0:11:23.80,English,,0,0,0,,that could just predict what people would be interested in,
-Dialogue: 0,0:11:23.80,0:11:25.28,English,,0,0,0,,but you know, usually...
-Dialogue: 0,0:11:25.28,0:11:26.35,English,,0,0,0,,Like, you can do hide and seek.
-Dialogue: 0,0:11:26.35,0:11:28.81,English,,0,0,0,,You don't really know if like you hiding in a tree
-Dialogue: 0,0:11:28.81,0:11:30.85,English,,0,0,0,,and then someone walking below you is a good thumbnail.
-Dialogue: 0,0:11:30.85,0:11:33.35,English,,0,0,0,,Or if you hiding a trash can and them walking in front of you.
-Dialogue: 0,0:11:33.35,0:11:34.75,English,,0,0,0,,So, you know, just do both
-Dialogue: 0,0:11:34.75,0:11:37.21,English,,0,0,0,,and then see which one interests people a little bit more.
-Dialogue: 0,0:11:37.21,0:11:38.04,English,,0,0,0,,- I feel the same way,
-Dialogue: 0,0:11:38.04,0:11:40.19,English,,0,0,0,,but I do feel like you have a better sense
-Dialogue: 0,0:11:40.19,0:11:42.08,English,,0,0,0,,of this than like most people.
-Dialogue: 0,0:11:42.08,0:11:42.91,English,,0,0,0,,- Of course.
+Dialogue: 0,0:11:06.58,0:11:07.76,Chinese,,0,0,0,,
+Dialogue: 0,0:11:07.76,0:11:10.52,English,,0,0,0,,So everybody, I usually make like two or three thumbnails,
+Dialogue: 0,0:11:07.76,0:11:10.52,Chinese,,0,0,0,,
+Dialogue: 0,0:11:10.52,0:11:12.30,English,,0,0,0,,and then if it's not doing as well as I want,
+Dialogue: 0,0:11:10.52,0:11:12.30,Chinese,,0,0,0,,
+Dialogue: 0,0:11:12.30,0:11:14.82,English,,0,0,0,,we usually just swap 'em out and see if it does better.
+Dialogue: 0,0:11:12.30,0:11:14.82,Chinese,,0,0,0,,
+Dialogue: 0,0:11:15.64,0:11:17.91,English,,0,0,0,,'cause the thing is like, you don't really know.
+Dialogue: 0,0:11:15.64,0:11:17.91,Chinese,,0,0,0,,
+Dialogue: 0,0:11:17.91,0:11:21.42,English,,0,0,0,,I mean, you could know if you just were an almighty being
+Dialogue: 0,0:11:17.91,0:11:21.42,Chinese,,0,0,0,,
+Dialogue: 0,0:11:21.42,0:11:24.04,English,,0,0,0,,that could just predict what people would be interested in,
+Dialogue: 0,0:11:21.42,0:11:24.04,Chinese,,0,0,0,,
+Dialogue: 0,0:11:24.04,0:11:25.50,English,,0,0,0,,but you know, usually...
+Dialogue: 0,0:11:24.04,0:11:25.50,Chinese,,0,0,0,,
+Dialogue: 0,0:11:25.50,0:11:26.58,English,,0,0,0,,Like, you can do hide and seek.
+Dialogue: 0,0:11:25.50,0:11:26.58,Chinese,,0,0,0,,
+Dialogue: 0,0:11:26.57,0:11:29.03,English,,0,0,0,,You don't really know if like you hiding in a tree
+Dialogue: 0,0:11:26.57,0:11:29.03,Chinese,,0,0,0,,
+Dialogue: 0,0:11:29.03,0:11:31.06,English,,0,0,0,,and then someone walking below you is a good thumbnail.
+Dialogue: 0,0:11:29.03,0:11:31.06,Chinese,,0,0,0,,
+Dialogue: 0,0:11:31.07,0:11:33.58,English,,0,0,0,,Or if you hiding a trash can and them walking in front of you.
+Dialogue: 0,0:11:31.07,0:11:33.58,Chinese,,0,0,0,,
+Dialogue: 0,0:11:33.58,0:11:37.43,English,,0,0,0,,So, you know, just do both and then see which one interests people a little bit more.
+Dialogue: 0,0:11:33.58,0:11:37.43,Chinese,,0,0,0,,
+Dialogue: 0,0:11:37.42,0:11:38.19,English,,0,0,0,,- I feel the same way,
+Dialogue: 0,0:11:37.42,0:11:38.19,Chinese,,0,0,0,,
+Dialogue: 0,0:11:38.19,0:11:42.29,English,,0,0,0,,but I do feel like you have a better sense of this than like most people.
+Dialogue: 0,0:11:38.19,0:11:42.29,Chinese,,0,0,0,,
+Dialogue: 0,0:11:42.29,0:11:42.91,English,,0,0,0,,- Of course.
 Dialogue: 0,0:11:42.91,0:11:45.59,English,,0,0,0,,I mean, no one gets 40 million views a video.
 Dialogue: 0,0:11:45.59,0:11:47.30,English,,0,0,0,,(both laughing)
 Dialogue: 0,0:11:47.30,0:11:50.36,English,,0,0,0,,- But what is the point in getting more views?
@@ -457,7 +567,7 @@ Dialogue: 0,0:13:40.48,0:13:43.36,Chinese,,0,0,0,,我的视频就要有非常大
 Dialogue: 0,0:13:43.36,0:13:47.36,English,,0,0,0,,And to do that, we have to make the best titles and thumbnails we can.
 Dialogue: 0,0:13:44.74,0:13:47.36,Chinese,,0,0,0,,为达此目标  我们就得想出足够好的标题和封面
 Dialogue: 0,0:13:47.36,0:13:49.89,English,,0,0,0,,YouTuber and Patreon CEO, Jack Conte
-Dialogue: 0,0:13:47.36,0:13:49.89,Chinese,,0,0,0,,Jack Conte, Patreon 的 CEO，也是一位 YouTuber
+Dialogue: 0,0:13:47.36,0:13:49.89,Chinese,,0,0,0,,Jack Conte, Patreon 的 CEO  也是一位UP主
 Dialogue: 0,0:13:49.89,0:13:52.00,English,,0,0,0,,has talked about adjusting your packaging.
 Dialogue: 0,0:13:49.89,0:13:52.00,Chinese,,0,0,0,,讲到了关于如何包装视频的问题
 Dialogue: 0,0:13:52.00,0:13:54.31,English,,0,0,0,,The idea is know what you're passionate about,
@@ -487,17 +597,17 @@ Dialogue: 0,0:14:17.17,0:14:18.94,Chinese,,0,0,0,,来达到它的目的  这不�
 Dialogue: 0,0:14:18.94,0:14:21.92,English,,0,0,0,,It is something that I often worry about.
 Dialogue: 0,0:14:18.94,0:14:21.92,Chinese,,0,0,0,,这是我通常会担心到的问题
 Dialogue: 0,0:14:21.92,0:14:24.88,English,,0,0,0,,You know, when I did like risking my life to do X,
-Dialogue: 0,0:14:21.92,0:14:24.88,Chinese,,0,0,0,,你知道，当我确实喜欢冒险去做一件事
+Dialogue: 0,0:14:21.92,0:14:24.88,Chinese,,0,0,0,,你知道  当我确实喜欢冒险去做一件事
 Dialogue: 0,0:14:24.88,0:14:26.48,English,,0,0,0,,it's like, well, what probability of death
 Dialogue: 0,0:14:24.88,0:14:26.48,Chinese,,0,0,0,,那时候我就想着“行吧 得有多大可能会没命
 Dialogue: 0,0:14:26.48,0:14:28.39,English,,0,0,0,,does there have to be for you to risk your life?
 Dialogue: 0,0:14:26.48,0:14:28.39,Chinese,,0,0,0,,才会让我冒生命危险去做这个事情呢”
 Dialogue: 0,0:14:28.39,0:14:29.95,English,,0,0,0,,Like 50%?
-Dialogue: 0,0:14:28.39,0:14:29.95,Chinese,,0,0,0,,比如 50%？
+Dialogue: 0,0:14:28.39,0:14:29.95,Chinese,,0,0,0,,比如 50%{\fsp-30}？
 Dialogue: 0,0:14:29.95,0:14:32.69,English,,0,0,0,,- I love how he always overthinks things.
 Dialogue: 0,0:14:29.95,0:14:32.69,Chinese,,0,0,0,,- 我很喜欢的是 他总会把事情想的很复杂
-Dialogue: 0,0:14:32.69,0:14:33.95,English,,0,0,0,,(laughs) That's funny.
-Dialogue: 0,0:14:32.69,0:14:33.95,Chinese,,0,0,0,,（笑）真的很好玩
+Dialogue: 0,0:14:32.69,0:14:33.95,English,,0,0,0,,That's funny.
+Dialogue: 0,0:14:32.69,0:14:33.95,Chinese,,0,0,0,,真的很好玩
 Dialogue: 0,0:14:33.95,0:14:36.43,English,,0,0,0,,He's like, is my life risked enough
 Dialogue: 0,0:14:33.95,0:14:36.43,Chinese,,0,0,0,,他就这么想的“我是不是已经快到没命的边缘了
 Dialogue: 0,0:14:36.43,0:14:38.52,English,,0,0,0,,where I can put I risked my life?
@@ -515,7 +625,7 @@ Dialogue: 0,0:14:44.95,0:14:46.19,Chinese,,0,0,0,,问的我这些问题
 Dialogue: 0,0:14:46.19,0:14:49.69,English,,0,0,0,,I was like, "Dude, just do whatever makes the most sense.
 Dialogue: 0,0:14:46.19,0:14:49.69,Chinese,,0,0,0,,我那时就想「得了吧哥  干点有意义的事情它不好吗」
 Dialogue: 0,0:14:49.69,0:14:53.59,English,,0,0,0,,- Yeah, I mean, obviously I feel like my instincts are not good.
-Dialogue: 0,0:14:49.69,0:14:53.59,Chinese,,0,0,0,,嗯，确实，是说我有时候觉得我的直觉并不是那么准
+Dialogue: 0,0:14:49.69,0:14:53.59,Chinese,,0,0,0,,确实  我觉得我的直觉并不是那么准
 Dialogue: 0,0:14:53.59,0:14:57.43,English,,0,0,0,,But what I realized is that I don't have to trust my instincts.
 Dialogue: 0,0:14:53.59,0:14:57.43,Chinese,,0,0,0,,但我后来意识到  我并不需要相信我的直觉
 Dialogue: 0,0:14:57.43,0:15:01.46,English,,0,0,0,,This problem of getting the best title and thumbnail,
@@ -541,7 +651,7 @@ Dialogue: 0,0:15:19.62,0:15:21.77,Chinese,,0,0,0,,比如在 Twitter 和 Patreon 
 Dialogue: 0,0:15:21.77,0:15:24.09,English,,0,0,0,,Varitasium titles and thumbnails have gotten better,
 Dialogue: 0,0:15:21.77,0:15:24.09,Chinese,,0,0,0,,我们的标题和封面的点子越来越惊奇
 Dialogue: 0,0:15:24.09,0:15:25.97,English,,0,0,0,,not because I'm better at it,
-Dialogue: 0,0:15:24.09,0:15:25.97,Chinese,,0,0,0,,不是因为我在这方面更上手了
+Dialogue: 0,0:15:24.09,0:15:25.97,Chinese,,0,0,0,,不是因为我在这方面更熟练了
 Dialogue: 0,0:15:25.97,0:15:28.72,English,,0,0,0,,but because of my team and our testing.
 Dialogue: 0,0:15:25.97,0:15:28.72,Chinese,,0,0,0,,而是归功于团队智慧和测试经验
 Dialogue: 0,0:15:28.72,0:15:32.43,English,,0,0,0,,If you have ideas about how we could do it better, please get in touch.
@@ -638,9 +748,9 @@ Dialogue: 0,0:17:33.01,0:17:34.44,Chinese,,0,0,0,,近一两年发布的视频
 Dialogue: 0,0:17:34.44,0:17:36.58,English,,0,0,0,,like the ones on Gödel's incompleteness theorem,
 Dialogue: 0,0:17:34.44,0:17:36.58,Chinese,,0,0,0,,比如那个讲哥德尔不完备定理的视频
 Dialogue: 0,0:17:36.58,0:17:38.56,English,,0,0,0,,general relativity, Penrose tilings,
-Dialogue: 0,0:17:36.58,0:17:38.56,Chinese,,0,0,0,,还有广义相对论  彭罗斯瓦解
+Dialogue: 0,0:17:36.58,0:17:38.56,Chinese,,0,0,0,,还有广义相对论  彭罗斯密铺
 Dialogue: 0,0:17:38.56,0:17:41.72,English,,0,0,0,,the logistic map, Newton's method of calculating Pi,
-Dialogue: 0,0:17:38.56,0:17:41.72,Chinese,,0,0,0,,单峰映射  还有牛顿的计算圆周率近似值的方法
+Dialogue: 0,0:17:38.56,0:17:41.72,Chinese,,0,0,0,,单峰映射  还有牛顿的逼近圆周率的方法
 Dialogue: 0,0:17:41.72,0:17:43.64,English,,0,0,0,,the one way speed of light.
 Dialogue: 0,0:17:41.72,0:17:43.64,Chinese,,0,0,0,,和测量单程光速的视频
 Dialogue: 0,0:17:43.64,0:17:47.53,English,,0,0,0,,Good titles and thumbnails make it possible to tackle these topics
