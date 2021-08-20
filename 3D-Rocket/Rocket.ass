@@ -15,9 +15,9 @@ Video File: new.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.125000
-Scroll Position: 542
-Active Line: 562
-Video Position: 24470
+Scroll Position: 784
+Active Line: 806
+Video Position: 34005
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -265,7 +265,7 @@ Dialogue: 0,0:05:50.40,0:05:53.14,Chinese,,0,0,0,,最终的成果非常精确
 Dialogue: 0,0:05:53.14,0:05:57.08,English,,0,0,0,,within a human hair at the entire length.
 Dialogue: 0,0:05:53.14,0:05:57.08,Chinese,,0,0,0,,误差不会超过一根头发
 Dialogue: 0,0:05:55.08,0:05:56.99,English,,0,0,0,,{\pos(816,1745.333)}- As it cools
-Dialogue: 0,0:05:55.08,0:05:56.99,Chinese,,0,0,0,,{\pos(816,1678)}-当它冷却之后 
+Dialogue: 0,0:05:55.08,0:05:56.99,Chinese,,0,0,0,,{\pos(816,1678)}-当它冷却之后
 Dialogue: 0,0:05:57.51,0:05:58.51,English,,0,0,0,,- As it cools
 Dialogue: 0,0:05:57.51,0:05:58.51,Chinese,,0,0,0,,-对，当它冷却后
 Dialogue: 0,0:05:58.51,0:06:00.84,English,,0,0,0,,The warpy thing turns into the...
@@ -392,11 +392,11 @@ Dialogue: 0,0:08:34.62,0:08:39.04,English,,0,0,0,,The answer is they're cooled b
 Dialogue: 0,0:08:34.62,0:08:39.04,Chinese,,0,0,0,,因为外部环绕有低温推进剂给它们降温
 Dialogue: 0,0:08:39.42,0:08:41.01,English,,0,0,0,,- On the Space Shuttle main engines.
 Dialogue: 0,0:08:39.42,0:08:41.01,Chinese,,0,0,0,,在航天飞机的主引擎里
-Dialogue: 0,0:08:41.01,0:08:41.94,English,,0,0,0,,I love to talk about them 
+Dialogue: 0,0:08:41.01,0:08:41.94,English,,0,0,0,,I love to talk about them
 Dialogue: 0,0:08:41.01,0:08:41.94,Chinese,,0,0,0,,这个话题我想想都激动
 Dialogue: 0,0:08:41.94,0:08:46.00,English,,0,0,0,,because inside those engines, it's hot enough to boil iron.
 Dialogue: 0,0:08:41.94,0:08:46.00,Chinese,,0,0,0,,引擎内部的温度足以让液态铁沸腾
-Dialogue: 0,0:08:46.44,0:08:50.60,English,,0,0,0,,On the outside, you can freeze stuff to the exterior of this 
+Dialogue: 0,0:08:46.44,0:08:50.60,English,,0,0,0,,On the outside, you can freeze stuff to the exterior of this
 Dialogue: 0,0:08:46.44,0:08:50.60,Chinese,,0,0,0,,而引擎的外部还在结冰呢
 Dialogue: 0,0:08:50.60,0:08:54.28,English,,0,0,0,,because you're running liquid hydrogen through these things.
 Dialogue: 0,0:08:50.60,0:08:54.28,Chinese,,0,0,0,,因为外部有循环流动的液氢
@@ -488,7 +488,7 @@ Dialogue: 0,0:11:06.17,0:11:07.26,English,,0,0,0,,that's really what it is.
 Dialogue: 0,0:11:06.17,0:11:07.26,Chinese,,0,0,0,,说的很有道理
 Dialogue: 0,0:11:07.60,0:11:09.41,English,,0,0,0,,Since you don't have fixed tooling,
 Dialogue: 0,0:11:07.60,0:11:09.41,Chinese,,0,0,0,,因为不需要固定式加工设备
-Dialogue: 0,0:11:09.41,0:11:13.22,English,,0,0,0,,all the part geometries are just controlled via the CAD model, 
+Dialogue: 0,0:11:09.41,0:11:13.22,English,,0,0,0,,all the part geometries are just controlled via the CAD model,
 Dialogue: 0,0:11:09.41,0:11:13.22,Chinese,,0,0,0,,所有部件的几何学特性都由电脑辅助设计模型（CAD）所控制
 Dialogue: 0,0:11:13.22,0:11:16.54,English,,0,0,0,,and then the printers just print direct from file essentially.
 Dialogue: 0,0:11:13.22,0:11:16.54,Chinese,,0,0,0,,打印机只需要按照文件内容打印就行了
@@ -588,307 +588,248 @@ Dialogue: 0,0:13:31.58,0:13:36.48,English,,0,0,0,,and why they're able to be aut
 Dialogue: 0,0:13:31.58,0:13:36.48,Chinese,,0,0,0,,就是电动车成功，以及能快速生产的「肮脏秘密」
 Dialogue: 0,0:13:36.48,0:13:38.12,English,,0,0,0,,So for a fully 3D printed rocket,
 Dialogue: 0,0:13:36.48,0:13:38.12,Chinese,,0,0,0,,对于3D打印的火箭
-Dialogue: 0,0:13:36.48,0:13:37.36,English,,0,0,0,,
-Dialogue: 0,0:13:37.36,0:13:41.15,English,,0,0,0,,we have a hundred times fewer parts, which is what we're guiding to.
-Dialogue: 0,0:13:37.36,0:13:41.15,Chinese,,0,0,0,,我们要达到的目标就是只使用百分之一的零件数量
-Dialogue: 0,0:13:41.15,0:13:44.48,English,,0,0,0,,There's no fixed tooling in our factory at all.
-Dialogue: 0,0:13:41.15,0:13:44.48,Chinese,,0,0,0,,在我们工厂里不存在固定式加工设备
-Dialogue: 0,0:13:44.48,0:13:46.58,English,,0,0,0,,Unlike the rest of aerospace
-Dialogue: 0,0:13:44.48,0:13:46.58,Chinese,,0,0,0,,反观其他航空制造企业
-Dialogue: 0,0:13:46.58,0:13:50.30,English,,0,0,0,,that's still really, 60 years later, even since Apollo. Building products
-Dialogue: 0,0:13:46.58,0:13:50.30,Chinese,,0,0,0,,还在用60年前阿波罗时代的方法
-Dialogue: 0,0:13:50.30,0:13:54.92,English,,0,0,0,,one at a time by hand with hundreds of thousands to millions of individual parts.
-Dialogue: 0,0:13:50.30,0:13:54.92,Chinese,,0,0,0,,手工打造成千上万个零部件
-Dialogue: 0,0:13:54.92,0:13:57.31,English,,0,0,0,,And no one's really changed that paradigm
-Dialogue: 0,0:13:57.31,0:14:00.82,English,,0,0,0,,of how an aerospace factory actually fundamentally works.
-Dialogue: 0,0:13:54.92,0:14:00.82,Chinese,,0,0,0,,这种航空制造的模式还没人打破呢
-Dialogue: 0,0:14:00.82,0:14:04.19,English,,0,0,0,,- Yeah, this is the new fully 3D printed rocket.
-Dialogue: 0,0:14:00.82,0:14:04.19,Chinese,,0,0,0,,这就是完全3D打印的新火箭
-Dialogue: 0,0:14:04.19,0:14:07.75,English,,0,0,0,,So yeah, we'll have dragonfly wing type structures
-Dialogue: 0,0:14:04.19,0:14:07.75,Chinese,,0,0,0,,嗯，我们会仿造蜻蜓翅膀的结构设计格栅翼
-Dialogue: 0,0:14:07.75,0:14:08.92,English,,0,0,0,,and we're building it so.
-Dialogue: 0,0:14:07.75,0:14:08.92,Chinese,,0,0,0,,我们已经开始制造了
-Dialogue: 0,0:14:08.92,0:14:09.95,English,,0,0,0,,But that's the first one,
-Dialogue: 0,0:14:08.92,0:14:09.95,Chinese,,0,0,0,,不过，左边那台才是初号机
-Dialogue: 0,0:14:09.95,0:14:12.34,English,,0,0,0,,and then that's that one for scale.
-Dialogue: 0,0:14:09.95,0:14:12.34,Chinese,,0,0,0,,那台是尺寸更大的版本
-Dialogue: 0,0:14:12.34,0:14:15.66,English,,0,0,0,,So yeah, it is definitely bigger.
-Dialogue: 0,0:14:12.34,0:14:15.66,Chinese,,0,0,0,,嗯，绝对大了一圈
-Dialogue: 0,0:14:15.66,0:14:20.21,English,,0,0,0,,Yeah, so our rocket is named Terran One and Terran R,
-Dialogue: 0,0:14:15.66,0:14:20.21,Chinese,,0,0,0,,是的，我们把火箭命名为 「人族一号」 和 「人族R」
-Dialogue: 0,0:14:20.21,0:14:21.83,English,,0,0,0,,and then our 3D printer's Stargate.
-Dialogue: 0,0:14:20.21,0:14:21.83,Chinese,,0,0,0,,3D打印机则被称为 「星际之门」
-Dialogue: 0,0:14:21.83,0:14:23.65,English,,0,0,0,,So all the things here at Relativity
-Dialogue: 0,0:14:21.83,0:14:23.65,Chinese,,0,0,0,,Relativity 制造的所有产品
-Dialogue: 0,0:14:23.65,0:14:25.66,English,,0,0,0,,are named after StarCraft.
-Dialogue: 0,0:14:23.65,0:14:25.66,Chinese,,0,0,0,,名字都来源于 「星际争霸」 这款游戏
-Dialogue: 0,0:14:25.66,0:14:29.05,English,,0,0,0,,So yeah, of course, the Stargate printer
-Dialogue: 0,0:14:25.66,0:14:29.05,Chinese,,0,0,0,,啊哈，「星际之门」
-Dialogue: 0,0:14:29.05,0:14:32.03,English,,0,0,0,,was with the Protoss used to warp in spaceships.
-Dialogue: 0,0:14:29.05,0:14:32.03,Chinese,,0,0,0,,本来是「神族」乘坐太空飞船时扭曲空间所用的工具
-Dialogue: 0,0:14:32.03,0:14:35.52,English,,0,0,0,,And so, that's what's warping in spaceships at Relativity.
-Dialogue: 0,0:14:32.03,0:14:35.52,Chinese,,0,0,0,,所以，那就是 Relativity 用来改变太空飞船的利器
-Dialogue: 0,0:14:35.52,0:14:38.98,English,,0,0,0,,We have a system in our avionics called the Pylon
-Dialogue: 0,0:14:35.52,0:14:38.98,Chinese,,0,0,0,,我们的产品中，有一套名为「水晶塔」的系统
-Dialogue: 0,0:14:38.98,0:14:40.15,English,,0,0,0,,that we have to build a lot of.
-Dialogue: 0,0:14:38.98,0:14:40.15,Chinese,,0,0,0,,这套系统我们需求量很大
-Dialogue: 0,0:14:40.15,0:14:43.36,English,,0,0,0,,So we always joke, we have to construct additional Pylons.
-Dialogue: 0,0:14:40.15,0:14:43.36,Chinese,,0,0,0,,所以我们经常开玩笑说，我们还得多造一点「水晶塔」啊
-Dialogue: 0,0:14:43.36,0:14:45.49,English,,0,0,0,,Most people don't know how rockets
-Dialogue: 0,0:14:43.36,0:14:45.49,Chinese,,0,0,0,,很多人对于传统的火箭制造方式
-Dialogue: 0,0:14:45.49,0:14:48.95,English,,0,0,0,,are built traditionally at all anyway.
-Dialogue: 0,0:14:45.49,0:14:48.95,Chinese,,0,0,0,,也所知甚少
-Dialogue: 0,0:14:48.95,0:14:51.18,English,,0,0,0,,And I think a lot of people assume it's rockets,
-Dialogue: 0,0:14:48.95,0:14:51.18,Chinese,,0,0,0,,我觉得，许多人以为这是火箭
-Dialogue: 0,0:14:51.18,0:14:54.36,English,,0,0,0,,so shouldn't it be already very advanced
-Dialogue: 0,0:14:51.18,0:14:54.36,Chinese,,0,0,0,,那它就应该已经非常先进了
-Dialogue: 0,0:14:54.36,0:14:56.54,English,,0,0,0,,and robots everywhere and you know,
-Dialogue: 0,0:14:54.36,0:14:56.54,Chinese,,0,0,0,,生产线上全是机器人，你知道的
-Dialogue: 0,0:14:56.54,0:14:58.54,English,,0,0,0,,Elon's got Space X and Tesla,
-Dialogue: 0,0:14:56.54,0:14:58.54,Chinese,,0,0,0,,马斯克有SpaceX和Tesla两家公司
-Dialogue: 0,0:14:58.54,0:15:00.76,English,,0,0,0,,so doesn't Space X just look like Tesla
-Dialogue: 0,0:14:58.54,0:15:00.76,Chinese,,0,0,0,,那SpaceX难道不像Tesla那样
-Dialogue: 0,0:15:00.76,0:15:02.79,English,,0,0,0,,with all these robots and automation?
-Dialogue: 0,0:15:00.76,0:15:02.79,Chinese,,0,0,0,,同样有这些机器人和自动化的设备
-Dialogue: 0,0:15:02.79,0:15:04.34,English,,0,0,0,,But that's really not true.
-Dialogue: 0,0:15:02.79,0:15:04.34,Chinese,,0,0,0,,但这大错特错了
-Dialogue: 0,0:15:04.34,0:15:07.15,English,,0,0,0,,I mean, aerospace hasn't adopted automation at all.
-Dialogue: 0,0:15:04.34,0:15:07.15,Chinese,,0,0,0,,我想说的是，航空工业并没有完全接纳自动化
-Dialogue: 0,0:15:07.15,0:15:09.85,English,,0,0,0,,- One of the issues, right, is that you're not making
-Dialogue: 0,0:15:07.15,0:15:09.85,Chinese,,0,0,0,,其中一个问题就是，恩，你总不会一次性制造
-Dialogue: 0,0:15:09.85,0:15:11.26,English,,0,0,0,,a lot of rockets?
-Dialogue: 0,0:15:09.85,0:15:11.26,Chinese,,0,0,0,,很多的火箭吧？
-Dialogue: 0,0:15:11.26,0:15:12.09,English,,0,0,0,,- Right?
-Dialogue: 0,0:15:11.26,0:15:12.09,Chinese,,0,0,0,,对吧？
-Dialogue: 0,0:15:12.09,0:15:14.81,English,,0,0,0,,- So there's no incentive to like figure out
-Dialogue: 0,0:15:12.09,0:15:14.81,Chinese,,0,0,0,,所以并没有那么大的需求去刺激他们
-Dialogue: 0,0:15:14.81,0:15:17.28,English,,0,0,0,,how to tool up a factory to like pump out rockets
-Dialogue: 0,0:15:14.81,0:15:17.28,Chinese,,0,0,0,,设计出一种自动化的工厂，用来大量生产火箭
-Dialogue: 0,0:15:17.28,0:15:18.59,English,,0,0,0,,like a hundred a day or something.
-Dialogue: 0,0:15:17.28,0:15:18.59,Chinese,,0,0,0,,比如每天生产一百枚的那种
-Dialogue: 0,0:15:18.59,0:15:19.42,English,,0,0,0,,- Exactly.
-Dialogue: 0,0:15:18.59,0:15:19.42,Chinese,,0,0,0,,是这样
-Dialogue: 0,0:15:19.42,0:15:20.25,English,,0,0,0,,- Like you would for cars.
-Dialogue: 0,0:15:19.42,0:15:20.25,Chinese,,0,0,0,,就像生产汽车那样
-Dialogue: 0,0:15:20.25,0:15:21.54,English,,0,0,0,,- Exactly, you're not making a lot.
-Dialogue: 0,0:15:20.25,0:15:21.54,Chinese,,0,0,0,,的确，你并不会造那么多
-Dialogue: 0,0:15:21.54,0:15:22.98,English,,0,0,0,,Even with commercial aircraft,
-Dialogue: 0,0:15:21.54,0:15:22.98,Chinese,,0,0,0,,即使是商用的飞机
-Dialogue: 0,0:15:22.98,0:15:24.45,English,,0,0,0,,you're not making nearly as many
-Dialogue: 0,0:15:22.98,0:15:24.45,Chinese,,0,0,0,,也完全达不到那么多的产量
-Dialogue: 0,0:15:24.45,0:15:27.77,English,,0,0,0,,and there's orders of magnitude more parts and complexity.
-Dialogue: 0,0:15:24.45,0:15:27.77,Chinese,,0,0,0,,另外航空器的零部件数量和复杂程度与其他相比是差了数量级的
-Dialogue: 0,0:15:27.77,0:15:32.29,English,,0,0,0,,A commercial aircraft has several million individual parts.
-Dialogue: 0,0:15:27.77,0:15:32.29,Chinese,,0,0,0,,一架商用飞机有数以百万计独立的零件
-Dialogue: 0,0:15:32.29,0:15:35.23,English,,0,0,0,,So to have robots assemble several million parts
-Dialogue: 0,0:15:32.29,0:15:35.23,Chinese,,0,0,0,,让机器人组装数百万个零件
-Dialogue: 0,0:15:35.23,0:15:38.83,English,,0,0,0,,when an automobile has tens of thousands
-Dialogue: 0,0:15:35.23,0:15:38.83,Chinese,,0,0,0,,和仅有数万零件的汽车相比
-Dialogue: 0,0:15:38.83,0:15:40.25,English,,0,0,0,,is completely different.
-Dialogue: 0,0:15:38.83,0:15:40.25,Chinese,,0,0,0,,是完全不同的
-Dialogue: 0,0:15:40.25,0:15:41.78,English,,0,0,0,,It's a much harder problem.
-Dialogue: 0,0:15:40.25,0:15:41.78,Chinese,,0,0,0,,这个问题难多了
-Dialogue: 0,0:15:41.78,0:15:45.23,English,,0,0,0,,So that's where 3D printing is automation for aerospace
-Dialogue: 0,0:15:41.78,0:15:45.23,Chinese,,0,0,0,,所以，在我们这里，3D打印实现了航空业的自动化
-Dialogue: 0,0:15:45.23,0:15:48.34,English,,0,0,0,,because you're not assembling all those parts with robots
-Dialogue: 0,0:15:45.23,0:15:48.34,Chinese,,0,0,0,,因为你并不是像装配汽车那样
-Dialogue: 0,0:15:48.34,0:15:50.03,English,,0,0,0,,like you would with a car,
-Dialogue: 0,0:15:48.34,0:15:50.03,Chinese,,0,0,0,,用机器人组装所有的组件
-Dialogue: 0,0:15:50.03,0:15:52.60,English,,0,0,0,,you're assembling them in the 3D file
-Dialogue: 0,0:15:50.03,0:15:52.60,Chinese,,0,0,0,,你是预先在3D文件里设计整合好它们
-Dialogue: 0,0:15:52.60,0:15:55.45,English,,0,0,0,,and then the printer just prints them assembled.
-Dialogue: 0,0:15:52.60,0:15:55.45,Chinese,,0,0,0,,然后打印机以组装好的状态打印出它们
-Dialogue: 0,0:15:55.45,0:15:58.66,English,,0,0,0,,- The plan for Relativity Space,
-Dialogue: 0,0:15:55.45,0:15:58.66,Chinese,,0,0,0,,Relativity Space 的计划
-Dialogue: 0,0:15:58.66,0:16:01.32,English,,0,0,0,,is it low-earth orbit or is it going further than that?
-Dialogue: 0,0:15:58.66,0:16:01.32,Chinese,,0,0,0,,是专注于近地轨道，还是会有更远的目标？
-Dialogue: 0,0:16:01.32,0:16:03.87,English,,0,0,0,,- So for Terran One, it's mostly low earth orbit.
-Dialogue: 0,0:16:01.32,0:16:03.87,Chinese,,0,0,0,,对于「人族一号」而言，主要是近地轨道
-Dialogue: 0,0:16:03.87,0:16:05.20,English,,0,0,0,,The first rocket.
-Dialogue: 0,0:16:03.87,0:16:05.20,Chinese,,0,0,0,,这是我们的第一款火箭
-Dialogue: 0,0:16:05.20,0:16:08.56,English,,0,0,0,,Terran R can actually send payload to the moon to Mars.
-Dialogue: 0,0:16:05.20,0:16:08.56,Chinese,,0,0,0,,而「人族R」实际上可以把载荷送往月球和火星
-Dialogue: 0,0:16:08.56,0:16:10.35,English,,0,0,0,,I mean, it's pretty, pretty huge.
-Dialogue: 0,0:16:08.56,0:16:10.35,Chinese,,0,0,0,,它的运力相当巨大
-Dialogue: 0,0:16:10.35,0:16:12.75,English,,0,0,0,,I founded the company because I really thought
-Dialogue: 0,0:16:10.35,0:16:12.75,Chinese,,0,0,0,,我创立这家公司，因为我真心觉得
-Dialogue: 0,0:16:12.75,0:16:14.42,English,,0,0,0,,that there needed to be, you know,
-Dialogue: 0,0:16:12.75,0:16:14.42,Chinese,,0,0,0,,你明白的，需要有
-Dialogue: 0,0:16:14.42,0:16:16.87,English,,0,0,0,,dozens of hundreds of companies making Mars happen.
-Dialogue: 0,0:16:14.42,0:16:16.87,Chinese,,0,0,0,,数以千计的公司一起努力，使得前往火星成为现实
-Dialogue: 0,0:16:16.87,0:16:19.46,English,,0,0,0,,We're focused on taking this 3D printing tech
-Dialogue: 0,0:16:16.87,0:16:19.46,Chinese,,0,0,0,,我们专注于这种3D打印科技
-Dialogue: 0,0:16:19.46,0:16:21.62,English,,0,0,0,,and what we call the factory of the future,
-Dialogue: 0,0:16:19.46,0:16:21.62,Chinese,,0,0,0,,还有被我们称为未来工厂的概念
-Dialogue: 0,0:16:21.62,0:16:23.41,English,,0,0,0,,and one day shrinking it down to something
-Dialogue: 0,0:16:21.62,0:16:23.41,Chinese,,0,0,0,,在未来的某一天将它压缩成
-Dialogue: 0,0:16:23.41,0:16:26.35,English,,0,0,0,,we'll actually launch to Mars and build an industrial base.
-Dialogue: 0,0:16:23.41,0:16:26.35,Chinese,,0,0,0,,我们能够真正发射到火星的小工厂  并且建起一个工业基地
-Dialogue: 0,0:16:26.35,0:16:28.58,English,,0,0,0,,So that's the long-term vision of the company,
-Dialogue: 0,0:16:26.35,0:16:28.58,Chinese,,0,0,0,,那是我们公司的长期愿景
-Dialogue: 0,0:16:28.58,0:16:30.64,English,,0,0,0,,is build the industrial base on Mars.
-Dialogue: 0,0:16:28.58,0:16:30.64,Chinese,,0,0,0,,就是在火星建立这种工业基地
-Dialogue: 0,0:16:30.64,0:16:33.05,English,,0,0,0,,In many ways, this factory is just a prototype.
-Dialogue: 0,0:16:30.64,0:16:33.05,Chinese,,0,0,0,,在许多方面，这种工厂还只是一个原型
-Dialogue: 0,0:16:33.05,0:16:35.12,English,,0,0,0,,It's still far smaller than a traditional factory.
-Dialogue: 0,0:16:33.05,0:16:35.12,Chinese,,0,0,0,,它仍然远小于传统的工厂
-Dialogue: 0,0:16:35.12,0:16:36.22,English,,0,0,0,,It's far lighter.
-Dialogue: 0,0:16:35.12,0:16:36.22,Chinese,,0,0,0,,它的分量小得多
-Dialogue: 0,0:16:36.22,0:16:40.27,English,,0,0,0,,And I think it's inevitable someone has to build this company.
-Dialogue: 0,0:16:36.22,0:16:40.27,Chinese,,0,0,0,,但是不可避免总有人要创建这样的公司
-Dialogue: 0,0:16:40.27,0:16:42.14,English,,0,0,0,,- I don't know that in 10, 20 years
-Dialogue: 0,0:16:40.27,0:16:42.14,Chinese,,0,0,0,,我不知道，在十年，或者二十年后
-Dialogue: 0,0:16:42.14,0:16:44.22,English,,0,0,0,,that you will be 3D printing rockets all the time.
-Dialogue: 0,0:16:42.14,0:16:44.22,Chinese,,0,0,0,,你会不会随时能乘坐3D打印的火箭
-Dialogue: 0,0:16:44.22,0:16:46.44,English,,0,0,0,,Because if you are flying lots of rockets,
-Dialogue: 0,0:16:44.22,0:16:46.44,Chinese,,0,0,0,,因为如果有大量的火箭投入运营
-Dialogue: 0,0:16:46.44,0:16:48.84,English,,0,0,0,,it becomes cheaper to have a dedicated machine for it.
-Dialogue: 0,0:16:46.44,0:16:48.84,Chinese,,0,0,0,,拥有这样一个火箭的花费会更少
-Dialogue: 0,0:16:48.84,0:16:52.85,English,,0,0,0,,I do think that as a company, they are well-placed
-Dialogue: 0,0:16:48.84,0:16:52.85,Chinese,,0,0,0,,我认为，作为一家公司，他们的定位相当重要
-Dialogue: 0,0:16:52.85,0:16:57.44,English,,0,0,0,,because even if Terran fails to capitalize on the market,
-Dialogue: 0,0:16:52.85,0:16:57.44,Chinese,,0,0,0,,因为即使「人族」系列没能在市场上发挥优势
-Dialogue: 0,0:16:57.44,0:17:00.04,English,,0,0,0,,even if nobody wants to use it as a launch vehicle,
-Dialogue: 0,0:16:57.44,0:17:00.04,Chinese,,0,0,0,,即使没人愿意用它作为发射载具
-Dialogue: 0,0:17:00.04,0:17:02.84,English,,0,0,0,,they are clearly now the world experts
-Dialogue: 0,0:17:00.04,0:17:02.84,Chinese,,0,0,0,,我们显然是目前世界级的
-Dialogue: 0,0:17:02.84,0:17:04.68,English,,0,0,0,,on 3D printing rocket hardware,
-Dialogue: 0,0:17:02.84,0:17:04.68,Chinese,,0,0,0,,3D打印火箭硬件专家
-Dialogue: 0,0:17:04.68,0:17:06.56,English,,0,0,0,,'cause they've done everything, right?
-Dialogue: 0,0:17:04.68,0:17:06.56,Chinese,,0,0,0,,因为他们把所有问题都解决了，不是吗
-Dialogue: 0,0:17:06.56,0:17:08.51,English,,0,0,0,,They've tried to apply 3D printing to places
-Dialogue: 0,0:17:06.56,0:17:08.51,Chinese,,0,0,0,,他们努力将3D打印应用在
-Dialogue: 0,0:17:08.52,0:17:09.97,English,,0,0,0,,where a lot of people dismissed it.
-Dialogue: 0,0:17:08.52,0:17:09.97,Chinese,,0,0,0,,被许多人忽视的领域
-Dialogue: 0,0:17:09.97,0:17:12.95,English,,0,0,0,,So I think they're sort of secure as a company.
-Dialogue: 0,0:17:09.97,0:17:12.95,Chinese,,0,0,0,,所以我觉得他们作为一家公司，地位是相当稳固的
-Dialogue: 0,0:17:12.95,0:17:18.00,English,,0,0,0,,Whether we will see rockets being 3D printed all the time?
-Dialogue: 0,0:17:12.95,0:17:18.00,Chinese,,0,0,0,,我们会不会看到火箭完全由3D打印制造的那天呢
-Dialogue: 0,0:17:18.00,0:17:19.90,English,,0,0,0,,That's a good question.
-Dialogue: 0,0:17:18.00,0:17:19.90,Chinese,,0,0,0,,这是个好问题
-Dialogue: 0,0:17:19.90,0:17:21.27,English,,0,0,0,,- There've been a lot of talk recently
-Dialogue: 0,0:17:19.90,0:17:21.27,Chinese,,0,0,0,,最近有许多的讨论
-Dialogue: 0,0:17:21.27,0:17:23.57,English,,0,0,0,,about billionaires going to space.
-Dialogue: 0,0:17:21.27,0:17:23.57,Chinese,,0,0,0,,有关于前往太空的大富豪们
-Dialogue: 0,0:17:23.57,0:17:24.66,English,,0,0,0,,- Yeah.
-Dialogue: 0,0:17:23.57,0:17:24.66,Chinese,,0,0,0,,是的
-Dialogue: 0,0:17:24.67,0:17:27.13,English,,0,0,0,,- Will a 3D printed rocket make it possible
-Dialogue: 0,0:17:24.67,0:17:27.13,Chinese,,0,0,0,,3D打印的火箭会使前往太空变得可行
-Dialogue: 0,0:17:27.13,0:17:31.18,English,,0,0,0,,and a lot cheaper for me to go to space?
-Dialogue: 0,0:17:27.13,0:17:31.18,Chinese,,0,0,0,,并且为我节省一大笔钱吗
-Dialogue: 0,0:17:31.18,0:17:33.33,English,,0,0,0,,- Yes, I mean, certainly what we're doing
-Dialogue: 0,0:17:31.18,0:17:33.33,Chinese,,0,0,0,,是的，我想说的是，很明显我们在做的
-Dialogue: 0,0:17:33.33,0:17:34.72,English,,0,0,0,,is lowering the cost.
-Dialogue: 0,0:17:33.33,0:17:34.72,Chinese,,0,0,0,,正是降低费用
-Dialogue: 0,0:17:34.72,0:17:38.80,English,,0,0,0,,So our rockets are costing about five times
-Dialogue: 0,0:17:34.72,0:17:38.80,Chinese,,0,0,0,,所以说，我们的火箭花费会比当今的可回收火箭便宜五倍
-Dialogue: 0,0:17:38.80,0:17:41.26,English,,0,0,0,,to, you know, I believe we can get to 10
-Dialogue: 0,0:17:38.80,0:17:41.26,Chinese,,0,0,0,,到，emm，我觉得我们可以达到十倍
-Dialogue: 0,0:17:41.26,0:17:42.98,English,,0,0,0,,or even a hundred times cheaper
-Dialogue: 0,0:17:41.26,0:17:42.98,Chinese,,0,0,0,,甚至能达到一百倍
-Dialogue: 0,0:17:42.98,0:17:48.00,English,,0,0,0,,with a fully reusable rocket
-Dialogue: 0,0:17:42.98,0:17:48.00,Chinese,,0,0,0,,than what we have today.
-Dialogue: 0,0:17:48.00,0:17:50.68,English,,0,0,0,,So it can definitely climb down the cost curve.
-Dialogue: 0,0:17:48.00,0:17:50.68,Chinese,,0,0,0,,那么这绝对能压低成本曲线
-Dialogue: 0,0:17:50.68,0:17:52.96,English,,0,0,0,,But I also think, you know, going to Mars
-Dialogue: 0,0:17:50.68,0:17:52.96,Chinese,,0,0,0,,不过，我还觉得，emm，前往火星
-Dialogue: 0,0:17:52.96,0:17:55.19,English,,0,0,0,,and the first people that are going,
-Dialogue: 0,0:17:52.96,0:17:55.19,Chinese,,0,0,0,,还有最先到达那里的人
-Dialogue: 0,0:17:55.19,0:17:57.98,English,,0,0,0,,it really is about what is the point of being a human being?
-Dialogue: 0,0:17:55.19,0:17:57.98,Chinese,,0,0,0,,重要的是成为人类的意义是什么
-Dialogue: 0,0:17:57.98,0:18:00.00,English,,0,0,0,,Like for me, why go to Mars?
-Dialogue: 0,0:17:57.98,0:18:00.00,Chinese,,0,0,0,,比方说，对我而言，为什么要去火星？
-Dialogue: 0,0:18:00.00,0:18:01.91,English,,0,0,0,,If we were having this conversation
-Dialogue: 0,0:18:00.00,0:18:01.91,Chinese,,0,0,0,,假如我们正在谈这个话题
-Dialogue: 0,0:18:01.91,0:18:05.00,English,,0,0,0,,and a million people were living on another planet,
-Dialogue: 0,0:18:01.91,0:18:05.00,Chinese,,0,0,0,,而一百万人住在另一个星球
-Dialogue: 0,0:18:05.00,0:18:07.04,English,,0,0,0,,I think it would expand the possibilities
-Dialogue: 0,0:18:05.00,0:18:07.04,Chinese,,0,0,0,,我想，这将带来更多可能性
-Dialogue: 0,0:18:07.04,0:18:10.11,English,,0,0,0,,of human experience and what it means to be a person.
-Dialogue: 0,0:18:07.04,0:18:10.11,Chinese,,0,0,0,,人类的体验和生而为人的意义
-Dialogue: 0,0:18:10.11,0:18:12.91,English,,0,0,0,,Like we'd have YouTube channels on Mars
-Dialogue: 0,0:18:10.11,0:18:12.91,Chinese,,0,0,0,,就像，我们可以开个关于火星的频道
-Dialogue: 0,0:18:12.91,0:18:16.00,English,,0,0,0,,and people sharing what life on Mars is like versus earth.
-Dialogue: 0,0:18:12.91,0:18:16.00,Chinese,,0,0,0,,人们可以分享在火星的生活是怎样的，并且和地球比较
-Dialogue: 0,0:18:16.00,0:18:18.69,English,,0,0,0,,And there'd be long distance Amelie, like love stories.
-Dialogue: 0,0:18:16.00,0:18:18.69,Chinese,,0,0,0,,还会有异地版的「天使艾美丽」，爱情故事之类的
-Dialogue: 0,0:18:18.69,0:18:21.24,English,,0,0,0,,Like I think there's just a lot of richness
-Dialogue: 0,0:18:18.69,0:18:21.24,Chinese,,0,0,0,,就像我觉得，人类有很多可能性
-Dialogue: 0,0:18:21.24,0:18:25.33,English,,0,0,0,,in what human culture and society can be about.
-Dialogue: 0,0:18:21.24,0:18:25.33,Chinese,,0,0,0,,文化和社会的演进令人期待
-Dialogue: 0,0:18:25.33,0:18:27.50,English,,0,0,0,,Yes, I think there's criticism about,
-Dialogue: 0,0:18:25.33,0:18:27.50,Chinese,,0,0,0,,当然，我想会有一些批评，关于，
-Dialogue: 0,0:18:27.50,0:18:29.48,English,,0,0,0,,you know, billionaires going to space
-Dialogue: 0,0:18:27.50,0:18:29.48,Chinese,,0,0,0,,你懂的，大富豪上太空之类的
-Dialogue: 0,0:18:29.48,0:18:31.30,English,,0,0,0,,and I don't agree with.
-Dialogue: 0,0:18:29.48,0:18:31.30,Chinese,,0,0,0,,对这些声音我不敢苟同
-Dialogue: 0,0:18:31.30,0:18:32.94,English,,0,0,0,,You know, all of the projects
-Dialogue: 0,0:18:31.30,0:18:32.94,Chinese,,0,0,0,,你明白的，所有这些计划
-Dialogue: 0,0:18:32.94,0:18:35.35,English,,0,0,0,,need to actually add up to some vision that is meaningful.
-Dialogue: 0,0:18:32.94,0:18:35.35,Chinese,,0,0,0,,都需要被赋予一个有意义的愿景
-Dialogue: 0,0:18:35.35,0:18:38.02,English,,0,0,0,,I think that's really important.
-Dialogue: 0,0:18:35.35,0:18:38.02,Chinese,,0,0,0,,我觉得那真的很重要
-Dialogue: 0,0:18:38.02,0:18:40.92,English,,0,0,0,,But I do think going to Mars is really just about,
-Dialogue: 0,0:18:38.02,0:18:40.92,Chinese,,0,0,0,,但我不觉得去火星仅仅是为了
-Dialogue: 0,0:18:40.92,0:18:42.97,English,,0,0,0,,you know, we've lived for generations on earth,
-Dialogue: 0,0:18:40.92,0:18:42.97,Chinese,,0,0,0,,emm，我们世世代代生活在地球上
-Dialogue: 0,0:18:42.97,0:18:44.96,English,,0,0,0,,so what's it all about like,
-Dialogue: 0,0:18:42.97,0:18:44.96,Chinese,,0,0,0,,那，去火星是怎样的感觉？
-Dialogue: 0,0:18:44.96,0:18:48.66,English,,0,0,0,,why do we want to keep improving and getting better
-Dialogue: 0,0:18:44.96,0:18:48.66,Chinese,,0,0,0,,我们为什么想要改进
-Dialogue: 0,0:18:48.66,0:18:50.93,English,,0,0,0,,and furthering society on earth?
-Dialogue: 0,0:18:48.66,0:18:50.93,Chinese,,0,0,0,,并且拓展地球上的社会
-Dialogue: 0,0:18:50.93,0:18:52.68,English,,0,0,0,,So for me, it's pretty existential.
-Dialogue: 0,0:18:50.93,0:18:52.68,Chinese,,0,0,0,,对我而言，这是相当存在主义的问题
-Dialogue: 0,0:18:52.68,0:18:54.63,English,,0,0,0,,What it means to be a human being.
-Dialogue: 0,0:18:52.68,0:18:54.63,Chinese,,0,0,0,,成为人类意味着什么呢
-Dialogue: 0,0:19:00.16,0:19:02.71,English,,0,0,0,,- Hey, this video is sponsored by Omaze.
-Dialogue: 0,0:19:00.16,0:19:02.71,Chinese,,0,0,0,,嘿，这个视频由 Omaze 赞助
-Dialogue: 0,0:19:02.71,0:19:05.15,English,,0,0,0,,Offering you the chance to win a trip to space.
-Dialogue: 0,0:19:02.71,0:19:05.15,Chinese,,0,0,0,,这个金主现在给你个机会去太空兜风
-Dialogue: 0,0:19:05.18,0:19:07.89,English,,0,0,0,,The winner will get two seats on one of Virgin Galactic's
-Dialogue: 0,0:19:05.18,0:19:07.89,Chinese,,0,0,0,,中奖的幸运儿能拿到两张维珍银河的船票
-Dialogue: 0,0:19:07.89,0:19:09.51,English,,0,0,0,,first commercial space flights.
-Dialogue: 0,0:19:07.89,0:19:09.51,Chinese,,0,0,0,,这可是维珍银河的第一次商业飞行哦
-Dialogue: 0,0:19:09.51,0:19:13.12,English,,0,0,0,,Meaning you and a guest will travel 80 kilometers up in the sky.
-Dialogue: 0,0:19:09.51,0:19:13.12,Chinese,,0,0,0,,你可以再带一个人上天，飞到80千米那么高
-Dialogue: 0,0:19:13.12,0:19:15.06,English,,0,0,0,,You'll get to see the curve of planet earth,
-Dialogue: 0,0:19:13.12,0:19:15.06,Chinese,,0,0,0,,到时候你可以看到地球的曲线
-Dialogue: 0,0:19:15.08,0:19:16.23,English,,0,0,0,,experience weightlessness,
-Dialogue: 0,0:19:15.08,0:19:16.23,Chinese,,0,0,0,,体验失重感
-Dialogue: 0,0:19:16.23,0:19:18.37,English,,0,0,0,,and become one of the few people in the world
-Dialogue: 0,0:19:16.23,0:19:18.37,Chinese,,0,0,0,,成为地球上少有的那一群
-Dialogue: 0,0:19:18.37,0:19:19.58,English,,0,0,0,,to have gone to space.
-Dialogue: 0,0:19:18.37,0:19:19.58,Chinese,,0,0,0,,前往过太空的人类
-Dialogue: 0,0:19:19.58,0:19:21.53,English,,0,0,0,,And you also get to join Sir Richard Branson
-Dialogue: 0,0:19:19.58,0:19:21.53,Chinese,,0,0,0,,你还可以和理查德布兰森爵士一起
-Dialogue: 0,0:19:21.53,0:19:24.77,English,,0,0,0,,for a personal VIP tour of Spaceport America.
-Dialogue: 0,0:19:21.53,0:19:24.77,Chinese,,0,0,0,,体验美国太空港的VIP旅行
-Dialogue: 0,0:19:24.77,0:19:27.42,English,,0,0,0,,The flight is estimated to take place in early 2022.
-Dialogue: 0,0:19:24.77,0:19:27.42,Chinese,,0,0,0,,这个飞行预计排定在2022年上半年
-Dialogue: 0,0:19:27.42,0:19:31.46,English,,0,0,0,,So enter at omaze.com/veritasium for your chance to win.
-Dialogue: 0,0:19:27.42,0:19:31.46,Chinese,,0,0,0,,那猛戳这个链接试试手气吧
-Dialogue: 0,0:19:31.52,0:19:33.57,English,,0,0,0,,Now, Omaze partners with charities,
-Dialogue: 0,0:19:31.52,0:19:33.57,Chinese,,0,0,0,,Omaze 和慈善机构一起
-Dialogue: 0,0:19:33.60,0:19:35.35,English,,0,0,0,,in this case Space for Humanity,
-Dialogue: 0,0:19:33.60,0:19:35.35,Chinese,,0,0,0,,这一次是和 Space for Humanity 合作
-Dialogue: 0,0:19:35.35,0:19:38.21,English,,0,0,0,,an organization whose mission is to expand access to space
-Dialogue: 0,0:19:35.35,0:19:38.21,Chinese,,0,0,0,,这是个以扩大前往太空途径为己任的组织
-Dialogue: 0,0:19:38.24,0:19:40.58,English,,0,0,0,,and train global leaders in the eventual goal
-Dialogue: 0,0:19:38.24,0:19:40.58,Chinese,,0,0,0,,并培养全球领导者为他们的终极目标服务
-Dialogue: 0,0:19:40.58,0:19:42.39,English,,0,0,0,,of creating a sustainable future.
-Dialogue: 0,0:19:40.58,0:19:42.39,Chinese,,0,0,0,,创造一个可持续的未来
-Dialogue: 0,0:19:42.42,0:19:44.62,English,,0,0,0,,So part of your contribution supports this cause.
-Dialogue: 0,0:19:42.42,0:19:44.62,Chinese,,0,0,0,,那么，你的一小部分贡献将支持这一事业
-Dialogue: 0,0:19:44.62,0:19:46.46,English,,0,0,0,,To potentially win a trip to space
-Dialogue: 0,0:19:44.62,0:19:46.46,Chinese,,0,0,0,,想薅太空船票
-Dialogue: 0,0:19:46.46,0:19:49.02,English,,0,0,0,,and support Space for Humanity, a great cause,
-Dialogue: 0,0:19:46.46,0:19:49.02,Chinese,,0,0,0,,并且支持这个组织的伟大事业吗
-Dialogue: 0,0:19:49.04,0:19:51.00,English,,0,0,0,,go to omaze.com/veritasium.
-Dialogue: 0,0:19:49.04,0:19:51.00,Chinese,,0,0,0,,猛击这个链接
-Dialogue: 0,0:19:51.00,0:19:53.35,English,,0,0,0,,I will put that link down in the description.
-Dialogue: 0,0:19:51.00,0:19:53.35,Chinese,,0,0,0,,我会把这个链接放在视频描述里
-Dialogue: 0,0:19:53.35,0:19:55.24,English,,0,0,0,,So I wanna thank Omaze for sponsoring this video,
-Dialogue: 0,0:19:53.35,0:19:55.24,Chinese,,0,0,0,,最后在此感谢 Omaze 赞助这期视频
-Dialogue: 0,0:19:55.27,0:19:57.02,English,,0,0,0,,and I wanna thank you for watching.
-Dialogue: 0,0:19:55.27,0:19:57.02,Chinese,,0,0,0,,也谢谢你的观看
+Dialogue: 0,0:13:38.12,0:13:41.90,English,,0,0,0,,we have a hundred times fewer parts, which is what we're guiding to.
+Dialogue: 0,0:13:38.12,0:13:41.90,Chinese,,0,0,0,,我们要达到的目标就是只使用百分之一的零件数量
+Dialogue: 0,0:13:41.90,0:13:44.79,English,,0,0,0,,There's no fixed tooling in our factory at all.
+Dialogue: 0,0:13:41.90,0:13:44.79,Chinese,,0,0,0,,在我们工厂里不存在固定式加工设备
+Dialogue: 0,0:13:45.09,0:13:47.35,English,,0,0,0,,Unlike the rest of aerospace
+Dialogue: 0,0:13:45.09,0:13:47.35,Chinese,,0,0,0,,反观其他航空制造企业
+Dialogue: 0,0:13:47.35,0:13:51.06,English,,0,0,0,,that's still really, 60 years later, even since Apollo. Building products
+Dialogue: 0,0:13:47.35,0:13:51.06,Chinese,,0,0,0,,还在用60年前阿波罗时代的方法
+Dialogue: 0,0:13:51.06,0:13:55.64,English,,0,0,0,,one at a time by hand with hundreds of thousands to millions of individual parts.
+Dialogue: 0,0:13:51.06,0:13:55.64,Chinese,,0,0,0,,手工打造成千上万个零部件
+Dialogue: 0,0:13:55.64,0:14:01.10,English,,0,0,0,,And no one's really changed that paradigm of how an aerospace factory actually fundamentally works.
+Dialogue: 0,0:13:55.64,0:14:01.10,Chinese,,0,0,0,,这种航空制造的模式还没人打破呢
+Dialogue: 0,0:14:01.93,0:14:04.87,English,,0,0,0,,- Yeah, this is the new fully 3D printed rocket.
+Dialogue: 0,0:14:01.93,0:14:04.87,Chinese,,0,0,0,,这就是完全3D打印的新火箭
+Dialogue: 0,0:14:05.32,0:14:08.52,English,,0,0,0,,So yeah, we'll have dragonfly wing type structures
+Dialogue: 0,0:14:05.32,0:14:08.52,Chinese,,0,0,0,,嗯，我们会仿造蜻蜓翅膀的结构设计格栅翼
+Dialogue: 0,0:14:08.52,0:14:09.70,English,,0,0,0,,and we're building it so.
+Dialogue: 0,0:14:08.52,0:14:09.70,Chinese,,0,0,0,,我们已经开始制造了
+Dialogue: 0,0:14:09.70,0:14:10.71,English,,0,0,0,,But that's the first one,
+Dialogue: 0,0:14:09.70,0:14:10.71,Chinese,,0,0,0,,不过，左边那台才是初号机
+Dialogue: 0,0:14:10.71,0:14:12.20,English,,0,0,0,,and then that's that one for scale.
+Dialogue: 0,0:14:10.71,0:14:12.20,Chinese,,0,0,0,,那台是尺寸更大的版本
+Dialogue: 0,0:14:13.13,0:14:15.89,English,,0,0,0,,So yeah, it is definitely bigger.
+Dialogue: 0,0:14:13.13,0:14:15.89,Chinese,,0,0,0,,嗯，绝对大了一圈
+Dialogue: 0,0:14:16.38,0:14:20.96,English,,0,0,0,,Yeah, so our rocket is named Terran One and Terran R,
+Dialogue: 0,0:14:16.38,0:14:20.96,Chinese,,0,0,0,,是的，我们把火箭命名为 「人族一号」 和 「人族R」
+Dialogue: 0,0:14:20.96,0:14:22.61,English,,0,0,0,,and then our 3D printer's Stargate.
+Dialogue: 0,0:14:20.96,0:14:22.61,Chinese,,0,0,0,,3D打印机则被称为 「星际之门」
+Dialogue: 0,0:14:22.61,0:14:24.43,English,,0,0,0,,So all the things here at Relativity
+Dialogue: 0,0:14:22.61,0:14:24.43,Chinese,,0,0,0,,Relativity 制造的所有产品
+Dialogue: 0,0:14:24.43,0:14:25.93,English,,0,0,0,,are named after StarCraft.
+Dialogue: 0,0:14:24.43,0:14:25.93,Chinese,,0,0,0,,名字都来源于 「星际争霸」 这款游戏
+Dialogue: 0,0:14:26.37,0:14:29.79,English,,0,0,0,,So yeah, of course, the Stargate printer
+Dialogue: 0,0:14:26.37,0:14:29.79,Chinese,,0,0,0,,啊哈，「星际之门」
+Dialogue: 0,0:14:29.79,0:14:32.85,English,,0,0,0,,was with the Protoss used to warp in spaceships.
+Dialogue: 0,0:14:29.79,0:14:32.85,Chinese,,0,0,0,,本来是「神族」乘坐太空飞船时扭曲空间所用的工具
+Dialogue: 0,0:14:32.85,0:14:36.03,English,,0,0,0,,And so, that's what's warping in spaceships at Relativity.
+Dialogue: 0,0:14:32.85,0:14:36.03,Chinese,,0,0,0,,所以，那就是 Relativity 用来改变太空飞船的利器
+Dialogue: 0,0:14:36.82,0:14:39.77,English,,0,0,0,,We have a system in our avionics called the Pylon
+Dialogue: 0,0:14:36.82,0:14:39.77,Chinese,,0,0,0,,我们的产品中，有一套名为「水晶塔」的系统
+Dialogue: 0,0:14:39.77,0:14:40.93,English,,0,0,0,,that we have to build a lot of.
+Dialogue: 0,0:14:39.77,0:14:40.93,Chinese,,0,0,0,,这套系统我们需求量很大
+Dialogue: 0,0:14:40.93,0:14:43.86,English,,0,0,0,,So we always joke, we have to construct additional Pylons.
+Dialogue: 0,0:14:40.93,0:14:43.86,Chinese,,0,0,0,,所以我们经常开玩笑说，我们还得多造一点「水晶塔」啊
+Dialogue: 0,0:14:44.65,0:14:49.38,English,,0,0,0,,Most people don't know how a rocket's are built traditionally at all anyway.
+Dialogue: 0,0:14:44.65,0:14:49.38,English,,0,0,0,,很多人对于传统的火箭制造方式也所知甚少
+Dialogue: 0,0:14:49.75,0:14:52.07,English,,0,0,0,,And I think a lot of people assume it's rockets,
+Dialogue: 0,0:14:49.75,0:14:52.07,Chinese,,0,0,0,,我觉得，许多人以为这是火箭
+Dialogue: 0,0:14:52.07,0:14:55.23,English,,0,0,0,,so shouldn't it be already very advanced
+Dialogue: 0,0:14:52.07,0:14:55.23,Chinese,,0,0,0,,那它就应该已经非常先进了
+Dialogue: 0,0:14:55.23,0:14:57.38,English,,0,0,0,,and robots everywhere and you know,
+Dialogue: 0,0:14:55.23,0:14:57.38,Chinese,,0,0,0,,生产线上全是机器人，你知道的
+Dialogue: 0,0:14:57.38,0:14:59.35,English,,0,0,0,,Elon's got Space X and Tesla,
+Dialogue: 0,0:14:57.38,0:14:59.35,Chinese,,0,0,0,,马斯克有SpaceX和Tesla两家公司
+Dialogue: 0,0:14:59.35,0:15:01.58,English,,0,0,0,,so doesn't Space X just look like Tesla
+Dialogue: 0,0:14:59.35,0:15:01.58,Chinese,,0,0,0,,那SpaceX难道不像Tesla那样
+Dialogue: 0,0:15:01.58,0:15:03.59,English,,0,0,0,,with all these robots and automation?
+Dialogue: 0,0:15:01.58,0:15:03.59,Chinese,,0,0,0,,同样有这些机器人和自动化的设备
+Dialogue: 0,0:15:03.99,0:15:05.31,English,,0,0,0,,But that's really not true.
+Dialogue: 0,0:15:03.99,0:15:05.31,Chinese,,0,0,0,,但这大错特错了
+Dialogue: 0,0:15:05.31,0:15:08.22,English,,0,0,0,,I mean, aerospace hasn't adopted automation at all.
+Dialogue: 0,0:15:05.31,0:15:08.22,Chinese,,0,0,0,,我想说的是，航空工业并没有完全接纳自动化
+Dialogue: 0,0:15:08.22,0:15:11.68,English,,0,0,0,,- One of the issues, right, is that you're not making a lot of rockets?
+Dialogue: 0,0:15:08.22,0:15:11.68,Chinese,,0,0,0,,其中一个问题就是，恩，你总不会一次性制造很多的火箭吧？
+Dialogue: 0,0:15:12.09,0:15:12.55,English,,0,0,0,,- Right
+Dialogue: 0,0:15:12.09,0:15:12.55,Chinese,,0,0,0,,对。
+Dialogue: 0,0:15:12.55,0:15:15.64,English,,0,0,0,,- So there's no incentive to like figure out
+Dialogue: 0,0:15:12.55,0:15:15.64,Chinese,,0,0,0,,所以并没有那么大的需求去刺激他们
+Dialogue: 0,0:15:15.64,0:15:18.09,English,,0,0,0,,how to tool up a factory to like pump out rockets
+Dialogue: 0,0:15:15.64,0:15:18.09,Chinese,,0,0,0,,设计出一种自动化的工厂，用来大量生产火箭
+Dialogue: 0,0:15:18.09,0:15:19.38,English,,0,0,0,,like a hundred a day or something.
+Dialogue: 0,0:15:18.09,0:15:19.38,Chinese,,0,0,0,,比如每天生产一百枚的那种
+Dialogue: 0,0:15:19.38,0:15:19.98,English,,0,0,0,,- Exactly.
+Dialogue: 0,0:15:19.38,0:15:19.98,Chinese,,0,0,0,,是这样
+Dialogue: 0,0:15:19.98,0:15:20.88,English,,0,0,0,,- Like you would for cars.
+Dialogue: 0,0:15:19.98,0:15:20.88,Chinese,,0,0,0,,就像生产汽车那样
+Dialogue: 0,0:15:20.88,0:15:22.35,English,,0,0,0,,- Exactly, you're not making a lot.
+Dialogue: 0,0:15:20.88,0:15:22.35,Chinese,,0,0,0,,的确，你并不会造那么多
+Dialogue: 0,0:15:22.35,0:15:23.83,English,,0,0,0,,Even with commercial aircraft,
+Dialogue: 0,0:15:22.35,0:15:23.83,Chinese,,0,0,0,,即使是商用的飞机
+Dialogue: 0,0:15:23.83,0:15:25.33,English,,0,0,0,,you're not making nearly as many
+Dialogue: 0,0:15:23.83,0:15:25.33,Chinese,,0,0,0,,也完全达不到那么多的产量
+Dialogue: 0,0:15:25.33,0:15:28.53,English,,0,0,0,,and there's orders of magnitude more parts and complexity.
+Dialogue: 0,0:15:25.33,0:15:28.53,Chinese,,0,0,0,,另外航空器的零部件数量和复杂程度与其他相比是差了数量级的
+Dialogue: 0,0:15:28.53,0:15:32.95,English,,0,0,0,,A commercial aircraft has several million individual parts.
+Dialogue: 0,0:15:28.53,0:15:32.95,Chinese,,0,0,0,,一架商用飞机有数以百万计独立的零件
+Dialogue: 0,0:15:33.21,0:15:36.48,English,,0,0,0,,So to have robots assemble several million parts
+Dialogue: 0,0:15:33.21,0:15:36.48,Chinese,,0,0,0,,让机器人组装数百万个零件
+Dialogue: 0,0:15:36.48,0:15:39.60,English,,0,0,0,,when an automobile has tens of thousands
+Dialogue: 0,0:15:36.48,0:15:39.60,Chinese,,0,0,0,,和仅有数万零件的汽车相比
+Dialogue: 0,0:15:39.60,0:15:41.12,English,,0,0,0,,is completely different.
+Dialogue: 0,0:15:39.60,0:15:41.12,Chinese,,0,0,0,,是完全不同的
+Dialogue: 0,0:15:41.12,0:15:42.62,English,,0,0,0,,It's a much harder problem.
+Dialogue: 0,0:15:41.12,0:15:42.62,Chinese,,0,0,0,,这个问题难多了
+Dialogue: 0,0:15:42.62,0:15:46.12,English,,0,0,0,,So that's where 3D printing is automation for aerospace
+Dialogue: 0,0:15:42.62,0:15:46.12,Chinese,,0,0,0,,所以，在我们这里，3D打印实现了航空业的自动化
+Dialogue: 0,0:15:46.12,0:15:49.20,English,,0,0,0,,because you're not assembling all those parts with robots
+Dialogue: 0,0:15:46.12,0:15:49.20,Chinese,,0,0,0,,因为你并不是像装配汽车那样
+Dialogue: 0,0:15:49.20,0:15:50.86,English,,0,0,0,,like you would with a car,
+Dialogue: 0,0:15:49.20,0:15:50.86,Chinese,,0,0,0,,用机器人组装所有的组件
+Dialogue: 0,0:15:50.86,0:15:53.49,English,,0,0,0,,you're assembling them in the 3D file
+Dialogue: 0,0:15:50.86,0:15:53.49,Chinese,,0,0,0,,你是预先在3D文件里设计整合好它们
+Dialogue: 0,0:15:53.49,0:15:55.81,English,,0,0,0,,and then the printer just prints them assembled.
+Dialogue: 0,0:15:53.49,0:15:55.81,Chinese,,0,0,0,,然后打印机以组装好的状态打印出它们
+Dialogue: 0,0:15:56.36,0:15:59.14,English,,0,0,0,,- The plan for Relativity Space,
+Dialogue: 0,0:15:56.36,0:15:59.14,Chinese,,0,0,0,,Relativity Space 的计划
+Dialogue: 0,0:15:59.14,0:16:02.26,English,,0,0,0,,is it low-earth orbit or is it going further than that?
+Dialogue: 0,0:15:59.14,0:16:02.26,Chinese,,0,0,0,,是专注于近地轨道，还是会有更远的目标？
+Dialogue: 0,0:16:02.26,0:16:04.73,English,,0,0,0,,- So for Terran One, it's mostly low earth orbit.
+Dialogue: 0,0:16:02.26,0:16:04.73,Chinese,,0,0,0,,对于「人族一号」而言，主要是近地轨道
+Dialogue: 0,0:16:04.73,0:16:05.69,English,,0,0,0,,The first rocket.
+Dialogue: 0,0:16:04.73,0:16:05.69,Chinese,,0,0,0,,这是我们的第一款火箭
+Dialogue: 0,0:16:06.01,0:16:09.48,English,,0,0,0,,Terran R can actually send payload to the moon to Mars.
+Dialogue: 0,0:16:06.01,0:16:09.48,Chinese,,0,0,0,,而「人族R」实际上可以把载荷送往月球和火星
+Dialogue: 0,0:16:09.48,0:16:11.14,English,,0,0,0,,I mean, it's pretty, pretty huge.
+Dialogue: 0,0:16:09.48,0:16:11.14,Chinese,,0,0,0,,它的运力相当巨大
+Dialogue: 0,0:16:11.14,0:16:13.62,English,,0,0,0,,I founded the company because I really thought
+Dialogue: 0,0:16:11.14,0:16:13.62,Chinese,,0,0,0,,我创立这家公司，因为我真心觉得
+Dialogue: 0,0:16:13.62,0:16:15.37,English,,0,0,0,,that there needed to be, you know,
+Dialogue: 0,0:16:13.62,0:16:15.37,Chinese,,0,0,0,,你明白的，需要有
+Dialogue: 0,0:16:15.37,0:16:17.76,English,,0,0,0,,dozens of hundreds of companies making Mars happen.
+Dialogue: 0,0:16:15.37,0:16:17.76,Chinese,,0,0,0,,数以千计的公司一起努力，使得前往火星成为现实
+Dialogue: 0,0:16:17.76,0:16:20.34,English,,0,0,0,,We're focused on taking this 3D printing tech
+Dialogue: 0,0:16:17.76,0:16:20.34,Chinese,,0,0,0,,我们专注于这种3D打印科技
+Dialogue: 0,0:16:20.34,0:16:22.49,English,,0,0,0,,and what we call the factory of the future,
+Dialogue: 0,0:16:20.34,0:16:22.49,Chinese,,0,0,0,,还有被我们称为未来工厂的概念
+Dialogue: 0,0:16:22.49,0:16:24.73,English,,0,0,0,,and one day shrinking it down to something
+Dialogue: 0,0:16:22.49,0:16:24.73,Chinese,,0,0,0,,在未来的某一天将它压缩成
+Dialogue: 0,0:16:24.73,0:16:27.32,English,,0,0,0,,we'll actually launch to Mars and build an industrial base.
+Dialogue: 0,0:16:24.73,0:16:27.32,Chinese,,0,0,0,,我们能够真正发射到火星的小工厂  并且建起一个工业基地
+Dialogue: 0,0:16:27.32,0:16:29.42,English,,0,0,0,,So that's the long-term vision of the company,
+Dialogue: 0,0:16:27.32,0:16:29.42,Chinese,,0,0,0,,那是我们公司的长期愿景
+Dialogue: 0,0:16:29.42,0:16:31.54,English,,0,0,0,,is build the industrial base on Mars.
+Dialogue: 0,0:16:29.42,0:16:31.54,Chinese,,0,0,0,,就是在火星建立这种工业基地
+Dialogue: 0,0:16:31.54,0:16:33.94,English,,0,0,0,,In many ways, this factory is just a prototype.
+Dialogue: 0,0:16:31.54,0:16:33.94,Chinese,,0,0,0,,在许多方面，这种工厂还只是一个原型
+Dialogue: 0,0:16:33.94,0:16:36.09,English,,0,0,0,,It's still far smaller than a traditional factory.
+Dialogue: 0,0:16:33.94,0:16:36.09,Chinese,,0,0,0,,它仍然远小于传统的工厂
+Dialogue: 0,0:16:36.09,0:16:37.09,English,,0,0,0,,It's far lighter.
+Dialogue: 0,0:16:36.09,0:16:37.09,Chinese,,0,0,0,,它的分量小得多
+Dialogue: 0,0:16:37.09,0:16:40.76,English,,0,0,0,,And I think it's inevitable someone has to build this company.
+Dialogue: 0,0:16:37.09,0:16:40.76,Chinese,,0,0,0,,但是不可避免总有人要创建这样的公司
+Dialogue: 0,0:16:41.14,0:16:43.08,English,,0,0,0,,- I don't know that in 10, 20 years
+Dialogue: 0,0:16:41.14,0:16:43.08,Chinese,,0,0,0,,我不知道，在十年，或者二十年后
+Dialogue: 0,0:16:43.08,0:16:45.17,English,,0,0,0,,that you will be 3D printing rockets all the time.
+Dialogue: 0,0:16:43.08,0:16:45.17,Chinese,,0,0,0,,你会不会随时能乘坐3D打印的火箭
+Dialogue: 0,0:16:45.17,0:16:47.37,English,,0,0,0,,Because if you are flying lots of rockets,
+Dialogue: 0,0:16:45.17,0:16:47.37,Chinese,,0,0,0,,因为如果有大量的火箭投入运营
+Dialogue: 0,0:16:47.37,0:16:49.70,English,,0,0,0,,it becomes cheaper to have a dedicated machine for it.
+Dialogue: 0,0:16:47.37,0:16:49.70,Chinese,,0,0,0,,拥有这样一个火箭的花费会更少
+Dialogue: 0,0:16:50.19,0:16:53.81,English,,0,0,0,,I do think that as a company, they are well-placed
+Dialogue: 0,0:16:50.19,0:16:53.81,Chinese,,0,0,0,,我认为，作为一家公司，他们的定位相当重要
+Dialogue: 0,0:16:54.16,0:16:58.38,English,,0,0,0,,because even if Terran fails to capitalize on the market,
+Dialogue: 0,0:16:54.16,0:16:58.38,Chinese,,0,0,0,,因为即使「人族」系列没能在市场上发挥优势
+Dialogue: 0,0:16:58.38,0:17:00.62,English,,0,0,0,,even if nobody wants to use it as a launch vehicle,
+Dialogue: 0,0:16:58.38,0:17:00.62,Chinese,,0,0,0,,即使没人愿意用它作为发射载具
+Dialogue: 0,0:17:01.10,0:17:03.79,English,,0,0,0,,they are clearly now the world experts
+Dialogue: 0,0:17:01.10,0:17:03.79,English,,0,0,0,,他们显然是目前世界级的
+Dialogue: 0,0:17:03.79,0:17:05.62,English,,0,0,0,,on 3D printing rocket hardware,
+Dialogue: 0,0:17:03.79,0:17:05.62,Chinese,,0,0,0,,3D打印火箭硬件专家
+Dialogue: 0,0:17:05.62,0:17:07.50,English,,0,0,0,,'cause they've done everything, right?
+Dialogue: 0,0:17:05.62,0:17:07.50,Chinese,,0,0,0,,因为他们有尝试过解决所有的问题，不是吗
+Dialogue: 0,0:17:07.50,0:17:09.49,English,,0,0,0,,They've tried to apply 3D printing to places
+Dialogue: 0,0:17:07.50,0:17:09.49,Chinese,,0,0,0,,他们努力将3D打印应用在
+Dialogue: 0,0:17:09.49,0:17:10.92,English,,0,0,0,,where a lot of people dismissed it.
+Dialogue: 0,0:17:09.49,0:17:10.92,Chinese,,0,0,0,,被许多人忽视的领域
+Dialogue: 0,0:17:10.92,0:17:13.70,English,,0,0,0,,So I think they're sort of secure as a company.
+Dialogue: 0,0:17:10.92,0:17:13.70,Chinese,,0,0,0,,所以我觉得他们作为一家公司，地位是相当稳固的
+Dialogue: 0,0:17:14.10,0:17:17.50,English,,0,0,0,,Whether we will see rockets being 3D printed all the time?
+Dialogue: 0,0:17:14.10,0:17:17.50,Chinese,,0,0,0,,我们会不会看到火箭完全由3D打印制造的那天呢
+Dialogue: 0,0:17:18.90,0:17:19.96,English,,0,0,0,,That's a good question.
+Dialogue: 0,0:17:18.90,0:17:19.96,Chinese,,0,0,0,,这是个好问题
+Dialogue: 0,0:17:20.74,0:17:22.27,English,,0,0,0,,- There've been a lot of talk recently
+Dialogue: 0,0:17:20.74,0:17:22.27,Chinese,,0,0,0,,最近有许多的讨论
+Dialogue: 0,0:17:22.27,0:17:24.11,English,,0,0,0,,about billionaires going to space.
+Dialogue: 0,0:17:22.27,0:17:24.11,Chinese,,0,0,0,,有关于前往太空的大富豪们
+Dialogue: 0,0:17:24.44,0:17:25.07,English,,0,0,0,,- Yeah.
+Dialogue: 0,0:17:24.44,0:17:25.07,Chinese,,0,0,0,,是的
+Dialogue: 0,0:17:25.62,0:17:28.49,English,,0,0,0,,- Will a 3D printed rocket make it possible
+Dialogue: 0,0:17:25.62,0:17:28.49,Chinese,,0,0,0,,3D打印的火箭会使前往太空变得可行
+Dialogue: 0,0:17:28.49,0:17:31.18,English,,0,0,0,,and a lot cheaper for me to go to space?
+Dialogue: 0,0:17:28.49,0:17:31.18,Chinese,,0,0,0,,并且为我节省一大笔钱吗
+Dialogue: 0,0:17:32.28,0:17:35.68,English,,0,0,0,,- Yes, I mean, certainly what we're doing is lowering the cost.
+Dialogue: 0,0:17:32.28,0:17:35.68,Chinese,,0,0,0,,是的，我想说的是，很明显我们在做的正是降低费用
+Dialogue: 0,0:17:35.68,0:17:39.78,English,,0,0,0,,So our rockets are costing about five times
+Dialogue: 0,0:17:35.68,0:17:39.78,Chinese,,0,0,0,,所以说，我们的火箭花费会比当今的价钱便宜五倍
+Dialogue: 0,0:17:39.78,0:17:42.18,English,,0,0,0,,to, you know, I believe we can get to 10
+Dialogue: 0,0:17:39.78,0:17:42.18,Chinese,,0,0,0,,到，emm，我觉得我们可以达到十倍
+Dialogue: 0,0:17:42.18,0:17:46.99,English,,0,0,0,,or even a hundred times cheaper with a fully reusable rocket than what we have today.
+Dialogue: 0,0:17:42.18,0:17:46.99,Chinese,,0,0,0,,甚至能达到一百倍。这是用我们这种可回收的火箭能达到的价钱
+Dialogue: 0,0:17:47.57,0:17:50.54,English,,0,0,0,,So it can definitely climb down the cost curve.
+Dialogue: 0,0:17:47.57,0:17:50.54,Chinese,,0,0,0,,那么这绝对能压低成本曲线
+Dialogue: 0,0:17:50.54,0:17:53.62,English,,0,0,0,,But I also think, you know, going to Mars
+Dialogue: 0,0:17:50.54,0:17:53.62,Chinese,,0,0,0,,不过，我还觉得，emm，前往火星
+Dialogue: 0,0:17:53.62,0:17:55.50,English,,0,0,0,,and the first people that are going,
+Dialogue: 0,0:17:53.62,0:17:55.50,Chinese,,0,0,0,,还有最先到达那里的人
+Dialogue: 0,0:17:55.50,0:17:58.51,English,,0,0,0,,it really is about what is the point of being a human being.
+Dialogue: 0,0:17:55.50,0:17:58.51,Chinese,,0,0,0,,重要的是成为人类的意义是什么
+Dialogue: 0,0:17:58.51,0:17:59.95,English,,0,0,0,,Like for me, why go to Mars?
+Dialogue: 0,0:17:58.51,0:17:59.95,Chinese,,0,0,0,,比方说，对我而言，为什么要去火星？
+Dialogue: 0,0:17:59.95,0:18:02.03,English,,0,0,0,,If we were having this conversation
+Dialogue: 0,0:17:59.95,0:18:02.03,Chinese,,0,0,0,,假如我们正在谈这个话题
+Dialogue: 0,0:18:02.03,0:18:05.00,English,,0,0,0,,and a million people were living on another planet,
+Dialogue: 0,0:18:02.03,0:18:05.00,Chinese,,0,0,0,,而一百万人住在另一个星球
+Dialogue: 0,0:18:05.00,0:18:06.85,English,,0,0,0,,I think it would expand the possibilities
+Dialogue: 0,0:18:05.00,0:18:06.85,Chinese,,0,0,0,,我想，这将带来更多可能性
+Dialogue: 0,0:18:06.85,0:18:10.27,English,,0,0,0,,of human experience and what it means to be a person.
+Dialogue: 0,0:18:06.85,0:18:10.27,Chinese,,0,0,0,,人类的体验和生而为人的意义
+Dialogue: 0,0:18:10.27,0:18:12.78,English,,0,0,0,,Like we'd have YouTube channels on Mars
+Dialogue: 0,0:18:10.27,0:18:12.78,Chinese,,0,0,0,,就像，我们可以开个关于火星的频道
+Dialogue: 0,0:18:12.78,0:18:15.89,English,,0,0,0,,and people sharing what life on Mars is like versus earth.
+Dialogue: 0,0:18:12.78,0:18:15.89,Chinese,,0,0,0,,人们可以分享在火星的生活是怎样的，并且和地球比较
+Dialogue: 0,0:18:15.89,0:18:19.32,English,,0,0,0,,And there'd be long distance Amelie, like love stories.
+Dialogue: 0,0:18:15.89,0:18:19.32,Chinese,,0,0,0,,还会有异地版的「天使艾美丽」，爱情故事之类的
+Dialogue: 0,0:18:19.32,0:18:21.44,English,,0,0,0,,Like I think there's just a lot of richness
+Dialogue: 0,0:18:19.32,0:18:21.44,Chinese,,0,0,0,,就像我觉得，人类有很多可能性
+Dialogue: 0,0:18:21.44,0:18:25.32,English,,0,0,0,,in what human culture and society can be about.
+Dialogue: 0,0:18:21.44,0:18:25.32,Chinese,,0,0,0,,文化和社会的演进令人期待
+Dialogue: 0,0:18:25.32,0:18:27.71,English,,0,0,0,,Yes, I think there's criticism about,
+Dialogue: 0,0:18:25.32,0:18:27.71,Chinese,,0,0,0,,当然，我想会有一些批评，关于，
+Dialogue: 0,0:18:27.71,0:18:29.53,English,,0,0,0,,you know, billionaires going to space
+Dialogue: 0,0:18:27.71,0:18:29.53,Chinese,,0,0,0,,你懂的，大富豪上太空之类的
+Dialogue: 0,0:18:29.53,0:18:31.30,English,,0,0,0,,and I don't agree with,
+Dialogue: 0,0:18:29.53,0:18:31.30,Chinese,,0,0,0,,对这些声音我不敢苟同
+Dialogue: 0,0:18:31.30,0:18:33.63,English,,0,0,0,,You know, all of the projects
+Dialogue: 0,0:18:31.30,0:18:33.63,Chinese,,0,0,0,,你明白的，所有这些计划
+Dialogue: 0,0:18:33.63,0:18:36.37,English,,0,0,0,,need to actually add up to some vision that is meaningful.
+Dialogue: 0,0:18:33.63,0:18:36.37,Chinese,,0,0,0,,都需要被赋予一个有意义的愿景
+Dialogue: 0,0:18:36.37,0:18:38.02,English,,0,0,0,,I think that's really important.
+Dialogue: 0,0:18:36.37,0:18:38.02,Chinese,,0,0,0,,我觉得那真的很重要
+Dialogue: 0,0:18:38.02,0:18:41.10,English,,0,0,0,,But I do think going to Mars is really just about,
+Dialogue: 0,0:18:38.02,0:18:41.10,Chinese,,0,0,0,,但我不觉得去火星仅仅是为了
+Dialogue: 0,0:18:41.10,0:18:43.60,English,,0,0,0,,you know, we've lived for generations on earth,
+Dialogue: 0,0:18:41.10,0:18:43.60,Chinese,,0,0,0,,emm，我们世世代代生活在地球上
+Dialogue: 0,0:18:43.60,0:18:45.00,English,,0,0,0,,so what's it all about like,
+Dialogue: 0,0:18:43.60,0:18:45.00,Chinese,,0,0,0,,那，去火星是怎样的感觉？
+Dialogue: 0,0:18:45.00,0:18:48.88,English,,0,0,0,,why do we want to keep improving and getting better
+Dialogue: 0,0:18:45.00,0:18:48.88,Chinese,,0,0,0,,我们为什么想要改进
+Dialogue: 0,0:18:48.88,0:18:51.24,English,,0,0,0,,and furthering society on earth?
+Dialogue: 0,0:18:48.88,0:18:51.24,Chinese,,0,0,0,,并且拓展地球上的社会
+Dialogue: 0,0:18:51.24,0:18:53.02,English,,0,0,0,,So for me, it's pretty existential.
+Dialogue: 0,0:18:51.24,0:18:53.02,Chinese,,0,0,0,,对我而言，这是相当存在主义的问题
+Dialogue: 0,0:18:53.02,0:18:54.63,English,,0,0,0,,What it means to be a human being.
+Dialogue: 0,0:18:53.02,0:18:54.63,Chinese,,0,0,0,,成为人类意味着什么呢
+Dialogue: 0,0:18:54.63,0:18:56.63,Chinese,,0,0,0,,翻译：yxy、普通人、H3arn（？）
