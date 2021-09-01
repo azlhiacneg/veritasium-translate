@@ -167,9 +167,9 @@ Dialogue: 0,0:03:12.26,0:03:14.90,CHN,,0,0,0,,
 Dialogue: 0,0:03:14.90,0:03:18.42,ENG,,0,0,0,,from big computer companies starting in the 1970s.
 Dialogue: 0,0:03:14.90,0:03:18.42,CHN,,0,0,0,,
 Dialogue: 0,0:03:19.43,0:03:23.61,ENG,,0,0,0,,In 1978, Intel reported some strange errors popping up
-Dialogue: 0,0:03:19.43,0:03:23.61,CHN,,0,0,0,,1978 年，Intel 报告称
+Dialogue: 0,0:03:19.43,0:03:23.61,CHN,,0,0,0,,1978年，英特尔报告称
 Dialogue: 0,0:03:23.61,0:03:28.04,ENG,,0,0,0,,in their 16 kilobit dynamic random access memory or DRAM.
-Dialogue: 0,0:03:23.61,0:03:28.04,CHN,,0,0,0,,其 16 KB 动态随机存取存储器（DRAM）中出现了一些奇怪的错误
+Dialogue: 0,0:03:23.61,0:03:28.04,CHN,,0,0,0,,其16 KB动态随机存取存储器（DRAM）中出现了一些奇怪的错误
 Dialogue: 0,0:03:28.04,0:03:30.99,ENG,,0,0,0,,Ones would spontaneously flip to zeros
 Dialogue: 0,0:03:28.04,0:03:30.99,CHN,,0,0,0,,“1”会毫无征兆地
 Dialogue: 0,0:03:30.99,0:03:33.39,ENG,,0,0,0,,with no apparent cause.
@@ -179,7 +179,7 @@ Dialogue: 0,0:03:33.39,0:03:36.32,CHN,,0,0,0,,问题原来出在
 Dialogue: 0,0:03:36.32,0:03:38.51,ENG,,0,0,0,,the chip was encased in.
 Dialogue: 0,0:03:36.32,0:03:38.51,CHN,,0,0,0,,用于封装芯片的陶瓷上
 Dialogue: 0,0:03:38.51,0:03:41.24,ENG,,0,0,0,,With the demand for semiconductor packaging skyrocketing
-Dialogue: 0,0:03:38.51,0:03:41.24,CHN,,0,0,0,,随着 1970 年代对半导体封装需求的激增
+Dialogue: 0,0:03:38.51,0:03:41.24,CHN,,0,0,0,,随着1970年代对半导体封装需求的激增
 Dialogue: 0,0:03:41.24,0:03:44.73,ENG,,0,0,0,,in the 1970s, a new manufacturing plant was constructed
 Dialogue: 0,0:03:41.24,0:03:44.73,CHN,,0,0,0,,一家新的制造厂被建立在了
 Dialogue: 0,0:03:44.73,0:03:46.95,ENG,,0,0,0,,on the Green River in Colorado.
@@ -191,25 +191,25 @@ Dialogue: 0,0:03:50.12,0:03:52.37,CHN,,0,0,0,,这家制造厂正好位于一个�
 Dialogue: 0,0:03:52.37,0:03:55.13,ENG,,0,0,0,,Radioactive atoms made their way into the river
 Dialogue: 0,0:03:52.37,0:03:55.13,CHN,,0,0,0,,放射性原子进入河流
 Dialogue: 0,0:03:55.13,0:03:59.48,ENG,,0,0,0,,and then into the ceramic packaging for Intel's microchips.
-Dialogue: 0,0:03:55.13,0:03:59.48,CHN,,0,0,0,,然后进入 Intel 芯片的陶瓷封装
+Dialogue: 0,0:03:55.13,0:03:59.48,CHN,,0,0,0,,然后进入英特尔芯片的陶瓷封装
 Dialogue: 0,0:03:59.48,0:04:01.50,ENG,,0,0,0,,Intel scientists investigating the problem
-Dialogue: 0,0:03:59.48,0:04:01.50,CHN,,0,0,0,,调查这个问题的 Intel 科学家发现
+Dialogue: 0,0:03:59.48,0:04:01.50,CHN,,0,0,0,,调查这个问题的英特尔科学家发现
 Dialogue: 0,0:04:01.50,0:04:04.16,ENG,,0,0,0,,found that even trace amounts of uranium and thorium
 Dialogue: 0,0:04:01.50,0:04:04.16,CHN,,0,0,0,,即便是陶瓷中微量的铀和钍
 Dialogue: 0,0:04:04.16,0:04:07.73,ENG,,0,0,0,,in the ceramic were sufficient to cause problems.
 Dialogue: 0,0:04:04.16,0:04:07.73,CHN,,0,0,0,,也足以引起问题
 Dialogue: 0,0:04:07.73,0:04:10.40,ENG,,0,0,0,,In their DRAM, memory was stored as the presence
-Dialogue: 0,0:04:07.73,0:04:10.40,CHN,,0,0,0,,在 Intel 的 DRAM 中
+Dialogue: 0,0:04:07.73,0:04:10.40,CHN,,0,0,0,,在英特尔的DRAM中
 Dialogue: 0,0:04:10.40,0:04:14.25,ENG,,0,0,0,,or absence of electrons in a semiconductor well.
 Dialogue: 0,0:04:10.40,0:04:14.25,CHN,,0,0,0,,他们以半导体阱中的电子存在与否来存储0和1
 Dialogue: 0,0:04:14.25,0:04:17.14,ENG,,0,0,0,,The alpha particles emitted by uranium and thorium
-Dialogue: 0,0:04:14.25,0:04:17.14,CHN,,0,0,0,,铀和钍发射的 α 粒子
+Dialogue: 0,0:04:14.25,0:04:17.14,CHN,,0,0,0,,铀和钍发射的α粒子
 Dialogue: 0,0:04:17.14,0:04:19.14,ENG,,0,0,0,,were energetic and ionizing enough
 Dialogue: 0,0:04:17.14,0:04:19.14,CHN,,0,0,0,,能量充足并且电离能力极强
 Dialogue: 0,0:04:19.14,0:04:22.49,ENG,,0,0,0,,to create electron hole pairs in the silicone.
 Dialogue: 0,0:04:19.14,0:04:22.49,CHN,,0,0,0,,足以在硅中产生电子空穴对
 Dialogue: 0,0:04:22.49,0:04:25.45,ENG,,0,0,0,,If an alpha particle is struck in just the right place,
-Dialogue: 0,0:04:22.49,0:04:25.45,CHN,,0,0,0,,如果 α 粒子撞击的位置正确
+Dialogue: 0,0:04:22.49,0:04:25.45,CHN,,0,0,0,,如果α粒子撞击的位置正确
 Dialogue: 0,0:04:25.45,0:04:28.93,ENG,,0,0,0,,it could create a large number of free charge carriers
 Dialogue: 0,0:04:25.45,0:04:28.93,CHN,,0,0,0,,它可能会产生大量的自由电荷载流子
 Dialogue: 0,0:04:28.93,0:04:31.94,ENG,,0,0,0,,causing electrons to accumulate in the well
@@ -227,21 +227,21 @@ Dialogue: 0,0:04:43.70,0:04:47.46,CHN,,0,0,0,,但你可以毫无问题地将其�
 Dialogue: 0,0:04:47.46,0:04:50.21,ENG,,0,0,0,,Investigators exposed the chips to alpha emitters
 Dialogue: 0,0:04:47.46,0:04:50.21,CHN,,0,0,0,,研究人员将芯片暴露在
 Dialogue: 0,0:04:50.21,0:04:52.15,ENG,,0,0,0,,with different levels of activity.
-Dialogue: 0,0:04:50.21,0:04:52.15,CHN,,0,0,0,,不同强度的 α 射线中
+Dialogue: 0,0:04:50.21,0:04:52.15,CHN,,0,0,0,,不同强度的α射线中
 Dialogue: 0,0:04:52.15,0:04:53.25,ENG,,0,0,0,,And just as you'd expect,
 Dialogue: 0,0:04:52.15,0:04:53.25,CHN,,0,0,0,,不出所料
 Dialogue: 0,0:04:53.25,0:04:55.95,ENG,,0,0,0,,they found the number of bit flips directly correlated
 Dialogue: 0,0:04:53.25,0:04:55.95,CHN,,0,0,0,,他们发现位翻转发生的频率
 Dialogue: 0,0:04:55.95,0:04:57.28,ENG,,0,0,0,,with the number of alpha particles
-Dialogue: 0,0:04:55.95,0:04:57.28,CHN,,0,0,0,,与芯片所在环境中 α 粒子的数量
+Dialogue: 0,0:04:55.95,0:04:57.28,CHN,,0,0,0,,与芯片所在环境中α粒子的数量
 Dialogue: 0,0:04:57.28,0:04:59.43,ENG,,0,0,0,,the chip had been exposed to.
 Dialogue: 0,0:04:57.28,0:04:59.43,CHN,,0,0,0,,有着直接的关系
 Dialogue: 0,0:04:59.43,0:05:02.55,ENG,,0,0,0,,The reason this problem was identified in the 1970s
-Dialogue: 0,0:04:59.43,0:05:02.55,CHN,,0,0,0,,这个问题在 1970 年代被发现的原因
+Dialogue: 0,0:04:59.43,0:05:02.55,CHN,,0,0,0,,这个问题在1970年代被发现的原因
 Dialogue: 0,0:05:02.55,0:05:04.83,ENG,,0,0,0,,was because chip components had been miniaturized
 Dialogue: 0,0:05:02.55,0:05:04.83,CHN,,0,0,0,,是因为那时的芯片组件已经小到
 Dialogue: 0,0:05:04.83,0:05:07.50,ENG,,0,0,0,,to the point where a single alpha particle
-Dialogue: 0,0:05:04.83,0:05:07.50,CHN,,0,0,0,,即使是单个 α 粒子
+Dialogue: 0,0:05:04.83,0:05:07.50,CHN,,0,0,0,,即使是单个α粒子
 Dialogue: 0,0:05:07.50,0:05:09.76,ENG,,0,0,0,,could produce enough charge to flip a bit.
 Dialogue: 0,0:05:07.50,0:05:09.76,CHN,,0,0,0,,也可以产生足够的电荷使某一位发生翻转
 Dialogue: 0,0:05:10.86,0:05:14.14,ENG,,0,0,0,,Immediately, these findings attracted a lot of attention.
@@ -257,17 +257,17 @@ Dialogue: 0,0:05:20.69,0:05:23.47,CHN,,0,0,0,,芯片制造商在生产和封装�
 Dialogue: 0,0:05:23.47,0:05:26.30,ENG,,0,0,0,,when producing their microchips and packaging.
 Dialogue: 0,0:05:23.47,0:05:26.30,CHN,,0,0,0,,会更加谨慎地避开放射性物质
 Dialogue: 0,0:05:26.30,0:05:28.53,ENG,,0,0,0,,Therefore, the bit flip that gave Maria Vindevogel
-Dialogue: 0,0:05:26.30,0:05:28.53,CHN,,0,0,0,,因此，让 Maria Vindevogel 获得
+Dialogue: 0,0:05:26.30,0:05:28.53,CHN,,0,0,0,,因此，让Maria Vindevogel获得
 Dialogue: 0,0:05:28.53,0:05:31.38,ENG,,0,0,0,,4,096 extra votes
-Dialogue: 0,0:05:28.53,0:05:31.38,CHN,,0,0,0,,额外 4096 票的位翻转
+Dialogue: 0,0:05:28.53,0:05:31.38,CHN,,0,0,0,,额外4096票的位翻转
 Dialogue: 0,0:05:31.38,0:05:35.49,ENG,,0,0,0,,wasn't caused by natural radioactivity in the computer.
 Dialogue: 0,0:05:31.38,0:05:35.49,CHN,,0,0,0,,并不是由计算机中的自然放射性引起的
 Dialogue: 0,0:05:35.49,0:05:37.27,ENG,,0,0,0,,So where did it come from?
 Dialogue: 0,0:05:35.49,0:05:37.27,CHN,,0,0,0,,那么它是从哪里来的呢
 Dialogue: 0,0:05:38.20,0:05:40.75,ENG,,0,0,0,,After Henri Becquerel discovered radioactivity
-Dialogue: 0,0:05:38.20,0:05:40.75,CHN,,0,0,0,,1896 年
+Dialogue: 0,0:05:38.20,0:05:40.75,CHN,,0,0,0,,1896年
 Dialogue: 0,0:05:40.75,0:05:42.96,ENG,,0,0,0,,with uranium in 1896,
-Dialogue: 0,0:05:40.75,0:05:42.96,CHN,,0,0,0,,Henri Becquerel 发现铀具有放射性后
+Dialogue: 0,0:05:40.75,0:05:42.96,CHN,,0,0,0,,Henri Becquerel发现铀具有放射性后
 Dialogue: 0,0:05:42.96,0:05:45.28,ENG,,0,0,0,,scientists sought a way to measure it.
 Dialogue: 0,0:05:42.96,0:05:45.28,CHN,,0,0,0,,科学家们开始寻找测量它的方法
 Dialogue: 0,0:05:45.28,0:05:48.23,ENG,,0,0,0,,How radioactive were different materials?
@@ -295,13 +295,13 @@ Dialogue: 0,0:06:11.44,0:06:13.73,CHN,,0,0,0,,电离辐射的强度越高
 Dialogue: 0,0:06:13.73,0:06:16.63,ENG,,0,0,0,,the faster the device discharges.
 Dialogue: 0,0:06:13.73,0:06:16.63,CHN,,0,0,0,,静电计放电就越快
 Dialogue: 0,0:06:16.63,0:06:19.78,ENG,,0,0,0,,In 1910, Theodore Wolf took his electrometer
-Dialogue: 0,0:06:16.63,0:06:19.78,CHN,,0,0,0,,1910 年，Theodore Wolf 带着他的静电计
+Dialogue: 0,0:06:16.63,0:06:19.78,CHN,,0,0,0,,1910年，Theodore Wolf带着他的静电计
 Dialogue: 0,0:06:19.78,0:06:21.73,ENG,,0,0,0,,to the top of the Eiffel Tower.
 Dialogue: 0,0:06:19.78,0:06:21.73,CHN,,0,0,0,,来到了艾菲尔铁塔的顶端
 Dialogue: 0,0:06:21.73,0:06:23.91,ENG,,0,0,0,,Since radioactivity was found in the soil
 Dialogue: 0,0:06:21.73,0:06:23.91,CHN,,0,0,0,,由于在地球的土壤和岩石中发现了放射性
 Dialogue: 0,0:06:23.91,0:06:27.30,ENG,,0,0,0,,and rocks of earth, he expected that 300 meters up,
-Dialogue: 0,0:06:23.91,0:06:27.30,CHN,,0,0,0,,他认为在距离地表 300 米高的地方
+Dialogue: 0,0:06:23.91,0:06:27.30,CHN,,0,0,0,,他认为在距离地表300米高的地方
 Dialogue: 0,0:06:27.30,0:06:29.74,ENG,,0,0,0,,the radiation would be just a few percent
 Dialogue: 0,0:06:27.30,0:06:29.74,CHN,,0,0,0,,那里的放射性
 Dialogue: 0,0:06:29.74,0:06:31.48,ENG,,0,0,0,,of the ground radiation.
@@ -309,7 +309,7 @@ Dialogue: 0,0:06:29.74,0:06:31.48,CHN,,0,0,0,,应该只有地表的百分之几
 Dialogue: 0,0:06:31.48,0:06:34.92,ENG,,0,0,0,,Instead he found only a slight decrease.
 Dialogue: 0,0:06:31.48,0:06:34.92,CHN,,0,0,0,,恰恰相反，他只观测到了轻微的下降
 Dialogue: 0,0:06:35.82,0:06:38.67,ENG,,0,0,0,,In 1911, Austrian physicist Victor Hess
-Dialogue: 0,0:06:35.82,0:06:38.67,CHN,,0,0,0,,1911 年，奥地利物理学家 Victor Hess
+Dialogue: 0,0:06:35.82,0:06:38.67,CHN,,0,0,0,,1911年，奥地利物理学家Victor Hess
 Dialogue: 0,0:06:38.67,0:06:41.06,ENG,,0,0,0,,decided to take this experiment further.
 Dialogue: 0,0:06:38.67,0:06:41.06,CHN,,0,0,0,,决定进一步进行这项实验
 Dialogue: 0,0:06:41.06,0:06:42.04,ENG,,0,0,0,,Literally.
@@ -321,9 +321,9 @@ Dialogue: 0,0:06:44.37,0:06:46.20,CHN,,0,0,0,,氢气球的篮子里
 Dialogue: 0,0:06:46.20,0:06:47.37,ENG,,0,0,0,,In his first two flights,
 Dialogue: 0,0:06:46.20,0:06:47.37,CHN,,0,0,0,,在他的前两次飞行中
 Dialogue: 0,0:06:47.37,0:06:49.63,ENG,,0,0,0,,he observed the same thing as Wolf.
-Dialogue: 0,0:06:47.37,0:06:49.63,CHN,,0,0,0,,他观测到了与 Wolf 相同的结果
+Dialogue: 0,0:06:47.37,0:06:49.63,CHN,,0,0,0,,他观测到了与Wolf相同的结果
 Dialogue: 0,0:06:49.63,0:06:52.20,ENG,,0,0,0,,Up to an altitude of 1100 meters,
-Dialogue: 0,0:06:49.63,0:06:52.20,CHN,,0,0,0,,在高达 1100 米的地方
+Dialogue: 0,0:06:49.63,0:06:52.20,CHN,,0,0,0,,在高达1100米的地方
 Dialogue: 0,0:06:52.20,0:06:55.64,ENG,,0,0,0,,both trips revealed no fundamental change in radiation
 Dialogue: 0,0:06:52.20,0:06:55.64,CHN,,0,0,0,,两趟观测都显示
 Dialogue: 0,0:06:55.64,0:06:58.53,ENG,,0,0,0,,compared to the values observed on the ground.
@@ -331,7 +331,7 @@ Dialogue: 0,0:06:55.64,0:06:58.53,CHN,,0,0,0,,与地表相比辐射根本没有�
 Dialogue: 0,0:06:58.53,0:07:01.55,ENG,,0,0,0,,But the next year, he conducted seven balloon flights
 Dialogue: 0,0:06:58.53,0:07:01.55,CHN,,0,0,0,,但是第二年，他进行了七次气球飞行
 Dialogue: 0,0:07:01.55,0:07:04.83,ENG,,0,0,0,,up to an altitude of 5,200 meters.
-Dialogue: 0,0:07:01.55,0:07:04.83,CHN,,0,0,0,,升至 5200 米的 高度
+Dialogue: 0,0:07:01.55,0:07:04.83,CHN,,0,0,0,,升至5200米的高度
 Dialogue: 0,0:07:04.83,0:07:08.41,ENG,,0,0,0,,And here he discovered something remarkable.
 Dialogue: 0,0:07:04.83,0:07:08.41,CHN,,0,0,0,,在这里，他发现了一些了不得的东西
 Dialogue: 0,0:07:08.41,0:07:10.90,ENG,,0,0,0,,While there was an initial drop in radiation
@@ -353,7 +353,7 @@ Dialogue: 0,0:07:26.11,0:07:30.35,CHN,,0,0,0,,辐射似乎... 不是来自地球
 Dialogue: 0,0:07:30.35,0:07:31.70,ENG,,0,0,0,,but from the sky.
 Dialogue: 0,0:07:30.35,0:07:31.70,CHN,,0,0,0,,而是来自天空
 Dialogue: 0,0:07:32.91,0:07:34.90,ENG,,0,0,0,,Hess scheduled one of his balloon flights
-Dialogue: 0,0:07:32.91,0:07:34.90,CHN,,0,0,0,,Hess 在日食期间
+Dialogue: 0,0:07:32.91,0:07:34.90,CHN,,0,0,0,,Hess在日食期间
 Dialogue: 0,0:07:34.90,0:07:36.82,ENG,,0,0,0,,during a solar eclipse.
 Dialogue: 0,0:07:34.90,0:07:36.82,CHN,,0,0,0,,安排了一次气球飞行
 Dialogue: 0,0:07:36.82,0:07:38.97,ENG,,0,0,0,,And as the moon passed in front of the sun,
@@ -375,7 +375,7 @@ Dialogue: 0,0:07:53.25,0:07:55.70,CHN,,0,0,0,,我们得出结论：即使部分�
 Dialogue: 0,0:07:55.70,0:07:59.81,ENG,,0,0,0,,should be of cosmic origin, it hardly emanates from the sun.
 Dialogue: 0,0:07:55.70,0:07:59.81,CHN,,0,0,0,,它也几乎不来自于太阳
 Dialogue: 0,0:07:59.81,0:08:02.88,ENG,,0,0,0,,Victor Hess had discovered cosmic rays.
-Dialogue: 0,0:07:59.81,0:08:02.88,CHN,,0,0,0,,Victor Hess 发现了宇宙射线
+Dialogue: 0,0:07:59.81,0:08:02.88,CHN,,0,0,0,,Victor Hess发现了宇宙射线
 Dialogue: 0,0:08:02.88,0:08:06.46,ENG,,0,0,0,,High energy radiation from space.
 Dialogue: 0,0:08:02.88,0:08:06.46,CHN,,0,0,0,,来自太空的高能辐射
 Dialogue: 0,0:08:06.46,0:08:08.28,ENG,,0,0,0,,But what were these rays exactly
