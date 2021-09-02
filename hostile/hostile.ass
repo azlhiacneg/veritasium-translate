@@ -194,7 +194,7 @@ Dialogue: 0,0:03:55.13,0:03:59.48,CHN,,0,0,0,,然后进入英特尔芯片的陶�
 Dialogue: 0,0:03:59.48,0:04:02.00,ENG,,0,0,0,,Intel scientists investigating the problem found that
 Dialogue: 0,0:03:59.48,0:04:02.00,CHN,,0,0,0,,调查这个问题的英特尔科学家发现
 Dialogue: 0,0:04:02.00,0:04:04.80,ENG,,0,0,0,,even trace amounts of uranium and thorium in the ceramic
-Dialogue: 0,0:04:02.00,0:04:04.80,CHN,,0,0,0,,即便是陶瓷中微量的铀和钍
+Dialogue: 0,0:04:02.00,0:04:04.80,CHN,,0,0,0,,即便是陶瓷中痕量的铀和钍
 Dialogue: 0,0:04:04.80,0:04:07.73,ENG,,0,0,0,,were sufficient to cause problems.
 Dialogue: 0,0:04:04.80,0:04:07.73,CHN,,0,0,0,,也足以引起问题
 Dialogue: 0,0:04:07.73,0:04:10.40,ENG,,0,0,0,,In their DRAM, memory was stored as the presence
@@ -249,12 +249,12 @@ Dialogue: 0,0:05:14.14,0:05:15.65,ENG,,0,0,0,,Before the paper was published,
 Dialogue: 0,0:05:14.14,0:05:15.65,CHN,,0,0,0,,在论文被发表前
 Dialogue: 0,0:05:15.65,0:05:18.28,ENG,,0,0,0,,it was widely circulated in the industry.
 Dialogue: 0,0:05:15.65,0:05:18.28,CHN,,0,0,0,,它们已经在业内广为流传
-Dialogue: 0,0:05:18.28,0:05:20.69,ENG,,0,0,0,,And as a result, chip manufacturers
-Dialogue: 0,0:05:18.28,0:05:20.69,CHN,,0,0,0,,结果就是
-Dialogue: 0,0:05:20.69,0:05:23.47,ENG,,0,0,0,,were a lot more careful to avoid radioactive materials
-Dialogue: 0,0:05:20.69,0:05:23.47,CHN,,0,0,0,,芯片制造商在生产和封装芯片时
+Dialogue: 0,0:05:18.28,0:05:22.20,ENG,,0,0,0,,And as a result, chip manufacturers were a lot more careful
+Dialogue: 0,0:05:18.28,0:05:22.20,CHN,,0,0,0,,这让芯片制造商变得更加谨慎
+Dialogue: 0,0:05:22.20,0:05:23.47,ENG,,0,0,0,,to avoid radioactive materials
+Dialogue: 0,0:05:22.20,0:05:23.47,CHN,,0,0,0,,以免在生产和封装芯片时
 Dialogue: 0,0:05:23.47,0:05:26.30,ENG,,0,0,0,,when producing their microchips and packaging.
-Dialogue: 0,0:05:23.47,0:05:26.30,CHN,,0,0,0,,会更加谨慎地避开带有放射性的原料
+Dialogue: 0,0:05:23.47,0:05:26.30,CHN,,0,0,0,,使用了带有放射性的原料
 Dialogue: 0,0:05:26.30,0:05:28.53,ENG,,0,0,0,,Therefore, the bit flip that gave Maria Vindevogel
 Dialogue: 0,0:05:26.30,0:05:28.53,CHN,,0,0,0,,因此，让玛丽亚·温德沃格尔获得
 Dialogue: 0,0:05:28.53,0:05:31.38,ENG,,0,0,0,,4,096 extra votes
@@ -296,50 +296,48 @@ Dialogue: 0,0:06:16.63,0:06:19.78,ENG,,0,0,0,,In 1910, Theodore Wolf took his el
 Dialogue: 0,0:06:16.63,0:06:19.78,CHN,,0,0,0,,1910年，西奥多·沃尔夫带着他的静电计
 Dialogue: 0,0:06:19.78,0:06:21.73,ENG,,0,0,0,,to the top of the Eiffel Tower.
 Dialogue: 0,0:06:19.78,0:06:21.73,CHN,,0,0,0,,来到了艾菲尔铁塔的顶端
-Dialogue: 0,0:06:21.73,0:06:23.91,ENG,,0,0,0,,Since radioactivity was found in the soil
-Dialogue: 0,0:06:21.73,0:06:23.91,CHN,,0,0,0,,由于在地球的土壤和岩石中发现了放射性
-Dialogue: 0,0:06:23.91,0:06:27.30,ENG,,0,0,0,,and rocks of earth, he expected that 300 meters up,
-Dialogue: 0,0:06:23.91,0:06:27.30,CHN,,0,0,0,,他认为在距离地表300米高的地方
+Dialogue: 0,0:06:21.73,0:06:24.60,ENG,,0,0,0,,Since radioactivity was found in the soil and rocks of earth,
+Dialogue: 0,0:06:21.73,0:06:24.60,CHN,,0,0,0,,由于人们已在地球的土壤和岩石中  发现了放射性
+Dialogue: 0,0:06:24.60,0:06:27.30,ENG,,0,0,0,,he expected that 300 meters up,
+Dialogue: 0,0:06:24.60,0:06:27.30,CHN,,0,0,0,,他认为在距离地表300米高的地方
 Dialogue: 0,0:06:27.30,0:06:29.74,ENG,,0,0,0,,the radiation would be just a few percent
 Dialogue: 0,0:06:27.30,0:06:29.74,CHN,,0,0,0,,那里的放射性
 Dialogue: 0,0:06:29.74,0:06:31.48,ENG,,0,0,0,,of the ground radiation.
 Dialogue: 0,0:06:29.74,0:06:31.48,CHN,,0,0,0,,应该只有地表的百分之几
 Dialogue: 0,0:06:31.48,0:06:34.92,ENG,,0,0,0,,Instead he found only a slight decrease.
-Dialogue: 0,0:06:31.48,0:06:34.92,CHN,,0,0,0,,恰恰相反，他只观测到了轻微的下降
+Dialogue: 0,0:06:31.48,0:06:34.92,CHN,,0,0,0,,然而  他却仅观测到了轻微的下降
 Dialogue: 0,0:06:35.82,0:06:38.67,ENG,,0,0,0,,In 1911, Austrian physicist Victor Hess
-Dialogue: 0,0:06:35.82,0:06:38.67,CHN,,0,0,0,,1911年，奥地利物理学家维克托·赫斯
+Dialogue: 0,0:06:35.82,0:06:38.67,CHN,,0,0,0,,1911年  奥地利物理学家维克托·赫斯
 Dialogue: 0,0:06:38.67,0:06:41.06,ENG,,0,0,0,,decided to take this experiment further.
-Dialogue: 0,0:06:38.67,0:06:41.06,CHN,,0,0,0,,决定进一步进行这项实验
+Dialogue: 0,0:06:38.67,0:06:41.06,CHN,,0,0,0,,决定走得更远
 Dialogue: 0,0:06:41.06,0:06:42.04,ENG,,0,0,0,,Literally.
-Dialogue: 0,0:06:41.06,0:06:42.04,CHN,,0,0,0,,按照之前的做法
-Dialogue: 0,0:06:42.04,0:06:44.37,ENG,,0,0,0,,He loaded electric scopes into the basket
-Dialogue: 0,0:06:42.04,0:06:44.37,CHN,,0,0,0,,他把电镜装进
-Dialogue: 0,0:06:44.37,0:06:46.20,ENG,,0,0,0,,of a hydrogen balloon.
-Dialogue: 0,0:06:44.37,0:06:46.20,CHN,,0,0,0,,氢气球的篮子里
+Dialogue: 0,0:06:41.06,0:06:42.04,CHN,,0,0,0,,字面意思的“更远”
+Dialogue: 0,0:06:42.04,0:06:46.20,ENG,,0,0,0,,He loaded electric scopes into the basket of a hydrogen balloon.
+Dialogue: 0,0:06:42.04,0:06:46.20,CHN,,0,0,0,,他把电镜装进氢气球的篮子里
 Dialogue: 0,0:06:46.20,0:06:47.37,ENG,,0,0,0,,In his first two flights,
 Dialogue: 0,0:06:46.20,0:06:47.37,CHN,,0,0,0,,在他的前两次飞行中
 Dialogue: 0,0:06:47.37,0:06:49.63,ENG,,0,0,0,,he observed the same thing as Wolf.
-Dialogue: 0,0:06:47.37,0:06:49.63,CHN,,0,0,0,,他观测到了与沃尔夫相同的结果
+Dialogue: 0,0:06:47.37,0:06:49.63,CHN,,0,0,0,,他观测到的结果与沃尔夫相同
 Dialogue: 0,0:06:49.63,0:06:52.20,ENG,,0,0,0,,Up to an altitude of 1100 meters,
 Dialogue: 0,0:06:49.63,0:06:52.20,CHN,,0,0,0,,在高达1100米的地方
 Dialogue: 0,0:06:52.20,0:06:55.64,ENG,,0,0,0,,both trips revealed no fundamental change in radiation
-Dialogue: 0,0:06:52.20,0:06:55.64,CHN,,0,0,0,,两趟观测都显示
+Dialogue: 0,0:06:52.20,0:06:55.64,CHN,,0,0,0,,两趟观测都显示 与地表相比
 Dialogue: 0,0:06:55.64,0:06:58.53,ENG,,0,0,0,,compared to the values observed on the ground.
-Dialogue: 0,0:06:55.64,0:06:58.53,CHN,,0,0,0,,与地表相比辐射根本没有变化
+Dialogue: 0,0:06:55.64,0:06:58.53,CHN,,0,0,0,,辐射没有本质变化
 Dialogue: 0,0:06:58.53,0:07:01.55,ENG,,0,0,0,,But the next year, he conducted seven balloon flights
 Dialogue: 0,0:06:58.53,0:07:01.55,CHN,,0,0,0,,但是第二年，他进行了七次气球飞行
 Dialogue: 0,0:07:01.55,0:07:04.83,ENG,,0,0,0,,up to an altitude of 5,200 meters.
 Dialogue: 0,0:07:01.55,0:07:04.83,CHN,,0,0,0,,升至5200米的高度
 Dialogue: 0,0:07:04.83,0:07:08.41,ENG,,0,0,0,,And here he discovered something remarkable.
-Dialogue: 0,0:07:04.83,0:07:08.41,CHN,,0,0,0,,在这里，他发现了一些了不得的东西
+Dialogue: 0,0:07:04.83,0:07:08.41,CHN,,0,0,0,,他在这里发现了一些了不得的东西
 Dialogue: 0,0:07:08.41,0:07:10.90,ENG,,0,0,0,,While there was an initial drop in radiation
 Dialogue: 0,0:07:08.41,0:07:10.90,CHN,,0,0,0,,虽然在最初的几百米内
 Dialogue: 0,0:07:10.90,0:07:13.06,ENG,,0,0,0,,for the first several hundred meters,
 Dialogue: 0,0:07:10.90,0:07:13.06,CHN,,0,0,0,,辐射开始下降
-Dialogue: 0,0:07:13.06,0:07:16.55,ENG,,0,0,0,,above one kilometer or so the level increased
-Dialogue: 0,0:07:13.06,0:07:16.55,CHN,,0,0,0,,但超过一千米左右
-Dialogue: 0,0:07:16.55,0:07:18.92,ENG,,0,0,0,,with increasing altitude.
-Dialogue: 0,0:07:16.55,0:07:18.92,CHN,,0,0,0,,辐射水平随着高度的增加而增加
+Dialogue: 0,0:07:13.06,0:07:16.00,ENG,,0,0,0,,above one kilometer or so
+Dialogue: 0,0:07:13.06,0:07:16.00,CHN,,0,0,0,,但超过一千米左右
+Dialogue: 0,0:07:16.00,0:07:18.92,ENG,,0,0,0,,the level increased with increasing altitude.
+Dialogue: 0,0:07:16.00,0:07:18.92,CHN,,0,0,0,,辐射水平随着高度的增加而增加
 Dialogue: 0,0:07:18.92,0:07:20.56,ENG,,0,0,0,,At his maximum height,
 Dialogue: 0,0:07:18.92,0:07:20.56,CHN,,0,0,0,,在他所能达到的最大高度
 Dialogue: 0,0:07:20.56,0:07:23.85,ENG,,0,0,0,,the level of radiation was several times greater
@@ -357,9 +355,9 @@ Dialogue: 0,0:07:34.90,0:07:36.82,CHN,,0,0,0,,安排了一次气球飞行
 Dialogue: 0,0:07:36.82,0:07:38.97,ENG,,0,0,0,,And as the moon passed in front of the sun,
 Dialogue: 0,0:07:36.82,0:07:38.97,CHN,,0,0,0,,当月球从太阳前经过时
 Dialogue: 0,0:07:38.97,0:07:41.74,ENG,,0,0,0,,he carefully watched his instruments.
-Dialogue: 0,0:07:38.97,0:07:41.74,CHN,,0,0,0,,他仔细观察了他的仪器
+Dialogue: 0,0:07:38.97,0:07:41.74,CHN,,0,0,0,,他认真地盯着他的仪器
 Dialogue: 0,0:07:41.74,0:07:44.08,ENG,,0,0,0,,But the readings were unaffected.
-Dialogue: 0,0:07:41.74,0:07:44.08,CHN,,0,0,0,,但读数并不受影响
+Dialogue: 0,0:07:41.74,0:07:44.08,CHN,,0,0,0,,但读数并没有受影响
 Dialogue: 0,0:07:44.08,0:07:46.13,ENG,,0,0,0,,Even with the sun half covered,
 Dialogue: 0,0:07:44.08,0:07:46.13,CHN,,0,0,0,,即使太阳被遮住了一半
 Dialogue: 0,0:07:46.13,0:07:49.06,ENG,,0,0,0,,the level of radiation was the same.
@@ -368,10 +366,12 @@ Dialogue: 0,0:07:49.06,0:07:51.14,ENG,,0,0,0,,Since no influence of the eclipse
 Dialogue: 0,0:07:49.06,0:07:51.14,CHN,,0,0,0,,由于没有观测到
 Dialogue: 0,0:07:51.14,0:07:53.25,ENG,,0,0,0,,on the penetrating radiation was noted,
 Dialogue: 0,0:07:51.14,0:07:53.25,CHN,,0,0,0,,日食对辐射的影响
-Dialogue: 0,0:07:53.25,0:07:55.70,ENG,,0,0,0,,we conclude that even if a part of the radiation
-Dialogue: 0,0:07:53.25,0:07:55.70,CHN,,0,0,0,,我们得出结论：即使部分辐射来自宇宙
-Dialogue: 0,0:07:55.70,0:07:59.81,ENG,,0,0,0,,should be of cosmic origin, it hardly emanates from the sun.
-Dialogue: 0,0:07:55.70,0:07:59.81,CHN,,0,0,0,,它也几乎不来自于太阳
+Dialogue: 0,0:07:53.25,0:07:53.90,ENG,,0,0,0,,we conclude that
+Dialogue: 0,0:07:53.25,0:07:53.90,CHN,,0,0,0,,我们得出结论
+Dialogue: 0,0:07:53.90,0:07:57.70,ENG,,0,0,0,,even if a part of the radiation should be of cosmic origin,
+Dialogue: 0,0:07:53.90,0:07:57.70,CHN,,0,0,0,,即使那部分辐射的来源是宇宙
+Dialogue: 0,0:07:57.70,0:07:59.81,ENG,,0,0,0,,it hardly emanates from the sun.
+Dialogue: 0,0:07:57.70,0:07:59.81,CHN,,0,0,0,,它也几乎不来自于太阳
 Dialogue: 0,0:07:59.81,0:08:02.88,ENG,,0,0,0,,Victor Hess had discovered cosmic rays.
 Dialogue: 0,0:07:59.81,0:08:02.88,CHN,,0,0,0,,维克托·赫斯发现了宇宙射线
 Dialogue: 0,0:08:02.88,0:08:06.46,ENG,,0,0,0,,High energy radiation from space.
