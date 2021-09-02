@@ -802,17 +802,17 @@ Dialogue: 0,0:17:56.26,0:18:00.38,CHN,,0,0,0,,分别出现了 161 次比特位�
 Dialogue: 0,0:18:01.70,0:18:05.55,ENG,,0,0,0,,Above the atmosphere, cosmic rays are so energetic
 Dialogue: 0,0:18:01.70,0:18:05.55,CHN,,0,0,0,,在大气层以外，宇宙射线能量更大
 Dialogue: 0,0:18:05.55,0:18:08.07,ENG,,0,0,0,,sometimes you can even see them.
-Dialogue: 0,0:18:05.55,0:18:08.07,CHN,,0,0,0,,有时候你能直接看见它们
+Dialogue: 0,0:18:05.55,0:18:08.07,CHN,,0,0,0,,你有时候能直接看见它们
 Dialogue: 0,0:18:08.07,0:18:10.07,ENG,,0,0,0,,- Once in a while you have your eyes closed
-Dialogue: 0,0:18:08.07,0:18:10.07,CHN,,0,0,0,,当你闭上眼睛但没有睡着的时候
+Dialogue: 0,0:18:08.07,0:18:10.07,CHN,,0,0,0,,睡觉前当你闭上眼睛
 Dialogue: 0,0:18:10.07,0:18:11.45,ENG,,0,0,0,,and you're not asleep yet.
-Dialogue: 0,0:18:10.07,0:18:11.45,CHN,,0,0,0,,当你闭上眼睛但没有睡着的时候
+Dialogue: 0,0:18:10.07,0:18:11.45,CHN,,0,0,0,,睡觉前当你闭上眼睛
 Dialogue: 0,0:18:11.45,0:18:14.00,ENG,,0,0,0,,And if you wait a little while,
 Dialogue: 0,0:18:11.45,0:18:14.00,CHN,,0,0,0,,等上一会儿
 Dialogue: 0,0:18:15.37,0:18:18.69,ENG,,0,0,0,,you occasionally will see a flash of light.
 Dialogue: 0,0:18:15.37,0:18:18.69,CHN,,0,0,0,,你偶尔能“看到”闪光
 Dialogue: 0,0:18:18.69,0:18:21.04,ENG,,0,0,0,,And we think it is heavy particles
-Dialogue: 0,0:18:18.69,0:18:21.04,CHN,,0,0,0,,这应该是来自于重粒子
+Dialogue: 0,0:18:18.69,0:18:21.04,CHN,,0,0,0,,这应该是重粒子
 Dialogue: 0,0:18:21.04,0:18:24.80,ENG,,0,0,0,,or individual bursts of energy coming from radiation
 Dialogue: 0,0:18:21.04,0:18:24.80,CHN,,0,0,0,,即辐射中携带能量的个体
 Dialogue: 0,0:18:24.80,0:18:27.02,ENG,,0,0,0,,that are either going through the eyeball itself
@@ -828,9 +828,9 @@ Dialogue: 0,0:18:35.33,0:18:38.00,CHN,,0,0,0,,记录下辐射穿过的瞬间
 Dialogue: 0,0:18:38.00,0:18:39.16,ENG,,0,0,0,,in one of your eyes,
 Dialogue: 0,0:18:38.00,0:18:39.16,CHN,,0,0,0,,
 Dialogue: 0,0:18:39.16,0:18:42.13,ENG,,0,0,0,,just to remind you that you are subject to the radiation
-Dialogue: 0,0:18:39.16,0:18:42.13,CHN,,0,0,0,,这也是在提醒你，除了太阳
+Dialogue: 0,0:18:39.16,0:18:42.13,CHN,,0,0,0,,这也是在提醒你，除了太阳以外
 Dialogue: 0,0:18:42.13,0:18:46.01,ENG,,0,0,0,,of not only our sun, but every star of the universe,
-Dialogue: 0,0:18:42.13,0:18:46.01,CHN,,0,0,0,,宇宙中每一颗星星的辐射
+Dialogue: 0,0:18:42.13,0:18:46.01,CHN,,0,0,0,,来自宇宙中每一颗星星的辐射
 Dialogue: 0,0:18:46.01,0:18:48.95,ENG,,0,0,0,,that is radiating at you.
 Dialogue: 0,0:18:46.01,0:18:48.95,CHN,,0,0,0,,都有可能到达你这里
 Dialogue: 0,0:18:48.95,0:18:50.87,ENG,,0,0,0,,I picture back to the first astronauts
@@ -936,7 +936,7 @@ Dialogue: 0,0:20:48.91,0:20:52.60,CHN,,0,0,0,,减少电离辐射对太阳系的�
 Dialogue: 0,0:20:52.60,0:20:55.66,ENG,,0,0,0,,But the sun has an 11 year activity cycle.
 Dialogue: 0,0:20:52.60,0:20:55.66,CHN,,0,0,0,,不过太阳的活跃周期是11年
 Dialogue: 0,0:20:55.66,0:20:58.30,ENG,,0,0,0,,So this protection fluctuates.
-Dialogue: 0,0:20:55.66,0:20:58.30,CHN,,0,0,0,,所以这种保护效力是波动的
+Dialogue: 0,0:20:55.66,0:20:58.30,CHN,,0,0,0,,所以这种保护效力是不稳定的
 Dialogue: 0,0:20:58.30,0:21:00.93,ENG,,0,0,0,,The flux of cosmic rays on earth is much lower
 Dialogue: 0,0:20:58.30,0:21:00.93,CHN,,0,0,0,,当太阳活跃的时候，到达地球的宇宙射线流量明显更少
 Dialogue: 0,0:21:00.93,0:21:03.84,ENG,,0,0,0,,when the sun is active than when it's dormant.
@@ -950,13 +950,13 @@ Dialogue: 0,0:21:10.61,0:21:13.26,CHN,,0,0,0,,它翻转的不再是电子设备�
 Dialogue: 0,0:21:13.26,0:21:16.40,ENG,,0,0,0,,but in the genetic codes of living organisms,
 Dialogue: 0,0:21:13.26,0:21:16.40,CHN,,0,0,0,,而是生物的遗传密码
 Dialogue: 0,0:21:16.40,0:21:17.98,ENG,,0,0,0,,providing some of the variation
-Dialogue: 0,0:21:16.40,0:21:17.98,CHN,,0,0,0,,可能诞生了通过自然选择无法产生的突变
+Dialogue: 0,0:21:16.40,0:21:17.98,CHN,,0,0,0,,从此诞生了通过自然选择无法产生的突变
 Dialogue: 0,0:21:17.98,0:21:20.96,ENG,,0,0,0,,on which natural selection acts.
-Dialogue: 0,0:21:17.98,0:21:20.96,CHN,,0,0,0,,可能诞生了通过自然选择无法产生的突变
+Dialogue: 0,0:21:17.98,0:21:20.96,CHN,,0,0,0,,从此诞生了通过自然选择无法产生的突变
 Dialogue: 0,0:21:20.96,0:21:23.54,ENG,,0,0,0,,Maria Vindevogel is now a member
-Dialogue: 0,0:21:20.96,0:21:23.54,CHN,,0,0,0,,Maria Vindevogel现在是比利时众议院的议员了
+Dialogue: 0,0:21:20.96,0:21:23.54,CHN,,0,0,0,,玛丽亚·温德沃格尔现在是比利时众议院的议员了
 Dialogue: 0,0:21:23.54,0:21:26.16,ENG,,0,0,0,,of the Belgium Chamber of Representatives,
-Dialogue: 0,0:21:23.54,0:21:26.16,CHN,,0,0,0,,Maria Vindevogel现在是比利时众议院的议员了
+Dialogue: 0,0:21:23.54,0:21:26.16,CHN,,0,0,0,,玛丽亚·温德沃格尔现在是比利时众议院的议员了
 Dialogue: 0,0:21:26.16,0:21:29.72,ENG,,0,0,0,,elected by people, not a particle,
 Dialogue: 0,0:21:26.16,0:21:29.72,CHN,,0,0,0,,这次是由人民选出来的，而非粒子
 Dialogue: 0,0:21:29.72,0:21:33.42,ENG,,0,0,0,,but her story is a reminder of the zillions of particles
