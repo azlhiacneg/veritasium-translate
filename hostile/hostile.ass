@@ -381,139 +381,131 @@ Dialogue: 0,0:08:06.46,0:08:08.28,CHN,,0,0,0,,但是这些射线究竟是什么�
 Dialogue: 0,0:08:08.28,0:08:10.86,ENG,,0,0,0,,and where were they coming from?
 Dialogue: 0,0:08:08.28,0:08:10.86,CHN,,0,0,0,,它们又从哪来呢
 Dialogue: 0,0:08:10.86,0:08:13.75,ENG,,0,0,0,,Well, today we know they aren't electromagnetic rays
-Dialogue: 0,0:08:10.86,0:08:13.75,CHN,,0,0,0,,
+Dialogue: 0,0:08:10.86,0:08:13.75,CHN,,0,0,0,,不像之前人们认为它们是电磁波
 Dialogue: 0,0:08:13.75,0:08:16.24,ENG,,0,0,0,,as many suspected, but particles.
-Dialogue: 0,0:08:13.75,0:08:16.24,CHN,,0,0,0,,
+Dialogue: 0,0:08:13.75,0:08:16.24,CHN,,0,0,0,,今天我们知道它们是粒子
 Dialogue: 0,0:08:16.24,0:08:18.85,ENG,,0,0,0,,Around 90% are protons,
-Dialogue: 0,0:08:16.24,0:08:18.85,CHN,,0,0,0,,
+Dialogue: 0,0:08:16.24,0:08:18.85,CHN,,0,0,0,,其中大约90%是质子
 Dialogue: 0,0:08:18.85,0:08:23.75,ENG,,0,0,0,,9% are helium nuclei, and 1% are heavier nuclei.
-Dialogue: 0,0:08:18.85,0:08:23.75,CHN,,0,0,0,,
+Dialogue: 0,0:08:18.85,0:08:23.75,CHN,,0,0,0,,9%是氦核 1%是更重的核素
+Dialogue: 0,0:08:18.85,0:08:23.75,CHN,,0,0,0,,{\an7}  比氢氦重的都是金属
 Dialogue: 0,0:08:23.75,0:08:25.87,ENG,,0,0,0,,Some of them are from the sun,
-Dialogue: 0,0:08:23.75,0:08:25.87,CHN,,0,0,0,,
+Dialogue: 0,0:08:23.75,0:08:25.87,CHN,,0,0,0,,它们当中有些来自太阳
 Dialogue: 0,0:08:25.87,0:08:28.63,ENG,,0,0,0,,but they have comparatively low energy.
-Dialogue: 0,0:08:25.87,0:08:28.63,CHN,,0,0,0,,
+Dialogue: 0,0:08:25.87,0:08:28.63,CHN,,0,0,0,,具有的能量相对较低
 Dialogue: 0,0:08:28.63,0:08:31.22,ENG,,0,0,0,,High energy cosmic rays moving very close
-Dialogue: 0,0:08:28.63,0:08:31.22,CHN,,0,0,0,,
+Dialogue: 0,0:08:28.63,0:08:31.22,CHN,,0,0,0,,高能宇宙射线被银河系和其他星系的
 Dialogue: 0,0:08:31.22,0:08:36.13,ENG,,0,0,0,,to the speed of light come from exploding stars, supernova
-Dialogue: 0,0:08:31.22,0:08:36.13,CHN,,0,0,0,,
+Dialogue: 0,0:08:31.22,0:08:36.13,CHN,,0,0,0,,恒星爆炸 超新星事件
 Dialogue: 0,0:08:36.13,0:08:39.75,ENG,,0,0,0,,in our own galaxy and in others.
-Dialogue: 0,0:08:36.13,0:08:39.75,CHN,,0,0,0,,
+Dialogue: 0,0:08:36.13,0:08:39.75,CHN,,0,0,0,,加速到接近光速
 Dialogue: 0,0:08:39.75,0:08:41.40,ENG,,0,0,0,,And the highest energy particles
-Dialogue: 0,0:08:39.75,0:08:41.40,CHN,,0,0,0,,
+Dialogue: 0,0:08:39.75,0:08:41.40,CHN,,0,0,0,,而能量最高的粒子
 Dialogue: 0,0:08:41.40,0:08:43.50,ENG,,0,0,0,,are thought to come from black holes,
-Dialogue: 0,0:08:41.40,0:08:43.50,CHN,,0,0,0,,
-Dialogue: 0,0:08:43.50,0:08:45.54,ENG,,0,0,0,,including the super massive black holes
-Dialogue: 0,0:08:43.50,0:08:45.54,CHN,,0,0,0,,
-Dialogue: 0,0:08:45.54,0:08:47.73,ENG,,0,0,0,,at the centers of galaxies.
-Dialogue: 0,0:08:45.54,0:08:47.73,CHN,,0,0,0,,
+Dialogue: 0,0:08:41.40,0:08:43.50,CHN,,0,0,0,,则被认为来自黑洞
+Dialogue: 0,0:08:43.50,0:08:47.73,ENG,,0,0,0,,including the super massive black holes at the centers of galaxies.
+Dialogue: 0,0:08:43.50,0:08:47.73,CHN,,0,0,0,,包括星系中心的超大质量黑洞
 Dialogue: 0,0:08:47.73,0:08:49.56,ENG,,0,0,0,,But it's hard to pin down
-Dialogue: 0,0:08:47.73,0:08:49.56,CHN,,0,0,0,,
+Dialogue: 0,0:08:47.73,0:08:49.56,CHN,,0,0,0,,但是很难搞清楚
 Dialogue: 0,0:08:49.56,0:08:51.48,ENG,,0,0,0,,exactly where cosmic rays come from
-Dialogue: 0,0:08:49.56,0:08:51.48,CHN,,0,0,0,,
+Dialogue: 0,0:08:49.56,0:08:51.48,CHN,,0,0,0,,宇宙射线到底是从哪里来的
 Dialogue: 0,0:08:51.48,0:08:53.41,ENG,,0,0,0,,because as charged particles,
-Dialogue: 0,0:08:51.48,0:08:53.41,CHN,,0,0,0,,
+Dialogue: 0,0:08:51.48,0:08:53.41,CHN,,0,0,0,,因为它们是带电粒子
 Dialogue: 0,0:08:53.41,0:08:56.25,ENG,,0,0,0,,they're deflected by magnetic fields in space.
-Dialogue: 0,0:08:53.41,0:08:56.25,CHN,,0,0,0,,
+Dialogue: 0,0:08:53.41,0:08:56.25,CHN,,0,0,0,,会被空间中的磁场改变方向
 Dialogue: 0,0:08:56.25,0:08:58.84,ENG,,0,0,0,,So they can wind their way through the universe
-Dialogue: 0,0:08:56.25,0:08:58.84,CHN,,0,0,0,,
 Dialogue: 0,0:08:58.84,0:09:01.34,ENG,,0,0,0,,for billions of years.
-Dialogue: 0,0:08:58.84,0:09:01.34,CHN,,0,0,0,,
+Dialogue: 0,0:08:58.84,0:08:58.84,CHN,,0,0,0,,所以它们会在宇宙中曲折穿行数十亿年
 Dialogue: 0,0:09:01.34,0:09:05.31,ENG,,0,0,0,,A cosmic ray detected on October 15th, 1991
-Dialogue: 0,0:09:01.34,0:09:05.31,CHN,,0,0,0,,
+Dialogue: 0,0:09:01.34,0:09:05.31,CHN,,0,0,0,,1991年10月15日探测到的一条宇宙线
 Dialogue: 0,0:09:05.31,0:09:08.44,ENG,,0,0,0,,had an energy of 51 joules.
-Dialogue: 0,0:09:05.31,0:09:08.44,CHN,,0,0,0,,
+Dialogue: 0,0:09:05.31,0:09:08.44,CHN,,0,0,0,,其能量达到了51焦耳
 Dialogue: 0,0:09:08.44,0:09:10.83,ENG,,0,0,0,,That is a single subatomic particle
-Dialogue: 0,0:09:08.44,0:09:10.83,CHN,,0,0,0,,
-Dialogue: 0,0:09:10.83,0:09:13.16,ENG,,0,0,0,,with the energy of a baseball
-Dialogue: 0,0:09:10.83,0:09:13.16,CHN,,0,0,0,,
-Dialogue: 0,0:09:13.16,0:09:15.87,ENG,,0,0,0,,going a hundred kilometers per hour.
-Dialogue: 0,0:09:13.16,0:09:15.87,CHN,,0,0,0,,
+Dialogue: 0,0:09:08.44,0:09:10.83,CHN,,0,0,0,,这是一个亚原子粒子
+Dialogue: 0,0:09:10.83,0:09:15.87,ENG,,0,0,0,,with the energy of a baseball going 100 kph.
+Dialogue: 0,0:09:10.83,0:09:15.87,CHN,,0,0,0,,动能相当于一个有百公里时速的棒球
 Dialogue: 0,0:09:15.87,0:09:20.12,ENG,,0,0,0,,For obvious reasons, it was dubbed the OMG particle.
-Dialogue: 0,0:09:15.87,0:09:20.12,CHN,,0,0,0,,
+Dialogue: 0,0:09:15.87,0:09:20.12,CHN,,0,0,0,,出于很明显的原因（粒子动能极大），它被称作OMG粒子
+Dialogue: 0,0:09:15.87,0:09:20.12,CHN,,0,0,0,,{\an7} 一些参考 http://www.fourmilab.ch/documents/OhMyGodParticle/\N似乎没有正式译名
 Dialogue: 0,0:09:20.12,0:09:22.01,ENG,,0,0,0,,But primary cosmic rays like these
-Dialogue: 0,0:09:20.12,0:09:22.01,CHN,,0,0,0,,
+Dialogue: 0,0:09:20.12,0:09:22.01,CHN,,0,0,0,,但是像那样的初级宇宙线
 Dialogue: 0,0:09:22.01,0:09:24.23,ENG,,0,0,0,,don't make it down to earth's surface.
-Dialogue: 0,0:09:22.01,0:09:24.23,CHN,,0,0,0,,
+Dialogue: 0,0:09:22.01,0:09:24.23,CHN,,0,0,0,,不会到达地表
 Dialogue: 0,0:09:24.23,0:09:26.27,ENG,,0,0,0,,Instead, they collide with air molecules
-Dialogue: 0,0:09:24.23,0:09:26.27,CHN,,0,0,0,,
 Dialogue: 0,0:09:26.27,0:09:28.55,ENG,,0,0,0,,around 25 kilometers above the ground
-Dialogue: 0,0:09:26.27,0:09:28.55,CHN,,0,0,0,,
+Dialogue: 0,0:09:24.23,0:09:28.55,CHN,,0,0,0,,它们会和距地面约25km的大气中的分子碰撞
 Dialogue: 0,0:09:28.55,0:09:31.62,ENG,,0,0,0,,and create new particles like pions.
-Dialogue: 0,0:09:28.55,0:09:31.62,CHN,,0,0,0,,
+Dialogue: 0,0:09:28.55,0:09:31.62,CHN,,0,0,0,,产生新的粒子 如π介子
 Dialogue: 0,0:09:31.62,0:09:35.42,ENG,,0,0,0,,These collide and decay into other particles like neutrons,
-Dialogue: 0,0:09:31.62,0:09:35.42,CHN,,0,0,0,,
+Dialogue: 0,0:09:31.62,0:09:35.42,CHN,,0,0,0,,这些粒子再次碰撞和衰变产生其他粒子 如中子
 Dialogue: 0,0:09:35.42,0:09:40.42,ENG,,0,0,0,,protons, muons, electrons, positrons and photons,
-Dialogue: 0,0:09:35.42,0:09:40.42,CHN,,0,0,0,,
+Dialogue: 0,0:09:35.42,0:09:40.42,CHN,,0,0,0,,质子 μ子 电子 正电子 和光子
 Dialogue: 0,0:09:40.45,0:09:42.82,ENG,,0,0,0,,which in turn collide with other air molecules
-Dialogue: 0,0:09:40.45,0:09:42.82,CHN,,0,0,0,,
+Dialogue: 0,0:09:40.45,0:09:42.82,CHN,,0,0,0,,这些粒子又与其他空气分子碰撞
 Dialogue: 0,0:09:42.82,0:09:45.30,ENG,,0,0,0,,in one long cascade.
-Dialogue: 0,0:09:42.82,0:09:45.30,CHN,,0,0,0,,
+Dialogue: 0,0:09:42.82,0:09:45.30,CHN,,0,0,0,,产生级联效应
 Dialogue: 0,0:09:45.30,0:09:48.33,ENG,,0,0,0,,So from a single primary cosmic ray,
-Dialogue: 0,0:09:45.30,0:09:48.33,CHN,,0,0,0,,
+Dialogue: 0,0:09:45.30,0:09:48.33,CHN,,0,0,0,,所以从一个初级宇宙粒子
 Dialogue: 0,0:09:48.33,0:09:52.62,ENG,,0,0,0,,comes a shower of particles streaming towards the earth.
-Dialogue: 0,0:09:48.33,0:09:52.62,CHN,,0,0,0,,
+Dialogue: 0,0:09:48.33,0:09:52.62,CHN,,0,0,0,,会产生一阵向地表倾泻的粒子流
 Dialogue: 0,0:09:52.62,0:09:55.01,ENG,,0,0,0,,It is one of these particles that investigators
-Dialogue: 0,0:09:52.62,0:09:55.01,CHN,,0,0,0,,
+Dialogue: 0,0:09:52.62,0:09:55.01,CHN,,0,0,0,,人们怀疑正是这些粒子中的一个
 Dialogue: 0,0:09:55.01,0:09:58.57,ENG,,0,0,0,,suspect struck a transistor in a computer in Belgium,
-Dialogue: 0,0:09:55.01,0:09:58.57,CHN,,0,0,0,,
+Dialogue: 0,0:09:55.01,0:09:58.57,CHN,,0,0,0,,击中了比利时一台电脑上的晶体管
 Dialogue: 0,0:09:58.57,0:10:01.82,ENG,,0,0,0,,flipping the 13th bit from a zero to a one
-Dialogue: 0,0:09:58.57,0:10:01.82,CHN,,0,0,0,,
+Dialogue: 0,0:09:58.57,0:10:01.82,CHN,,0,0,0,,将第13比特从0翻转到1
 Dialogue: 0,0:10:01.82,0:10:06.76,ENG,,0,0,0,,and giving Maria Vindevogel 4,096 extra votes.
-Dialogue: 0,0:10:01.82,0:10:06.76,CHN,,0,0,0,,
+Dialogue: 0,0:10:01.82,0:10:06.76,CHN,,0,0,0,,给Maria Vindevogel增加了4096张额外选票
 Dialogue: 0,0:10:07.77,0:10:10.80,ENG,,0,0,0,,But how often do things like this happen?
-Dialogue: 0,0:10:07.77,0:10:10.80,CHN,,0,0,0,,
-Dialogue: 0,0:10:10.80,0:10:13.59,ENG,,0,0,0,,In 1911, Charles Wilson made it possible
-Dialogue: 0,0:10:10.80,0:10:13.59,CHN,,0,0,0,,
-Dialogue: 0,0:10:13.59,0:10:15.91,ENG,,0,0,0,,to see the cosmic rays all around us
-Dialogue: 0,0:10:13.59,0:10:15.91,CHN,,0,0,0,,
+Dialogue: 0,0:10:07.77,0:10:10.80,CHN,,0,0,0,,但是这些事情多久发生一次
+Dialogue: 0,0:10:10.80,0:10:12.30,ENG,,0,0,0,,In 1911, Charles Wilson
+Dialogue: 0,0:10:10.80,0:10:12.30,CHN,,0,0,0,,1911年  查尔斯威尔逊（的研究）
+Dialogue: 0,0:10:12.30,0:10:15.91,ENG,,0,0,0,,made it possible to see the cosmic rays all around us
+Dialogue: 0,0:10:12.30,0:10:15.91,CHN,,0,0,0,,让我们得以观察周围环境中的宇宙射线
 Dialogue: 0,0:10:15.91,0:10:18.27,ENG,,0,0,0,,when he perfected his cloud chamber,
-Dialogue: 0,0:10:15.91,0:10:18.27,CHN,,0,0,0,,
+Dialogue: 0,0:10:15.91,0:10:18.27,CHN,,0,0,0,,他完善了自己的云室
 Dialogue: 0,0:10:18.27,0:10:22.31,ENG,,0,0,0,,an enclosure with super saturated water or alcohol vapor.
-Dialogue: 0,0:10:18.27,0:10:22.31,CHN,,0,0,0,,
+Dialogue: 0,0:10:18.27,0:10:22.31,CHN,,0,0,0,,这是个封闭容器  里面充满了过饱和的水蒸汽或酒精蒸气
 Dialogue: 0,0:10:22.31,0:10:24.50,ENG,,0,0,0,,When a cosmic ray passes through the chamber,
-Dialogue: 0,0:10:22.31,0:10:24.50,CHN,,0,0,0,,
+Dialogue: 0,0:10:22.31,0:10:24.50,CHN,,0,0,0,,当一个宇宙线粒子穿过云室
 Dialogue: 0,0:10:24.50,0:10:27.56,ENG,,0,0,0,,it ionizes the gas causing vapor to condense
-Dialogue: 0,0:10:24.50,0:10:27.56,CHN,,0,0,0,,
+Dialogue: 0,0:10:24.50,0:10:27.56,CHN,,0,0,0,,电离气体导致蒸汽凝结
 Dialogue: 0,0:10:27.56,0:10:29.62,ENG,,0,0,0,,into tiny droplets on the ions,
-Dialogue: 0,0:10:27.56,0:10:29.62,CHN,,0,0,0,,
+Dialogue: 0,0:10:27.56,0:10:29.62,CHN,,0,0,0,,产生附着在离子上的小液滴
 Dialogue: 0,0:10:29.62,0:10:32.10,ENG,,0,0,0,,revealing the path of the particle.
-Dialogue: 0,0:10:29.62,0:10:32.10,CHN,,0,0,0,,
-Dialogue: 0,0:10:32.10,0:10:34.32,ENG,,0,0,0,,Alpha particles, helium nuclei,
-Dialogue: 0,0:10:32.10,0:10:34.32,CHN,,0,0,0,,
-Dialogue: 0,0:10:34.32,0:10:37.40,ENG,,0,0,0,,leave short thick tracks while beta particles,
-Dialogue: 0,0:10:34.32,0:10:37.40,CHN,,0,0,0,,
-Dialogue: 0,0:10:37.40,0:10:40.51,ENG,,0,0,0,,electrons leave long skinny trails.
-Dialogue: 0,0:10:37.40,0:10:40.51,CHN,,0,0,0,,
+Dialogue: 0,0:10:29.62,0:10:32.10,CHN,,0,0,0,,揭示粒子的运动路径
+Dialogue: 0,0:10:32.10,0:10:35.50,ENG,,0,0,0,,Alpha particles, helium nuclei, leave short thick tracks
+Dialogue: 0,0:10:32.10,0:10:35.50,CHN,,0,0,0,,α粒子（即氦核）会留下短而粗的轨迹
+Dialogue: 0,0:10:35.50,0:10:40.51,ENG,,0,0,0,,while beta particles, electrons leave long skinny trails.
+Dialogue: 0,0:10:35.50,0:10:40.51,CHN,,0,0,0,,而β粒子（即电子）会则留下细长的尾迹
 Dialogue: 0,0:10:40.51,0:10:43.83,ENG,,0,0,0,,In 1932, Carl Anderson identified a trail
-Dialogue: 0,0:10:40.51,0:10:43.83,CHN,,0,0,0,,
+Dialogue: 0,0:10:40.51,0:10:43.83,CHN,,0,0,0,,1932年 卡尔·安德森发现了一条特殊的轨迹
 Dialogue: 0,0:10:43.83,0:10:46.45,ENG,,0,0,0,,that looked like it was made by an electron,
-Dialogue: 0,0:10:43.83,0:10:46.45,CHN,,0,0,0,,
-Dialogue: 0,0:10:46.45,0:10:48.20,ENG,,0,0,0,,but in the applied magnetic field,
-Dialogue: 0,0:10:46.45,0:10:48.20,CHN,,0,0,0,,
-Dialogue: 0,0:10:48.20,0:10:50.50,ENG,,0,0,0,,it curved in the wrong direction.
-Dialogue: 0,0:10:48.20,0:10:50.50,CHN,,0,0,0,,
+Dialogue: 0,0:10:43.83,0:10:46.45,CHN,,0,0,0,,看似由电子产生
+Dialogue: 0,0:10:46.45,0:10:50.50,ENG,,0,0,0,,but in the applied magnetic field, it curved in the wrong direction.
+Dialogue: 0,0:10:46.45,0:10:50.50,CHN,,0,0,0,,但它在外加磁场中向相反方向偏转
 Dialogue: 0,0:10:50.50,0:10:53.28,ENG,,0,0,0,,Implying it had a positive charge.
-Dialogue: 0,0:10:50.50,0:10:53.28,CHN,,0,0,0,,
+Dialogue: 0,0:10:50.50,0:10:53.28,CHN,,0,0,0,,这说明它带有正电荷
 Dialogue: 0,0:10:53.28,0:10:57.73,ENG,,0,0,0,,Anderson had found the anti electron or positron.
-Dialogue: 0,0:10:53.28,0:10:57.73,CHN,,0,0,0,,
+Dialogue: 0,0:10:53.28,0:10:57.73,CHN,,0,0,0,,由此安德森发现了“反电子” 或曰“正电子”
 Dialogue: 0,0:10:57.73,0:11:01.26,ENG,,0,0,0,,It was the first confirmed sighting of anti-matter.
-Dialogue: 0,0:10:57.73,0:11:01.26,CHN,,0,0,0,,
+Dialogue: 0,0:10:57.73,0:11:01.26,CHN,,0,0,0,,这是人类首次发现反物质的存在
 Dialogue: 0,0:11:01.26,0:11:03.85,ENG,,0,0,0,,Four years later, also using a cloud chamber,
-Dialogue: 0,0:11:01.26,0:11:03.85,CHN,,0,0,0,,
+Dialogue: 0,0:11:01.26,0:11:03.85,CHN,,0,0,0,,四年之后 也是在云室中
 Dialogue: 0,0:11:03.85,0:11:07.81,ENG,,0,0,0,,he discovered the muon, again in cosmic rays.
-Dialogue: 0,0:11:03.85,0:11:07.81,CHN,,0,0,0,,
+Dialogue: 0,0:11:03.85,0:11:07.81,CHN,,0,0,0,,他发现了宇宙线中的μ子
 Dialogue: 0,0:11:07.81,0:11:09.76,ENG,,0,0,0,,For his discovery of the positron,
-Dialogue: 0,0:11:07.81,0:11:09.76,CHN,,0,0,0,,
+Dialogue: 0,0:11:07.81,0:11:09.76,CHN,,0,0,0,,由于正电子的发现
 Dialogue: 0,0:11:09.76,0:11:14.04,ENG,,0,0,0,,Anderson was awarded the Nobel Prize in Physics in 1936.
-Dialogue: 0,0:11:09.76,0:11:14.04,CHN,,0,0,0,,
+Dialogue: 0,0:11:09.76,0:11:14.04,CHN,,0,0,0,,安德森获得了1936年的诺贝尔物理学奖
 Dialogue: 0,0:11:14.04,0:11:16.78,ENG,,0,0,0,,He shared the prize with Victor Hess,
-Dialogue: 0,0:11:14.04,0:11:16.78,CHN,,0,0,0,,
+Dialogue: 0,0:11:14.04,0:11:16.78,CHN,,0,0,0,,他与维克托·赫斯分享了奖项
 Dialogue: 0,0:11:16.78,0:11:20.14,ENG,,0,0,0,,the man who discovered cosmic rays in the first place,
-Dialogue: 0,0:11:16.78,0:11:20.14,CHN,,0,0,0,,
+Dialogue: 0,0:11:16.78,0:11:20.14,CHN,,0,0,0,,后者首次发现了宇宙射线
 Dialogue: 0,0:11:20.14,0:11:23.03,ENG,,0,0,0,,invisible particles that affect our lives in ways
-Dialogue: 0,0:11:20.14,0:11:23.03,CHN,,0,0,0,,
+Dialogue: 0,0:11:20.14,0:11:23.03,CHN,,0,0,0,,在不经意中影响我们生活的
 Dialogue: 0,0:11:23.03,0:11:25.14,ENG,,0,0,0,,most of us are oblivious to.
-Dialogue: 0,0:11:23.03,0:11:25.14,CHN,,0,0,0,,
+Dialogue: 0,0:11:23.03,0:11:25.14,CHN,,0,0,0,,不可见粒子
 Dialogue: 0,0:11:26.48,0:11:29.14,ENG,,0,0,0,,This is possibly the rarest thing
 Dialogue: 0,0:11:26.48,0:11:29.14,CHN,,0,0,0,,
 Dialogue: 0,0:11:29.14,0:11:32.06,ENG,,0,0,0,,to ever happen in a video game.
