@@ -823,9 +823,9 @@ Dialogue: 0,0:17:56.26,0:17:58.68,CHN,,0,0,0,,
 Dialogue: 0,0:17:58.68,0:18:00.38,ENG,,0,0,0,,separate bit flips.
 Dialogue: 0,0:17:58.68,0:18:00.38,CHN,,0,0,0,,
 Dialogue: 0,0:18:01.70,0:18:05.55,ENG,,0,0,0,,Above the atmosphere, cosmic rays are so energetic
-Dialogue: 0,0:18:01.70,0:18:05.55,CHN,,0,0,0,,在大气层以外，宇宙射线能量更大
+Dialogue: 0,0:18:01.70,0:18:05.55,CHN,,0,0,0,,在大气层以外  宇宙射线的能量要更充沛
 Dialogue: 0,0:18:05.55,0:18:08.07,ENG,,0,0,0,,sometimes you can even see them.
-Dialogue: 0,0:18:05.55,0:18:08.07,CHN,,0,0,0,,你有时候能直接看见它们
+Dialogue: 0,0:18:05.55,0:18:08.07,CHN,,0,0,0,,以至于你有时可以用肉眼看见它们
 Dialogue: 0,0:18:08.07,0:18:10.07,ENG,,0,0,0,,- Once in a while you have your eyes closed
 Dialogue: 0,0:18:08.07,0:18:10.07,CHN,,0,0,0,,睡觉前当你闭上眼睛
 Dialogue: 0,0:18:10.07,0:18:11.45,ENG,,0,0,0,,and you're not asleep yet.
@@ -909,13 +909,10 @@ Dialogue: 0,0:19:41.77,0:19:43.92,CHN,,0,0,0,,但它挡辐射是一把好手
 Dialogue: 0,0:19:43.92,0:19:47.41,ENG,,0,0,0,,meaning the design, materials, circuits and software
 Dialogue: 0,0:19:43.92,0:19:47.41,CHN,,0,0,0,,专门的设计、材料、线路和软件
 Dialogue: 0,0:19:47.41,0:19:50.50,ENG,,0,0,0,,are built to withstand 40 times the radiation
-Dialogue: 0,0:19:47.41,0:19:50.50,CHN,,0,0,0,,使它能抵挡的辐射量是正常电脑所能承受的40倍
 Dialogue: 0,0:19:50.50,0:19:52.30,ENG,,0,0,0,,of an ordinary computer.
-Dialogue: 0,0:19:50.50,0:19:52.30,CHN,,0,0,0,,使它能抵挡的辐射量是正常电脑所能承受的40倍
-Dialogue: 0,0:19:52.30,0:19:54.96,ENG,,0,0,0,,It's been used on over a dozen space missions
-Dialogue: 0,0:19:52.30,0:19:54.96,CHN,,0,0,0,,自2005年以来，十多次太空任务使用的都是这台电脑
-Dialogue: 0,0:19:54.96,0:19:57.26,ENG,,0,0,0,,going back to 2005.
-Dialogue: 0,0:19:54.96,0:19:57.26,CHN,,0,0,0,,自2005年以来，十多次太空任务使用的都是这台电脑
+Dialogue: 0,0:19:47.41,0:19:52.30,CHN,,0,0,0,,使它能抵抗的辐射量是正常电脑所能承受的40倍
+Dialogue: 0,0:19:52.30,0:19:57.26,ENG,,0,0,0,,It's been used on over a dozen space missions going back to 2005.
+Dialogue: 0,0:19:52.30,0:19:57.26,CHN,,0,0,0,,自2005年来  这台电脑已在十余次太空任务中发挥功用
 Dialogue: 0,0:19:57.26,0:20:01.17,ENG,,0,0,0,,- In fact, when we first started doing the power PC testing
 Dialogue: 0,0:19:57.26,0:20:01.17,CHN,,0,0,0,,我们多年前开始测试PowerPC的时候
 Dialogue: 0,0:20:01.17,0:20:03.68,ENG,,0,0,0,,years ago, the way we did it,
@@ -939,9 +936,8 @@ Dialogue: 0,0:20:22.42,0:20:24.46,CHN,,0,0,0,,那基本上就凉凉了
 Dialogue: 0,0:20:24.46,0:20:27.81,ENG,,0,0,0,,- As the Voyager 1 spacecraft departed the solar system,
 Dialogue: 0,0:20:24.46,0:20:27.81,CHN,,0,0,0,,旅行者1号驶离太阳系的标志之一
 Dialogue: 0,0:20:27.81,0:20:30.48,ENG,,0,0,0,,one of the ways we could tell was by an increase
-Dialogue: 0,0:20:27.81,0:20:30.48,CHN,,0,0,0,,就是它遭受的宇宙射线的流量增大了
 Dialogue: 0,0:20:30.48,0:20:33.30,ENG,,0,0,0,,in the flux of cosmic rays it experienced.
-Dialogue: 0,0:20:30.48,0:20:33.30,CHN,,0,0,0,,就是它遭受的宇宙射线的流量增大了
+Dialogue: 0,0:20:27.81,0:20:33.30,CHN,,0,0,0,,就是它遭受的宇宙射线的流量增大了
 Dialogue: 0,0:20:33.30,0:20:35.64,ENG,,0,0,0,,Although on earth, the particles streaming from the sun
 Dialogue: 0,0:20:33.30,0:20:35.64,CHN,,0,0,0,,虽然在地球上看，太阳放射出的粒子和太阳风是一种辐射来源
 Dialogue: 0,0:20:35.64,0:20:38.35,ENG,,0,0,0,,and the solar wind are a source of radiation,
@@ -977,9 +973,8 @@ Dialogue: 0,0:21:16.40,0:21:17.98,CHN,,0,0,0,,从此诞生了通过自然选择�
 Dialogue: 0,0:21:17.98,0:21:20.96,ENG,,0,0,0,,on which natural selection acts.
 Dialogue: 0,0:21:17.98,0:21:20.96,CHN,,0,0,0,,从此诞生了通过自然选择无法产生的突变
 Dialogue: 0,0:21:20.96,0:21:23.54,ENG,,0,0,0,,Maria Vindevogel is now a member
-Dialogue: 0,0:21:20.96,0:21:23.54,CHN,,0,0,0,,玛丽亚·温德沃格尔现在是比利时众议院的议员了
 Dialogue: 0,0:21:23.54,0:21:26.16,ENG,,0,0,0,,of the Belgium Chamber of Representatives,
-Dialogue: 0,0:21:23.54,0:21:26.16,CHN,,0,0,0,,玛丽亚·温德沃格尔现在是比利时众议院的议员了
+Dialogue: 0,0:21:20.96,0:21:26.16,CHN,,0,0,0,,玛丽亚·温德沃格尔现在是比利时众议院的议员了
 Dialogue: 0,0:21:26.16,0:21:29.72,ENG,,0,0,0,,elected by people, not a particle,
 Dialogue: 0,0:21:26.16,0:21:29.72,CHN,,0,0,0,,这次是由人民选出来的，而非粒子
 Dialogue: 0,0:21:29.72,0:21:33.42,ENG,,0,0,0,,but her story is a reminder of the zillions of particles
