@@ -804,9 +804,9 @@ Dialogue: 0,0:18:01.70,0:18:05.55,CHN,,0,0,0,,在大气层以外  宇宙射线�
 Dialogue: 0,0:18:05.55,0:18:08.07,ENG,,0,0,0,,sometimes you can even see them.
 Dialogue: 0,0:18:05.55,0:18:08.07,CHN,,0,0,0,,以至于你有时可以用肉眼看见它们
 Dialogue: 0,0:18:08.07,0:18:10.07,ENG,,0,0,0,,- Once in a while you have your eyes closed
-Dialogue: 0,0:18:08.07,0:18:10.07,CHN,,0,0,0,,睡觉前当你闭上眼睛
+Dialogue: 0,0:18:08.07,0:18:10.07,CHN,,0,0,0,,有时候  你已经上床闭眼
 Dialogue: 0,0:18:10.07,0:18:11.45,ENG,,0,0,0,,and you're not asleep yet.
-Dialogue: 0,0:18:10.07,0:18:11.45,CHN,,0,0,0,,睡觉前当你闭上眼睛
+Dialogue: 0,0:18:10.07,0:18:11.45,CHN,,0,0,0,,但还没睡熟
 Dialogue: 0,0:18:11.45,0:18:14.00,ENG,,0,0,0,,And if you wait a little while,
 Dialogue: 0,0:18:11.45,0:18:14.00,CHN,,0,0,0,,等上一会儿
 Dialogue: 0,0:18:15.37,0:18:18.69,ENG,,0,0,0,,you occasionally will see a flash of light.
@@ -816,29 +816,26 @@ Dialogue: 0,0:18:18.69,0:18:21.04,CHN,,0,0,0,,这应该是重粒子
 Dialogue: 0,0:18:21.04,0:18:24.80,ENG,,0,0,0,,or individual bursts of energy coming from radiation
 Dialogue: 0,0:18:21.04,0:18:24.80,CHN,,0,0,0,,即辐射中携带能量的个体
 Dialogue: 0,0:18:24.80,0:18:27.02,ENG,,0,0,0,,that are either going through the eyeball itself
-Dialogue: 0,0:18:24.80,0:18:27.02,CHN,,0,0,0,,穿过了眼球
 Dialogue: 0,0:18:27.02,0:18:29.15,ENG,,0,0,0,,or going through the optic nerve.
-Dialogue: 0,0:18:27.02,0:18:29.15,CHN,,0,0,0,,或是感光神经
+Dialogue: 0,0:18:24.80,0:18:29.15,CHN,,0,0,0,,穿过了眼球或感光神经
 Dialogue: 0,0:18:29.15,0:18:31.22,ENG,,0,0,0,,And they,
 Dialogue: 0,0:18:29.15,0:18:31.22,CHN,,0,0,0,,然后
 Dialogue: 0,0:18:31.22,0:18:35.33,ENG,,0,0,0,,the way that your body registers radiation going through it
 Dialogue: 0,0:18:31.22,0:18:35.33,CHN,,0,0,0,,你的身体就以给你看一道闪光的神奇方式
-Dialogue: 0,0:18:35.33,0:18:38.00,ENG,,0,0,0,,is amazingly enough by showing you a little flash
-Dialogue: 0,0:18:35.33,0:18:38.00,CHN,,0,0,0,,记录下辐射穿过的瞬间
-Dialogue: 0,0:18:38.00,0:18:39.16,ENG,,0,0,0,,in one of your eyes,
-Dialogue: 0,0:18:38.00,0:18:39.16,CHN,,0,0,0,,
-Dialogue: 0,0:18:39.16,0:18:42.13,ENG,,0,0,0,,just to remind you that you are subject to the radiation
-Dialogue: 0,0:18:39.16,0:18:42.13,CHN,,0,0,0,,这也是在提醒你，除了太阳以外
-Dialogue: 0,0:18:42.13,0:18:46.01,ENG,,0,0,0,,of not only our sun, but every star of the universe,
-Dialogue: 0,0:18:42.13,0:18:46.01,CHN,,0,0,0,,来自宇宙中每一颗星星的辐射
-Dialogue: 0,0:18:46.01,0:18:48.95,ENG,,0,0,0,,that is radiating at you.
-Dialogue: 0,0:18:46.01,0:18:48.95,CHN,,0,0,0,,都有可能到达你这里
+Dialogue: 0,0:18:35.33,0:18:39.16,ENG,,0,0,0,,is amazingly enough by showing you a little flash in one of your eyes, 
+Dialogue: 0,0:18:35.33,0:18:39.16,CHN,,0,0,0,,记录下辐射穿过的瞬间
+Dialogue: 0,0:18:39.16,0:18:41.00,ENG,,0,0,0,,just to remind you that
+Dialogue: 0,0:18:39.16,0:18:41.00,CHN,,0,0,0,,这也是在提醒你
+Dialogue: 0,0:18:41.00,0:18:43.50,ENG,,0,0,0,,you are subject to the radiation of not only our sun,
+Dialogue: 0,0:18:41.00,0:18:43.50,CHN,,0,0,0,,除了太阳以外
+Dialogue: 0,0:18:43.50,0:18:48.95,ENG,,0,0,0,,but every star of the universe, that is radiating at you.
+Dialogue: 0,0:18:43.50,0:18:48.95,CHN,,0,0,0,,来自宇宙中每一颗星星的辐射  都有可能到达你这里
 Dialogue: 0,0:18:48.95,0:18:50.87,ENG,,0,0,0,,I picture back to the first astronauts
 Dialogue: 0,0:18:48.95,0:18:50.87,CHN,,0,0,0,,我能想像第一批宇航员
-Dialogue: 0,0:18:50.87,0:18:53.35,ENG,,0,0,0,,who must have closed their eyes and seen that radiation
-Dialogue: 0,0:18:50.87,0:18:53.35,CHN,,0,0,0,,闭上眼睛然后看到辐射之后的场景：
-Dialogue: 0,0:18:53.35,0:18:56.06,ENG,,0,0,0,,and gone, "I'm not going to tell anybody about this
-Dialogue: 0,0:18:53.35,0:18:56.06,CHN,,0,0,0,,“啊这 我跟谁都不会讲的”
+Dialogue: 0,0:18:50.87,0:18:53.70,ENG,,0,0,0,,who must have closed their eyes and seen that radiation and gone,
+Dialogue: 0,0:18:50.87,0:18:53.70,CHN,,0,0,0,,闭上眼睛然后看到辐射之后的场景：
+Dialogue: 0,0:18:53.70,0:18:56.06,ENG,,0,0,0,,"I'm not going to tell anybody about this
+Dialogue: 0,0:18:53.70,0:18:56.06,CHN,,0,0,0,,“啊这 我跟谁都不会讲的”
 Dialogue: 0,0:18:56.06,0:18:57.80,ENG,,0,0,0,,"because no one's told me about it.
 Dialogue: 0,0:18:56.06,0:18:57.80,CHN,,0,0,0,,“没人说过会有这种现象啊”
 Dialogue: 0,0:18:57.80,0:18:58.64,ENG,,0,0,0,,"I'm not talking."
@@ -856,13 +853,12 @@ Dialogue: 0,0:19:04.47,0:19:06.41,CHN,,0,0,0,,“哦，原来大家都看到了�
 Dialogue: 0,0:19:06.41,0:19:08.66,ENG,,0,0,0,,"Oh, okay, well, that's all right then."
 Dialogue: 0,0:19:06.41,0:19:08.66,CHN,,0,0,0,,“那没事了，看起来是正常现象”
 Dialogue: 0,0:19:09.98,0:19:12.26,ENG,,0,0,0,,- For missions to other planets,
-Dialogue: 0,0:19:09.98,0:19:12.26,CHN,,0,0,0,,对于前往其他星球的任务
+Dialogue: 0,0:19:09.98,0:19:12.26,CHN,,0,0,0,,前往其他星球的航天任务
 Dialogue: 0,0:19:12.26,0:19:14.89,ENG,,0,0,0,,protecting electronics is critical.
-Dialogue: 0,0:19:12.26,0:19:14.89,CHN,,0,0,0,,需要保护好电子设备
+Dialogue: 0,0:19:12.26,0:19:14.89,CHN,,0,0,0,,更需要保护好电子设备
 Dialogue: 0,0:19:14.89,0:19:16.54,ENG,,0,0,0,,- If a single bit of information
-Dialogue: 0,0:19:14.89,0:19:16.54,CHN,,0,0,0,,如果控制飞船关键部分信息的一个比特
 Dialogue: 0,0:19:16.54,0:19:19.15,ENG,,0,0,0,,controls a critical function on your spacecraft,
-Dialogue: 0,0:19:16.54,0:19:19.15,CHN,,0,0,0,,如果控制飞船关键部分信息的一个比特
+Dialogue: 0,0:19:14.89,0:19:19.15,CHN,,0,0,0,,如果控制飞船关键部分信息的一个比特
 Dialogue: 0,0:19:19.15,0:19:21.10,ENG,,0,0,0,,let's say your thrusters,
 Dialogue: 0,0:19:19.15,0:19:21.10,CHN,,0,0,0,,比如说控制助推器的一个比特
 Dialogue: 0,0:19:21.10,0:19:24.68,ENG,,0,0,0,,and that goes from a one to is zero, from a on to off,
@@ -870,9 +866,8 @@ Dialogue: 0,0:19:21.10,0:19:24.68,CHN,,0,0,0,,从1变成了0，从通变成了�
 Dialogue: 0,0:19:24.68,0:19:27.21,ENG,,0,0,0,,or vice versa, you could lose the mission.
 Dialogue: 0,0:19:24.68,0:19:27.21,CHN,,0,0,0,,可能整个任务就毁了
 Dialogue: 0,0:19:27.21,0:19:28.40,ENG,,0,0,0,,- That's why the computer
-Dialogue: 0,0:19:27.21,0:19:28.40,CHN,,0,0,0,,这就是为什么最近在火星着陆的毅力号火星车
 Dialogue: 0,0:19:28.40,0:19:31.21,ENG,,0,0,0,,on the Perseverance Rover that just landed on Mars
-Dialogue: 0,0:19:28.40,0:19:31.21,CHN,,0,0,0,,这就是为什么最近在火星着陆的毅力号火星车
+Dialogue: 0,0:19:27.21,0:19:31.21,CHN,,0,0,0,,这就是为什么最近在火星着陆的毅力号火星车
 Dialogue: 0,0:19:31.21,0:19:33.28,ENG,,0,0,0,,is 20 years old.
 Dialogue: 0,0:19:31.21,0:19:33.28,CHN,,0,0,0,,搭载的是20年前
 Dialogue: 0,0:19:33.28,0:19:35.84,ENG,,0,0,0,,It's a power PC launched in 2001
@@ -891,9 +886,8 @@ Dialogue: 0,0:19:47.41,0:19:52.30,CHN,,0,0,0,,使它能抵抗的辐射量是正�
 Dialogue: 0,0:19:52.30,0:19:57.26,ENG,,0,0,0,,It's been used on over a dozen space missions going back to 2005.
 Dialogue: 0,0:19:52.30,0:19:57.26,CHN,,0,0,0,,自2005年来  这台电脑已在十余次太空任务中发挥功用
 Dialogue: 0,0:19:57.26,0:20:01.17,ENG,,0,0,0,,- In fact, when we first started doing the power PC testing
-Dialogue: 0,0:19:57.26,0:20:01.17,CHN,,0,0,0,,我们多年前开始测试PowerPC的时候
 Dialogue: 0,0:20:01.17,0:20:03.68,ENG,,0,0,0,,years ago, the way we did it,
-Dialogue: 0,0:20:01.17,0:20:03.68,CHN,,0,0,0,,我们多年前开始测试PowerPC的时候
+Dialogue: 0,0:19:57.26,0:20:03.68,CHN,,0,0,0,,我们多年前开始测试PowerPC的时候
 Dialogue: 0,0:20:03.68,0:20:06.71,ENG,,0,0,0,,we just simply stuck an operating system processor
 Dialogue: 0,0:20:03.68,0:20:06.71,CHN,,0,0,0,,就是把一个处理器卡在粒子流上
 Dialogue: 0,0:20:06.71,0:20:10.86,ENG,,0,0,0,,in a beam line where we generate these particles
@@ -957,12 +951,12 @@ Dialogue: 0,0:21:26.16,0:21:29.72,CHN,,0,0,0,,这次是由人民选出来的，�
 Dialogue: 0,0:21:29.72,0:21:33.42,ENG,,0,0,0,,but her story is a reminder of the zillions of particles
 Dialogue: 0,0:21:29.72,0:21:33.42,CHN,,0,0,0,,但是她的故事提醒着我们
 Dialogue: 0,0:21:33.42,0:21:35.14,ENG,,0,0,0,,winding their way through the universe
-Dialogue: 0,0:21:33.42,0:21:35.14,CHN,,0,0,0,,这些在宇宙中漂泊了亿万年，
+Dialogue: 0,0:21:33.42,0:21:35.14,CHN,,0,0,0,,在宇宙中有这些数不胜数的
 Dialogue: 0,0:21:35.14,0:21:38.88,ENG,,0,0,0,,for millions or billions of years.
-Dialogue: 0,0:21:35.14,0:21:38.88,CHN,,0,0,0,,数不胜数的粒子们，
+Dialogue: 0,0:21:35.14,0:21:38.88,CHN,,0,0,0,,漂泊了亿万年的粒子
 Dialogue: 0,0:21:38.88,0:21:41.72,ENG,,0,0,0,,One of which might at any moment,
-Dialogue: 0,0:21:38.88,0:21:41.72,CHN,,0,0,0,,不知在某个时刻，
+Dialogue: 0,0:21:38.88,0:21:41.72,CHN,,0,0,0,,不知在某个时刻  就会有个粒子
 Dialogue: 0,0:21:41.72,0:21:46.32,ENG,,0,0,0,,change your life by passing through a tiny transistor
-Dialogue: 0,0:21:41.72,0:21:46.32,CHN,,0,0,0,,它们其中之一可能就撞上了一个小小的二极管，我们的一生也因此
+Dialogue: 0,0:21:41.72,0:21:46.32,CHN,,0,0,0,,撞上了一个小小的二极管，我们的一生也因此
 Dialogue: 0,0:21:46.32,0:21:47.63,ENG,,0,0,0,,and cra....
-Dialogue: 0,0:21:46.32,0:21:47.63,CHN,,0,0,0,,而改
+Dialogue: 0,0:21:46.32,0:21:47.63,CHN,,0,0,0,,而改…
