@@ -53,15 +53,6 @@ owls, and even platypus'
 glow under ultraviolet light.
 都在紫外线下发光
 
-11
-00:00:28,390 --> 00:00:30,950
-Part of this video is sponsored
-by Capital One Shopping.
-
-12
-00:00:30,950 --> 00:00:33,143
-More about them at the end of the show.
-
 13
 00:00:34,640 --> 00:00:37,520
 I'm out here in the desert
@@ -95,6 +86,8 @@ for over a decade.
 - If you have a black light
 it's really pretty easy.
 - 如果你有黑光灯的话，寻找蝎子真的十分容易
+
+“黑光灯”即长波紫外线灯
 
 19
 00:00:48,710 --> 00:00:50,450
@@ -137,13 +130,13 @@ scorpion catching equipment here.
 00:01:00,530 --> 00:01:02,810
 It's a tongue depressor with
 a yellow highlighter on it.
-是一个涂有黄色荧光的压舌板
+是个压舌板，上面涂了黄色荧光
 
 28
 00:01:02,810 --> 00:01:05,420
 So it fluoresces in black light.
 So you can see where it is.
-它在黑光灯下会散发荧光,因此你能看见它在哪
+它在黑光灯下会散发荧光，因此你能看见它在哪
 
 29
 00:01:05,420 --> 00:01:06,315
@@ -272,8 +265,7 @@ All the other scorpions fluoresce.
 00:02:00,480 --> 00:02:03,230
 One possibility is just,
 this is a Relic Trait.
-有一种可能，
-这是一种遗留特征
+有一种可能，这是一种遗留特征
 
 56
 00:02:03,230 --> 00:02:04,680
@@ -348,7 +340,7 @@ The color is a little off.
 69
 00:02:30,080 --> 00:02:32,260
 - [Derek] But that is like, what is that?
-- 但是它像是，那是什么？
+- 但那是什么
 
 70
 00:02:32,260 --> 00:02:34,390
@@ -389,15 +381,14 @@ scorpions like these ones
 
 
 77
-00:02:44,400 --> 00:02:47,510
-and I took half of them and dip them in
-拿出其中一半，将他们浸入
+00:02:44,400 --> 00:02:48,700
+and I took half of them and dip them in UV blocking marine varnish
+我将蝎子等分成两组，将一组浸入阻隔紫外线的船舶清漆
 
 78
-00:02:47,510 --> 00:02:50,370
-UV blocking marine varnish
+00:02:48,700 --> 00:02:50,370
 so they didn't fluoresce.
-阻隔紫外线的船舶清漆，这样一来他们不会散发荧光
+这样一来他们不会散发荧光
 
 79
 00:02:50,370 --> 00:02:53,070
@@ -429,17 +420,17 @@ that were caught in each.
 84
 00:03:01,687 --> 00:03:03,330
 - [Carl] So we were outside in moonlight
-- 我们在新月和满月时候
+- 我们在野外的月光下
 
 85
 00:03:03,330 --> 00:03:04,870
 and I did the same experiment,
-在野外的月光下
+做了同样的实验
 
 86
 00:03:04,870 --> 00:03:06,860
 both under the new moon and the full moon.
-做了同样的实验
+在新月时和满月时都做了
 
 87
 00:03:06,860 --> 00:03:08,400
@@ -452,19 +443,14 @@ when there was a new moon,
 新月之时
 
 89
-00:03:09,730 --> 00:03:11,000
-there was no difference in the number
+00:03:09,730 --> 00:03:11,300
+there was no difference in the number of insects
 散发荧光的蝎子与不散发荧光的蝎子
 
 90
-00:03:11,000 --> 00:03:12,590
-of insects caught by the fluorescent
-捕捉到的昆虫数量
-
-91
-00:03:12,590 --> 00:03:13,860
-and non-fluorescent scorpions.
-没有区别
+00:03:11,300 --> 00:03:13,860
+caught by the fluorescent and non-fluorescent scorpions.
+捕捉到的昆虫数量没有区别
 
 92
 00:03:13,860 --> 00:03:16,400
@@ -481,7 +467,7 @@ available there was a difference
 00:03:17,840 --> 00:03:20,970
 and the ones that fluoresce
 actually caught fewer insects.
-散发荧光的蝎子实际上吸引了更少昆虫
+散发荧光的蝎子所吸引的昆虫反而更少
 
 95
 00:03:20,970 --> 00:03:22,480
@@ -500,25 +486,18 @@ Which happens a lot.
 这常常发生
 
 98
-00:03:26,290 --> 00:03:27,950
-Basically yeah, they're not using
-大体上说，蝎子并不使用荧光
-
-99
-00:03:27,950 --> 00:03:29,550
-their fluorescence to lure insects.
-来引诱昆虫
+00:03:26,290 --> 00:03:29,550
+Basically yeah, they're not using their fluorescence to lure insects.
+大体上说，蝎子并不使用荧光来引诱昆虫
 
 100
 00:03:29,550 --> 00:03:31,880
-In fact, the fluorescence is
-a bad thing for them in terms
+In fact, the fluorescence is a bad thing for them in terms
 实际上，就其捕捉飞虫的能力而言
 
 101
 00:03:31,880 --> 00:03:35,130
-of their ability to catch
-flying insects, at least.
+of their ability to catch flying insects, at least.
 荧光对它们来说是一件坏事
 
 102
@@ -528,8 +507,7 @@ flying insects, at least.
 
 103
 00:03:36,300 --> 00:03:39,240
-If you find that fluorescence
-is counterproductive
+If you find that fluorescence is counterproductive
 如果你发现荧光在某些方面
 
 104
@@ -617,19 +595,19 @@ here's a little bit different
 119
 00:04:13,980 --> 00:04:16,209
 and that's because of the iron.
-这是因为铁元素
+这是因为有铁元素
 
 120
 00:04:16,209 --> 00:04:19,139
 - [Derek] That seems
 very aggressive to me.
-在我看来，这只似乎非常具有侵略性
+我感觉这只好像挺凶的
 
 121
 00:04:19,140 --> 00:04:20,820
 One of the main things
 we're interested in here
-我们主要好奇的事情之一是
+我们主要好奇的一件事情是
 
 122
 00:04:20,820 --> 00:04:21,940
@@ -656,18 +634,18 @@ median eyes right there.
 00:04:28,220 --> 00:04:30,070
 - [Carl] Yeah. There's a cluster
 of three eyes right there.
-- 没错。这边有 3 个侧眼簇
+- 没错。这边有 3 个侧眼扎堆
 
 127
 00:04:30,070 --> 00:04:32,210
 And of course on the other
 side, so they're symmetrical.
-另外一边也有，他们是对称的
+另外一边也有，这对称的
 
 128
 00:04:32,210 --> 00:04:33,940
 So they have a total of eight eyes.
-所以他们一共有 8 只眼睛
+所以蝎子一共有 8 只眼睛
 
 129
 00:04:33,940 --> 00:04:36,990
@@ -683,6 +661,7 @@ that are not eyes?
 131
 00:04:38,400 --> 00:04:40,330
 - Yeah. Actually they can.
+当然可以
 
 132
 00:04:40,330 --> 00:04:42,170
