@@ -5,929 +5,919 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 3840
+PlayResY: 2160
+
+[Aegisub Project Garbage]
+Audio File: no ad.mp4
+Video File: no ad.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.125000
+Scroll Position: 865
+Active Line: 894
+Video Position: 31470
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ENG,Inter,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,3,3,3,1
-Style: CHN,MonyharOS Sans SC Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,5,5,3,1
+Style: English,Yuanti SC,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,2,20,20,20,1
+Style: Chinese,Yuanti SC,110,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,2,20,20,90,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.09,0:00:03.12,ENG,,0,0,0,,- A plane plummets out of the sky,
-Dialogue: 0,0:00:00.09,0:00:03.12,CHN,,0,0,0,,有一架飞机从天上突然跌下
-Dialogue: 0,0:00:03.12,0:00:06.76,ENG,,0,0,0,,a speed runner inexplicably jumps to a higher platform.
-Dialogue: 0,0:00:03.12,0:00:06.76,CHN,,0,0,0,,有一位速通玩家莫名其妙就跳到了更高的平台上
-Dialogue: 0,0:00:06.76,0:00:07.85,ENG,,0,0,0,,- What the?
-Dialogue: 0,0:00:06.76,0:00:07.85,CHN,,0,0,0,,什么？
-Dialogue: 0,0:00:07.85,0:00:08.68,ENG,,0,0,0,,What the?
-Dialogue: 0,0:00:07.85,0:00:08.68,CHN,,0,0,0,,这也可以？
-Dialogue: 0,0:00:08.68,0:00:11.83,ENG,,0,0,0,,- And an election recount is triggered.
-Dialogue: 0,0:00:08.68,0:00:11.83,CHN,,0,0,0,,有一次选举需要重新计票
-Dialogue: 0,0:00:11.83,0:00:15.26,ENG,,0,0,0,,All because of the same invisible phenomenon
-Dialogue: 0,0:00:15.26,0:00:17.47,ENG,,0,0,0,,that permeates the universe.
-Dialogue: 0,0:00:11.83,0:00:17.47,CHN,,0,0,0,,所有这一切，都源于宇宙中弥漫的同一种看不见的现象
-Dialogue: 0,0:00:18.48,0:00:22.77,ENG,,0,0,0,,On May 18th, 2003, voters in Belgium went to the polls.
-Dialogue: 0,0:00:18.48,0:00:22.77,CHN,,0,0,0,,2003年5月18日，比利时选民前往投票站
-Dialogue: 0,0:00:22.77,0:00:25.56,ENG,,0,0,0,,In many regions, voting was done on a computer,
-Dialogue: 0,0:00:22.77,0:00:25.56,CHN,,0,0,0,,不少地方投票是用电脑的
-Dialogue: 0,0:00:25.56,0:00:29.40,ENG,,0,0,0,,something the Belgians had been experimenting with for over a decade.
-Dialogue: 0,0:00:25.56,0:00:29.40,CHN,,0,0,0,,比利时人十几年来也一直在尝试使用电脑投票
-Dialogue: 0,0:00:29.40,0:00:31.22,ENG,,0,0,0,,But the system had a backup.
-Dialogue: 0,0:00:29.40,0:00:31.22,CHN,,0,0,0,,而且系统是有备份的
-Dialogue: 0,0:00:31.22,0:00:34.46,ENG,,0,0,0,,Each voter would insert a magnetic card into the machine
-Dialogue: 0,0:00:31.22,0:00:34.46,CHN,,0,0,0,,每位选民把磁卡插入机器
-Dialogue: 0,0:00:34.46,0:00:36.76,ENG,,0,0,0,,and make their selection on screen.
-Dialogue: 0,0:00:34.46,0:00:36.76,CHN,,0,0,0,,然后在屏幕上进行选择
-Dialogue: 0,0:00:36.76,0:00:41.07,ENG,,0,0,0,,Their vote was saved both to the computer and the magnetic card,
-Dialogue: 0,0:00:36.76,0:00:41.07,CHN,,0,0,0,,他们的选票同时保存在计算机和磁卡中
-Dialogue: 0,0:00:41.07,0:00:44.36,ENG,,0,0,0,,which they dropped into a box for redundancy.
-Dialogue: 0,0:00:41.07,0:00:44.36,CHN,,0,0,0,,磁卡会投入箱子中，以备不时之需
-Dialogue: 0,0:00:44.36,0:00:47.14,ENG,,0,0,0,,Late that night, as the votes were being tabulated,
-Dialogue: 0,0:00:44.36,0:00:47.14,CHN,,0,0,0,,当日深夜，在制作选票的表格时
-Dialogue: 0,0:00:47.14,0:00:49.67,ENG,,0,0,0,,one of the election officials detected a problem
-Dialogue: 0,0:00:47.14,0:00:49.67,CHN,,0,0,0,,一名选举官员发现
-Dialogue: 0,0:00:49.67,0:00:51.54,ENG,,0,0,0,,with the results from Schaerbeek,
-Dialogue: 0,0:00:49.67,0:00:51.54,CHN,,0,0,0,,布鲁塞尔市中心斯哈尔贝克的
-Dialogue: 0,0:00:51.54,0:00:54.23,ENG,,0,0,0,,a municipality in central Brussels.
-Dialogue: 0,0:00:51.54,0:00:54.23,CHN,,0,0,0,,选票结果存在问题
-Dialogue: 0,0:00:54.23,0:00:56.62,ENG,,0,0,0,,Maria Vindevogel, a little known candidate
-Dialogue: 0,0:00:54.23,0:00:56.62,CHN,,0,0,0,,Maria Vindevogel是一位没什么名气的候选人
-Dialogue: 0,0:00:56.62,0:01:01.76,ENG,,0,0,0,,with her own party received more votes than was mathematically possible.
-Dialogue: 0,0:00:56.62,0:01:01.76,CHN,,0,0,0,,但她的党派的得票数  却直接超出了理论上限
-Dialogue: 0,0:01:01.76,0:01:02.80,ENG,,0,0,0,,They knew this because of
-Dialogue: 0,0:01:01.76,0:01:02.80,CHN,,0,0,0,,计票者能知道这一问题是因为
-Dialogue: 0,0:01:02.80,0:01:05.77,ENG,,0,0,0,,the way the preferential voting system works.
-Dialogue: 0,0:01:02.80,0:01:05.77,CHN,,0,0,0,,“优先投票制”的运作方式
-Dialogue: 0,0:01:05.77,0:01:09.45,ENG,,0,0,0,,So they took out the magnetic cards and started a recount.
-Dialogue: 0,0:01:05.77,0:01:09.45,CHN,,0,0,0,,于是他们拿出磁卡，开始重新计票
-Dialogue: 0,0:01:09.45,0:01:13.89,ENG,,0,0,0,,One by one, they fed each of them through the machines again,
-Dialogue: 0,0:01:09.45,0:01:13.89,CHN,,0,0,0,,他们一个接一个把磁卡再次投入机器
-Dialogue: 0,0:01:13.89,0:01:17.08,ENG,,0,0,0,,and after several hours, the recount was complete.
-Dialogue: 0,0:01:13.89,0:01:17.08,CHN,,0,0,0,,几小时后，重新计票完成
-Dialogue: 0,0:01:17.08,0:01:22.37,ENG,,0,0,0,,The vote totals for every candidate were exactly the same as before,
-Dialogue: 0,0:01:17.08,0:01:22.37,CHN,,0,0,0,,其他各个候选人的总选票数与之前完全相同
-Dialogue: 0,0:01:22.37,0:01:25.10,ENG,,0,0,0,,except for Maria Vindevogel.
-Dialogue: 0,0:01:22.37,0:01:25.10,CHN,,0,0,0,,除了Maria Vindevogel
-Dialogue: 0,0:01:25.10,0:01:27.36,ENG,,0,0,0,,In her case, the recounted number of votes
-Dialogue: 0,0:01:27.36,0:01:31.83,ENG,,0,0,0,,was less than the original by 4,096.
-Dialogue: 0,0:01:25.10,0:01:31.83,CHN,,0,0,0,,她在重新计票后比之前少了4096票
-Dialogue: 0,0:01:31.83,0:01:33.59,ENG,,0,0,0,,So what went wrong?
-Dialogue: 0,0:01:31.83,0:01:33.59,CHN,,0,0,0,,那什么出问题了呢
-Dialogue: 0,0:01:33.59,0:01:38.66,ENG,,0,0,0,,How had her original tally been inflated by over 4,000 votes?
-Dialogue: 0,0:01:33.59,0:01:38.66,CHN,,0,0,0,,她的原始票数是如何多了4000多票的
-Dialogue: 0,0:01:38.66,0:01:42.60,ENG,,0,0,0,,Computer experts were brought in to run extensive tests on the software.
-Dialogue: 0,0:01:38.66,0:01:42.60,CHN,,0,0,0,,他们请来计算机专家对该软件进行大量测试
-Dialogue: 0,0:01:42.60,0:01:46.37,ENG,,0,0,0,,They combed through the code, but could find no bugs.
-Dialogue: 0,0:01:42.60,0:01:46.37,CHN,,0,0,0,,他们梳理了代码，但是什么错误都没找到
-Dialogue: 0,0:01:46.37,0:01:49.10,ENG,,0,0,0,,They got the computer that had made the initial erroneous tally
-Dialogue: 0,0:01:46.37,0:01:49.10,CHN,,0,0,0,,他们拿到了产生初始计算错误的计算机
-Dialogue: 0,0:01:49.10,0:01:52.12,ENG,,0,0,0,,and tested the hardware again and again,
-Dialogue: 0,0:01:49.10,0:01:52.12,CHN,,0,0,0,,然后一次又一次测试硬件
-Dialogue: 0,0:01:52.12,0:01:54.72,ENG,,0,0,0,,but they could not replicate the error.
-Dialogue: 0,0:01:52.12,0:01:54.72,CHN,,0,0,0,,但他们无法复现错误
-Dialogue: 0,0:01:54.72,0:01:55.79,ENG,,0,0,0,,Everything about the hardware
-Dialogue: 0,0:01:55.79,0:01:58.66,ENG,,0,0,0,,seemed to be in perfect working order.
-Dialogue: 0,0:01:54.72,0:01:58.66,CHN,,0,0,0,,硬件的每一处地方似乎都在良好的工作状态
-Dialogue: 0,0:01:58.66,0:02:01.41,ENG,,0,0,0,,And this left only one possible explanation
-Dialogue: 0,0:01:58.66,0:02:01.41,CHN,,0,0,0,,这就只剩下一种解释
-Dialogue: 0,0:02:01.41,0:02:04.07,ENG,,0,0,0,,and it is seriously weird.
-Dialogue: 0,0:02:01.41,0:02:04.07,CHN,,0,0,0,,而且这个解释非常非常奇怪
-Dialogue: 0,0:02:04.07,0:02:08.44,ENG,,0,0,0,,The clue comes from the excess number of votes Vindevogel received.
-Dialogue: 0,0:02:04.07,0:02:08.44,CHN,,0,0,0,,线索来自Vindevogel获得的过多选票
-Dialogue: 0,0:02:08.44,0:02:11.46,CHN,,0,0,0,,4096
-Dialogue: 0,0:02:11.46,0:02:15.44,ENG,,0,0,0,,Computers work using binary, strings of zeros and ones,
-Dialogue: 0,0:02:11.46,0:02:15.44,CHN,,0,0,0,,计算机使用二进制，0和1的字符串工作
-Dialogue: 0,0:02:15.44,0:02:17.88,ENG,,0,0,0,,each corresponding to a power of two.
-Dialogue: 0,0:02:15.44,0:02:17.88,CHN,,0,0,0,,每一个字符串对应2的幂
-Dialogue: 0,0:02:17.88,0:02:20.82,ENG,,0,0,0,,So somewhere inside the computer tabulating all the votes
-Dialogue: 0,0:02:17.88,0:02:20.82,CHN,,0,0,0,,因此，在计算机内的某处
-Dialogue: 0,0:02:20.82,0:02:22.08,ENG,,0,0,0,,was a string of bits
-Dialogue: 0,0:02:20.82,0:02:22.08,CHN,,0,0,0,,计算所有选票的是一个字符串位
-Dialogue: 0,0:02:22.08,0:02:24.90,ENG,,0,0,0,,representing the number of votes Maria received.
-Dialogue: 0,0:02:22.08,0:02:24.90,CHN,,0,0,0,,代表Maria获得的所有选票
-Dialogue: 0,0:02:24.90,0:02:26.86,ENG,,0,0,0,,It started the day all zeros,
-Dialogue: 0,0:02:24.90,0:02:26.86,CHN,,0,0,0,,开始都是0
-Dialogue: 0,0:02:26.86,0:02:28.83,ENG,,0,0,0,,and then as each vote for her came in,
-Dialogue: 0,0:02:26.86,0:02:28.83,CHN,,0,0,0,,然后随着每次有选票投她
-Dialogue: 0,0:02:28.83,0:02:30.94,ENG,,0,0,0,,it would increment by one.
-Dialogue: 0,0:02:28.83,0:02:30.94,CHN,,0,0,0,,都会增加1
-Dialogue: 0,0:02:30.94,0:02:34.14,ENG,,0,0,0,,Physically, this is done by turning on a transistor for one
-Dialogue: 0,0:02:30.94,0:02:34.14,CHN,,0,0,0,,物理上讲，这是通过开启晶体管为1
-Dialogue: 0,0:02:34.14,0:02:36.75,ENG,,0,0,0,,and turning it off for zero.
-Dialogue: 0,0:02:34.14,0:02:36.75,CHN,,0,0,0,,关闭晶体管为0实现的
-Dialogue: 0,0:02:36.75,0:02:40.11,ENG,,0,0,0,,What's remarkable about the number 4,096
-Dialogue: 0,0:02:40.11,0:02:43.53,ENG,,0,0,0,,is that it is exactly a power of two.
-Dialogue: 0,0:02:36.75,0:02:43.53,CHN,,0,0,0,,数字4096的特别之处在于它恰好是2的幂
-Dialogue: 0,0:02:43.53,0:02:45.55,ENG,,0,0,0,,Two to the power of 12.
-Dialogue: 0,0:02:43.53,0:02:45.55,CHN,,0,0,0,,2的12次方
-Dialogue: 0,0:02:45.55,0:02:48.12,ENG,,0,0,0,,That is the 13th bit.
-Dialogue: 0,0:02:45.55,0:02:48.12,CHN,,0,0,0,,这是第13位
-Dialogue: 0,0:02:48.12,0:02:52.73,ENG,,0,0,0,,So for Maria Vindevogel to receive an extra 4,096 votes,
-Dialogue: 0,0:02:48.12,0:02:52.73,CHN,,0,0,0,,因此，想让Maria Vindevogel获得额外的4096张票
-Dialogue: 0,0:02:52.73,0:02:55.44,ENG,,0,0,0,,only one thing needed to happen.
-Dialogue: 0,0:02:52.73,0:02:55.44,CHN,,0,0,0,,只需要改变一个晶体管
-Dialogue: 0,0:02:55.44,0:03:00.05,ENG,,0,0,0,,The 13th bit had to flip from a zero to a one.
-Dialogue: 0,0:02:55.44,0:03:00.05,CHN,,0,0,0,,第13位必须从0反转到1
-Dialogue: 0,0:03:01.11,0:03:03.09,ENG,,0,0,0,,But why would that happen?
-Dialogue: 0,0:03:01.11,0:03:03.09,CHN,,0,0,0,,但为什么会这样呢
-Dialogue: 0,0:03:03.09,0:03:05.00,ENG,,0,0,0,,Computers work precisely because
-Dialogue: 0,0:03:03.09,0:03:05.00,CHN,,0,0,0,,计算机可以正常工作正是因为
-Dialogue: 0,0:03:05.00,0:03:09.50,ENG,,0,0,0,,bits don't flip unless we want them to,
-Dialogue: 0,0:03:05.00,0:03:09.50,CHN,,0,0,0,,只要我们没有主动让比特反转  它们就一定不会自发反转……
-Dialogue: 0,0:03:09.50,0:03:10.96,ENG,,0,0,0,,or do they?
-Dialogue: 0,0:03:09.50,0:03:10.96,CHN,,0,0,0,,真的不会吗
-Dialogue: 0,0:03:10.96,0:03:12.26,ENG,,0,0,0,,Looking into the problem,
-Dialogue: 0,0:03:10.96,0:03:12.26,CHN,,0,0,0,,在调查这个问题时
-Dialogue: 0,0:03:12.26,0:03:14.90,ENG,,0,0,0,,Belgian investigators found reports of similar issues
-Dialogue: 0,0:03:12.26,0:03:14.90,CHN,,0,0,0,,比利时调查人员发现，从上世纪70年代开始
-Dialogue: 0,0:03:14.90,0:03:18.42,ENG,,0,0,0,,from big computer companies starting in the 1970s.
-Dialogue: 0,0:03:14.90,0:03:18.42,CHN,,0,0,0,,在计算机大公司有类似问题报告
-Dialogue: 0,0:03:19.43,0:03:23.61,ENG,,0,0,0,,In 1978, Intel reported some strange errors popping up
-Dialogue: 0,0:03:19.43,0:03:23.61,CHN,,0,0,0,,1978年，英特尔报告称
-Dialogue: 0,0:03:23.61,0:03:28.04,ENG,,0,0,0,,in their 16 kilobit dynamic random access memory or DRAM.
-Dialogue: 0,0:03:23.61,0:03:28.04,CHN,,0,0,0,,其16 KB动态内存（DRAM）中出现了一些奇怪的错误
-Dialogue: 0,0:03:23.61,0:03:33.39,CHN,,0,0,0,,{\an7}动态随机存取存储器，或动态内存（DRAM）\N需要周期性地充电来保持数据\N因而得名“动态”\N而如今常用的内存为“静态”内存
-Dialogue: 0,0:03:28.04,0:03:33.39,ENG,,0,0,0,,Ones would spontaneously flip to zeros with no apparent cause.
-Dialogue: 0,0:03:28.04,0:03:33.39,CHN,,0,0,0,,有些“1”会毫无征兆地自动归“0”
-Dialogue: 0,0:03:33.39,0:03:35.00,ENG,,0,0,0,,The problem turned out to be
-Dialogue: 0,0:03:33.39,0:03:35.00,CHN,,0,0,0,,问题原来出在
-Dialogue: 0,0:03:35.00,0:03:38.51,ENG,,0,0,0,,the ceramic packaging the chip was encased in.
-Dialogue: 0,0:03:35.00,0:03:38.51,CHN,,0,0,0,,用于封装芯片的陶瓷上
-Dialogue: 0,0:03:38.51,0:03:41.24,ENG,,0,0,0,,With the demand for semiconductor packaging skyrocketing
-Dialogue: 0,0:03:38.51,0:03:41.24,CHN,,0,0,0,,随着1970年代对半导体封装需求的激增
-Dialogue: 0,0:03:41.24,0:03:44.73,ENG,,0,0,0,,in the 1970s, a new manufacturing plant was constructed
-Dialogue: 0,0:03:41.24,0:03:44.73,CHN,,0,0,0,,一家新的制造厂被建立在了
-Dialogue: 0,0:03:44.73,0:03:46.95,ENG,,0,0,0,,on the Green River in Colorado.
-Dialogue: 0,0:03:44.73,0:03:46.95,CHN,,0,0,0,,科罗拉多州的格林河附近
-Dialogue: 0,0:03:46.95,0:03:49.50,ENG,,0,0,0,,Unfortunately, this site happened to be
-Dialogue: 0,0:03:46.95,0:03:49.50,CHN,,0,0,0,,不幸的是  这家制造厂正好位于
-Dialogue: 0,0:03:49.50,0:03:52.37,ENG,,0,0,0,,just downstream of an old uranium mill.
-Dialogue: 0,0:03:49.50,0:03:52.37,CHN,,0,0,0,,一个旧铀厂的下游
-Dialogue: 0,0:03:52.37,0:03:55.13,ENG,,0,0,0,,Radioactive atoms made their way into the river
-Dialogue: 0,0:03:52.37,0:03:55.13,CHN,,0,0,0,,放射性原子进入河流
-Dialogue: 0,0:03:55.13,0:03:59.48,ENG,,0,0,0,,and then into the ceramic packaging for Intel's microchips.
-Dialogue: 0,0:03:55.13,0:03:59.48,CHN,,0,0,0,,然后进入英特尔芯片的陶瓷封装
-Dialogue: 0,0:03:59.48,0:04:02.00,ENG,,0,0,0,,Intel scientists investigating the problem found that
-Dialogue: 0,0:03:59.48,0:04:02.00,CHN,,0,0,0,,调查这个问题的英特尔科学家发现
-Dialogue: 0,0:04:02.00,0:04:04.80,ENG,,0,0,0,,even trace amounts of uranium and thorium in the ceramic
-Dialogue: 0,0:04:02.00,0:04:04.80,CHN,,0,0,0,,即便是陶瓷中痕量的铀和钍
-Dialogue: 0,0:04:04.80,0:04:07.73,ENG,,0,0,0,,were sufficient to cause problems.
-Dialogue: 0,0:04:04.80,0:04:07.73,CHN,,0,0,0,,也足以引起问题
-Dialogue: 0,0:04:07.73,0:04:10.40,ENG,,0,0,0,,In their DRAM, memory was stored as the presence
-Dialogue: 0,0:04:07.73,0:04:10.40,CHN,,0,0,0,,在英特尔的DRAM中
-Dialogue: 0,0:04:10.40,0:04:14.25,ENG,,0,0,0,,or absence of electrons in a semiconductor well.
-Dialogue: 0,0:04:10.40,0:04:14.25,CHN,,0,0,0,,他们以半导体阱中的电子存在与否来存储0和1
-Dialogue: 0,0:04:14.25,0:04:17.14,ENG,,0,0,0,,The alpha particles emitted by uranium and thorium
-Dialogue: 0,0:04:14.25,0:04:17.14,CHN,,0,0,0,,铀和钍发射的α粒子
-Dialogue: 0,0:04:17.14,0:04:19.14,ENG,,0,0,0,,were energetic and ionizing enough
-Dialogue: 0,0:04:17.14,0:04:19.14,CHN,,0,0,0,,能量充足并且电离能力极强
-Dialogue: 0,0:04:19.14,0:04:22.49,ENG,,0,0,0,,to create electron hole pairs in the silicone.
-Dialogue: 0,0:04:19.14,0:04:22.49,CHN,,0,0,0,,足以在硅中产生电子空穴对
-Dialogue: 0,0:04:22.49,0:04:25.45,ENG,,0,0,0,,If an alpha particle is struck in just the right place,
-Dialogue: 0,0:04:22.49,0:04:25.45,CHN,,0,0,0,,如果α粒子撞击的位置正确
-Dialogue: 0,0:04:25.45,0:04:28.93,ENG,,0,0,0,,it could create a large number of free charge carriers
-Dialogue: 0,0:04:25.45,0:04:28.93,CHN,,0,0,0,,它可能会产生大量的自由电荷载流子
-Dialogue: 0,0:04:28.93,0:04:31.94,ENG,,0,0,0,,causing electrons to accumulate in the well
-Dialogue: 0,0:04:28.93,0:04:31.94,CHN,,0,0,0,,导致电子在阱中堆积
-Dialogue: 0,0:04:31.94,0:04:34.60,ENG,,0,0,0,,flipping a one to a zero.
-Dialogue: 0,0:04:31.94,0:04:34.60,CHN,,0,0,0,,将1翻转为0
-Dialogue: 0,0:04:34.60,0:04:39.34,ENG,,0,0,0,,This is known as a single event upset, a type of soft error.
-Dialogue: 0,0:04:34.60,0:04:39.34,CHN,,0,0,0,,这被称为单粒子翻转，是一种软性错误
-Dialogue: 0,0:04:39.34,0:04:42.69,ENG,,0,0,0,,The error is soft because the device hasn't been damaged.
-Dialogue: 0,0:04:39.34,0:04:42.69,CHN,,0,0,0,,之所以说是“软”错误，是因为设备并没有损坏
-Dialogue: 0,0:04:42.69,0:04:43.70,ENG,,0,0,0,,The bit has changed,
-Dialogue: 0,0:04:42.69,0:04:43.70,CHN,,0,0,0,,某一位发生了变化
-Dialogue: 0,0:04:43.70,0:04:47.46,ENG,,0,0,0,,but you could erase it and rewrite it with no problems.
-Dialogue: 0,0:04:43.70,0:04:47.46,CHN,,0,0,0,,但你可以毫无问题地将其擦除并重写
-Dialogue: 0,0:04:47.46,0:04:50.21,ENG,,0,0,0,,Investigators exposed the chips to alpha emitters
-Dialogue: 0,0:04:47.46,0:04:50.21,CHN,,0,0,0,,研究人员将芯片暴露在
-Dialogue: 0,0:04:50.21,0:04:52.15,ENG,,0,0,0,,with different levels of activity.
-Dialogue: 0,0:04:50.21,0:04:52.15,CHN,,0,0,0,,不同强度的α射线中
-Dialogue: 0,0:04:52.15,0:04:53.25,ENG,,0,0,0,,And just as you'd expect,
-Dialogue: 0,0:04:52.15,0:04:53.25,CHN,,0,0,0,,不出所料
-Dialogue: 0,0:04:53.25,0:04:55.95,ENG,,0,0,0,,they found the number of bit flips directly correlated
-Dialogue: 0,0:04:53.25,0:04:55.95,CHN,,0,0,0,,他们发现位翻转发生的频率
-Dialogue: 0,0:04:55.95,0:04:57.28,ENG,,0,0,0,,with the number of alpha particles
-Dialogue: 0,0:04:55.95,0:04:57.28,CHN,,0,0,0,,与芯片所在环境中α粒子的数量
-Dialogue: 0,0:04:57.28,0:04:59.43,ENG,,0,0,0,,the chip had been exposed to.
-Dialogue: 0,0:04:57.28,0:04:59.43,CHN,,0,0,0,,有着直接的关系
-Dialogue: 0,0:04:59.43,0:05:02.55,ENG,,0,0,0,,The reason this problem was identified in the 1970s
-Dialogue: 0,0:04:59.43,0:05:02.55,CHN,,0,0,0,,之所以在上世纪70年代会发现这个问题
-Dialogue: 0,0:05:02.55,0:05:04.83,ENG,,0,0,0,,was because chip components had been miniaturized
-Dialogue: 0,0:05:02.55,0:05:04.83,CHN,,0,0,0,,是因为那时的芯片组件已经小到
-Dialogue: 0,0:05:04.83,0:05:07.50,ENG,,0,0,0,,to the point where a single alpha particle
-Dialogue: 0,0:05:04.83,0:05:07.50,CHN,,0,0,0,,只要有单个α粒子
-Dialogue: 0,0:05:07.50,0:05:09.76,ENG,,0,0,0,,could produce enough charge to flip a bit.
-Dialogue: 0,0:05:07.50,0:05:09.76,CHN,,0,0,0,,就能产生足够的电荷  使某一位发生翻转
-Dialogue: 0,0:05:10.86,0:05:14.14,ENG,,0,0,0,,Immediately, these findings attracted a lot of attention.
-Dialogue: 0,0:05:10.86,0:05:14.14,CHN,,0,0,0,,这些发现随即引起了大量关注
-Dialogue: 0,0:05:14.14,0:05:15.65,ENG,,0,0,0,,Before the paper was published,
-Dialogue: 0,0:05:14.14,0:05:15.65,CHN,,0,0,0,,在论文被发表前
-Dialogue: 0,0:05:15.65,0:05:18.28,ENG,,0,0,0,,it was widely circulated in the industry.
-Dialogue: 0,0:05:15.65,0:05:18.28,CHN,,0,0,0,,它们已经在业内广为流传
-Dialogue: 0,0:05:18.28,0:05:22.20,ENG,,0,0,0,,And as a result, chip manufacturers were a lot more careful
-Dialogue: 0,0:05:18.28,0:05:22.20,CHN,,0,0,0,,这让芯片制造商变得更加谨慎
-Dialogue: 0,0:05:22.20,0:05:23.47,ENG,,0,0,0,,to avoid radioactive materials
-Dialogue: 0,0:05:22.20,0:05:23.47,CHN,,0,0,0,,以免在生产和封装芯片时
-Dialogue: 0,0:05:23.47,0:05:26.30,ENG,,0,0,0,,when producing their microchips and packaging.
-Dialogue: 0,0:05:23.47,0:05:26.30,CHN,,0,0,0,,使用了带有放射性的原料
-Dialogue: 0,0:05:26.30,0:05:28.53,ENG,,0,0,0,,Therefore, the bit flip that gave Maria Vindevogel
-Dialogue: 0,0:05:26.30,0:05:28.53,CHN,,0,0,0,,因此，让玛丽亚·温德沃格尔获得
-Dialogue: 0,0:05:28.53,0:05:31.38,ENG,,0,0,0,,4,096 extra votes
-Dialogue: 0,0:05:28.53,0:05:31.38,CHN,,0,0,0,,额外4096票的位翻转
-Dialogue: 0,0:05:31.38,0:05:35.49,ENG,,0,0,0,,wasn't caused by natural radioactivity in the computer.
-Dialogue: 0,0:05:31.38,0:05:35.49,CHN,,0,0,0,,并不是由计算机中的自然放射性引起的
-Dialogue: 0,0:05:35.49,0:05:37.27,ENG,,0,0,0,,So where did it come from?
-Dialogue: 0,0:05:35.49,0:05:37.27,CHN,,0,0,0,,那么它是从哪里来的呢
-Dialogue: 0,0:05:38.20,0:05:40.75,ENG,,0,0,0,,After Henri Becquerel discovered radioactivity
-Dialogue: 0,0:05:40.75,0:05:42.96,ENG,,0,0,0,,with uranium in 1896,
-Dialogue: 0,0:05:38.20,0:05:42.96,CHN,,0,0,0,,1896年  亨利·贝克勒尔发现铀具有放射性后
-Dialogue: 0,0:05:42.96,0:05:45.28,ENG,,0,0,0,,scientists sought a way to measure it.
-Dialogue: 0,0:05:42.96,0:05:45.28,CHN,,0,0,0,,科学家们开始寻找测量它的方法
-Dialogue: 0,0:05:45.28,0:05:48.23,ENG,,0,0,0,,How radioactive were different materials?
-Dialogue: 0,0:05:45.28,0:05:48.23,CHN,,0,0,0,,不同材料的放射性如何
-Dialogue: 0,0:05:48.23,0:05:51.66,ENG,,0,0,0,,And one way to do this is with a gold leaf electrometer.
-Dialogue: 0,0:05:48.23,0:05:51.66,CHN,,0,0,0,,一种测量方法是使用金箔静电计
-Dialogue: 0,0:05:51.66,0:05:54.35,ENG,,0,0,0,,When it's charged, the leaf is repelled
-Dialogue: 0,0:05:51.66,0:05:54.35,CHN,,0,0,0,,当它被充能时，金箔会产生张角
-Dialogue: 0,0:05:54.35,0:05:56.21,ENG,,0,0,0,,and you can measure the amount of charge
-Dialogue: 0,0:05:54.35,0:05:56.21,CHN,,0,0,0,,你就可以通过金箔抬起的角度
-Dialogue: 0,0:05:56.21,0:05:58.36,ENG,,0,0,0,,by the angle of the leaf.
-Dialogue: 0,0:05:56.21,0:05:58.36,CHN,,0,0,0,,来测量电荷量
-Dialogue: 0,0:05:58.36,0:06:01.44,ENG,,0,0,0,,Now, if ionizing radiation enters the chamber,
-Dialogue: 0,0:05:58.36,0:06:01.44,CHN,,0,0,0,,现在，如果电离辐射进入静电计
-Dialogue: 0,0:06:01.44,0:06:03.79,ENG,,0,0,0,,it rips electrons off air molecules,
-Dialogue: 0,0:06:01.44,0:06:03.79,CHN,,0,0,0,,它会从空气中剥离出电子
-Dialogue: 0,0:06:03.79,0:06:06.68,ENG,,0,0,0,,creating positive and negative charges.
-Dialogue: 0,0:06:03.79,0:06:06.68,CHN,,0,0,0,,产生正电荷和负电荷
-Dialogue: 0,0:06:06.68,0:06:09.11,ENG,,0,0,0,,Opposite charges are attracted to the leaf,
-Dialogue: 0,0:06:06.68,0:06:09.11,CHN,,0,0,0,,相反的电荷被吸引到金箔上
-Dialogue: 0,0:06:09.11,0:06:11.44,ENG,,0,0,0,,discharging it over time.
-Dialogue: 0,0:06:09.11,0:06:11.44,CHN,,0,0,0,,导致其随着时间的推移而放电
-Dialogue: 0,0:06:11.44,0:06:13.73,ENG,,0,0,0,,The higher the level of ionizing radiation,
-Dialogue: 0,0:06:11.44,0:06:13.73,CHN,,0,0,0,,电离辐射的强度越高
-Dialogue: 0,0:06:13.73,0:06:16.63,ENG,,0,0,0,,the faster the device discharges.
-Dialogue: 0,0:06:13.73,0:06:16.63,CHN,,0,0,0,,静电计放电就越快
-Dialogue: 0,0:06:16.63,0:06:19.78,ENG,,0,0,0,,In 1910, Theodore Wolf took his electrometer
-Dialogue: 0,0:06:16.63,0:06:19.78,CHN,,0,0,0,,1910年，西奥多·沃尔夫带着他的静电计
-Dialogue: 0,0:06:19.78,0:06:21.73,ENG,,0,0,0,,to the top of the Eiffel Tower.
-Dialogue: 0,0:06:19.78,0:06:21.73,CHN,,0,0,0,,来到了艾菲尔铁塔的顶端
-Dialogue: 0,0:06:21.73,0:06:24.60,ENG,,0,0,0,,Since radioactivity was found in the soil and rocks of earth,
-Dialogue: 0,0:06:21.73,0:06:24.60,CHN,,0,0,0,,由于人们已在地球的土壤和岩石中  发现了放射性
-Dialogue: 0,0:06:24.60,0:06:27.30,ENG,,0,0,0,,he expected that 300 meters up,
-Dialogue: 0,0:06:24.60,0:06:27.30,CHN,,0,0,0,,他认为在距离地表300米高的地方
-Dialogue: 0,0:06:27.30,0:06:29.74,ENG,,0,0,0,,the radiation would be just a few percent
-Dialogue: 0,0:06:27.30,0:06:29.74,CHN,,0,0,0,,那里的放射性
-Dialogue: 0,0:06:29.74,0:06:31.48,ENG,,0,0,0,,of the ground radiation.
-Dialogue: 0,0:06:29.74,0:06:31.48,CHN,,0,0,0,,应该只有地表的百分之几
-Dialogue: 0,0:06:31.48,0:06:34.92,ENG,,0,0,0,,Instead he found only a slight decrease.
-Dialogue: 0,0:06:31.48,0:06:34.92,CHN,,0,0,0,,然而  他却仅观测到了轻微的下降
-Dialogue: 0,0:06:35.82,0:06:38.67,ENG,,0,0,0,,In 1911, Austrian physicist Victor Hess
-Dialogue: 0,0:06:35.82,0:06:38.67,CHN,,0,0,0,,1911年  奥地利物理学家维克托·赫斯
-Dialogue: 0,0:06:38.67,0:06:41.06,ENG,,0,0,0,,decided to take this experiment further.
-Dialogue: 0,0:06:38.67,0:06:41.06,CHN,,0,0,0,,决定走得更远
-Dialogue: 0,0:06:41.06,0:06:42.04,ENG,,0,0,0,,Literally.
-Dialogue: 0,0:06:41.06,0:06:42.04,CHN,,0,0,0,,字面意思的“更远”
-Dialogue: 0,0:06:42.04,0:06:46.20,ENG,,0,0,0,,He loaded electric scopes into the basket of a hydrogen balloon.
-Dialogue: 0,0:06:42.04,0:06:46.20,CHN,,0,0,0,,他把电镜装进氢气球的篮子里
-Dialogue: 0,0:06:46.20,0:06:47.37,ENG,,0,0,0,,In his first two flights,
-Dialogue: 0,0:06:46.20,0:06:47.37,CHN,,0,0,0,,在他的前两次飞行中
-Dialogue: 0,0:06:47.37,0:06:49.63,ENG,,0,0,0,,he observed the same thing as Wolf.
-Dialogue: 0,0:06:47.37,0:06:49.63,CHN,,0,0,0,,他观测到的结果与沃尔夫相同
-Dialogue: 0,0:06:49.63,0:06:52.20,ENG,,0,0,0,,Up to an altitude of 1100 meters,
-Dialogue: 0,0:06:49.63,0:06:52.20,CHN,,0,0,0,,在高达1100米的地方
-Dialogue: 0,0:06:52.20,0:06:55.64,ENG,,0,0,0,,both trips revealed no fundamental change in radiation
-Dialogue: 0,0:06:52.20,0:06:55.64,CHN,,0,0,0,,两趟观测都显示 与地表相比
-Dialogue: 0,0:06:55.64,0:06:58.53,ENG,,0,0,0,,compared to the values observed on the ground.
-Dialogue: 0,0:06:55.64,0:06:58.53,CHN,,0,0,0,,辐射没有本质变化
-Dialogue: 0,0:06:58.53,0:07:01.55,ENG,,0,0,0,,But the next year, he conducted seven balloon flights
-Dialogue: 0,0:06:58.53,0:07:01.55,CHN,,0,0,0,,但是第二年，他进行了七次气球飞行
-Dialogue: 0,0:07:01.55,0:07:04.83,ENG,,0,0,0,,up to an altitude of 5,200 meters.
-Dialogue: 0,0:07:01.55,0:07:04.83,CHN,,0,0,0,,升至5200米的高度
-Dialogue: 0,0:07:04.83,0:07:08.41,ENG,,0,0,0,,And here he discovered something remarkable.
-Dialogue: 0,0:07:04.83,0:07:08.41,CHN,,0,0,0,,他在这里发现了一些了不得的东西
-Dialogue: 0,0:07:08.41,0:07:10.90,ENG,,0,0,0,,While there was an initial drop in radiation
-Dialogue: 0,0:07:08.41,0:07:10.90,CHN,,0,0,0,,虽然在最初的几百米内
-Dialogue: 0,0:07:10.90,0:07:13.06,ENG,,0,0,0,,for the first several hundred meters,
-Dialogue: 0,0:07:10.90,0:07:13.06,CHN,,0,0,0,,辐射开始下降
-Dialogue: 0,0:07:13.06,0:07:16.00,ENG,,0,0,0,,above one kilometer or so
-Dialogue: 0,0:07:13.06,0:07:16.00,CHN,,0,0,0,,但超过一千米左右
-Dialogue: 0,0:07:16.00,0:07:18.92,ENG,,0,0,0,,the level increased with increasing altitude.
-Dialogue: 0,0:07:16.00,0:07:18.92,CHN,,0,0,0,,辐射水平随着高度的增加而增加
-Dialogue: 0,0:07:18.92,0:07:20.56,ENG,,0,0,0,,At his maximum height,
-Dialogue: 0,0:07:18.92,0:07:20.56,CHN,,0,0,0,,在他所能达到的最大高度
-Dialogue: 0,0:07:20.56,0:07:23.85,ENG,,0,0,0,,the level of radiation was several times greater
-Dialogue: 0,0:07:20.56,0:07:23.85,CHN,,0,0,0,,那里的辐射水平
-Dialogue: 0,0:07:23.85,0:07:26.11,ENG,,0,0,0,,than it was on the ground.
-Dialogue: 0,0:07:23.85,0:07:26.11,CHN,,0,0,0,,是地表的几倍
-Dialogue: 0,0:07:26.11,0:07:30.35,ENG,,0,0,0,,The radiation appeared to be coming, not from the earth,
-Dialogue: 0,0:07:26.11,0:07:30.35,CHN,,0,0,0,,辐射似乎不是来自地球
-Dialogue: 0,0:07:30.35,0:07:31.70,ENG,,0,0,0,,but from the sky.
-Dialogue: 0,0:07:30.35,0:07:31.70,CHN,,0,0,0,,而是来自天空
-Dialogue: 0,0:07:32.91,0:07:34.90,ENG,,0,0,0,,Hess scheduled one of his balloon flights
-Dialogue: 0,0:07:32.91,0:07:34.90,CHN,,0,0,0,,赫斯在日食期间
-Dialogue: 0,0:07:34.90,0:07:36.82,ENG,,0,0,0,,during a solar eclipse.
-Dialogue: 0,0:07:34.90,0:07:36.82,CHN,,0,0,0,,安排了一次气球飞行
-Dialogue: 0,0:07:36.82,0:07:38.97,ENG,,0,0,0,,And as the moon passed in front of the sun,
-Dialogue: 0,0:07:36.82,0:07:38.97,CHN,,0,0,0,,当月球从太阳前经过时
-Dialogue: 0,0:07:38.97,0:07:41.74,ENG,,0,0,0,,he carefully watched his instruments.
-Dialogue: 0,0:07:38.97,0:07:41.74,CHN,,0,0,0,,他认真地盯着他的仪器
-Dialogue: 0,0:07:41.74,0:07:44.08,ENG,,0,0,0,,But the readings were unaffected.
-Dialogue: 0,0:07:41.74,0:07:44.08,CHN,,0,0,0,,但读数并没有受影响
-Dialogue: 0,0:07:44.08,0:07:46.13,ENG,,0,0,0,,Even with the sun half covered,
-Dialogue: 0,0:07:44.08,0:07:46.13,CHN,,0,0,0,,即使太阳被遮住了一半
-Dialogue: 0,0:07:46.13,0:07:49.06,ENG,,0,0,0,,the level of radiation was the same.
-Dialogue: 0,0:07:46.13,0:07:49.06,CHN,,0,0,0,,辐射水平也是一样的
-Dialogue: 0,0:07:49.06,0:07:51.14,ENG,,0,0,0,,Since no influence of the eclipse
-Dialogue: 0,0:07:49.06,0:07:51.14,CHN,,0,0,0,,由于没有观测到
-Dialogue: 0,0:07:51.14,0:07:53.25,ENG,,0,0,0,,on the penetrating radiation was noted,
-Dialogue: 0,0:07:51.14,0:07:53.25,CHN,,0,0,0,,日食对辐射的影响
-Dialogue: 0,0:07:53.25,0:07:53.90,ENG,,0,0,0,,we conclude that
-Dialogue: 0,0:07:53.25,0:07:53.90,CHN,,0,0,0,,我们得出结论
-Dialogue: 0,0:07:53.90,0:07:57.70,ENG,,0,0,0,,even if a part of the radiation should be of cosmic origin,
-Dialogue: 0,0:07:53.90,0:07:57.70,CHN,,0,0,0,,即使那部分辐射的来源是宇宙
-Dialogue: 0,0:07:57.70,0:07:59.81,ENG,,0,0,0,,it hardly emanates from the sun.
-Dialogue: 0,0:07:57.70,0:07:59.81,CHN,,0,0,0,,它也几乎不来自于太阳
-Dialogue: 0,0:07:59.81,0:08:02.88,ENG,,0,0,0,,Victor Hess had discovered cosmic rays.
-Dialogue: 0,0:07:59.81,0:08:02.88,CHN,,0,0,0,,维克托·赫斯发现了宇宙射线
-Dialogue: 0,0:08:02.88,0:08:06.46,ENG,,0,0,0,,High energy radiation from space.
-Dialogue: 0,0:08:02.88,0:08:06.46,CHN,,0,0,0,,来自太空的高能辐射
-Dialogue: 0,0:08:06.46,0:08:08.28,ENG,,0,0,0,,But what were these rays exactly
-Dialogue: 0,0:08:06.46,0:08:08.28,CHN,,0,0,0,,但是这些射线究竟是什么呢
-Dialogue: 0,0:08:08.28,0:08:10.86,ENG,,0,0,0,,and where were they coming from?
-Dialogue: 0,0:08:08.28,0:08:10.86,CHN,,0,0,0,,它们又从哪来呢
-Dialogue: 0,0:08:10.86,0:08:13.75,ENG,,0,0,0,,Well, today we know they aren't electromagnetic rays
-Dialogue: 0,0:08:10.86,0:08:13.75,CHN,,0,0,0,,不像之前人们认为它们是电磁波
-Dialogue: 0,0:08:13.75,0:08:16.24,ENG,,0,0,0,,as many suspected, but particles.
-Dialogue: 0,0:08:13.75,0:08:16.24,CHN,,0,0,0,,今天我们知道它们是粒子
-Dialogue: 0,0:08:16.24,0:08:18.85,ENG,,0,0,0,,Around 90% are protons,
-Dialogue: 0,0:08:16.24,0:08:18.85,CHN,,0,0,0,,其中大约90%是质子
-Dialogue: 0,0:08:18.85,0:08:23.75,ENG,,0,0,0,,9% are helium nuclei, and 1% are heavier nuclei.
-Dialogue: 0,0:08:18.85,0:08:23.75,CHN,,0,0,0,,9%是氦核 1%是更重的核素
-Dialogue: 0,0:08:18.85,0:08:23.75,CHN,,0,0,0,,{\an7}  比氢氦重的都是金属
-Dialogue: 0,0:08:23.75,0:08:25.87,ENG,,0,0,0,,Some of them are from the sun,
-Dialogue: 0,0:08:23.75,0:08:25.87,CHN,,0,0,0,,它们当中有些来自太阳
-Dialogue: 0,0:08:25.87,0:08:28.63,ENG,,0,0,0,,but they have comparatively low energy.
-Dialogue: 0,0:08:25.87,0:08:28.63,CHN,,0,0,0,,具有的能量相对较低
-Dialogue: 0,0:08:28.63,0:08:31.22,ENG,,0,0,0,,High energy cosmic rays moving very close
-Dialogue: 0,0:08:28.63,0:08:31.22,CHN,,0,0,0,,高能宇宙射线被银河系和其他星系的
-Dialogue: 0,0:08:31.22,0:08:36.13,ENG,,0,0,0,,to the speed of light come from exploding stars, supernova
-Dialogue: 0,0:08:31.22,0:08:36.13,CHN,,0,0,0,,恒星爆炸 超新星事件
-Dialogue: 0,0:08:36.13,0:08:39.75,ENG,,0,0,0,,in our own galaxy and in others.
-Dialogue: 0,0:08:36.13,0:08:39.75,CHN,,0,0,0,,加速到接近光速
-Dialogue: 0,0:08:39.75,0:08:41.40,ENG,,0,0,0,,And the highest energy particles
-Dialogue: 0,0:08:39.75,0:08:41.40,CHN,,0,0,0,,而能量最高的粒子
-Dialogue: 0,0:08:41.40,0:08:43.50,ENG,,0,0,0,,are thought to come from black holes,
-Dialogue: 0,0:08:41.40,0:08:43.50,CHN,,0,0,0,,则被认为来自黑洞
-Dialogue: 0,0:08:43.50,0:08:47.73,ENG,,0,0,0,,including the super massive black holes at the centers of galaxies.
-Dialogue: 0,0:08:43.50,0:08:47.73,CHN,,0,0,0,,包括星系中心的超大质量黑洞
-Dialogue: 0,0:08:47.73,0:08:49.56,ENG,,0,0,0,,But it's hard to pin down
-Dialogue: 0,0:08:47.73,0:08:49.56,CHN,,0,0,0,,但是很难搞清楚
-Dialogue: 0,0:08:49.56,0:08:51.48,ENG,,0,0,0,,exactly where cosmic rays come from
-Dialogue: 0,0:08:49.56,0:08:51.48,CHN,,0,0,0,,宇宙射线到底是从哪里来的
-Dialogue: 0,0:08:51.48,0:08:53.41,ENG,,0,0,0,,because as charged particles,
-Dialogue: 0,0:08:51.48,0:08:53.41,CHN,,0,0,0,,因为它们是带电粒子
-Dialogue: 0,0:08:53.41,0:08:56.25,ENG,,0,0,0,,they're deflected by magnetic fields in space.
-Dialogue: 0,0:08:53.41,0:08:56.25,CHN,,0,0,0,,会被空间中的磁场改变方向
-Dialogue: 0,0:08:56.25,0:08:58.84,ENG,,0,0,0,,So they can wind their way through the universe
-Dialogue: 0,0:08:58.84,0:09:01.34,ENG,,0,0,0,,for billions of years.
-Dialogue: 0,0:08:58.84,0:08:58.84,CHN,,0,0,0,,所以它们会在宇宙中曲折穿行数十亿年
-Dialogue: 0,0:09:01.34,0:09:05.31,ENG,,0,0,0,,A cosmic ray detected on October 15th, 1991
-Dialogue: 0,0:09:01.34,0:09:05.31,CHN,,0,0,0,,1991年10月15日探测到的一条宇宙线
-Dialogue: 0,0:09:05.31,0:09:08.44,ENG,,0,0,0,,had an energy of 51 joules.
-Dialogue: 0,0:09:05.31,0:09:08.44,CHN,,0,0,0,,其能量达到了51焦耳
-Dialogue: 0,0:09:08.44,0:09:10.83,ENG,,0,0,0,,That is a single subatomic particle
-Dialogue: 0,0:09:08.44,0:09:10.83,CHN,,0,0,0,,这是一个亚原子粒子
-Dialogue: 0,0:09:10.83,0:09:15.87,ENG,,0,0,0,,with the energy of a baseball going 100 kph.
-Dialogue: 0,0:09:10.83,0:09:15.87,CHN,,0,0,0,,动能相当于一个有百公里时速的棒球
-Dialogue: 0,0:09:15.87,0:09:20.12,ENG,,0,0,0,,For obvious reasons, it was dubbed the OMG particle.
-Dialogue: 0,0:09:15.87,0:09:20.12,CHN,,0,0,0,,出于很明显的原因（粒子动能极大），它被称作OMG粒子
-Dialogue: 0,0:09:15.87,0:09:20.12,CHN,,0,0,0,,{\an7} 一些参考 http://www.fourmilab.ch/documents/OhMyGodParticle/\N似乎没有正式译名
-Dialogue: 0,0:09:20.12,0:09:22.01,ENG,,0,0,0,,But primary cosmic rays like these
-Dialogue: 0,0:09:20.12,0:09:22.01,CHN,,0,0,0,,但是像那样的初级宇宙线
-Dialogue: 0,0:09:22.01,0:09:24.23,ENG,,0,0,0,,don't make it down to earth's surface.
-Dialogue: 0,0:09:22.01,0:09:24.23,CHN,,0,0,0,,不会到达地表
-Dialogue: 0,0:09:24.23,0:09:26.27,ENG,,0,0,0,,Instead, they collide with air molecules
-Dialogue: 0,0:09:26.27,0:09:28.55,ENG,,0,0,0,,around 25 kilometers above the ground
-Dialogue: 0,0:09:24.23,0:09:28.55,CHN,,0,0,0,,它们会和距地面约25km的大气中的分子碰撞
-Dialogue: 0,0:09:28.55,0:09:31.62,ENG,,0,0,0,,and create new particles like pions.
-Dialogue: 0,0:09:28.55,0:09:31.62,CHN,,0,0,0,,产生新的粒子 如π介子
-Dialogue: 0,0:09:31.62,0:09:35.42,ENG,,0,0,0,,These collide and decay into other particles like neutrons,
-Dialogue: 0,0:09:31.62,0:09:35.42,CHN,,0,0,0,,这些粒子再次碰撞和衰变产生其他粒子 如中子
-Dialogue: 0,0:09:35.42,0:09:40.42,ENG,,0,0,0,,protons, muons, electrons, positrons and photons,
-Dialogue: 0,0:09:35.42,0:09:40.42,CHN,,0,0,0,,质子 μ子 电子 正电子 和光子
-Dialogue: 0,0:09:40.45,0:09:42.82,ENG,,0,0,0,,which in turn collide with other air molecules
-Dialogue: 0,0:09:40.45,0:09:42.82,CHN,,0,0,0,,这些粒子又与其他空气分子碰撞
-Dialogue: 0,0:09:42.82,0:09:45.30,ENG,,0,0,0,,in one long cascade.
-Dialogue: 0,0:09:42.82,0:09:45.30,CHN,,0,0,0,,产生级联效应
-Dialogue: 0,0:09:45.30,0:09:48.33,ENG,,0,0,0,,So from a single primary cosmic ray,
-Dialogue: 0,0:09:45.30,0:09:48.33,CHN,,0,0,0,,所以从一个初级宇宙粒子
-Dialogue: 0,0:09:48.33,0:09:52.62,ENG,,0,0,0,,comes a shower of particles streaming towards the earth.
-Dialogue: 0,0:09:48.33,0:09:52.62,CHN,,0,0,0,,会产生一阵向地表倾泻的粒子流
-Dialogue: 0,0:09:52.62,0:09:55.01,ENG,,0,0,0,,It is one of these particles that investigators
-Dialogue: 0,0:09:52.62,0:09:55.01,CHN,,0,0,0,,人们怀疑正是这些粒子中的一个
-Dialogue: 0,0:09:55.01,0:09:58.57,ENG,,0,0,0,,suspect struck a transistor in a computer in Belgium,
-Dialogue: 0,0:09:55.01,0:09:58.57,CHN,,0,0,0,,击中了比利时一台电脑上的晶体管
-Dialogue: 0,0:09:58.57,0:10:01.82,ENG,,0,0,0,,flipping the 13th bit from a zero to a one
-Dialogue: 0,0:09:58.57,0:10:01.82,CHN,,0,0,0,,将第13比特从0翻转到1
-Dialogue: 0,0:10:01.82,0:10:06.76,ENG,,0,0,0,,and giving Maria Vindevogel 4,096 extra votes.
-Dialogue: 0,0:10:01.82,0:10:06.76,CHN,,0,0,0,,给Maria Vindevogel增加了4096张额外选票
-Dialogue: 0,0:10:07.77,0:10:10.80,ENG,,0,0,0,,But how often do things like this happen?
-Dialogue: 0,0:10:07.77,0:10:10.80,CHN,,0,0,0,,但是这些事情多久发生一次
-Dialogue: 0,0:10:10.80,0:10:12.30,ENG,,0,0,0,,In 1911, Charles Wilson
-Dialogue: 0,0:10:10.80,0:10:12.30,CHN,,0,0,0,,1911年  查尔斯威尔逊（的研究）
-Dialogue: 0,0:10:12.30,0:10:15.91,ENG,,0,0,0,,made it possible to see the cosmic rays all around us
-Dialogue: 0,0:10:12.30,0:10:15.91,CHN,,0,0,0,,让我们得以观察周围环境中的宇宙射线
-Dialogue: 0,0:10:15.91,0:10:18.27,ENG,,0,0,0,,when he perfected his cloud chamber,
-Dialogue: 0,0:10:15.91,0:10:18.27,CHN,,0,0,0,,他完善了自己的云室
-Dialogue: 0,0:10:18.27,0:10:22.31,ENG,,0,0,0,,an enclosure with super saturated water or alcohol vapor.
-Dialogue: 0,0:10:18.27,0:10:22.31,CHN,,0,0,0,,这是个封闭容器  里面充满了过饱和的水蒸汽或酒精蒸气
-Dialogue: 0,0:10:22.31,0:10:24.50,ENG,,0,0,0,,When a cosmic ray passes through the chamber,
-Dialogue: 0,0:10:22.31,0:10:24.50,CHN,,0,0,0,,当一个宇宙线粒子穿过云室
-Dialogue: 0,0:10:24.50,0:10:27.56,ENG,,0,0,0,,it ionizes the gas causing vapor to condense
-Dialogue: 0,0:10:24.50,0:10:27.56,CHN,,0,0,0,,电离气体导致蒸汽凝结
-Dialogue: 0,0:10:27.56,0:10:29.62,ENG,,0,0,0,,into tiny droplets on the ions,
-Dialogue: 0,0:10:27.56,0:10:29.62,CHN,,0,0,0,,产生附着在离子上的小液滴
-Dialogue: 0,0:10:29.62,0:10:32.10,ENG,,0,0,0,,revealing the path of the particle.
-Dialogue: 0,0:10:29.62,0:10:32.10,CHN,,0,0,0,,揭示粒子的运动路径
-Dialogue: 0,0:10:32.10,0:10:35.50,ENG,,0,0,0,,Alpha particles, helium nuclei, leave short thick tracks
-Dialogue: 0,0:10:32.10,0:10:35.50,CHN,,0,0,0,,α粒子（即氦核）会留下短而粗的轨迹
-Dialogue: 0,0:10:35.50,0:10:40.51,ENG,,0,0,0,,while beta particles, electrons leave long skinny trails.
-Dialogue: 0,0:10:35.50,0:10:40.51,CHN,,0,0,0,,而β粒子（即电子）会则留下细长的尾迹
-Dialogue: 0,0:10:40.51,0:10:43.83,ENG,,0,0,0,,In 1932, Carl Anderson identified a trail
-Dialogue: 0,0:10:40.51,0:10:43.83,CHN,,0,0,0,,1932年 卡尔·安德森发现了一条特殊的轨迹
-Dialogue: 0,0:10:43.83,0:10:46.45,ENG,,0,0,0,,that looked like it was made by an electron,
-Dialogue: 0,0:10:43.83,0:10:46.45,CHN,,0,0,0,,看似由电子产生
-Dialogue: 0,0:10:46.45,0:10:50.50,ENG,,0,0,0,,but in the applied magnetic field, it curved in the wrong direction.
-Dialogue: 0,0:10:46.45,0:10:50.50,CHN,,0,0,0,,但它在外加磁场中向相反方向偏转
-Dialogue: 0,0:10:50.50,0:10:53.28,ENG,,0,0,0,,Implying it had a positive charge.
-Dialogue: 0,0:10:50.50,0:10:53.28,CHN,,0,0,0,,这说明它带有正电荷
-Dialogue: 0,0:10:53.28,0:10:57.73,ENG,,0,0,0,,Anderson had found the anti electron or positron.
-Dialogue: 0,0:10:53.28,0:10:57.73,CHN,,0,0,0,,由此安德森发现了“反电子” 或曰“正电子”
-Dialogue: 0,0:10:57.73,0:11:01.26,ENG,,0,0,0,,It was the first confirmed sighting of anti-matter.
-Dialogue: 0,0:10:57.73,0:11:01.26,CHN,,0,0,0,,这是人类首次发现反物质的存在
-Dialogue: 0,0:11:01.26,0:11:03.85,ENG,,0,0,0,,Four years later, also using a cloud chamber,
-Dialogue: 0,0:11:01.26,0:11:03.85,CHN,,0,0,0,,四年之后 也是在云室中
-Dialogue: 0,0:11:03.85,0:11:07.81,ENG,,0,0,0,,he discovered the muon, again in cosmic rays.
-Dialogue: 0,0:11:03.85,0:11:07.81,CHN,,0,0,0,,他发现了宇宙线中的μ子
-Dialogue: 0,0:11:07.81,0:11:09.76,ENG,,0,0,0,,For his discovery of the positron,
-Dialogue: 0,0:11:07.81,0:11:09.76,CHN,,0,0,0,,由于正电子的发现
-Dialogue: 0,0:11:09.76,0:11:14.04,ENG,,0,0,0,,Anderson was awarded the Nobel Prize in Physics in 1936.
-Dialogue: 0,0:11:09.76,0:11:14.04,CHN,,0,0,0,,安德森获得了1936年的诺贝尔物理学奖
-Dialogue: 0,0:11:14.04,0:11:16.78,ENG,,0,0,0,,He shared the prize with Victor Hess,
-Dialogue: 0,0:11:14.04,0:11:16.78,CHN,,0,0,0,,他与维克托·赫斯分享了奖项
-Dialogue: 0,0:11:16.78,0:11:20.14,ENG,,0,0,0,,the man who discovered cosmic rays in the first place,
-Dialogue: 0,0:11:16.78,0:11:20.14,CHN,,0,0,0,,后者首次发现了宇宙射线
-Dialogue: 0,0:11:20.14,0:11:23.03,ENG,,0,0,0,,invisible particles that affect our lives in ways
-Dialogue: 0,0:11:20.14,0:11:23.03,CHN,,0,0,0,,在不经意中影响我们生活的
-Dialogue: 0,0:11:23.03,0:11:25.14,ENG,,0,0,0,,most of us are oblivious to.
-Dialogue: 0,0:11:23.03,0:11:25.14,CHN,,0,0,0,,不可见粒子
-Dialogue: 0,0:11:26.48,0:11:29.14,ENG,,0,0,0,,This is possibly the rarest thing
-Dialogue: 0,0:11:26.48,0:11:29.14,CHN,,0,0,0,,这可能是电子游戏史上
-Dialogue: 0,0:11:29.14,0:11:32.06,ENG,,0,0,0,,to ever happen in a video game.
-Dialogue: 0,0:11:29.14,0:11:32.06,CHN,,0,0,0,,发生过最离谱的事情
-Dialogue: 0,0:11:32.06,0:11:35.00,ENG,,0,0,0,,In 2013, user DOTA_Teabag was speed running
-Dialogue: 0,0:11:35.00,0:11:38.22,ENG,,0,0,0,,Super Mario 64 on the console.
-Dialogue: 0,0:11:32.06,0:11:38.22,CHN,,0,0,0,,2013 年，玩家 DOTA_Teabag 正在主机上速通超马 64
-Dialogue: 0,0:11:38.22,0:11:39.86,ENG,,0,0,0,,In the level Tik Tok Clock,
-Dialogue: 0,0:11:38.22,0:11:39.86,CHN,,0,0,0,,在打“摇摆古钟”这一关时
-Dialogue: 0,0:11:39.86,0:11:43.25,ENG,,0,0,0,,he suddenly up warps onto a higher platform.
-Dialogue: 0,0:11:39.86,0:11:43.25,CHN,,0,0,0,,他突然跳到了天花板上面
-Dialogue: 0,0:11:43.25,0:11:44.58,ENG,,0,0,0,,- What the?
-Dialogue: 0,0:11:43.25,0:11:44.58,CHN,,0,0,0,,- 这啥？
-Dialogue: 0,0:11:44.58,0:11:45.41,ENG,,0,0,0,,- Did you get invisible wall?
-Dialogue: 0,0:11:44.58,0:11:45.41,CHN,,0,0,0,,你卡到空气墙里了？
-Dialogue: 0,0:11:45.41,0:11:47.17,ENG,,0,0,0,,What? - Please say you got the---
-Dialogue: 0,0:11:45.41,0:11:47.17,CHN,,0,0,0,,啥？ - 你卡到...
-Dialogue: 0,0:11:47.17,0:11:48.43,ENG,,0,0,0,,- No, that was the craziest thing
-Dialogue: 0,0:11:47.17,0:11:48.43,CHN,,0,0,0,,- 不，这是我见过
-Dialogue: 0,0:11:48.43,0:11:49.81,ENG,,0,0,0,,I've ever seen though.
-Dialogue: 0,0:11:48.43,0:11:49.81,CHN,,0,0,0,,最离谱的事情
-Dialogue: 0,0:11:49.81,0:11:52.08,ENG,,0,0,0,,- The move shaves off a few seconds
-Dialogue: 0,0:11:49.81,0:11:52.08,CHN,,0,0,0,,画面卡了几秒
-Dialogue: 0,0:11:52.08,0:11:55.15,ENG,,0,0,0,,and it seems like a newly discovered glitch in the game
-Dialogue: 0,0:11:52.08,0:11:55.15,CHN,,0,0,0,,然后看上去像找到了游戏新 bug 一样
-Dialogue: 0,0:11:55.15,0:11:57.54,ENG,,0,0,0,,that could give speed runners an edge.
-Dialogue: 0,0:11:55.15,0:11:57.54,CHN,,0,0,0,,给速通玩家一个捷径
-Dialogue: 0,0:11:57.54,0:12:00.98,ENG,,0,0,0,,User PenandCook12 put out a $1,000 bounty
-Dialogue: 0,0:11:57.54,0:12:00.98,CHN,,0,0,0,,PenandCook12 发出 1000 美金赏金
-Dialogue: 0,0:12:00.98,0:12:03.51,ENG,,0,0,0,,for anyone who could replicate the up warp.
-Dialogue: 0,0:12:00.98,0:12:03.51,CHN,,0,0,0,,给能够复现这个操作的玩家
-Dialogue: 0,0:12:03.51,0:12:05.97,ENG,,0,0,0,,But so far, after six years,
-Dialogue: 0,0:12:03.51,0:12:05.97,CHN,,0,0,0,,但是在六年后
-Dialogue: 0,0:12:05.97,0:12:08.34,ENG,,0,0,0,,no one has been able to.
-Dialogue: 0,0:12:05.97,0:12:08.34,CHN,,0,0,0,,还是没人能够做到
-Dialogue: 0,0:12:08.34,0:12:10.73,ENG,,0,0,0,,The best explanation anyone can come up with
-Dialogue: 0,0:12:08.34,0:12:10.73,CHN,,0,0,0,,目前最合理的解释是
-Dialogue: 0,0:12:10.73,0:12:13.61,ENG,,0,0,0,,is that a cosmic ray caused the glitch.
-Dialogue: 0,0:12:10.73,0:12:13.61,CHN,,0,0,0,,宇宙射线造成了这个 bug
-Dialogue: 0,0:12:13.61,0:12:15.43,ENG,,0,0,0,,It's been shown that a single bit flipped
-Dialogue: 0,0:12:13.61,0:12:15.43,CHN,,0,0,0,,有人证实 把马里奥高度坐标
-Dialogue: 0,0:12:15.43,0:12:18.35,ENG,,0,0,0,,in the first bit of Mario's height co-ordinate
-Dialogue: 0,0:12:15.43,0:12:18.35,CHN,,0,0,0,,的其中一位翻转
-Dialogue: 0,0:12:18.35,0:12:20.18,ENG,,0,0,0,,could have caused the effect.
-Dialogue: 0,0:12:18.35,0:12:20.18,CHN,,0,0,0,,就可以实现这个效果
-Dialogue: 0,0:12:20.18,0:12:24.43,ENG,,0,0,0,,On the main level, the byte was 1 1 0 0 0 1 0 1.
-Dialogue: 0,0:12:20.18,0:12:24.43,CHN,,0,0,0,,正常情况下，这个坐标表示为 11000101
-Dialogue: 0,0:12:24.43,0:12:27.16,ENG,,0,0,0,,But if you flip the last one to a zero,
-Dialogue: 0,0:12:24.43,0:12:27.16,CHN,,0,0,0,,但是如果你把最后一位翻转成 0
-Dialogue: 0,0:12:27.16,0:12:29.50,ENG,,0,0,0,,it changes his vertical position.
-Dialogue: 0,0:12:27.16,0:12:29.50,CHN,,0,0,0,,它的高度坐标将会被改变
-Dialogue: 0,0:12:29.50,0:12:30.81,ENG,,0,0,0,,And just by chance,
-Dialogue: 0,0:12:29.50,0:12:30.81,CHN,,0,0,0,,而正巧
-Dialogue: 0,0:12:30.81,0:12:34.63,ENG,,0,0,0,,this new height coincides with the higher floor.
-Dialogue: 0,0:12:30.81,0:12:34.63,CHN,,0,0,0,,这正是天花板的坐标
-Dialogue: 0,0:12:34.63,0:12:36.00,ENG,,0,0,0,,PenandCook12 wrote a script
-Dialogue: 0,0:12:34.63,0:12:36.00,CHN,,0,0,0,,PenandCook12 写了一个脚本
-Dialogue: 0,0:12:36.00,0:12:40.00,ENG,,0,0,0,,to manually flip the bit at the right moment
-Dialogue: 0,0:12:36.00,0:12:40.00,CHN,,0,0,0,,来在合适的时候翻转这一位
-Dialogue: 0,0:12:40.00,0:12:42.61,ENG,,0,0,0,,and was able to achieve the same up warp.
-Dialogue: 0,0:12:40.00,0:12:42.61,CHN,,0,0,0,,它能成功复现同样的效果
-Dialogue: 0,0:12:42.61,0:12:45.21,ENG,,0,0,0,,This is a particularly visible bit flip,
-Dialogue: 0,0:12:42.61,0:12:45.21,CHN,,0,0,0,,这是一个挺明显的位翻转
-Dialogue: 0,0:12:45.21,0:12:49.30,ENG,,0,0,0,,but the truth is cosmic rays are triggering bit flips all the time.
-Dialogue: 0,0:12:45.21,0:12:49.30,CHN,,0,0,0,,但是事实是 宇宙射线造成的位翻转时刻在发生
-Dialogue: 0,0:12:49.30,0:12:51.00,ENG,,0,0,0,,- An upset there, transient there
-Dialogue: 0,0:12:49.30,0:12:51.00,CHN,,0,0,0,,- 比较麻烦的是 宇宙射线的影响
-Dialogue: 0,0:12:51.00,0:12:53.00,ENG,,0,0,0,,can alter the function of these devices
-Dialogue: 0,0:12:51.00,0:12:53.00,CHN,,0,0,0,,能够改变这些设备的功能
-Dialogue: 0,0:12:53.00,0:12:56.12,ENG,,0,0,0,,and we call that a single event functional interrupt.
-Dialogue: 0,0:12:53.00,0:12:56.12,CHN,,0,0,0,,我们把它称作单事件功能性中断
-Dialogue: 0,0:12:56.12,0:12:57.88,ENG,,0,0,0,,So an entire process can hang.
-Dialogue: 0,0:12:56.12,0:12:57.88,CHN,,0,0,0,,整个进程都会卡住
-Dialogue: 0,0:12:57.88,0:13:00.01,ENG,,0,0,0,,So a blue screen of death that you get
-Dialogue: 0,0:12:57.88,0:13:00.01,CHN,,0,0,0,,所以你电脑的蓝屏
-Dialogue: 0,0:13:00.01,0:13:02.65,ENG,,0,0,0,,might actually have been a neutron or whatnot.
-Dialogue: 0,0:13:00.01,0:13:02.65,CHN,,0,0,0,,可能就是一个中子啥的引起的
-Dialogue: 0,0:13:02.65,0:13:04.36,ENG,,0,0,0,,- When people see the blue screen of death,
-Dialogue: 0,0:13:02.65,0:13:04.36,CHN,,0,0,0,,- 当人们电脑蓝屏的时候
-Dialogue: 0,0:13:04.36,0:13:06.01,ENG,,0,0,0,,could that be caused by a cosmic ray?
-Dialogue: 0,0:13:04.36,0:13:06.01,CHN,,0,0,0,,可能会是宇宙射线引起的吗
-Dialogue: 0,0:13:06.01,0:13:07.23,ENG,,0,0,0,,- Absolutely.
-Dialogue: 0,0:13:06.01,0:13:07.23,CHN,,0,0,0,,- 当然
-Dialogue: 0,0:13:07.23,0:13:09.23,ENG,,0,0,0,,- These days, there are a number of ways
-Dialogue: 0,0:13:07.23,0:13:09.23,CHN,,0,0,0,,- 现如今，计算机芯片有许多方法
-Dialogue: 0,0:13:09.23,0:13:12.55,ENG,,0,0,0,,computer chips are made resilient in the face of bit flips
-Dialogue: 0,0:13:09.23,0:13:12.55,CHN,,0,0,0,,来减少宇宙射线的干扰
-Dialogue: 0,0:13:12.55,0:13:16.08,ENG,,0,0,0,,like error correction code or ECC memory.
-Dialogue: 0,0:13:12.55,0:13:16.08,CHN,,0,0,0,,例如纠错码和 ECC 内存
-Dialogue: 0,0:13:16.08,0:13:19.67,ENG,,0,0,0,,But you can't totally prevent bit flips from happening.
-Dialogue: 0,0:13:16.08,0:13:19.67,CHN,,0,0,0,,但是你没法完全阻止位翻转发生
-Dialogue: 0,0:13:19.67,0:13:24.86,ENG,,0,0,0,,In 1996, IBM estimated that for each 256 megabytes of RAM,
-Dialogue: 0,0:13:19.67,0:13:24.86,CHN,,0,0,0,,1996 年，IBM 提出预计  每 256M 内存
-Dialogue: 0,0:13:24.86,0:13:27.09,ENG,,0,0,0,,one bit flip occurs per month.
-Dialogue: 0,0:13:24.86,0:13:27.09,CHN,,0,0,0,,每个月会发生一次位翻转
-Dialogue: 0,0:13:27.09,0:13:29.10,ENG,,0,0,0,,And the main culprit seems to be
-Dialogue: 0,0:13:27.09,0:13:29.10,CHN,,0,0,0,,而罪魁祸首应该是
-Dialogue: 0,0:13:29.10,0:13:32.88,ENG,,0,0,0,,neutrons created in the shower of particles from cosmic rays.
-Dialogue: 0,0:13:29.10,0:13:32.88,CHN,,0,0,0,,宇宙射线粒子流里的中子
-Dialogue: 0,0:13:32.88,0:13:34.55,ENG,,0,0,0,,Starting in 2009,
-Dialogue: 0,0:13:32.88,0:13:34.55,CHN,,0,0,0,,2009 年开始
-Dialogue: 0,0:13:34.55,0:13:37.32,ENG,,0,0,0,,Toyota recalled millions of vehicles
-Dialogue: 0,0:13:34.55,0:13:37.32,CHN,,0,0,0,,丰田召回了数以百万的汽车
-Dialogue: 0,0:13:37.32,0:13:40.47,ENG,,0,0,0,,due to the problem of unintended acceleration.
-Dialogue: 0,0:13:37.32,0:13:40.47,CHN,,0,0,0,,这些车会突然加速
-Dialogue: 0,0:13:40.47,0:13:43.34,ENG,,0,0,0,,- We were in the fast lane driving at about 70,
-Dialogue: 0,0:13:40.47,0:13:43.34,CHN,,0,0,0,,- 我们在高速车道上以 70 码的速度开着
-Dialogue: 0,0:13:43.34,0:13:46.47,ENG,,0,0,0,,and he said that the car was continuing to accelerate
-Dialogue: 0,0:13:43.34,0:13:46.47,CHN,,0,0,0,,他说这车怎么一直加速
-Dialogue: 0,0:13:46.47,0:13:48.26,ENG,,0,0,0,,and he couldn't bring it to a stop.
-Dialogue: 0,0:13:46.47,0:13:48.26,CHN,,0,0,0,,根本停不下来
-Dialogue: 0,0:13:48.26,0:13:51.24,ENG,,0,0,0,,- Many speculated that cosmic ray induced bit flips
-Dialogue: 0,0:13:48.26,0:13:51.24,CHN,,0,0,0,,- 许多人怀疑问题原因是宇宙射线造成
-Dialogue: 0,0:13:51.24,0:13:54.13,ENG,,0,0,0,,in the electronic control system were the cause.
-Dialogue: 0,0:13:51.24,0:13:54.13,CHN,,0,0,0,,电子系统里的位翻转
-Dialogue: 0,0:13:54.13,0:13:58.22,ENG,,0,0,0,,So much so that NASA was called in to help with the investigation.
-Dialogue: 0,0:13:54.13,0:13:58.22,CHN,,0,0,0,,因此 NASA 被叫来参与调查
-Dialogue: 0,0:13:58.22,0:14:02.50,ENG,,0,0,0,,But it turns out, cosmic rays were probably not the culprit.
-Dialogue: 0,0:13:58.22,0:14:02.50,CHN,,0,0,0,,但是结果是 宇宙射线可能并不是原因
-Dialogue: 0,0:14:02.50,0:14:05.03,ENG,,0,0,0,,NASA identified as the main causes,
-Dialogue: 0,0:14:02.50,0:14:05.03,CHN,,0,0,0,,NASA 认为主要原因是
-Dialogue: 0,0:14:05.03,0:14:06.80,ENG,,0,0,0,,sticky accelerator pedals,
-Dialogue: 0,0:14:05.03,0:14:06.80,CHN,,0,0,0,,油门太黏了
-Dialogue: 0,0:14:06.80,0:14:09.00,ENG,,0,0,0,,poorly fitted floor mats
-Dialogue: 0,0:14:06.80,0:14:09.00,CHN,,0,0,0,,地毯松动
-Dialogue: 0,0:14:09.00,0:14:12.68,ENG,,0,0,0,,and most commonly, drivers pushing on the accelerator
-Dialogue: 0,0:14:12.68,0:14:14.95,ENG,,0,0,0,,thinking it was the brake.
-Dialogue: 0,0:14:09.00,0:14:14.95,CHN,,0,0,0,,而最常见的情况是  驾驶员把油门当成了刹车
-Dialogue: 0,0:14:14.95,0:14:19.38,ENG,,0,0,0,,But cosmic rays have caused crashes of supercomputers,
-Dialogue: 0,0:14:14.95,0:14:19.38,CHN,,0,0,0,,但是宇宙射线造成了超级计算机的崩溃
-Dialogue: 0,0:14:19.38,0:14:21.86,ENG,,0,0,0,,especially at higher elevations.
-Dialogue: 0,0:14:19.38,0:14:21.86,CHN,,0,0,0,,特别是建在高处的计算机
-Dialogue: 0,0:14:21.86,0:14:26.09,ENG,,0,0,0,,Los Alamos National Labs located 2200 meters above sea level
-Dialogue: 0,0:14:21.86,0:14:26.09,CHN,,0,0,0,,洛斯阿拉莫斯国家实验室  建在海拔 2200 米的地方
-Dialogue: 0,0:14:26.09,0:14:30.21,ENG,,0,0,0,,is constantly dealing with neutron induced supercomputer crashes.
-Dialogue: 0,0:14:26.09,0:14:30.21,CHN,,0,0,0,,那里无时无刻不在处理“中子导致超算崩溃”的问题
-Dialogue: 0,0:14:30.21,0:14:32.50,ENG,,0,0,0,,So the software auto saves frequently
-Dialogue: 0,0:14:30.21,0:14:32.50,CHN,,0,0,0,,所以这里的软件高频保存
-Dialogue: 0,0:14:32.50,0:14:36.91,ENG,,0,0,0,,and neutron detectors have been installed throughout the facility.
-Dialogue: 0,0:14:32.50,0:14:36.91,CHN,,0,0,0,,还到处安装了中子检测器
-Dialogue: 0,0:14:36.91,0:14:38.25,ENG,,0,0,0,,If you go even higher,
-Dialogue: 0,0:14:36.91,0:14:38.25,CHN,,0,0,0,,如果高度再高一些
-Dialogue: 0,0:14:38.25,0:14:41.14,ENG,,0,0,0,,like climbing up to cruising altitude in a plane,
-Dialogue: 0,0:14:38.25,0:14:41.14,CHN,,0,0,0,,例如当飞机爬升至巡航高度的情况下
-Dialogue: 0,0:14:41.14,0:14:45.11,ENG,,0,0,0,,you can see the radiation from cosmic rays increasing on a Geiger counter.
-Dialogue: 0,0:14:41.14,0:14:45.11,CHN,,0,0,0,,你可以在盖革计数器上  观测到逐渐增强的宇宙射线辐射
-Dialogue: 0,0:14:45.11,0:14:48.61,ENG,,0,0,0,,To .5 microsieverts per hour at 18,000 feet.
-Dialogue: 0,0:14:45.11,0:14:48.61,CHN,,0,0,0,,在 5500 米的高度下  辐射量是每小时 0.5 微西弗
-Dialogue: 0,0:14:48.61,0:14:51.58,ENG,,0,0,0,,Up to one microsieverts per hour at 23,000 feet.
-Dialogue: 0,0:14:48.61,0:14:51.58,CHN,,0,0,0,,在 7000 米高度下是每小时 1 微西弗
-Dialogue: 0,0:14:51.58,0:14:54.66,ENG,,0,0,0,,Over two microsieverts per hour at 33,000 feet.
-Dialogue: 0,0:14:51.58,0:14:54.66,CHN,,0,0,0,,在 1 万米高度下  则超过了每小时 2 微西弗
-Dialogue: 0,0:14:54.66,0:14:56.44,ENG,,0,0,0,,And over three microsieverts per hour
-Dialogue: 0,0:14:54.66,0:14:56.44,CHN,,0,0,0,,如果再高一些 或距离极点更近一些
-Dialogue: 0,0:14:56.44,0:14:59.41,ENG,,0,0,0,,at even higher altitudes and towards the poles.
-Dialogue: 0,0:14:56.44,0:14:59.41,CHN,,0,0,0,,甚至可以达到每小时 3 微西弗
-Dialogue: 0,0:14:59.41,0:15:00.60,ENG,,0,0,0,,At cruising altitude,
-Dialogue: 0,0:14:59.41,0:15:00.60,CHN,,0,0,0,,在巡航高度下
-Dialogue: 0,0:15:00.60,0:15:05.61,ENG,,0,0,0,,this increases the chance of a single event upset by 10 to 30 times.
-Dialogue: 0,0:15:00.60,0:15:05.61,CHN,,0,0,0,,这能让单粒子翻转发生的概率提高 10 到 30 倍
-Dialogue: 0,0:15:05.61,0:15:08.27,ENG,,0,0,0,,This isn't critical if it happens in your laptop,
-Dialogue: 0,0:15:05.61,0:15:08.27,CHN,,0,0,0,,它发生在笔记本电脑上并不严重
-Dialogue: 0,0:15:08.27,0:15:11.09,ENG,,0,0,0,,but what if it occurs in the flight computer?
-Dialogue: 0,0:15:08.27,0:15:11.09,CHN,,0,0,0,,那对于飞控电脑来说呢
-Dialogue: 0,0:15:12.13,0:15:14.16,ENG,,0,0,0,,On October 7th, 2008,
-Dialogue: 0,0:15:12.13,0:15:14.16,CHN,,0,0,0,,2008 年 10 月 7 日
-Dialogue: 0,0:15:14.16,0:15:18.01,ENG,,0,0,0,,an Airbus A330 took off from Singapore to Perth.
-Dialogue: 0,0:15:14.16,0:15:18.01,CHN,,0,0,0,,一架飞往澳大利亚珀斯的空客 A330 从新加坡起飞
-Dialogue: 0,0:15:18.01,0:15:19.91,ENG,,0,0,0,,Just over three hours into the flight,
-Dialogue: 0,0:15:18.01,0:15:19.91,CHN,,0,0,0,,仅仅过了三个小时
-Dialogue: 0,0:15:19.91,0:15:22.17,ENG,,0,0,0,,the plane suddenly pitched down
-Dialogue: 0,0:15:19.91,0:15:22.17,CHN,,0,0,0,,飞机突然就开始压下机头
-Dialogue: 0,0:15:22.17,0:15:25.34,ENG,,0,0,0,,diving 200 meters in 20 seconds.
-Dialogue: 0,0:15:22.17,0:15:25.34,CHN,,0,0,0,,在 20 秒内下坠了近 200 米
-Dialogue: 0,0:15:25.34,0:15:29.73,ENG,,0,0,0,,Inside the plane, everyone experienced negative 0.8 Gs
-Dialogue: 0,0:15:25.34,0:15:29.73,CHN,,0,0,0,,在飞机里 所有人都承受着负 0.8 倍的
-Dialogue: 0,0:15:29.73,0:15:31.14,ENG,,0,0,0,,of acceleration.
-Dialogue: 0,0:15:29.73,0:15:31.14,CHN,,0,0,0,,重力加速度
-Dialogue: 0,0:15:31.14,0:15:34.00,ENG,,0,0,0,,It would have felt like the plane had flipped over.
-Dialogue: 0,0:15:31.14,0:15:34.00,CHN,,0,0,0,,这种感觉就像是飞机以翻转的姿态飞行
-Dialogue: 0,0:15:34.00,0:15:36.04,ENG,,0,0,0,,- The G-Force was enough,
-Dialogue: 0,0:15:34.00,0:15:36.04,CHN,,0,0,0,,- 这个 G 力非常强大
-Dialogue: 0,0:15:36.04,0:15:38.61,ENG,,0,0,0,,even with our three point harness
-Dialogue: 0,0:15:36.04,0:15:38.61,CHN,,0,0,0,,甚至连三点式安全带都绑不住
-Dialogue: 0,0:15:38.61,0:15:40.17,ENG,,0,0,0,,to lift us both out of the seat
-Dialogue: 0,0:15:38.61,0:15:40.17,CHN,,0,0,0,,我们飞出了座位
-Dialogue: 0,0:15:41.08,0:15:43.33,ENG,,0,0,0,,and push us forward as well.
-Dialogue: 0,0:15:41.08,0:15:43.33,CHN,,0,0,0,,被推向了仪表
-Dialogue: 0,0:15:43.33,0:15:46.93,ENG,,0,0,0,,- Minutes later, the plane dropped another 120 meters.
-Dialogue: 0,0:15:43.33,0:15:46.93,CHN,,0,0,0,,过了一分钟 飞机又下坠了 120 米
-Dialogue: 0,0:15:48.09,0:15:50.59,ENG,,0,0,0,,119 people on board were injured,
-Dialogue: 0,0:15:48.09,0:15:50.59,CHN,,0,0,0,,119 人受伤
-Dialogue: 0,0:15:50.59,0:15:53.39,ENG,,0,0,0,,many from bumping their heads into the ceiling.
-Dialogue: 0,0:15:50.59,0:15:53.39,CHN,,0,0,0,,很多人头部顶穿了天花板
-Dialogue: 0,0:15:53.39,0:15:57.66,ENG,,0,0,0,,So the pilots decided to make an emergency landing in Learmonth.
-Dialogue: 0,0:15:53.39,0:15:57.66,CHN,,0,0,0,,所以机长决定 在里尔蒙斯机场紧急降落
-Dialogue: 0,0:15:57.66,0:16:00.74,ENG,,0,0,0,,In the investigation that followed, the fault seem to occur
-Dialogue: 0,0:15:57.66,0:16:00.74,CHN,,0,0,0,,随后的调查显示 故障似乎是出现在
-Dialogue: 0,0:16:00.74,0:16:03.36,ENG,,0,0,0,,with the first air data inertial reference unit,
-Dialogue: 0,0:16:00.74,0:16:03.36,CHN,,0,0,0,,第一个大气数据惯性基准单元上
-Dialogue: 0,0:16:03.36,0:16:05.48,ENG,,0,0,0,,or ADIRU for short.
-Dialogue: 0,0:16:03.36,0:16:05.48,CHN,,0,0,0,,它简称 ADIRU
-Dialogue: 0,0:16:05.48,0:16:07.67,ENG,,0,0,0,,This computer supplies critical data
-Dialogue: 0,0:16:05.48,0:16:07.67,CHN,,0,0,0,,这个器件提供重要的飞行数据
-Dialogue: 0,0:16:07.67,0:16:10.92,ENG,,0,0,0,,like airspeed, angle of attack and altitude.
-Dialogue: 0,0:16:07.67,0:16:10.92,CHN,,0,0,0,,比如空速 迎角以及飞行高度
-Dialogue: 0,0:16:10.92,0:16:13.71,ENG,,0,0,0,,The way it supplies each of these pieces of information
-Dialogue: 0,0:16:10.92,0:16:13.71,CHN,,0,0,0,,它提供这些数据的方式
-Dialogue: 0,0:16:13.71,0:16:16.97,ENG,,0,0,0,,is in a 32 bit binary word.
-Dialogue: 0,0:16:13.71,0:16:16.97,CHN,,0,0,0,,是把它存在一个 32 比特的字里面
-Dialogue: 0,0:16:16.97,0:16:20.18,ENG,,0,0,0,,The first eight bits identify the type of information
-Dialogue: 0,0:16:16.97,0:16:20.18,CHN,,0,0,0,,前 8 位表示数据类型
-Dialogue: 0,0:16:20.18,0:16:24.41,ENG,,0,0,0,,and bits 11 to 29 encode the actual data.
-Dialogue: 0,0:16:20.18,0:16:24.41,CHN,,0,0,0,,11 到 29 位表示实际数据
-Dialogue: 0,0:16:24.41,0:16:26.01,ENG,,0,0,0,,What seems to have happened
-Dialogue: 0,0:16:24.41,0:16:26.01,CHN,,0,0,0,,当时的情况似乎是
-Dialogue: 0,0:16:26.01,0:16:28.88,ENG,,0,0,0,,is that a bit flip in the first eight bits
-Dialogue: 0,0:16:26.01,0:16:28.88,CHN,,0,0,0,,前 8 位中的某一位被翻转了
-Dialogue: 0,0:16:28.88,0:16:31.43,ENG,,0,0,0,,meant altitude information was mislabeled
-Dialogue: 0,0:16:28.88,0:16:31.43,CHN,,0,0,0,,也就是说 这个数据被错标成了迎角参数
-Dialogue: 0,0:16:31.43,0:16:34.09,ENG,,0,0,0,,as angle of attack information.
-Dialogue: 0,0:16:31.43,0:16:34.09,CHN,,0,0,0,,而不是高度参数
-Dialogue: 0,0:16:34.09,0:16:36.16,ENG,,0,0,0,,Inside the cockpit, alarms went on
-Dialogue: 0,0:16:34.09,0:16:36.16,CHN,,0,0,0,,在驾驶舱里 超速和失速的警报
-Dialogue: 0,0:16:36.16,0:16:39.19,ENG,,0,0,0,,for over speed and stall simultaneously,
-Dialogue: 0,0:16:36.16,0:16:39.19,CHN,,0,0,0,,一直在同时响
-Dialogue: 0,0:16:39.19,0:16:41.63,ENG,,0,0,0,,something that should be impossible.
-Dialogue: 0,0:16:39.19,0:16:41.63,CHN,,0,0,0,,这种情况按道理不可能出现
-Dialogue: 0,0:16:41.63,0:16:45.40,ENG,,0,0,0,,But the plane nose down sharply to correct what it thought was a stall,
-Dialogue: 0,0:16:41.63,0:16:45.40,CHN,,0,0,0,,但飞控电脑认为它在失速 于是降下机头
-Dialogue: 0,0:16:45.40,0:16:49.64,ENG,,0,0,0,,throwing passengers and crew into the ceiling.
-Dialogue: 0,0:16:45.40,0:16:49.64,CHN,,0,0,0,,机组人员和乘客因此被抛上了天花板
-Dialogue: 0,0:16:49.64,0:16:52.23,ENG,,0,0,0,,Investigators looked into software bugs,
-Dialogue: 0,0:16:49.64,0:16:52.23,CHN,,0,0,0,,调查员分析了软件错误
-Dialogue: 0,0:16:52.23,0:16:54.92,ENG,,0,0,0,,software corruption, a hardware fail,
-Dialogue: 0,0:16:52.23,0:16:54.92,CHN,,0,0,0,,软件损坏 硬件故障
-Dialogue: 0,0:16:54.92,0:16:57.09,ENG,,0,0,0,,physical environment factors
-Dialogue: 0,0:16:54.92,0:16:57.09,CHN,,0,0,0,,物理环境因素
-Dialogue: 0,0:16:57.09,0:16:59.54,ENG,,0,0,0,,and electromagnetic interference.
-Dialogue: 0,0:16:57.09,0:16:59.54,CHN,,0,0,0,,甚至电磁干扰
-Dialogue: 0,0:16:59.54,0:17:02.89,ENG,,0,0,0,,But each of these possibilities was found to be unlikely
-Dialogue: 0,0:16:59.54,0:17:02.89,CHN,,0,0,0,,但这些可能性都被已经掌握的
-Dialogue: 0,0:17:02.89,0:17:05.54,ENG,,0,0,0,,based on multiple sources of evidence.
-Dialogue: 0,0:17:02.89,0:17:05.54,CHN,,0,0,0,,多方证据排除了
-Dialogue: 0,0:17:05.54,0:17:07.64,ENG,,0,0,0,,The other potential triggering event
-Dialogue: 0,0:17:05.54,0:17:07.64,CHN,,0,0,0,,那么造成这起事件的原因可能就是
-Dialogue: 0,0:17:07.64,0:17:09.24,ENG,,0,0,0,,was a single event effect
-Dialogue: 0,0:17:07.64,0:17:09.24,CHN,,0,0,0,,单粒子效应所导致的
-Dialogue: 0,0:17:09.24,0:17:12.14,ENG,,0,0,0,,resulting from a high energy atmospheric particle
-Dialogue: 0,0:17:09.24,0:17:12.14,CHN,,0,0,0,,一个高能带电的大气粒子
-Dialogue: 0,0:17:12.14,0:17:14.04,ENG,,0,0,0,,striking one of the integrated circuits
-Dialogue: 0,0:17:12.14,0:17:14.04,CHN,,0,0,0,,击中了 CPU 模块里的
-Dialogue: 0,0:17:14.04,0:17:16.00,ENG,,0,0,0,,within the CPU module.
-Dialogue: 0,0:17:14.04,0:17:16.00,CHN,,0,0,0,,一个集成电路
-Dialogue: 0,0:17:16.00,0:17:18.18,ENG,,0,0,0,,One of the challenges with single event upsets
-Dialogue: 0,0:17:16.00,0:17:18.18,CHN,,0,0,0,,单粒子翻转所带来的一个挑战是
-Dialogue: 0,0:17:18.18,0:17:19.76,ENG,,0,0,0,,is that they are soft errors.
-Dialogue: 0,0:17:18.18,0:17:19.76,CHN,,0,0,0,,它们造成的都是软错误
-Dialogue: 0,0:17:19.76,0:17:21.64,ENG,,0,0,0,,They don't leave a trace,
-Dialogue: 0,0:17:19.76,0:17:21.64,CHN,,0,0,0,,它搞事情不留痕迹
-Dialogue: 0,0:17:21.64,0:17:26.06,ENG,,0,0,0,,but interestingly, the Airbus A330 was built in 1992
-Dialogue: 0,0:17:21.64,0:17:26.06,CHN,,0,0,0,,但有趣的是 这架空客 A330 是在 1992 年建造的
-Dialogue: 0,0:17:26.06,0:17:28.18,ENG,,0,0,0,,when there were no specific regulatory
-Dialogue: 0,0:17:28.19,0:17:30.37,ENG,,0,0,0,,or aircraft manufacturer requirements
-Dialogue: 0,0:17:26.06,0:17:30.37,CHN,,0,0,0,,当时没有具体的法律规章或航空器制造商会要求
-Dialogue: 0,0:17:30.37,0:17:34.60,ENG,,0,0,0,,for airborne systems to be resilient to single event effects.
-Dialogue: 0,0:17:30.37,0:17:34.60,CHN,,0,0,0,,航空器在设计时 必须能够耐受单粒子翻转的影响
-Dialogue: 0,0:17:34.60,0:17:35.91,ENG,,0,0,0,,With the space shuttle,
-Dialogue: 0,0:17:34.60,0:17:35.91,CHN,,0,0,0,,但对于航天飞机来说
-Dialogue: 0,0:17:35.91,0:17:38.43,ENG,,0,0,0,,redundancy was built in from the start.
-Dialogue: 0,0:17:35.91,0:17:38.43,CHN,,0,0,0,,这类规定一开始就已经制定
-Dialogue: 0,0:17:38.43,0:17:41.52,ENG,,0,0,0,,For navigation and control, there were four computers
-Dialogue: 0,0:17:38.43,0:17:41.52,CHN,,0,0,0,,有四台电脑同时运行着同样的系统
-Dialogue: 0,0:17:41.52,0:17:44.64,ENG,,0,0,0,,simultaneously running identical software.
-Dialogue: 0,0:17:41.52,0:17:44.64,CHN,,0,0,0,,来负责导航和飞行控制
-Dialogue: 0,0:17:44.64,0:17:46.63,ENG,,0,0,0,,If one computer had a soft error,
-Dialogue: 0,0:17:44.64,0:17:46.63,CHN,,0,0,0,,如果其中一台电脑出现软故障
-Dialogue: 0,0:17:46.63,0:17:49.37,ENG,,0,0,0,,the other three would overrule it.
-Dialogue: 0,0:17:46.63,0:17:49.37,CHN,,0,0,0,,另外三台就会接管它
-Dialogue: 0,0:17:49.37,0:17:50.31,ENG,,0,0,0,,And using this setup,
-Dialogue: 0,0:17:49.37,0:17:50.31,CHN,,0,0,0,,利用这套配置
-Dialogue: 0,0:17:50.31,0:17:53.40,ENG,,0,0,0,,they could also track the frequency of bit flips.
-Dialogue: 0,0:17:50.31,0:17:53.40,CHN,,0,0,0,,还可以统计出发生软故障的频率
-Dialogue: 0,0:17:53.40,0:17:56.26,ENG,,0,0,0,,On one five day mission, STS 48,
-Dialogue: 0,0:17:53.40,0:17:56.26,CHN,,0,0,0,,在一次长达 5 日的航天任务 STS-48 中
-Dialogue: 0,0:17:56.26,0:18:00.38,ENG,,0,0,0,,there were 161 separate bit flips.
-Dialogue: 0,0:17:56.26,0:18:00.38,CHN,,0,0,0,,分别出现了 161 次比特位翻转的情况
-Dialogue: 0,0:18:01.70,0:18:05.55,ENG,,0,0,0,,Above the atmosphere, cosmic rays are so energetic
-Dialogue: 0,0:18:01.70,0:18:05.55,CHN,,0,0,0,,在大气层以外  宇宙射线的能量要更充沛
-Dialogue: 0,0:18:05.55,0:18:08.07,ENG,,0,0,0,,sometimes you can even see them.
-Dialogue: 0,0:18:05.55,0:18:08.07,CHN,,0,0,0,,以至于你有时可以用肉眼看见它们
-Dialogue: 0,0:18:08.07,0:18:10.07,ENG,,0,0,0,,- Once in a while you have your eyes closed
-Dialogue: 0,0:18:08.07,0:18:10.07,CHN,,0,0,0,,有时候  你已经上床闭眼
-Dialogue: 0,0:18:10.07,0:18:11.45,ENG,,0,0,0,,and you're not asleep yet.
-Dialogue: 0,0:18:10.07,0:18:11.45,CHN,,0,0,0,,但还没睡熟
-Dialogue: 0,0:18:11.45,0:18:14.00,ENG,,0,0,0,,And if you wait a little while,
-Dialogue: 0,0:18:11.45,0:18:14.00,CHN,,0,0,0,,等上一会儿
-Dialogue: 0,0:18:15.37,0:18:18.69,ENG,,0,0,0,,you occasionally will see a flash of light.
-Dialogue: 0,0:18:15.37,0:18:18.69,CHN,,0,0,0,,你偶尔能“看到”闪光
-Dialogue: 0,0:18:18.69,0:18:21.04,ENG,,0,0,0,,And we think it is heavy particles
-Dialogue: 0,0:18:18.69,0:18:21.04,CHN,,0,0,0,,这应该是重粒子
-Dialogue: 0,0:18:21.04,0:18:24.80,ENG,,0,0,0,,or individual bursts of energy coming from radiation
-Dialogue: 0,0:18:21.04,0:18:24.80,CHN,,0,0,0,,即辐射中携带能量的个体
-Dialogue: 0,0:18:24.80,0:18:27.02,ENG,,0,0,0,,that are either going through the eyeball itself
-Dialogue: 0,0:18:27.02,0:18:29.15,ENG,,0,0,0,,or going through the optic nerve.
-Dialogue: 0,0:18:24.80,0:18:29.15,CHN,,0,0,0,,穿过了眼球或感光神经
-Dialogue: 0,0:18:29.15,0:18:31.22,ENG,,0,0,0,,And they,
-Dialogue: 0,0:18:29.15,0:18:31.22,CHN,,0,0,0,,然后
-Dialogue: 0,0:18:31.22,0:18:35.33,ENG,,0,0,0,,the way that your body registers radiation going through it
-Dialogue: 0,0:18:31.22,0:18:35.33,CHN,,0,0,0,,你的身体就以给你看一道闪光的神奇方式
-Dialogue: 0,0:18:35.33,0:18:39.16,ENG,,0,0,0,,is amazingly enough by showing you a little flash in one of your eyes, 
-Dialogue: 0,0:18:35.33,0:18:39.16,CHN,,0,0,0,,记录下辐射穿过的瞬间
-Dialogue: 0,0:18:39.16,0:18:41.00,ENG,,0,0,0,,just to remind you that
-Dialogue: 0,0:18:39.16,0:18:41.00,CHN,,0,0,0,,这也是在提醒你
-Dialogue: 0,0:18:41.00,0:18:43.50,ENG,,0,0,0,,you are subject to the radiation of not only our sun,
-Dialogue: 0,0:18:41.00,0:18:43.50,CHN,,0,0,0,,除了太阳以外
-Dialogue: 0,0:18:43.50,0:18:48.95,ENG,,0,0,0,,but every star of the universe, that is radiating at you.
-Dialogue: 0,0:18:43.50,0:18:48.95,CHN,,0,0,0,,来自宇宙中每一颗星星的辐射  都有可能到达你这里
-Dialogue: 0,0:18:48.95,0:18:50.87,ENG,,0,0,0,,I picture back to the first astronauts
-Dialogue: 0,0:18:48.95,0:18:50.87,CHN,,0,0,0,,我能想像第一批宇航员
-Dialogue: 0,0:18:50.87,0:18:53.70,ENG,,0,0,0,,who must have closed their eyes and seen that radiation and gone,
-Dialogue: 0,0:18:50.87,0:18:53.70,CHN,,0,0,0,,闭上眼睛然后看到辐射之后的场景：
-Dialogue: 0,0:18:53.70,0:18:56.06,ENG,,0,0,0,,"I'm not going to tell anybody about this
-Dialogue: 0,0:18:53.70,0:18:56.06,CHN,,0,0,0,,“啊这 我跟谁都不会讲的”
-Dialogue: 0,0:18:56.06,0:18:57.80,ENG,,0,0,0,,"because no one's told me about it.
-Dialogue: 0,0:18:56.06,0:18:57.80,CHN,,0,0,0,,“没人说过会有这种现象啊”
-Dialogue: 0,0:18:57.80,0:18:58.64,ENG,,0,0,0,,"I'm not talking."
-Dialogue: 0,0:18:57.80,0:18:58.64,CHN,,0,0,0,,“打死也不说”
-Dialogue: 0,0:18:58.64,0:19:00.63,ENG,,0,0,0,,I can just imagine the first two guys that said,
-Dialogue: 0,0:18:58.64,0:19:00.63,CHN,,0,0,0,,我也能想象第一次谈论这个话题的两个家伙
-Dialogue: 0,0:19:00.63,0:19:01.80,ENG,,0,0,0,,"Hey, I am,
-Dialogue: 0,0:19:00.63,0:19:01.80,CHN,,0,0,0,,“嘿 我说，
-Dialogue: 0,0:19:01.80,0:19:03.21,ENG,,0,0,0,,"sometimes I see flashes of light.
-Dialogue: 0,0:19:01.80,0:19:03.21,CHN,,0,0,0,,有的时候...这眼前会出现闪光诶
-Dialogue: 0,0:19:03.21,0:19:04.47,ENG,,0,0,0,,"Do you see flashes of light?"
-Dialogue: 0,0:19:03.21,0:19:04.47,CHN,,0,0,0,,“诶你也看得到吗？”
-Dialogue: 0,0:19:04.47,0:19:06.41,ENG,,0,0,0,,And then it's, "Oh, we all see flashes of light."
-Dialogue: 0,0:19:04.47,0:19:06.41,CHN,,0,0,0,,“哦，原来大家都看到了啊”
-Dialogue: 0,0:19:06.41,0:19:08.66,ENG,,0,0,0,,"Oh, okay, well, that's all right then."
-Dialogue: 0,0:19:06.41,0:19:08.66,CHN,,0,0,0,,“那没事了，看起来是正常现象”
-Dialogue: 0,0:19:09.98,0:19:12.26,ENG,,0,0,0,,- For missions to other planets,
-Dialogue: 0,0:19:09.98,0:19:12.26,CHN,,0,0,0,,前往其他星球的航天任务
-Dialogue: 0,0:19:12.26,0:19:14.89,ENG,,0,0,0,,protecting electronics is critical.
-Dialogue: 0,0:19:12.26,0:19:14.89,CHN,,0,0,0,,更需要保护好电子设备
-Dialogue: 0,0:19:14.89,0:19:16.54,ENG,,0,0,0,,- If a single bit of information
-Dialogue: 0,0:19:16.54,0:19:19.15,ENG,,0,0,0,,controls a critical function on your spacecraft,
-Dialogue: 0,0:19:14.89,0:19:19.15,CHN,,0,0,0,,如果控制飞船关键部分信息的一个比特
-Dialogue: 0,0:19:19.15,0:19:21.10,ENG,,0,0,0,,let's say your thrusters,
-Dialogue: 0,0:19:19.15,0:19:21.10,CHN,,0,0,0,,比如说控制助推器的一个比特
-Dialogue: 0,0:19:21.10,0:19:24.68,ENG,,0,0,0,,and that goes from a one to is zero, from a on to off,
-Dialogue: 0,0:19:21.10,0:19:24.68,CHN,,0,0,0,,从1变成了0，从通变成了断，或者反过来
-Dialogue: 0,0:19:24.68,0:19:27.21,ENG,,0,0,0,,or vice versa, you could lose the mission.
-Dialogue: 0,0:19:24.68,0:19:27.21,CHN,,0,0,0,,可能整个任务就毁了
-Dialogue: 0,0:19:27.21,0:19:28.40,ENG,,0,0,0,,- That's why the computer
-Dialogue: 0,0:19:28.40,0:19:31.21,ENG,,0,0,0,,on the Perseverance Rover that just landed on Mars
-Dialogue: 0,0:19:27.21,0:19:31.21,CHN,,0,0,0,,这就是为什么最近在火星着陆的毅力号火星车
-Dialogue: 0,0:19:31.21,0:19:33.28,ENG,,0,0,0,,is 20 years old.
-Dialogue: 0,0:19:31.21,0:19:33.28,CHN,,0,0,0,,搭载的是20年前
-Dialogue: 0,0:19:33.28,0:19:35.84,ENG,,0,0,0,,It's a power PC launched in 2001
-Dialogue: 0,0:19:33.28,0:19:35.84,CHN,,0,0,0,,2001年推出的PowerPC处理器
-Dialogue: 0,0:19:35.84,0:19:38.80,ENG,,0,0,0,,with only 256 megabytes of Ram
-Dialogue: 0,0:19:35.84,0:19:38.80,CHN,,0,0,0,,只有256MB的内存
-Dialogue: 0,0:19:38.80,0:19:41.77,ENG,,0,0,0,,and two gigabytes of flash storage.
-Dialogue: 0,0:19:38.80,0:19:41.77,CHN,,0,0,0,,和2GB的闪存
-Dialogue: 0,0:19:41.77,0:19:43.92,ENG,,0,0,0,,But it is radiation hardened,
-Dialogue: 0,0:19:41.77,0:19:43.92,CHN,,0,0,0,,但它挡辐射是一把好手
-Dialogue: 0,0:19:43.92,0:19:47.41,ENG,,0,0,0,,meaning the design, materials, circuits and software
-Dialogue: 0,0:19:43.92,0:19:47.41,CHN,,0,0,0,,专门的设计、材料、线路和软件
-Dialogue: 0,0:19:47.41,0:19:50.50,ENG,,0,0,0,,are built to withstand 40 times the radiation
-Dialogue: 0,0:19:50.50,0:19:52.30,ENG,,0,0,0,,of an ordinary computer.
-Dialogue: 0,0:19:47.41,0:19:52.30,CHN,,0,0,0,,使它能抵抗的辐射量是正常电脑所能承受的40倍
-Dialogue: 0,0:19:52.30,0:19:57.26,ENG,,0,0,0,,It's been used on over a dozen space missions going back to 2005.
-Dialogue: 0,0:19:52.30,0:19:57.26,CHN,,0,0,0,,自2005年来  这台电脑已在十余次太空任务中发挥功用
-Dialogue: 0,0:19:57.26,0:20:01.17,ENG,,0,0,0,,- In fact, when we first started doing the power PC testing
-Dialogue: 0,0:20:01.17,0:20:03.68,ENG,,0,0,0,,years ago, the way we did it,
-Dialogue: 0,0:19:57.26,0:20:03.68,CHN,,0,0,0,,我们多年前开始测试PowerPC的时候
-Dialogue: 0,0:20:03.68,0:20:06.71,ENG,,0,0,0,,we just simply stuck an operating system processor
-Dialogue: 0,0:20:03.68,0:20:06.71,CHN,,0,0,0,,就是把一个处理器卡在粒子流上
-Dialogue: 0,0:20:06.71,0:20:10.86,ENG,,0,0,0,,in a beam line where we generate these particles
-Dialogue: 0,0:20:06.71,0:20:10.86,CHN,,0,0,0,,这样就能在地球上模拟粒子撞击
-Dialogue: 0,0:20:10.86,0:20:14.07,ENG,,0,0,0,,on the planet and look for blue screens of death.
-Dialogue: 0,0:20:10.86,0:20:14.07,CHN,,0,0,0,,然后看看电脑会不会蓝屏
-Dialogue: 0,0:20:14.07,0:20:16.19,ENG,,0,0,0,,You can kind of figure out what's going wrong
-Dialogue: 0,0:20:14.07,0:20:16.19,CHN,,0,0,0,,之后就是找出问题
-Dialogue: 0,0:20:16.19,0:20:17.36,ENG,,0,0,0,,and try to undo that.
-Dialogue: 0,0:20:16.19,0:20:17.36,CHN,,0,0,0,,解决问题
-Dialogue: 0,0:20:17.36,0:20:19.33,ENG,,0,0,0,,So you don't get to the blue screen of death
-Dialogue: 0,0:20:17.36,0:20:19.33,CHN,,0,0,0,,直到电脑不再蓝屏
-Dialogue: 0,0:20:19.33,0:20:22.42,ENG,,0,0,0,,because a spacecraft that gets into that mode
-Dialogue: 0,0:20:19.33,0:20:22.42,CHN,,0,0,0,,因为要是太空中电脑蓝屏了
-Dialogue: 0,0:20:22.42,0:20:24.46,ENG,,0,0,0,,is basically unrecoverable.
-Dialogue: 0,0:20:22.42,0:20:24.46,CHN,,0,0,0,,那基本上就凉凉了
-Dialogue: 0,0:20:24.46,0:20:27.81,ENG,,0,0,0,,- As the Voyager 1 spacecraft departed the solar system,
-Dialogue: 0,0:20:24.46,0:20:27.81,CHN,,0,0,0,,旅行者1号驶离太阳系的标志之一
-Dialogue: 0,0:20:27.81,0:20:30.48,ENG,,0,0,0,,one of the ways we could tell was by an increase
-Dialogue: 0,0:20:30.48,0:20:33.30,ENG,,0,0,0,,in the flux of cosmic rays it experienced.
-Dialogue: 0,0:20:27.81,0:20:33.30,CHN,,0,0,0,,就是它遭受的宇宙射线的流量增大了
-Dialogue: 0,0:20:33.30,0:20:35.64,ENG,,0,0,0,,Although on earth, the particles streaming from the sun
-Dialogue: 0,0:20:33.30,0:20:35.64,CHN,,0,0,0,,虽然在地球上看，太阳放射出的粒子和太阳风是一种辐射来源
-Dialogue: 0,0:20:35.64,0:20:38.35,ENG,,0,0,0,,and the solar wind are a source of radiation,
-Dialogue: 0,0:20:35.64,0:20:38.35,CHN,,0,0,0,,虽然在地球上看，太阳放射出的粒子和太阳风是一种辐射来源
-Dialogue: 0,0:20:38.35,0:20:43.04,ENG,,0,0,0,,further out these same particles maintain protective bubble.
-Dialogue: 0,0:20:38.35,0:20:43.04,CHN,,0,0,0,,但这些粒子实际上形成了一个保护罩
-Dialogue: 0,0:20:43.04,0:20:44.77,ENG,,0,0,0,,The heliosphere.
-Dialogue: 0,0:20:43.04,0:20:44.77,CHN,,0,0,0,,即 太阳圈
-Dialogue: 0,0:20:44.77,0:20:47.28,ENG,,0,0,0,,It helps deflect and slow cosmic rays
-Dialogue: 0,0:20:44.77,0:20:47.28,CHN,,0,0,0,,它能削减衰弱从星际空间来的宇宙射线
-Dialogue: 0,0:20:47.28,0:20:48.91,ENG,,0,0,0,,from interstellar space
-Dialogue: 0,0:20:47.28,0:20:48.91,CHN,,0,0,0,,它能削减衰弱从星际空间来的宇宙射线
-Dialogue: 0,0:20:48.91,0:20:52.60,ENG,,0,0,0,,protecting the solar system from ionizing radiation.
-Dialogue: 0,0:20:48.91,0:20:52.60,CHN,,0,0,0,,减少电离辐射对太阳系的破坏
-Dialogue: 0,0:20:52.60,0:20:55.66,ENG,,0,0,0,,But the sun has an 11 year activity cycle.
-Dialogue: 0,0:20:52.60,0:20:55.66,CHN,,0,0,0,,不过太阳的活跃周期是11年
-Dialogue: 0,0:20:55.66,0:20:58.30,ENG,,0,0,0,,So this protection fluctuates.
-Dialogue: 0,0:20:55.66,0:20:58.30,CHN,,0,0,0,,所以这种保护效力是不稳定的
-Dialogue: 0,0:20:58.30,0:21:00.93,ENG,,0,0,0,,The flux of cosmic rays on earth is much lower
-Dialogue: 0,0:20:58.30,0:21:00.93,CHN,,0,0,0,,当太阳活跃的时候，到达地球的宇宙射线流量明显更少
-Dialogue: 0,0:21:00.93,0:21:03.84,ENG,,0,0,0,,when the sun is active than when it's dormant.
-Dialogue: 0,0:21:00.93,0:21:03.84,CHN,,0,0,0,,当太阳活跃的时候，到达地球的宇宙射线流量明显更少
-Dialogue: 0,0:21:05.29,0:21:06.99,ENG,,0,0,0,,In the history of our planet,
-Dialogue: 0,0:21:05.29,0:21:06.99,CHN,,0,0,0,,地球生命演化的过程中
-Dialogue: 0,0:21:06.99,0:21:10.61,ENG,,0,0,0,,cosmic rays may have played an even larger role
-Dialogue: 0,0:21:06.99,0:21:10.61,CHN,,0,0,0,,宇宙射线或许起到了不可忽略的作用
-Dialogue: 0,0:21:10.61,0:21:13.26,ENG,,0,0,0,,flipping bits, not in electronics,
-Dialogue: 0,0:21:10.61,0:21:13.26,CHN,,0,0,0,,它翻转的不再是电子设备中的比特
-Dialogue: 0,0:21:13.26,0:21:16.40,ENG,,0,0,0,,but in the genetic codes of living organisms,
-Dialogue: 0,0:21:13.26,0:21:16.40,CHN,,0,0,0,,而是生物的遗传密码
-Dialogue: 0,0:21:16.40,0:21:17.98,ENG,,0,0,0,,providing some of the variation
-Dialogue: 0,0:21:16.40,0:21:17.98,CHN,,0,0,0,,从此诞生了通过自然选择无法产生的突变
-Dialogue: 0,0:21:17.98,0:21:20.96,ENG,,0,0,0,,on which natural selection acts.
-Dialogue: 0,0:21:17.98,0:21:20.96,CHN,,0,0,0,,从此诞生了通过自然选择无法产生的突变
-Dialogue: 0,0:21:20.96,0:21:23.54,ENG,,0,0,0,,Maria Vindevogel is now a member
-Dialogue: 0,0:21:23.54,0:21:26.16,ENG,,0,0,0,,of the Belgium Chamber of Representatives,
-Dialogue: 0,0:21:20.96,0:21:26.16,CHN,,0,0,0,,玛丽亚·温德沃格尔现在是比利时众议院的议员了
-Dialogue: 0,0:21:26.16,0:21:29.72,ENG,,0,0,0,,elected by people, not a particle,
-Dialogue: 0,0:21:26.16,0:21:29.72,CHN,,0,0,0,,这次是由人民选出来的，而非粒子
-Dialogue: 0,0:21:29.72,0:21:33.42,ENG,,0,0,0,,but her story is a reminder of the zillions of particles
-Dialogue: 0,0:21:29.72,0:21:33.42,CHN,,0,0,0,,但是她的故事提醒着我们
-Dialogue: 0,0:21:33.42,0:21:35.14,ENG,,0,0,0,,winding their way through the universe
-Dialogue: 0,0:21:33.42,0:21:35.14,CHN,,0,0,0,,在宇宙中有这些数不胜数的
-Dialogue: 0,0:21:35.14,0:21:38.88,ENG,,0,0,0,,for millions or billions of years.
-Dialogue: 0,0:21:35.14,0:21:38.88,CHN,,0,0,0,,漂泊了亿万年的粒子
-Dialogue: 0,0:21:38.88,0:21:41.72,ENG,,0,0,0,,One of which might at any moment,
-Dialogue: 0,0:21:38.88,0:21:41.72,CHN,,0,0,0,,不知在某个时刻  就会有个粒子
-Dialogue: 0,0:21:41.72,0:21:46.32,ENG,,0,0,0,,change your life by passing through a tiny transistor
-Dialogue: 0,0:21:41.72,0:21:46.32,CHN,,0,0,0,,撞上了一个小小的二极管，我们的一生也因此
-Dialogue: 0,0:21:46.32,0:21:47.63,ENG,,0,0,0,,and cra....
-Dialogue: 0,0:21:46.32,0:21:47.63,CHN,,0,0,0,,而改…
+Dialogue: 0,0:00:00.00,0:00:02.51,Chinese,,0,0,0,,有一架飞机从天上突然跌下
+Dialogue: 0,0:00:00.00,0:00:02.51,English,,0,0,0,,- A plane plummets out of the sky,
+Dialogue: 0,0:00:03.12,0:00:06.63,English,,0,0,0,,a speed runner inexplicably jumps to a higher platform.
+Dialogue: 0,0:00:03.12,0:00:06.63,Chinese,,0,0,0,,有一位速通玩家莫名其妙就跳到了更高的平台上
+Dialogue: 0,0:00:06.63,0:00:07.61,English,,0,0,0,,- What the?
+Dialogue: 0,0:00:06.63,0:00:07.61,Chinese,,0,0,0,,什么？
+Dialogue: 0,0:00:07.61,0:00:08.56,English,,0,0,0,,What the?
+Dialogue: 0,0:00:07.61,0:00:08.56,Chinese,,0,0,0,,这也可以？
+Dialogue: 0,0:00:08.56,0:00:11.27,English,,0,0,0,,- And an election recount is triggered.
+Dialogue: 0,0:00:08.56,0:00:11.27,Chinese,,0,0,0,,有一次选举需要重新计票
+Dialogue: 0,0:00:11.83,0:00:17.24,English,,0,0,0,,All because of the same invisible phenomenon that permeates the universe.
+Dialogue: 0,0:00:11.83,0:00:17.24,Chinese,,0,0,0,,所有这一切，都源于宇宙中弥漫的同一种看不见的现象
+Dialogue: 0,0:00:18.48,0:00:22.77,English,,0,0,0,,On May 18th, 2003, voters in Belgium went to the polls.
+Dialogue: 0,0:00:18.48,0:00:22.77,Chinese,,0,0,0,,2003年5月18日，比利时选民前往投票站
+Dialogue: 0,0:00:22.77,0:00:25.56,English,,0,0,0,,In many regions, voting was done on a computer,
+Dialogue: 0,0:00:22.77,0:00:25.56,Chinese,,0,0,0,,不少地方投票是用电脑的
+Dialogue: 0,0:00:25.56,0:00:29.40,English,,0,0,0,,something the Belgians had been experimenting with for over a decade.
+Dialogue: 0,0:00:25.56,0:00:29.40,Chinese,,0,0,0,,比利时人十几年来也一直在尝试使用电脑投票
+Dialogue: 0,0:00:29.40,0:00:31.22,English,,0,0,0,,But the system had a backup.
+Dialogue: 0,0:00:29.40,0:00:31.22,Chinese,,0,0,0,,而且系统是有备份的
+Dialogue: 0,0:00:31.22,0:00:34.46,English,,0,0,0,,Each voter would insert a magnetic card into the machine
+Dialogue: 0,0:00:31.22,0:00:34.46,Chinese,,0,0,0,,每位选民把磁卡插入机器
+Dialogue: 0,0:00:34.46,0:00:36.76,English,,0,0,0,,and make their selection on screen.
+Dialogue: 0,0:00:34.46,0:00:36.76,Chinese,,0,0,0,,然后在屏幕上进行选择
+Dialogue: 0,0:00:36.76,0:00:41.07,English,,0,0,0,,Their vote was saved both to the computer and the magnetic card,
+Dialogue: 0,0:00:36.76,0:00:41.07,Chinese,,0,0,0,,他们的选票同时保存在计算机和磁卡中
+Dialogue: 0,0:00:41.07,0:00:44.36,English,,0,0,0,,which they dropped into a box for redundancy.
+Dialogue: 0,0:00:41.07,0:00:44.36,Chinese,,0,0,0,,磁卡会投入箱子中，以备不时之需
+Dialogue: 0,0:00:44.36,0:00:47.14,English,,0,0,0,,Late that night, as the votes were being tabulated,
+Dialogue: 0,0:00:44.36,0:00:47.14,Chinese,,0,0,0,,当日深夜，在制作选票的表格时
+Dialogue: 0,0:00:47.14,0:00:49.67,English,,0,0,0,,one of the election officials detected a problem
+Dialogue: 0,0:00:47.14,0:00:49.67,Chinese,,0,0,0,,一名选举官员发现
+Dialogue: 0,0:00:49.67,0:00:51.42,English,,0,0,0,,with the results from Schaerbeek,
+Dialogue: 0,0:00:49.67,0:00:51.42,Chinese,,0,0,0,,布鲁塞尔市中心斯哈尔贝克的
+Dialogue: 0,0:00:51.42,0:00:54.08,English,,0,0,0,,a municipality in central Brussels.
+Dialogue: 0,0:00:51.42,0:00:54.08,Chinese,,0,0,0,,选票结果存在问题
+Dialogue: 0,0:00:54.08,0:00:56.62,English,,0,0,0,,Maria Vindevogel, a little known candidate
+Dialogue: 0,0:00:54.08,0:00:56.62,Chinese,,0,0,0,,Maria Vindevogel是一位没什么名气的候选人
+Dialogue: 0,0:00:56.62,0:01:01.76,English,,0,0,0,,with her own party received more votes than was mathematically possible.
+Dialogue: 0,0:00:56.62,0:01:01.76,Chinese,,0,0,0,,但她的党派的得票数  却直接超出了理论上限
+Dialogue: 0,0:01:01.76,0:01:02.80,English,,0,0,0,,They knew this because of
+Dialogue: 0,0:01:01.76,0:01:02.80,Chinese,,0,0,0,,计票者能知道这一问题是因为
+Dialogue: 0,0:01:02.80,0:01:05.77,English,,0,0,0,,the way the preferential voting system works.
+Dialogue: 0,0:01:02.80,0:01:05.77,Chinese,,0,0,0,,“优先投票制”的运作方式
+Dialogue: 0,0:01:05.77,0:01:09.45,English,,0,0,0,,So they took out the magnetic cards and started a recount.
+Dialogue: 0,0:01:05.77,0:01:09.45,Chinese,,0,0,0,,于是他们拿出磁卡，开始重新计票
+Dialogue: 0,0:01:09.45,0:01:13.89,English,,0,0,0,,One by one, they fed each of them through the machines again,
+Dialogue: 0,0:01:09.45,0:01:13.89,Chinese,,0,0,0,,他们一个接一个把磁卡再次投入机器
+Dialogue: 0,0:01:13.89,0:01:17.08,English,,0,0,0,,and after several hours, the recount was complete.
+Dialogue: 0,0:01:13.89,0:01:17.08,Chinese,,0,0,0,,几小时后，重新计票完成
+Dialogue: 0,0:01:17.08,0:01:22.37,English,,0,0,0,,The vote totals for every candidate were exactly the same as before,
+Dialogue: 0,0:01:17.08,0:01:22.37,Chinese,,0,0,0,,其他各个候选人的总选票数与之前完全相同
+Dialogue: 0,0:01:22.37,0:01:25.10,English,,0,0,0,,except for Maria Vindevogel.
+Dialogue: 0,0:01:22.37,0:01:25.10,Chinese,,0,0,0,,除了Maria Vindevogel
+Dialogue: 0,0:01:25.10,0:01:27.36,English,,0,0,0,,In her case, the recounted number of votes
+Dialogue: 0,0:01:27.36,0:01:31.83,English,,0,0,0,,was less than the original by 4,096.
+Dialogue: 0,0:01:25.10,0:01:31.83,Chinese,,0,0,0,,她在重新计票后比之前少了4096票
+Dialogue: 0,0:01:31.83,0:01:33.59,English,,0,0,0,,So what went wrong?
+Dialogue: 0,0:01:31.83,0:01:33.59,Chinese,,0,0,0,,那什么出问题了呢
+Dialogue: 0,0:01:33.59,0:01:38.66,English,,0,0,0,,How had her original tally been inflated by over 4,000 votes?
+Dialogue: 0,0:01:33.59,0:01:38.66,Chinese,,0,0,0,,她的原始票数是如何多了4000多票的
+Dialogue: 0,0:01:38.66,0:01:42.60,English,,0,0,0,,Computer experts were brought in to run extensive tests on the software.
+Dialogue: 0,0:01:38.66,0:01:42.60,Chinese,,0,0,0,,他们请来计算机专家对该软件进行大量测试
+Dialogue: 0,0:01:42.60,0:01:46.37,English,,0,0,0,,They combed through the code, but could find no bugs.
+Dialogue: 0,0:01:42.60,0:01:46.37,Chinese,,0,0,0,,他们梳理了代码，但是什么错误都没找到
+Dialogue: 0,0:01:46.37,0:01:49.10,English,,0,0,0,,They got the computer that had made the initial erroneous tally
+Dialogue: 0,0:01:46.37,0:01:49.10,Chinese,,0,0,0,,他们用产生初始计算错误的计算机
+Dialogue: 0,0:01:49.10,0:01:52.12,English,,0,0,0,,and tested the hardware again and again,
+Dialogue: 0,0:01:49.10,0:01:52.12,Chinese,,0,0,0,,然后一次又一次测试硬件
+Dialogue: 0,0:01:52.12,0:01:54.72,English,,0,0,0,,but they could not replicate the error.
+Dialogue: 0,0:01:52.12,0:01:54.72,Chinese,,0,0,0,,但他们无法复现错误
+Dialogue: 0,0:01:54.72,0:01:58.66,English,,0,0,0,,Everything about the hardware seemed to be in perfect working order.
+Dialogue: 0,0:01:54.72,0:01:58.66,Chinese,,0,0,0,,硬件的每一处地方似乎都在良好的工作状态
+Dialogue: 0,0:01:58.66,0:02:01.41,English,,0,0,0,,And this left only one possible explanation
+Dialogue: 0,0:01:58.66,0:02:01.41,Chinese,,0,0,0,,这就只剩下一种解释
+Dialogue: 0,0:02:01.41,0:02:04.07,English,,0,0,0,,and it is seriously weird.
+Dialogue: 0,0:02:01.41,0:02:04.07,Chinese,,0,0,0,,而且这个解释非常非常奇怪
+Dialogue: 0,0:02:04.07,0:02:08.44,English,,0,0,0,,The clue comes from the excess number of votes Vindevogel received.
+Dialogue: 0,0:02:04.07,0:02:08.44,Chinese,,0,0,0,,线索来自Vindevogel获得的过多选票
+Dialogue: 0,0:02:08.44,0:02:11.46,Chinese,,0,0,0,,4096
+Dialogue: 0,0:02:11.46,0:02:15.44,English,,0,0,0,,Computers work using binary, strings of zeros and ones,
+Dialogue: 0,0:02:11.46,0:02:15.44,Chinese,,0,0,0,,计算机使用二进制，0和1的字符串工作
+Dialogue: 0,0:02:15.44,0:02:17.88,English,,0,0,0,,each corresponding to a power of two.
+Dialogue: 0,0:02:15.44,0:02:17.88,Chinese,,0,0,0,,每一个字符串对应2的幂
+Dialogue: 0,0:02:17.88,0:02:20.82,English,,0,0,0,,So somewhere inside the computer tabulating all the votes
+Dialogue: 0,0:02:17.88,0:02:20.82,Chinese,,0,0,0,,因此，在计算机内的某处
+Dialogue: 0,0:02:20.82,0:02:22.08,English,,0,0,0,,was a string of bits
+Dialogue: 0,0:02:20.82,0:02:22.08,Chinese,,0,0,0,,计算所有选票的是一个字符串位
+Dialogue: 0,0:02:22.08,0:02:24.90,English,,0,0,0,,representing the number of votes Maria received.
+Dialogue: 0,0:02:22.08,0:02:24.90,Chinese,,0,0,0,,代表Maria获得的所有选票
+Dialogue: 0,0:02:24.90,0:02:26.86,English,,0,0,0,,It started the day all zeros,
+Dialogue: 0,0:02:24.90,0:02:26.86,Chinese,,0,0,0,,开始都是0
+Dialogue: 0,0:02:26.86,0:02:28.83,English,,0,0,0,,and then as each vote for her came in,
+Dialogue: 0,0:02:26.86,0:02:28.83,Chinese,,0,0,0,,然后随着每次有选票投她
+Dialogue: 0,0:02:28.83,0:02:30.94,English,,0,0,0,,it would increment by one.
+Dialogue: 0,0:02:28.83,0:02:30.94,Chinese,,0,0,0,,都会增加1
+Dialogue: 0,0:02:30.94,0:02:34.14,English,,0,0,0,,Physically, this is done by turning on a transistor for one
+Dialogue: 0,0:02:30.94,0:02:34.14,Chinese,,0,0,0,,物理上讲，这是通过开启晶体管为1
+Dialogue: 0,0:02:34.14,0:02:36.75,English,,0,0,0,,and turning it off for zero.
+Dialogue: 0,0:02:34.14,0:02:36.75,Chinese,,0,0,0,,关闭晶体管为0实现的
+Dialogue: 0,0:02:36.75,0:02:40.11,English,,0,0,0,,What's remarkable about the number 4,096
+Dialogue: 0,0:02:40.11,0:02:43.53,English,,0,0,0,,is that it is exactly a power of two.
+Dialogue: 0,0:02:36.75,0:02:43.53,Chinese,,0,0,0,,数字4096的特别之处在于它恰好是2的幂
+Dialogue: 0,0:02:43.53,0:02:45.55,English,,0,0,0,,Two to the power of 12.
+Dialogue: 0,0:02:43.53,0:02:45.55,Chinese,,0,0,0,,2的12次方
+Dialogue: 0,0:02:45.55,0:02:48.12,English,,0,0,0,,That is the 13th bit.
+Dialogue: 0,0:02:45.55,0:02:48.12,Chinese,,0,0,0,,这是第13位
+Dialogue: 0,0:02:48.12,0:02:52.73,English,,0,0,0,,So for Maria Vindevogel to receive an extra 4,096 votes,
+Dialogue: 0,0:02:48.12,0:02:52.73,Chinese,,0,0,0,,因此，想让Maria Vindevogel获得额外的4096张票
+Dialogue: 0,0:02:52.73,0:02:55.44,English,,0,0,0,,only one thing needed to happen.
+Dialogue: 0,0:02:52.73,0:02:55.44,Chinese,,0,0,0,,只需要改变一个晶体管
+Dialogue: 0,0:02:55.44,0:03:00.05,English,,0,0,0,,The 13th bit had to flip from a zero to a one.
+Dialogue: 0,0:02:55.44,0:03:00.05,Chinese,,0,0,0,,第13位必须从0反转到1
+Dialogue: 0,0:03:01.11,0:03:03.09,English,,0,0,0,,But why would that happen?
+Dialogue: 0,0:03:01.11,0:03:03.09,Chinese,,0,0,0,,但为什么会这样呢
+Dialogue: 0,0:03:03.09,0:03:04.67,English,,0,0,0,,Computers work precisely because
+Dialogue: 0,0:03:03.09,0:03:04.67,Chinese,,0,0,0,,计算机可以正常工作正是因为
+Dialogue: 0,0:03:04.67,0:03:07.68,English,,0,0,0,,bits don't flip unless we want them to,
+Dialogue: 0,0:03:04.67,0:03:07.68,Chinese,,0,0,0,,只要我们没有主动让比特反转  它们就一定不会自发反转……
+Dialogue: 0,0:03:08.57,0:03:10.18,English,,0,0,0,,or do they?
+Dialogue: 0,0:03:08.57,0:03:10.18,Chinese,,0,0,0,,可是，真的不会吗？
+Dialogue: 0,0:03:10.96,0:03:12.26,English,,0,0,0,,Looking into the problem,
+Dialogue: 0,0:03:10.96,0:03:12.26,Chinese,,0,0,0,,在调查这个问题时
+Dialogue: 0,0:03:12.26,0:03:14.90,English,,0,0,0,,Belgian investigators found reports of similar issues
+Dialogue: 0,0:03:12.26,0:03:14.90,Chinese,,0,0,0,,比利时调查人员发现，从上世纪70年代开始
+Dialogue: 0,0:03:14.90,0:03:18.42,English,,0,0,0,,from big computer companies starting in the 1970s.
+Dialogue: 0,0:03:14.90,0:03:18.42,Chinese,,0,0,0,,在计算机大公司有类似问题报告
+Dialogue: 0,0:03:19.43,0:03:23.61,English,,0,0,0,,In 1978, Intel reported some strange errors popping up
+Dialogue: 0,0:03:19.43,0:03:23.61,Chinese,,0,0,0,,1978年，英特尔报告称
+Dialogue: 0,0:03:23.61,0:03:28.04,English,,0,0,0,,in their 16 kilobit dynamic random access memory or DRAM.
+Dialogue: 0,0:03:23.61,0:03:28.04,Chinese,,0,0,0,,其16 KB动态内存（DRAM）中出现了一些奇怪的错误
+Dialogue: 0,0:03:23.61,0:03:33.39,Chinese,,0,0,0,,{\an7\pos(100,194)}动态随机存取存储器，或动态内存（DRAM）\N需要周期性地充电来保持数据\N因而得名“动态”\N而如今常用的内存为“静态”内存
+Dialogue: 0,0:03:28.04,0:03:33.39,English,,0,0,0,,Ones would spontaneously flip to zeros with no apparent cause.
+Dialogue: 0,0:03:28.04,0:03:33.39,Chinese,,0,0,0,,有些“1”会毫无征兆地自动归“0”
+Dialogue: 0,0:03:33.39,0:03:34.95,English,,0,0,0,,The problem turned out to be
+Dialogue: 0,0:03:33.39,0:03:34.95,Chinese,,0,0,0,,问题原来出在
+Dialogue: 0,0:03:34.95,0:03:38.51,English,,0,0,0,,the ceramic packaging the chip was encased in.
+Dialogue: 0,0:03:34.95,0:03:38.51,Chinese,,0,0,0,,用于封装芯片的陶瓷上
+Dialogue: 0,0:03:38.51,0:03:41.24,English,,0,0,0,,With the demand for semiconductor packaging skyrocketing
+Dialogue: 0,0:03:38.51,0:03:41.24,Chinese,,0,0,0,,随着1970年代对半导体封装需求的激增
+Dialogue: 0,0:03:41.24,0:03:44.68,English,,0,0,0,,in the 1970s, a new manufacturing plant was constructed
+Dialogue: 0,0:03:41.24,0:03:44.68,Chinese,,0,0,0,,一家新的制造厂被建立在了
+Dialogue: 0,0:03:44.68,0:03:46.95,English,,0,0,0,,on the Green River in Colorado.
+Dialogue: 0,0:03:44.68,0:03:46.95,Chinese,,0,0,0,,科罗拉多州的格林河附近
+Dialogue: 0,0:03:46.95,0:03:49.14,English,,0,0,0,,Unfortunately, this site happened to be
+Dialogue: 0,0:03:46.95,0:03:49.14,Chinese,,0,0,0,,不幸的是  这家制造厂正好位于
+Dialogue: 0,0:03:49.14,0:03:51.84,English,,0,0,0,,just downstream of an old uranium mill.
+Dialogue: 0,0:03:49.14,0:03:51.84,Chinese,,0,0,0,,一个旧铀厂的下游
+Dialogue: 0,0:03:52.37,0:03:55.13,English,,0,0,0,,Radioactive atoms made their way into the river
+Dialogue: 0,0:03:52.37,0:03:55.13,Chinese,,0,0,0,,放射性原子进入河流
+Dialogue: 0,0:03:55.13,0:03:59.48,English,,0,0,0,,and then into the ceramic packaging for Intel's microchips.
+Dialogue: 0,0:03:55.13,0:03:59.48,Chinese,,0,0,0,,然后进入英特尔芯片的陶瓷封装
+Dialogue: 0,0:03:59.48,0:04:02.00,English,,0,0,0,,Intel scientists investigating the problem found that
+Dialogue: 0,0:03:59.48,0:04:02.00,Chinese,,0,0,0,,调查这个问题的英特尔科学家发现
+Dialogue: 0,0:04:02.00,0:04:04.80,English,,0,0,0,,even trace amounts of uranium and thorium in the ceramic
+Dialogue: 0,0:04:02.00,0:04:04.80,Chinese,,0,0,0,,即便是陶瓷中痕量的铀和钍
+Dialogue: 0,0:04:04.80,0:04:07.73,English,,0,0,0,,were sufficient to cause problems.
+Dialogue: 0,0:04:04.80,0:04:07.73,Chinese,,0,0,0,,也足以引起问题
+Dialogue: 0,0:04:07.73,0:04:10.40,English,,0,0,0,,In their DRAM, memory was stored as the presence
+Dialogue: 0,0:04:07.73,0:04:10.40,Chinese,,0,0,0,,在英特尔的DRAM中
+Dialogue: 0,0:04:10.40,0:04:14.25,English,,0,0,0,,or absence of electrons in a semiconductor well.
+Dialogue: 0,0:04:10.40,0:04:14.25,Chinese,,0,0,0,,他们以半导体阱中的电子存在与否来存储0和1
+Dialogue: 0,0:04:14.25,0:04:17.02,English,,0,0,0,,The alpha particles emitted by uranium and thorium
+Dialogue: 0,0:04:14.25,0:04:17.02,Chinese,,0,0,0,,铀和钍发射的α粒子
+Dialogue: 0,0:04:17.02,0:04:19.14,English,,0,0,0,,were energetic and ionizing enough
+Dialogue: 0,0:04:17.02,0:04:19.14,Chinese,,0,0,0,,能量充足并且电离能力极强
+Dialogue: 0,0:04:19.14,0:04:22.49,English,,0,0,0,,to create electron hole pairs in the silicon.
+Dialogue: 0,0:04:19.14,0:04:22.49,Chinese,,0,0,0,,足以在硅中产生电子空穴对
+Dialogue: 0,0:04:22.49,0:04:25.45,English,,0,0,0,,If an alpha particle is struck in just the right place,
+Dialogue: 0,0:04:22.49,0:04:25.45,Chinese,,0,0,0,,如果α粒子撞击的位置正确
+Dialogue: 0,0:04:25.45,0:04:28.93,English,,0,0,0,,it could create a large number of free charge carriers
+Dialogue: 0,0:04:25.45,0:04:28.93,Chinese,,0,0,0,,它可能会产生大量的自由电荷载流子
+Dialogue: 0,0:04:28.93,0:04:31.94,English,,0,0,0,,causing electrons to accumulate in the well
+Dialogue: 0,0:04:28.93,0:04:31.94,Chinese,,0,0,0,,导致电子在阱中堆积
+Dialogue: 0,0:04:31.94,0:04:34.60,English,,0,0,0,,flipping a one to a zero.
+Dialogue: 0,0:04:31.94,0:04:34.60,Chinese,,0,0,0,,将1翻转为0
+Dialogue: 0,0:04:34.60,0:04:39.34,English,,0,0,0,,This is known as a single event upset, a type of soft error.
+Dialogue: 0,0:04:34.60,0:04:39.34,Chinese,,0,0,0,,这被称为单粒子翻转，是一种软性错误
+Dialogue: 0,0:04:39.34,0:04:42.69,English,,0,0,0,,The error is soft because the device hasn't been damaged.
+Dialogue: 0,0:04:39.34,0:04:42.69,Chinese,,0,0,0,,之所以说是“软”错误，是因为设备并没有损坏
+Dialogue: 0,0:04:42.69,0:04:43.70,English,,0,0,0,,The bit has changed,
+Dialogue: 0,0:04:42.69,0:04:43.70,Chinese,,0,0,0,,某一位发生了变化
+Dialogue: 0,0:04:43.70,0:04:47.46,English,,0,0,0,,but you could erase it and rewrite it with no problems.
+Dialogue: 0,0:04:43.70,0:04:47.46,Chinese,,0,0,0,,但你可以毫无问题地将其擦除并重写
+Dialogue: 0,0:04:47.46,0:04:50.21,English,,0,0,0,,Investigators exposed the chips to alpha emitters
+Dialogue: 0,0:04:47.46,0:04:50.21,Chinese,,0,0,0,,研究人员将芯片暴露在
+Dialogue: 0,0:04:50.21,0:04:52.15,English,,0,0,0,,with different levels of activity.
+Dialogue: 0,0:04:50.21,0:04:52.15,Chinese,,0,0,0,,不同强度的α射线中
+Dialogue: 0,0:04:52.15,0:04:53.25,English,,0,0,0,,And just as you'd expect,
+Dialogue: 0,0:04:52.15,0:04:53.25,Chinese,,0,0,0,,不出所料
+Dialogue: 0,0:04:53.25,0:04:55.95,English,,0,0,0,,they found the number of bit flips directly correlated
+Dialogue: 0,0:04:53.25,0:04:55.95,Chinese,,0,0,0,,他们发现位翻转发生的频率
+Dialogue: 0,0:04:55.95,0:04:57.28,English,,0,0,0,,with the number of alpha particles
+Dialogue: 0,0:04:55.95,0:04:57.28,Chinese,,0,0,0,,与芯片所在环境中α粒子的数量
+Dialogue: 0,0:04:57.28,0:04:59.43,English,,0,0,0,,the chip had been exposed to.
+Dialogue: 0,0:04:57.28,0:04:59.43,Chinese,,0,0,0,,有着直接的关系
+Dialogue: 0,0:04:59.43,0:05:02.55,English,,0,0,0,,The reason this problem was identified in the 1970s
+Dialogue: 0,0:04:59.43,0:05:02.55,Chinese,,0,0,0,,之所以在上世纪70年代会发现这个问题
+Dialogue: 0,0:05:02.55,0:05:04.83,English,,0,0,0,,was because chip components had been miniaturized
+Dialogue: 0,0:05:02.55,0:05:04.83,Chinese,,0,0,0,,是因为那时的芯片组件已经小到
+Dialogue: 0,0:05:04.83,0:05:07.50,English,,0,0,0,,to the point where a single alpha particle
+Dialogue: 0,0:05:04.83,0:05:07.50,Chinese,,0,0,0,,只要有单个α粒子
+Dialogue: 0,0:05:07.50,0:05:09.76,English,,0,0,0,,could produce enough charge to flip a bit.
+Dialogue: 0,0:05:07.50,0:05:09.76,Chinese,,0,0,0,,就能产生足够的电荷  使某一位发生翻转
+Dialogue: 0,0:05:10.86,0:05:14.14,English,,0,0,0,,Immediately, these findings attracted a lot of attention.
+Dialogue: 0,0:05:10.86,0:05:14.14,Chinese,,0,0,0,,这些发现随即引起了大量关注
+Dialogue: 0,0:05:14.14,0:05:15.65,English,,0,0,0,,Before the paper was published,
+Dialogue: 0,0:05:14.14,0:05:15.65,Chinese,,0,0,0,,在论文被发表前
+Dialogue: 0,0:05:15.65,0:05:18.28,English,,0,0,0,,it was widely circulated in the industry.
+Dialogue: 0,0:05:15.65,0:05:18.28,Chinese,,0,0,0,,它们已经在业内广为流传
+Dialogue: 0,0:05:18.28,0:05:21.68,English,,0,0,0,,And as a result, chip manufacturers were a lot more careful
+Dialogue: 0,0:05:18.28,0:05:21.68,Chinese,,0,0,0,,这让芯片制造商变得更加谨慎
+Dialogue: 0,0:05:21.68,0:05:23.47,English,,0,0,0,,to avoid radioactive materials
+Dialogue: 0,0:05:21.68,0:05:23.47,Chinese,,0,0,0,,以免在生产和封装芯片时
+Dialogue: 0,0:05:23.47,0:05:26.30,English,,0,0,0,,when producing their microchips and packaging.
+Dialogue: 0,0:05:23.47,0:05:26.30,Chinese,,0,0,0,,使用了带有放射性的原料
+Dialogue: 0,0:05:26.30,0:05:29.25,English,,0,0,0,,Therefore, the bit flip that gave Maria Vindevogel
+Dialogue: 0,0:05:26.30,0:05:29.25,Chinese,,0,0,0,,因此，让玛丽亚·温德沃格尔获得
+Dialogue: 0,0:05:29.25,0:05:31.38,English,,0,0,0,,4,096 extra votes
+Dialogue: 0,0:05:29.25,0:05:31.38,Chinese,,0,0,0,,额外4096票的位翻转
+Dialogue: 0,0:05:31.38,0:05:35.49,English,,0,0,0,,wasn't caused by natural radioactivity in the computer.
+Dialogue: 0,0:05:31.38,0:05:35.49,Chinese,,0,0,0,,并不是由计算机中的自然放射性引起的
+Dialogue: 0,0:05:35.49,0:05:37.27,English,,0,0,0,,So where did it come from?
+Dialogue: 0,0:05:35.49,0:05:37.27,Chinese,,0,0,0,,那么它是从哪里来的呢
+Dialogue: 0,0:05:38.20,0:05:42.96,English,,0,0,0,,{\pos(2700,2140)}After Henri Becquerel discovered radioactivity with uranium in 1896,
+Dialogue: 0,0:05:38.20,0:05:42.96,Chinese,,0,0,0,,{\pos(2700,2070)}1896年  亨利·贝克勒尔发现铀具有放射性后
+Dialogue: 0,0:05:42.96,0:05:45.28,English,,0,0,0,,scientists sought a way to measure it.
+Dialogue: 0,0:05:42.96,0:05:45.28,Chinese,,0,0,0,,科学家们开始寻找测量它的方法
+Dialogue: 0,0:05:45.28,0:05:48.23,English,,0,0,0,,How radioactive were different materials?
+Dialogue: 0,0:05:45.28,0:05:48.23,Chinese,,0,0,0,,不同材料的放射性如何
+Dialogue: 0,0:05:48.23,0:05:51.66,English,,0,0,0,,And one way to do this is with a gold leaf electrometer.
+Dialogue: 0,0:05:48.23,0:05:51.66,Chinese,,0,0,0,,一种测量方法是使用金箔静电计
+Dialogue: 0,0:05:51.66,0:05:54.35,English,,0,0,0,,When it's charged, the leaf is repelled
+Dialogue: 0,0:05:51.66,0:05:54.35,Chinese,,0,0,0,,当它被充能时，金箔会产生张角
+Dialogue: 0,0:05:54.35,0:05:56.21,English,,0,0,0,,and you can measure the amount of charge
+Dialogue: 0,0:05:54.35,0:05:56.21,Chinese,,0,0,0,,你就可以通过金箔抬起的角度
+Dialogue: 0,0:05:56.21,0:05:58.36,English,,0,0,0,,by the angle of the leaf.
+Dialogue: 0,0:05:56.21,0:05:58.36,Chinese,,0,0,0,,来测量电荷量
+Dialogue: 0,0:05:58.36,0:06:01.44,English,,0,0,0,,Now, if ionizing radiation enters the chamber,
+Dialogue: 0,0:05:58.36,0:06:01.44,Chinese,,0,0,0,,现在，如果电离辐射进入静电计
+Dialogue: 0,0:06:01.44,0:06:03.79,English,,0,0,0,,it rips electrons off air molecules,
+Dialogue: 0,0:06:01.44,0:06:03.79,Chinese,,0,0,0,,它会从空气中剥离出电子
+Dialogue: 0,0:06:03.79,0:06:06.68,English,,0,0,0,,creating positive and negative charges.
+Dialogue: 0,0:06:03.79,0:06:06.68,Chinese,,0,0,0,,产生正电荷和负电荷
+Dialogue: 0,0:06:06.68,0:06:09.11,English,,0,0,0,,Opposite charges are attracted to the leaf,
+Dialogue: 0,0:06:06.68,0:06:09.11,Chinese,,0,0,0,,相反的电荷被吸引到金箔上
+Dialogue: 0,0:06:09.11,0:06:11.44,English,,0,0,0,,discharging it over time.
+Dialogue: 0,0:06:09.11,0:06:11.44,Chinese,,0,0,0,,导致其随着时间的推移而放电
+Dialogue: 0,0:06:11.44,0:06:13.73,English,,0,0,0,,The higher the level of ionizing radiation,
+Dialogue: 0,0:06:11.44,0:06:13.73,Chinese,,0,0,0,,电离辐射的强度越高
+Dialogue: 0,0:06:13.73,0:06:16.63,English,,0,0,0,,the faster the device discharges.
+Dialogue: 0,0:06:13.73,0:06:16.63,Chinese,,0,0,0,,静电计放电就越快
+Dialogue: 0,0:06:16.63,0:06:19.78,English,,0,0,0,,In 1910, Theodore Wolf took his electrometer
+Dialogue: 0,0:06:16.63,0:06:19.78,Chinese,,0,0,0,,1910年，西奥多·沃尔夫带着他的静电计
+Dialogue: 0,0:06:19.78,0:06:21.73,English,,0,0,0,,to the top of the Eiffel Tower.
+Dialogue: 0,0:06:19.78,0:06:21.73,Chinese,,0,0,0,,来到了艾菲尔铁塔的顶端
+Dialogue: 0,0:06:21.73,0:06:25.27,English,,0,0,0,,Since radioactivity was found in the soil and rocks of earth,
+Dialogue: 0,0:06:21.73,0:06:25.27,Chinese,,0,0,0,,由于人们已在地球的土壤和岩石中  发现了放射性
+Dialogue: 0,0:06:25.27,0:06:27.30,English,,0,0,0,,he expected that 300 meters up,
+Dialogue: 0,0:06:25.27,0:06:27.30,Chinese,,0,0,0,,他认为在距离地表300米高的地方
+Dialogue: 0,0:06:27.30,0:06:29.74,English,,0,0,0,,the radiation would be just a few percent
+Dialogue: 0,0:06:27.30,0:06:29.74,Chinese,,0,0,0,,那里的放射性
+Dialogue: 0,0:06:29.74,0:06:31.48,English,,0,0,0,,of the ground radiation.
+Dialogue: 0,0:06:29.74,0:06:31.48,Chinese,,0,0,0,,应该只有地表的百分之几
+Dialogue: 0,0:06:31.48,0:06:34.92,English,,0,0,0,,Instead he found only a slight decrease.
+Dialogue: 0,0:06:31.48,0:06:34.92,Chinese,,0,0,0,,然而  他却仅观测到了轻微的下降
+Dialogue: 0,0:06:35.82,0:06:38.67,English,,0,0,0,,In 1911, Austrian physicist Victor Hess
+Dialogue: 0,0:06:35.82,0:06:38.67,Chinese,,0,0,0,,1911年  奥地利物理学家维克托·赫斯
+Dialogue: 0,0:06:38.67,0:06:41.06,English,,0,0,0,,decided to take this experiment further.
+Dialogue: 0,0:06:38.67,0:06:41.06,Chinese,,0,0,0,,决定走得更远
+Dialogue: 0,0:06:41.06,0:06:42.04,English,,0,0,0,,Literally.
+Dialogue: 0,0:06:41.06,0:06:42.04,Chinese,,0,0,0,,字面意思的“更远”
+Dialogue: 0,0:06:42.04,0:06:46.20,English,,0,0,0,,He loaded electric scopes into the basket of a hydrogen balloon.
+Dialogue: 0,0:06:42.04,0:06:46.20,Chinese,,0,0,0,,他把电镜装进氢气球的篮子里
+Dialogue: 0,0:06:46.20,0:06:47.37,English,,0,0,0,,In his first two flights,
+Dialogue: 0,0:06:46.20,0:06:47.37,Chinese,,0,0,0,,在他的前两次飞行中
+Dialogue: 0,0:06:47.37,0:06:49.63,English,,0,0,0,,he observed the same thing as Wolf.
+Dialogue: 0,0:06:47.37,0:06:49.63,Chinese,,0,0,0,,他观测到的结果与沃尔夫相同
+Dialogue: 0,0:06:49.63,0:06:52.20,English,,0,0,0,,Up to an altitude of 1100 meters,
+Dialogue: 0,0:06:49.63,0:06:52.20,Chinese,,0,0,0,,在高达1100米的地方
+Dialogue: 0,0:06:52.20,0:06:55.64,English,,0,0,0,,both trips revealed no fundamental change in radiation
+Dialogue: 0,0:06:52.20,0:06:55.64,Chinese,,0,0,0,,两趟观测都显示 与地表相比
+Dialogue: 0,0:06:55.64,0:06:58.53,English,,0,0,0,,compared to the values observed on the ground.
+Dialogue: 0,0:06:55.64,0:06:58.53,Chinese,,0,0,0,,辐射没有本质变化
+Dialogue: 0,0:06:58.53,0:07:01.55,English,,0,0,0,,But the next year, he conducted seven balloon flights
+Dialogue: 0,0:06:58.53,0:07:01.55,Chinese,,0,0,0,,但是第二年，他进行了七次气球飞行
+Dialogue: 0,0:07:01.55,0:07:04.83,English,,0,0,0,,up to an altitude of 5,200 meters.
+Dialogue: 0,0:07:01.55,0:07:04.83,Chinese,,0,0,0,,升至5200米的高度
+Dialogue: 0,0:07:04.83,0:07:08.41,English,,0,0,0,,And here he discovered something remarkable.
+Dialogue: 0,0:07:04.83,0:07:08.41,Chinese,,0,0,0,,他在这里发现了一些了不得的东西
+Dialogue: 0,0:07:08.41,0:07:10.90,English,,0,0,0,,While there was an initial drop in radiation
+Dialogue: 0,0:07:08.41,0:07:10.90,Chinese,,0,0,0,,虽然在最初的几百米内
+Dialogue: 0,0:07:10.90,0:07:13.06,English,,0,0,0,,for the first several hundred meters,
+Dialogue: 0,0:07:10.90,0:07:13.06,Chinese,,0,0,0,,辐射开始下降
+Dialogue: 0,0:07:13.06,0:07:14.99,English,,0,0,0,,above one kilometer or so
+Dialogue: 0,0:07:13.06,0:07:14.99,Chinese,,0,0,0,,但超过一千米左右
+Dialogue: 0,0:07:14.99,0:07:18.92,English,,0,0,0,,the level increased with increasing altitude.
+Dialogue: 0,0:07:14.99,0:07:18.92,Chinese,,0,0,0,,辐射水平随着高度的增加而增加
+Dialogue: 0,0:07:18.92,0:07:20.56,English,,0,0,0,,At his maximum height,
+Dialogue: 0,0:07:18.92,0:07:20.56,Chinese,,0,0,0,,在他所能达到的最大高度
+Dialogue: 0,0:07:20.56,0:07:23.85,English,,0,0,0,,the level of radiation was several times greater
+Dialogue: 0,0:07:20.56,0:07:23.85,Chinese,,0,0,0,,那里的辐射水平
+Dialogue: 0,0:07:23.85,0:07:26.11,English,,0,0,0,,than it was on the ground.
+Dialogue: 0,0:07:23.85,0:07:26.11,Chinese,,0,0,0,,是地表的几倍
+Dialogue: 0,0:07:26.11,0:07:30.35,English,,0,0,0,,The radiation appeared to be coming, not from the earth,
+Dialogue: 0,0:07:26.11,0:07:30.35,Chinese,,0,0,0,,辐射似乎不是来自地球
+Dialogue: 0,0:07:30.35,0:07:31.70,English,,0,0,0,,but from the sky.
+Dialogue: 0,0:07:30.35,0:07:31.70,Chinese,,0,0,0,,而是来自天空
+Dialogue: 0,0:07:32.91,0:07:34.90,English,,0,0,0,,Hess scheduled one of his balloon flights
+Dialogue: 0,0:07:32.91,0:07:34.90,Chinese,,0,0,0,,赫斯在日食期间
+Dialogue: 0,0:07:34.90,0:07:36.82,English,,0,0,0,,during a solar eclipse.
+Dialogue: 0,0:07:34.90,0:07:36.82,Chinese,,0,0,0,,安排了一次气球飞行
+Dialogue: 0,0:07:36.82,0:07:38.97,English,,0,0,0,,And as the moon passed in front of the sun,
+Dialogue: 0,0:07:36.82,0:07:38.97,Chinese,,0,0,0,,当月球从太阳前经过时
+Dialogue: 0,0:07:38.97,0:07:41.74,English,,0,0,0,,he carefully watched his instruments.
+Dialogue: 0,0:07:38.97,0:07:41.74,Chinese,,0,0,0,,他认真地盯着他的仪器
+Dialogue: 0,0:07:41.74,0:07:44.08,English,,0,0,0,,But the readings were unaffected.
+Dialogue: 0,0:07:41.74,0:07:44.08,Chinese,,0,0,0,,但读数并没有受影响
+Dialogue: 0,0:07:44.08,0:07:46.13,English,,0,0,0,,Even with the sun half covered,
+Dialogue: 0,0:07:44.08,0:07:46.13,Chinese,,0,0,0,,即使太阳被遮住了一半
+Dialogue: 0,0:07:46.13,0:07:49.06,English,,0,0,0,,the level of radiation was the same.
+Dialogue: 0,0:07:46.13,0:07:49.06,Chinese,,0,0,0,,辐射水平也是一样的
+Dialogue: 0,0:07:49.06,0:07:51.14,English,,0,0,0,,Since no influence of the eclipse
+Dialogue: 0,0:07:49.06,0:07:51.14,Chinese,,0,0,0,,由于没有观测到
+Dialogue: 0,0:07:51.14,0:07:53.25,English,,0,0,0,,on the penetrating radiation was noted,
+Dialogue: 0,0:07:51.14,0:07:53.25,Chinese,,0,0,0,,日食对辐射的影响
+Dialogue: 0,0:07:53.25,0:07:54.40,English,,0,0,0,,we conclude that
+Dialogue: 0,0:07:53.25,0:07:54.40,Chinese,,0,0,0,,我们得出结论
+Dialogue: 0,0:07:54.40,0:07:57.53,English,,0,0,0,,even if a part of the radiation should be of cosmic origin,
+Dialogue: 0,0:07:54.40,0:07:57.53,Chinese,,0,0,0,,即使那部分辐射的来源是宇宙
+Dialogue: 0,0:07:57.53,0:07:59.81,English,,0,0,0,,it hardly emanates from the sun.
+Dialogue: 0,0:07:57.53,0:07:59.81,Chinese,,0,0,0,,它也几乎不来自于太阳
+Dialogue: 0,0:08:00.23,0:08:02.99,English,,0,0,0,,Victor Hess had discovered cosmic rays.
+Dialogue: 0,0:08:00.23,0:08:02.99,Chinese,,0,0,0,,维克托·赫斯发现了宇宙射线
+Dialogue: 0,0:08:03.35,0:08:06.09,English,,0,0,0,,High energy radiation from space.
+Dialogue: 0,0:08:03.35,0:08:06.09,Chinese,,0,0,0,,来自太空的高能辐射
+Dialogue: 0,0:08:06.88,0:08:08.72,English,,0,0,0,,But what were these rays exactly
+Dialogue: 0,0:08:06.88,0:08:08.72,Chinese,,0,0,0,,但是这些射线究竟是什么呢
+Dialogue: 0,0:08:08.72,0:08:10.47,English,,0,0,0,,and where were they coming from?
+Dialogue: 0,0:08:08.72,0:08:10.47,Chinese,,0,0,0,,它们又从哪来呢
+Dialogue: 0,0:08:11.30,0:08:14.21,English,,0,0,0,,Well, today we know they aren't electromagnetic rays
+Dialogue: 0,0:08:11.30,0:08:14.21,Chinese,,0,0,0,,不像之前人们认为它们是电磁波
+Dialogue: 0,0:08:14.21,0:08:16.39,English,,0,0,0,,as many suspected, but particles.
+Dialogue: 0,0:08:14.21,0:08:16.39,Chinese,,0,0,0,,今天我们知道它们是粒子
+Dialogue: 0,0:08:16.68,0:08:19.09,English,,0,0,0,,Around 90% are protons,
+Dialogue: 0,0:08:16.68,0:08:19.09,Chinese,,0,0,0,,其中大约90%是质子
+Dialogue: 0,0:08:19.09,0:08:23.75,English,,0,0,0,,9% are helium nuclei, and 1% are heavier nuclei.
+Dialogue: 0,0:08:19.09,0:08:23.75,Chinese,,0,0,0,,9%是氦核 1%是更重的核素
+Dialogue: 0,0:08:19.09,0:08:23.75,Chinese,,0,0,0,,{\an7\pos(180,130)}  宇宙学中比氢氦重的都算金属
+Dialogue: 0,0:08:24.22,0:08:26.35,English,,0,0,0,,Some of them are from the sun,
+Dialogue: 0,0:08:24.22,0:08:26.35,Chinese,,0,0,0,,它们当中有些来自太阳
+Dialogue: 0,0:08:26.35,0:08:28.63,English,,0,0,0,,but they have comparatively low energy.
+Dialogue: 0,0:08:26.35,0:08:28.63,Chinese,,0,0,0,,具有的能量相对较低
+Dialogue: 0,0:08:29.15,0:08:32.80,English,,0,0,0,,High energy cosmic rays moving very close to the speed of light
+Dialogue: 0,0:08:29.15,0:08:32.80,Chinese,,0,0,0,,高能宇宙射线被银河系和其他星系的
+Dialogue: 0,0:08:32.80,0:08:36.13,English,,0,0,0,,come from exploding stars, supernova
+Dialogue: 0,0:08:32.80,0:08:36.13,Chinese,,0,0,0,,恒星爆炸 超新星事件
+Dialogue: 0,0:08:36.13,0:08:39.75,English,,0,0,0,,in our own galaxy and in others.
+Dialogue: 0,0:08:36.13,0:08:39.75,Chinese,,0,0,0,,加速到接近光速
+Dialogue: 0,0:08:40.16,0:08:41.83,English,,0,0,0,,And the highest energy particles
+Dialogue: 0,0:08:40.16,0:08:41.83,Chinese,,0,0,0,,而能量最高的粒子
+Dialogue: 0,0:08:41.83,0:08:43.92,English,,0,0,0,,are thought to come from black holes,
+Dialogue: 0,0:08:41.83,0:08:43.92,Chinese,,0,0,0,,则被认为来自黑洞
+Dialogue: 0,0:08:43.92,0:08:47.73,English,,0,0,0,,including the super massive black holes at the centers of galaxies.
+Dialogue: 0,0:08:43.92,0:08:47.73,Chinese,,0,0,0,,包括星系中心的超大质量黑洞
+Dialogue: 0,0:08:48.18,0:08:49.96,English,,0,0,0,,But it's hard to pin down
+Dialogue: 0,0:08:48.18,0:08:49.96,Chinese,,0,0,0,,但是很难搞清楚
+Dialogue: 0,0:08:49.96,0:08:51.97,English,,0,0,0,,exactly where cosmic rays come from
+Dialogue: 0,0:08:49.96,0:08:51.97,Chinese,,0,0,0,,宇宙射线到底是从哪里来的
+Dialogue: 0,0:08:51.97,0:08:53.86,English,,0,0,0,,because as charged particles,
+Dialogue: 0,0:08:51.97,0:08:53.86,Chinese,,0,0,0,,因为它们是带电粒子
+Dialogue: 0,0:08:53.86,0:08:56.32,English,,0,0,0,,they're deflected by magnetic fields in space.
+Dialogue: 0,0:08:53.86,0:08:56.32,Chinese,,0,0,0,,会被空间中的磁场改变方向
+Dialogue: 0,0:08:56.72,0:09:01.19,English,,0,0,0,,So they can wind their way through the universe for billions of years.
+Dialogue: 0,0:08:56.72,0:09:01.19,Chinese,,0,0,0,,所以它们会在宇宙中曲折穿行数十亿年
+Dialogue: 0,0:09:01.75,0:09:05.79,English,,0,0,0,,A cosmic ray detected on October 15th, 1991
+Dialogue: 0,0:09:01.75,0:09:05.79,Chinese,,0,0,0,,1991年10月15日探测到的一条宇宙线
+Dialogue: 0,0:09:05.79,0:09:08.44,English,,0,0,0,,had an energy of 51 joules.
+Dialogue: 0,0:09:05.79,0:09:08.44,Chinese,,0,0,0,,其能量达到了51焦耳
+Dialogue: 0,0:09:08.90,0:09:11.29,English,,0,0,0,,That is a single subatomic particle
+Dialogue: 0,0:09:08.90,0:09:11.29,Chinese,,0,0,0,,这是一个亚原子粒子
+Dialogue: 0,0:09:11.29,0:09:15.87,English,,0,0,0,,with the energy of a baseball going 100 kph.
+Dialogue: 0,0:09:11.29,0:09:15.87,Chinese,,0,0,0,,动能相当于一个有百公里时速的棒球
+Dialogue: 0,0:09:16.45,0:09:20.12,English,,0,0,0,,For obvious reasons, it was dubbed the OMG particle.
+Dialogue: 0,0:09:16.45,0:09:20.12,Chinese,,0,0,0,,出于很明显的原因（粒子动能极大），它被称作OMG粒子
+Dialogue: 0,0:09:16.45,0:09:20.12,Chinese,,0,0,0,,{\an7} 一些参考 http://www.fourmilab.ch/documents/OhMyGodParticle/\N似乎没有正式译名
+Dialogue: 0,0:09:20.58,0:09:22.48,English,,0,0,0,,But primary cosmic rays like these
+Dialogue: 0,0:09:20.58,0:09:22.48,Chinese,,0,0,0,,但是像那样的初级宇宙线
+Dialogue: 0,0:09:22.48,0:09:24.67,English,,0,0,0,,don't make it down to earth's surface.
+Dialogue: 0,0:09:22.48,0:09:24.67,Chinese,,0,0,0,,不会到达地表
+Dialogue: 0,0:09:24.67,0:09:29.14,English,,0,0,0,,Instead, they collide with air molecules around 25 kilometers above the ground
+Dialogue: 0,0:09:24.67,0:09:29.14,Chinese,,0,0,0,,它们会和距地面约25km的大气中的分子碰撞
+Dialogue: 0,0:09:29.14,0:09:31.72,English,,0,0,0,,and create new particles like pions.
+Dialogue: 0,0:09:29.14,0:09:31.72,Chinese,,0,0,0,,产生新的粒子 如π介子
+Dialogue: 0,0:09:32.12,0:09:35.94,English,,0,0,0,,These collide and decay into other particles like neutrons,
+Dialogue: 0,0:09:32.12,0:09:35.94,English,,0,0,0,,这些粒子再次碰撞和衰变产生其他粒子 如中子
+Dialogue: 0,0:09:35.94,0:09:40.42,English,,0,0,0,,protons, muons, electrons, positrons, and photons,
+Dialogue: 0,0:09:35.94,0:09:40.42,Chinese,,0,0,0,,质子 μ子 电子 正电子 和光子
+Dialogue: 0,0:09:40.90,0:09:43.26,English,,0,0,0,,which in turn collide with other air molecules
+Dialogue: 0,0:09:40.90,0:09:43.26,Chinese,,0,0,0,,这些粒子又与其他空气分子碰撞
+Dialogue: 0,0:09:43.26,0:09:45.30,English,,0,0,0,,in one long cascade.
+Dialogue: 0,0:09:43.26,0:09:45.30,Chinese,,0,0,0,,产生级联效应
+Dialogue: 0,0:09:45.78,0:09:48.78,English,,0,0,0,,So from a single primary cosmic ray,
+Dialogue: 0,0:09:45.78,0:09:48.78,Chinese,,0,0,0,,所以从一个初级宇宙粒子
+Dialogue: 0,0:09:48.78,0:09:52.21,English,,0,0,0,,comes a shower of particles streaming towards the earth.
+Dialogue: 0,0:09:48.78,0:09:52.21,Chinese,,0,0,0,,会产生一阵向地表倾泻的粒子流
+Dialogue: 0,0:09:53.09,0:09:55.48,English,,0,0,0,,It is one of these particles that investigators
+Dialogue: 0,0:09:53.09,0:09:55.48,Chinese,,0,0,0,,人们怀疑正是这些粒子中的一个
+Dialogue: 0,0:09:55.48,0:09:59.12,English,,0,0,0,,suspect struck a transistor in a computer in Belgium,
+Dialogue: 0,0:09:55.48,0:09:59.12,Chinese,,0,0,0,,击中了比利时一台电脑上的晶体管
+Dialogue: 0,0:09:59.12,0:10:02.24,English,,0,0,0,,flipping the 13th bit from a zero to a one
+Dialogue: 0,0:09:59.12,0:10:02.24,Chinese,,0,0,0,,将第13比特从0翻转到1
+Dialogue: 0,0:10:02.24,0:10:07.09,English,,0,0,0,,and giving Maria Vindevogel 4,096 extra votes.
+Dialogue: 0,0:10:02.24,0:10:07.09,Chinese,,0,0,0,,给Maria Vindevogel增加了4096张额外选票
+Dialogue: 0,0:10:08.14,0:10:10.39,English,,0,0,0,,But how often do things like this happen?
+Dialogue: 0,0:10:08.14,0:10:10.39,Chinese,,0,0,0,,但是这些事情多久发生一次
+Dialogue: 0,0:10:11.22,0:10:13.15,English,,0,0,0,,In 1911, Charles Wilson
+Dialogue: 0,0:10:11.22,0:10:13.15,Chinese,,0,0,0,,1911年  查尔斯威尔逊（的研究）
+Dialogue: 0,0:10:13.15,0:10:16.39,English,,0,0,0,,made it possible to see the cosmic rays all around us
+Dialogue: 0,0:10:13.15,0:10:16.39,Chinese,,0,0,0,,让我们得以观察周围环境中的宇宙射线
+Dialogue: 0,0:10:16.39,0:10:18.67,English,,0,0,0,,when he perfected his cloud chamber,
+Dialogue: 0,0:10:16.39,0:10:18.67,Chinese,,0,0,0,,他完善了自己的云室
+Dialogue: 0,0:10:18.67,0:10:22.31,English,,0,0,0,,an enclosure with super saturated water or alcohol vapor.
+Dialogue: 0,0:10:18.67,0:10:22.31,English,,0,0,0,,这是个封闭容器  里面充满了过饱和的水蒸汽或酒精蒸气
+Dialogue: 0,0:10:22.75,0:10:24.91,English,,0,0,0,,When a cosmic ray passes through the chamber,
+Dialogue: 0,0:10:22.75,0:10:24.91,Chinese,,0,0,0,,当一个宇宙线粒子穿过云室
+Dialogue: 0,0:10:24.91,0:10:27.98,English,,0,0,0,,it ionizes the gas causing vapor to condense
+Dialogue: 0,0:10:24.91,0:10:27.98,Chinese,,0,0,0,,电离气体导致蒸汽凝结
+Dialogue: 0,0:10:27.98,0:10:30.10,English,,0,0,0,,into tiny droplets on the ions,
+Dialogue: 0,0:10:27.98,0:10:30.10,Chinese,,0,0,0,,产生附着在离子上的小液滴
+Dialogue: 0,0:10:30.10,0:10:32.10,English,,0,0,0,,revealing the path of the particle.
+Dialogue: 0,0:10:30.10,0:10:32.10,Chinese,,0,0,0,,揭示粒子的运动路径
+Dialogue: 0,0:10:32.56,0:10:36.60,English,,0,0,0,,Alpha particles, helium nuclei, leave short thick tracks
+Dialogue: 0,0:10:32.56,0:10:36.60,Chinese,,0,0,0,,α粒子（即氦核）会留下短而粗的轨迹
+Dialogue: 0,0:10:36.60,0:10:40.51,English,,0,0,0,,while beta particles, electrons leave long skinny trails.
+Dialogue: 0,0:10:36.60,0:10:40.51,Chinese,,0,0,0,,而β粒子（即电子）会则留下细长的尾迹
+Dialogue: 0,0:10:40.95,0:10:44.26,English,,0,0,0,,In 1932, Carl Anderson identified a trail
+Dialogue: 0,0:10:40.95,0:10:44.26,Chinese,,0,0,0,,1932年 卡尔·安德森发现了一条特殊的轨迹
+Dialogue: 0,0:10:44.26,0:10:46.45,English,,0,0,0,,that looked like it was made by an electron,
+Dialogue: 0,0:10:44.26,0:10:46.45,Chinese,,0,0,0,,看似由电子产生
+Dialogue: 0,0:10:46.92,0:10:50.50,English,,0,0,0,,but in the applied magnetic field, it curved in the wrong direction.
+Dialogue: 0,0:10:46.92,0:10:50.50,English,,0,0,0,,但它在外加磁场中向相反方向偏转
+Dialogue: 0,0:10:50.96,0:10:53.11,English,,0,0,0,,Implying it had a positive charge.
+Dialogue: 0,0:10:50.96,0:10:53.11,Chinese,,0,0,0,,这说明它带有正电荷
+Dialogue: 0,0:10:53.63,0:10:57.74,English,,0,0,0,,Anderson had found the anti electron or positron.
+Dialogue: 0,0:10:53.63,0:10:57.74,Chinese,,0,0,0,,由此安德森发现了“反电子” 或曰“正电子”
+Dialogue: 0,0:10:58.18,0:11:01.11,English,,0,0,0,,It was the first confirmed sighting of anti-matter.
+Dialogue: 0,0:10:58.18,0:11:01.11,Chinese,,0,0,0,,这是人类首次发现反物质的存在
+Dialogue: 0,0:11:01.70,0:11:04.28,English,,0,0,0,,Four years later, also using a cloud chamber,
+Dialogue: 0,0:11:01.70,0:11:04.28,Chinese,,0,0,0,,四年之后 也是在云室中
+Dialogue: 0,0:11:04.28,0:11:07.81,English,,0,0,0,,he discovered the muon, again in cosmic rays.
+Dialogue: 0,0:11:04.28,0:11:07.81,Chinese,,0,0,0,,他发现了宇宙线中的μ子
+Dialogue: 0,0:11:08.30,0:11:10.20,English,,0,0,0,,For his discovery of the positron,
+Dialogue: 0,0:11:08.30,0:11:10.20,Chinese,,0,0,0,,由于正电子的发现
+Dialogue: 0,0:11:10.20,0:11:14.04,English,,0,0,0,,Anderson was awarded the Nobel Prize in Physics in 1936.
+Dialogue: 0,0:11:10.20,0:11:14.04,Chinese,,0,0,0,,安德森获得了1936年的诺贝尔物理学奖
+Dialogue: 0,0:11:14.52,0:11:16.88,English,,0,0,0,,He shared the prize with Victor Hess,
+Dialogue: 0,0:11:14.52,0:11:16.88,Chinese,,0,0,0,,他与维克托·赫斯分享了奖项
+Dialogue: 0,0:11:16.88,0:11:20.14,English,,0,0,0,,the man who discovered cosmic rays in the first place,
+Dialogue: 0,0:11:16.88,0:11:20.14,Chinese,,0,0,0,,后者首次发现了宇宙射线
+Dialogue: 0,0:11:20.14,0:11:23.51,English,,0,0,0,,invisible particles that affect our lives in ways
+Dialogue: 0,0:11:20.14,0:11:23.51,Chinese,,0,0,0,,在不经意中影响我们生活的
+Dialogue: 0,0:11:23.51,0:11:25.67,English,,0,0,0,,most of us are oblivious to.
+Dialogue: 0,0:11:23.51,0:11:25.67,Chinese,,0,0,0,,不可见粒子
+Dialogue: 0,0:11:26.89,0:11:29.61,English,,0,0,0,,This is possibly the rarest thing
+Dialogue: 0,0:11:26.89,0:11:29.61,Chinese,,0,0,0,,这可能是电子游戏史上
+Dialogue: 0,0:11:29.61,0:11:32.06,English,,0,0,0,,to ever happen in a video game.
+Dialogue: 0,0:11:29.61,0:11:32.06,Chinese,,0,0,0,,发生过最离谱的事情
+Dialogue: 0,0:11:32.57,0:11:38.14,English,,0,0,0,,In 2013, user DOTA_Teabag was speed running Super Mario 64 on the console.
+Dialogue: 0,0:11:32.57,0:11:38.14,Chinese,,0,0,0,,2013 年，玩家 DOTA_Teabag 正在主机上速通超马 64
+Dialogue: 0,0:11:38.64,0:11:40.28,English,,0,0,0,,In the level Tik Tok Clock,
+Dialogue: 0,0:11:38.64,0:11:40.28,Chinese,,0,0,0,,在打“摇摆古钟”这一关时
+Dialogue: 0,0:11:40.28,0:11:43.38,English,,0,0,0,,he suddenly up warps onto a higher platform.
+Dialogue: 0,0:11:40.28,0:11:43.38,Chinese,,0,0,0,,他突然跳到了天花板上面
+Dialogue: 0,0:11:43.62,0:11:44.59,English,,0,0,0,,- What the?
+Dialogue: 0,0:11:43.62,0:11:44.59,Chinese,,0,0,0,,- 这啥？
+Dialogue: 0,0:11:45.02,0:11:45.93,English,,0,0,0,,- Did you get invisible wall?
+Dialogue: 0,0:11:45.02,0:11:45.93,Chinese,,0,0,0,,你卡到空气墙里了？
+Dialogue: 0,0:11:45.93,0:11:46.51,English,,0,0,0,,What?
+Dialogue: 0,0:11:45.93,0:11:46.51,Chinese,,0,0,0,,啥？ 
+Dialogue: 0,0:11:46.51,0:11:47.61,English,,0,0,0,, - Please say you got the---
+Dialogue: 0,0:11:46.51,0:11:47.61,Chinese,,0,0,0,,- 你卡到...
+Dialogue: 0,0:11:47.61,0:11:48.87,English,,0,0,0,,- No, that was the craziest thing
+Dialogue: 0,0:11:47.61,0:11:48.87,Chinese,,0,0,0,,- 不，这是我见过
+Dialogue: 0,0:11:48.87,0:11:50.09,English,,0,0,0,,I've ever seen though.
+Dialogue: 0,0:11:48.87,0:11:50.09,Chinese,,0,0,0,,最离谱的事情
+Dialogue: 0,0:11:50.28,0:11:52.56,English,,0,0,0,,- The move shaves off a few seconds
+Dialogue: 0,0:11:50.28,0:11:52.56,Chinese,,0,0,0,,这一跳跃可以节省几秒
+Dialogue: 0,0:11:52.56,0:11:55.60,English,,0,0,0,,and it seems like a newly discovered glitch in the game
+Dialogue: 0,0:11:52.56,0:11:55.60,Chinese,,0,0,0,,看上去像找到了游戏新 bug 一样
+Dialogue: 0,0:11:55.60,0:11:57.54,English,,0,0,0,,that could give speed runners an edge.
+Dialogue: 0,0:11:55.60,0:11:57.54,English,,0,0,0,,给速通玩家一个捷径
+Dialogue: 0,0:11:57.95,0:12:01.37,English,,0,0,0,,User PenandCook12 put out a $1,000 bounty
+Dialogue: 0,0:11:57.95,0:12:01.37,Chinese,,0,0,0,,PenandCook12 发出 1000 美金赏金
+Dialogue: 0,0:12:01.37,0:12:03.36,English,,0,0,0,,for anyone who could replicate the up warp.
+Dialogue: 0,0:12:01.37,0:12:03.36,Chinese,,0,0,0,,给能够复现这个操作的玩家
+Dialogue: 0,0:12:03.95,0:12:06.40,English,,0,0,0,,But so far, after six years,
+Dialogue: 0,0:12:03.95,0:12:06.40,Chinese,,0,0,0,,但是在六年后
+Dialogue: 0,0:12:06.40,0:12:08.26,English,,0,0,0,,no one has been able to.
+Dialogue: 0,0:12:06.40,0:12:08.26,Chinese,,0,0,0,,还是没人能够做到
+Dialogue: 0,0:12:08.77,0:12:11.16,English,,0,0,0,,The best explanation anyone can come up with
+Dialogue: 0,0:12:08.77,0:12:11.16,Chinese,,0,0,0,,目前最合理的解释是
+Dialogue: 0,0:12:11.16,0:12:13.61,English,,0,0,0,,is that a cosmic ray caused the glitch.
+Dialogue: 0,0:12:11.16,0:12:13.61,Chinese,,0,0,0,,宇宙射线造成了这个 bug
+Dialogue: 0,0:12:14.04,0:12:15.84,English,,0,0,0,,It's been shown that a single bit flip
+Dialogue: 0,0:12:14.04,0:12:15.84,Chinese,,0,0,0,,有人证实 把马里奥高度坐标
+Dialogue: 0,0:12:15.84,0:12:18.76,English,,0,0,0,,in the first bite of Mario's height co-ordinate
+Dialogue: 0,0:12:15.84,0:12:18.76,Chinese,,0,0,0,,的其中一位翻转
+Dialogue: 0,0:12:18.76,0:12:20.18,English,,0,0,0,,could have caused the effect.
+Dialogue: 0,0:12:18.76,0:12:20.18,Chinese,,0,0,0,,就可以实现这个效果
+Dialogue: 0,0:12:20.63,0:12:24.84,English,,0,0,0,,On the main level, the byte was 1 1 0 0 0 1 0 1.
+Dialogue: 0,0:12:20.63,0:12:24.84,Chinese,,0,0,0,,正常情况下，这个坐标表示为 11000101
+Dialogue: 0,0:12:24.84,0:12:27.56,English,,0,0,0,,But if you flip the last one to a zero,
+Dialogue: 0,0:12:24.84,0:12:27.56,Chinese,,0,0,0,,但是如果你把最后一位翻转成 0
+Dialogue: 0,0:12:27.56,0:12:29.49,English,,0,0,0,,it changes his vertical position.
+Dialogue: 0,0:12:27.56,0:12:29.49,Chinese,,0,0,0,,它的高度坐标将会被改变
+Dialogue: 0,0:12:29.95,0:12:31.27,English,,0,0,0,,And just by chance,
+Dialogue: 0,0:12:29.95,0:12:31.27,Chinese,,0,0,0,,而正巧
+Dialogue: 0,0:12:31.27,0:12:34.46,English,,0,0,0,,this new height coincides with the higher floor.
+Dialogue: 0,0:12:31.27,0:12:34.46,Chinese,,0,0,0,,这正是天花板的坐标
+Dialogue: 0,0:12:35.01,0:12:36.85,English,,0,0,0,,PenandCook12 wrote a script
+Dialogue: 0,0:12:35.01,0:12:36.85,Chinese,,0,0,0,,PenandCook12 写了一个脚本
+Dialogue: 0,0:12:36.85,0:12:39.52,English,,0,0,0,,to manually flip the bit at the right moment
+Dialogue: 0,0:12:36.85,0:12:39.52,Chinese,,0,0,0,,来在合适的时候翻转这一位
+Dialogue: 0,0:12:39.52,0:12:42.35,English,,0,0,0,,and was able to achieve the same up warp.
+Dialogue: 0,0:12:39.52,0:12:42.35,Chinese,,0,0,0,,它能成功复现同样的效果
+Dialogue: 0,0:12:43.05,0:12:45.67,English,,0,0,0,,This is a particularly visible bit flip,
+Dialogue: 0,0:12:43.05,0:12:45.67,Chinese,,0,0,0,,这是一个挺明显的位翻转
+Dialogue: 0,0:12:45.67,0:12:49.72,English,,0,0,0,,but the truth is cosmic rays are triggering bit flips all the time.
+Dialogue: 0,0:12:45.67,0:12:49.72,Chinese,,0,0,0,,但是事实是 宇宙射线造成的位翻转时刻在发生
+Dialogue: 0,0:12:49.72,0:12:51.44,English,,0,0,0,,- An upset there, transient there
+Dialogue: 0,0:12:49.72,0:12:51.44,Chinese,,0,0,0,,- 比较麻烦的是 宇宙射线的影响
+Dialogue: 0,0:12:51.44,0:12:54.23,English,,0,0,0,,can alter the function of these devices
+Dialogue: 0,0:12:51.44,0:12:54.23,Chinese,,0,0,0,,能够改变这些设备的功能
+Dialogue: 0,0:12:54.23,0:12:56.59,English,,0,0,0,,and we call that a single event functional interrupt.
+Dialogue: 0,0:12:54.23,0:12:56.59,Chinese,,0,0,0,,我们把它称作单事件功能性中断
+Dialogue: 0,0:12:56.59,0:12:58.38,English,,0,0,0,,So an entire process can hang.
+Dialogue: 0,0:12:56.59,0:12:58.38,Chinese,,0,0,0,,整个进程都会卡住
+Dialogue: 0,0:12:58.38,0:13:00.47,English,,0,0,0,,So a blue screen of death that you get
+Dialogue: 0,0:12:58.38,0:13:00.47,Chinese,,0,0,0,,所以你电脑的蓝屏
+Dialogue: 0,0:13:00.47,0:13:03.03,English,,0,0,0,,might actually have been a neutron or whatnot.
+Dialogue: 0,0:13:00.47,0:13:03.03,Chinese,,0,0,0,,可能就是一个中子啥的引起的
+Dialogue: 0,0:13:03.03,0:13:04.82,English,,0,0,0,,- When people see the blue screen of death,
+Dialogue: 0,0:13:03.03,0:13:04.82,Chinese,,0,0,0,,- 当人们电脑蓝屏的时候
+Dialogue: 0,0:13:04.82,0:13:06.47,English,,0,0,0,,could that be caused by a cosmic ray?
+Dialogue: 0,0:13:04.82,0:13:06.47,Chinese,,0,0,0,,可能会是宇宙射线引起的吗
+Dialogue: 0,0:13:06.47,0:13:07.14,English,,0,0,0,,- Absolutely.
+Dialogue: 0,0:13:06.47,0:13:07.14,Chinese,,0,0,0,,- 当然
+Dialogue: 0,0:13:07.64,0:13:09.70,English,,0,0,0,,- These days, there are a number of ways
+Dialogue: 0,0:13:07.64,0:13:09.70,Chinese,,0,0,0,,- 现如今，计算机芯片有许多方法
+Dialogue: 0,0:13:09.70,0:13:12.69,English,,0,0,0,,computer chips are made resilient in the face of bit flips
+Dialogue: 0,0:13:09.70,0:13:12.69,Chinese,,0,0,0,,来减少宇宙射线的干扰
+Dialogue: 0,0:13:12.69,0:13:16.08,English,,0,0,0,,like error correction code or ECC memory.
+Dialogue: 0,0:13:12.69,0:13:16.08,Chinese,,0,0,0,,例如纠错码和 ECC 内存
+Dialogue: 0,0:13:16.55,0:13:20.07,English,,0,0,0,,But you can't totally prevent bit flips from happening.
+Dialogue: 0,0:13:16.55,0:13:20.07,Chinese,,0,0,0,,但是你没法完全阻止位翻转发生
+Dialogue: 0,0:13:20.07,0:13:25.28,English,,0,0,0,,In 1996, IBM estimated that for each 256 megabytes of RAM,
+Dialogue: 0,0:13:20.07,0:13:25.28,Chinese,,0,0,0,,1996 年，IBM 提出预计  每 256M 内存
+Dialogue: 0,0:13:25.28,0:13:27.19,English,,0,0,0,,one bit flip occurs per month.
+Dialogue: 0,0:13:25.28,0:13:27.19,Chinese,,0,0,0,,每个月会发生一次位翻转
+Dialogue: 0,0:13:27.70,0:13:29.25,English,,0,0,0,,And the main culprit seems to be
+Dialogue: 0,0:13:27.70,0:13:29.25,Chinese,,0,0,0,,而罪魁祸首应该是
+Dialogue: 0,0:13:29.25,0:13:32.88,English,,0,0,0,,neutrons created in the shower of particles from cosmic rays.
+Dialogue: 0,0:13:29.25,0:13:32.88,Chinese,,0,0,0,,宇宙射线粒子流里的中子
+Dialogue: 0,0:13:33.29,0:13:35.01,English,,0,0,0,,Starting in 2009,
+Dialogue: 0,0:13:33.29,0:13:35.01,Chinese,,0,0,0,,2009 年开始
+Dialogue: 0,0:13:35.01,0:13:37.76,English,,0,0,0,,Toyota recalled millions of vehicles
+Dialogue: 0,0:13:35.01,0:13:37.76,Chinese,,0,0,0,,丰田召回了数以百万的汽车
+Dialogue: 0,0:13:37.76,0:13:40.91,English,,0,0,0,,due to the problem of unintended acceleration.
+Dialogue: 0,0:13:37.76,0:13:40.91,Chinese,,0,0,0,,这些车会突然加速
+Dialogue: 0,0:13:40.91,0:13:43.76,English,,0,0,0,,- We were in the fast lane driving at about 70,
+Dialogue: 0,0:13:40.91,0:13:43.76,Chinese,,0,0,0,,- 我们在高速车道上以 70 码的速度开着
+Dialogue: 0,0:13:43.76,0:13:46.85,English,,0,0,0,,and he said that the car was continuing to accelerate
+Dialogue: 0,0:13:43.76,0:13:46.85,Chinese,,0,0,0,,他说这车怎么一直加速
+Dialogue: 0,0:13:46.85,0:13:48.40,English,,0,0,0,,and he couldn't bring it to a stop.
+Dialogue: 0,0:13:46.85,0:13:48.40,Chinese,,0,0,0,,根本停不下来
+Dialogue: 0,0:13:48.73,0:13:51.69,English,,0,0,0,,- Many speculated that cosmic ray induced bit flips
+Dialogue: 0,0:13:48.73,0:13:51.69,Chinese,,0,0,0,,- 许多人怀疑问题原因是宇宙射线造成
+Dialogue: 0,0:13:51.69,0:13:54.56,English,,0,0,0,,in the electronic control system were the cause.
+Dialogue: 0,0:13:51.69,0:13:54.56,Chinese,,0,0,0,,电子系统里的位翻转
+Dialogue: 0,0:13:54.56,0:13:58.36,English,,0,0,0,,So much so that NASA was called in to help with the investigation.
+Dialogue: 0,0:13:54.56,0:13:58.36,Chinese,,0,0,0,,因此 NASA 被叫来参与调查
+Dialogue: 0,0:13:58.71,0:14:02.87,English,,0,0,0,,But it turns out, cosmic rays were probably not the culprit.
+Dialogue: 0,0:13:58.71,0:14:02.87,Chinese,,0,0,0,,但是结果是 宇宙射线可能并不是原因
+Dialogue: 0,0:14:02.87,0:14:05.43,English,,0,0,0,,NASA identified as the main causes,
+Dialogue: 0,0:14:02.87,0:14:05.43,Chinese,,0,0,0,,NASA 认为主要原因是
+Dialogue: 0,0:14:05.43,0:14:07.16,English,,0,0,0,,sticky accelerator pedals,
+Dialogue: 0,0:14:05.43,0:14:07.16,Chinese,,0,0,0,,油门太黏了
+Dialogue: 0,0:14:07.16,0:14:08.88,English,,0,0,0,,poorly fitted floor mats
+Dialogue: 0,0:14:07.16,0:14:08.88,Chinese,,0,0,0,,地毯松动
+Dialogue: 0,0:14:08.88,0:14:14.72,English,,0,0,0,,and most commonly, drivers pushing on the accelerator thinking it was the brake.
+Dialogue: 0,0:14:08.88,0:14:14.72,Chinese,,0,0,0,,而最常见的情况是  驾驶员把油门当成了刹车
+Dialogue: 0,0:14:15.35,0:14:19.75,English,,0,0,0,,But cosmic rays have caused crashes of supercomputers,
+Dialogue: 0,0:14:15.35,0:14:19.75,Chinese,,0,0,0,,但是宇宙射线造成了超级计算机的崩溃
+Dialogue: 0,0:14:19.75,0:14:21.86,English,,0,0,0,,especially at higher elevations.
+Dialogue: 0,0:14:19.75,0:14:21.86,Chinese,,0,0,0,,特别是建在高处的计算机
+Dialogue: 0,0:14:22.30,0:14:26.50,English,,0,0,0,,Los Alamos National Labs located 2200 meters above sea level
+Dialogue: 0,0:14:22.30,0:14:26.50,Chinese,,0,0,0,,洛斯阿拉莫斯国家实验室  建在海拔 2200 米的地方
+Dialogue: 0,0:14:26.50,0:14:30.64,English,,0,0,0,,is constantly dealing with neutron induced supercomputer crashes.
+Dialogue: 0,0:14:26.50,0:14:30.64,Chinese,,0,0,0,,那里无时无刻不在处理“中子导致超算崩溃”的问题
+Dialogue: 0,0:14:30.64,0:14:33.07,English,,0,0,0,,So the software auto saves frequently
+Dialogue: 0,0:14:30.64,0:14:33.07,Chinese,,0,0,0,,所以这里的软件高频保存
+Dialogue: 0,0:14:33.07,0:14:36.86,English,,0,0,0,,and neutron detectors have been installed throughout the facility.
+Dialogue: 0,0:14:33.07,0:14:36.86,Chinese,,0,0,0,,还到处安装了中子检测器
+Dialogue: 0,0:14:37.35,0:14:38.77,English,,0,0,0,,If you go even higher,
+Dialogue: 0,0:14:37.35,0:14:38.77,Chinese,,0,0,0,,如果高度再高一些
+Dialogue: 0,0:14:38.77,0:14:41.54,English,,0,0,0,,like climbing up to cruising altitude in a plane,
+Dialogue: 0,0:14:38.77,0:14:41.54,Chinese,,0,0,0,,例如当飞机爬升至巡航高度的情况下
+Dialogue: 0,0:14:41.54,0:14:45.55,English,,0,0,0,,you can see the radiation from cosmic rays increasing on a Geiger counter.
+Dialogue: 0,0:14:41.54,0:14:45.55,Chinese,,0,0,0,,你可以在盖革计数器上  观测到逐渐增强的宇宙射线辐射
+Dialogue: 0,0:14:45.55,0:14:48.97,English,,0,0,0,,To .5 microsieverts per hour at 18,000 feet.
+Dialogue: 0,0:14:45.55,0:14:48.97,Chinese,,0,0,0,,在 5500 米的高度下  辐射量是每小时 0.5 微西弗
+Dialogue: 0,0:14:48.97,0:14:52.00,English,,0,0,0,,Up to one microsieverts per hour at 23,000 feet.
+Dialogue: 0,0:14:48.97,0:14:52.00,Chinese,,0,0,0,,在 7000 米高度下是每小时 1 微西弗
+Dialogue: 0,0:14:52.00,0:14:55.09,English,,0,0,0,,Over two microsieverts per hour at 33,000 feet.
+Dialogue: 0,0:14:52.00,0:14:55.09,Chinese,,0,0,0,,在 1 万米高度下  则超过了每小时 2 微西弗
+Dialogue: 0,0:14:55.09,0:14:56.84,English,,0,0,0,,And over three microsieverts per hour
+Dialogue: 0,0:14:55.09,0:14:56.84,Chinese,,0,0,0,,如果再高一些 或距离极点更近一些
+Dialogue: 0,0:14:56.84,0:14:59.54,English,,0,0,0,,at even higher altitudes and towards the poles.
+Dialogue: 0,0:14:56.84,0:14:59.54,Chinese,,0,0,0,,甚至可以达到每小时 3 微西弗
+Dialogue: 0,0:14:59.86,0:15:01.05,English,,0,0,0,,At cruising altitude,
+Dialogue: 0,0:14:59.86,0:15:01.05,Chinese,,0,0,0,,在巡航高度下
+Dialogue: 0,0:15:01.05,0:15:05.35,English,,0,0,0,,this increases the chance of a single event upset by 10 to 30 times.
+Dialogue: 0,0:15:01.05,0:15:05.35,Chinese,,0,0,0,,这能让单粒子翻转发生的概率提高 10 到 30 倍
+Dialogue: 0,0:15:06.06,0:15:08.68,English,,0,0,0,,This isn't critical if it happens in your laptop,
+Dialogue: 0,0:15:06.06,0:15:08.68,Chinese,,0,0,0,,它发生在笔记本电脑上并不严重
+Dialogue: 0,0:15:08.68,0:15:11.51,English,,0,0,0,,but what if it occurs in the flight computer?
+Dialogue: 0,0:15:08.68,0:15:11.51,Chinese,,0,0,0,,那对于飞控电脑来说呢
+Dialogue: 0,0:15:12.58,0:15:14.46,English,,0,0,0,,On October 7th, 2008,
+Dialogue: 0,0:15:12.58,0:15:14.46,Chinese,,0,0,0,,2008 年 10 月 7 日
+Dialogue: 0,0:15:14.46,0:15:18.01,English,,0,0,0,,an Airbus A330 took off from Singapore to Perth.
+Dialogue: 0,0:15:14.46,0:15:18.01,Chinese,,0,0,0,,一架飞往澳大利亚珀斯的空客 A330 从新加坡起飞
+Dialogue: 0,0:15:18.48,0:15:20.19,English,,0,0,0,,Just over three hours into the flight,
+Dialogue: 0,0:15:18.48,0:15:20.19,Chinese,,0,0,0,,仅仅过了三个小时
+Dialogue: 0,0:15:20.19,0:15:22.57,English,,0,0,0,,the plane suddenly pitched down
+Dialogue: 0,0:15:20.19,0:15:22.57,Chinese,,0,0,0,,飞机突然就开始压下机头
+Dialogue: 0,0:15:22.57,0:15:25.34,English,,0,0,0,,diving 200 meters in 20 seconds.
+Dialogue: 0,0:15:22.57,0:15:25.34,Chinese,,0,0,0,,在 20 秒内下坠了近 200 米
+Dialogue: 0,0:15:25.79,0:15:31.17,English,,0,0,0,,Inside the plane, everyone experienced negative 0.8 Gs of acceleration.
+Dialogue: 0,0:15:25.79,0:15:31.17,Chinese,,0,0,0,,在飞机里 所有人都承受着负 0.8 倍的重力加速度
+Dialogue: 0,0:15:31.53,0:15:34.02,English,,0,0,0,,It would have felt like the plane had flipped over.
+Dialogue: 0,0:15:31.53,0:15:34.02,Chinese,,0,0,0,,这种感觉就像是飞机以翻转的姿态飞行
+Dialogue: 0,0:15:34.41,0:15:36.32,English,,0,0,0,,- The G-Force was enough,
+Dialogue: 0,0:15:34.41,0:15:36.32,Chinese,,0,0,0,,- 这个 G 力非常强大
+Dialogue: 0,0:15:36.32,0:15:38.98,English,,0,0,0,,even with our three point harness
+Dialogue: 0,0:15:36.32,0:15:38.98,Chinese,,0,0,0,,甚至连三点式安全带都绑不住
+Dialogue: 0,0:15:38.98,0:15:40.71,English,,0,0,0,,to lift us both out of the seat
+Dialogue: 0,0:15:38.98,0:15:40.71,Chinese,,0,0,0,,我们飞出了座位
+Dialogue: 0,0:15:41.46,0:15:43.04,English,,0,0,0,,and push us forward as well.
+Dialogue: 0,0:15:41.46,0:15:43.04,Chinese,,0,0,0,,被推向了仪表
+Dialogue: 0,0:15:43.71,0:15:47.26,English,,0,0,0,,- Minutes later, the plane dropped another 120 meters.
+Dialogue: 0,0:15:43.71,0:15:47.26,Chinese,,0,0,0,,过了一分钟 飞机又下坠了 120 米
+Dialogue: 0,0:15:48.02,0:15:51.05,English,,0,0,0,,119 people on board were injured,
+Dialogue: 0,0:15:48.02,0:15:51.05,Chinese,,0,0,0,,119 人受伤
+Dialogue: 0,0:15:51.05,0:15:53.79,English,,0,0,0,,many from bumping their heads into the ceiling.
+Dialogue: 0,0:15:51.05,0:15:53.79,Chinese,,0,0,0,,很多人头部顶穿了天花板
+Dialogue: 0,0:15:53.79,0:15:57.35,English,,0,0,0,,So the pilots decided to make an emergency landing in Learmonth.
+Dialogue: 0,0:15:53.79,0:15:57.35,Chinese,,0,0,0,,所以机长决定 在里尔蒙斯机场紧急降落
+Dialogue: 0,0:15:58.09,0:16:01.20,English,,0,0,0,,In the investigation that followed, the fault seem to occur
+Dialogue: 0,0:15:58.09,0:16:01.20,Chinese,,0,0,0,,随后的调查显示 故障似乎是出现在
+Dialogue: 0,0:16:01.20,0:16:03.80,English,,0,0,0,,with the first air data inertial reference unit,
+Dialogue: 0,0:16:01.20,0:16:03.80,Chinese,,0,0,0,,第一个大气数据惯性基准单元上
+Dialogue: 0,0:16:03.80,0:16:05.20,English,,0,0,0,,or ADIRU for short.
+Dialogue: 0,0:16:03.80,0:16:05.20,Chinese,,0,0,0,,它简称 ADIRU
+Dialogue: 0,0:16:05.87,0:16:07.93,English,,0,0,0,,This computer supplies critical data
+Dialogue: 0,0:16:05.87,0:16:07.93,Chinese,,0,0,0,,这个器件提供重要的飞行数据
+Dialogue: 0,0:16:07.93,0:16:10.83,English,,0,0,0,,like airspeed, angle of attack and altitude.
+Dialogue: 0,0:16:07.93,0:16:10.83,Chinese,,0,0,0,,比如空速 迎角以及飞行高度
+Dialogue: 0,0:16:11.35,0:16:14.19,English,,0,0,0,,The way it supplies each of these pieces of information
+Dialogue: 0,0:16:11.35,0:16:14.19,Chinese,,0,0,0,,它提供这些数据的方式
+Dialogue: 0,0:16:14.19,0:16:16.97,English,,0,0,0,,is in a 32 bit binary word.
+Dialogue: 0,0:16:14.19,0:16:16.97,Chinese,,0,0,0,,是把它存在一个 32 比特的字里面
+Dialogue: 0,0:16:17.44,0:16:20.58,English,,0,0,0,,The first eight bits identify the type of information
+Dialogue: 0,0:16:17.44,0:16:20.58,Chinese,,0,0,0,,前 8 位表示数据类型
+Dialogue: 0,0:16:20.58,0:16:24.30,English,,0,0,0,,and bits 11 to 29 encode the actual data.
+Dialogue: 0,0:16:20.58,0:16:24.30,Chinese,,0,0,0,,11 到 29 位表示实际数据
+Dialogue: 0,0:16:24.83,0:16:26.37,English,,0,0,0,,What seems to have happened
+Dialogue: 0,0:16:24.83,0:16:26.37,Chinese,,0,0,0,,当时的情况似乎是
+Dialogue: 0,0:16:26.37,0:16:29.32,English,,0,0,0,,is that a bit flip in the first eight bits
+Dialogue: 0,0:16:26.37,0:16:29.32,Chinese,,0,0,0,,前 8 位中的某一位被翻转了
+Dialogue: 0,0:16:29.32,0:16:31.89,English,,0,0,0,,meant altitude information was mislabeled
+Dialogue: 0,0:16:29.32,0:16:31.89,Chinese,,0,0,0,,也就是说 这个数据被错标成了迎角参数
+Dialogue: 0,0:16:31.89,0:16:33.92,English,,0,0,0,,as angle of attack information.
+Dialogue: 0,0:16:31.89,0:16:33.92,Chinese,,0,0,0,,而不是高度参数
+Dialogue: 0,0:16:34.56,0:16:36.65,English,,0,0,0,,Inside the cockpit, alarms went on
+Dialogue: 0,0:16:34.56,0:16:36.65,Chinese,,0,0,0,,在驾驶舱里 超速和失速的警报
+Dialogue: 0,0:16:36.65,0:16:39.62,English,,0,0,0,,for over speed and stall simultaneously,
+Dialogue: 0,0:16:36.65,0:16:39.62,Chinese,,0,0,0,,一直在同时响
+Dialogue: 0,0:16:39.62,0:16:41.63,English,,0,0,0,,something that should be impossible.
+Dialogue: 0,0:16:39.62,0:16:41.63,Chinese,,0,0,0,,这种情况按道理不可能出现
+Dialogue: 0,0:16:42.08,0:16:46.48,English,,0,0,0,,But the plane nose down sharply to correct what it thought was a stall,
+Dialogue: 0,0:16:42.08,0:16:46.48,Chinese,,0,0,0,,但飞控电脑认为它在失速 于是降下机头
+Dialogue: 0,0:16:46.48,0:16:49.48,English,,0,0,0,,throwing passengers and crew into the ceiling.
+Dialogue: 0,0:16:46.48,0:16:49.48,Chinese,,0,0,0,,机组人员和乘客因此被抛上了天花板
+Dialogue: 0,0:16:50.13,0:16:52.71,English,,0,0,0,,Investigators looked into software bugs,
+Dialogue: 0,0:16:50.13,0:16:52.71,Chinese,,0,0,0,,调查员分析了软件错误
+Dialogue: 0,0:16:52.71,0:16:55.45,English,,0,0,0,,software corruption, a hardware fail,
+Dialogue: 0,0:16:52.71,0:16:55.45,Chinese,,0,0,0,,软件损坏 硬件故障
+Dialogue: 0,0:16:55.45,0:16:57.66,English,,0,0,0,,physical environment factors
+Dialogue: 0,0:16:55.45,0:16:57.66,Chinese,,0,0,0,,物理环境因素
+Dialogue: 0,0:16:57.66,0:16:59.54,English,,0,0,0,,and electromagnetic interference.
+Dialogue: 0,0:16:57.66,0:16:59.54,Chinese,,0,0,0,,以及电磁干扰
+Dialogue: 0,0:16:59.98,0:17:03.38,English,,0,0,0,,But each of these possibilities was found to be unlikely
+Dialogue: 0,0:16:59.98,0:17:03.38,Chinese,,0,0,0,,但这些可能性都被已经掌握的
+Dialogue: 0,0:17:03.38,0:17:05.96,English,,0,0,0,,based on multiple sources of evidence.
+Dialogue: 0,0:17:03.38,0:17:05.96,Chinese,,0,0,0,,多方证据排除了
+Dialogue: 0,0:17:05.96,0:17:08.11,English,,0,0,0,,The other potential triggering event
+Dialogue: 0,0:17:05.96,0:17:08.11,Chinese,,0,0,0,,那么造成这起事件的原因可能就是
+Dialogue: 0,0:17:08.11,0:17:09.69,English,,0,0,0,,was a single event effect
+Dialogue: 0,0:17:08.11,0:17:09.69,Chinese,,0,0,0,,单粒子效应所导致的
+Dialogue: 0,0:17:09.69,0:17:12.63,English,,0,0,0,,resulting from a high energy atmospheric particle
+Dialogue: 0,0:17:09.69,0:17:12.63,Chinese,,0,0,0,,一个高能带电的大气粒子
+Dialogue: 0,0:17:12.63,0:17:14.47,English,,0,0,0,,striking one of the integrated circuits
+Dialogue: 0,0:17:12.63,0:17:14.47,Chinese,,0,0,0,,击中了 CPU 模块里的
+Dialogue: 0,0:17:14.47,0:17:16.00,English,,0,0,0,,within the CPU module.
+Dialogue: 0,0:17:14.47,0:17:16.00,Chinese,,0,0,0,,一个集成电路
+Dialogue: 0,0:17:16.46,0:17:18.60,English,,0,0,0,,One of the challenges with single event upsets
+Dialogue: 0,0:17:16.46,0:17:18.60,Chinese,,0,0,0,,单粒子翻转所带来的一个挑战是
+Dialogue: 0,0:17:18.60,0:17:20.22,English,,0,0,0,,is that they are soft errors.
+Dialogue: 0,0:17:18.60,0:17:20.22,Chinese,,0,0,0,,它们造成的都是软错误
+Dialogue: 0,0:17:20.22,0:17:21.68,English,,0,0,0,,They don't leave a trace,
+Dialogue: 0,0:17:20.22,0:17:21.68,Chinese,,0,0,0,,它搞事情不留痕迹
+Dialogue: 0,0:17:22.11,0:17:26.17,English,,0,0,0,,but interestingly, the Airbus A330 was built in 1992
+Dialogue: 0,0:17:22.11,0:17:26.17,Chinese,,0,0,0,,但有趣的是 这架空客 A330 是在 1992 年建造的
+Dialogue: 0,0:17:26.52,0:17:30.84,English,,0,0,0,,when there were no specific regulatory or aircraft manufacturer requirements
+Dialogue: 0,0:17:26.52,0:17:30.84,Chinese,,0,0,0,,当时没有具体的法律规章或航空器制造商会要求
+Dialogue: 0,0:17:30.84,0:17:34.45,English,,0,0,0,,for airborne systems to be resilient to single event effects.
+Dialogue: 0,0:17:30.84,0:17:34.45,Chinese,,0,0,0,,航空器在设计时 必须能够耐受单粒子翻转的影响
+Dialogue: 0,0:17:34.98,0:17:36.34,English,,0,0,0,,With the space shuttle,
+Dialogue: 0,0:17:34.98,0:17:36.34,Chinese,,0,0,0,,但对于航天飞机来说
+Dialogue: 0,0:17:36.34,0:17:38.91,English,,0,0,0,,redundancy was built in from the start.
+Dialogue: 0,0:17:36.34,0:17:38.91,Chinese,,0,0,0,,这类规定一开始就已经制定
+Dialogue: 0,0:17:38.91,0:17:41.92,English,,0,0,0,,For navigation and control, there were four computers
+Dialogue: 0,0:17:38.91,0:17:41.92,Chinese,,0,0,0,,有四台电脑同时运行着同样的系统
+Dialogue: 0,0:17:41.92,0:17:44.62,English,,0,0,0,,simultaneously running identical software.
+Dialogue: 0,0:17:41.92,0:17:44.62,Chinese,,0,0,0,,来负责导航和飞行控制
+Dialogue: 0,0:17:45.08,0:17:47.12,English,,0,0,0,,If one computer had a soft error,
+Dialogue: 0,0:17:45.08,0:17:47.12,Chinese,,0,0,0,,如果其中一台电脑出现软故障
+Dialogue: 0,0:17:47.12,0:17:49.24,English,,0,0,0,,the other three would overrule it.
+Dialogue: 0,0:17:47.12,0:17:49.24,Chinese,,0,0,0,,另外三台就会接管它
+Dialogue: 0,0:17:49.80,0:17:50.74,English,,0,0,0,,And using this setup,
+Dialogue: 0,0:17:49.80,0:17:50.74,Chinese,,0,0,0,,利用这套配置
+Dialogue: 0,0:17:50.74,0:17:53.40,English,,0,0,0,,they could also track the frequency of bit flips.
+Dialogue: 0,0:17:50.74,0:17:53.40,Chinese,,0,0,0,,还可以统计出发生软故障的频率
+Dialogue: 0,0:17:53.84,0:17:56.71,English,,0,0,0,,On one five day mission, STS 48,
+Dialogue: 0,0:17:53.84,0:17:56.71,Chinese,,0,0,0,,在一次长达 5 日的航天任务 STS-48 中
+Dialogue: 0,0:17:56.71,0:18:00.61,English,,0,0,0,,there were 161 separate bit flips.
+Dialogue: 0,0:17:56.71,0:18:00.61,Chinese,,0,0,0,,分别出现了 161 次比特位翻转的情况
+Dialogue: 0,0:18:02.10,0:18:05.96,English,,0,0,0,,Above the atmosphere, cosmic rays are so energetic
+Dialogue: 0,0:18:02.10,0:18:05.96,Chinese,,0,0,0,,在大气层以外  宇宙射线的能量要更充沛
+Dialogue: 0,0:18:05.96,0:18:08.07,English,,0,0,0,,sometimes you can even see them.
+Dialogue: 0,0:18:05.96,0:18:08.07,Chinese,,0,0,0,,以至于你有时可以用肉眼看见它们
+Dialogue: 0,0:18:08.51,0:18:10.47,English,,0,0,0,,- Once in a while you have your eyes closed
+Dialogue: 0,0:18:08.51,0:18:10.47,Chinese,,0,0,0,,有时候  你已经上床闭眼
+Dialogue: 0,0:18:10.47,0:18:11.45,English,,0,0,0,,and you're not asleep yet.
+Dialogue: 0,0:18:10.47,0:18:11.45,Chinese,,0,0,0,,但还没睡熟
+Dialogue: 0,0:18:11.83,0:18:14.23,English,,0,0,0,,And if you wait a little while,
+Dialogue: 0,0:18:11.83,0:18:14.23,Chinese,,0,0,0,,等上一会儿
+Dialogue: 0,0:18:15.79,0:18:18.68,English,,0,0,0,,you occasionally will see a flash of light.
+Dialogue: 0,0:18:15.79,0:18:18.68,Chinese,,0,0,0,,你偶尔能“看到”闪光
+Dialogue: 0,0:18:19.09,0:18:21.51,English,,0,0,0,,And we think it is heavy particles
+Dialogue: 0,0:18:19.09,0:18:21.51,Chinese,,0,0,0,,这应该是重粒子
+Dialogue: 0,0:18:21.51,0:18:25.25,English,,0,0,0,,or individual bursts of energy coming from radiation
+Dialogue: 0,0:18:21.51,0:18:25.25,Chinese,,0,0,0,,即辐射中携带能量的个体
+Dialogue: 0,0:18:25.25,0:18:29.00,English,,0,0,0,,that are either going through the eyeball itself or going through the optic nerve.
+Dialogue: 0,0:18:25.25,0:18:29.00,Chinese,,0,0,0,,穿过了眼球或感光神经
+Dialogue: 0,0:18:29.59,0:18:31.64,English,,0,0,0,,And they,
+Dialogue: 0,0:18:29.59,0:18:31.64,Chinese,,0,0,0,,然后
+Dialogue: 0,0:18:31.64,0:18:35.72,English,,0,0,0,,the way that your body registers radiation going through it
+Dialogue: 0,0:18:31.64,0:18:35.72,Chinese,,0,0,0,,你的身体就以给你看一道闪光的神奇方式
+Dialogue: 0,0:18:35.72,0:18:39.55,English,,0,0,0,,is amazingly enough by showing you a little flash in one of your eyes,
+Dialogue: 0,0:18:35.72,0:18:39.55,Chinese,,0,0,0,,记录下辐射穿过的瞬间
+Dialogue: 0,0:18:39.55,0:18:41.04,English,,0,0,0,,just to remind you that
+Dialogue: 0,0:18:39.55,0:18:41.04,Chinese,,0,0,0,,这也是在提醒你
+Dialogue: 0,0:18:41.04,0:18:44.15,English,,0,0,0,,you are subject to the radiation of not only our sun,
+Dialogue: 0,0:18:41.04,0:18:44.15,Chinese,,0,0,0,,除了太阳以外
+Dialogue: 0,0:18:44.15,0:18:48.58,English,,0,0,0,,but every star of the universe, that is radiating at you.
+Dialogue: 0,0:18:44.15,0:18:48.58,Chinese,,0,0,0,,来自宇宙中每一颗星星的辐射  都有可能到达你这里
+Dialogue: 0,0:18:49.35,0:18:51.30,English,,0,0,0,,I picture back to the first astronauts
+Dialogue: 0,0:18:49.35,0:18:51.30,Chinese,,0,0,0,,我能想像第一批宇航员
+Dialogue: 0,0:18:51.30,0:18:54.23,English,,0,0,0,,who must have closed their eyes and seen that radiation and gone,
+Dialogue: 0,0:18:51.30,0:18:54.23,Chinese,,0,0,0,,闭上眼睛然后看到辐射之后的场景：
+Dialogue: 0,0:18:54.94,0:18:56.58,English,,0,0,0,,"I'm not going to tell anybody about this
+Dialogue: 0,0:18:54.94,0:18:56.58,Chinese,,0,0,0,,“啊这 我跟谁都不会讲的”
+Dialogue: 0,0:18:56.58,0:18:58.46,English,,0,0,0,,"because no one's told me about it.
+Dialogue: 0,0:18:56.58,0:18:58.46,Chinese,,0,0,0,,“没人说过会有这种现象啊”
+Dialogue: 0,0:18:58.46,0:18:58.91,English,,0,0,0,,"I'm not talking."
+Dialogue: 0,0:18:58.46,0:18:58.91,Chinese,,0,0,0,,“打死也不说”
+Dialogue: 0,0:18:58.91,0:19:01.09,English,,0,0,0,,I can just imagine the first two guys that said,
+Dialogue: 0,0:18:58.91,0:19:01.09,Chinese,,0,0,0,,我也能想象第一次谈论这个话题的两个家伙
+Dialogue: 0,0:19:01.09,0:19:02.27,English,,0,0,0,,"Hey, I um,
+Dialogue: 0,0:19:01.09,0:19:02.27,Chinese,,0,0,0,,“嘿 我说，
+Dialogue: 0,0:19:02.27,0:19:03.73,English,,0,0,0,,"sometimes I see flashes of light.
+Dialogue: 0,0:19:02.27,0:19:03.73,Chinese,,0,0,0,,有的时候...这眼前会出现闪光诶
+Dialogue: 0,0:19:03.73,0:19:05.03,English,,0,0,0,,"Do you see flashes of light?"
+Dialogue: 0,0:19:03.73,0:19:05.03,Chinese,,0,0,0,,“诶你也看得到吗？”
+Dialogue: 0,0:19:05.03,0:19:06.93,English,,0,0,0,,And then it's, "Oh, we all see flashes of light."
+Dialogue: 0,0:19:05.03,0:19:06.93,Chinese,,0,0,0,,“哦，原来大家都看到了啊”
+Dialogue: 0,0:19:06.93,0:19:08.82,English,,0,0,0,,"Oh, okay, well, that's all right then."
+Dialogue: 0,0:19:06.93,0:19:08.82,Chinese,,0,0,0,,“那没事了，看起来是正常现象”
+Dialogue: 0,0:19:10.52,0:19:12.71,English,,0,0,0,,- For missions to other planets,
+Dialogue: 0,0:19:10.52,0:19:12.71,Chinese,,0,0,0,,前往其他星球的航天任务
+Dialogue: 0,0:19:12.71,0:19:14.89,English,,0,0,0,,protecting electronics is critical.
+Dialogue: 0,0:19:12.71,0:19:14.89,Chinese,,0,0,0,,更需要保护好电子设备
+Dialogue: 0,0:19:15.32,0:19:19.57,English,,0,0,0,,- If a single bit of information controls a critical function on your spacecraft,
+Dialogue: 0,0:19:15.32,0:19:19.57,Chinese,,0,0,0,,如果控制飞船关键部分信息的一个比特
+Dialogue: 0,0:19:19.57,0:19:21.24,English,,0,0,0,,let's say your thrusters,
+Dialogue: 0,0:19:19.57,0:19:21.24,Chinese,,0,0,0,,比如说控制助推器的一个比特
+Dialogue: 0,0:19:21.57,0:19:26.17,English,,0,0,0,,and that goes from a one to is zero, from a on to off, or vice versa, 
+Dialogue: 0,0:19:21.57,0:19:26.17,Chinese,,0,0,0,,从1变成了0，从通变成了断，或者反过来
+Dialogue: 0,0:19:26.17,0:19:27.34,English,,0,0,0,,you could lose the mission.
+Dialogue: 0,0:19:26.17,0:19:27.34,Chinese,,0,0,0,,可能整个任务就毁了
+Dialogue: 0,0:19:27.66,0:19:31.70,English,,0,0,0,,- That's why the computer on the Perseverance Rover that just landed on Mars
+Dialogue: 0,0:19:27.66,0:19:31.70,Chinese,,0,0,0,,这就是为什么最近在火星着陆的毅力号火星车
+Dialogue: 0,0:19:31.70,0:19:33.28,English,,0,0,0,,is 20 years old.
+Dialogue: 0,0:19:31.70,0:19:33.28,Chinese,,0,0,0,,搭载的是20年前
+Dialogue: 0,0:19:33.73,0:19:36.32,English,,0,0,0,,It's a power PC launched in 2001
+Dialogue: 0,0:19:33.73,0:19:36.32,Chinese,,0,0,0,,2001年推出的PowerPC处理器
+Dialogue: 0,0:19:36.32,0:19:39.25,English,,0,0,0,,with only 256 megabytes of Ram
+Dialogue: 0,0:19:36.32,0:19:39.25,Chinese,,0,0,0,,只有256MB的内存
+Dialogue: 0,0:19:39.25,0:19:41.64,English,,0,0,0,,and two gigabytes of flash storage.
+Dialogue: 0,0:19:39.25,0:19:41.64,Chinese,,0,0,0,,和2GB的闪存
+Dialogue: 0,0:19:42.21,0:19:44.31,English,,0,0,0,,But it is radiation hardened,
+Dialogue: 0,0:19:42.21,0:19:44.31,Chinese,,0,0,0,,但它挡辐射是一把好手
+Dialogue: 0,0:19:44.31,0:19:47.86,English,,0,0,0,,meaning the design, materials, circuits and software
+Dialogue: 0,0:19:44.31,0:19:47.86,Chinese,,0,0,0,,专门的设计、材料、线路和软件
+Dialogue: 0,0:19:47.86,0:19:52.20,English,,0,0,0,,are built to withstand 40 times the radiation of an ordinary computer.
+Dialogue: 0,0:19:47.86,0:19:52.20,Chinese,,0,0,0,,使它能抵抗的辐射量是正常电脑所能承受的40倍
+Dialogue: 0,0:19:52.77,0:19:57.23,English,,0,0,0,,It's been used on over a dozen space missions going back to 2005.
+Dialogue: 0,0:19:52.77,0:19:57.23,Chinese,,0,0,0,,自2005年来  这台电脑已在十余次太空任务中发挥功用
+Dialogue: 0,0:19:57.66,0:20:02.83,English,,0,0,0,,- In fact, when we first started doing the power PC testing years ago, 
+Dialogue: 0,0:19:57.66,0:20:02.83,Chinese,,0,0,0,,我们多年前开始测试PowerPC的时候
+Dialogue: 0,0:20:02.83,0:20:07.18,English,,0,0,0,,the way we did it, we just simply stuck an operating system processor
+Dialogue: 0,0:20:02.83,0:20:07.18,Chinese,,0,0,0,,就是把一个处理器卡在粒子流上
+Dialogue: 0,0:20:07.18,0:20:11.20,English,,0,0,0,,in a beamline where we generate these particles
+Dialogue: 0,0:20:07.18,0:20:11.20,English,,0,0,0,,这样就能在地球上模拟粒子撞击
+Dialogue: 0,0:20:11.20,0:20:14.44,English,,0,0,0,,on the planet and look for blue screens of death.
+Dialogue: 0,0:20:11.20,0:20:14.44,Chinese,,0,0,0,,然后看看电脑会不会蓝屏
+Dialogue: 0,0:20:14.44,0:20:16.61,English,,0,0,0,,You can kind of figure out what's going wrong
+Dialogue: 0,0:20:14.44,0:20:16.61,Chinese,,0,0,0,,之后就是找出问题
+Dialogue: 0,0:20:16.61,0:20:17.87,English,,0,0,0,,and try to undo that.
+Dialogue: 0,0:20:16.61,0:20:17.87,Chinese,,0,0,0,,解决问题
+Dialogue: 0,0:20:17.87,0:20:19.78,English,,0,0,0,,So you don't get to the blue screen of death
+Dialogue: 0,0:20:17.87,0:20:19.78,Chinese,,0,0,0,,直到电脑不再蓝屏
+Dialogue: 0,0:20:19.78,0:20:22.83,English,,0,0,0,,because a spacecraft that gets into that mode
+Dialogue: 0,0:20:19.78,0:20:22.83,Chinese,,0,0,0,,因为要是太空中电脑蓝屏了
+Dialogue: 0,0:20:22.83,0:20:24.32,English,,0,0,0,,is basically unrecoverable.
+Dialogue: 0,0:20:22.83,0:20:24.32,Chinese,,0,0,0,,那基本上就凉凉了
+Dialogue: 0,0:20:24.92,0:20:28.28,English,,0,0,0,,- As the Voyager 1 spacecraft departed the solar system,
+Dialogue: 0,0:20:24.92,0:20:28.28,Chinese,,0,0,0,,旅行者1号驶离太阳系的标志之一
+Dialogue: 0,0:20:28.28,0:20:33.13,English,,0,0,0,,one of the ways we could tell was by an increase in the flux of cosmic rays it experienced.
+Dialogue: 0,0:20:28.28,0:20:33.13,Chinese,,0,0,0,,就是它遭受的宇宙射线的流量增大了
+Dialogue: 0,0:20:33.73,0:20:38.46,English,,0,0,0,,Although on earth, the particles streaming from the sun and the solar wind are a source of radiation,
+Dialogue: 0,0:20:33.73,0:20:38.46,Chinese,,0,0,0,,虽然在地球上看，太阳放射出的粒子和太阳风是一种辐射来源
+Dialogue: 0,0:20:38.89,0:20:43.43,English,,0,0,0,,further out these same particles maintain protective bubble.
+Dialogue: 0,0:20:38.89,0:20:43.43,Chinese,,0,0,0,,但这些粒子实际上形成了一个保护罩
+Dialogue: 0,0:20:43.43,0:20:44.62,English,,0,0,0,,The heliosphere.
+Dialogue: 0,0:20:43.43,0:20:44.62,Chinese,,0,0,0,,即 太阳圈
+Dialogue: 0,0:20:45.24,0:20:49.33,English,,0,0,0,,It helps deflect and slow cosmic rays from interstellar space
+Dialogue: 0,0:20:45.24,0:20:49.33,Chinese,,0,0,0,,它能削减衰弱从星际空间来的宇宙射线
+Dialogue: 0,0:20:49.33,0:20:52.14,English,,0,0,0,,protecting the solar system from ionizing radiation.
+Dialogue: 0,0:20:49.33,0:20:52.14,Chinese,,0,0,0,,减少电离辐射对太阳系的破坏
+Dialogue: 0,0:20:53.04,0:20:56.10,English,,0,0,0,,But the sun has an 11 year activity cycle.
+Dialogue: 0,0:20:53.04,0:20:56.10,Chinese,,0,0,0,,不过太阳的活跃周期是11年
+Dialogue: 0,0:20:56.10,0:20:58.30,English,,0,0,0,,So this protection fluctuates.
+Dialogue: 0,0:20:56.10,0:20:58.30,Chinese,,0,0,0,,所以这种保护效力是不稳定的
+Dialogue: 0,0:20:58.76,0:21:04.18,English,,0,0,0,,The flux of cosmic rays on earth is much lower when the sun is active than when it's dormant.
+Dialogue: 0,0:20:58.76,0:21:04.18,Chinese,,0,0,0,,当太阳活跃的时候，到达地球的宇宙射线流量明显更少
+Dialogue: 0,0:21:05.74,0:21:07.47,English,,0,0,0,,In the history of our planet,
+Dialogue: 0,0:21:05.74,0:21:07.47,Chinese,,0,0,0,,地球生命演化的过程中
+Dialogue: 0,0:21:07.47,0:21:10.61,English,,0,0,0,,cosmic rays may have played an even larger role
+Dialogue: 0,0:21:07.47,0:21:10.61,Chinese,,0,0,0,,宇宙射线或许起到了不可忽略的作用
+Dialogue: 0,0:21:11.13,0:21:13.72,English,,0,0,0,,flipping bits, not in electronics,
+Dialogue: 0,0:21:11.13,0:21:13.72,Chinese,,0,0,0,,它翻转的不再是电子设备中的比特
+Dialogue: 0,0:21:13.72,0:21:16.85,English,,0,0,0,,but in the genetic codes of living organisms,
+Dialogue: 0,0:21:13.72,0:21:16.85,Chinese,,0,0,0,,而是生物的遗传密码
+Dialogue: 0,0:21:16.85,0:21:20.72,English,,0,0,0,,providing some of the variation on which natural selection acts.
+Dialogue: 0,0:21:16.85,0:21:20.72,Chinese,,0,0,0,,从此诞生了通过自然选择无法产生的突变
+Dialogue: 0,0:21:21.36,0:21:26.20,English,,0,0,0,,Maria Vindevogel is now a member of the Belgium Chamber of Representatives,
+Dialogue: 0,0:21:21.36,0:21:26.20,Chinese,,0,0,0,,玛丽亚·温德沃格尔现在是比利时众议院的议员了
+Dialogue: 0,0:21:26.62,0:21:29.61,English,,0,0,0,,elected by people, not a particle,
+Dialogue: 0,0:21:26.62,0:21:29.61,Chinese,,0,0,0,,这次是由人民选出来的，而非粒子
+Dialogue: 0,0:21:30.19,0:21:33.88,English,,0,0,0,,but her story is a reminder of the zillions of particles
+Dialogue: 0,0:21:30.19,0:21:33.88,Chinese,,0,0,0,,但是她的故事提醒着我们
+Dialogue: 0,0:21:33.88,0:21:35.61,English,,0,0,0,,winding their way through the universe
+Dialogue: 0,0:21:33.88,0:21:35.61,Chinese,,0,0,0,,在宇宙中有这些数不胜数的
+Dialogue: 0,0:21:35.61,0:21:38.81,English,,0,0,0,,for millions or billions of years.
+Dialogue: 0,0:21:35.61,0:21:38.81,Chinese,,0,0,0,,漂泊了亿万年的粒子
+Dialogue: 0,0:21:39.32,0:21:42.13,English,,0,0,0,,One of which might at any moment,
+Dialogue: 0,0:21:39.32,0:21:42.13,Chinese,,0,0,0,,不知在某个时刻  就会有个粒子
+Dialogue: 0,0:21:42.13,0:21:46.73,English,,0,0,0,,change your life by passing through a tiny transistor
+Dialogue: 0,0:21:42.13,0:21:46.73,Chinese,,0,0,0,,撞上了一个小小的二极管，我们的一生也因此
+Dialogue: 0,0:21:46.73,0:21:49.35,English,,0,0,0,,and cra....
+Dialogue: 0,0:21:46.73,0:21:49.35,Chinese,,0,0,0,,而改…
+Dialogue: 0,0:21:52.54,0:21:55.66,Chinese,,0,0,0,,{\pos(1920,1806)}翻译：Yuumi、Cyanoxygen、yxy、pointee\N审核：
