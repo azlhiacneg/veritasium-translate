@@ -15,39 +15,34 @@ Style: CHN,MonyharOS Sans SC Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.09,0:00:03.12,ENG,,0,0,0,,- A plane plummets out of the sky,
-Dialogue: 0,0:00:00.09,0:00:03.12,CHN,,0,0,0,,一架飞机从天而降
+Dialogue: 0,0:00:00.09,0:00:03.12,CHN,,0,0,0,,有一架飞机从天上突然跌下
 Dialogue: 0,0:00:03.12,0:00:06.76,ENG,,0,0,0,,a speed runner inexplicably jumps to a higher platform.
-Dialogue: 0,0:00:03.12,0:00:06.76,CHN,,0,0,0,,一位速通玩家不知怎地就跳到了更高的平台上
+Dialogue: 0,0:00:03.12,0:00:06.76,CHN,,0,0,0,,有一位速通玩家莫名其妙就跳到了更高的平台上
 Dialogue: 0,0:00:06.76,0:00:07.85,ENG,,0,0,0,,- What the?
 Dialogue: 0,0:00:06.76,0:00:07.85,CHN,,0,0,0,,什么？
 Dialogue: 0,0:00:07.85,0:00:08.68,ENG,,0,0,0,,What the?
 Dialogue: 0,0:00:07.85,0:00:08.68,CHN,,0,0,0,,这也可以？
 Dialogue: 0,0:00:08.68,0:00:11.83,ENG,,0,0,0,,- And an election recount is triggered.
-Dialogue: 0,0:00:08.68,0:00:11.83,CHN,,0,0,0,,一次选举启动重新计票
+Dialogue: 0,0:00:08.68,0:00:11.83,CHN,,0,0,0,,有一次选举需要重新计票
 Dialogue: 0,0:00:11.83,0:00:15.26,ENG,,0,0,0,,All because of the same invisible phenomenon
-Dialogue: 0,0:00:11.83,0:00:15.26,CHN,,0,0,0,,所有这一切都源于宇宙中弥漫的同一种无形现象
 Dialogue: 0,0:00:15.26,0:00:17.47,ENG,,0,0,0,,that permeates the universe.
-Dialogue: 0,0:00:15.26,0:00:17.47,CHN,,0,0,0,,
+Dialogue: 0,0:00:11.83,0:00:17.47,CHN,,0,0,0,,所有这一切，都源于宇宙中弥漫的同一种看不见的现象
 Dialogue: 0,0:00:18.48,0:00:22.77,ENG,,0,0,0,,On May 18th, 2003, voters in Belgium went to the polls.
-Dialogue: 0,0:00:18.48,0:00:22.77,CHN,,0,0,0,,在2003年5月18日，比利时选民前往投票站
+Dialogue: 0,0:00:18.48,0:00:22.77,CHN,,0,0,0,,2003年5月18日，比利时选民前往投票站
 Dialogue: 0,0:00:22.77,0:00:25.56,ENG,,0,0,0,,In many regions, voting was done on a computer,
-Dialogue: 0,0:00:22.77,0:00:25.56,CHN,,0,0,0,,在许多地区，比利时人十几年来一直在试验使用电脑投票
-Dialogue: 0,0:00:25.56,0:00:27.61,ENG,,0,0,0,,something the Belgians had been experimenting with
-Dialogue: 0,0:00:25.56,0:00:27.61,CHN,,0,0,0,,
-Dialogue: 0,0:00:27.61,0:00:29.40,ENG,,0,0,0,,for over a decade.
-Dialogue: 0,0:00:27.61,0:00:29.40,CHN,,0,0,0,,
+Dialogue: 0,0:00:22.77,0:00:25.56,CHN,,0,0,0,,不少地方投票是用电脑的
+Dialogue: 0,0:00:25.56,0:00:29.40,ENG,,0,0,0,,something the Belgians had been experimenting with for over a decade.
+Dialogue: 0,0:00:25.56,0:00:29.40,CHN,,0,0,0,,比利时人十几年来也一直在尝试使用电脑投票
 Dialogue: 0,0:00:29.40,0:00:31.22,ENG,,0,0,0,,But the system had a backup.
 Dialogue: 0,0:00:29.40,0:00:31.22,CHN,,0,0,0,,而且系统是有备份的
 Dialogue: 0,0:00:31.22,0:00:34.46,ENG,,0,0,0,,Each voter would insert a magnetic card into the machine
 Dialogue: 0,0:00:31.22,0:00:34.46,CHN,,0,0,0,,每位选民把磁卡插入机器
 Dialogue: 0,0:00:34.46,0:00:36.76,ENG,,0,0,0,,and make their selection on screen.
-Dialogue: 0,0:00:34.46,0:00:36.76,CHN,,0,0,0,,然后在屏幕上进行他们的选择
-Dialogue: 0,0:00:36.76,0:00:39.54,ENG,,0,0,0,,Their vote was saved both to the computer
-Dialogue: 0,0:00:36.76,0:00:39.54,CHN,,0,0,0,,他们的选票同时保存在计算机
-Dialogue: 0,0:00:39.54,0:00:41.07,ENG,,0,0,0,,and the magnetic card,
-Dialogue: 0,0:00:39.54,0:00:41.07,CHN,,0,0,0,,和磁卡中
+Dialogue: 0,0:00:34.46,0:00:36.76,CHN,,0,0,0,,然后在屏幕上进行选择
+Dialogue: 0,0:00:36.76,0:00:41.07,ENG,,0,0,0,,Their vote was saved both to the computer and the magnetic card,
+Dialogue: 0,0:00:36.76,0:00:41.07,CHN,,0,0,0,,他们的选票同时保存在计算机和磁卡中
 Dialogue: 0,0:00:41.07,0:00:44.36,ENG,,0,0,0,,which they dropped into a box for redundancy.
-Dialogue: 0,0:00:41.07,0:00:44.36,CHN,,0,0,0,,并把他们放入箱子中，以备不时之需
+Dialogue: 0,0:00:41.07,0:00:44.36,CHN,,0,0,0,,磁卡会投入箱子中，以备不时之需
 Dialogue: 0,0:00:44.36,0:00:47.14,ENG,,0,0,0,,Late that night, as the votes were being tabulated,
 Dialogue: 0,0:00:44.36,0:00:47.14,CHN,,0,0,0,,当日深夜，在制作选票的表格时
 Dialogue: 0,0:00:47.14,0:00:49.67,ENG,,0,0,0,,one of the election officials detected a problem
@@ -58,74 +53,57 @@ Dialogue: 0,0:00:51.54,0:00:54.23,ENG,,0,0,0,,a municipality in central Brussels
 Dialogue: 0,0:00:51.54,0:00:54.23,CHN,,0,0,0,,选票结果存在问题
 Dialogue: 0,0:00:54.23,0:00:56.62,ENG,,0,0,0,,Maria Vindevogel, a little known candidate
 Dialogue: 0,0:00:54.23,0:00:56.62,CHN,,0,0,0,,Maria Vindevogel是一位没什么名气的候选人
-Dialogue: 0,0:00:56.62,0:00:59.43,ENG,,0,0,0,,with her own party received more votes
-Dialogue: 0,0:00:56.62,0:00:59.43,CHN,,0,0,0,,相比于数学上的可能结果
-Dialogue: 0,0:00:59.43,0:01:01.76,ENG,,0,0,0,,than was mathematically possible.
-Dialogue: 0,0:00:59.43,0:01:01.76,CHN,,0,0,0,,她所在的政党获得了更多的选票
-Dialogue: 0,0:01:01.76,0:01:03.10,ENG,,0,0,0,,They knew this because of the way
-Dialogue: 0,0:01:01.76,0:01:03.10,CHN,,0,0,0,,他们知道这一点的原因是
-Dialogue: 0,0:01:03.10,0:01:05.77,ENG,,0,0,0,,the preferential voting system works.
-Dialogue: 0,0:01:03.10,0:01:05.77,CHN,,0,0,0,,由于优先投票制的运作方式
+Dialogue: 0,0:00:56.62,0:01:01.76,ENG,,0,0,0,,with her own party received more votes than was mathematically possible.
+Dialogue: 0,0:00:56.62,0:01:01.76,CHN,,0,0,0,,但她的党派的得票数  却直接超出了理论上限
+Dialogue: 0,0:01:01.76,0:01:02.80,ENG,,0,0,0,,They knew this because of
+Dialogue: 0,0:01:01.76,0:01:02.80,CHN,,0,0,0,,计票者能知道这一问题是因为
+Dialogue: 0,0:01:02.80,0:01:05.77,ENG,,0,0,0,,the way the preferential voting system works.
+Dialogue: 0,0:01:02.80,0:01:05.77,CHN,,0,0,0,,“优先投票制”的运作方式
 Dialogue: 0,0:01:05.77,0:01:09.45,ENG,,0,0,0,,So they took out the magnetic cards and started a recount.
 Dialogue: 0,0:01:05.77,0:01:09.45,CHN,,0,0,0,,于是他们拿出磁卡，开始重新计票
-Dialogue: 0,0:01:09.45,0:01:11.64,ENG,,0,0,0,,One by one, they fed each of them
-Dialogue: 0,0:01:09.45,0:01:11.64,CHN,,0,0,0,,他们一个接一个把磁卡再次投入机器
-Dialogue: 0,0:01:11.64,0:01:13.89,ENG,,0,0,0,,through the machines again,
-Dialogue: 0,0:01:11.64,0:01:13.89,CHN,,0,0,0,,
+Dialogue: 0,0:01:09.45,0:01:13.89,ENG,,0,0,0,,One by one, they fed each of them through the machines again,
+Dialogue: 0,0:01:09.45,0:01:13.89,CHN,,0,0,0,,他们一个接一个把磁卡再次投入机器
 Dialogue: 0,0:01:13.89,0:01:17.08,ENG,,0,0,0,,and after several hours, the recount was complete.
 Dialogue: 0,0:01:13.89,0:01:17.08,CHN,,0,0,0,,几小时后，重新计票完成
-Dialogue: 0,0:01:17.08,0:01:19.48,ENG,,0,0,0,,The vote totals for every candidate
-Dialogue: 0,0:01:17.08,0:01:19.48,CHN,,0,0,0,,每个候选人的总选票数与之前完全相同
-Dialogue: 0,0:01:19.48,0:01:22.37,ENG,,0,0,0,,were exactly the same as before,
-Dialogue: 0,0:01:19.48,0:01:22.37,CHN,,0,0,0,,
+Dialogue: 0,0:01:17.08,0:01:22.37,ENG,,0,0,0,,The vote totals for every candidate were exactly the same as before,
+Dialogue: 0,0:01:17.08,0:01:22.37,CHN,,0,0,0,,其他各个候选人的总选票数与之前完全相同
 Dialogue: 0,0:01:22.37,0:01:25.10,ENG,,0,0,0,,except for Maria Vindevogel.
 Dialogue: 0,0:01:22.37,0:01:25.10,CHN,,0,0,0,,除了Maria Vindevogel
 Dialogue: 0,0:01:25.10,0:01:27.36,ENG,,0,0,0,,In her case, the recounted number of votes
-Dialogue: 0,0:01:25.10,0:01:27.36,CHN,,0,0,0,,在她选票有变的情况下，重新计票的票数
 Dialogue: 0,0:01:27.36,0:01:31.83,ENG,,0,0,0,,was less than the original by 4,096.
-Dialogue: 0,0:01:27.36,0:01:31.83,CHN,,0,0,0,,比原来少了4096票
+Dialogue: 0,0:01:25.10,0:01:31.83,CHN,,0,0,0,,她在重新计票后比之前少了4096票
 Dialogue: 0,0:01:31.83,0:01:33.59,ENG,,0,0,0,,So what went wrong?
 Dialogue: 0,0:01:31.83,0:01:33.59,CHN,,0,0,0,,那什么出问题了呢
-Dialogue: 0,0:01:33.59,0:01:35.27,ENG,,0,0,0,,How had her original tally
-Dialogue: 0,0:01:33.59,0:01:35.27,CHN,,0,0,0,,她的原始票数是如何被4000多票抬高的？
-Dialogue: 0,0:01:35.27,0:01:38.66,ENG,,0,0,0,,been inflated by over 4,000 votes?
-Dialogue: 0,0:01:35.27,0:01:38.66,CHN,,0,0,0,,
-Dialogue: 0,0:01:38.66,0:01:41.35,ENG,,0,0,0,,Computer experts were brought in to run extensive tests
-Dialogue: 0,0:01:38.66,0:01:41.35,CHN,,0,0,0,,他们请来计算机专家对该软件进行大量测试
-Dialogue: 0,0:01:41.35,0:01:42.60,ENG,,0,0,0,,on the software.
-Dialogue: 0,0:01:41.35,0:01:42.60,CHN,,0,0,0,,
+Dialogue: 0,0:01:33.59,0:01:38.66,ENG,,0,0,0,,How had her original tally been inflated by over 4,000 votes?
+Dialogue: 0,0:01:33.59,0:01:38.66,CHN,,0,0,0,,她的原始票数是如何多了4000多票的
+Dialogue: 0,0:01:38.66,0:01:42.60,ENG,,0,0,0,,Computer experts were brought in to run extensive tests on the software.
+Dialogue: 0,0:01:38.66,0:01:42.60,CHN,,0,0,0,,他们请来计算机专家对该软件进行大量测试
 Dialogue: 0,0:01:42.60,0:01:46.37,ENG,,0,0,0,,They combed through the code, but could find no bugs.
 Dialogue: 0,0:01:42.60,0:01:46.37,CHN,,0,0,0,,他们梳理了代码，但是什么错误都没找到
-Dialogue: 0,0:01:46.37,0:01:47.25,ENG,,0,0,0,,They got the computer
-Dialogue: 0,0:01:46.37,0:01:47.25,CHN,,0,0,0,,他们拿到了产生初始计算错误的计算机
-Dialogue: 0,0:01:47.25,0:01:49.10,ENG,,0,0,0,,that had made the initial erroneous tally
-Dialogue: 0,0:01:47.25,0:01:49.10,CHN,,0,0,0,,
+Dialogue: 0,0:01:46.37,0:01:49.10,ENG,,0,0,0,,They got the computer that had made the initial erroneous tally
+Dialogue: 0,0:01:46.37,0:01:49.10,CHN,,0,0,0,,他们拿到了产生初始计算错误的计算机
 Dialogue: 0,0:01:49.10,0:01:52.12,ENG,,0,0,0,,and tested the hardware again and again,
 Dialogue: 0,0:01:49.10,0:01:52.12,CHN,,0,0,0,,然后一次又一次测试硬件
 Dialogue: 0,0:01:52.12,0:01:54.72,ENG,,0,0,0,,but they could not replicate the error.
 Dialogue: 0,0:01:52.12,0:01:54.72,CHN,,0,0,0,,但他们无法复现错误
 Dialogue: 0,0:01:54.72,0:01:55.79,ENG,,0,0,0,,Everything about the hardware
-Dialogue: 0,0:01:54.72,0:01:55.79,CHN,,0,0,0,,硬件一切的一切似乎都在完美工作状态
 Dialogue: 0,0:01:55.79,0:01:58.66,ENG,,0,0,0,,seemed to be in perfect working order.
-Dialogue: 0,0:01:55.79,0:01:58.66,CHN,,0,0,0,,
+Dialogue: 0,0:01:54.72,0:01:58.66,CHN,,0,0,0,,硬件的每一处地方似乎都在良好的工作状态
 Dialogue: 0,0:01:58.66,0:02:01.41,ENG,,0,0,0,,And this left only one possible explanation
 Dialogue: 0,0:01:58.66,0:02:01.41,CHN,,0,0,0,,这就只剩下一种解释
 Dialogue: 0,0:02:01.41,0:02:04.07,ENG,,0,0,0,,and it is seriously weird.
 Dialogue: 0,0:02:01.41,0:02:04.07,CHN,,0,0,0,,而且这个解释非常非常奇怪
-Dialogue: 0,0:02:04.07,0:02:07.05,ENG,,0,0,0,,The clue comes from the excess number of votes
-Dialogue: 0,0:02:04.07,0:02:07.05,CHN,,0,0,0,,线索来自Vindevogel获得的过多选票
-Dialogue: 0,0:02:07.05,0:02:08.44,ENG,,0,0,0,,Vindevogel received.
-Dialogue: 0,0:02:07.05,0:02:08.44,CHN,,0,0,0,,
-Dialogue: 0,0:02:08.44,0:02:11.46,ENG,,0,0,0,,4,096.
+Dialogue: 0,0:02:04.07,0:02:08.44,ENG,,0,0,0,,The clue comes from the excess number of votes Vindevogel received.
+Dialogue: 0,0:02:04.07,0:02:08.44,CHN,,0,0,0,,线索来自Vindevogel获得的过多选票
 Dialogue: 0,0:02:08.44,0:02:11.46,CHN,,0,0,0,,4096
 Dialogue: 0,0:02:11.46,0:02:15.44,ENG,,0,0,0,,Computers work using binary, strings of zeros and ones,
 Dialogue: 0,0:02:11.46,0:02:15.44,CHN,,0,0,0,,计算机使用二进制，0和1的字符串工作
 Dialogue: 0,0:02:15.44,0:02:17.88,ENG,,0,0,0,,each corresponding to a power of two.
 Dialogue: 0,0:02:15.44,0:02:17.88,CHN,,0,0,0,,每一个字符串对应2的幂
 Dialogue: 0,0:02:17.88,0:02:20.82,ENG,,0,0,0,,So somewhere inside the computer tabulating all the votes
-Dialogue: 0,0:02:17.88,0:02:20.82,CHN,,0,0,0,,因此，在计算机内的某处，
+Dialogue: 0,0:02:17.88,0:02:20.82,CHN,,0,0,0,,因此，在计算机内的某处
 Dialogue: 0,0:02:20.82,0:02:22.08,ENG,,0,0,0,,was a string of bits
-Dialogue: 0,0:02:20.82,0:02:22.08,CHN,,0,0,0,,计算所有选票的是一个字符串位，
+Dialogue: 0,0:02:20.82,0:02:22.08,CHN,,0,0,0,,计算所有选票的是一个字符串位
 Dialogue: 0,0:02:22.08,0:02:24.90,ENG,,0,0,0,,representing the number of votes Maria received.
 Dialogue: 0,0:02:22.08,0:02:24.90,CHN,,0,0,0,,代表Maria获得的所有选票
 Dialogue: 0,0:02:24.90,0:02:26.86,ENG,,0,0,0,,It started the day all zeros,
@@ -139,9 +117,8 @@ Dialogue: 0,0:02:30.94,0:02:34.14,CHN,,0,0,0,,物理上讲，这是通过开启�
 Dialogue: 0,0:02:34.14,0:02:36.75,ENG,,0,0,0,,and turning it off for zero.
 Dialogue: 0,0:02:34.14,0:02:36.75,CHN,,0,0,0,,关闭晶体管为0实现的
 Dialogue: 0,0:02:36.75,0:02:40.11,ENG,,0,0,0,,What's remarkable about the number 4,096
-Dialogue: 0,0:02:36.75,0:02:40.11,CHN,,0,0,0,,数字4096的特别之处在于它恰好是2的幂
 Dialogue: 0,0:02:40.11,0:02:43.53,ENG,,0,0,0,,is that it is exactly a power of two.
-Dialogue: 0,0:02:40.11,0:02:43.53,CHN,,0,0,0,,
+Dialogue: 0,0:02:36.75,0:02:43.53,CHN,,0,0,0,,数字4096的特别之处在于它恰好是2的幂
 Dialogue: 0,0:02:43.53,0:02:45.55,ENG,,0,0,0,,Two to the power of 12.
 Dialogue: 0,0:02:43.53,0:02:45.55,CHN,,0,0,0,,2的12次方
 Dialogue: 0,0:02:45.55,0:02:48.12,ENG,,0,0,0,,That is the 13th bit.
@@ -149,21 +126,23 @@ Dialogue: 0,0:02:45.55,0:02:48.12,CHN,,0,0,0,,这是第13位
 Dialogue: 0,0:02:48.12,0:02:52.73,ENG,,0,0,0,,So for Maria Vindevogel to receive an extra 4,096 votes,
 Dialogue: 0,0:02:48.12,0:02:52.73,CHN,,0,0,0,,因此，想让Maria Vindevogel获得额外的4096张票
 Dialogue: 0,0:02:52.73,0:02:55.44,ENG,,0,0,0,,only one thing needed to happen.
-Dialogue: 0,0:02:52.73,0:02:55.44,CHN,,0,0,0,,只需要让一件事发声
+Dialogue: 0,0:02:52.73,0:02:55.44,CHN,,0,0,0,,只需要改变一个晶体管
 Dialogue: 0,0:02:55.44,0:03:00.05,ENG,,0,0,0,,The 13th bit had to flip from a zero to a one.
 Dialogue: 0,0:02:55.44,0:03:00.05,CHN,,0,0,0,,第13位必须从0反转到1
 Dialogue: 0,0:03:01.11,0:03:03.09,ENG,,0,0,0,,But why would that happen?
 Dialogue: 0,0:03:01.11,0:03:03.09,CHN,,0,0,0,,但为什么会这样呢
-Dialogue: 0,0:03:03.09,0:03:06.41,ENG,,0,0,0,,Computers work precisely because bits don't flip
-Dialogue: 0,0:03:03.09,0:03:06.41,CHN,,0,0,0,,计算机可以正常工作正是因为位并不会反转
-Dialogue: 0,0:03:06.41,0:03:10.96,ENG,,0,0,0,,unless we want them to, or do they?
-Dialogue: 0,0:03:06.41,0:03:10.96,CHN,,0,0,0,,除非我们希望它们反转，或者它们自己想？
+Dialogue: 0,0:03:03.09,0:03:05.00,ENG,,0,0,0,,Computers work precisely because
+Dialogue: 0,0:03:03.09,0:03:05.00,CHN,,0,0,0,,计算机可以正常工作正是因为
+Dialogue: 0,0:03:05.00,0:03:09.50,ENG,,0,0,0,,bits don't flip unless we want them to,
+Dialogue: 0,0:03:05.00,0:03:09.50,CHN,,0,0,0,,只要我们没有主动让比特反转  它们就一定不会自发反转……
+Dialogue: 0,0:03:09.50,0:03:10.96,ENG,,0,0,0,,or do they?
+Dialogue: 0,0:03:09.50,0:03:10.96,CHN,,0,0,0,,真的不会吗
 Dialogue: 0,0:03:10.96,0:03:12.26,ENG,,0,0,0,,Looking into the problem,
-Dialogue: 0,0:03:10.96,0:03:12.26,CHN,,0,0,0,,在调查这个问题时，
+Dialogue: 0,0:03:10.96,0:03:12.26,CHN,,0,0,0,,在调查这个问题时
 Dialogue: 0,0:03:12.26,0:03:14.90,ENG,,0,0,0,,Belgian investigators found reports of similar issues
-Dialogue: 0,0:03:12.26,0:03:14.90,CHN,,0,0,0,,比利时调查人员发现从1970年代开始大型计算机公司有类似问题报告
+Dialogue: 0,0:03:12.26,0:03:14.90,CHN,,0,0,0,,比利时调查人员发现，从上世纪70年代开始
 Dialogue: 0,0:03:14.90,0:03:18.42,ENG,,0,0,0,,from big computer companies starting in the 1970s.
-Dialogue: 0,0:03:14.90,0:03:18.42,CHN,,0,0,0,,
+Dialogue: 0,0:03:14.90,0:03:18.42,CHN,,0,0,0,,在计算机大公司有类似问题报告
 Dialogue: 0,0:03:19.43,0:03:23.61,ENG,,0,0,0,,In 1978, Intel reported some strange errors popping up
 Dialogue: 0,0:03:19.43,0:03:23.61,CHN,,0,0,0,,1978年，英特尔报告称
 Dialogue: 0,0:03:23.61,0:03:28.04,ENG,,0,0,0,,in their 16 kilobit dynamic random access memory or DRAM.
