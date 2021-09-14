@@ -16,9 +16,9 @@ Video File: no ad.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.125000
-Scroll Position: 227
-Active Line: 250
-Video Position: 7901
+Scroll Position: 339
+Active Line: 364
+Video Position: 11888
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -393,9 +393,9 @@ Dialogue: 0,0:08:10.26,0:08:14.35,Chinese,,0,0,0,,另一个名叫 Douglas Gaffin
 Dialogue: 0,0:08:14.35,0:08:15.80,English,,0,0,0,,came up with a great phrase for it.
 Dialogue: 0,0:08:14.35,0:08:15.80,Chinese,,0,0,0,,给出了一个很合适的名字
 Dialogue: 0,0:08:15.80,0:08:18.06,English,,0,0,0,,I wish I'd come up with the phrase, but I gotta give credit.
-Dialogue: 0,0:08:15.80,0:08:18.06,Chinese,,0,0,0,,我真希望这是我想出来的，但我得承认这件事
-Dialogue: 0,0:08:18.06,0:08:20.99,English,,0,0,0,,He calls it, a whole-body photon detector.
-Dialogue: 0,0:08:18.06,0:08:20.99,Chinese,,0,0,0,,他将其称为“全身光线探测器”
+Dialogue: 0,0:08:15.80,0:08:18.06,Chinese,,0,0,0,,我真希望这是我想出来的，但我得给他这个信誉
+Dialogue: 0,0:08:18.06,0:08:20.99,English - With background,,0,0,0,,He calls it, a whole-body photon detector.
+Dialogue: 0,0:08:18.06,0:08:20.99,Chinese - with background,,0,0,0,,他将其称为“全身光线探测器”
 Dialogue: 0,0:08:20.99,0:08:22.63,English,,0,0,0,,So it's part of their sensory system.
 Dialogue: 0,0:08:20.99,0:08:22.63,Chinese,,0,0,0,,它是蝎子的感觉系统的一部分
 Dialogue: 0,0:08:23.65,0:08:27.40,English,,0,0,0,,What we don't know is why they want to detect ultraviolet light so badly
@@ -438,3 +438,4 @@ Dialogue: 0,0:09:16.53,0:09:20.90,English,,0,0,0,,- [Carl] And then the trade of
 Dialogue: 0,0:09:16.53,0:09:20.90,Chinese,,0,0,0,,而这两者的权衡大概就是，今晚是该出去还是留在洞里
 Dialogue: 0,0:09:20.90,0:09:21.48,English,,0,0,0,,- [Derek] Yeah.
 Dialogue: 0,0:09:20.90,0:09:21.48,Chinese,,0,0,0,,是的
+Dialogue: 0,0:09:24.08,0:09:27.25,Chinese,,0,0,0,,{\pos(1920,1558)}翻译：、H3arn\N审核：雪落霞初
