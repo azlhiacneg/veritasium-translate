@@ -12,7 +12,7 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: ENG,Inter Medium,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,3,3,3,1
-Style: CHN,MonyharOS Sans SC Medium,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,3,1
+Style: CHN,MonyharOS Sans SC Medium,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,33,33,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -715,75 +715,73 @@ Dialogue: 0,0:15:51.24,0:15:52.75,CHN,,0,0,0,,
 Dialogue: 0,0:15:52.75,0:15:53.90,ENG,,0,0,0,,- Bear. Yeah.
 Dialogue: 0,0:15:52.75,0:15:53.90,CHN,,0,0,0,,
 Dialogue: 0,0:15:53.90,0:15:55.89,ENG,,0,0,0,,- [Derek] But it's not just the oil on the lanes
-Dialogue: 0,0:15:53.90,0:15:55.89,CHN,,0,0,0,,
+Dialogue: 0,0:15:53.90,0:15:55.89,CHN,,0,0,0,,但是改变保龄球运动的
 Dialogue: 0,0:15:55.89,0:15:57.99,ENG,,0,0,0,,that is transformed bowling.
-Dialogue: 0,0:15:55.89,0:15:57.99,CHN,,0,0,0,,
+Dialogue: 0,0:15:55.89,0:15:57.99,CHN,,0,0,0,,不仅仅是球道上的油
 Dialogue: 0,0:15:57.99,0:16:00.26,ENG,,0,0,0,,It's also the balls themselves.
-Dialogue: 0,0:15:57.99,0:16:00.26,CHN,,0,0,0,,
+Dialogue: 0,0:15:57.99,0:16:00.26,CHN,,0,0,0,,还有球本身
 Dialogue: 0,0:16:00.26,0:16:03.42,ENG,,0,0,0,,- Hard rubber bowling balls was what I started with.
-Dialogue: 0,0:16:00.26,0:16:03.42,CHN,,0,0,0,,
+Dialogue: 0,0:16:00.26,0:16:03.42,CHN,,0,0,0,,我从硬质橡胶球开始打
 Dialogue: 0,0:16:03.42,0:16:05.74,ENG,,0,0,0,,Maybe mid 70's and then the Yellow Dot,
-Dialogue: 0,0:16:03.42,0:16:05.74,CHN,,0,0,0,,
 Dialogue: 0,0:16:05.74,0:16:08.49,ENG,,0,0,0,,the Columbia Yellow Dot, which is a plastic ball.
-Dialogue: 0,0:16:05.74,0:16:08.49,CHN,,0,0,0,,
+Dialogue: 0,0:16:03.42,0:16:08.49,CHN,,0,0,0,,大约70年代中期换成了“哥伦比亚黄点”  这是种塑料球
 Dialogue: 0,0:16:08.49,0:16:11.14,ENG,,0,0,0,,And then they came out with urethane bowling balls.
-Dialogue: 0,0:16:08.49,0:16:11.14,CHN,,0,0,0,,
+Dialogue: 0,0:16:08.49,0:16:11.14,CHN,,0,0,0,,然后聚氨酯球出现了
 Dialogue: 0,0:16:11.14,0:16:13.55,ENG,,0,0,0,,I won a lot of titles with the urethane stuff.
-Dialogue: 0,0:16:11.14,0:16:13.55,CHN,,0,0,0,,
+Dialogue: 0,0:16:11.14,0:16:13.55,CHN,,0,0,0,,我用这种球拿到了不少冠军
 Dialogue: 0,0:16:13.55,0:16:16.73,ENG,,0,0,0,,And then they come out with the reactive resin bowling balls.
-Dialogue: 0,0:16:13.55,0:16:16.73,CHN,,0,0,0,,
+Dialogue: 0,0:16:13.55,0:16:16.73,CHN,,0,0,0,,再之后出现的是活性树脂材质的球
 Dialogue: 0,0:16:16.73,0:16:20.03,ENG,,0,0,0,,- [Derek] Reactive resin is just a modified polyurethane
-Dialogue: 0,0:16:16.73,0:16:20.03,CHN,,0,0,0,,
+Dialogue: 0,0:16:16.73,0:16:20.03,CHN,,0,0,0,,这就是一种改良的聚氨酯
 Dialogue: 0,0:16:20.03,0:16:23.84,ENG,,0,0,0,,with a more porous surface, which gives it more grip in the oil.
-Dialogue: 0,0:16:20.03,0:16:23.84,CHN,,0,0,0,,
+Dialogue: 0,0:16:20.03,0:16:23.84,CHN,,0,0,0,,它的表面疏松多孔  在涂油的地面上抓地性更好
 Dialogue: 0,0:16:23.84,0:16:28.59,ENG,,0,0,0,,It's the most popular surface or cover stock for bowling balls today.
-Dialogue: 0,0:16:23.84,0:16:28.59,CHN,,0,0,0,,
+Dialogue: 0,0:16:23.84,0:16:28.59,CHN,,0,0,0,,这是当下最流行的保龄球表面涂层
 Dialogue: 0,0:16:28.59,0:16:31.92,ENG,,0,0,0,,Balls started out as perfect symmetrically-weighted spheres.
-Dialogue: 0,0:16:28.59,0:16:31.92,CHN,,0,0,0,,
+Dialogue: 0,0:16:28.59,0:16:31.92,CHN,,0,0,0,,保龄球最初是重量完美对称分布的球体
 Dialogue: 0,0:16:31.92,0:16:36.25,ENG,,0,0,0,,And when you go to a bowling alley, the house balls there are still just that.
-Dialogue: 0,0:16:31.92,0:16:36.25,CHN,,0,0,0,,
+Dialogue: 0,0:16:31.92,0:16:36.25,CHN,,0,0,0,,如果你去保龄球馆看看  那里的公用球仍然是这样
 Dialogue: 0,0:16:36.25,0:16:38.15,ENG,,0,0,0,,But when you drill holes in the ball,
-Dialogue: 0,0:16:36.25,0:16:38.15,CHN,,0,0,0,,
+Dialogue: 0,0:16:36.25,0:16:38.15,CHN,,0,0,0,,但是如果你在球上钻孔
 Dialogue: 0,0:16:38.15,0:16:40.30,ENG,,0,0,0,,you take some weight out of one side.
-Dialogue: 0,0:16:38.15,0:16:40.30,CHN,,0,0,0,,
+Dialogue: 0,0:16:38.15,0:16:40.30,CHN,,0,0,0,,就会让球在某个方向上的重量减少
 Dialogue: 0,0:16:40.30,0:16:42.61,ENG,,0,0,0,,So to rebalance it, ball manufacturers
-Dialogue: 0,0:16:40.30,0:16:42.61,CHN,,0,0,0,,
+Dialogue: 0,0:16:40.30,0:16:42.61,CHN,,0,0,0,,保龄球的制造商为了重新调整球的重量
 Dialogue: 0,0:16:42.61,0:16:46.03,ENG,,0,0,0,,added a small pancake weight on the same side as the holes.
-Dialogue: 0,0:16:42.61,0:16:46.03,CHN,,0,0,0,,
+Dialogue: 0,0:16:42.61,0:16:46.03,CHN,,0,0,0,,会在打孔的方向上加个配重饼
 Dialogue: 0,0:16:46.03,0:16:48.06,ENG,,0,0,0,,But then ball manufacturers got the idea,
-Dialogue: 0,0:16:46.03,0:16:48.06,CHN,,0,0,0,,
+Dialogue: 0,0:16:46.03,0:16:48.06,CHN,,0,0,0,,但是制造商想到了
 Dialogue: 0,0:16:48.06,0:16:52.46,ENG,,0,0,0,,they could add different weights inside the ball to improve their performance.
-Dialogue: 0,0:16:48.06,0:16:52.46,CHN,,0,0,0,,
+Dialogue: 0,0:16:48.06,0:16:52.46,CHN,,0,0,0,,他们可以在球的内部放置不同的配重  来提升球的性能
 Dialogue: 0,0:16:52.46,0:16:55.29,ENG,,0,0,0,,You can have two balls that look identical from the outside,
-Dialogue: 0,0:16:52.46,0:16:55.29,CHN,,0,0,0,,
 Dialogue: 0,0:16:55.29,0:16:57.31,ENG,,0,0,0,,weigh exactly the same amount,
-Dialogue: 0,0:16:55.29,0:16:57.31,CHN,,0,0,0,,
+Dialogue: 0,0:16:52.46,0:16:57.31,CHN,,0,0,0,,外观相同、重量相等的两颗保龄球
 Dialogue: 0,0:16:57.31,0:16:59.89,ENG,,0,0,0,,and yet roll differently.
-Dialogue: 0,0:16:57.31,0:16:59.89,CHN,,0,0,0,,
+Dialogue: 0,0:16:57.31,0:16:59.89,CHN,,0,0,0,,转起来可以完全不同
 Dialogue: 0,0:16:59.89,0:17:03.41,ENG,,0,0,0,,If the mass is more concentrated around the axis of rotation,
-Dialogue: 0,0:16:59.89,0:17:03.41,CHN,,0,0,0,,
+Dialogue: 0,0:16:59.89,0:17:03.41,CHN,,0,0,0,,如果质量在旋转轴周围更加集中
 Dialogue: 0,0:17:03.41,0:17:06.38,ENG,,0,0,0,,say you have a dense cylinder inside the ball.
-Dialogue: 0,0:17:03.41,0:17:06.38,CHN,,0,0,0,,
+Dialogue: 0,0:17:03.41,0:17:06.38,CHN,,0,0,0,,比如在球内嵌了一个致密的圆柱体
 Dialogue: 0,0:17:06.38,0:17:08.92,ENG,,0,0,0,,Well then it has a lower moment of inertia.
-Dialogue: 0,0:17:06.38,0:17:08.92,CHN,,0,0,0,,
+Dialogue: 0,0:17:06.38,0:17:08.92,CHN,,0,0,0,,这颗球的转动惯量会较小
 Dialogue: 0,0:17:08.92,0:17:11.57,ENG,,0,0,0,,And this means for the same amount of energy input,
-Dialogue: 0,0:17:08.92,0:17:11.57,CHN,,0,0,0,,
+Dialogue: 0,0:17:08.92,0:17:11.57,CHN,,0,0,0,,这意味着  对于相同大小的能量输入
 Dialogue: 0,0:17:11.57,0:17:13.41,ENG,,0,0,0,,it will spin faster.
-Dialogue: 0,0:17:11.57,0:17:13.41,CHN,,0,0,0,,
+Dialogue: 0,0:17:11.57,0:17:13.41,CHN,,0,0,0,,它会旋转得更快
 Dialogue: 0,0:17:13.41,0:17:16.61,ENG,,0,0,0,,In bowling, they prefer to talk about an analogous concept.
-Dialogue: 0,0:17:13.41,0:17:16.61,CHN,,0,0,0,,
+Dialogue: 0,0:17:13.41,0:17:16.61,CHN,,0,0,0,,在保龄球术语中有个相似的概念
 Dialogue: 0,0:17:16.61,0:17:19.29,ENG,,0,0,0,,Radius of gyration or RG.
-Dialogue: 0,0:17:16.61,0:17:19.29,CHN,,0,0,0,,
+Dialogue: 0,0:17:16.61,0:17:19.29,CHN,,0,0,0,,回转半径 缩写为RG
 Dialogue: 0,0:17:19.29,0:17:22.33,ENG,,0,0,0,,If you were to concentrate the entire mass of the ball
-Dialogue: 0,0:17:19.29,0:17:22.33,CHN,,0,0,0,,
+Dialogue: 0,0:17:19.29,0:17:22.33,CHN,,0,0,0,,如果把整个球的质量集中在
 Dialogue: 0,0:17:22.33,0:17:24.94,ENG,,0,0,0,,onto a hoop with the same moment of inertia,
-Dialogue: 0,0:17:22.33,0:17:24.94,CHN,,0,0,0,,
+Dialogue: 0,0:17:22.33,0:17:24.94,CHN,,0,0,0,,一个有相同转动惯量的圆环上
 Dialogue: 0,0:17:24.94,0:17:28.30,ENG,,0,0,0,,it's radius would be the radius of gyration.
-Dialogue: 0,0:17:24.94,0:17:28.30,CHN,,0,0,0,,
+Dialogue: 0,0:17:24.94,0:17:28.30,CHN,,0,0,0,,这个圆环的半径就是回转半径
 Dialogue: 0,0:17:28.30,0:17:32.60,ENG,,0,0,0,,So smaller radius of gyration just means lower moment of inertia,
-Dialogue: 0,0:17:28.30,0:17:32.60,CHN,,0,0,0,,
+Dialogue: 0,0:17:28.30,0:17:32.60,CHN,,0,0,0,,所以回转半径小就意味着转动惯量小
 Dialogue: 0,0:17:32.60,0:17:36.68,ENG,,0,0,0,,which translates into more rotation that a bowler can get on the ball.
-Dialogue: 0,0:17:32.60,0:17:36.68,CHN,,0,0,0,,
+Dialogue: 0,0:17:32.60,0:17:36.68,CHN,,0,0,0,,也就能使保龄球手将球转得更快
 Dialogue: 0,0:17:36.68,0:17:38.11,ENG,,0,0,0,,- Some people are lower leverage
 Dialogue: 0,0:17:36.68,0:17:38.11,CHN,,0,0,0,,
 Dialogue: 0,0:17:38.11,0:17:40.09,ENG,,0,0,0,,it just spins faster, like,
@@ -801,161 +799,155 @@ Dialogue: 0,0:17:49.48,0:17:51.33,CHN,,0,0,0,,
 Dialogue: 0,0:17:51.33,0:17:53.43,ENG,,0,0,0,,Can be fairly significant.
 Dialogue: 0,0:17:51.33,0:17:53.43,CHN,,0,0,0,,
 Dialogue: 0,0:17:53.43,0:17:55.48,ENG,,0,0,0,,- [Derek] An ability to spin the balls faster,
-Dialogue: 0,0:17:53.43,0:17:55.48,CHN,,0,0,0,,
+Dialogue: 0,0:17:53.43,0:17:55.48,CHN,,0,0,0,,只要能让球转的更快
 Dialogue: 0,0:17:55.48,0:18:00.16,ENG,,0,0,0,,gives a bowler the ability to hook the ball more sharply further down the lane,
-Dialogue: 0,0:17:55.48,0:18:00.16,CHN,,0,0,0,,
+Dialogue: 0,0:17:55.48,0:18:00.16,CHN,,0,0,0,,保龄球手就越可能在球道更远处  让球拐得更大
 Dialogue: 0,0:18:00.16,0:18:04.27,ENG,,0,0,0,,giving them a better chance of achieving that six degree entry angle.
-Dialogue: 0,0:18:00.16,0:18:04.27,CHN,,0,0,0,,
+Dialogue: 0,0:18:00.16,0:18:04.27,CHN,,0,0,0,,也就越可能达到6°的入射角
 Dialogue: 0,0:18:04.27,0:18:06.01,ENG,,0,0,0,,What was amazing for me to learn is that
-Dialogue: 0,0:18:04.27,0:18:06.01,CHN,,0,0,0,,
+Dialogue: 0,0:18:04.27,0:18:06.01,CHN,,0,0,0,,配重块的知识使我大受震撼
 Dialogue: 0,0:18:06.01,0:18:09.27,ENG,,0,0,0,,the weight blocks in these balls aren't even centered.
-Dialogue: 0,0:18:06.01,0:18:09.27,CHN,,0,0,0,,
+Dialogue: 0,0:18:06.01,0:18:09.27,CHN,,0,0,0,,球里面的配重块甚至不位于中心
 Dialogue: 0,0:18:09.27,0:18:12.77,ENG,,0,0,0,,There's a heavy side and a lighter side on purpose,
-Dialogue: 0,0:18:09.27,0:18:12.77,CHN,,0,0,0,,
+Dialogue: 0,0:18:09.27,0:18:12.77,CHN,,0,0,0,,制作商有意将它们制成一侧重一侧轻
 Dialogue: 0,0:18:12.77,0:18:14.93,ENG,,0,0,0,,and you can find and mark this side
-Dialogue: 0,0:18:12.77,0:18:14.93,CHN,,0,0,0,,
 Dialogue: 0,0:18:14.93,0:18:17.76,ENG,,0,0,0,,by letting the ball spin freely on a cushion of air,
-Dialogue: 0,0:18:14.93,0:18:17.76,CHN,,0,0,0,,
+Dialogue: 0,0:18:12.77,0:18:17.76,CHN,,0,0,0,,让球在气垫上自由旋转  就可以找到哪边重
 Dialogue: 0,0:18:17.76,0:18:20.78,ENG,,0,0,0,,until it comes to rest, heavy side down.
-Dialogue: 0,0:18:17.76,0:18:20.78,CHN,,0,0,0,,
+Dialogue: 0,0:18:17.76,0:18:20.78,CHN,,0,0,0,,直到它静止下来 此时重的一侧向下
 Dialogue: 0,0:18:20.78,0:18:22.40,ENG,,0,0,0,,They showed me a great demonstration
-Dialogue: 0,0:18:20.78,0:18:22.40,CHN,,0,0,0,,
+Dialogue: 0,0:18:20.78,0:18:22.40,CHN,,0,0,0,,他们向我绝妙地展示了
 Dialogue: 0,0:18:22.40,0:18:24.32,ENG,,0,0,0,,of how the position of the center of gravity
-Dialogue: 0,0:18:22.40,0:18:24.32,CHN,,0,0,0,,
 Dialogue: 0,0:18:24.32,0:18:26.36,ENG,,0,0,0,,can affect the movement of the ball.
-Dialogue: 0,0:18:24.32,0:18:26.36,CHN,,0,0,0,,
+Dialogue: 0,0:18:22.40,0:18:26.36,CHN,,0,0,0,,重心的位置对球的运动能产生怎样的影响
 Dialogue: 0,0:18:27.42,0:18:29.67,ENG,,0,0,0,,When the center of mass is on the left side of the ball,
-Dialogue: 0,0:18:27.42,0:18:29.67,CHN,,0,0,0,,
+Dialogue: 0,0:18:27.42,0:18:29.67,CHN,,0,0,0,,当质心位于球的左侧时
 Dialogue: 0,0:18:29.67,0:18:32.42,ENG,,0,0,0,,it pulls in the same direction as the spin,
-Dialogue: 0,0:18:29.67,0:18:32.42,CHN,,0,0,0,,
+Dialogue: 0,0:18:29.67,0:18:32.42,CHN,,0,0,0,,它的拉力和旋转摩擦力同向
 Dialogue: 0,0:18:32.42,0:18:35.13,ENG,,0,0,0,,helping the ball hook to the left, into the pins,
-Dialogue: 0,0:18:32.42,0:18:35.13,CHN,,0,0,0,,
+Dialogue: 0,0:18:32.42,0:18:35.13,CHN,,0,0,0,,帮助球往左侧拐弯 击倒球瓶
 Dialogue: 0,0:18:35.13,0:18:37.74,ENG,,0,0,0,,- Same exact ball, same numbers,
-Dialogue: 0,0:18:35.13,0:18:37.74,CHN,,0,0,0,,
+Dialogue: 0,0:18:35.13,0:18:37.74,CHN,,0,0,0,,同一个球 同一个码数
 Dialogue: 0,0:18:37.74,0:18:41.75,ENG,,0,0,0,,just different static and balance basically.
-Dialogue: 0,0:18:37.74,0:18:41.75,CHN,,0,0,0,,
+Dialogue: 0,0:18:37.74,0:18:41.75,CHN,,0,0,0,,基本上只有平衡位置不同
 Dialogue: 0,0:18:41.75,0:18:43.83,ENG,,0,0,0,,- [Derek] But here is a flipped bowling ball
-Dialogue: 0,0:18:41.75,0:18:43.83,CHN,,0,0,0,,
+Dialogue: 0,0:18:41.75,0:18:43.83,CHN,,0,0,0,,而这是个镜像翻转的保龄球
 Dialogue: 0,0:18:43.83,0:18:45.88,ENG,,0,0,0,,where the center of mass is on the right.
-Dialogue: 0,0:18:43.83,0:18:45.88,CHN,,0,0,0,,
+Dialogue: 0,0:18:43.83,0:18:45.88,CHN,,0,0,0,,,它的质心位于右侧
 Dialogue: 0,0:18:46.77,0:18:49.41,ENG,,0,0,0,,Now the ball starts to hook into the left,
-Dialogue: 0,0:18:46.77,0:18:49.41,CHN,,0,0,0,,
+Dialogue: 0,0:18:46.77,0:18:49.41,CHN,,0,0,0,,现在球开始钩向左侧
 Dialogue: 0,0:18:49.41,0:18:52.30,ENG,,0,0,0,,but at the end, something weird happens.
-Dialogue: 0,0:18:49.41,0:18:52.30,CHN,,0,0,0,,
+Dialogue: 0,0:18:49.41,0:18:52.30,CHN,,0,0,0,,但是最后奇怪的事情发生了
 Dialogue: 0,0:18:52.30,0:18:55.69,ENG,,0,0,0,,The center of mass pulls it over to the right.
-Dialogue: 0,0:18:52.30,0:18:55.69,CHN,,0,0,0,,
+Dialogue: 0,0:18:52.30,0:18:55.69,CHN,,0,0,0,,质心把球拉向右侧
 Dialogue: 0,0:18:55.69,0:18:59.56,ENG,,0,0,0,,This effect is only really noticeable when the ball is thrown slowly.
-Dialogue: 0,0:18:55.69,0:18:59.56,CHN,,0,0,0,,
+Dialogue: 0,0:18:55.69,0:18:59.56,CHN,,0,0,0,,这个效应只在缓慢投球的时候比较明显
 Dialogue: 0,0:19:01.66,0:19:05.62,ENG,,0,0,0,,These days, there are tons of different weight blocks that go inside bowling balls
-Dialogue: 0,0:19:01.66,0:19:05.62,CHN,,0,0,0,,
+Dialogue: 0,0:19:01.66,0:19:05.62,CHN,,0,0,0,,现在的保龄球里  有各种各样的配重块
 Dialogue: 0,0:19:05.62,0:19:10.21,ENG,,0,0,0,,and they can be grouped into two categories, symmetric and asymmetric.
-Dialogue: 0,0:19:05.62,0:19:10.21,CHN,,0,0,0,,
+Dialogue: 0,0:19:05.62,0:19:10.21,CHN,,0,0,0,,它们可以分为两类：对称的块和不对称的块
 Dialogue: 0,0:19:10.21,0:19:11.84,ENG,,0,0,0,,For all these weight blocks,
-Dialogue: 0,0:19:10.21,0:19:11.84,CHN,,0,0,0,,
+Dialogue: 0,0:19:10.21,0:19:11.84,CHN,,0,0,0,,不管是哪类配重块
 Dialogue: 0,0:19:11.84,0:19:16.52,ENG,,0,0,0,,the minimum moment of inertia or in bowling terms, the smallest RG axis
-Dialogue: 0,0:19:11.84,0:19:16.52,CHN,,0,0,0,,
+Dialogue: 0,0:19:11.84,0:19:16.52,CHN,,0,0,0,,转动惯量最小的轴  或者用保龄球术语来说“RG最小”的轴
 Dialogue: 0,0:19:16.52,0:19:20.93,ENG,,0,0,0,,is identified by a pin, which is visible on the outside of the ball.
-Dialogue: 0,0:19:16.52,0:19:20.93,CHN,,0,0,0,,
+Dialogue: 0,0:19:16.52,0:19:20.93,CHN,,0,0,0,,都会在球的表面有所标记
 Dialogue: 0,0:19:20.93,0:19:23.94,ENG,,0,0,0,,It will spin most easily about this axis.
-Dialogue: 0,0:19:20.93,0:19:23.94,CHN,,0,0,0,,
-Dialogue: 0,0:19:23.94,0:19:25.53,ENG,,0,0,0,,For the symmetric weight blocks.
-Dialogue: 0,0:19:23.94,0:19:25.53,CHN,,0,0,0,,
-Dialogue: 0,0:19:25.53,0:19:28.79,ENG,,0,0,0,,The ball doesn't change as you rotate it about this axis.
-Dialogue: 0,0:19:25.53,0:19:28.79,CHN,,0,0,0,,
+Dialogue: 0,0:19:20.93,0:19:23.94,CHN,,0,0,0,,保龄球绕此轴旋转最不费力
+Dialogue: 0,0:19:23.94,0:19:25.53,ENG,,0,0,0,,For the symmetric weight blocks,
+Dialogue: 0,0:19:23.94,0:19:25.53,CHN,,0,0,0,,对于对称的配重块
+Dialogue: 0,0:19:25.53,0:19:28.79,ENG,,0,0,0,,the ball doesn't change as you rotate it about this axis.
+Dialogue: 0,0:19:25.53,0:19:28.79,CHN,,0,0,0,,球绕对称轴转动时  质量分布不变
 Dialogue: 0,0:19:28.79,0:19:31.03,ENG,,0,0,0,,So the maximum moment of inertia
-Dialogue: 0,0:19:28.79,0:19:31.03,CHN,,0,0,0,,
-Dialogue: 0,0:19:31.03,0:19:35.33,ENG,,0,0,0,,is rotating about any axis that passes through the equator of the ball.
-Dialogue: 0,0:19:31.03,0:19:35.33,CHN,,0,0,0,,
+Dialogue: 0,0:19:28.79,0:19:31.03,CHN,,0,0,0,,所以要获得最大转动惯量
+Dialogue: 0,0:19:31.03,0:19:36.00,ENG,,0,0,0,,is rotating about any axis that passes through the equator of the ball.
+Dialogue: 0,0:19:31.03,0:19:36.00,CHN,,0,0,0,,只需让转动轴穿过赤道（即转动轴垂直于左图的对称轴）即可
 Dialogue: 0,0:19:36.23,0:19:39.69,ENG,,0,0,0,,I certainly didn't expect bowling balls to have asymmetric cores,
-Dialogue: 0,0:19:36.23,0:19:39.69,CHN,,0,0,0,,
+Dialogue: 0,0:19:36.23,0:19:39.69,CHN,,0,0,0,,我当然没有料到保龄球会有不对称的核心
 Dialogue: 0,0:19:39.69,0:19:42.83,ENG,,0,0,0,,but it turns out what looked like perfect spheres,
-Dialogue: 0,0:19:39.69,0:19:42.83,CHN,,0,0,0,,
+Dialogue: 0,0:19:39.69,0:19:42.83,CHN,,0,0,0,,但是看起来像是完美球体的保龄球
 Dialogue: 0,0:19:42.83,0:19:46.42,ENG,,0,0,0,,actually have three different principal axes of rotation.
-Dialogue: 0,0:19:42.83,0:19:46.42,CHN,,0,0,0,,
+Dialogue: 0,0:19:42.83,0:19:46.42,CHN,,0,0,0,,其实有三个不同的转动主轴
 Dialogue: 0,0:19:46.42,0:19:47.74,ENG,,0,0,0,,Minimum moment of inertia,
-Dialogue: 0,0:19:46.42,0:19:47.74,CHN,,0,0,0,,
+Dialogue: 0,0:19:46.42,0:19:47.74,CHN,,0,0,0,,最小惯量轴
 Dialogue: 0,0:19:47.74,0:19:49.04,ENG,,0,0,0,,maximum moment of inertia
-Dialogue: 0,0:19:47.74,0:19:49.04,CHN,,0,0,0,,
+Dialogue: 0,0:19:47.74,0:19:49.04,CHN,,0,0,0,,最大惯量轴
 Dialogue: 0,0:19:49.04,0:19:51.65,ENG,,0,0,0,,and intermediate moment of inertia.
-Dialogue: 0,0:19:49.04,0:19:51.65,CHN,,0,0,0,,
+Dialogue: 0,0:19:49.04,0:19:51.65,CHN,,0,0,0,,以及中间轴
 Dialogue: 0,0:19:51.65,0:19:53.15,ENG,,0,0,0,,- So this right here is our Dark Code.
-Dialogue: 0,0:19:51.65,0:19:53.15,CHN,,0,0,0,,
+Dialogue: 0,0:19:51.65,0:19:53.15,CHN,,0,0,0,,我们这球叫“暗黑代码”
 Dialogue: 0,0:19:53.15,0:19:56.94,ENG,,0,0,0,,This is one of our asymmetric ball that has the Rad 4 core in it.
-Dialogue: 0,0:19:53.15,0:19:56.94,CHN,,0,0,0,,
+Dialogue: 0,0:19:53.15,0:19:56.94,CHN,,0,0,0,,这是个非对称核心的球  里面放了“Rad 4”
 Dialogue: 0,0:19:56.94,0:19:59.04,ENG,,0,0,0,,So this has a preferred spin axis.
-Dialogue: 0,0:19:56.94,0:19:59.04,CHN,,0,0,0,,
+Dialogue: 0,0:19:56.94,0:19:59.04,CHN,,0,0,0,,所以它有一个偏好的转轴
 Dialogue: 0,0:19:59.04,0:19:59.91,ENG,,0,0,0,,And what we're going to do now
-Dialogue: 0,0:19:59.04,0:19:59.91,CHN,,0,0,0,,
 Dialogue: 0,0:19:59.91,0:20:01.65,ENG,,0,0,0,,is we're going to put it onto the determinator
-Dialogue: 0,0:19:59.91,0:20:01.65,CHN,,0,0,0,,
+Dialogue: 0,0:19:59.04,0:20:01.65,CHN,,0,0,0,,我们现在要把球放在仪器上观察球的转动
 Dialogue: 0,0:20:01.65,0:20:03.75,ENG,,0,0,0,,and show how it actually will spin it and find it
-Dialogue: 0,0:20:01.65,0:20:03.75,CHN,,0,0,0,,
 Dialogue: 0,0:20:03.75,0:20:05.65,ENG,,0,0,0,,no matter how we position it on there.
-Dialogue: 0,0:20:03.75,0:20:05.65,CHN,,0,0,0,,
+Dialogue: 0,0:20:01.65,0:20:05.65,CHN,,0,0,0,,无论我们以哪个方向把球放进仪器  它都能让球旋转、并找到转轴
 Dialogue: 0,0:20:06.70,0:20:08.43,ENG,,0,0,0,,- [Derek] So you spin them up on this machine
-Dialogue: 0,0:20:06.70,0:20:08.43,CHN,,0,0,0,,
+Dialogue: 0,0:20:06.70,0:20:08.43,CHN,,0,0,0,,所以你先让球在机器上转起来
 Dialogue: 0,0:20:08.43,0:20:11.56,ENG,,0,0,0,,until they settle into the way they like to spin
-Dialogue: 0,0:20:08.43,0:20:11.56,CHN,,0,0,0,,
 Dialogue: 0,0:20:11.56,0:20:15.80,ENG,,0,0,0,,where the bowlers call their preferred spin axis or PSA.
-Dialogue: 0,0:20:11.56,0:20:15.80,CHN,,0,0,0,,
+Dialogue: 0,0:20:08.43,0:20:15.80,CHN,,0,0,0,,它们最后会绕着保龄球手所说的偏好转轴（PSA）转动
+Dialogue: 0,0:20:13.69,0:20:19.25,CHN,,0,0,0,,{\fad(700,700)\an8}（即 最大惯量轴）
 Dialogue: 0,0:20:15.80,0:20:19.33,ENG,,0,0,0,,But why would you want a ball to be an asymmetric top?
-Dialogue: 0,0:20:15.80,0:20:19.33,CHN,,0,0,0,,
+Dialogue: 0,0:20:15.80,0:20:19.33,CHN,,0,0,0,,但是保龄球手为什么会希望球有一头不对称呢
 Dialogue: 0,0:20:19.33,0:20:21.61,ENG,,0,0,0,,Well, professional bowlers drill their balls
-Dialogue: 0,0:20:19.33,0:20:21.61,CHN,,0,0,0,,
+Dialogue: 0,0:20:19.33,0:20:21.61,CHN,,0,0,0,,职业球手会在他们的球上钻孔
 Dialogue: 0,0:20:21.61,0:20:24.17,ENG,,0,0,0,,so that at lunch the axis of rotation
-Dialogue: 0,0:20:21.61,0:20:24.17,CHN,,0,0,0,,
 Dialogue: 0,0:20:24.17,0:20:28.41,ENG,,0,0,0,,is somewhere between the minimum and maximum moment of inertia.
-Dialogue: 0,0:20:24.17,0:20:28.41,CHN,,0,0,0,,
+Dialogue: 0,0:20:21.61,0:20:28.41,CHN,,0,0,0,,所以把球掷出时  旋转轴将位于最小惯量轴和最大惯量轴之间
 Dialogue: 0,0:20:28.41,0:20:31.63,ENG,,0,0,0,,And as a result, as the ball goes down the lane spinning,
-Dialogue: 0,0:20:28.41,0:20:31.63,CHN,,0,0,0,,
+Dialogue: 0,0:20:28.41,0:20:31.63,CHN,,0,0,0,,这就导致了  当球沿着球道前进时会高速旋转
 Dialogue: 0,0:20:31.63,0:20:34.40,ENG,,0,0,0,,it precesses like a gyroscope.
-Dialogue: 0,0:20:31.63,0:20:34.40,CHN,,0,0,0,,
+Dialogue: 0,0:20:31.63,0:20:34.40,CHN,,0,0,0,,像陀螺仪一样“进动”
+Dialogue: 0,0:20:31.63,0:20:34.40,CHN,,0,0,0,,{\an7}进动：最常见于天文学\N指自转轴受某些因素影响\N相对于空间中的惯性坐标系\N所发生的缓慢且连续的变化
 Dialogue: 0,0:20:34.40,0:20:36.64,ENG,,0,0,0,,The axis of rotation rotates around
-Dialogue: 0,0:20:34.40,0:20:36.64,CHN,,0,0,0,,
+Dialogue: 0,0:20:34.40,0:20:36.64,CHN,,0,0,0,,旋转轴在起始点周围旋转
 Dialogue: 0,0:20:36.64,0:20:40.98,ENG,,0,0,0,,causing the point of contact between the ball and the lane to change.
-Dialogue: 0,0:20:36.64,0:20:40.98,CHN,,0,0,0,,
+Dialogue: 0,0:20:36.64,0:20:40.98,CHN,,0,0,0,,使得球与地面的接触点不断改变
 Dialogue: 0,0:20:40.98,0:20:45.60,ENG,,0,0,0,,This precession means that different parts of the ball contact the lane.
-Dialogue: 0,0:20:40.98,0:20:45.60,CHN,,0,0,0,,
+Dialogue: 0,0:20:40.98,0:20:45.60,CHN,,0,0,0,,这种进动意味着  球每自转一圈  接触地面的部分都不同
+Dialogue: 0,0:20:40.98,0:20:45.60,CHN,,0,0,0,,{\an7}进动：最常见于天文学\N指自转轴受某些因素影响\N相对于空间中的惯性坐标系\N所发生的缓慢且连续的变化
 Dialogue: 0,0:20:45.60,0:20:50.98,ENG,,0,0,0,,And you can see this when the ball back by the spread-out lines of oil on the ball surface.
-Dialogue: 0,0:20:45.60,0:20:50.98,CHN,,0,0,0,,
+Dialogue: 0,0:20:45.60,0:20:50.98,CHN,,0,0,0,,你可以观察到球面上一圈圈的油迹线
 Dialogue: 0,0:20:50.98,0:20:53.52,ENG,,0,0,0,,Bowlers call this track flare, and it's desirable
-Dialogue: 0,0:20:50.98,0:20:53.52,CHN,,0,0,0,,
+Dialogue: 0,0:20:50.98,0:20:53.52,CHN,,0,0,0,,球手们称之为“瓜皮线”  这样的轨迹是比较理想的
+Dialogue: 0,0:20:50.98,0:20:57.01,CHN,,0,0,0,,{\an7}*没查到track flare这个术语的中文\N翻译时只好直接根据\N视频中的形态来意译
 Dialogue: 0,0:20:53.52,0:20:57.01,ENG,,0,0,0,,because it means once the ball hits the unoiled part of the lane,
-Dialogue: 0,0:20:53.52,0:20:57.01,CHN,,0,0,0,,
+Dialogue: 0,0:20:53.52,0:20:57.01,CHN,,0,0,0,,这种轨迹意味着  球一旦进入到球道后程不涂油的部分
 Dialogue: 0,0:20:57.01,0:20:58.43,ENG,,0,0,0,,it gets traction faster
-Dialogue: 0,0:20:57.01,0:20:58.43,CHN,,0,0,0,,
+Dialogue: 0,0:20:57.01,0:20:58.43,CHN,,0,0,0,,它会更快地获得摩擦力
 Dialogue: 0,0:20:58.43,0:21:00.68,ENG,,0,0,0,,and hooks more dramatically back to the pins.
-Dialogue: 0,0:20:58.43,0:21:00.68,CHN,,0,0,0,,
+Dialogue: 0,0:20:58.43,0:21:00.68,CHN,,0,0,0,,并且更显著地钩向球瓶的方向
 Dialogue: 0,0:21:01.61,0:21:04.20,ENG,,0,0,0,,This is what asymmetric cores are used for.
-Dialogue: 0,0:21:01.61,0:21:04.20,CHN,,0,0,0,,
-Dialogue: 0,0:21:04.20,0:21:05.38,ENG,,0,0,0,,They have larger differences
-Dialogue: 0,0:21:04.20,0:21:05.38,CHN,,0,0,0,,
-Dialogue: 0,0:21:05.38,0:21:08.18,ENG,,0,0,0,,between their moments of inertia in different axes
-Dialogue: 0,0:21:05.38,0:21:08.18,CHN,,0,0,0,,
+Dialogue: 0,0:21:01.61,0:21:04.20,CHN,,0,0,0,,这就是非对称核心的功能
+Dialogue: 0,0:21:04.20,0:21:08.18,ENG,,0,0,0,,They have larger differences between their moments of inertia in different axes
 Dialogue: 0,0:21:08.18,0:21:10.48,ENG,,0,0,0,,or what bowlers call RG differential,
-Dialogue: 0,0:21:08.18,0:21:10.48,CHN,,0,0,0,,
+Dialogue: 0,0:21:04.20,0:21:10.48,CHN,,0,0,0,,非对称核心  在不同惯量（术语“RG差值”）的主轴上有很大区别
 Dialogue: 0,0:21:10.48,0:21:12.83,ENG,,0,0,0,,which makes the ball precess.
-Dialogue: 0,0:21:10.48,0:21:12.83,CHN,,0,0,0,,
+Dialogue: 0,0:21:10.48,0:21:12.83,CHN,,0,0,0,,这导致球会产生进动
 Dialogue: 0,0:21:12.83,0:21:16.59,ENG,,0,0,0,,If you spin a ball around it's minimum or maximum moment of inertia,
-Dialogue: 0,0:21:12.83,0:21:16.59,CHN,,0,0,0,,
+Dialogue: 0,0:21:12.83,0:21:16.59,CHN,,0,0,0,,如果让球绕着最小/最大惯量轴旋转
 Dialogue: 0,0:21:16.59,0:21:19.69,ENG,,0,0,0,,it processes less and there's much less flair,
-Dialogue: 0,0:21:16.59,0:21:19.69,CHN,,0,0,0,,
+Dialogue: 0,0:21:16.59,0:21:19.69,CHN,,0,0,0,,进动的幅度会比较小  瓜皮线也会窄得多
 Dialogue: 0,0:21:19.69,0:21:23.29,ENG,,0,0,0,,meaning oil builds up on one part of the ball.
-Dialogue: 0,0:21:19.69,0:21:23.29,CHN,,0,0,0,,
+Dialogue: 0,0:21:19.69,0:21:23.29,CHN,,0,0,0,,这意味着油会在球上的同一个部分积累
 Dialogue: 0,0:21:23.29,0:21:26.33,ENG,,0,0,0,,This reduces the friction over the dry part of the lane
-Dialogue: 0,0:21:23.29,0:21:26.33,CHN,,0,0,0,,
+Dialogue: 0,0:21:23.29,0:21:26.33,CHN,,0,0,0,,这会减少球在干燥地面上的摩擦
 Dialogue: 0,0:21:26.33,0:21:28.52,ENG,,0,0,0,,so the ball hooks less.
-Dialogue: 0,0:21:26.33,0:21:28.52,CHN,,0,0,0,,
+Dialogue: 0,0:21:26.33,0:21:28.52,CHN,,0,0,0,,所以钩球幅度会变小
 Dialogue: 0,0:21:28.52,0:21:30.22,ENG,,0,0,0,,- See the oil there, very faintly,
-Dialogue: 0,0:21:28.52,0:21:30.22,CHN,,0,0,0,,
+Dialogue: 0,0:21:28.52,0:21:30.22,CHN,,0,0,0,,- 看这里的油迹 非常淡
 Dialogue: 0,0:21:30.22,0:21:32.94,ENG,,0,0,0,,but it's pretty much next to the finger,
-Dialogue: 0,0:21:30.22,0:21:32.94,CHN,,0,0,0,,
 Dialogue: 0,0:21:32.94,0:21:34.20,ENG,,0,0,0,,right next to the thumb,
-Dialogue: 0,0:21:32.94,0:21:34.20,CHN,,0,0,0,,
+Dialogue: 0,0:21:30.22,0:21:34.20,CHN,,0,0,0,,但在拇指周围相当多油
 Dialogue: 0,0:21:34.20,0:21:37.28,ENG,,0,0,0,,and it just continues to be right that way
-Dialogue: 0,0:21:34.20,0:21:37.28,CHN,,0,0,0,,
+Dialogue: 0,0:21:34.20,0:21:37.28,CHN,,0,0,0,,痕迹沿着这条线延续
 Dialogue: 0,0:21:37.28,0:21:39.12,ENG,,0,0,0,,all the way around the ball.
-Dialogue: 0,0:21:37.28,0:21:39.12,CHN,,0,0,0,,
+Dialogue: 0,0:21:37.28,0:21:39.12,CHN,,0,0,0,,绕球一圈
 Dialogue: 0,0:21:39.12,0:21:43.92,ENG,,0,0,0,,- [Derek] But how important are each of these factors in actually getting the best shot?
 Dialogue: 0,0:21:39.12,0:21:43.92,CHN,,0,0,0,,
 Dialogue: 0,0:21:43.92,0:21:46.28,ENG,,0,0,0,,Well, the US Bowling Congress, or USBC,
