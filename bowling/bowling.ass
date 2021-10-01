@@ -480,239 +480,225 @@ Dialogue: 0,0:10:36.15,0:10:38.38,CHN,,0,0,0,,
 Dialogue: 0,0:10:38.38,0:10:41.35,ENG,,0,0,0,,getting it to start rolling without slipping.
 Dialogue: 0,0:10:38.38,0:10:41.35,CHN,,0,0,0,,
 Dialogue: 0,0:10:41.35,0:10:44.79,ENG,,0,0,0,,And this leads to the three parts of any pro bowler's throw.
-Dialogue: 0,0:10:41.35,0:10:44.79,CHN,,0,0,0,,
+Dialogue: 0,0:10:41.35,0:10:44.79,CHN,,0,0,0,,因此专业球手出的球会分成三个运行阶段
 Dialogue: 0,0:10:46.00,0:10:47.74,ENG,,0,0,0,,The skid, {\1a&HFF&\3a&HFF&\4a&HFF&}the hook and the roll.
-Dialogue: 0,0:10:46.00,0:10:47.74,CHN,,0,0,0,,
+Dialogue: 0,0:10:46.00,0:10:47.74,CHN,,0,0,0,,滑行{\1a&HFF&\3a&HFF&\4a&HFF&}-转弯-滚动
 Dialogue: 0,0:10:47.74,0:10:49.03,ENG,,0,0,0,,The skid, the hook {\1a&HFF&\3a&HFF&\4a&HFF&}and the roll.
-Dialogue: 0,0:10:47.74,0:10:49.03,CHN,,0,0,0,,
+Dialogue: 0,0:10:47.74,0:10:49.03,CHN,,0,0,0,,滑行-转弯{\1a&HFF&\3a&HFF&\4a&HFF&}-滚动
 Dialogue: 0,0:10:49.03,0:10:51.05,ENG,,0,0,0,,The skid, the hook and the roll.
-Dialogue: 0,0:10:49.03,0:10:51.05,CHN,,0,0,0,,
-Dialogue: 0,0:10:51.65,0:10:53.19,ENG,,0,0,0,,When a bowler releases the ball,
-Dialogue: 0,0:10:51.65,0:10:53.19,CHN,,0,0,0,,
+Dialogue: 0,0:10:49.03,0:10:51.05,CHN,,0,0,0,,滑行-转弯-滚动
+Dialogue: 0,0:10:51.65,0:10:53.19,ENG,,0,0,0,,When a bowler releases the ball
+Dialogue: 0,0:10:51.65,0:10:53.19,CHN,,0,0,0,,球手将球投出的时候
 Dialogue: 0,0:10:53.19,0:10:55.42,ENG,,0,0,0,,it can be going 20 miles an hour
-Dialogue: 0,0:10:53.19,0:10:55.42,CHN,,0,0,0,,
-Dialogue: 0,0:10:55.42,0:10:57.81,ENG,,0,0,0,,and spinning at 500 RPM.
-Dialogue: 0,0:10:55.42,0:10:57.81,CHN,,0,0,0,,
-Dialogue: 0,0:10:57.81,0:11:00.69,ENG,,0,0,0,,That's nearly 10 full revolutions per second.
-Dialogue: 0,0:10:57.81,0:11:00.69,CHN,,0,0,0,,
+Dialogue: 0,0:10:53.19,0:10:55.42,CHN,,0,0,0,,球的速度有每小时20英里(32.2km/h)
+Dialogue: 0,0:10:55.42,0:10:57.81,ENG,,0,0,0,,and spinning at 500 RPM
+Dialogue: 0,0:10:55.42,0:10:57.81,CHN,,0,0,0,,并以每分钟500转的速度旋转
+Dialogue: 0,0:10:57.81,0:11:00.69,ENG,,0,0,0,,That's nearly 10 full revolutions per second
+Dialogue: 0,0:10:57.81,0:11:00.69,CHN,,0,0,0,,这相当于每秒钟旋转差不多10圈
 Dialogue: 0,0:11:00.69,0:11:02.70,ENG,,0,0,0,,Right-handers typically throw the ball to the right
-Dialogue: 0,0:11:00.69,0:11:02.70,CHN,,0,0,0,,
-Dialogue: 0,0:11:02.70,0:11:05.26,ENG,,0,0,0,,on the lane while spinning it to the left.
-Dialogue: 0,0:11:02.70,0:11:05.26,CHN,,0,0,0,,
+Dialogue: 0,0:11:02.70,0:11:05.26,ENG,,0,0,0,,on the lane while spinning it to the left
+Dialogue: 0,0:11:00.69,0:11:05.26,CHN,,0,0,0,,右撇子一般会将球往球道的右侧扔  来让球向左旋转
 Dialogue: 0,0:11:05.26,0:11:08.10,ENG,,0,0,0,,During the skid phase, the ball slides down the lane
-Dialogue: 0,0:11:05.26,0:11:08.10,CHN,,0,0,0,,
-Dialogue: 0,0:11:08.10,0:11:10.16,ENG,,0,0,0,,spinning but not rolling.
-Dialogue: 0,0:11:08.10,0:11:10.16,CHN,,0,0,0,,
-Dialogue: 0,0:11:10.16,0:11:11.62,ENG,,0,0,0,,As it comes to the end of the oil,
-Dialogue: 0,0:11:10.16,0:11:11.62,CHN,,0,0,0,,
-Dialogue: 0,0:11:11.62,0:11:15.77,ENG,,0,0,0,,the friction increases and the ball accelerates to the left.
-Dialogue: 0,0:11:11.62,0:11:15.77,CHN,,0,0,0,,
-Dialogue: 0,0:11:15.77,0:11:17.97,ENG,,0,0,0,,It hooks because of its spin,
-Dialogue: 0,0:11:15.77,0:11:17.97,CHN,,0,0,0,,
-Dialogue: 0,0:11:17.97,0:11:20.71,ENG,,0,0,0,,and the spin starts lining up with the direction of travel,
-Dialogue: 0,0:11:17.97,0:11:20.71,CHN,,0,0,0,,
-Dialogue: 0,0:11:20.71,0:11:23.26,ENG,,0,0,0,,leading to stage three, roll.
-Dialogue: 0,0:11:20.71,0:11:23.26,CHN,,0,0,0,,
-Dialogue: 0,0:11:23.26,0:11:26.85,ENG,,0,0,0,,The ball is rolling without slipping as it barrels into the pins.
-Dialogue: 0,0:11:23.26,0:11:26.85,CHN,,0,0,0,,
-Dialogue: 0,0:11:26.85,0:11:30.11,ENG,,0,0,0,,Ideally, as close to that six degree angle as possible.
-Dialogue: 0,0:11:26.85,0:11:30.11,CHN,,0,0,0,,
-Dialogue: 0,0:11:32.96,0:11:36.20,ENG,,0,0,0,,Like the ball starts on the left side of the lane,
-Dialogue: 0,0:11:32.96,0:11:36.20,CHN,,0,0,0,,
-Dialogue: 0,0:11:36.20,0:11:39.41,ENG,,0,0,0,,goes straight across almost rightmost.
-Dialogue: 0,0:11:36.20,0:11:39.41,CHN,,0,0,0,,
-Dialogue: 0,0:11:39.41,0:11:43.02,ENG,,0,0,0,,Then hooks like at the last minute, rolls in there.
-Dialogue: 0,0:11:39.41,0:11:43.02,CHN,,0,0,0,,
+Dialogue: 0,0:11:08.10,0:11:10.16,ENG,,0,0,0,,spinning but not rolling
+Dialogue: 0,0:11:05.26,0:11:10.16,CHN,,0,0,0,,在滑行阶段  保龄球并非在滚动  而是以旋转姿态沿着球道滑行
+Dialogue: 0,0:11:10.16,0:11:11.62,ENG,,0,0,0,,As it comes to the end of the oil
+Dialogue: 0,0:11:10.16,0:11:11.62,CHN,,0,0,0,,当它来到有油部分的尾端
+Dialogue: 0,0:11:11.62,0:11:15.77,ENG,,0,0,0,,the friction increases and the ball accelerates to the left
+Dialogue: 0,0:11:11.62,0:11:15.77,CHN,,0,0,0,,摩擦力变大使球向左加速
+Dialogue: 0,0:11:15.77,0:11:17.97,ENG,,0,0,0,,It hooks because of its spin
+Dialogue: 0,0:11:17.97,0:11:20.71,ENG,,0,0,0,,and the spin starts lining up with the direction of travel
+Dialogue: 0,0:11:15.77,0:11:20.71,CHN,,0,0,0,,旋转使保龄球转弯  自旋方向与行进方向保持一致
+Dialogue: 0,0:11:20.71,0:11:23.26,ENG,,0,0,0,,leading to stage three, roll
+Dialogue: 0,0:11:20.71,0:11:23.26,CHN,,0,0,0,,这过程将持续到第三阶段——滚动
+Dialogue: 0,0:11:23.26,0:11:26.85,ENG,,0,0,0,,The ball is rolling without slipping as it barrels into the pins
+Dialogue: 0,0:11:23.26,0:11:26.85,CHN,,0,0,0,,保龄球将不打滑地朝球瓶滚动
+Dialogue: 0,0:11:26.85,0:11:30.11,ENG,,0,0,0,,Ideally, as close to that six degree angle as possible
+Dialogue: 0,0:11:26.85,0:11:30.11,CHN,,0,0,0,,在理想情况下，它应该尽可能与球瓶成6度入射角
+Dialogue: 0,0:11:32.96,0:11:36.20,ENG,,0,0,0,,Like the ball starts on the left side of the lane
+Dialogue: 0,0:11:32.96,0:11:36.20,CHN,,0,0,0,,看  球从球道的左边开始
+Dialogue: 0,0:11:36.20,0:11:39.41,ENG,,0,0,0,,goes straight across almost rightmost
+Dialogue: 0,0:11:36.20,0:11:39.41,CHN,,0,0,0,,直接来到几乎是是保龄球道最右边
+Dialogue: 0,0:11:39.41,0:11:43.02,ENG,,0,0,0,,Then hooks like at the last minute, rolls in there
+Dialogue: 0,0:11:39.41,0:11:43.02,CHN,,0,0,0,,在最后一刻转弯，并在这里滚动
 Dialogue: 0,0:11:43.02,0:11:45.56,ENG,,0,0,0,,So that's almost like a perfect shot, right?
-Dialogue: 0,0:11:43.02,0:11:45.56,CHN,,0,0,0,,
-Dialogue: 0,0:11:45.56,0:11:47.32,ENG,,0,0,0,,straight in the pocket there.
-Dialogue: 0,0:11:45.56,0:11:47.32,CHN,,0,0,0,,
-Dialogue: 0,0:11:45.89,0:11:46.74,ENG,,0,0,0,,{\an3}- Close.
-Dialogue: 0,0:11:45.89,0:11:46.74,CHN,,0,0,0,,
-Dialogue: 0,0:11:47.32,0:11:50.86,ENG,,0,0,0,,- Yeah. That's where you want to hit the pins. Yeah.
-Dialogue: 0,0:11:47.32,0:11:50.86,CHN,,0,0,0,,
-Dialogue: 0,0:11:55.46,0:11:57.02,ENG,,0,0,0,,- My very first game,
-Dialogue: 0,0:11:55.46,0:11:57.02,CHN,,0,0,0,,
-Dialogue: 0,0:11:57.02,0:12:00.00,ENG,,0,0,0,,it was ABC back then, American Bowling Congress.
-Dialogue: 0,0:11:57.02,0:12:00.00,CHN,,0,0,0,,
-Dialogue: 0,0:12:00.00,0:12:02.46,ENG,,0,0,0,,I filled out the application to bowl in men's league.
-Dialogue: 0,0:12:00.00,0:12:02.46,CHN,,0,0,0,,
-Dialogue: 0,0:12:02.46,0:12:05.54,ENG,,0,0,0,,Dad gave them the letter saying that I could,
-Dialogue: 0,0:12:02.46,0:12:05.54,CHN,,0,0,0,,
+Dialogue: 0,0:11:43.02,0:11:45.56,CHN,,0,0,0,,所以这个轨迹基本上是完美的，对吧？
+Dialogue: 0,0:11:45.56,0:11:47.32,ENG,,0,0,0,,straight in the pocket there
+Dialogue: 0,0:11:45.56,0:11:47.32,CHN,,0,0,0,,直接转到了这里的区域
+Dialogue: 0,0:11:45.89,0:11:46.74,ENG,,0,0,0,,{\an3}- Close
+Dialogue: 0,0:11:45.89,0:11:46.74,CHN,,0,0,0,,{\an3}- 很接近
+Dialogue: 0,0:11:47.32,0:11:50.86,ENG,,0,0,0,,- Yeah. That's where you want to hit the pins. Yeah
+Dialogue: 0,0:11:47.32,0:11:50.86,CHN,,0,0,0,,是啊  这就是你要击中球瓶的地方 是的
+Dialogue: 0,0:11:55.46,0:11:57.02,ENG,,0,0,0,,- My very first game
+Dialogue: 0,0:11:55.46,0:11:57.02,CHN,,0,0,0,,我最开始的那一场比赛
+Dialogue: 0,0:11:57.02,0:12:00.00,ENG,,0,0,0,,it was ABC back then, American Bowling Congress
+Dialogue: 0,0:11:57.02,0:12:00.00,CHN,,0,0,0,,是在美国保龄球大会
+Dialogue: 0,0:12:00.00,0:12:02.46,ENG,,0,0,0,,I filled out the application to bowl in men's league
+Dialogue: 0,0:12:00.00,0:12:02.46,CHN,,0,0,0,,我填写了男子联赛的申请表
+Dialogue: 0,0:12:02.46,0:12:05.54,ENG,,0,0,0,,Dad gave them the letter saying that I could
+Dialogue: 0,0:12:02.46,0:12:05.54,CHN,,0,0,0,,父亲给他们写信说我有能力参加
 Dialogue: 0,0:12:05.54,0:12:07.62,ENG,,0,0,0,,and the first game of bowl was 300
-Dialogue: 0,0:12:05.54,0:12:07.62,CHN,,0,0,0,,
-Dialogue: 0,0:12:07.62,0:12:09.69,ENG,,0,0,0,,and they handed me a hundred dollars too,
-Dialogue: 0,0:12:07.62,0:12:09.69,CHN,,0,0,0,,
-Dialogue: 0,0:12:09.69,0:12:12.14,ENG,,0,0,0,,and it was like, yeah, making money now.
-Dialogue: 0,0:12:09.69,0:12:12.14,CHN,,0,0,0,,
-Dialogue: 0,0:12:12.14,0:12:16.33,ENG,,0,0,0,,And actually, my first, my sixth, my ninth,
-Dialogue: 0,0:12:12.14,0:12:16.33,CHN,,0,0,0,,
-Dialogue: 0,0:12:16.33,0:12:21.35,ENG,,0,0,0,,my 13th, 17th, 20th were all 300 games.
-Dialogue: 0,0:12:16.33,0:12:21.35,CHN,,0,0,0,,
-Dialogue: 0,0:12:21.35,0:12:25.61,ENG,,0,0,0,,I like, seven or eight 300 in my first year of men's league.
-Dialogue: 0,0:12:21.35,0:12:25.61,CHN,,0,0,0,,
+Dialogue: 0,0:12:05.54,0:12:07.62,CHN,,0,0,0,,第一场比赛我就得了300分满分
+Dialogue: 0,0:12:07.62,0:12:09.69,ENG,,0,0,0,,and they handed me a hundred dollars too
+Dialogue: 0,0:12:07.62,0:12:09.69,CHN,,0,0,0,,而他们也给了我100美元
+Dialogue: 0,0:12:09.69,0:12:12.14,ENG,,0,0,0,,and it was like, yeah, making money now
+Dialogue: 0,0:12:09.69,0:12:12.14,CHN,,0,0,0,,我就感觉  噫  我能赚钱了
+Dialogue: 0,0:12:12.14,0:12:16.33,ENG,,0,0,0,,And actually, my first, my sixth, my ninth
+Dialogue: 0,0:12:16.33,0:12:21.35,ENG,,0,0,0,,my 13th, 17th, 20th were all 300 games
+Dialogue: 0,0:12:12.14,0:12:21.35,CHN,,0,0,0,,而实际上，我的第一、第六、第九、第十三、第十七及第二十次比赛都是满分
+Dialogue: 0,0:12:21.35,0:12:25.61,ENG,,0,0,0,,I like, seven or eight 300 in my first year of men's league
+Dialogue: 0,0:12:21.35,0:12:25.61,CHN,,0,0,0,,在我参加男子联赛的第一年，我大概打了7-8次满分
 Dialogue: 0,0:12:25.61,0:12:26.70,ENG,,0,0,0,,- [Derek] How do you explain that?
-Dialogue: 0,0:12:25.61,0:12:26.70,CHN,,0,0,0,,
-Dialogue: 0,0:12:26.70,0:12:30.53,ENG,,0,0,0,,- To shoot 300 you have to get lucky somewhere along the line.
-Dialogue: 0,0:12:26.70,0:12:30.53,CHN,,0,0,0,,
-Dialogue: 0,0:12:35.24,0:12:36.65,ENG,,0,0,0,,- [Derek] Like that.
-Dialogue: 0,0:12:35.24,0:12:36.65,CHN,,0,0,0,,
-Dialogue: 0,0:12:36.65,0:12:37.79,ENG,,0,0,0,,- Like that.
-Dialogue: 0,0:12:36.65,0:12:37.79,CHN,,0,0,0,,
-Dialogue: 0,0:12:37.79,0:12:41.17,ENG,,0,0,0,,It came in to hit the 1, 3, 5, 9.
-Dialogue: 0,0:12:37.79,0:12:41.17,CHN,,0,0,0,,
-Dialogue: 0,0:12:41.17,0:12:43.76,ENG,,0,0,0,,And that that's what we call the perfect shot.
-Dialogue: 0,0:12:41.17,0:12:43.76,CHN,,0,0,0,,
-Dialogue: 0,0:12:49.97,0:12:51.94,ENG,,0,0,0,,- I mean, you just keep hitting them.
-Dialogue: 0,0:12:49.97,0:12:51.94,CHN,,0,0,0,,
-Dialogue: 0,0:12:51.94,0:12:54.35,ENG,,0,0,0,,That's almost the identical shot.
-Dialogue: 0,0:12:51.94,0:12:54.35,CHN,,0,0,0,,
-Dialogue: 0,0:12:54.35,0:12:55.87,ENG,,0,0,0,,Look at that, that yellow and the purple,
-Dialogue: 0,0:12:54.35,0:12:55.87,CHN,,0,0,0,,
-Dialogue: 0,0:12:55.87,0:12:58.47,ENG,,0,0,0,,they're almost exactly on top of each other.
-Dialogue: 0,0:12:55.87,0:12:58.47,CHN,,0,0,0,,
-Dialogue: 0,0:12:58.47,0:12:59.87,ENG,,0,0,0,,- Oh, it just goes a little bit straight.
-Dialogue: 0,0:12:58.47,0:12:59.87,CHN,,0,0,0,,
-Dialogue: 0,0:12:59.87,0:13:01.34,ENG,,0,0,0,,- That one, the purple one
-Dialogue: 0,0:12:59.87,0:13:01.34,CHN,,0,0,0,,
-Dialogue: 0,0:13:01.34,0:13:04.03,ENG,,0,0,0,,was just a little bit higher on the head pin,
-Dialogue: 0,0:13:01.34,0:13:04.03,CHN,,0,0,0,,
-Dialogue: 0,0:13:04.03,0:13:06.89,ENG,,0,0,0,,but it still hit the 1, 3 and the 5 and the 9.
-Dialogue: 0,0:13:04.03,0:13:06.89,CHN,,0,0,0,,
-Dialogue: 0,0:13:08.80,0:13:09.90,ENG,,0,0,0,,Can't get much better.
-Dialogue: 0,0:13:08.80,0:13:09.90,CHN,,0,0,0,,
-Dialogue: 0,0:13:11.42,0:13:15.23,ENG,,0,0,0,,- [Derek] This type of throw is only possible because of the oil.
-Dialogue: 0,0:13:11.42,0:13:15.23,CHN,,0,0,0,,
-Dialogue: 0,0:13:15.23,0:13:17.99,ENG,,0,0,0,,If you try to throw a ball the same way on an unoiled lane.
-Dialogue: 0,0:13:15.23,0:13:17.99,CHN,,0,0,0,,
-Dialogue: 0,0:13:18.41,0:13:19.52,ENG,,0,0,0,,Oh no.
-Dialogue: 0,0:13:18.41,0:13:19.52,CHN,,0,0,0,,
-Dialogue: 0,0:13:19.70,0:13:21.66,ENG,,0,0,0,,It just doesn't work.
-Dialogue: 0,0:13:19.70,0:13:21.66,CHN,,0,0,0,,
-Dialogue: 0,0:13:21.66,0:13:25.31,ENG,,0,0,0,,Can I actually ask you to bowl like you normally would,
-Dialogue: 0,0:13:21.66,0:13:25.31,CHN,,0,0,0,,
+Dialogue: 0,0:12:25.61,0:12:26.70,CHN,,0,0,0,,- [Derek] 您有什么总结？
+Dialogue: 0,0:12:26.70,0:12:30.53,ENG,,0,0,0,,- To shoot 300 you have to get lucky somewhere along the line
+Dialogue: 0,0:12:26.70,0:12:30.53,CHN,,0,0,0,,- 要打到300分有时你需要运气
+Dialogue: 0,0:12:35.24,0:12:36.65,ENG,,0,0,0,,- [Derek] Like that
+Dialogue: 0,0:12:35.24,0:12:36.65,CHN,,0,0,0,,- [Derek] 就像这样
+Dialogue: 0,0:12:36.65,0:12:37.79,ENG,,0,0,0,,- Like that
+Dialogue: 0,0:12:36.65,0:12:37.79,CHN,,0,0,0,,- 就像这样
+Dialogue: 0,0:12:37.79,0:12:41.17,ENG,,0,0,0,,It came in to hit the 1, 3, 5, 9
+Dialogue: 0,0:12:41.17,0:12:43.76,ENG,,0,0,0,,And that that's what we call the perfect shot
+Dialogue: 0,0:12:37.79,0:12:43.76,CHN,,0,0,0,,当球击中 1, 3, 5, 9 号球的时候，我们称这一球为完美球
+Dialogue: 0,0:12:49.97,0:12:51.94,ENG,,0,0,0,,- I mean, you just keep hitting them
+Dialogue: 0,0:12:49.97,0:12:51.94,CHN,,0,0,0,,- 我的意思是，你只是一直在击中目标
+Dialogue: 0,0:12:51.94,0:12:54.35,ENG,,0,0,0,,That's almost the identical shot
+Dialogue: 0,0:12:51.94,0:12:54.35,CHN,,0,0,0,,这几乎就是理想的一球
+Dialogue: 0,0:12:54.35,0:12:55.87,ENG,,0,0,0,,Look at that, that yellow and the purple
+Dialogue: 0,0:12:55.87,0:12:58.47,ENG,,0,0,0,,they're almost exactly on top of each other
+Dialogue: 0,0:12:54.35,0:12:58.47,CHN,,0,0,0,,看那里，黄色和紫色的路线几乎完全重合了
+Dialogue: 0,0:12:58.47,0:12:59.87,ENG,,0,0,0,,- Oh, it just goes a little bit straight
+Dialogue: 0,0:12:58.47,0:12:59.87,CHN,,0,0,0,,- 噢，它运行得有点直
+Dialogue: 0,0:12:59.87,0:13:01.34,ENG,,0,0,0,,- That one, the purple one 
+Dialogue: 0,0:13:01.34,0:13:04.03,ENG,,0,0,0,,was just a little bit higher on the head pin
+Dialogue: 0,0:13:01.34,0:13:04.03,CHN,,0,0,0,,- 紫色的那一条线虽然击中第一瓶的更高位置
+Dialogue: 0,0:13:04.03,0:13:06.89,ENG,,0,0,0,,but it still hit the 1, 3 and the 5 and the 9
+Dialogue: 0,0:13:04.03,0:13:06.89,CHN,,0,0,0,,但仍然击中了1、3、5和9号瓶
+Dialogue: 0,0:13:08.80,0:13:09.90,ENG,,0,0,0,,Can't get much better
+Dialogue: 0,0:13:08.80,0:13:09.90,CHN,,0,0,0,,这再好不过了
+Dialogue: 0,0:13:11.42,0:13:15.23,ENG,,0,0,0,,- [Derek] This type of throw is only possible because of the oil
+Dialogue: 0,0:13:11.42,0:13:15.23,CHN,,0,0,0,,- [Derek] 只有在有油的球道上才能扔出这样的球
+Dialogue: 0,0:13:15.23,0:13:17.99,ENG,,0,0,0,,If you try to throw a ball the same way on an unoiled lane
+Dialogue: 0,0:13:15.23,0:13:17.99,CHN,,0,0,0,,如果你试着以同样的方式在一条没有上油的道上出球——
+Dialogue: 0,0:13:18.41,0:13:19.52,ENG,,0,0,0,,Oh no
+Dialogue: 0,0:13:18.41,0:13:19.52,ENG,,0,0,0,,那可不行
+Dialogue: 0,0:13:19.70,0:13:21.66,ENG,,0,0,0,,It just doesn't work
+Dialogue: 0,0:13:19.70,0:13:21.66,CHN,,0,0,0,,就完全做不到
+Dialogue: 0,0:13:21.66,0:13:25.31,ENG,,0,0,0,,Can I actually ask you to bowl like you normally would
 Dialogue: 0,0:13:25.31,0:13:26.54,ENG,,0,0,0,,but on the dry lane?
-Dialogue: 0,0:13:25.31,0:13:26.54,CHN,,0,0,0,,
+Dialogue: 0,0:13:21.66,0:13:26.54,CHN,,0,0,0,,您可以演示下在干的球道上用您平时的方式出球吗？
 Dialogue: 0,0:13:27.64,0:13:28.86,ENG,,0,0,0,,I know it's crazy.
-Dialogue: 0,0:13:27.64,0:13:28.86,CHN,,0,0,0,,
+Dialogue: 0,0:13:27.64,0:13:28.86,CHN,,0,0,0,,我知道这想法有点疯狂
 Dialogue: 0,0:13:28.86,0:13:30.61,ENG,,0,0,0,,I just want to see what like a normal shot
-Dialogue: 0,0:13:28.86,0:13:30.61,CHN,,0,0,0,,
+Dialogue: 0,0:13:28.86,0:13:30.61,CHN,,0,0,0,,我只是想知道  如果球道没有油的话
 Dialogue: 0,0:13:30.61,0:13:32.68,ENG,,0,0,0,,{\an1}would look like if there was no oil.
-Dialogue: 0,0:13:30.61,0:13:32.68,CHN,,0,0,0,,
-Dialogue: 0,0:13:32.08,0:13:32.68,ENG,,0,0,0,,- No oil.
-Dialogue: 0,0:13:32.08,0:13:32.68,CHN,,0,0,0,,
-Dialogue: 0,0:13:32.68,0:13:34.66,ENG,,0,0,0,,It's gonna hit the lane and go in the left gutter.
-Dialogue: 0,0:13:32.68,0:13:34.66,CHN,,0,0,0,,
-Dialogue: 0,0:13:34.66,0:13:35.49,ENG,,0,0,0,,- That's what I want to see.
-Dialogue: 0,0:13:34.66,0:13:35.49,CHN,,0,0,0,,
-Dialogue: 0,0:13:35.49,0:13:35.94,ENG,,0,0,0,,- All right.
-Dialogue: 0,0:13:35.49,0:13:35.94,CHN,,0,0,0,,
-Dialogue: 0,0:13:35.94,0:13:38.03,ENG,,0,0,0,,You're gonna throw it just like it's a regular lane.
-Dialogue: 0,0:13:35.94,0:13:38.03,CHN,,0,0,0,,
-Dialogue: 0,0:13:38.03,0:13:38.55,ENG,,0,0,0,,- Yeah.
-Dialogue: 0,0:13:38.03,0:13:38.55,CHN,,0,0,0,,
-Dialogue: 0,0:13:38.55,0:13:39.23,ENG,,0,0,0,,- All right.
-Dialogue: 0,0:13:38.55,0:13:39.23,CHN,,0,0,0,,
-Dialogue: 0,0:13:47.30,0:13:50.79,ENG,,0,0,0,,- Oh yeah, there's no oil on the lane so the ball can't get down.
-Dialogue: 0,0:13:47.30,0:13:50.79,CHN,,0,0,0,,
-Dialogue: 0,0:13:50.79,0:13:53.35,ENG,,0,0,0,,As soon as it hits the lane, it's going to start hooking,
-Dialogue: 0,0:13:50.79,0:13:53.35,CHN,,0,0,0,,
-Dialogue: 0,0:13:53.35,0:13:56.39,ENG,,0,0,0,,y'know, 'cause if you do this, who's skidding a ball on this.
-Dialogue: 0,0:13:53.35,0:13:56.39,CHN,,0,0,0,,
-Dialogue: 0,0:13:57.38,0:13:58.82,ENG,,0,0,0,,- So they want the oil.
-Dialogue: 0,0:13:57.38,0:13:58.82,CHN,,0,0,0,,
-Dialogue: 0,0:13:58.82,0:14:00.06,ENG,,0,0,0,,- Yeah. We need the oil.
-Dialogue: 0,0:13:58.82,0:14:00.06,CHN,,0,0,0,,
-Dialogue: 0,0:14:00.90,0:14:03.02,ENG,,0,0,0,,If we didn't have oil, this is what it would be.
-Dialogue: 0,0:14:00.90,0:14:03.02,CHN,,0,0,0,,
-Dialogue: 0,0:14:03.02,0:14:04.68,ENG,,0,0,0,,And nobody would have fun.
-Dialogue: 0,0:14:03.02,0:14:04.68,CHN,,0,0,0,,
-Dialogue: 0,0:14:05.90,0:14:07.62,ENG,,0,0,0,,This is not fun. - The bowling sucks,
-Dialogue: 0,0:14:05.90,0:14:07.62,CHN,,0,0,0,,
-Dialogue: 0,0:14:07.62,0:14:09.06,ENG,,0,0,0,,We don't want to do this.
-Dialogue: 0,0:14:07.62,0:14:09.06,CHN,,0,0,0,,
-Dialogue: 0,0:14:09.99,0:14:13.90,ENG,,0,0,0,,- For pro bowlers, the oil on the lane is a key part of the game.
-Dialogue: 0,0:14:09.99,0:14:13.90,CHN,,0,0,0,,
-Dialogue: 0,0:14:14.96,0:14:15.79,ENG,,0,0,0,,- Oh whoa.
-Dialogue: 0,0:14:14.96,0:14:15.79,CHN,,0,0,0,,
-Dialogue: 0,0:14:16.88,0:14:18.07,ENG,,0,0,0,,- Wow. Hey.
-Dialogue: 0,0:14:16.88,0:14:18.07,CHN,,0,0,0,,
+Dialogue: 0,0:13:30.61,0:13:32.68,CHN,,0,0,0,,{\an1}正常地出球会有什么结果
+Dialogue: 0,0:13:32.08,0:13:32.68,ENG,,0,0,0,,- No oil
+Dialogue: 0,0:13:32.08,0:13:32.68,CHN,,0,0,0,,- 没有油
+Dialogue: 0,0:13:32.68,0:13:34.66,ENG,,0,0,0,,It's gonna hit the lane and go in the left gutter
+Dialogue: 0,0:13:32.08,0:13:34.66,CHN,,0,0,0,,- 球就会直接与球道接触并向左边沟走
+Dialogue: 0,0:13:34.66,0:13:35.49,ENG,,0,0,0,,- That's what I want to see
+Dialogue: 0,0:13:34.66,0:13:35.49,CHN,,0,0,0,,- 我就想看这个
+Dialogue: 0,0:13:35.49,0:13:35.94,ENG,,0,0,0,,- All right
+Dialogue: 0,0:13:35.49,0:13:35.94,CHN,,0,0,0,,- 好吧
+Dialogue: 0,0:13:35.94,0:13:38.03,ENG,,0,0,0,,You're gonna throw it just like it's a regular lane
+Dialogue: 0,0:13:35.94,0:13:38.03,CHN,,0,0,0,,你要像在正常球道那样出球
+Dialogue: 0,0:13:38.03,0:13:38.55,ENG,,0,0,0,,- Yeah
+Dialogue: 0,0:13:38.03,0:13:38.55,CHN,,0,0,0,,- 好的
+Dialogue: 0,0:13:38.55,0:13:39.23,ENG,,0,0,0,,- All right
+Dialogue: 0,0:13:38.55,0:13:39.23,CHN,,0,0,0,,- 好的
+Dialogue: 0,0:13:47.30,0:13:50.79,ENG,,0,0,0,,- Oh yeah, there's no oil on the lane so the ball can't get down
+Dialogue: 0,0:13:47.30,0:13:50.79,CHN,,0,0,0,,- 看，道上没有油所以球不能一直走下去
+Dialogue: 0,0:13:50.79,0:13:53.35,ENG,,0,0,0,,As soon as it hits the lane, it's going to start hooking,you know?
+Dialogue: 0,0:13:50.79,0:13:53.35,CHN,,0,0,0,,一旦接触球道，球就开始转弯，懂了吗？
+Dialogue: 0,0:13:53.35,0:13:56.39,ENG,,0,0,0,,'Cause if you do this, who's skidding a ball on this
+Dialogue: 0,0:13:53.35,0:13:56.39,CHN,,0,0,0,,你这样做，球有什么可能在这种道上滑动呢？¯\_(ツ)_/¯
+Dialogue: 0,0:13:57.38,0:13:58.82,ENG,,0,0,0,,- So they want the oil
+Dialogue: 0,0:13:57.38,0:13:58.82,CHN,,0,0,0,,- 所以就需要有油
+Dialogue: 0,0:13:58.82,0:14:00.06,ENG,,0,0,0,,- Yeah. We need the oil
+Dialogue: 0,0:13:58.82,0:14:00.06,CHN,,0,0,0,,- 是啊，油可不能少
+Dialogue: 0,0:14:00.90,0:14:03.02,ENG,,0,0,0,,If we didn't have oil, this is what it would be
+Dialogue: 0,0:14:00.90,0:14:03.02,CHN,,0,0,0,,如果我们没上油，玩起来就会是这个样子
+Dialogue: 0,0:14:03.02,0:14:04.68,ENG,,0,0,0,,And nobody would have fun
+Dialogue: 0,0:14:03.02,0:14:04.68,CHN,,0,0,0,,玩个鬼咯 ¯\_(ツ)_/¯
+Dialogue: 0,0:14:05.90,0:14:07.62,ENG,,0,0,0,,This is not fun. - The bowling sucks
+Dialogue: 0,0:14:05.90,0:14:07.62,CHN,,0,0,0,,这不好玩。 - 那就很没趣了
+Dialogue: 0,0:14:07.62,0:14:09.06,ENG,,0,0,0,,We don't want to do this
+Dialogue: 0,0:14:07.62,0:14:09.06,CHN,,0,0,0,,我们不想这么玩
+Dialogue: 0,0:14:09.99,0:14:13.90,ENG,,0,0,0,,- For pro bowlers, the oil on the lane is a key part of the game
+Dialogue: 0,0:14:09.99,0:14:13.90,CHN,,0,0,0,,- 对专业球手来说  球道上的油是游戏的关键部分
+Dialogue: 0,0:14:14.96,0:14:15.79,ENG,,0,0,0,,- Oh whoa
+Dialogue: 0,0:14:14.96,0:14:15.79,CHN,,0,0,0,,- 哇噢
+Dialogue: 0,0:14:16.88,0:14:18.07,ENG,,0,0,0,,- Wow. Hey
+Dialogue: 0,0:14:16.88,0:14:18.07,CHN,,0,0,0,, 哇噢，棒诶
 Dialogue: 0,0:14:18.07,0:14:20.16,ENG,,0,0,0,,- Do you look at the oil?
-Dialogue: 0,0:14:18.07,0:14:20.16,CHN,,0,0,0,,
+Dialogue: 0,0:14:18.07,0:14:20.16,CHN,,0,0,0,,- 您会去直接看那些油吗？
 Dialogue: 0,0:14:20.16,0:14:21.97,ENG,,0,0,0,,Are you trying to scope it out
-Dialogue: 0,0:14:20.16,0:14:21.97,CHN,,0,0,0,,
+Dialogue: 0,0:14:20.16,0:14:21.97,CHN,,0,0,0,,您会去尝试去仔细看出来
 Dialogue: 0,0:14:21.97,0:14:22.91,ENG,,0,0,0,,or are you just kind of guessing?
-Dialogue: 0,0:14:21.97,0:14:22.91,CHN,,0,0,0,,
-Dialogue: 0,0:14:22.91,0:14:26.79,ENG,,0,0,0,,- I usually don't look at the oil. I let my ball be the guide.
-Dialogue: 0,0:14:22.91,0:14:26.79,CHN,,0,0,0,,
+Dialogue: 0,0:14:21.97,0:14:22.91,CHN,,0,0,0,,还是直接猜？
+Dialogue: 0,0:14:22.91,0:14:26.79,ENG,,0,0,0,,- I usually don't look at the oil. I let my ball be the guide
+Dialogue: 0,0:14:22.91,0:14:26.79,CHN,,0,0,0,,- 一般来讲我不会直接看油。球会告诉我油的情况
 Dialogue: 0,0:14:26.79,0:14:30.29,ENG,,0,0,0,,Y‘know, I know some guys that are… they get down like this
-Dialogue: 0,0:14:26.79,0:14:30.29,CHN,,0,0,0,,
+Dialogue: 0,0:14:26.79,0:14:30.29,CHN,,0,0,0,,嗯，我知道有一些人会……像这样蹲下
 Dialogue: 0,0:14:30.29,0:14:33.27,ENG,,0,0,0,,and they look in and it's like…
-Dialogue: 0,0:14:30.29,0:14:33.27,CHN,,0,0,0,,
-Dialogue: 0,0:14:33.27,0:14:37.04,ENG,,0,0,0,,they're seeing the same thing I do when I sit down, I go like that.
-Dialogue: 0,0:14:33.27,0:14:37.04,CHN,,0,0,0,,
-Dialogue: 0,0:14:37.04,0:14:39.90,ENG,,0,0,0,,Nothing. I see absolutely nothing.
-Dialogue: 0,0:14:37.04,0:14:39.90,CHN,,0,0,0,,
-Dialogue: 0,0:14:39.90,0:14:41.42,ENG,,0,0,0,,- Whether you can see it or not,
-Dialogue: 0,0:14:39.90,0:14:41.42,CHN,,0,0,0,,
+Dialogue: 0,0:14:30.29,0:14:33.27,CHN,,0,0,0,,然后他们盯着那里  然后……
+Dialogue: 0,0:14:33.27,0:14:37.04,ENG,,0,0,0,,they're seeing the same thing I do when I sit down, I go like that
+Dialogue: 0,0:14:33.27,0:14:37.04,CHN,,0,0,0,,他们看到的就跟我坐下来看的一样
+Dialogue: 0,0:14:37.04,0:14:39.90,ENG,,0,0,0,,Nothing. I see absolutely nothing
+Dialogue: 0,0:14:37.04,0:14:39.90,CHN,,0,0,0,,什么都没有。我看不出任何东西
+Dialogue: 0,0:14:39.90,0:14:41.42,ENG,,0,0,0,,- Whether you can see it or not
+Dialogue: 0,0:14:39.90,0:14:41.42,CHN,,0,0,0,,- 无论你看不看得到
 Dialogue: 0,0:14:41.42,0:14:43.18,ENG,,0,0,0,,figuring out the condition of oil on the lane
-Dialogue: 0,0:14:41.42,0:14:43.18,CHN,,0,0,0,,
-Dialogue: 0,0:14:43.18,0:14:45.88,ENG,,0,0,0,,can make the difference between a strike and a miss.
-Dialogue: 0,0:14:43.18,0:14:45.88,CHN,,0,0,0,,
-Dialogue: 0,0:14:48.96,0:14:52.53,ENG,,0,0,0,,As the game wears on the bowling balls move the oil around,
-Dialogue: 0,0:14:48.96,0:14:52.53,CHN,,0,0,0,,
-Dialogue: 0,0:14:52.53,0:14:56.54,ENG,,0,0,0,,pushing it further down the lane and stripping it off the most common paths.
-Dialogue: 0,0:14:52.53,0:14:56.54,CHN,,0,0,0,,
-Dialogue: 0,0:14:58.41,0:15:01.55,ENG,,0,0,0,,So players have to adjust to the changing conditions.
-Dialogue: 0,0:14:58.41,0:15:01.55,CHN,,0,0,0,,
+Dialogue: 0,0:14:43.18,0:14:45.88,ENG,,0,0,0,,can make the difference between a strike and a miss
+Dialogue: 0,0:14:41.42,0:14:45.88,CHN,,0,0,0,,对球道上油的分布有多了解  会决定你是全中还是失误
+Dialogue: 0,0:14:48.96,0:14:52.53,ENG,,0,0,0,,As the game wears on the bowling balls move the oil around
+Dialogue: 0,0:14:48.96,0:14:52.53,CHN,,0,0,0,,随着比赛的进行  保龄球会将油到处抹
+Dialogue: 0,0:14:52.53,0:14:56.54,ENG,,0,0,0,,pushing it further down the lane and stripping it off the most common paths
+Dialogue: 0,0:14:52.53,0:14:56.54,CHN,,0,0,0,,将其推向球道的更远处  并最终把那些在球最经常走的路线上的油刮掉
+Dialogue: 0,0:14:58.41,0:15:01.55,ENG,,0,0,0,,So players have to adjust to the changing conditions
+Dialogue: 0,0:14:58.41,0:15:01.55,CHN,,0,0,0,,所以玩家们就得根据实际情况做出调整
 Dialogue: 0,0:15:01.55,0:15:03.74,ENG,,0,0,0,,Some people say left-handers have an advantage
-Dialogue: 0,0:15:01.55,0:15:03.74,CHN,,0,0,0,,
+Dialogue: 0,0:15:01.55,0:15:03.74,CHN,,0,0,0,,有些人认为左撇子玩这个更有优势
 Dialogue: 0,0:15:03.74,0:15:05.93,ENG,,0,0,0,,because right-handers aren't playing
-Dialogue: 0,0:15:03.74,0:15:05.93,CHN,,0,0,0,,
-Dialogue: 0,0:15:05.93,0:15:07.96,ENG,,0,0,0,,on their side of the lane.
-Dialogue: 0,0:15:05.93,0:15:07.96,CHN,,0,0,0,,
-Dialogue: 0,0:15:07.96,0:15:09.03,ENG,,0,0,0,,At most bowling alleys,
-Dialogue: 0,0:15:07.96,0:15:09.03,CHN,,0,0,0,,
+Dialogue: 0,0:15:05.93,0:15:07.96,ENG,,0,0,0,,on their side of the lane
+Dialogue: 0,0:15:03.74,0:15:07.96,CHN,,0,0,0,,因为右撇子并不在他们道上惯用手的那一侧出球
+Dialogue: 0,0:15:07.96,0:15:09.03,ENG,,0,0,0,,At most bowling alleys
+Dialogue: 0,0:15:07.96,0:15:09.03,CHN,,0,0,0,,在大部分球道上
 Dialogue: 0,0:15:09.03,0:15:11.64,ENG,,0,0,0,,they use a pattern of oil that is thicker in the middle
-Dialogue: 0,0:15:09.03,0:15:11.64,CHN,,0,0,0,,
-Dialogue: 0,0:15:11.64,0:15:13.93,ENG,,0,0,0,,and thinner out toward the edges.
-Dialogue: 0,0:15:11.64,0:15:13.93,CHN,,0,0,0,,
+Dialogue: 0,0:15:11.64,0:15:13.93,ENG,,0,0,0,,and thinner out toward the edges
+Dialogue: 0,0:15:07.96,0:15:13.93,CHN,,0,0,0,,油都是中间比较厚  越往边走油越薄
 Dialogue: 0,0:15:13.93,0:15:15.71,ENG,,0,0,0,,This is a forgiving layout
-Dialogue: 0,0:15:13.93,0:15:15.71,CHN,,0,0,0,,
-Dialogue: 0,0:15:15.71,0:15:19.55,ENG,,0,0,0,,because balls that drift too far out start to hook earlier,
-Dialogue: 0,0:15:15.71,0:15:19.55,CHN,,0,0,0,,
+Dialogue: 0,0:15:13.93,0:15:15.71,ENG,,0,0,0,,这是一种有容错性的布局
+Dialogue: 0,0:15:15.71,0:15:19.55,ENG,,0,0,0,,because balls that drift too far out start to hook earlier
+Dialogue: 0,0:15:15.71,0:15:19.55,CHN,,0,0,0,,因为球越离中间越远就会越早转弯
 Dialogue: 0,0:15:19.55,0:15:22.72,ENG,,0,0,0,,while balls going straighter can continue down the lane for longer
-Dialogue: 0,0:15:19.55,0:15:22.72,CHN,,0,0,0,,
-Dialogue: 0,0:15:22.72,0:15:25.54,ENG,,0,0,0,,before making their turn into the pins.
-Dialogue: 0,0:15:22.72,0:15:25.54,CHN,,0,0,0,,
+Dialogue: 0,0:15:22.72,0:15:25.54,ENG,,0,0,0,,before making their turn into the pins
+Dialogue: 0,0:15:19.55,0:15:25.54,CHN,,0,0,0,,而球的路线比较直的话  则会走得再远一点才转向球瓶
 Dialogue: 0,0:15:25.54,0:15:28.20,ENG,,0,0,0,,But for pro bowlers, the oil conditions vary
-Dialogue: 0,0:15:25.54,0:15:28.20,CHN,,0,0,0,,
-Dialogue: 0,0:15:28.20,0:15:31.00,ENG,,0,0,0,,and players have to adjust their games to the conditions.
-Dialogue: 0,0:15:28.20,0:15:31.00,CHN,,0,0,0,,
+Dialogue: 0,0:15:25.54,0:15:28.20,CHN,,0,0,0,,但对于专业球手来讲  油的情况一直在变化
+Dialogue: 0,0:15:28.20,0:15:31.00,ENG,,0,0,0,,and players have to adjust their games to the conditions
+Dialogue: 0,0:15:28.20,0:15:31.00,CHN,,0,0,0,,球手需要根据比赛的实际情况来进行调整
 Dialogue: 0,0:15:31.00,0:15:32.19,ENG,,0,0,0,,Some people seem to think that like
-Dialogue: 0,0:15:31.00,0:15:32.19,CHN,,0,0,0,,
-Dialogue: 0,0:15:32.19,0:15:34.38,ENG,,0,0,0,,league bowlers are better than they are, maybe,
-Dialogue: 0,0:15:32.19,0:15:34.38,CHN,,0,0,0,,
-Dialogue: 0,0:15:34.38,0:15:35.73,ENG,,0,0,0,,'cause they say like, "Oh, this league bowler
-Dialogue: 0,0:15:34.38,0:15:35.73,CHN,,0,0,0,,
-Dialogue: 0,0:15:35.73,0:15:38.69,ENG,,0,0,0,,can shoot two 10, and I just saw pro shoot two 10."
-Dialogue: 0,0:15:35.73,0:15:38.69,CHN,,0,0,0,,
+Dialogue: 0,0:15:32.19,0:15:34.38,ENG,,0,0,0,,league bowlers are better than they are, maybe
+Dialogue: 0,0:15:31.00,0:15:34.38,CHN,,0,0,0,,可能在一些人看来  联赛球手比他们玩得好
+Dialogue: 0,0:15:34.38,0:15:36.70,ENG,,0,0,0,,'cause they say like, "Oh, this league bowler can shoot two 10,
+Dialogue: 0,0:15:34.38,0:15:36.70,CHN,,0,0,0,,他们可能会说，“噢这个联赛球手能连续打两个满分
+Dialogue: 0,0:15:36.70,0:15:38.69,ENG,,0,0,0,,and I just saw pro shoot two 10"
+Dialogue: 0,0:15:36.70,0:15:38.69,CHN,,0,0,0,,我只看到过专业的能连续打两个满分”
 Dialogue: 0,0:15:38.69,0:15:39.96,ENG,,0,0,0,,- That's why they call it league
-Dialogue: 0,0:15:38.69,0:15:39.96,CHN,,0,0,0,,
-Dialogue: 0,0:15:39.96,0:15:42.20,ENG,,0,0,0,,because you bowl on the same shot every week.
-Dialogue: 0,0:15:39.96,0:15:42.20,CHN,,0,0,0,,
-Dialogue: 0,0:15:42.20,0:15:43.57,ENG,,0,0,0,,Because each week on tour,
-Dialogue: 0,0:15:42.20,0:15:43.57,CHN,,0,0,0,,
-Dialogue: 0,0:15:43.57,0:15:45.34,ENG,,0,0,0,,I'm bowling on a different condition.
-Dialogue: 0,0:15:43.57,0:15:45.34,CHN,,0,0,0,,
-Dialogue: 0,0:15:45.34,0:15:47.19,ENG,,0,0,0,,Not the same condition every week.
-Dialogue: 0,0:15:45.34,0:15:47.19,CHN,,0,0,0,,
-Dialogue: 0,0:15:47.19,0:15:51.24,ENG,,0,0,0,,We have Cheetah, Chameleon, Scorpion, shark,
-Dialogue: 0,0:15:47.19,0:15:51.24,CHN,,0,0,0,,
+Dialogue: 0,0:15:38.69,0:15:39.96,CHN,,0,0,0,,- 这就是为什么他们称这个为联赛
+Dialogue: 0,0:15:39.96,0:15:42.20,ENG,,0,0,0,,because you bowl on the same shot every week
+Dialogue: 0,0:15:39.96,0:15:42.20,CHN,,0,0,0,,因为你每个星期都用不变的方式出球
+Dialogue: 0,0:15:42.20,0:15:43.57,ENG,,0,0,0,,Because each week on tour
+Dialogue: 0,0:15:43.57,0:15:45.34,ENG,,0,0,0,,I'm bowling on a different condition
+Dialogue: 0,0:15:42.20,0:15:45.34,CHN,,0,0,0,,因为在锦标赛里  我每个星期打球的条件都不一样
+Dialogue: 0,0:15:45.34,0:15:47.19,ENG,,0,0,0,,Not the same condition every week
+Dialogue: 0,0:15:45.34,0:15:47.19,CHN,,0,0,0,,不是每一个星期的情况都一样的
+Dialogue: 0,0:15:47.19,0:15:51.24,ENG,,0,0,0,,We have Cheetah, Chameleon, Scorpion, shark
+Dialogue: 0,0:15:47.19,0:15:51.24,CHN,,0,0,0,,油的厚度分布有分豹型 蜥蜴型 蝎型 鲨型
 Dialogue: 0,0:15:51.24,0:15:52.75,ENG,,0,0,0,,one more. - Bear?
-Dialogue: 0,0:15:51.24,0:15:52.75,CHN,,0,0,0,,
-Dialogue: 0,0:15:52.75,0:15:53.90,ENG,,0,0,0,,- Bear. Yeah.
-Dialogue: 0,0:15:52.75,0:15:53.90,CHN,,0,0,0,,
+Dialogue: 0,0:15:51.24,0:15:52.75,CHN,,0,0,0,,还有一个 - 熊型？
+Dialogue: 0,0:15:52.75,0:15:53.90,ENG,,0,0,0,,- Bear. Yeah
+Dialogue: 0,0:15:52.75,0:15:53.90,CHN,,0,0,0,,对，熊型
 Dialogue: 0,0:15:53.90,0:15:55.89,ENG,,0,0,0,,- [Derek] But it's not just the oil on the lanes
 Dialogue: 0,0:15:53.90,0:15:55.89,CHN,,0,0,0,,但是改变保龄球运动的
 Dialogue: 0,0:15:55.89,0:15:57.99,ENG,,0,0,0,,that is transformed bowling.
@@ -1145,9 +1131,8 @@ Dialogue: 0,0:26:41.62,0:26:43.67,CHN,,0,0,0,,是粗糙还是光滑
 Dialogue: 0,0:26:43.67,0:26:47.08,ENG,,0,0,0,,all to make a shot that skids, hooks, and rolls
 Dialogue: 0,0:26:43.67,0:26:47.08,CHN,,0,0,0,,只为了能够扔出一球  经过滑行、转弯、滚动
 Dialogue: 0,0:26:47.08,0:26:50.24,ENG,,0,0,0,,to the pins between boards 17 and 18 and a half
-Dialogue: 0,0:26:47.08,0:26:50.24,CHN,,0,0,0,,
 Dialogue: 0,0:26:50.24,0:26:53.22,ENG,,0,0,0,,at as close to a six degree angle as you can master.
-Dialogue: 0,0:26:50.24,0:26:53.22,CHN,,0,0,0,,尽量以6°的入射角  打到17号+半条18号板上的球瓶
+Dialogue: 0,0:26:47.08,0:26:53.22,CHN,,0,0,0,,尽量以6°的入射角  打到17号+半条18号板上的球瓶
 Dialogue: 0,0:26:55.72,0:26:57.96,ENG,,0,0,0,,Now do that again 12 times in a row
 Dialogue: 0,0:26:55.72,0:26:57.96,CHN,,0,0,0,,丢出12次完美球
 Dialogue: 0,0:26:57.96,0:27:00.47,ENG,,0,0,0,,and you have a perfect game.
