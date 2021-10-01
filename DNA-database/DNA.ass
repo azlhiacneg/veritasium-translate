@@ -422,129 +422,129 @@ Dialogue: 0,0:08:52.81,0:08:54.32,CHN,,0,0,0,,
 Dialogue: 0,0:08:54.32,0:08:56.93,ENG,,0,0,0,,how related you are to someone else.
 Dialogue: 0,0:08:54.32,0:08:56.93,CHN,,0,0,0,,
 Dialogue: 0,0:08:56.93,0:08:58.78,ENG,,0,0,0,,The genetics of having a kid
-Dialogue: 0,0:08:56.93,0:08:58.78,CHN,,0,0,0,,
+Dialogue: 0,0:08:56.93,0:08:58.78,CHN,,0,0,0,,产生后代的遗传学过程
 Dialogue: 0,0:08:58.78,0:09:02.34,ENG,,0,0,0,,are a bit like cutting two decks of cards together.
-Dialogue: 0,0:08:58.78,0:09:02.34,CHN,,0,0,0,,
+Dialogue: 0,0:08:58.78,0:09:02.34,CHN,,0,0,0,,有点像把两沓扑克牌切在一起
 Dialogue: 0,0:09:02.34,0:09:04.23,ENG,,0,0,0,,The resulting deck will share
-Dialogue: 0,0:09:02.34,0:09:04.23,CHN,,0,0,0,,
+Dialogue: 0,0:09:02.34,0:09:04.23,CHN,,0,0,0,,由此得到的后代
 Dialogue: 0,0:09:04.23,0:09:07.01,ENG,,0,0,0,,about half its cards with each parent
-Dialogue: 0,0:09:04.23,0:09:07.01,CHN,,0,0,0,,
+Dialogue: 0,0:09:04.23,0:09:07.01,CHN,,0,0,0,,与最初的两沓分别共享一半的卡牌
 Dialogue: 0,0:09:07.01,0:09:10.37,ENG,,0,0,0,,and there'll be long sequences of cards
-Dialogue: 0,0:09:07.01,0:09:10.37,CHN,,0,0,0,,
+Dialogue: 0,0:09:07.01,0:09:10.37,CHN,,0,0,0,,于是新牌堆中会有
 Dialogue: 0,0:09:10.37,0:09:15.15,ENG,,0,0,0,,which match identically sequences in each parent.
-Dialogue: 0,0:09:10.37,0:09:15.15,CHN,,0,0,0,,
+Dialogue: 0,0:09:10.37,0:09:15.15,CHN,,0,0,0,,与父母一方完全相同的序列
 Dialogue: 0,0:09:15.15,0:09:20.15,ENG,,0,0,0,,Now, if this deck has a kid, well then its offspring
-Dialogue: 0,0:09:15.15,0:09:20.15,CHN,,0,0,0,,
+Dialogue: 0,0:09:15.15,0:09:20.15,CHN,,0,0,0,,现在如果这堆牌有一个孩子 这个孩子会有
 Dialogue: 0,0:09:20.28,0:09:23.42,ENG,,0,0,0,,will share only about a quarter of its cards
-Dialogue: 0,0:09:20.28,0:09:23.42,CHN,,0,0,0,,
+Dialogue: 0,0:09:20.28,0:09:23.42,CHN,,0,0,0,,大约四分之一的卡牌分别来自（外）祖父（母）中的一个
 Dialogue: 0,0:09:23.42,0:09:27.95,ENG,,0,0,0,,with each grandparent and the sections of identical cards
-Dialogue: 0,0:09:23.42,0:09:27.95,CHN,,0,0,0,,
+Dialogue: 0,0:09:23.42,0:09:27.95,CHN,,0,0,0,,而相同卡牌组成的部分将会变得更短
 Dialogue: 0,0:09:27.95,0:09:31.91,ENG,,0,0,0,,will be shorter, and this is how it works with DNA.
-Dialogue: 0,0:09:27.95,0:09:31.91,CHN,,0,0,0,,
+Dialogue: 0,0:09:27.95,0:09:31.91,CHN,,0,0,0,,这些规则也对DNA适用
 Dialogue: 0,0:09:31.91,0:09:33.94,ENG,,0,0,0,,The more closely you're related to someone,
-Dialogue: 0,0:09:31.91,0:09:33.94,CHN,,0,0,0,,
+Dialogue: 0,0:09:31.91,0:09:33.94,CHN,,0,0,0,,你与某人的血缘关系越近
 Dialogue: 0,0:09:33.94,0:09:36.28,ENG,,0,0,0,,the more DNA you share and the longer
-Dialogue: 0,0:09:33.94,0:09:36.28,CHN,,0,0,0,,
+Dialogue: 0,0:09:33.94,0:09:36.28,CHN,,0,0,0,,你们共有的DNA就越多
 Dialogue: 0,0:09:36.28,0:09:38.70,ENG,,0,0,0,,the blocks of identical DNA are.
-Dialogue: 0,0:09:36.28,0:09:38.70,CHN,,0,0,0,,
+Dialogue: 0,0:09:36.28,0:09:38.70,CHN,,0,0,0,,相同的 DNA 片段越长
 Dialogue: 0,0:09:38.70,0:09:41.18,ENG,,0,0,0,,But to compare the DNA of two people,
-Dialogue: 0,0:09:38.70,0:09:41.18,CHN,,0,0,0,,
+Dialogue: 0,0:09:38.70,0:09:41.18,CHN,,0,0,0,,但是要比较两个人的DNA
 Dialogue: 0,0:09:41.18,0:09:43.60,ENG,,0,0,0,,you don't need to read every letter.
-Dialogue: 0,0:09:41.18,0:09:43.60,CHN,,0,0,0,,
+Dialogue: 0,0:09:41.18,0:09:43.60,CHN,,0,0,0,,你不必遍历每一个碱基
 Dialogue: 0,0:09:43.60,0:09:45.70,ENG,,0,0,0,,The snips are sprinkled throughout the DNA
-Dialogue: 0,0:09:43.60,0:09:45.70,CHN,,0,0,0,,
+Dialogue: 0,0:09:43.60,0:09:45.70,CHN,,0,0,0,,SNP 在 DNA 中散布
 Dialogue: 0,0:09:45.70,0:09:48.12,ENG,,0,0,0,,roughly every 2000 bases.
-Dialogue: 0,0:09:45.70,0:09:48.12,CHN,,0,0,0,,
+Dialogue: 0,0:09:45.70,0:09:48.12,CHN,,0,0,0,,大约每 2000 个碱基出现一次
 Dialogue: 0,0:09:48.12,0:09:51.42,ENG,,0,0,0,,So if you find long sections where the snips match up,
-Dialogue: 0,0:09:48.12,0:09:51.42,CHN,,0,0,0,,
+Dialogue: 0,0:09:48.12,0:09:51.42,CHN,,0,0,0,,所以如果你发现 SNP 在一个长片段里对得上
 Dialogue: 0,0:09:51.42,0:09:55.46,ENG,,0,0,0,,you can bet that the DNA in between is identical too
-Dialogue: 0,0:09:51.42,0:09:55.46,CHN,,0,0,0,,
+Dialogue: 0,0:09:51.42,0:09:55.46,CHN,,0,0,0,,就可以认为两段 DNA 也完全相同
 Dialogue: 0,0:09:55.46,0:09:58.93,ENG,,0,0,0,,by comparing hundreds of thousands of snips sprinkled
-Dialogue: 0,0:09:55.46,0:09:58.93,CHN,,0,0,0,,
+Dialogue: 0,0:09:55.46,0:09:58.93,CHN,,0,0,0,,通过比较成百上千
 Dialogue: 0,0:09:58.93,0:10:00.11,ENG,,0,0,0,,throughout the DNA,
-Dialogue: 0,0:09:58.93,0:10:00.11,CHN,,0,0,0,,
+Dialogue: 0,0:09:58.93,0:10:00.11,CHN,,0,0,0,,散布在 DNA 中的 SNP
 Dialogue: 0,0:10:00.11,0:10:03.74,ENG,,0,0,0,,you can see where these identical blocks start and stop
-Dialogue: 0,0:10:00.11,0:10:03.74,CHN,,0,0,0,,
+Dialogue: 0,0:10:00.11,0:10:03.74,CHN,,0,0,0,,你可以找到相同片段的起止点
 Dialogue: 0,0:10:03.74,0:10:06.64,ENG,,0,0,0,,and so how much total DNA is shared.
-Dialogue: 0,0:10:03.74,0:10:06.64,CHN,,0,0,0,,
+Dialogue: 0,0:10:03.74,0:10:06.64,CHN,,0,0,0,,从而得知由多少 DNA 是共有的
 Dialogue: 0,0:10:07.80,0:10:10.86,ENG,,0,0,0,,- Everywhere that is highlighted in blue
-Dialogue: 0,0:10:07.80,0:10:10.86,CHN,,0,0,0,,
+Dialogue: 0,0:10:07.80,0:10:10.86,CHN,,0,0,0,,- 随处可见用蓝色标出的就是
 Dialogue: 0,0:10:10.86,0:10:13.36,ENG,,0,0,0,,is where I share DNA.
-Dialogue: 0,0:10:10.86,0:10:13.36,CHN,,0,0,0,,
+Dialogue: 0,0:10:10.86,0:10:13.36,CHN,,0,0,0,,我共有的 DNA
 Dialogue: 0,0:10:14.38,0:10:16.00,ENG,,0,0,0,,- With your father? - With my father
-Dialogue: 0,0:10:14.38,0:10:16.00,CHN,,0,0,0,,
+Dialogue: 0,0:10:14.38,0:10:16.00,CHN,,0,0,0,,- 和你的父亲 - 和我的父亲
 Dialogue: 0,0:10:16.00,0:10:17.74,ENG,,0,0,0,,which is exactly what you expect
-Dialogue: 0,0:10:16.00,0:10:17.74,CHN,,0,0,0,,
+Dialogue: 0,0:10:16.00,0:10:17.74,CHN,,0,0,0,,和预期的情况一样
 Dialogue: 0,0:10:17.74,0:10:20.64,ENG,,0,0,0,,because I should share DNA with him everywhere
-Dialogue: 0,0:10:17.74,0:10:20.64,CHN,,0,0,0,,
+Dialogue: 0,0:10:17.74,0:10:20.64,CHN,,0,0,0,,我和他应该在各处都有相同的基因片段
 Dialogue: 0,0:10:20.64,0:10:24.24,ENG,,0,0,0,,because he gave me 50% of my DNA.
-Dialogue: 0,0:10:20.64,0:10:24.24,CHN,,0,0,0,,
+Dialogue: 0,0:10:20.64,0:10:24.24,CHN,,0,0,0,,因为我遗传了他一半基因
 Dialogue: 0,0:10:24.24,0:10:25.73,ENG,,0,0,0,,So this is a second to third cousin.
-Dialogue: 0,0:10:24.24,0:10:25.73,CHN,,0,0,0,,
+Dialogue: 0,0:10:24.24,0:10:25.73,CHN,,0,0,0,,这是我的从兄弟或再从兄弟
 Dialogue: 0,0:10:25.73,0:10:28.23,ENG,,0,0,0,,I have no idea who this person is.
-Dialogue: 0,0:10:25.73,0:10:28.23,CHN,,0,0,0,,
+Dialogue: 0,0:10:25.73,0:10:28.23,CHN,,0,0,0,,我不知道这个人是谁
 Dialogue: 0,0:10:28.23,0:10:29.93,ENG,,0,0,0,,And you can see here,
-Dialogue: 0,0:10:28.23,0:10:29.93,CHN,,0,0,0,,
+Dialogue: 0,0:10:28.23,0:10:29.93,CHN,,0,0,0,,你会发现
 Dialogue: 0,0:10:29.93,0:10:34.32,ENG,,0,0,0,,we are definitely not as closely related as me and my dad
-Dialogue: 0,0:10:29.93,0:10:34.32,CHN,,0,0,0,,
+Dialogue: 0,0:10:29.93,0:10:34.32,CHN,,0,0,0,,我们之间的血缘关系当然不像我和我父亲那样近
 Dialogue: 0,0:10:34.32,0:10:36.01,ENG,,0,0,0,,because where the blue is,
-Dialogue: 0,0:10:34.32,0:10:36.01,CHN,,0,0,0,,
+Dialogue: 0,0:10:34.32,0:10:36.01,CHN,,0,0,0,,因为这些蓝色区域
 Dialogue: 0,0:10:36.01,0:10:38.20,ENG,,0,0,0,,those are the only regions of the chromosome
-Dialogue: 0,0:10:36.01,0:10:38.20,CHN,,0,0,0,,
+Dialogue: 0,0:10:36.01,0:10:38.20,CHN,,0,0,0,,我们仅在这些染色体区域
 Dialogue: 0,0:10:38.20,0:10:39.72,ENG,,0,0,0,,where we share DNA.
-Dialogue: 0,0:10:38.20,0:10:39.72,CHN,,0,0,0,,
+Dialogue: 0,0:10:38.20,0:10:39.72,CHN,,0,0,0,,有相同的基因
 Dialogue: 0,0:10:40.63,0:10:42.84,ENG,,0,0,0,,- We all know that these genetic tests
-Dialogue: 0,0:10:40.63,0:10:42.84,CHN,,0,0,0,,
+Dialogue: 0,0:10:40.63,0:10:42.84,CHN,,0,0,0,,我们都知道这些遗传学检测
 Dialogue: 0,0:10:42.84,0:10:46.10,ENG,,0,0,0,,can help identify our relatives but the question is,
-Dialogue: 0,0:10:42.84,0:10:46.10,CHN,,0,0,0,,
+Dialogue: 0,0:10:42.84,0:10:46.10,CHN,,0,0,0,,可以帮助我们找到亲属 但问题是
 Dialogue: 0,0:10:46.10,0:10:50.00,ENG,,0,0,0,,can you do the same thing with law enforcement databases?
-Dialogue: 0,0:10:46.10,0:10:50.00,CHN,,0,0,0,,
+Dialogue: 0,0:10:46.10,0:10:50.00,CHN,,0,0,0,,你能用执法者的数据库做到相同的事吗
 Dialogue: 0,0:10:50.00,0:10:54.25,ENG,,0,0,0,,Can you identify family members using the CODIS database?
-Dialogue: 0,0:10:50.00,0:10:54.25,CHN,,0,0,0,,
+Dialogue: 0,0:10:50.00,0:10:54.25,CHN,,0,0,0,,您能用 CODIS 数据库辨认家庭成员吗
 Dialogue: 0,0:10:54.25,0:10:56.24,ENG,,0,0,0,,- You can and it's only limited
-Dialogue: 0,0:10:54.25,0:10:56.24,CHN,,0,0,0,,
+Dialogue: 0,0:10:54.25,0:10:56.24,CHN,,0,0,0,,能 但不完全能
 Dialogue: 0,0:10:56.24,0:10:59.38,ENG,,0,0,0,,to really first order and second order relatives.
-Dialogue: 0,0:10:56.24,0:10:59.38,CHN,,0,0,0,,
+Dialogue: 0,0:10:56.24,0:10:59.38,CHN,,0,0,0,,它只限于第一代和第二代亲属
 Dialogue: 0,0:10:59.38,0:11:02.57,ENG,,0,0,0,,- That means if I'm looking for the golden state killer,
-Dialogue: 0,0:10:59.38,0:11:02.57,CHN,,0,0,0,,
+Dialogue: 0,0:10:59.38,0:11:02.57,CHN,,0,0,0,,这意味着如果我要寻找金州杀手
 Dialogue: 0,0:11:02.57,0:11:06.67,ENG,,0,0,0,,I'm looking for either his father, his brother or his son.
-Dialogue: 0,0:11:02.57,0:11:06.67,CHN,,0,0,0,,
+Dialogue: 0,0:11:02.57,0:11:06.67,CHN,,0,0,0,,我是在找他的父亲 他的兄弟或者他的儿子
 Dialogue: 0,0:11:06.67,0:11:11.28,ENG,,0,0,0,,We did that over and over again with no hits.
-Dialogue: 0,0:11:06.67,0:11:11.28,CHN,,0,0,0,,
+Dialogue: 0,0:11:06.67,0:11:11.28,CHN,,0,0,0,,我们这样做了多次却一无所获
 Dialogue: 0,0:11:11.28,0:11:12.47,ENG,,0,0,0,,- Why is it so limited?
-Dialogue: 0,0:11:11.28,0:11:12.47,CHN,,0,0,0,,
+Dialogue: 0,0:11:11.28,0:11:12.47,CHN,,0,0,0,,- 为什么它如此受限
 Dialogue: 0,0:11:12.47,0:11:15.22,ENG,,0,0,0,,- Because you've only got 23 loci.
-Dialogue: 0,0:11:12.47,0:11:15.22,CHN,,0,0,0,,
+Dialogue: 0,0:11:12.47,0:11:15.22,CHN,,0,0,0,,- 因为你只检查23个基因位点
 Dialogue: 0,0:11:15.22,0:11:17.63,ENG,,0,0,0,,If you wanna do proper kinship analysis,
-Dialogue: 0,0:11:15.22,0:11:17.63,CHN,,0,0,0,,
+Dialogue: 0,0:11:15.22,0:11:17.63,CHN,,0,0,0,,如果你想进行更好的血缘分析
 Dialogue: 0,0:11:17.63,0:11:21.85,ENG,,0,0,0,,you need to have more points assessed on that genome
-Dialogue: 0,0:11:17.63,0:11:21.85,CHN,,0,0,0,,
+Dialogue: 0,0:11:17.63,0:11:21.85,CHN,,0,0,0,,你需要测定基因组上的更多位置
 Dialogue: 0,0:11:21.85,0:11:24.24,ENG,,0,0,0,,to see how related you really are.
-Dialogue: 0,0:11:21.85,0:11:24.24,CHN,,0,0,0,,
+Dialogue: 0,0:11:21.85,0:11:24.24,CHN,,0,0,0,,才能知道亲缘远近
 Dialogue: 0,0:11:24.24,0:11:27.19,ENG,,0,0,0,,- We know the answer is behind a locked door
-Dialogue: 0,0:11:24.24,0:11:27.19,CHN,,0,0,0,,
+Dialogue: 0,0:11:24.24,0:11:27.19,CHN,,0,0,0,,- 我们知道答案在一扇上锁的门后
 Dialogue: 0,0:11:27.19,0:11:28.73,ENG,,0,0,0,,and the answer is behind the locked door
-Dialogue: 0,0:11:27.19,0:11:28.73,CHN,,0,0,0,,
+Dialogue: 0,0:11:27.19,0:11:28.73,CHN,,0,0,0,,答案在 23andMe 和 Ancestry.com
 Dialogue: 0,0:11:28.73,0:11:31.45,ENG,,0,0,0,,of 23andMe and Ancestry.com.
-Dialogue: 0,0:11:28.73,0:11:31.45,CHN,,0,0,0,,
+Dialogue: 0,0:11:28.73,0:11:31.45,CHN,,0,0,0,,的数据库中
 Dialogue: 0,0:11:31.45,0:11:34.76,ENG,,0,0,0,,We know that they have millions of profiles.
-Dialogue: 0,0:11:31.45,0:11:34.76,CHN,,0,0,0,,
+Dialogue: 0,0:11:31.45,0:11:34.76,CHN,,0,0,0,,我们知道他们有数以百万记的个人档案
 Dialogue: 0,0:11:34.76,0:11:38.21,ENG,,0,0,0,,Somebody related to him, a second cousin I would guess,
-Dialogue: 0,0:11:34.76,0:11:38.21,CHN,,0,0,0,,
+Dialogue: 0,0:11:34.76,0:11:38.21,CHN,,0,0,0,, 某个与他有关系的人也会在其中
 Dialogue: 0,0:11:38.21,0:11:39.04,ENG,,0,0,0,,would be in there.
-Dialogue: 0,0:11:38.21,0:11:39.04,CHN,,0,0,0,,
+Dialogue: 0,0:11:38.21,0:11:39.04,CHN,,0,0,0,,我猜是他的从兄弟
 Dialogue: 0,0:11:39.04,0:11:40.14,ENG,,0,0,0,,- Sure.
-Dialogue: 0,0:11:39.04,0:11:40.14,CHN,,0,0,0,,
+Dialogue: 0,0:11:39.04,0:11:40.14,CHN,,0,0,0,,- 当然
 Dialogue: 0,0:11:40.14,0:11:43.14,ENG,,0,0,0,,- And that was very hard to deal with.
-Dialogue: 0,0:11:40.14,0:11:43.14,CHN,,0,0,0,,
+Dialogue: 0,0:11:40.14,0:11:43.14,CHN,,0,0,0,,- 这处理起来相当困难
 Dialogue: 0,0:11:43.14,0:11:47.72,ENG,,0,0,0,,You know, that the answer is there behind this locked door.
-Dialogue: 0,0:11:43.14,0:11:47.72,CHN,,0,0,0,,
+Dialogue: 0,0:11:43.14,0:11:47.72,CHN,,0,0,0,,答案就在那里 被锁在门后
 Dialogue: 0,0:11:47.72,0:11:50.14,ENG,,0,0,0,,- Law enforcement is not allowed to search
-Dialogue: 0,0:11:47.72,0:11:50.14,CHN,,0,0,0,,
+Dialogue: 0,0:11:47.72,0:11:50.14,CHN,,0,0,0,,执法者不被允许搜索
 Dialogue: 0,0:11:50.14,0:11:53.70,ENG,,0,0,0,,the databases of 23andMe and Ancestry.com
-Dialogue: 0,0:11:50.14,0:11:53.70,CHN,,0,0,0,,
+Dialogue: 0,0:11:50.14,0:11:53.70,CHN,,0,0,0,,23andMe 和 Ancestry.com 的数据库
 Dialogue: 0,0:11:53.70,0:11:57.98,ENG,,0,0,0,,but luckily for investigators, there was another way.
-Dialogue: 0,0:11:53.70,0:11:57.98,CHN,,0,0,0,,
+Dialogue: 0,0:11:53.70,0:11:57.98,CHN,,0,0,0,,但是幸运的的是 对于调查员而言 还有另一条路可走
 Dialogue: 0,0:11:57.98,0:12:01.04,ENG,,0,0,0,,An independent website called GEDmatch had been set up
 Dialogue: 0,0:11:57.98,0:12:01.04,CHN,,0,0,0,,有人建立了一个名为 GEDmatch 的独立网站
 Dialogue: 0,0:12:01.04,0:12:03.45,ENG,,0,0,0,,to allow people to connect with relatives.
