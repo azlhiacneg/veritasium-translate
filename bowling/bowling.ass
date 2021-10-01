@@ -17,239 +17,239 @@ Style: CHN,MonyharOS Sans SC Medium,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.71,0:00:08.25,ENG,,0,0,0,,This is the biggest, most in-depth video about bowling ever.
-Dialogue: 0,0:00:03.71,0:00:08.25,CHN,,0,0,0,,
+Dialogue: 0,0:00:03.71,0:00:08.25,CHN,,0,0,0,,这是有史以来关于保龄球的最大、最深入的视频
 Dialogue: 0,0:00:08.25,0:00:09.65,ENG,,0,0,0,,How bowling balls are made,
-Dialogue: 0,0:00:08.25,0:00:09.65,CHN,,0,0,0,,
+Dialogue: 0,0:00:08.25,0:00:09.65,CHN,,0,0,0,,保龄球是如何生产的
 Dialogue: 0,0:00:09.65,0:00:10.69,ENG,,0,0,0,,the best way to throw them,
-Dialogue: 0,0:00:09.65,0:00:10.69,CHN,,0,0,0,,
+Dialogue: 0,0:00:09.65,0:00:10.69,CHN,,0,0,0,,投掷保龄球的最佳方式
 Dialogue: 0,0:00:10.69,0:00:11.94,ENG,,0,0,0,,maximize strikes,
-Dialogue: 0,0:00:10.69,0:00:11.94,CHN,,0,0,0,,
+Dialogue: 0,0:00:10.69,0:00:11.94,CHN,,0,0,0,,如何尽可能全中
 Dialogue: 0,0:00:11.94,0:00:13.40,ENG,,0,0,0,,how the lanes are oiled,
-Dialogue: 0,0:00:11.94,0:00:13.40,CHN,,0,0,0,,
+Dialogue: 0,0:00:11.94,0:00:13.40,CHN,,0,0,0,,如何为球道上油
 Dialogue: 0,0:00:13.40,0:00:15.19,ENG,,0,0,0,,what it takes to be a pro
-Dialogue: 0,0:00:13.40,0:00:15.19,CHN,,0,0,0,,
+Dialogue: 0,0:00:13.40,0:00:15.19,CHN,,0,0,0,,如何成为一名职业保龄球手
 Dialogue: 0,0:00:15.19,0:00:17.97,ENG,,0,0,0,,and how this sport has continually been reinvented
-Dialogue: 0,0:00:15.19,0:00:17.97,CHN,,0,0,0,,
+Dialogue: 0,0:00:15.19,0:00:17.97,CHN,,0,0,0,,以及这项运动如何在数千年间
 Dialogue: 0,0:00:17.97,0:00:22.00,ENG,,0,0,0,,for literally thousands of years, up to the present day.
-Dialogue: 0,0:00:17.97,0:00:22.00,CHN,,0,0,0,,
+Dialogue: 0,0:00:17.97,0:00:22.00,CHN,,0,0,0,,被不断改造，直到今天
 Dialogue: 0,0:00:22.94,0:00:24.56,ENG,,0,0,0,,This is the science of bowling,
-Dialogue: 0,0:00:22.94,0:00:24.56,CHN,,0,0,0,,
+Dialogue: 0,0:00:22.94,0:00:24.56,CHN,,0,0,0,,这就是保龄球中的科学
 Dialogue: 0,0:00:24.56,0:00:29.56,ENG,,0,0,0,,the most popular participatory sport in the United States.
-Dialogue: 0,0:00:24.56,0:00:29.56,CHN,,0,0,0,,
+Dialogue: 0,0:00:24.56,0:00:29.56,CHN,,0,0,0,,美国最受欢迎的参与性运动
 Dialogue: 0,0:00:29.63,0:00:31.30,ENG,,0,0,0,,I'm super impressed with how that went.
-Dialogue: 0,0:00:29.63,0:00:31.30,CHN,,0,0,0,,
+Dialogue: 0,0:00:29.63,0:00:31.30,CHN,,0,0,0,,我对它的发展历史印象超级深刻
 Dialogue: 0,0:00:31.30,0:00:34.16,ENG,,0,0,0,,- I'm even more impressed than you are.
-Dialogue: 0,0:00:31.30,0:00:34.16,CHN,,0,0,0,,
+Dialogue: 0,0:00:31.30,0:00:34.16,CHN,,0,0,0,,- 我印象甚至比你更深刻
 Dialogue: 0,0:00:34.16,0:00:36.64,ENG,,0,0,0,,- What is inside a bowling ball?
-Dialogue: 0,0:00:34.16,0:00:36.64,CHN,,0,0,0,,
+Dialogue: 0,0:00:34.16,0:00:36.64,CHN,,0,0,0,,- 保龄球里面都有些啥
 Dialogue: 0,0:00:36.64,0:00:41.05,ENG,,0,0,0,,I sent this ball to Creative Electron to get a 3D x-ray scan
-Dialogue: 0,0:00:36.64,0:00:41.05,CHN,,0,0,0,,
+Dialogue: 0,0:00:36.64,0:00:41.05,CHN,,0,0,0,,我把这个球寄给了“Creative Electron”对它进行全方位的X光扫描
 Dialogue: 0,0:00:41.05,0:00:44.15,ENG,,0,0,0,,and this is the result.
-Dialogue: 0,0:00:41.05,0:00:44.15,CHN,,0,0,0,,
+Dialogue: 0,0:00:41.05,0:00:44.15,CHN,,0,0,0,,这就是结果
 Dialogue: 0,0:00:44.15,0:00:44.99,ENG,,0,0,0,,What is that?
-Dialogue: 0,0:00:44.15,0:00:44.99,CHN,,0,0,0,,
+Dialogue: 0,0:00:44.15,0:00:44.99,CHN,,0,0,0,,这是个啥
 Dialogue: 0,0:00:44.99,0:00:48.64,ENG,,0,0,0,,I always expected bowling balls to be, y’know, perfect solid spheres,
-Dialogue: 0,0:00:44.99,0:00:48.64,CHN,,0,0,0,,
+Dialogue: 0,0:00:44.99,0:00:48.64,CHN,,0,0,0,,我一直认为，你懂的，保龄球是完美的实心球体
 Dialogue: 0,0:00:48.64,0:00:53.45,ENG,,0,0,0,,but there's something inside here and it's not symmetric
-Dialogue: 0,0:00:48.64,0:00:53.45,CHN,,0,0,0,,
+Dialogue: 0,0:00:48.64,0:00:53.45,CHN,,0,0,0,,但是这里面有些其他的、并不对称的东西
 Dialogue: 0,0:00:53.45,0:00:56.29,ENG,,0,0,0,,and it's not even centered in the ball.
-Dialogue: 0,0:00:53.45,0:00:56.29,CHN,,0,0,0,,
+Dialogue: 0,0:00:53.45,0:00:56.29,CHN,,0,0,0,,它甚至不是在保龄球的正中间
 Dialogue: 0,0:00:56.29,0:00:57.95,ENG,,0,0,0,,So I went to Storm Bowling,
-Dialogue: 0,0:00:56.29,0:00:57.95,CHN,,0,0,0,,
+Dialogue: 0,0:00:56.29,0:00:57.95,CHN,,0,0,0,,因此，我去了趟“Storm Bowling”
 Dialogue: 0,0:00:57.95,0:01:00.42,ENG,,0,0,0,,one of only 11 bowling ball manufacturers in the world
-Dialogue: 0,0:00:57.95,0:01:00.42,CHN,,0,0,0,,
+Dialogue: 0,0:00:57.95,0:01:00.42,CHN,,0,0,0,,世界上仅有的11家保龄球生产商之一
 Dialogue: 0,0:01:00.42,0:01:03.58,ENG,,0,0,0,,to find out how bowling balls are made.
-Dialogue: 0,0:01:00.42,0:01:03.58,CHN,,0,0,0,,
+Dialogue: 0,0:01:00.42,0:01:03.58,CHN,,0,0,0,,来了解保龄球是如何制造的
 Dialogue: 0,0:01:03.58,0:01:05.55,ENG,,0,0,0,,- Yeah. Basically when we make bowling balls,
-Dialogue: 0,0:01:03.58,0:01:05.55,CHN,,0,0,0,,
+Dialogue: 0,0:01:03.58,0:01:05.55,CHN,,0,0,0,,- 确实，通常来说当我们制作保龄球时
 Dialogue: 0,0:01:05.55,0:01:07.04,ENG,,0,0,0,,we always start in the center
-Dialogue: 0,0:01:05.55,0:01:07.04,CHN,,0,0,0,,
+Dialogue: 0,0:01:05.55,0:01:07.04,CHN,,0,0,0,,我们总是从中间开始动手
 Dialogue: 0,0:01:07.04,0:01:09.80,ENG,,0,0,0,,and the center part of the bowling ball is the weight block.
-Dialogue: 0,0:01:07.04,0:01:09.80,CHN,,0,0,0,,
+Dialogue: 0,0:01:07.04,0:01:09.80,CHN,,0,0,0,,保龄球的中心部分是它的配重
 Dialogue: 0,0:01:09.80,0:01:13.36,ENG,,0,0,0,,And as you can see this is an example of an asymmetrical shaped weight block,
-Dialogue: 0,0:01:09.80,0:01:13.36,CHN,,0,0,0,,
+Dialogue: 0,0:01:09.80,0:01:13.36,CHN,,0,0,0,,如你所见，这就是个不对称的配重块
 Dialogue: 0,0:01:13.36,0:01:18.13,ENG,,0,0,0,,so it's actually a different shape about the X, the Y and the Z axis.
-Dialogue: 0,0:01:13.36,0:01:18.13,CHN,,0,0,0,,
+Dialogue: 0,0:01:13.36,0:01:18.13,CHN,,0,0,0,,它实际上是与X、Y、Z轴有关的不同形状
 Dialogue: 0,0:01:23.00,0:01:26.99,ENG,,0,0,0,,- The weight blocks are embedded in a core of lightweight glass beads.
-Dialogue: 0,0:01:23.00,0:01:26.99,CHN,,0,0,0,,
+Dialogue: 0,0:01:23.00,0:01:26.99,CHN,,0,0,0,,- 配重块被镶嵌在轻质玻璃球中
 Dialogue: 0,0:01:30.10,0:01:32.60,ENG,,0,0,0,,- That is so silky-soft.
-Dialogue: 0,0:01:30.10,0:01:32.60,CHN,,0,0,0,,
+Dialogue: 0,0:01:30.10,0:01:32.60,CHN,,0,0,0,,- 这也太丝滑了
 Dialogue: 0,0:01:32.60,0:01:35.06,ENG,,0,0,0,,I feel like I have not felt anything this soft.
-Dialogue: 0,0:01:32.60,0:01:35.06,CHN,,0,0,0,,
+Dialogue: 0,0:01:32.60,0:01:35.06,CHN,,0,0,0,,我从来没摸过比这还软的东西
 Dialogue: 0,0:01:35.92,0:01:40.47,ENG,,0,0,0,,What's the difference in density between this sort of filling material and this core?
-Dialogue: 0,0:01:35.92,0:01:40.47,CHN,,0,0,0,,
+Dialogue: 0,0:01:35.92,0:01:40.47,CHN,,0,0,0,,这个配重块材料的密度和外面球芯的密度有多大区别
 Dialogue: 0,0:01:40.47,0:01:41.31,ENG,,0,0,0,,- It's quite a bit.
-Dialogue: 0,0:01:40.47,0:01:41.31,CHN,,0,0,0,,
+Dialogue: 0,0:01:40.47,0:01:41.31,CHN,,0,0,0,,- 区别有点大
 Dialogue: 0,0:01:41.31,0:01:43.91,ENG,,0,0,0,,About two and a half to three times more dense
-Dialogue: 0,0:01:41.31,0:01:43.91,CHN,,0,0,0,,
+Dialogue: 0,0:01:41.31,0:01:43.91,CHN,,0,0,0,,配重块的密度
 Dialogue: 0,0:01:43.91,0:01:47.20,ENG,,0,0,0,,in the inner weight block than it is in the core material.
-Dialogue: 0,0:01:43.91,0:01:47.20,CHN,,0,0,0,,
+Dialogue: 0,0:01:43.91,0:01:47.20,CHN,,0,0,0,,大概是球芯材料密度的2.5倍到3倍
 Dialogue: 0,0:01:51.28,0:01:54.44,ENG,,0,0,0,,- If you were to look for example at this actual core,
-Dialogue: 0,0:01:51.28,0:01:54.44,CHN,,0,0,0,,
+Dialogue: 0,0:01:51.28,0:01:54.44,CHN,,0,0,0,,- 你可以看看这个真实的球芯
 Dialogue: 0,0:01:54.44,0:01:56.13,ENG,,0,0,0,,number one, it says 960
-Dialogue: 0,0:01:54.44,0:01:56.13,CHN,,0,0,0,,
+Dialogue: 0,0:01:54.44,0:01:56.13,CHN,,0,0,0,,第一行写着960
 Dialogue: 0,0:01:56.13,0:01:58.36,ENG,,0,0,0,,which means that it weighs 9.60 pounds.
-Dialogue: 0,0:01:56.13,0:01:58.36,CHN,,0,0,0,,
+Dialogue: 0,0:01:56.13,0:01:58.36,CHN,,0,0,0,,意思是它的重量是9.60磅
 Dialogue: 0,0:01:58.36,0:02:01.05,ENG,,0,0,0,,And then the description here underneath, which is a 03,
-Dialogue: 0,0:01:58.36,0:02:01.05,CHN,,0,0,0,,
+Dialogue: 0,0:01:58.36,0:02:01.05,CHN,,0,0,0,,再看下面的描述，这里是03
 Dialogue: 0,0:02:01.05,0:02:04.00,ENG,,0,0,0,,this indicates what type of a weight block is inside of it.
-Dialogue: 0,0:02:01.05,0:02:04.00,CHN,,0,0,0,,
+Dialogue: 0,0:02:01.05,0:02:04.00,CHN,,0,0,0,,表示这里面是什么型号的配重块
 Dialogue: 0,0:02:05.14,0:02:06.55,ENG,,0,0,0,,- What happens over here?
-Dialogue: 0,0:02:05.14,0:02:06.55,CHN,,0,0,0,,
+Dialogue: 0,0:02:05.14,0:02:06.55,CHN,,0,0,0,,- 这边是干啥的？
 Dialogue: 0,0:02:06.55,0:02:09.73,ENG,,0,0,0,,- So this area right here is our urethane area.
-Dialogue: 0,0:02:06.55,0:02:09.73,CHN,,0,0,0,,
+Dialogue: 0,0:02:06.55,0:02:09.73,CHN,,0,0,0,,- 这里是我们的氨基甲酸乙酯区域
 Dialogue: 0,0:02:09.73,0:02:13.90,ENG,,0,0,0,,So basically what we have are a number of different tanks that are set up.
-Dialogue: 0,0:02:09.73,0:02:13.90,CHN,,0,0,0,,
+Dialogue: 0,0:02:09.73,0:02:13.90,CHN,,0,0,0,,简单来说，这里配备了许多不同的储罐
 Dialogue: 0,0:02:13.90,0:02:16.15,ENG,,0,0,0,,So there's a chemical reaction that occurs
-Dialogue: 0,0:02:13.90,0:02:16.15,CHN,,0,0,0,,
+Dialogue: 0,0:02:13.90,0:02:16.15,CHN,,0,0,0,,然后当模具被填满时
 Dialogue: 0,0:02:16.15,0:02:17.75,ENG,,0,0,0,,once it actually fills the mold
-Dialogue: 0,0:02:16.15,0:02:17.75,CHN,,0,0,0,,
+Dialogue: 0,0:02:16.15,0:02:17.75,CHN,,0,0,0,,就会发生化学反应
 Dialogue: 0,0:02:17.75,0:02:20.74,ENG,,0,0,0,,and we pour that cover stock material around the pour.
-Dialogue: 0,0:02:17.75,0:02:20.74,CHN,,0,0,0,,
+Dialogue: 0,0:02:17.75,0:02:20.74,CHN,,0,0,0,,我们在这里浇筑覆盖在保龄球表面的材料
 Dialogue: 0,0:02:20.74,0:02:23.73,ENG,,0,0,0,,It gets extremely hot in just a matter of minutes.
-Dialogue: 0,0:02:20.74,0:02:23.73,CHN,,0,0,0,,
+Dialogue: 0,0:02:20.74,0:02:23.73,CHN,,0,0,0,,它会在几分钟之内变得贼热
 Dialogue: 0,0:02:26.17,0:02:27.64,ENG,,0,0,0,,You go right down here,
-Dialogue: 0,0:02:26.17,0:02:27.64,CHN,,0,0,0,,
+Dialogue: 0,0:02:26.17,0:02:27.64,CHN,,0,0,0,,你可以来这边看看
 Dialogue: 0,0:02:27.64,0:02:31.49,ENG,,0,0,0,,she's actually pouring the pin material inside the tops of those cores.
-Dialogue: 0,0:02:27.64,0:02:31.49,CHN,,0,0,0,,
+Dialogue: 0,0:02:27.64,0:02:31.49,CHN,,0,0,0,,她正在那些球芯的顶部为PIN做填充
 Dialogue: 0,0:02:31.49,0:02:33.68,ENG,,0,0,0,,So you can see for this particular bowling ball,
-Dialogue: 0,0:02:31.49,0:02:33.68,CHN,,0,0,0,,
+Dialogue: 0,0:02:31.49,0:02:33.68,CHN,,0,0,0,,你可以看到，对于这个保龄球来说
 Dialogue: 0,0:02:33.68,0:02:35.64,ENG,,0,0,0,,it's a bright orange type of a material,
-Dialogue: 0,0:02:33.68,0:02:35.64,CHN,,0,0,0,,
+Dialogue: 0,0:02:33.68,0:02:35.64,CHN,,0,0,0,,这是一种亮橙色的材料
 Dialogue: 0,0:02:35.64,0:02:38.91,ENG,,0,0,0,,and she's actually filling that hole with that plug material.
-Dialogue: 0,0:02:35.64,0:02:38.91,CHN,,0,0,0,,
+Dialogue: 0,0:02:35.64,0:02:38.91,CHN,,0,0,0,,她就正在用这种材料堵住那个洞
 Dialogue: 0,0:02:41.10,0:02:42.33,ENG,,0,0,0,,We've got the lane at the right here
-Dialogue: 0,0:02:41.10,0:02:42.33,CHN,,0,0,0,,
+Dialogue: 0,0:02:41.10,0:02:42.33,CHN,,0,0,0,,在这边有一条轨道
 Dialogue: 0,0:02:42.33,0:02:45.11,ENG,,0,0,0,,which is where we take the balls that come out of the mold.
-Dialogue: 0,0:02:42.33,0:02:45.11,CHN,,0,0,0,,
+Dialogue: 0,0:02:42.33,0:02:45.11,CHN,,0,0,0,,我们在这里把那些球从模具中取出来
 Dialogue: 0,0:02:45.11,0:02:48.27,ENG,,0,0,0,,And then they actually spin almost 2000 RPM.
-Dialogue: 0,0:02:45.11,0:02:48.27,CHN,,0,0,0,,
+Dialogue: 0,0:02:45.11,0:02:48.27,CHN,,0,0,0,,然后让它们在这里旋转到差不多2000转每秒
 Dialogue: 0,0:02:48.27,0:02:50.78,ENG,,0,0,0,,On top of there there's the blades that come around
-Dialogue: 0,0:02:48.27,0:02:50.78,CHN,,0,0,0,,
+Dialogue: 0,0:02:48.27,0:02:50.78,CHN,,0,0,0,,在顶上有一片刀片
 Dialogue: 0,0:02:50.78,0:02:53.48,ENG,,0,0,0,,and it actually makes the balls perfectly round.
-Dialogue: 0,0:02:50.78,0:02:53.48,CHN,,0,0,0,,
+Dialogue: 0,0:02:50.78,0:02:53.48,CHN,,0,0,0,,把这些球加工成一个“完美”的球形
 Dialogue: 0,0:02:53.48,0:02:55.48,ENG,,0,0,0,,So they'll actually trim those up.
-Dialogue: 0,0:02:53.48,0:02:55.48,CHN,,0,0,0,,
+Dialogue: 0,0:02:53.48,0:02:55.48,CHN,,0,0,0,,他们会切掉那些多余的部分
 Dialogue: 0,0:02:55.48,0:02:57.23,ENG,,0,0,0,,- [Derek] Since the balls are not symmetric,
-Dialogue: 0,0:02:55.48,0:02:57.23,CHN,,0,0,0,,
+Dialogue: 0,0:02:55.48,0:02:57.23,CHN,,0,0,0,,- [Derek] 由于这些球（的核心）并不对称
 Dialogue: 0,0:02:57.23,0:02:59.64,ENG,,0,0,0,,they are heavier on one side than the other.
-Dialogue: 0,0:02:57.23,0:02:59.64,CHN,,0,0,0,,
+Dialogue: 0,0:02:57.23,0:02:59.64,CHN,,0,0,0,,他们的一侧会比另一侧更重
 Dialogue: 0,0:02:59.64,0:03:02.17,ENG,,0,0,0,,- And you can see there the last four or five pumps of air,
-Dialogue: 0,0:02:59.64,0:03:02.17,CHN,,0,0,0,,
+Dialogue: 0,0:02:59.64,0:03:02.17,CHN,,0,0,0,,- 你可以看到在喷过最后四、五泵气之后
 Dialogue: 0,0:03:02.17,0:03:04.86,ENG,,0,0,0,,where it actually floats the air then it stops and pauses,
-Dialogue: 0,0:03:02.17,0:03:04.86,CHN,,0,0,0,,
+Dialogue: 0,0:03:02.17,0:03:04.86,CHN,,0,0,0,,它会悬浮并停在这里
 Dialogue: 0,0:03:04.86,0:03:06.44,ENG,,0,0,0,,that the ball has completely settled.
-Dialogue: 0,0:03:04.86,0:03:06.44,CHN,,0,0,0,,
+Dialogue: 0,0:03:04.86,0:03:06.44,CHN,,0,0,0,,那个球已经完全静止下来了
 Dialogue: 0,0:03:06.44,0:03:09.38,ENG,,0,0,0,,And then basically a needle will come out from the bottom part
-Dialogue: 0,0:03:06.44,0:03:09.38,CHN,,0,0,0,,
+Dialogue: 0,0:03:06.44,0:03:09.38,CHN,,0,0,0,,然后有根针会从下面伸出来
 Dialogue: 0,0:03:09.38,0:03:11.14,ENG,,0,0,0,,and all of a sudden it'll shoot it up.
-Dialogue: 0,0:03:09.38,0:03:11.14,CHN,,0,0,0,,
+Dialogue: 0,0:03:09.38,0:03:11.14,CHN,,0,0,0,,它会在一瞬间弹出来
 Dialogue: 0,0:03:11.14,0:03:14.50,ENG,,0,0,0,,And then it'll be where the center of gravity is on the surface of the ball.
-Dialogue: 0,0:03:11.14,0:03:14.50,CHN,,0,0,0,,
+Dialogue: 0,0:03:11.14,0:03:14.50,CHN,,0,0,0,,然后扎在球的重心的位置上
 Dialogue: 0,0:03:16.60,0:03:19.40,ENG,,0,0,0,,- When it comes right off the lane, right here,
-Dialogue: 0,0:03:16.60,0:03:19.40,CHN,,0,0,0,,
+Dialogue: 0,0:03:16.60,0:03:19.40,CHN,,0,0,0,,- 当它离开那条轨道时，就在这儿
 Dialogue: 0,0:03:19.40,0:03:22.16,ENG,,0,0,0,,it is extremely porous and very, very dull,
-Dialogue: 0,0:03:19.40,0:03:22.16,CHN,,0,0,0,,
+Dialogue: 0,0:03:19.40,0:03:22.16,CHN,,0,0,0,,它现在在非常粗糙而且没有光泽
 Dialogue: 0,0:03:22.16,0:03:23.90,ENG,,0,0,0,,and there is a ton of friction
-Dialogue: 0,0:03:22.16,0:03:23.90,CHN,,0,0,0,,
+Dialogue: 0,0:03:22.16,0:03:23.90,CHN,,0,0,0,,这时候
 Dialogue: 0,0:03:23.90,0:03:25.81,ENG,,0,0,0,,between the ball and the lane at this point.
-Dialogue: 0,0:03:23.90,0:03:25.81,CHN,,0,0,0,,
+Dialogue: 0,0:03:23.90,0:03:25.81,CHN,,0,0,0,,球和球道之间有非常大的摩擦力
 Dialogue: 0,0:03:25.81,0:03:28.52,ENG,,0,0,0,,So every ball from right here will be smoothed up,
-Dialogue: 0,0:03:25.81,0:03:28.52,CHN,,0,0,0,,
+Dialogue: 0,0:03:25.81,0:03:28.52,CHN,,0,0,0,,所以每个球都会在这里被打磨得更光滑
 Dialogue: 0,0:03:28.52,0:03:31.28,ENG,,0,0,0,,it's just a matter of how much it's gonna be smoothed up
-Dialogue: 0,0:03:28.52,0:03:31.28,CHN,,0,0,0,,
+Dialogue: 0,0:03:28.52,0:03:31.28,CHN,,0,0,0,,它们会被打磨到什么程度
 Dialogue: 0,0:03:31.28,0:03:33.63,ENG,,0,0,0,,in order to get what is the desired finish.
-Dialogue: 0,0:03:31.28,0:03:33.63,CHN,,0,0,0,,
+Dialogue: 0,0:03:31.28,0:03:33.63,CHN,,0,0,0,,取决于最终需要什么样的光滑程度
 Dialogue: 0,0:03:36.68,0:03:38.52,ENG,,0,0,0,,- [Derek] But before they can use these balls,
-Dialogue: 0,0:03:36.68,0:03:38.52,CHN,,0,0,0,,
+Dialogue: 0,0:03:36.68,0:03:38.52,CHN,,0,0,0,,- [Derek] 在这些球可以被使用之前 
 Dialogue: 0,0:03:38.52,0:03:39.89,ENG,,0,0,0,,they have to be drilled.
-Dialogue: 0,0:03:38.52,0:03:39.89,CHN,,0,0,0,,
+Dialogue: 0,0:03:38.52,0:03:39.89,CHN,,0,0,0,,它们需要被打孔
 Dialogue: 0,0:03:39.89,0:03:41.91,ENG,,0,0,0,,But that is specific to each bowler.
-Dialogue: 0,0:03:39.89,0:03:41.91,CHN,,0,0,0,,
+Dialogue: 0,0:03:39.89,0:03:41.91,CHN,,0,0,0,,但是这取决于每个保龄球手
 Dialogue: 0,0:03:42.88,0:03:44.75,ENG,,0,0,0,,How many balls are you making a day?
-Dialogue: 0,0:03:42.88,0:03:44.75,CHN,,0,0,0,,
+Dialogue: 0,0:03:42.88,0:03:44.75,CHN,,0,0,0,,你们每天能做多少个球
 Dialogue: 0,0:03:44.75,0:03:47.53,ENG,,0,0,0,,- [Steve] We're making over 3000 balls in a day now.
-Dialogue: 0,0:03:44.75,0:03:47.53,CHN,,0,0,0,,
+Dialogue: 0,0:03:44.75,0:03:47.53,CHN,,0,0,0,,- [Steve] 我们现在每天大概能做三千多个球
 Dialogue: 0,0:03:47.53,0:03:49.52,ENG,,0,0,0,,they come out of this plant right here.
-Dialogue: 0,0:03:47.53,0:03:49.52,CHN,,0,0,0,,
-Dialogue: 0,0:03:58.06,0:03:58.89,ENG,,0,0,0,,- Wild.
-Dialogue: 0,0:03:58.06,0:03:58.89,CHN,,0,0,0,,
+Dialogue: 0,0:03:47.53,0:03:49.52,CHN,,0,0,0,,它们就从这里问世
+Dialogue: 0,0:03:58.06,0:03:58.89,ENG,,0,0,0,,- So wild.
+Dialogue: 0,0:03:58.06,0:03:58.89,CHN,,0,0,0,,- 牛啊
 Dialogue: 0,0:03:59.83,0:04:02.52,ENG,,0,0,0,,I found the bowling ball equivalent of clickbait.
-Dialogue: 0,0:03:59.83,0:04:02.52,CHN,,0,0,0,,
+Dialogue: 0,0:03:59.83,0:04:02.52,CHN,,0,0,0,,我发现保龄球包装也是个标题党
 Dialogue: 0,0:04:02.52,0:04:04.31,ENG,,0,0,0,,"You won't believe your eyes",
-Dialogue: 0,0:04:02.52,0:04:04.31,CHN,,0,0,0,,
-Dialogue: 0,0:04:04.31,0:04:06.03,ENG,,0,0,0,,"The mind bending hook".
-Dialogue: 0,0:04:04.31,0:04:06.03,CHN,,0,0,0,,
+Dialogue: 0,0:04:02.52,0:04:04.31,CHN,,0,0,0,,“你不会相信你的眼睛”
+Dialogue: 0,0:04:04.31,0:04:06.03,ENG,,0,0,0,,"The mind-bending hook".
+Dialogue: 0,0:04:04.31,0:04:06.03,CHN,,0,0,0,,“势不可挡的曲球”
 Dialogue: 0,0:04:07.43,0:04:08.63,ENG,,0,0,0,,{\an3}- Right?
-Dialogue: 0,0:04:07.43,0:04:08.63,CHN,,0,0,0,,
+Dialogue: 0,0:04:07.43,0:04:08.63,CHN,,0,0,0,,{\an3}- 对吧？
 Dialogue: 0,0:04:07.43,0:04:09.81,ENG,,0,0,0,,- Yeah. It's how you have to sell your stuff.
-Dialogue: 0,0:04:07.43,0:04:09.81,CHN,,0,0,0,,
+Dialogue: 0,0:04:07.43,0:04:09.81,CHN,,0,0,0,,- 确实。这就是你应该如何去卖你的产品
 Dialogue: 0,0:04:09.81,0:04:11.72,ENG,,0,0,0,,I get it.
-Dialogue: 0,0:04:09.81,0:04:11.72,CHN,,0,0,0,,
+Dialogue: 0,0:04:09.81,0:04:11.72,CHN,,0,0,0,,我很明白
 Dialogue: 0,0:04:10.16,0:04:11.72,ENG,,0,0,0,,{\an3}- Exactly. Yeah.
-Dialogue: 0,0:04:10.16,0:04:11.72,CHN,,0,0,0,,
+Dialogue: 0,0:04:10.16,0:04:11.72,CHN,,0,0,0,,{\an3}- 确实
 Dialogue: 0,0:04:11.72,0:04:13.58,ENG,,0,0,0,,- [Derek] But how did it come to be this way?
-Dialogue: 0,0:04:11.72,0:04:13.58,CHN,,0,0,0,,
+Dialogue: 0,0:04:11.72,0:04:13.58,CHN,,0,0,0,,- [Derek] 但是它们是怎么演变成如今这样的
 Dialogue: 0,0:04:14.73,0:04:17.73,ENG,,0,0,0,,Well, bowling seems to be an ancient game.
-Dialogue: 0,0:04:14.73,0:04:17.73,CHN,,0,0,0,,
+Dialogue: 0,0:04:14.73,0:04:17.73,CHN,,0,0,0,,好吧，保龄球似乎是一项古老的游戏
 Dialogue: 0,0:04:17.73,0:04:20.12,ENG,,0,0,0,,Archeologists have found wall drawings of a sport
-Dialogue: 0,0:04:17.73,0:04:20.12,CHN,,0,0,0,,
+Dialogue: 0,0:04:17.73,0:04:20.12,CHN,,0,0,0,,考古学家们在一座约有7000年历史的古埃及坟墓中
 Dialogue: 0,0:04:20.12,0:04:26.20,ENG,,0,0,0,,that looks like bowling in an ancient Egyptian tomb dating back 7,000 years.
-Dialogue: 0,0:04:20.12,0:04:26.20,CHN,,0,0,0,,
+Dialogue: 0,0:04:20.12,0:04:26.20,CHN,,0,0,0,,发现了一副看起来像是保龄球运动的壁画
 Dialogue: 0,0:04:26.20,0:04:29.44,ENG,,0,0,0,,In Germany, bowling was used as a religious ritual.
-Dialogue: 0,0:04:26.20,0:04:29.44,CHN,,0,0,0,,
+Dialogue: 0,0:04:26.20,0:04:29.44,CHN,,0,0,0,,在德国，保龄球被用于宗教仪式
 Dialogue: 0,0:04:29.44,0:04:31.51,ENG,,0,0,0,,Pins represented your sins,
-Dialogue: 0,0:04:29.44,0:04:31.51,CHN,,0,0,0,,
+Dialogue: 0,0:04:29.44,0:04:31.51,CHN,,0,0,0,,球瓶代表你的罪过
 Dialogue: 0,0:04:31.51,0:04:34.62,ENG,,0,0,0,,so you're a good Christian if you could knock them all down.
-Dialogue: 0,0:04:31.51,0:04:34.62,CHN,,0,0,0,,
+Dialogue: 0,0:04:31.51,0:04:34.62,CHN,,0,0,0,,所以如果你能够将其全部击倒，你就是一个好基督徒
 Dialogue: 0,0:04:34.62,0:04:37.36,ENG,,0,0,0,,Martin Luther himself was apparently a bowling fanatic
-Dialogue: 0,0:04:34.62,0:04:37.36,CHN,,0,0,0,,
+Dialogue: 0,0:04:34.62,0:04:37.36,CHN,,0,0,0,,马丁路德本人显然是一个保龄球狂热者
 Dialogue: 0,0:04:37.36,0:04:40.13,ENG,,0,0,0,,and fixed the number of pins at nine.
-Dialogue: 0,0:04:37.36,0:04:40.13,CHN,,0,0,0,,
+Dialogue: 0,0:04:37.36,0:04:40.13,CHN,,0,0,0,,他将保龄球瓶的数量固定为9个
 Dialogue: 0,0:04:40.13,0:04:42.33,ENG,,0,0,0,,When the game made its way over to America,
-Dialogue: 0,0:04:40.13,0:04:42.33,CHN,,0,0,0,,
+Dialogue: 0,0:04:40.13,0:04:42.33,CHN,,0,0,0,,当这项运动成功传播到美国时
 Dialogue: 0,0:04:42.33,0:04:45.86,ENG,,0,0,0,,nine-pin bowling was banned because it promoted gambling.
-Dialogue: 0,0:04:42.33,0:04:45.86,CHN,,0,0,0,,
+Dialogue: 0,0:04:42.33,0:04:45.86,CHN,,0,0,0,,9瓶制保龄球却因为促进了赌博而被禁止
 Dialogue: 0,0:04:45.86,0:04:48.00,ENG,,0,0,0,,The legend goes that people cleverly came up with
-Dialogue: 0,0:04:45.86,0:04:48.00,CHN,,0,0,0,,
+Dialogue: 0,0:04:45.86,0:04:48.00,CHN,,0,0,0,,相传，人们巧妙地发明了10瓶制保龄球
 Dialogue: 0,0:04:48.00,0:04:50.22,ENG,,0,0,0,,10-pin bowling to get around the law.
-Dialogue: 0,0:04:48.00,0:04:50.22,CHN,,0,0,0,,
+Dialogue: 0,0:04:48.00,0:04:50.22,CHN,,0,0,0,,来规避法律
 Dialogue: 0,0:04:50.22,0:04:52.72,ENG,,0,0,0,,Whoa, totally different game.
-Dialogue: 0,0:04:50.22,0:04:52.72,CHN,,0,0,0,,
+Dialogue: 0,0:04:50.22,0:04:52.72,CHN,,0,0,0,,哇哦，船新的游戏
 Dialogue: 0,0:04:52.72,0:04:56.20,ENG,,0,0,0,,Today in the US, nine-pin bowling is only played in Texas
-Dialogue: 0,0:04:52.72,0:04:56.20,CHN,,0,0,0,,
+Dialogue: 0,0:04:52.72,0:04:56.20,CHN,,0,0,0,,现在在美国，9瓶制保龄球只有德克萨斯州玩
 Dialogue: 0,0:04:56.20,0:04:58.45,ENG,,0,0,0,,because it was the one state that didn't ban it,
-Dialogue: 0,0:04:56.20,0:04:58.45,CHN,,0,0,0,,
+Dialogue: 0,0:04:56.20,0:04:58.45,CHN,,0,0,0,,因为德克萨斯州并没有禁止它
 Dialogue: 0,0:04:58.45,0:05:00.25,ENG,,0,0,0,,instead, charging it tax.
-Dialogue: 0,0:04:58.45,0:05:00.25,CHN,,0,0,0,,
+Dialogue: 0,0:04:58.45,0:05:00.25,CHN,,0,0,0,,而是对其征税
 Dialogue: 0,0:05:01.82,0:05:04.30,ENG,,0,0,0,,Bowling lanes are about three-and-a-half-feet wide
-Dialogue: 0,0:05:01.82,0:05:04.30,CHN,,0,0,0,,
+Dialogue: 0,0:05:01.82,0:05:04.30,CHN,,0,0,0,,保龄球道大约3.5英尺宽
 Dialogue: 0,0:05:04.30,0:05:07.13,ENG,,0,0,0,,and 60 feet long down to the headpin.
-Dialogue: 0,0:05:04.30,0:05:07.13,CHN,,0,0,0,,
+Dialogue: 0,0:05:04.30,0:05:07.13,CHN,,0,0,0,,直到1号球瓶有60英尺长
 Dialogue: 0,0:05:07.13,0:05:11.31,ENG,,0,0,0,,I'm using Imperial units here because that's actually how they're defined.
-Dialogue: 0,0:05:07.13,0:05:11.31,CHN,,0,0,0,,
+Dialogue: 0,0:05:07.13,0:05:11.31,CHN,,0,0,0,,我在这里使用英制单位，是因为它们实际上就是这么被定义的
 Dialogue: 0,0:05:11.31,0:05:13.87,ENG,,0,0,0,,The lane is made of 39 narrow boards
-Dialogue: 0,0:05:11.31,0:05:13.87,CHN,,0,0,0,,
+Dialogue: 0,0:05:11.31,0:05:13.87,CHN,,0,0,0,,球道由39块窄板组成
 Dialogue: 0,0:05:13.87,0:05:15.82,ENG,,0,0,0,,that bowlers number for reference.
-Dialogue: 0,0:05:13.87,0:05:15.82,CHN,,0,0,0,,
+Dialogue: 0,0:05:13.87,0:05:15.82,CHN,,0,0,0,,并且拥有编号以供球手参考
 Dialogue: 0,0:05:15.82,0:05:17.70,ENG,,0,0,0,,They used to be made of maple and pinewood,
-Dialogue: 0,0:05:15.82,0:05:17.70,CHN,,0,0,0,,
+Dialogue: 0,0:05:15.82,0:05:17.70,CHN,,0,0,0,,这些窄板曾经由枫木和松木制成
 Dialogue: 0,0:05:17.70,0:05:20.36,ENG,,0,0,0,,but these days, most lanes are synthetic
-Dialogue: 0,0:05:17.70,0:05:20.36,CHN,,0,0,0,,
+Dialogue: 0,0:05:17.70,0:05:20.36,CHN,,0,0,0,,但现在，大多数球道都是合成材料
 Dialogue: 0,0:05:20.36,0:05:23.77,ENG,,0,0,0,,and made of fine particles coated with melamine resin.
-Dialogue: 0,0:05:20.36,0:05:23.77,CHN,,0,0,0,,
+Dialogue: 0,0:05:20.36,0:05:23.77,CHN,,0,0,0,,由涂有三聚氰胺树脂的颗粒制成
 Dialogue: 0,0:05:23.77,0:05:26.36,ENG,,0,0,0,,One game of bowling gives you 10 frames
-Dialogue: 0,0:05:23.77,0:05:26.36,CHN,,0,0,0,,
+Dialogue: 0,0:05:23.77,0:05:26.36,CHN,,0,0,0,,每局保龄球共有10个计分格
 Dialogue: 0,0:05:26.36,0:05:28.15,ENG,,0,0,0,,with two throws per frame
-Dialogue: 0,0:05:26.36,0:05:28.15,CHN,,0,0,0,,
+Dialogue: 0,0:05:26.36,0:05:28.15,CHN,,0,0,0,,每个计分格有两次投球机会
 Dialogue: 0,0:05:28.15,0:05:30.49,ENG,,0,0,0,,to try to knock down all 10 pins.
-Dialogue: 0,0:05:28.15,0:05:30.49,CHN,,0,0,0,,
+Dialogue: 0,0:05:28.15,0:05:30.49,CHN,,0,0,0,,用来尝试击倒全部10个球瓶
 Dialogue: 0,0:05:30.49,0:05:35.10,ENG,,0,0,0,,The highest score you can get in a game without a strike is only 190,
-Dialogue: 0,0:05:30.49,0:05:35.10,CHN,,0,0,0,,
+Dialogue: 0,0:05:30.49,0:05:35.10,CHN,,0,0,0,,在一场没有全中的比赛中你能得到的最高分只有190
 Dialogue: 0,0:05:35.10,0:05:38.13,ENG,,0,0,0,,but strikes allow you to double count your next two throws,
-Dialogue: 0,0:05:35.10,0:05:38.13,CHN,,0,0,0,,
+Dialogue: 0,0:05:35.10,0:05:38.13,CHN,,0,0,0,,但是全中可以让你在接下来的两次投球中得分翻倍
 Dialogue: 0,0:05:38.13,0:05:42.32,ENG,,0,0,0,,so a perfect game with all strikes gives you a score of 300.
-Dialogue: 0,0:05:38.13,0:05:42.32,CHN,,0,0,0,,
+Dialogue: 0,0:05:38.13,0:05:42.32,CHN,,0,0,0,,所以一场全部全中的完美比赛可以让你得到300分
 Dialogue: 0,0:05:43.22,0:05:44.39,ENG,,0,0,0,,If you're anything like me,
 Dialogue: 0,0:05:43.22,0:05:44.39,CHN,,0,0,0,,
 Dialogue: 0,0:05:44.39,0:05:47.73,ENG,,0,0,0,,the whole game is just trying to throw the ball as straight as you can
