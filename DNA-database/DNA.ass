@@ -26,203 +26,203 @@ Style: CHN,MonyharOS Sans SC Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.08,0:00:03.94,ENG,,0,0,0,, Your DNA is probably already in a database.
-Dialogue: 0,0:00:00.08,0:00:03.94,CHN,,0,0,0,,
+Dialogue: 0,0:00:00.08,0:00:03.94,CHN,,0,0,0,,你的DNA可能已经在一个数据库当中了
 Dialogue: 0,0:00:03.94,0:00:07.17,ENG,,0,0,0,,You didn't have to provide a sample or give consent
-Dialogue: 0,0:00:03.94,0:00:07.17,CHN,,0,0,0,,
+Dialogue: 0,0:00:03.94,0:00:07.17,CHN,,0,0,0,,你无需提供样本或者给予许可
 Dialogue: 0,0:00:07.17,0:00:08.64,ENG,,0,0,0,,but the unique sequence
-Dialogue: 0,0:00:07.17,0:00:08.64,CHN,,0,0,0,,
+Dialogue: 0,0:00:07.17,0:00:08.64,CHN,,0,0,0,,但四种碱基（A、T、G和C）的独特序列
 Dialogue: 0,0:00:08.64,0:00:11.93,ENG,,0,0,0,,of As, Ts, Gs and Cs that make you you
 Dialogue: 0,0:00:08.64,0:00:11.93,CHN,,0,0,0,,
 Dialogue: 0,0:00:11.93,0:00:13.87,ENG,,0,0,0,,are searchable nonetheless.
-Dialogue: 0,0:00:11.93,0:00:13.87,CHN,,0,0,0,,
+Dialogue: 0,0:00:11.93,0:00:13.87,CHN,,0,0,0,,使你依然可以被检索
 Dialogue: 0,0:00:13.87,0:00:15.77,ENG,,0,0,0,,So if you committed a heinous crime
-Dialogue: 0,0:00:13.87,0:00:15.77,CHN,,0,0,0,,
+Dialogue: 0,0:00:13.87,0:00:15.77,CHN,,0,0,0,,所以，如果你犯下了令人发指的罪行
 Dialogue: 0,0:00:15.77,0:00:17.35,ENG,,0,0,0,,and left a bit of your DNA,
-Dialogue: 0,0:00:15.77,0:00:17.35,CHN,,0,0,0,,
+Dialogue: 0,0:00:15.77,0:00:17.35,CHN,,0,0,0,,并留下了一些你的DNA
 Dialogue: 0,0:00:17.35,0:00:20.05,ENG,,0,0,0,,law enforcement could search it in a database
-Dialogue: 0,0:00:17.35,0:00:20.05,CHN,,0,0,0,,
+Dialogue: 0,0:00:17.35,0:00:20.05,CHN,,0,0,0,,执法部门可以在数据库中对你的DNA进行检索
 Dialogue: 0,0:00:20.05,0:00:21.43,ENG,,0,0,0,,and identify you.
-Dialogue: 0,0:00:20.05,0:00:21.43,CHN,,0,0,0,,
+Dialogue: 0,0:00:20.05,0:00:21.43,CHN,,0,0,0,,并识别你的身份
 Dialogue: 0,0:00:22.90,0:00:26.04,ENG,,0,0,0,,This video includes a discussion of serious crimes
-Dialogue: 0,0:00:22.90,0:00:26.04,CHN,,0,0,0,,
+Dialogue: 0,0:00:22.90,0:00:26.04,CHN,,0,0,0,,本视频包括一些可能令观众感到不安的严重罪行的讨论
 Dialogue: 0,0:00:26.04,0:00:28.06,ENG,,0,0,0,,which may be disturbing for some viewers
 Dialogue: 0,0:00:26.04,0:00:28.06,CHN,,0,0,0,,
 Dialogue: 0,0:00:28.06,0:00:30.60,ENG,,0,0,0,,so I wanted to let you know that upfront,
-Dialogue: 0,0:00:28.06,0:00:30.60,CHN,,0,0,0,,
+Dialogue: 0,0:00:28.06,0:00:30.60,CHN,,0,0,0,,所以我想提前告知您
 Dialogue: 0,0:00:30.60,0:00:32.11,ENG,,0,0,0,,but I think it's necessary
-Dialogue: 0,0:00:30.60,0:00:32.11,CHN,,0,0,0,,
+Dialogue: 0,0:00:30.60,0:00:32.11,CHN,,0,0,0,,但我认为有必要详细讨论这些犯罪
 Dialogue: 0,0:00:32.11,0:00:34.40,ENG,,0,0,0,,to talk about these crimes in some detail
 Dialogue: 0,0:00:32.11,0:00:34.40,CHN,,0,0,0,,
 Dialogue: 0,0:00:34.40,0:00:36.81,ENG,,0,0,0,,for reasons that will become apparent.
-Dialogue: 0,0:00:34.40,0:00:36.81,CHN,,0,0,0,,
+Dialogue: 0,0:00:34.40,0:00:36.81,CHN,,0,0,0,,原因会是显而易见的
 Dialogue: 0,0:00:39.26,0:00:43.43,ENG,,0,0,0,,In the small town of Visalia, California in the mid 1970s,
-Dialogue: 0,0:00:39.26,0:00:43.43,CHN,,0,0,0,,
+Dialogue: 0,0:00:39.26,0:00:43.43,CHN,,0,0,0,,1970年代中期，在加利福尼亚州维塞利亚小镇
 Dialogue: 0,0:00:43.43,0:00:46.94,ENG,,0,0,0,,one of the state's most prolific criminals got his start.
-Dialogue: 0,0:00:43.43,0:00:46.94,CHN,,0,0,0,,
+Dialogue: 0,0:00:43.43,0:00:46.94,CHN,,0,0,0,,该州犯罪最多的罪犯之一开始了他的犯罪生涯
 Dialogue: 0,0:00:46.94,0:00:50.78,ENG,,0,0,0,,He repeatedly broke into houses and stole small items
-Dialogue: 0,0:00:46.94,0:00:50.78,CHN,,0,0,0,,
+Dialogue: 0,0:00:46.94,0:00:50.78,CHN,,0,0,0,,他多次闯入民宅并偷走现金、硬币和珠宝等小物件
 Dialogue: 0,0:00:50.78,0:00:53.47,ENG,,0,0,0,,like cash, coins, and jewelry.
 Dialogue: 0,0:00:50.78,0:00:53.47,CHN,,0,0,0,,
 Dialogue: 0,0:00:53.47,0:00:56.46,ENG,,0,0,0,,He was dubbed the Visalia ransacker
-Dialogue: 0,0:00:53.47,0:00:56.46,CHN,,0,0,0,,
+Dialogue: 0,0:00:53.47,0:00:56.46,CHN,,0,0,0,,他被称为“维塞利亚劫掠者”
 Dialogue: 0,0:00:56.46,0:00:59.29,ENG,,0,0,0,,but soon his crimes escalated.
-Dialogue: 0,0:00:56.46,0:00:59.29,CHN,,0,0,0,,
+Dialogue: 0,0:00:56.46,0:00:59.29,CHN,,0,0,0,,但很快他的罪行就不止于此了
 Dialogue: 0,0:00:59.29,0:01:01.22,ENG,,0,0,0,,- Six months later in 1976,
-Dialogue: 0,0:00:59.29,0:01:01.22,CHN,,0,0,0,,
+Dialogue: 0,0:00:59.29,0:01:01.22,CHN,,0,0,0,,六个月后的1976年
 Dialogue: 0,0:01:01.22,0:01:02.96,ENG,,0,0,0,,he moves up to Sacramento and over
-Dialogue: 0,0:01:01.22,0:01:02.96,CHN,,0,0,0,,
+Dialogue: 0,0:01:01.22,0:01:02.96,CHN,,0,0,0,,他搬去了萨克拉门托
 Dialogue: 0,0:01:02.96,0:01:04.56,ENG,,0,0,0,,the course of the next three years,
-Dialogue: 0,0:01:02.96,0:01:04.56,CHN,,0,0,0,,
+Dialogue: 0,0:01:02.96,0:01:04.56,CHN,,0,0,0,,并且在接下来的三年里
 Dialogue: 0,0:01:04.56,0:01:08.13,ENG,,0,0,0,,he's moving all across Northern California
-Dialogue: 0,0:01:04.56,0:01:08.13,CHN,,0,0,0,,
+Dialogue: 0,0:01:04.56,0:01:08.13,CHN,,0,0,0,,他在北加州多地犯下了了超过50起强奸案
 Dialogue: 0,0:01:08.13,0:01:10.60,ENG,,0,0,0,,committing numerous sexual assaults,
 Dialogue: 0,0:01:08.13,0:01:10.60,CHN,,0,0,0,,
 Dialogue: 0,0:01:10.60,0:01:12.66,ENG,,0,0,0,,over 50 sexual assaults.
 Dialogue: 0,0:01:10.60,0:01:12.66,CHN,,0,0,0,,
 Dialogue: 0,0:01:12.66,0:01:15.60,ENG,,0,0,0,,- Here, he was called the east area rapist.
-Dialogue: 0,0:01:12.66,0:01:15.60,CHN,,0,0,0,,
+Dialogue: 0,0:01:12.66,0:01:15.60,CHN,,0,0,0,,在这里，他被称为“东区强暴魔”
 Dialogue: 0,0:01:15.60,0:01:17.87,ENG,,0,0,0,,- [Male Reporter] The police are saying lock up tight.
-Dialogue: 0,0:01:15.60,0:01:17.87,CHN,,0,0,0,,
+Dialogue: 0,0:01:15.60,0:01:17.87,CHN,,0,0,0,,警察说要锁紧门窗
 Dialogue: 0,0:01:17.87,0:01:21.26,ENG,,0,0,0,,Sacramento's infamous east area rapist may still be in town.
-Dialogue: 0,0:01:17.87,0:01:21.26,CHN,,0,0,0,,
+Dialogue: 0,0:01:17.87,0:01:21.26,CHN,,0,0,0,,萨拉克门托臭名昭著的“东区强暴魔”可能还在城里
 Dialogue: 0,0:01:22.28,0:01:26.06,ENG,,0,0,0,,- And then in 1979, he moves down to Southern California,
-Dialogue: 0,0:01:22.28,0:01:26.06,CHN,,0,0,0,,
+Dialogue: 0,0:01:22.28,0:01:26.06,CHN,,0,0,0,,然后在1979年，他搬去南加州
 Dialogue: 0,0:01:26.06,0:01:29.31,ENG,,0,0,0,,starting in Santa Barbara and starts killing.
-Dialogue: 0,0:01:26.06,0:01:29.31,CHN,,0,0,0,,
+Dialogue: 0,0:01:26.06,0:01:29.31,CHN,,0,0,0,,从圣巴巴拉开始杀人
 Dialogue: 0,0:01:29.31,0:01:31.25,ENG,,0,0,0,,And he was known as the original night stalker
-Dialogue: 0,0:01:29.31,0:01:31.25,CHN,,0,0,0,,
+Dialogue: 0,0:01:29.31,0:01:31.25,CHN,,0,0,0,,他被称为南加州的“暗夜尾行者”
 Dialogue: 0,0:01:31.25,0:01:32.78,ENG,,0,0,0,,in Southern California.
 Dialogue: 0,0:01:31.25,0:01:32.78,CHN,,0,0,0,,
 Dialogue: 0,0:01:32.78,0:01:35.07,ENG,,0,0,0,,- [Reporter] Variously known as the east area rapist
-Dialogue: 0,0:01:32.78,0:01:35.07,CHN,,0,0,0,,
+Dialogue: 0,0:01:32.78,0:01:35.07,CHN,,0,0,0,,他耳熟能详的名头包括“东区强暴魔”“暗夜尾行者”
 Dialogue: 0,0:01:35.07,0:01:37.04,ENG,,0,0,0,,and the original night stalker,
 Dialogue: 0,0:01:35.07,0:01:37.04,CHN,,0,0,0,,
 Dialogue: 0,0:01:37.04,0:01:39.97,ENG,,0,0,0,,these were brutal meticulously planned crimes
-Dialogue: 0,0:01:37.04,0:01:39.97,CHN,,0,0,0,,
+Dialogue: 0,0:01:37.04,0:01:39.97,CHN,,0,0,0,,这些是1976年至1986年间跨越加利福尼亚州多县之间精心策划的残酷犯罪
 Dialogue: 0,0:01:39.97,0:01:42.23,ENG,,0,0,0,,that spanned numerous California counties
 Dialogue: 0,0:01:39.97,0:01:42.23,CHN,,0,0,0,,
 Dialogue: 0,0:01:42.23,0:01:45.69,ENG,,0,0,0,,between 1976 and 1986.
 Dialogue: 0,0:01:42.23,0:01:45.69,CHN,,0,0,0,,
 Dialogue: 0,0:01:45.69,0:01:47.81,ENG,,0,0,0,,- Police believed that all of these crimes
-Dialogue: 0,0:01:45.69,0:01:47.81,CHN,,0,0,0,,
+Dialogue: 0,0:01:45.69,0:01:47.81,CHN,,0,0,0,,警察相信所有这些罪行都是由现在被称为“金州杀手”的同一人所犯
 Dialogue: 0,0:01:47.81,0:01:50.16,ENG,,0,0,0,,were committed by the same person
 Dialogue: 0,0:01:47.81,0:01:50.16,CHN,,0,0,0,,
 Dialogue: 0,0:01:50.16,0:01:52.84,ENG,,0,0,0,,now known as the golden state killer.
 Dialogue: 0,0:01:50.16,0:01:52.84,CHN,,0,0,0,,
 Dialogue: 0,0:01:52.84,0:01:54.90,ENG,,0,0,0,,How was it known that these were committed
-Dialogue: 0,0:01:52.84,0:01:54.90,CHN,,0,0,0,,
+Dialogue: 0,0:01:52.84,0:01:54.90,CHN,,0,0,0,,如何知道这些都是由同一人所犯的
 Dialogue: 0,0:01:54.90,0:01:56.01,ENG,,0,0,0,,by the same person?
 Dialogue: 0,0:01:54.90,0:01:56.01,CHN,,0,0,0,,
 Dialogue: 0,0:01:56.01,0:01:59.36,ENG,,0,0,0,,- Investigators were relying on MO.
-Dialogue: 0,0:01:56.01,0:01:59.36,CHN,,0,0,0,,
+Dialogue: 0,0:01:56.01,0:01:59.36,CHN,,0,0,0,,调查人员依赖MO
 Dialogue: 0,0:01:59.36,0:02:01.78,ENG,,0,0,0,,MO, modus operandi is basically
-Dialogue: 0,0:01:59.36,0:02:01.78,CHN,,0,0,0,,
+Dialogue: 0,0:01:59.36,0:02:01.78,CHN,,0,0,0,,MO，作案手法本质是犯罪分子将如何犯罪
 Dialogue: 0,0:02:01.78,0:02:05.92,ENG,,0,0,0,,how a criminal will commit a crime.
 Dialogue: 0,0:02:01.78,0:02:05.92,CHN,,0,0,0,,
 Dialogue: 0,0:02:05.92,0:02:09.79,ENG,,0,0,0,,- He was wearing some type of a mask or a hood.
-Dialogue: 0,0:02:05.92,0:02:09.79,CHN,,0,0,0,,
+Dialogue: 0,0:02:05.92,0:02:09.79,CHN,,0,0,0,,他戴着某种面具或者兜帽
 Dialogue: 0,0:02:09.79,0:02:11.97,ENG,,0,0,0,,He was wearing shorts and a T-shirt.
-Dialogue: 0,0:02:09.79,0:02:11.97,CHN,,0,0,0,,
+Dialogue: 0,0:02:09.79,0:02:11.97,CHN,,0,0,0,,他穿着短裤和T恤衫
 Dialogue: 0,0:02:11.97,0:02:14.65,ENG,,0,0,0,,- The golden state killer had a very distinctive MO
-Dialogue: 0,0:02:11.97,0:02:14.65,CHN,,0,0,0,,
+Dialogue: 0,0:02:11.97,0:02:14.65,CHN,,0,0,0,,“金州杀手”有一个非常独特的MO
 Dialogue: 0,0:02:14.65,0:02:15.55,ENG,,0,0,0,,- What he would do is
-Dialogue: 0,0:02:14.65,0:02:15.55,CHN,,0,0,0,,
+Dialogue: 0,0:02:14.65,0:02:15.55,CHN,,0,0,0,,他会做的是
 Dialogue: 0,0:02:15.55,0:02:19.10,ENG,,0,0,0,,he would break into a house with a gun,
-Dialogue: 0,0:02:15.55,0:02:19.10,CHN,,0,0,0,,
+Dialogue: 0,0:02:15.55,0:02:19.10,CHN,,0,0,0,,他会持枪闯入民宅
 Dialogue: 0,0:02:19.10,0:02:21.21,ENG,,0,0,0,,a house with a man and a woman.
-Dialogue: 0,0:02:19.10,0:02:21.21,CHN,,0,0,0,,
+Dialogue: 0,0:02:19.10,0:02:21.21,CHN,,0,0,0,,一栋有男人和女人的房子
 Dialogue: 0,0:02:21.21,0:02:23.03,ENG,,0,0,0,,He would tie them up
-Dialogue: 0,0:02:21.21,0:02:23.03,CHN,,0,0,0,,
+Dialogue: 0,0:02:21.21,0:02:23.03,CHN,,0,0,0,,他会把他们绑起来
 Dialogue: 0,0:02:24.06,0:02:27.22,ENG,,0,0,0,,tell the man I'm gonna put plates on your back.
-Dialogue: 0,0:02:24.06,0:02:27.22,CHN,,0,0,0,,
+Dialogue: 0,0:02:24.06,0:02:27.22,CHN,,0,0,0,,告诉那个男人，我要把盘子放到你的后背上
 Dialogue: 0,0:02:27.22,0:02:28.70,ENG,,0,0,0,,If I hear those plates move,
-Dialogue: 0,0:02:27.22,0:02:28.70,CHN,,0,0,0,,
+Dialogue: 0,0:02:27.22,0:02:28.70,CHN,,0,0,0,,如果我听到盘子动了
 Dialogue: 0,0:02:28.70,0:02:31.40,ENG,,0,0,0,,I'm going to kill your wife and then kill you,
-Dialogue: 0,0:02:28.70,0:02:31.40,CHN,,0,0,0,,
+Dialogue: 0,0:02:28.70,0:02:31.40,CHN,,0,0,0,,我就要杀了你的妻子然后再杀了你
 Dialogue: 0,0:02:31.40,0:02:34.47,ENG,,0,0,0,,take the wife into another room and sexually assault her.
-Dialogue: 0,0:02:31.40,0:02:34.47,CHN,,0,0,0,,
+Dialogue: 0,0:02:31.40,0:02:34.47,CHN,,0,0,0,,他把妻子带到另一个房间对她进行性侵犯
 Dialogue: 0,0:02:34.47,0:02:38.90,ENG,,0,0,0,,Then he would go through the house for however much time,
-Dialogue: 0,0:02:34.47,0:02:38.90,CHN,,0,0,0,,
+Dialogue: 0,0:02:34.47,0:02:38.90,CHN,,0,0,0,,然后他会在房子里徘徊相当久
 Dialogue: 0,0:02:38.90,0:02:42.11,ENG,,0,0,0,,eating, stealing stuff, stealing little things or whatever
-Dialogue: 0,0:02:38.90,0:02:42.11,CHN,,0,0,0,,
+Dialogue: 0,0:02:38.90,0:02:42.11,CHN,,0,0,0,,他吃东西，偷东西，偷小东西之类的
 Dialogue: 0,0:02:42.11,0:02:43.42,ENG,,0,0,0,,and then he would leave.
-Dialogue: 0,0:02:42.11,0:02:43.42,CHN,,0,0,0,,
+Dialogue: 0,0:02:42.11,0:02:43.42,CHN,,0,0,0,,然后他才会离开
 Dialogue: 0,0:02:43.42,0:02:46.90,ENG,,0,0,0,,- How was he not caught based on fingerprint evidence?
-Dialogue: 0,0:02:43.42,0:02:46.90,CHN,,0,0,0,,
+Dialogue: 0,0:02:43.42,0:02:46.90,CHN,,0,0,0,,他怎么没因为指纹证据被抓？
 Dialogue: 0,0:02:46.90,0:02:48.88,ENG,,0,0,0,,- Well, he didn't leave his fingerprints.
-Dialogue: 0,0:02:46.90,0:02:48.88,CHN,,0,0,0,,
+Dialogue: 0,0:02:46.90,0:02:48.88,CHN,,0,0,0,,好吧，他没留下指纹
 Dialogue: 0,0:02:48.88,0:02:49.94,ENG,,0,0,0,,He always wore a mask.
-Dialogue: 0,0:02:48.88,0:02:49.94,CHN,,0,0,0,,
+Dialogue: 0,0:02:48.88,0:02:49.94,CHN,,0,0,0,,他总是戴着面具
 Dialogue: 0,0:02:49.94,0:02:51.14,ENG,,0,0,0,,He always had gloves on.
-Dialogue: 0,0:02:49.94,0:02:51.14,CHN,,0,0,0,,
+Dialogue: 0,0:02:49.94,0:02:51.14,CHN,,0,0,0,,他总是戴着手套
 Dialogue: 0,0:02:51.14,0:02:53.75,ENG,,0,0,0,,This was an offender that did everything
-Dialogue: 0,0:02:51.14,0:02:53.75,CHN,,0,0,0,,
+Dialogue: 0,0:02:51.14,0:02:53.75,CHN,,0,0,0,,他是一个竭尽全力防止自己被抓的罪犯
 Dialogue: 0,0:02:53.75,0:02:55.73,ENG,,0,0,0,,to prevent himself from being caught.
 Dialogue: 0,0:02:53.75,0:02:55.73,CHN,,0,0,0,,
 Dialogue: 0,0:02:55.73,0:02:57.32,ENG,,0,0,0,,- [Reporter] The golden state killer has been linked
-Dialogue: 0,0:02:55.73,0:02:57.32,CHN,,0,0,0,,
+Dialogue: 0,0:02:55.73,0:02:57.32,CHN,,0,0,0,,金州杀手与加州至少12起谋杀案、50起强奸案和一系列的盗窃案有关
 Dialogue: 0,0:02:57.32,0:02:59.90,ENG,,0,0,0,,to at least 12 murders, 50 rapes
 Dialogue: 0,0:02:57.32,0:02:59.90,CHN,,0,0,0,,
 Dialogue: 0,0:02:59.90,0:03:02.53,ENG,,0,0,0,,and a string of burglaries throughout California.
 Dialogue: 0,0:02:59.90,0:03:02.53,CHN,,0,0,0,,
 Dialogue: 0,0:03:06.69,0:03:08.05,ENG,,0,0,0,,- All right, how's it going?
-Dialogue: 0,0:03:06.69,0:03:08.05,CHN,,0,0,0,,
+Dialogue: 0,0:03:06.69,0:03:08.05,CHN,,0,0,0,,最近怎么样？
 Dialogue: 0,0:03:08.05,0:03:09.34,ENG,,0,0,0,,- How you doing? - Good.
-Dialogue: 0,0:03:08.05,0:03:09.34,CHN,,0,0,0,,
+Dialogue: 0,0:03:08.05,0:03:09.34,CHN,,0,0,0,,你好吗？ 好的好的
 Dialogue: 0,0:03:09.34,0:03:12.76,ENG,,0,0,0,,- So we supply DNA sequencing solutions
-Dialogue: 0,0:03:09.34,0:03:12.76,CHN,,0,0,0,,
+Dialogue: 0,0:03:09.34,0:03:12.76,CHN,,0,0,0,,我们为处理犯罪现场DNA的法医实验室提供DNA测序解决方案
 Dialogue: 0,0:03:12.76,0:03:15.97,ENG,,0,0,0,,to the forensic laboratories that process crime scene DNA.
 Dialogue: 0,0:03:12.76,0:03:15.97,CHN,,0,0,0,,
 Dialogue: 0,0:03:15.97,0:03:18.66,ENG,,0,0,0,,At a crime scene, there's typically less than a nanogram
-Dialogue: 0,0:03:15.97,0:03:18.66,CHN,,0,0,0,,
+Dialogue: 0,0:03:15.97,0:03:18.66,CHN,,0,0,0,,在犯罪现场，往往只剩下不到1纳克的DNA并且它们通常还会降解，对吧？
 Dialogue: 0,0:03:18.66,0:03:23.24,ENG,,0,0,0,,of DNA left and it's usually degraded, right?
 Dialogue: 0,0:03:18.66,0:03:23.24,CHN,,0,0,0,,
 Dialogue: 0,0:03:23.24,0:03:25.26,ENG,,0,0,0,,So it breaks down. - Why is there so little?
-Dialogue: 0,0:03:23.24,0:03:25.26,CHN,,0,0,0,,
+Dialogue: 0,0:03:23.24,0:03:25.26,CHN,,0,0,0,,所以它解体了 为什么这么少？
 Dialogue: 0,0:03:25.26,0:03:26.26,ENG,,0,0,0,,at a crime scene?
-Dialogue: 0,0:03:25.26,0:03:26.26,CHN,,0,0,0,,
+Dialogue: 0,0:03:25.26,0:03:26.26,CHN,,0,0,0,,在犯罪现场？
 Dialogue: 0,0:03:26.26,0:03:27.13,ENG,,0,0,0,,A nanogram?
-Dialogue: 0,0:03:26.26,0:03:27.13,CHN,,0,0,0,,
+Dialogue: 0,0:03:26.26,0:03:27.13,CHN,,0,0,0,,1纳克？
 Dialogue: 0,0:03:27.13,0:03:27.96,ENG,,0,0,0,,- Yes.
-Dialogue: 0,0:03:27.13,0:03:27.96,CHN,,0,0,0,,
+Dialogue: 0,0:03:27.13,0:03:27.96,CHN,,0,0,0,,对的
 Dialogue: 0,0:03:27.96,0:03:28.79,ENG,,0,0,0,,- That's insane.
-Dialogue: 0,0:03:27.96,0:03:28.79,CHN,,0,0,0,,
+Dialogue: 0,0:03:27.96,0:03:28.79,CHN,,0,0,0,,这太疯狂了
 Dialogue: 0,0:03:28.79,0:03:29.62,ENG,,0,0,0,,- Yes.
-Dialogue: 0,0:03:28.79,0:03:29.62,CHN,,0,0,0,,
+Dialogue: 0,0:03:28.79,0:03:29.62,CHN,,0,0,0,,对啊
 Dialogue: 0,0:03:29.62,0:03:32.62,ENG,,0,0,0,,- There's no accident that he stops in 1986.
-Dialogue: 0,0:03:29.62,0:03:32.62,CHN,,0,0,0,,
+Dialogue: 0,0:03:29.62,0:03:32.62,CHN,,0,0,0,,他在1986年停止作案绝非偶然
 Dialogue: 0,0:03:32.62,0:03:37.62,ENG,,0,0,0,,1986 is when the first DNA case of a murder case
-Dialogue: 0,0:03:32.62,0:03:37.62,CHN,,0,0,0,,
+Dialogue: 0,0:03:32.62,0:03:37.62,CHN,,0,0,0,,1986年是第一个谋杀案的第一起DNA案件解决的年份
 Dialogue: 0,0:03:38.32,0:03:41.61,ENG,,0,0,0,,is actually solved with DNA and he's,
-Dialogue: 0,0:03:38.32,0:03:41.61,CHN,,0,0,0,,
+Dialogue: 0,0:03:38.32,0:03:41.61,CHN,,0,0,0,,第一次用DNA解决的，嗯..他...
 Dialogue: 0,0:03:41.61,0:03:45.22,ENG,,0,0,0,,I think he's following that and he's saying, you know what,
-Dialogue: 0,0:03:41.61,0:03:45.22,CHN,,0,0,0,,
+Dialogue: 0,0:03:41.61,0:03:45.22,CHN,,0,0,0,,我觉得他正在跟进这些案件的进度，他说，你知道吗
 Dialogue: 0,0:03:45.22,0:03:49.09,ENG,,0,0,0,,what I'm doing here, I'm leaving my DNA.
-Dialogue: 0,0:03:45.22,0:03:49.09,CHN,,0,0,0,,
+Dialogue: 0,0:03:45.22,0:03:49.09,CHN,,0,0,0,,我在这正在做的事，会遗留下我的DNA
 Dialogue: 0,0:03:49.09,0:03:50.61,ENG,,0,0,0,,I can't do this anymore.
-Dialogue: 0,0:03:49.09,0:03:50.61,CHN,,0,0,0,,
+Dialogue: 0,0:03:49.09,0:03:50.61,CHN,,0,0,0,,我可再也不能犯罪了
 Dialogue: 0,0:03:50.61,0:03:52.57,ENG,,0,0,0,,- [Reporter] Investigator Paul Holes tracked
-Dialogue: 0,0:03:50.61,0:03:52.57,CHN,,0,0,0,,
+Dialogue: 0,0:03:50.61,0:03:52.57,CHN,,0,0,0,,调查员保罗·霍尔斯追查了“金州杀手”几十年
 Dialogue: 0,0:03:52.57,0:03:54.33,ENG,,0,0,0,,the golden state killer for decades.
 Dialogue: 0,0:03:52.57,0:03:54.33,CHN,,0,0,0,,
 Dialogue: 0,0:03:54.33,0:03:56.35,ENG,,0,0,0,,- He couldn't it account for DNA technology
-Dialogue: 0,0:03:54.33,0:03:56.35,CHN,,0,0,0,,
+Dialogue: 0,0:03:54.33,0:03:56.35,CHN,,0,0,0,,他解释不了DNA技术
 Dialogue: 0,0:03:56.35,0:03:58.40,ENG,,0,0,0,,and that really was his big mistake.
-Dialogue: 0,0:03:56.35,0:03:58.40,CHN,,0,0,0,,
+Dialogue: 0,0:03:56.35,0:03:58.40,CHN,,0,0,0,,这确实是他犯下的大错
 Dialogue: 0,0:03:58.40,0:04:00.01,ENG,,0,0,0,,That was the critical mistake.
-Dialogue: 0,0:03:58.40,0:04:00.01,CHN,,0,0,0,,
+Dialogue: 0,0:03:58.40,0:04:00.01,CHN,,0,0,0,,这是一项严重的错误
 Dialogue: 0,0:04:00.01,0:04:03.03,ENG,,0,0,0,,He left his DNA all over California.
-Dialogue: 0,0:04:00.01,0:04:03.03,CHN,,0,0,0,,
+Dialogue: 0,0:04:00.01,0:04:03.03,CHN,,0,0,0,,他把他的DNA留得整个加州到处都是
 Dialogue: 0,0:04:03.03,0:04:05.20,ENG,,0,0,0,,And it turns out that in three of the cases,
-Dialogue: 0,0:04:03.03,0:04:05.20,CHN,,0,0,0,,
+Dialogue: 0,0:04:03.03,0:04:05.20,CHN,,0,0,0,,事实证明，在其中三个案例中
 Dialogue: 0,0:04:05.20,0:04:07.66,ENG,,0,0,0,,I had three sexual assault kits and that's where I got
-Dialogue: 0,0:04:05.20,0:04:07.66,CHN,,0,0,0,,
+Dialogue: 0,0:04:05.20,0:04:07.66,CHN,,0,0,0,,我又三个性侵犯工具包，这就是我从北加州获得“金州杀手”DNA的地方
 Dialogue: 0,0:04:07.66,0:04:10.92,ENG,,0,0,0,,the golden state killer's DNA from Northern California.
 Dialogue: 0,0:04:07.66,0:04:10.92,CHN,,0,0,0,,
 Dialogue: 0,0:04:12.35,0:04:15.70,ENG,,0,0,0,,- But having the unknown killer's DNA wasn't enough.
-Dialogue: 0,0:04:12.35,0:04:15.70,CHN,,0,0,0,,
+Dialogue: 0,0:04:12.35,0:04:15.70,CHN,,0,0,0,,但只有未知杀手的DNA还不够
 Dialogue: 0,0:04:15.70,0:04:19.11,ENG,,0,0,0,,They needed to match it to a known sample.
-Dialogue: 0,0:04:15.70,0:04:19.11,CHN,,0,0,0,,
+Dialogue: 0,0:04:15.70,0:04:19.11,CHN,,0,0,0,,他们还需将其与已知样本相匹配
 Dialogue: 0,0:04:19.11,0:04:21.64,ENG,,0,0,0,,In 1990, the FBI started work
 Dialogue: 0,0:04:19.11,0:04:21.64,CHN,,0,0,0,,1990年，FBI(美国联邦调查局)
 Dialogue: 0,0:04:21.64,0:04:24.83,ENG,,0,0,0,,on what would become a national genetic database.
