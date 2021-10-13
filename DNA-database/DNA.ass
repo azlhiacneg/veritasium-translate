@@ -6,1146 +6,1133 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1280
-PlayResY: 720
+PlayResX: 3840
+PlayResY: 2160
 
 [Aegisub Project Garbage]
-Audio File: Your DNA is already in a database-KT18KJouHWg.mp4
-Video File: Your DNA is already in a database-KT18KJouHWg.mp4
+Last Style Storage: Default
+Audio File: new.mp4
+Video File: new.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 94
-Active Line: 99
-Video Position: 18993
+Video Zoom Percent: 0.125000
+Scroll Position: 1094
+Active Line: 1104
+Video Position: 47294
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ENG,Inter,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,3,3,3,1
-Style: CHN,MonyharOS Sans SC Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,5,5,3,1
+Style: English,Yuanti SC,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,2,20,20,20,1
+Style: Chinese,Yuanti SC,110,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,2,20,20,90,1
+Style: Chinese with background,Yuanti SC,110,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,4,4,2,20,20,90,1
+Style: English with background,Yuanti SC,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,4,4,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.08,0:00:03.94,ENG,,0,0,0,, Your DNA is probably already in a database.
-Dialogue: 0,0:00:00.08,0:00:03.94,CHN,,0,0,0,,你的DNA可能已经在一个数据库当中了
-Dialogue: 0,0:00:03.94,0:00:07.17,ENG,,0,0,0,,You didn't have to provide a sample or give consent
-Dialogue: 0,0:00:03.94,0:00:07.17,CHN,,0,0,0,,你无需提供样本或者给予许可
-Dialogue: 0,0:00:07.17,0:00:08.64,ENG,,0,0,0,,but the unique sequence
-Dialogue: 0,0:00:08.64,0:00:11.93,ENG,,0,0,0,,of As, Ts, Gs and Cs that make you you
-Dialogue: 0,0:00:07.17,0:00:11.93,CHN,,0,0,0,,但四种碱基（A、T、G和C）的独特序列
-Dialogue: 0,0:00:11.93,0:00:13.87,ENG,,0,0,0,,are searchable nonetheless.
-Dialogue: 0,0:00:11.93,0:00:13.87,CHN,,0,0,0,,使你依然可以被检索
-Dialogue: 0,0:00:13.87,0:00:15.77,ENG,,0,0,0,,So if you committed a heinous crime
-Dialogue: 0,0:00:13.87,0:00:15.77,CHN,,0,0,0,,所以，如果你犯下了令人发指的罪行
-Dialogue: 0,0:00:15.77,0:00:17.35,ENG,,0,0,0,,and left a bit of your DNA,
-Dialogue: 0,0:00:15.77,0:00:17.35,CHN,,0,0,0,,并留下了你哪怕只有一点的DNA
-Dialogue: 0,0:00:17.35,0:00:20.05,ENG,,0,0,0,,law enforcement could search it in a database
-Dialogue: 0,0:00:17.35,0:00:20.05,CHN,,0,0,0,,执法部门就可以在数据库中对你的DNA进行检索
-Dialogue: 0,0:00:20.05,0:00:21.43,ENG,,0,0,0,,and identify you.
-Dialogue: 0,0:00:20.05,0:00:21.43,CHN,,0,0,0,,并最终识别到你的身份
-Dialogue: 0,0:00:22.90,0:00:26.04,ENG,,0,0,0,,This video includes a discussion of serious crimes
-Dialogue: 0,0:00:26.04,0:00:28.06,ENG,,0,0,0,,which may be disturbing for some viewers
-Dialogue: 0,0:00:22.90,0:00:28.06,CHN,,0,0,0,,本视频包括一些可能令观众感到不安的严重罪行的讨论
-Dialogue: 0,0:00:28.06,0:00:30.60,ENG,,0,0,0,,so I wanted to let you know that upfront,
-Dialogue: 0,0:00:28.06,0:00:30.60,CHN,,0,0,0,,所以我想提前告知您
-Dialogue: 0,0:00:30.60,0:00:32.11,ENG,,0,0,0,,but I think it's necessary
-Dialogue: 0,0:00:30.60,0:00:32.11,CHN,,0,0,0,,但由于显而易见的原因
-Dialogue: 0,0:00:32.11,0:00:34.40,ENG,,0,0,0,,to talk about these crimes in some detail
-Dialogue: 0,0:00:34.40,0:00:36.81,ENG,,0,0,0,,for reasons that will become apparent.
-Dialogue: 0,0:00:32.11,0:00:36.81,CHN,,0,0,0,,我认为有必要详细讨论这些犯罪
-Dialogue: 0,0:00:39.26,0:00:43.43,ENG,,0,0,0,,In the small town of Visalia, California in the mid 1970s,
-Dialogue: 0,0:00:39.26,0:00:43.43,CHN,,0,0,0,,1970年代中期，在加利福尼亚州维塞利亚小镇
-Dialogue: 0,0:00:43.43,0:00:46.94,ENG,,0,0,0,,one of the state's most prolific criminals got his start.
-Dialogue: 0,0:00:43.43,0:00:46.94,CHN,,0,0,0,,该州犯罪最多的罪犯之一开始了他的犯罪生涯
-Dialogue: 0,0:00:46.94,0:00:50.78,ENG,,0,0,0,,He repeatedly broke into houses and stole small items
-Dialogue: 0,0:00:50.78,0:00:53.47,ENG,,0,0,0,,like cash, coins, and jewelry.
-Dialogue: 0,0:00:46.94,0:00:53.47,CHN,,0,0,0,,他多次闯入民宅并偷走现金、硬币和珠宝等小物件
-Dialogue: 0,0:00:53.47,0:00:56.46,ENG,,0,0,0,,He was dubbed the Visalia ransacker
-Dialogue: 0,0:00:53.47,0:00:56.46,CHN,,0,0,0,,他被称为“维塞利亚劫掠者”
-Dialogue: 0,0:00:56.46,0:00:59.29,ENG,,0,0,0,,but soon his crimes escalated.
-Dialogue: 0,0:00:56.46,0:00:59.29,CHN,,0,0,0,,但很快他的罪行就不止于此了
-Dialogue: 0,0:00:59.29,0:01:01.22,ENG,,0,0,0,,- Six months later in 1976,
-Dialogue: 0,0:00:59.29,0:01:01.22,CHN,,0,0,0,,六个月后的1976年
-Dialogue: 0,0:01:01.22,0:01:02.96,ENG,,0,0,0,,he moves up to Sacramento and over
-Dialogue: 0,0:01:01.22,0:01:02.96,CHN,,0,0,0,,他搬去了萨克拉门托
-Dialogue: 0,0:01:02.96,0:01:04.56,ENG,,0,0,0,,the course of the next three years,
-Dialogue: 0,0:01:02.96,0:01:04.56,CHN,,0,0,0,,并且在接下来的三年里
-Dialogue: 0,0:01:04.56,0:01:08.13,ENG,,0,0,0,,he's moving all across Northern California
-Dialogue: 0,0:01:08.13,0:01:10.60,ENG,,0,0,0,,committing numerous sexual assaults,
-Dialogue: 0,0:01:10.60,0:01:12.66,ENG,,0,0,0,,over 50 sexual assaults.
-Dialogue: 0,0:01:04.56,0:01:12.66,CHN,,0,0,0,,他在北加州多地犯下了了超过50起强奸案
-Dialogue: 0,0:01:12.66,0:01:15.60,ENG,,0,0,0,,- Here, he was called the east area rapist.
-Dialogue: 0,0:01:12.66,0:01:15.60,CHN,,0,0,0,,在这里，他被称为“东区强暴魔”
-Dialogue: 0,0:01:15.60,0:01:17.87,ENG,,0,0,0,,- [Male Reporter] The police are saying lock up tight.
-Dialogue: 0,0:01:15.60,0:01:17.87,CHN,,0,0,0,,警察说要锁紧门窗
-Dialogue: 0,0:01:17.87,0:01:21.26,ENG,,0,0,0,,Sacramento's infamous east area rapist may still be in town.
-Dialogue: 0,0:01:17.87,0:01:21.26,CHN,,0,0,0,,因为萨拉克门托臭名昭著的“东区强暴魔”可能还在城里
-Dialogue: 0,0:01:22.28,0:01:26.06,ENG,,0,0,0,,- And then in 1979, he moves down to Southern California,
-Dialogue: 0,0:01:22.28,0:01:26.06,CHN,,0,0,0,,然后在1979年，他搬去南加州
-Dialogue: 0,0:01:26.06,0:01:29.31,ENG,,0,0,0,,starting in Santa Barbara and starts killing.
-Dialogue: 0,0:01:26.06,0:01:29.31,CHN,,0,0,0,,从圣巴巴拉开始杀人
-Dialogue: 0,0:01:29.31,0:01:31.25,ENG,,0,0,0,,And he was known as the original night stalker
-Dialogue: 0,0:01:31.25,0:01:32.78,ENG,,0,0,0,,in Southern California.
-Dialogue: 0,0:01:29.31,0:01:32.78,CHN,,0,0,0,,他被称为南加州的“暗夜尾行者”
-Dialogue: 0,0:01:32.78,0:01:35.07,ENG,,0,0,0,,- [Reporter] Variously known as the east area rapist
-Dialogue: 0,0:01:35.07,0:01:37.04,ENG,,0,0,0,,and the original night stalker,
-Dialogue: 0,0:01:32.78,0:01:37.04,CHN,,0,0,0,,他被人们称为“东区强暴魔”“暗夜尾行者”
-Dialogue: 0,0:01:37.04,0:01:39.97,ENG,,0,0,0,,these were brutal meticulously planned crimes
-Dialogue: 0,0:01:39.97,0:01:42.23,ENG,,0,0,0,,that spanned numerous California counties
-Dialogue: 0,0:01:42.23,0:01:45.69,ENG,,0,0,0,,between 1976 and 1986.
-Dialogue: 0,0:01:37.04,0:01:45.69,CHN,,0,0,0,,这些是1976年至1986年间跨越加利福尼亚州多县之间精心策划的残酷犯罪
-Dialogue: 0,0:01:45.69,0:01:47.81,ENG,,0,0,0,,- Police believed that all of these crimes
-Dialogue: 0,0:01:47.81,0:01:50.16,ENG,,0,0,0,,were committed by the same person
-Dialogue: 0,0:01:50.16,0:01:52.84,ENG,,0,0,0,,now known as the golden state killer.
-Dialogue: 0,0:01:45.69,0:01:52.84,CHN,,0,0,0,,警察相信所有这些罪行都是由现在被称为“金州杀手”的同一人所犯
-Dialogue: 0,0:01:52.84,0:01:54.90,ENG,,0,0,0,,How was it known that these were committed
-Dialogue: 0,0:01:54.90,0:01:56.01,ENG,,0,0,0,,by the same person?
-Dialogue: 0,0:01:52.84,0:01:56.01,CHN,,0,0,0,,如何知道这些都是由同一人所犯的呢？
-Dialogue: 0,0:01:56.01,0:01:59.36,ENG,,0,0,0,,- Investigators were relying on MO.
-Dialogue: 0,0:01:56.01,0:01:59.36,CHN,,0,0,0,,调查人员们依赖MO
-Dialogue: 0,0:01:59.36,0:02:01.78,ENG,,0,0,0,,MO, modus operandi is basically
-Dialogue: 0,0:02:01.78,0:02:05.92,ENG,,0,0,0,,how a criminal will commit a crime.
-Dialogue: 0,0:01:59.36,0:02:05.92,CHN,,0,0,0,,MO，作案手法，基本上可以理解为犯罪分子是如何犯罪的
-Dialogue: 0,0:02:05.92,0:02:09.79,ENG,,0,0,0,,- He was wearing some type of a mask or a hood.
-Dialogue: 0,0:02:05.92,0:02:09.79,CHN,,0,0,0,,他戴着某种面具或者兜帽
-Dialogue: 0,0:02:09.79,0:02:11.97,ENG,,0,0,0,,He was wearing shorts and a T-shirt.
-Dialogue: 0,0:02:09.79,0:02:11.97,CHN,,0,0,0,,他穿着短裤和T恤衫
-Dialogue: 0,0:02:11.97,0:02:14.65,ENG,,0,0,0,,- The golden state killer had a very distinctive MO
-Dialogue: 0,0:02:11.97,0:02:14.65,CHN,,0,0,0,,“金州杀手”有一个非常独特的MO
-Dialogue: 0,0:02:14.65,0:02:15.55,ENG,,0,0,0,,- What he would do is
-Dialogue: 0,0:02:14.65,0:02:15.55,CHN,,0,0,0,,他会做的是
-Dialogue: 0,0:02:15.55,0:02:19.10,ENG,,0,0,0,,he would break into a house with a gun,
-Dialogue: 0,0:02:19.10,0:02:21.21,ENG,,0,0,0,,a house with a man and a woman.
-Dialogue: 0,0:02:15.55,0:02:21.21,CHN,,0,0,0,,他会持枪闯入一栋有男人和女人的民宅
-Dialogue: 0,0:02:21.21,0:02:23.03,ENG,,0,0,0,,He would tie them up
-Dialogue: 0,0:02:21.21,0:02:23.03,CHN,,0,0,0,,他会把他们绑起来
-Dialogue: 0,0:02:24.06,0:02:27.22,ENG,,0,0,0,,tell the man I'm gonna put plates on your back.
-Dialogue: 0,0:02:24.06,0:02:27.22,CHN,,0,0,0,,然后告诉那个男人，我要把盘子放到你的后背上
-Dialogue: 0,0:02:27.22,0:02:28.70,ENG,,0,0,0,,If I hear those plates move,
-Dialogue: 0,0:02:27.22,0:02:28.70,CHN,,0,0,0,,如果我听到盘子动了
-Dialogue: 0,0:02:28.70,0:02:31.40,ENG,,0,0,0,,I'm going to kill your wife and then kill you,
-Dialogue: 0,0:02:28.70,0:02:31.40,CHN,,0,0,0,,我就要杀了你的妻子然后再杀了你
-Dialogue: 0,0:02:31.40,0:02:34.47,ENG,,0,0,0,,take the wife into another room and sexually assault her.
-Dialogue: 0,0:02:31.40,0:02:34.47,CHN,,0,0,0,,他把妻子带到另一个房间对她进行性侵犯
-Dialogue: 0,0:02:34.47,0:02:38.90,ENG,,0,0,0,,Then he would go through the house for however much time,
-Dialogue: 0,0:02:34.47,0:02:38.90,CHN,,0,0,0,,然后他会在房子里徘徊相当久
-Dialogue: 0,0:02:38.90,0:02:42.11,ENG,,0,0,0,,eating, stealing stuff, stealing little things or whatever
-Dialogue: 0,0:02:38.90,0:02:42.11,CHN,,0,0,0,,就吃东西，偷东西之类的
-Dialogue: 0,0:02:42.11,0:02:43.42,ENG,,0,0,0,,and then he would leave.
-Dialogue: 0,0:02:42.11,0:02:43.42,CHN,,0,0,0,,然后他才会离开
-Dialogue: 0,0:02:43.42,0:02:46.90,ENG,,0,0,0,,- How was he not caught based on fingerprint evidence?
-Dialogue: 0,0:02:43.42,0:02:46.90,CHN,,0,0,0,,他怎么没因为指纹证据被抓？
-Dialogue: 0,0:02:46.90,0:02:48.88,ENG,,0,0,0,,- Well, he didn't leave his fingerprints.
-Dialogue: 0,0:02:46.90,0:02:48.88,CHN,,0,0,0,,好吧，他没留下指纹
-Dialogue: 0,0:02:48.88,0:02:49.94,ENG,,0,0,0,,He always wore a mask.
-Dialogue: 0,0:02:48.88,0:02:49.94,CHN,,0,0,0,,他总是戴着面具
-Dialogue: 0,0:02:49.94,0:02:51.14,ENG,,0,0,0,,He always had gloves on.
-Dialogue: 0,0:02:49.94,0:02:51.14,CHN,,0,0,0,,他总是戴着手套
-Dialogue: 0,0:02:51.14,0:02:53.75,ENG,,0,0,0,,This was an offender that did everything
-Dialogue: 0,0:02:53.75,0:02:55.73,ENG,,0,0,0,,to prevent himself from being caught.
-Dialogue: 0,0:02:51.14,0:02:55.73,CHN,,0,0,0,,这是一个竭尽全力防止自己被抓的罪犯
-Dialogue: 0,0:02:55.73,0:02:57.32,ENG,,0,0,0,,- [Reporter] The golden state killer has been linked
-Dialogue: 0,0:02:57.32,0:02:59.90,ENG,,0,0,0,,to at least 12 murders, 50 rapes
-Dialogue: 0,0:02:59.90,0:03:02.53,ENG,,0,0,0,,and a string of burglaries throughout California.
-Dialogue: 0,0:02:55.73,0:03:02.53,CHN,,0,0,0,,金州杀手与在加州发生的至少12起谋杀案、50起强奸案和一系列的盗窃案有关
-Dialogue: 0,0:03:06.69,0:03:08.05,ENG,,0,0,0,,- All right, how's it going?
-Dialogue: 0,0:03:06.69,0:03:08.05,CHN,,0,0,0,,最近怎么样？
-Dialogue: 0,0:03:08.05,0:03:09.34,ENG,,0,0,0,,- How you doing? - Good.
-Dialogue: 0,0:03:08.05,0:03:09.34,CHN,,0,0,0,,你好吗？ 好的好的
-Dialogue: 0,0:03:09.34,0:03:12.76,ENG,,0,0,0,,- So we supply DNA sequencing solutions
-Dialogue: 0,0:03:12.76,0:03:15.97,ENG,,0,0,0,,to the forensic laboratories that process crime scene DNA.
-Dialogue: 0,0:03:09.34,0:03:15.97,CHN,,0,0,0,,我们为处理犯罪现场DNA的法医实验室提供DNA测序解决方案
-Dialogue: 0,0:03:15.97,0:03:18.66,ENG,,0,0,0,,At a crime scene, there's typically less than a nanogram
-Dialogue: 0,0:03:18.66,0:03:23.24,ENG,,0,0,0,,of DNA left and it's usually degraded, right?
-Dialogue: 0,0:03:15.97,0:03:23.24,CHN,,0,0,0,,一般我们在犯罪现场，只能找到不到1纳克的DNA并且它们通常还会降解，对吧？
-Dialogue: 0,0:03:15.97,0:03:23.24,CHN,,0,0,0,,{\an7}纳克{\fsp-24}：{\fsp0}10的-9次方克{\fsp-24}
-Dialogue: 0,0:03:23.24,0:03:24.50,ENG,,0,0,0,,So it breaks down. 
-Dialogue: 0,0:03:23.24,0:03:24.50,CHN,,0,0,0,,所以它降解了 
-Dialogue: 0,0:03:24.50,0:03:26.26,ENG,,0,0,0,,- Why is there so little? at a crime scene?
-Dialogue: 0,0:03:24.50,0:03:26.26,CHN,,0,0,0,,为什么在犯罪现场，只有这么少？？？
-Dialogue: 0,0:03:26.26,0:03:27.13,ENG,,0,0,0,,A nanogram?
-Dialogue: 0,0:03:26.26,0:03:27.13,CHN,,0,0,0,,只有1纳克？
-Dialogue: 0,0:03:27.13,0:03:27.96,ENG,,0,0,0,,- Yes.
-Dialogue: 0,0:03:27.13,0:03:27.96,CHN,,0,0,0,,对的
-Dialogue: 0,0:03:27.96,0:03:28.79,ENG,,0,0,0,,- That's insane.
-Dialogue: 0,0:03:27.96,0:03:28.79,CHN,,0,0,0,,这太疯狂了
-Dialogue: 0,0:03:28.79,0:03:29.62,ENG,,0,0,0,,- Yes.
-Dialogue: 0,0:03:28.79,0:03:29.62,CHN,,0,0,0,,对啊
-Dialogue: 0,0:03:29.62,0:03:32.62,ENG,,0,0,0,,- There's no accident that he stops in 1986.
-Dialogue: 0,0:03:29.62,0:03:32.62,CHN,,0,0,0,,他在1986年停止作案绝非偶然
-Dialogue: 0,0:03:32.62,0:03:37.62,ENG,,0,0,0,,1986 is when the first DNA case of a murder case
-Dialogue: 0,0:03:32.62,0:03:37.62,CHN,,0,0,0,,1986年是第一个谋杀案的第一起DNA案件解决的年份
-Dialogue: 0,0:03:38.32,0:03:41.61,ENG,,0,0,0,,is actually solved with DNA and he's,
-Dialogue: 0,0:03:38.32,0:03:41.61,CHN,,0,0,0,,第一次用DNA解决的，嗯..他...
-Dialogue: 0,0:03:41.61,0:03:45.22,ENG,,0,0,0,,I think he's following that and he's saying, you know what,
-Dialogue: 0,0:03:41.61,0:03:45.22,CHN,,0,0,0,,我觉得他正在跟进这些案件的进度，他说，你知道吗
-Dialogue: 0,0:03:45.22,0:03:49.09,ENG,,0,0,0,,what I'm doing here, I'm leaving my DNA.
-Dialogue: 0,0:03:45.22,0:03:49.09,CHN,,0,0,0,,我在这做的事，会遗留下我的DNA
-Dialogue: 0,0:03:49.09,0:03:50.61,ENG,,0,0,0,,I can't do this anymore.
-Dialogue: 0,0:03:49.09,0:03:50.61,CHN,,0,0,0,,我可再也不能犯罪了
-Dialogue: 0,0:03:50.61,0:03:52.57,ENG,,0,0,0,,- [Reporter] Investigator Paul Holes tracked
-Dialogue: 0,0:03:52.57,0:03:54.33,ENG,,0,0,0,,the golden state killer for decades.
-Dialogue: 0,0:03:50.61,0:03:54.33,CHN,,0,0,0,,调查员保罗·霍尔斯追查了“金州杀手”几十年
-Dialogue: 0,0:03:54.33,0:03:56.35,ENG,,0,0,0,,- He couldn't account for DNA technology
-Dialogue: 0,0:03:54.33,0:03:56.35,CHN,,0,0,0,,他不了解DNA技术
-Dialogue: 0,0:03:56.35,0:03:58.40,ENG,,0,0,0,,and that really was his big mistake.
-Dialogue: 0,0:03:56.35,0:03:58.40,CHN,,0,0,0,,这确实是他犯下的大错
-Dialogue: 0,0:03:58.40,0:04:00.01,ENG,,0,0,0,,That was the critical mistake.
-Dialogue: 0,0:03:58.40,0:04:00.01,CHN,,0,0,0,,这是一项严重的错误
-Dialogue: 0,0:04:00.01,0:04:03.03,ENG,,0,0,0,,He left his DNA all over California.
-Dialogue: 0,0:04:00.01,0:04:03.03,CHN,,0,0,0,,他把他的DNA留得整个加州到处都是
-Dialogue: 0,0:04:03.03,0:04:05.20,ENG,,0,0,0,,And it turns out that in three of the cases,
-Dialogue: 0,0:04:03.03,0:04:05.20,CHN,,0,0,0,,事实证明，在其中三个案例中
-Dialogue: 0,0:04:05.20,0:04:07.66,ENG,,0,0,0,,I had three sexual assault kits and that's where I got
-Dialogue: 0,0:04:07.66,0:04:10.92,ENG,,0,0,0,,the golden state killer's DNA from Northern California.
-Dialogue: 0,0:04:05.20,0:04:07.66,CHN,,0,0,0,,我有三个性侵工具包，这就是我从北加州获得“金州杀手”DNA的地方
-Dialogue: 0,0:04:05.20,0:04:07.66,CHN,,0,0,0,,{\an7}性侵工具包{\fsp-24}：{\fsp0}一种取证工具{\fsp-24}，能帮助受害者快速留下被性侵证据{\fsp0}
-Dialogue: 0,0:04:12.35,0:04:15.70,ENG,,0,0,0,,- But having the unknown killer's DNA wasn't enough.
-Dialogue: 0,0:04:12.35,0:04:15.70,CHN,,0,0,0,,但只有未知杀手的DNA还不够
-Dialogue: 0,0:04:15.70,0:04:19.11,ENG,,0,0,0,,They needed to match it to a known sample.
-Dialogue: 0,0:04:15.70,0:04:19.11,CHN,,0,0,0,,他们还需将其与已知样本匹配起来
-Dialogue: 0,0:04:19.11,0:04:21.64,ENG,,0,0,0,,In 1990, the FBI started work on 
-Dialogue: 0,0:04:19.11,0:04:21.64,CHN,,0,0,0,,1990年，FBI(美国联邦调查局)
-Dialogue: 0,0:04:21.64,0:04:24.83,ENG,,0,0,0,,what would become a national genetic database.
-Dialogue: 0,0:04:21.64,0:04:24.83,CHN,,0,0,0,,开始建立全国的基因库
-Dialogue: 0,0:04:24.83,0:04:26.83,ENG,,0,0,0,,It mainly stores DNA profiles
-Dialogue: 0,0:04:24.83,0:04:26.83,CHN,,0,0,0,,这个基因库主要记录已被判刑的罪犯
-Dialogue: 0,0:04:26.83,0:04:29.81,ENG,,0,0,0,,from convicted criminals and persons of interest.
-Dialogue: 0,0:04:26.83,0:04:29.81,CHN,,0,0,0,,和案件相关人士的DNA档案
-Dialogue: 0,0:04:29.81,0:04:32.91,ENG,,0,0,0,,It's called the combined DNA index system
-Dialogue: 0,0:04:29.81,0:04:32.91,CHN,,0,0,0,,它被称为“联合DNA索引系统”，
-Dialogue: 0,0:04:32.91,0:04:35.13,ENG,,0,0,0,,or CODIS for short.
-Dialogue: 0,0:04:32.91,0:04:35.13,CHN,,0,0,0,,缩写是CODIS
-Dialogue: 0,0:04:35.13,0:04:38.81,ENG,,0,0,0,,In each of your cells, there are 23 pairs of chromosomes,
-Dialogue: 0,0:04:35.13,0:04:38.81,CHN,,0,0,0,,你的每一个细胞中，都有23对染色体
-Dialogue: 0,0:04:38.81,0:04:41.49,ENG,,0,0,0,,one from your mom and one from your dad.
-Dialogue: 0,0:04:38.81,0:04:41.49,CHN,,0,0,0,,一对染色体中有一条来自母亲，另一条来自父亲
-Dialogue: 0,0:04:41.49,0:04:43.96,ENG,,0,0,0,,And at particular places on some chromosomes,
-Dialogue: 0,0:04:41.49,0:04:43.96,CHN,,0,0,0,,在某些染色体中的特定位置上
-Dialogue: 0,0:04:43.96,0:04:46.48,ENG,,0,0,0,,there are short sections of DNA that repeat
-Dialogue: 0,0:04:43.96,0:04:46.48,CHN,,0,0,0,,会有一些重复的DNA片段，
-Dialogue: 0,0:04:47.97,0:04:52.97,ENG,,0,0,0,,like A A T G, A A T G, A A T G, and so on.
-Dialogue: 0,0:04:47.97,0:04:52.97,CHN,,0,0,0,,像是AATG,AATG,AATG这样
-Dialogue: 0,0:04:53.06,0:04:57.20,ENG,,0,0,0,,These are called short tandem repeats or STRs
-Dialogue: 0,0:04:53.06,0:04:57.20,CHN,,0,0,0,,这些片段被称为“短串联重复序列（STR）”
-Dialogue: 0,0:04:57.20,0:05:00.59,ENG,,0,0,0,,and different people have different numbers of repeats.
-Dialogue: 0,0:04:57.20,0:05:00.59,CHN,,0,0,0,,不同的人有不同数量的重复片段
-Dialogue: 0,0:05:00.59,0:05:03.03,ENG,,0,0,0,,Forensic labs produce STR profiles
-Dialogue: 0,0:05:00.59,0:05:03.03,CHN,,0,0,0,,法医实验室通过计算所有的重复片段总数
-Dialogue: 0,0:05:03.03,0:05:06.95,ENG,,0,0,0,,by counting up the number of repeats at each location.
-Dialogue: 0,0:05:03.03,0:05:06.95,CHN,,0,0,0,,来生成STR档案。
-Dialogue: 0,0:05:06.95,0:05:09.81,ENG,,0,0,0,,Initially, there were only 13 places on the DNA
-Dialogue: 0,0:05:06.95,0:05:09.81,CHN,,0,0,0,,最初，DNA上只有13个位置的STR会被计数
-Dialogue: 0,0:05:09.81,0:05:12.69,ENG,,0,0,0,,where STRs were counted, but in 2017
-Dialogue: 0,0:05:09.81,0:05:12.69,CHN,,0,0,0,,但到了2017年
-Dialogue: 0,0:05:12.69,0:05:15.09,ENG,,0,0,0,,that was expanded to 20.
-Dialogue: 0,0:05:12.69,0:05:15.09,CHN,,0,0,0,,这个数量扩大到了20个
-Dialogue: 0,0:05:15.09,0:05:18.00,ENG,,0,0,0,,It feels to me like that's not that much information.
-Dialogue: 0,0:05:15.09,0:05:18.00,CHN,,0,0,0,,我感觉这个档案并没有提供太多有用的信息
-Dialogue: 0,0:05:18.00,0:05:19.14,ENG,,0,0,0,,- It isn't.
-Dialogue: 0,0:05:18.00,0:05:19.14,CHN,,0,0,0,,-不，并不是你认为的这样
-Dialogue: 0,0:05:19.14,0:05:21.04,ENG,,0,0,0,,- But the chances of two people having
-Dialogue: 0,0:05:19.14,0:05:21.04,CHN,,0,0,0,,两个人在所有被计算的位置上，
-Dialogue: 0,0:05:21.04,0:05:24.38,ENG,,0,0,0,,the exact same number of repeats at all locations
-Dialogue: 0,0:05:21.04,0:05:24.38,CHN,,0,0,0,,都拥有相同数量的重复片段的概率
-Dialogue: 0,0:05:24.38,0:05:26.58,ENG,,0,0,0,,is incredibly small.
-Dialogue: 0,0:05:24.38,0:05:26.58,CHN,,0,0,0,,是非常小的
-Dialogue: 0,0:05:26.58,0:05:28.78,ENG,,0,0,0,,The CODIS database now contains
-Dialogue: 0,0:05:26.58,0:05:28.78,CHN,,0,0,0,,现在，CODIS数据库中，
-Dialogue: 0,0:05:28.78,0:05:32.09,ENG,,0,0,0,,over 18 million STR profiles.
-Dialogue: 0,0:05:28.78,0:05:32.09,CHN,,0,0,0,,已经有了超过1800万的STR档案
-Dialogue: 0,0:05:32.09,0:05:35.20,ENG,,0,0,0,,- The golden state killer's DNA profile has been up
-Dialogue: 0,0:05:32.09,0:05:35.20,CHN,,0,0,0,,2001年，金州杀手的DNA档案
-Dialogue: 0,0:05:35.20,0:05:37.40,ENG,,0,0,0,,at the national DNA database
-Dialogue: 0,0:05:35.20,0:05:37.40,CHN,,0,0,0,,就被上传到了
-Dialogue: 0,0:05:37.40,0:05:41.17,ENG,,0,0,0,,that's run by the FBI called CODIS since 2001
-Dialogue: 0,0:05:37.40,0:05:41.17,CHN,,0,0,0,,FBI建立的国家DNA数据库（CODIS）
-Dialogue: 0,0:05:41.17,0:05:44.97,ENG,,0,0,0,,and has been searching ever since with no hits.
-Dialogue: 0,0:05:41.17,0:05:44.97,CHN,,0,0,0,,自那以后，就一直在找他，但毫无成效
-Dialogue: 0,0:05:44.97,0:05:46.92,ENG,,0,0,0,,We did Interpol searching,
-Dialogue: 0,0:05:44.97,0:05:46.92,CHN,,0,0,0,,我们向国际刑警组织申请
-Dialogue: 0,0:05:46.92,0:05:49.73,ENG,,0,0,0,,trying to search other country's DNA databases thinking
-Dialogue: 0,0:05:46.92,0:05:49.73,CHN,,0,0,0,,尝试在其他国家的DNA数据库中搜索，想着
-Dialogue: 0,0:05:49.73,0:05:51.53,ENG,,0,0,0,,well, maybe he came from a out of the country
-Dialogue: 0,0:05:51.53,0:05:54.95,ENG,,0,0,0,,that's why after all this time we have yet
-Dialogue: 0,0:05:49.73,0:05:54.95,CHN,,0,0,0,,好吧，用了这么长时间都能没确认他的身份的原因
-Dialogue: 0,0:05:54.95,0:05:56.56,ENG,,0,0,0,,to be able to identify him
-Dialogue: 0,0:05:54.95,0:05:56.56,CHN,,0,0,0,,可能是因为他来自其他国家
-Dialogue: 0,0:05:56.56,0:05:58.56,ENG,,0,0,0,,and obviously we didn't get any hits.
-Dialogue: 0,0:05:56.56,0:05:58.56,CHN,,0,0,0,,不过很显然，我们的搜索没有任何收获
-Dialogue: 0,0:06:00.26,0:06:04.01,ENG,,0,0,0,,- But genetic sequencing technology was advancing rapidly.
-Dialogue: 0,0:06:00.26,0:06:04.01,CHN,,0,0,0,,尽管如此，基因测序技术依然发展迅猛
-Dialogue: 0,0:06:04.01,0:06:06.58,ENG,,0,0,0,,- [Female Reporter] The human genome project was completed.
-Dialogue: 0,0:06:04.01,0:06:06.58,CHN,,0,0,0,,[女记者]人类基因组计划已经完成
-Dialogue: 0,0:06:06.58,0:06:10.63,ENG,,0,0,0,,Since 1986 scientists had been mapping and sequencing
-Dialogue: 0,0:06:06.58,0:06:10.63,CHN,,0,0,0,,从1986年开始，科学家们就一直在
-Dialogue: 0,0:06:10.63,0:06:13.81,ENG,,0,0,0,,the three billion nucleotides contained
-Dialogue: 0,0:06:10.63,0:06:13.81,CHN,,0,0,0,,绘制和测序人类基因组中的
-Dialogue: 0,0:06:13.81,0:06:15.28,ENG,,0,0,0,,in the human genome.
-Dialogue: 0,0:06:13.81,0:06:15.28,CHN,,0,0,0,,30亿个核苷酸
-Dialogue: 0,0:06:15.28,0:06:16.25,ENG,,0,0,0,,It's anticipated that
-Dialogue: 0,0:06:15.28,0:06:16.25,CHN,,0,0,0,,这很让人期待……
-Dialogue: 0,0:06:16.25,0:06:19.24,ENG,,0,0,0,,- Soon private companies began offering genetic tests
-Dialogue: 0,0:06:16.25,0:06:19.24,CHN,,0,0,0,,- 很快，私人公司们就开好似直接给客户们提供基因测试的项目
-Dialogue: 0,0:06:19.24,0:06:23.56,ENG,,0,0,0,,directly to consumers and they provide far more genetic data
-Dialogue: 0,0:06:23.56,0:06:26.14,ENG,,0,0,0,,than what's in the CODIS database.
-Dialogue: 0,0:06:19.24,0:06:26.14,CHN,,0,0,0,,并向CODIS数据库直接提供更多的基因数据
-Dialogue: 0,0:06:26.14,0:06:27.73,ENG,,0,0,0,,I traveled to Houston, Texas
-Dialogue: 0,0:06:27.73,0:06:30.43,ENG,,0,0,0,,to visit Family Tree DNA headquarters.
-Dialogue: 0,0:06:26.14,0:06:30.43,CHN,,0,0,0,,我去到德州的波士顿，去拜访「家族族谱DNA公司」的总部
-Dialogue: 0,0:06:30.43,0:06:32.17,ENG,,0,0,0,,- We'll go in the lab and we'll start talking
-Dialogue: 0,0:06:32.17,0:06:34.63,ENG,,0,0,0,,about the life cycle of a sample.
-Dialogue: 0,0:06:30.43,0:06:34.63,CHN,,0,0,0,,我们会进到实验室并就一个样本的生命周期进行探讨。
-Dialogue: 0,0:06:34.63,0:06:35.51,ENG,,0,0,0,,There you go.
-Dialogue: 0,0:06:34.63,0:06:35.51,CHN,,0,0,0,,给你
-Dialogue: 0,0:06:35.51,0:06:36.48,ENG,,0,0,0,,- Thank you.
-Dialogue: 0,0:06:35.51,0:06:36.48,CHN,,0,0,0,,谢谢
-Dialogue: 0,0:06:36.48,0:06:38.98,ENG,,0,0,0,,These samples, what are they?
-Dialogue: 0,0:06:36.48,0:06:38.98,CHN,,0,0,0,,这些是什么的样本？
-Dialogue: 0,0:06:38.98,0:06:41.03,ENG,,0,0,0,,- So they're cheek cells. They just scrape
-Dialogue: 0,0:06:38.98,0:06:41.03,CHN,,0,0,0,,这些是脸部的细胞
-Dialogue: 0,0:06:41.03,0:06:43.24,ENG,,0,0,0,,the inside of their cheek, they put a cap on it
-Dialogue: 0,0:06:43.24,0:06:44.41,ENG,,0,0,0,,and they send it back to us.
-Dialogue: 0,0:06:41.03,0:06:44.41,CHN,,0,0,0,,人们就只是在他们的脸颊里面刮一下，用盖子盖上然后就送回给我们。
-Dialogue: 0,0:06:44.41,0:06:46.05,ENG,,0,0,0,,- It's like a robot ballet.
-Dialogue: 0,0:06:44.41,0:06:46.05,CHN,,0,0,0,,- 它就像芭蕾舞机器人一样
-Dialogue: 0,0:06:46.05,0:06:48.73,ENG,,0,0,0,,- Yes, so for DNA extraction,
-Dialogue: 0,0:06:46.05,0:06:48.73,CHN,,0,0,0,,- 是的，DNA提取也是如此
-Dialogue: 0,0:06:48.73,0:06:52.94,ENG,,0,0,0,,we need to remove all of the protections that are on the DNA
-Dialogue: 0,0:06:48.73,0:06:52.94,CHN,,0,0,0,,我们要移除DNA上面的保护层然后它自己就会分离出来
-Dialogue: 0,0:06:52.94,0:06:57.94,ENG,,0,0,0,,and just separate it by itself so we can do testing on that.
-Dialogue: 0,0:06:52.94,0:06:57.94,CHN,,0,0,0,,这样我们就能在它上面进行测试
-Dialogue: 0,0:06:59.41,0:07:02.09,ENG,,0,0,0,,- Instead of looking at 20 places on your DNA,
-Dialogue: 0,0:06:59.41,0:07:02.09,CHN,,0,0,0,,- 我们并不仅仅测试你DNA中的20个地方
-Dialogue: 0,0:07:02.09,0:07:06.07,ENG,,0,0,0,,these tests examined 700 to 800,000.
-Dialogue: 0,0:07:02.09,0:07:06.07,CHN,,0,0,0,,而是测试700到80万个
-Dialogue: 0,0:07:06.07,0:07:07.95,ENG,,0,0,0,,- The Family Finder test is based
-Dialogue: 0,0:07:07.95,0:07:10.05,ENG,,0,0,0,,on what's called a micro array
-Dialogue: 0,0:07:06.07,0:07:10.05,CHN,,0,0,0,,- 寻找家人的(基因)测试是基于一个叫做微阵列的方式
-Dialogue: 0,0:07:10.05,0:07:12.37,ENG,,0,0,0,,and this is what a micro array looks like.
-Dialogue: 0,0:07:10.05,0:07:12.37,CHN,,0,0,0,,这就是微阵列看起来的样子
-Dialogue: 0,0:07:12.37,0:07:15.56,ENG,,0,0,0,,Each one of those boxes is an individual.
-Dialogue: 0,0:07:12.37,0:07:15.56,CHN,,0,0,0,,每一个这种格子都是一个人
-Dialogue: 0,0:07:15.56,0:07:18.02,ENG,,0,0,0,,We can fit 24 individuals on here.
-Dialogue: 0,0:07:15.56,0:07:18.02,CHN,,0,0,0,,我们能在这一片上放24个人
-Dialogue: 0,0:07:18.02,0:07:22.79,ENG,,0,0,0,,And within that box is about 710,000 positions
-Dialogue: 0,0:07:18.02,0:07:22.79,CHN,,0,0,0,,那在这个格子里面是我们正在检查，从中获取数据的
-Dialogue: 0,0:07:24.85,0:07:28.90,ENG,,0,0,0,,of your DNA, that we're measuring, we're getting data for.
-Dialogue: 0,0:07:24.85,0:07:28.90,CHN,,0,0,0,,你DNA中大约71万个位置
-Dialogue: 0,0:07:28.90,0:07:30.39,ENG,,0,0,0,,- 710,000?
-Dialogue: 0,0:07:28.90,0:07:30.39,CHN,,0,0,0,,71万个？
-Dialogue: 0,0:07:30.39,0:07:32.24,ENG,,0,0,0,,- Yes, and they're called snips.
-Dialogue: 0,0:07:30.39,0:07:32.24,CHN,,0,0,0,,对，他们叫片段。
-Dialogue: 0,0:07:32.24,0:07:36.63,ENG,,0,0,0,,- So hang on, that's like 710,000
-Dialogue: 0,0:07:36.63,0:07:39.31,ENG,,0,0,0,,individual bases, like ATGC?
-Dialogue: 0,0:07:32.24,0:07:36.63,CHN,,0,0,0,,所以 等等 这里就是71万个片段，就像ATGC那样？
-Dialogue: 0,0:07:39.31,0:07:40.14,ENG,,0,0,0,,- Yes.
-Dialogue: 0,0:07:39.31,0:07:40.14,CHN,,0,0,0,,是的
-Dialogue: 0,0:07:40.14,0:07:43.52,ENG,,0,0,0,,- For each person, you can measure 24 on that single chip?
-Dialogue: 0,0:07:40.14,0:07:43.52,CHN,,0,0,0,,对于每一个人，您可以在这一个芯片上检查24个片段？
-Dialogue: 0,0:07:43.52,0:07:44.90,ENG,,0,0,0,,- Correct.
-Dialogue: 0,0:07:43.52,0:07:44.90,CHN,,0,0,0,,是的
-Dialogue: 0,0:07:44.90,0:07:48.74,ENG,,0,0,0,,- The human genome consists of three billion bases.
-Dialogue: 0,0:07:44.90,0:07:48.74,CHN,,0,0,0,,人的基因组中包含有300亿个碱基
-Dialogue: 0,0:07:48.74,0:07:53.74,ENG,,0,0,0,,All people share about 99.9% the exact same DNA,
-Dialogue: 0,0:07:48.74,0:07:53.74,CHN,,0,0,0,,而所有人类的DNA中有99.9%是完全相同的
-Dialogue: 0,0:07:54.16,0:07:57.49,ENG,,0,0,0,,which means on average, only about three million basis
-Dialogue: 0,0:07:57.49,0:07:59.58,ENG,,0,0,0,,differ from person to person.
-Dialogue: 0,0:07:54.16,0:07:59.58,CHN,,0,0,0,,这意味着平均来说，人与人之间的基因只有300万个位置有差异
-Dialogue: 0,0:07:59.58,0:08:01.82,ENG,,0,0,0,,These individual letter changes are known
-Dialogue: 0,0:08:01.82,0:08:05.95,ENG,,0,0,0,,as single nucleotide polymorphisms or SNPs.
-Dialogue: 0,0:07:59.58,0:08:05.95,CHN,,0,0,0,,这种单个核酸的改变被称为单核苷酸多态性(SNPs)
-Dialogue: 0,0:04:05.20,0:04:07.66,CHN,,0,0,0,,{\an7}单核苷酸多态性{\fsp-24}：{\fsp0}DNA序列中单个核苷酸的替代导致的{\fsp-24}、{\fsp0}且分布于种群中相当一部分个体（如：1%以上）中的基因多样性{\fsp-24}。
-Dialogue: 0,0:08:05.95,0:08:07.99,ENG,,0,0,0,,So on there, are there a whole bunch
-Dialogue: 0,0:08:07.99,0:08:10.52,ENG,,0,0,0,,of like little pieces of DNA then?
-Dialogue: 0,0:08:05.95,0:08:10.52,CHN,,0,0,0,,所以在这里就有一大堆那些小片的DNA那样吗？
-Dialogue: 0,0:08:10.52,0:08:15.16,ENG,,0,0,0,,- Yes, so what we have is a short piece of DNA
-Dialogue: 0,0:08:15.16,0:08:17.81,ENG,,0,0,0,,that is specific to one SNP.
-Dialogue: 0,0:08:10.52,0:08:17.81,CHN,,0,0,0,,是的 我们这里的一个小片的DNA 就是特定的一个多态单核苷酸
-Dialogue: 0,0:08:17.81,0:08:20.88,ENG,,0,0,0,,So it's one position in the genome
-Dialogue: 0,0:08:20.88,0:08:22.55,ENG,,0,0,0,,where we know there can be a difference.
-Dialogue: 0,0:08:17.81,0:08:22.55,CHN,,0,0,0,,所以这是我们能知道的基因组内的一个能造成差异的位置
-Dialogue: 0,0:08:22.55,0:08:23.38,ENG,,0,0,0,,- Okay.
-Dialogue: 0,0:08:22.55,0:08:23.38,CHN,,0,0,0,,这样
-Dialogue: 0,0:08:23.38,0:08:26.79,ENG,,0,0,0,,Is there any example of a simple SNP
-Dialogue: 0,0:08:26.79,0:08:29.06,ENG,,0,0,0,,that confers some sort of?
-Dialogue: 0,0:08:23.38,0:08:29.06,CHN,,0,0,0,,能给我一个简单的单核苷酸多态性的例子吗？
-Dialogue: 0,0:08:29.06,0:08:32.28,ENG,,0,0,0,,- Actually blue eyes is a single base change.
-Dialogue: 0,0:08:29.06,0:08:32.28,CHN,,0,0,0,,实际上蓝色眼睛是一个单基位的变化
-Dialogue: 0,0:08:32.28,0:08:33.11,ENG,,0,0,0,,- Really?
-Dialogue: 0,0:08:32.28,0:08:33.11,CHN,,0,0,0,,真的？
-Dialogue: 0,0:08:33.11,0:08:34.09,ENG,,0,0,0,,- Yeah.
-Dialogue: 0,0:08:33.11,0:08:34.09,CHN,,0,0,0,,是的
-Dialogue: 0,0:08:34.09,0:08:38.21,ENG,,0,0,0,,- So everyone with blue eyes has this one letter change? - mm hmm
-Dialogue: 0,0:08:34.09,0:08:38.21,CHN,,0,0,0,,所以每一个有蓝眼睛的人都有这一个单基位变化？ - 嗯哼
-Dialogue: 0,0:08:38.21,0:08:41.35,ENG,,0,0,0,,- You can see now it's starting to scan the first box.
-Dialogue: 0,0:08:38.21,0:08:41.35,CHN,,0,0,0,,现在你能看到它从第一个格子开始扫描
-Dialogue: 0,0:08:45.03,0:08:48.85,ENG,,0,0,0,,- The results of your 710,000 SNPs can tell you 
-Dialogue: 0,0:08:48.85,0:08:51.04,ENG,,0,0,0,,about your geographic ancestry
-Dialogue: 0,0:08:51.04,0:08:52.81,ENG,,0,0,0,,or possible medical conditions,
-Dialogue: 0,0:08:45.03,0:08:52.81,CHN,,0,0,0,,你的71万个多态单核苷酸能让你知道你的地域性祖先或者潜在的医疗状况。
-Dialogue: 0,0:08:52.81,0:08:54.32,ENG,,0,0,0,,but they can also quantify
-Dialogue: 0,0:08:54.32,0:08:56.93,ENG,,0,0,0,,how related you are to someone else.
-Dialogue: 0,0:08:52.81,0:08:56.93,CHN,,0,0,0,,但它们也可以量化你和某个人的血缘关系程度。
-Dialogue: 0,0:08:56.93,0:08:58.78,ENG,,0,0,0,,The genetics of having a kid
-Dialogue: 0,0:08:56.93,0:08:58.78,CHN,,0,0,0,,产生后代的遗传学过程
-Dialogue: 0,0:08:58.78,0:09:02.34,ENG,,0,0,0,,are a bit like cutting two decks of cards together.
-Dialogue: 0,0:08:58.78,0:09:02.34,CHN,,0,0,0,,有点像把两沓扑克牌切在一起
-Dialogue: 0,0:09:02.34,0:09:04.23,ENG,,0,0,0,,The resulting deck will share
-Dialogue: 0,0:09:02.34,0:09:04.23,CHN,,0,0,0,,由此得到的后代
-Dialogue: 0,0:09:04.23,0:09:07.01,ENG,,0,0,0,,about half its cards with each parent
-Dialogue: 0,0:09:04.23,0:09:07.01,CHN,,0,0,0,,与最初的两沓分别共享一半的卡牌
-Dialogue: 0,0:09:07.01,0:09:10.37,ENG,,0,0,0,,and there'll be long sequences of cards
-Dialogue: 0,0:09:07.01,0:09:10.37,CHN,,0,0,0,,于是新牌堆中会有
-Dialogue: 0,0:09:10.37,0:09:15.15,ENG,,0,0,0,,which match identically sequences in each parent.
-Dialogue: 0,0:09:10.37,0:09:15.15,CHN,,0,0,0,,与父母一方完全相同的序列
-Dialogue: 0,0:09:15.15,0:09:20.15,ENG,,0,0,0,,Now, if this deck has a kid, well then its offspring
-Dialogue: 0,0:09:15.15,0:09:20.15,CHN,,0,0,0,,现在如果这堆牌有一个孩子 这个孩子会有
-Dialogue: 0,0:09:20.28,0:09:23.42,ENG,,0,0,0,,will share only about a quarter of its cards
-Dialogue: 0,0:09:20.28,0:09:23.42,CHN,,0,0,0,,大约四分之一的卡牌分别来自（外）祖父（母）中的一个
-Dialogue: 0,0:09:23.42,0:09:27.95,ENG,,0,0,0,,with each grandparent and the sections of identical cards
-Dialogue: 0,0:09:23.42,0:09:27.95,CHN,,0,0,0,,而相同卡牌组成的部分将会变得更短
-Dialogue: 0,0:09:27.95,0:09:31.91,ENG,,0,0,0,,will be shorter, and this is how it works with DNA.
-Dialogue: 0,0:09:27.95,0:09:31.91,CHN,,0,0,0,,这些规则也对DNA适用
-Dialogue: 0,0:09:31.91,0:09:33.94,ENG,,0,0,0,,The more closely you're related to someone,
-Dialogue: 0,0:09:31.91,0:09:33.94,CHN,,0,0,0,,你与某人的血缘关系越近
-Dialogue: 0,0:09:33.94,0:09:36.28,ENG,,0,0,0,,the more DNA you share and the longer
-Dialogue: 0,0:09:33.94,0:09:36.28,CHN,,0,0,0,,你们共有的DNA就越多
-Dialogue: 0,0:09:36.28,0:09:38.70,ENG,,0,0,0,,the blocks of identical DNA are.
-Dialogue: 0,0:09:36.28,0:09:38.70,CHN,,0,0,0,,相同的 DNA 片段越长
-Dialogue: 0,0:09:38.70,0:09:41.18,ENG,,0,0,0,,But to compare the DNA of two people,
-Dialogue: 0,0:09:38.70,0:09:41.18,CHN,,0,0,0,,但是要比较两个人的DNA
-Dialogue: 0,0:09:41.18,0:09:43.60,ENG,,0,0,0,,you don't need to read every letter.
-Dialogue: 0,0:09:41.18,0:09:43.60,CHN,,0,0,0,,你不必遍历每一个碱基
-Dialogue: 0,0:09:43.60,0:09:45.70,ENG,,0,0,0,,The snips are sprinkled throughout the DNA
-Dialogue: 0,0:09:43.60,0:09:45.70,CHN,,0,0,0,,SNP 在 DNA 中散布
-Dialogue: 0,0:09:45.70,0:09:48.12,ENG,,0,0,0,,roughly every 2000 bases.
-Dialogue: 0,0:09:45.70,0:09:48.12,CHN,,0,0,0,,大约每 2000 个碱基出现一次
-Dialogue: 0,0:09:48.12,0:09:51.42,ENG,,0,0,0,,So if you find long sections where the snips match up,
-Dialogue: 0,0:09:48.12,0:09:51.42,CHN,,0,0,0,,所以如果你发现 SNP 在一个长片段里对得上
-Dialogue: 0,0:09:51.42,0:09:55.46,ENG,,0,0,0,,you can bet that the DNA in between is identical too
-Dialogue: 0,0:09:51.42,0:09:55.46,CHN,,0,0,0,,就可以认为两段 DNA 也完全相同
-Dialogue: 0,0:09:55.46,0:09:58.93,ENG,,0,0,0,,by comparing hundreds of thousands of snips sprinkled
-Dialogue: 0,0:09:55.46,0:09:58.93,CHN,,0,0,0,,通过比较成百上千
-Dialogue: 0,0:09:58.93,0:10:00.11,ENG,,0,0,0,,throughout the DNA,
-Dialogue: 0,0:09:58.93,0:10:00.11,CHN,,0,0,0,,散布在 DNA 中的 SNP
-Dialogue: 0,0:10:00.11,0:10:03.74,ENG,,0,0,0,,you can see where these identical blocks start and stop
-Dialogue: 0,0:10:00.11,0:10:03.74,CHN,,0,0,0,,你可以找到相同片段的起止点
-Dialogue: 0,0:10:03.74,0:10:06.64,ENG,,0,0,0,,and so how much total DNA is shared.
-Dialogue: 0,0:10:03.74,0:10:06.64,CHN,,0,0,0,,从而得知由多少 DNA 是共有的
-Dialogue: 0,0:10:07.80,0:10:10.86,ENG,,0,0,0,,- Everywhere that is highlighted in blue
-Dialogue: 0,0:10:07.80,0:10:10.86,CHN,,0,0,0,,- 随处可见用蓝色标出的就是
-Dialogue: 0,0:10:10.86,0:10:13.36,ENG,,0,0,0,,is where I share DNA.
-Dialogue: 0,0:10:10.86,0:10:13.36,CHN,,0,0,0,,我共有的 DNA
-Dialogue: 0,0:10:14.38,0:10:16.00,ENG,,0,0,0,,- With your father? - With my father
-Dialogue: 0,0:10:14.38,0:10:16.00,CHN,,0,0,0,,- 和你的父亲 - 和我的父亲
-Dialogue: 0,0:10:16.00,0:10:17.74,ENG,,0,0,0,,which is exactly what you expect
-Dialogue: 0,0:10:16.00,0:10:17.74,CHN,,0,0,0,,和预期的情况一样
-Dialogue: 0,0:10:17.74,0:10:20.64,ENG,,0,0,0,,because I should share DNA with him everywhere
-Dialogue: 0,0:10:17.74,0:10:20.64,CHN,,0,0,0,,我和他应该在各处都有相同的基因片段
-Dialogue: 0,0:10:20.64,0:10:24.24,ENG,,0,0,0,,because he gave me 50% of my DNA.
-Dialogue: 0,0:10:20.64,0:10:24.24,CHN,,0,0,0,,因为我遗传了他一半基因
-Dialogue: 0,0:10:24.24,0:10:25.73,ENG,,0,0,0,,So this is a second to third cousin.
-Dialogue: 0,0:10:24.24,0:10:25.73,CHN,,0,0,0,,这是我的从兄弟或再从兄弟
-Dialogue: 0,0:10:25.73,0:10:28.23,ENG,,0,0,0,,I have no idea who this person is.
-Dialogue: 0,0:10:25.73,0:10:28.23,CHN,,0,0,0,,我不知道这个人是谁
-Dialogue: 0,0:10:28.23,0:10:29.93,ENG,,0,0,0,,And you can see here,
-Dialogue: 0,0:10:28.23,0:10:29.93,CHN,,0,0,0,,你会发现
-Dialogue: 0,0:10:29.93,0:10:34.32,ENG,,0,0,0,,we are definitely not as closely related as me and my dad
-Dialogue: 0,0:10:29.93,0:10:34.32,CHN,,0,0,0,,我们之间的血缘关系当然不像我和我父亲那样近
-Dialogue: 0,0:10:34.32,0:10:36.01,ENG,,0,0,0,,because where the blue is,
-Dialogue: 0,0:10:34.32,0:10:36.01,CHN,,0,0,0,,因为这些蓝色区域
-Dialogue: 0,0:10:36.01,0:10:38.20,ENG,,0,0,0,,those are the only regions of the chromosome
-Dialogue: 0,0:10:36.01,0:10:38.20,CHN,,0,0,0,,我们仅在这些染色体区域
-Dialogue: 0,0:10:38.20,0:10:39.72,ENG,,0,0,0,,where we share DNA.
-Dialogue: 0,0:10:38.20,0:10:39.72,CHN,,0,0,0,,有相同的基因
-Dialogue: 0,0:10:40.63,0:10:42.84,ENG,,0,0,0,,- We all know that these genetic tests
-Dialogue: 0,0:10:40.63,0:10:42.84,CHN,,0,0,0,,我们都知道这些遗传学检测
-Dialogue: 0,0:10:42.84,0:10:46.10,ENG,,0,0,0,,can help identify our relatives but the question is,
-Dialogue: 0,0:10:42.84,0:10:46.10,CHN,,0,0,0,,可以帮助我们找到亲属 但问题是
-Dialogue: 0,0:10:46.10,0:10:50.00,ENG,,0,0,0,,can you do the same thing with law enforcement databases?
-Dialogue: 0,0:10:46.10,0:10:50.00,CHN,,0,0,0,,你能用执法者的数据库做到相同的事吗
-Dialogue: 0,0:10:50.00,0:10:54.25,ENG,,0,0,0,,Can you identify family members using the CODIS database?
-Dialogue: 0,0:10:50.00,0:10:54.25,CHN,,0,0,0,,您能用 CODIS 数据库辨认家庭成员吗
-Dialogue: 0,0:10:54.25,0:10:56.24,ENG,,0,0,0,,- You can and it's only limited
-Dialogue: 0,0:10:54.25,0:10:56.24,CHN,,0,0,0,,能 但不完全能
-Dialogue: 0,0:10:56.24,0:10:59.38,ENG,,0,0,0,,to really first order and second order relatives.
-Dialogue: 0,0:10:56.24,0:10:59.38,CHN,,0,0,0,,它只限于第一代和第二代亲属
-Dialogue: 0,0:10:59.38,0:11:02.57,ENG,,0,0,0,,- That means if I'm looking for the golden state killer,
-Dialogue: 0,0:10:59.38,0:11:02.57,CHN,,0,0,0,,这意味着如果我要寻找金州杀手
-Dialogue: 0,0:11:02.57,0:11:06.67,ENG,,0,0,0,,I'm looking for either his father, his brother or his son.
-Dialogue: 0,0:11:02.57,0:11:06.67,CHN,,0,0,0,,我是在找他的父亲 他的兄弟或者他的儿子
-Dialogue: 0,0:11:06.67,0:11:11.28,ENG,,0,0,0,,We did that over and over again with no hits.
-Dialogue: 0,0:11:06.67,0:11:11.28,CHN,,0,0,0,,我们这样做了多次却一无所获
-Dialogue: 0,0:11:11.28,0:11:12.47,ENG,,0,0,0,,- Why is it so limited?
-Dialogue: 0,0:11:11.28,0:11:12.47,CHN,,0,0,0,,- 为什么它如此受限
-Dialogue: 0,0:11:12.47,0:11:15.22,ENG,,0,0,0,,- Because you've only got 23 loci.
-Dialogue: 0,0:11:12.47,0:11:15.22,CHN,,0,0,0,,- 因为你只检查23个基因位点
-Dialogue: 0,0:11:15.22,0:11:17.63,ENG,,0,0,0,,If you wanna do proper kinship analysis,
-Dialogue: 0,0:11:15.22,0:11:17.63,CHN,,0,0,0,,如果你想进行更好的血缘分析
-Dialogue: 0,0:11:17.63,0:11:21.85,ENG,,0,0,0,,you need to have more points assessed on that genome
-Dialogue: 0,0:11:17.63,0:11:21.85,CHN,,0,0,0,,你需要测定基因组上的更多位置
-Dialogue: 0,0:11:21.85,0:11:24.24,ENG,,0,0,0,,to see how related you really are.
-Dialogue: 0,0:11:21.85,0:11:24.24,CHN,,0,0,0,,才能知道亲缘远近
-Dialogue: 0,0:11:24.24,0:11:27.19,ENG,,0,0,0,,- We know the answer is behind a locked door
-Dialogue: 0,0:11:24.24,0:11:27.19,CHN,,0,0,0,,- 我们知道答案在一扇上锁的门后
-Dialogue: 0,0:11:27.19,0:11:28.73,ENG,,0,0,0,,and the answer is behind the locked door
-Dialogue: 0,0:11:27.19,0:11:28.73,CHN,,0,0,0,,答案在 23andMe 和 Ancestry.com
-Dialogue: 0,0:11:28.73,0:11:31.45,ENG,,0,0,0,,of 23andMe and Ancestry.com.
-Dialogue: 0,0:11:28.73,0:11:31.45,CHN,,0,0,0,,的数据库中
-Dialogue: 0,0:11:31.45,0:11:34.76,ENG,,0,0,0,,We know that they have millions of profiles.
-Dialogue: 0,0:11:31.45,0:11:34.76,CHN,,0,0,0,,我们知道他们有数以百万记的个人档案
-Dialogue: 0,0:11:34.76,0:11:38.21,ENG,,0,0,0,,Somebody related to him, a second cousin I would guess,
-Dialogue: 0,0:11:34.76,0:11:38.21,CHN,,0,0,0,, 某个与他有关系的人也会在其中
-Dialogue: 0,0:11:38.21,0:11:39.04,ENG,,0,0,0,,would be in there.
-Dialogue: 0,0:11:38.21,0:11:39.04,CHN,,0,0,0,,我猜是他的从兄弟
-Dialogue: 0,0:11:39.04,0:11:40.14,ENG,,0,0,0,,- Sure.
-Dialogue: 0,0:11:39.04,0:11:40.14,CHN,,0,0,0,,- 当然
-Dialogue: 0,0:11:40.14,0:11:43.14,ENG,,0,0,0,,- And that was very hard to deal with.
-Dialogue: 0,0:11:40.14,0:11:43.14,CHN,,0,0,0,,- 这处理起来相当困难
-Dialogue: 0,0:11:43.14,0:11:47.72,ENG,,0,0,0,,You know, that the answer is there behind this locked door.
-Dialogue: 0,0:11:43.14,0:11:47.72,CHN,,0,0,0,,答案就在那里 被锁在门后
-Dialogue: 0,0:11:47.72,0:11:50.14,ENG,,0,0,0,,- Law enforcement is not allowed to search
-Dialogue: 0,0:11:47.72,0:11:50.14,CHN,,0,0,0,,执法者不被允许搜索
-Dialogue: 0,0:11:50.14,0:11:53.70,ENG,,0,0,0,,the databases of 23andMe and Ancestry.com
-Dialogue: 0,0:11:50.14,0:11:53.70,CHN,,0,0,0,,23andMe 和 Ancestry.com 的数据库
-Dialogue: 0,0:11:53.70,0:11:57.98,ENG,,0,0,0,,but luckily for investigators, there was another way.
-Dialogue: 0,0:11:53.70,0:11:57.98,CHN,,0,0,0,,但是幸运的的是 对于调查员而言 还有另一条路可走
-Dialogue: 0,0:11:57.98,0:12:01.04,ENG,,0,0,0,,An independent website called GEDmatch had been set up
-Dialogue: 0,0:11:57.98,0:12:01.04,CHN,,0,0,0,,有人建立了一个名为 GEDmatch 的独立网站
-Dialogue: 0,0:12:01.04,0:12:03.45,ENG,,0,0,0,,to allow people to connect with relatives.
-Dialogue: 0,0:12:01.04,0:12:03.45,CHN,,0,0,0,,使人们得以联系到自己的亲戚
-Dialogue: 0,0:12:03.45,0:12:04.67,ENG,,0,0,0,,You can upload the raw data
-Dialogue: 0,0:12:03.45,0:12:04.67,CHN,,0,0,0,,你可以上传自己的原始 DNA 数据
-Dialogue: 0,0:12:04.67,0:12:07.12,ENG,,0,0,0,,from any of the big genetic testing companies
-Dialogue: 0,0:12:04.67,0:12:07.12,CHN,,0,0,0,,无论它来自哪一间基因检测公司
-Dialogue: 0,0:12:07.12,0:12:08.95,ENG,,0,0,0,,and search for matches.
-Dialogue: 0,0:12:07.12,0:12:08.95,CHN,,0,0,0,,并搜索与自己基因相匹配的人
-Dialogue: 0,0:12:08.95,0:12:12.68,ENG,,0,0,0,,- So when we initially search the GEDmatch database,
-Dialogue: 0,0:12:08.95,0:12:12.68,CHN,,0,0,0,,在我们开始搜索 GEDmatch 数据库时
-Dialogue: 0,0:12:12.68,0:12:15.49,ENG,,0,0,0,,our best hits come back at third cousins
-Dialogue: 0,0:12:12.68,0:12:15.49,CHN,,0,0,0,,匹配最接近的 是他的第三代堂（表）兄妹
-Dialogue: 0,0:12:15.49,0:12:18.11,ENG,,0,0,0,,which means they shared you know, our top hit,
-Dialogue: 0,0:12:15.49,0:12:18.11,CHN,,0,0,0,,也就是说，这个人和他共享了
-Dialogue: 0,0:12:18.11,0:12:20.65,ENG,,0,0,0,,I think shared about 1% of the DNA.
-Dialogue: 0,0:12:18.11,0:12:20.65,CHN,,0,0,0,,大约 1% 的 DNA
-Dialogue: 0,0:12:20.65,0:12:22.65,ENG,,0,0,0,,It's very little DNA that's shared
-Dialogue: 0,0:12:20.65,0:12:22.65,CHN,,0,0,0,,他们共享的 DNA 确实很少
-Dialogue: 0,0:12:23.52,0:12:26.05,ENG,,0,0,0,,but that's a starting data point.
-Dialogue: 0,0:12:23.52,0:12:26.05,CHN,,0,0,0,,但这是数据的起点
-Dialogue: 0,0:12:26.05,0:12:31.37,ENG,,0,0,0,,And theoretically, by taking multiple of these individuals that share DNA
-Dialogue: 0,0:12:26.05,0:12:31.37,CHN,,0,0,0,,理论上 通过获取多个共享 DNA 的个体
-Dialogue: 0,0:12:31.37,0:12:32.98,ENG,,0,0,0,,and building their family trees
-Dialogue: 0,0:12:31.37,0:12:32.98,CHN,,0,0,0,,并且画出谱系图
-Dialogue: 0,0:12:32.98,0:12:36.20,ENG,,0,0,0,,using traditional genealogy and public source documents
-Dialogue: 0,0:12:32.98,0:12:36.20,CHN,,0,0,0,,利用传统的基因学和公共来源的文件
-Dialogue: 0,0:12:36.20,0:12:38.19,ENG,,0,0,0,,like census records and obituaries
-Dialogue: 0,0:12:36.20,0:12:38.19,CHN,,0,0,0,,比如人口普查记录 讣告
-Dialogue: 0,0:12:38.19,0:12:42.09,ENG,,0,0,0,,and newspaper articles and findagrave.com,
-Dialogue: 0,0:12:38.19,0:12:42.09,CHN,,0,0,0,,报刊文章和 findagrave.com
-Dialogue: 0,0:12:42.09,0:12:44.09,ENG,,0,0,0,,you build this family tree back
-Dialogue: 0,0:12:42.09,0:12:44.09,CHN,,0,0,0,,向上构建谱系图
-Dialogue: 0,0:12:44.09,0:12:47.60,ENG,,0,0,0,,until you get two of these relatives
-Dialogue: 0,0:12:44.09,0:12:47.60,CHN,,0,0,0,,直到在金州杀手的亲属中找到这两个人
-Dialogue: 0,0:12:47.60,0:12:49.32,ENG,,0,0,0,,you get them to intersect
-Dialogue: 0,0:12:47.60,0:12:49.32,CHN,,0,0,0,,他们最终交会在同一处
-Dialogue: 0,0:12:49.32,0:12:51.16,ENG,,0,0,0,,where now you see, oh, they've got,
-Dialogue: 0,0:12:49.32,0:12:51.16,CHN,,0,0,0,,你会发现
-Dialogue: 0,0:12:51.16,0:12:54.17,ENG,,0,0,0,,they share great-great grandparents together.
-Dialogue: 0,0:12:51.16,0:12:54.17,CHN,,0,0,0,,他们有共同的高祖父母
-Dialogue: 0,0:12:54.17,0:12:57.59,ENG,,0,0,0,,Theoretically the golden state killer is a descendant
-Dialogue: 0,0:12:54.17,0:12:57.59,CHN,,0,0,0,,理论上 金州杀手也是他们的后代
-Dialogue: 0,0:12:57.59,0:12:59.67,ENG,,0,0,0,,from those same great-great grandparents.
-Dialogue: 0,0:12:57.59,0:12:59.67,CHN,,0,0,0,,来自相同的高祖父母
-Dialogue: 0,0:12:59.67,0:13:03.09,ENG,,0,0,0,,So once I identify that common ancestor,
-Dialogue: 0,0:12:59.67,0:13:03.09,CHN,,0,0,0,,所以 一旦我确认了他们的共同祖先
-Dialogue: 0,0:13:03.09,0:13:06.12,ENG,,0,0,0,,it's now identifying every single descendant
-Dialogue: 0,0:13:03.09,0:13:08.68,CHN,,0,0,0,,接下来要辨认这对高祖父母的每一个后代
-Dialogue: 0,0:13:06.12,0:13:08.68,ENG,,0,0,0,,from those great-great grandparents
-Dialogue: 0,0:13:08.68,0:13:10.84,ENG,,0,0,0,,and this becomes a huge process.
-Dialogue: 0,0:13:08.68,0:13:10.84,CHN,,0,0,0,,这是个巨大的工程
-Dialogue: 0,0:13:10.84,0:13:14.43,ENG,,0,0,0,,People in the 1840s would typically have 15 kids.
-Dialogue: 0,0:13:10.84,0:13:14.43,CHN,,0,0,0,,18世纪40年代的人通常有15个子女
-Dialogue: 0,0:13:14.43,0:13:16.83,ENG,,0,0,0,,You have to identify each of those kids
-Dialogue: 0,0:13:14.43,0:13:16.83,CHN,,0,0,0,,你得逐个辨认他们的所有子女
-Dialogue: 0,0:13:16.83,0:13:18.27,ENG,,0,0,0,,and then all of their children
-Dialogue: 0,0:13:16.83,0:13:18.27,CHN,,0,0,0,,还有这些子女的所有子女
-Dialogue: 0,0:13:18.27,0:13:19.72,ENG,,0,0,0,,and then all of their children.
-Dialogue: 0,0:13:18.27,0:13:19.72,CHN,,0,0,0,,依此类推
-Dialogue: 0,0:13:19.72,0:13:23.81,ENG,,0,0,0,,So now we have this exponentially growing family tree.
-Dialogue: 0,0:13:19.72,0:13:23.81,CHN,,0,0,0,,于是 就有了一张呈指数增长的谱系图
-Dialogue: 0,0:13:23.81,0:13:26.21,ENG,,0,0,0,,- How wide did that tree get?
-Dialogue: 0,0:13:23.81,0:13:26.21,CHN,,0,0,0,,这个谱系图会变得多宽呢？
-Dialogue: 0,0:13:26.21,0:13:30.20,ENG,,0,0,0,,- I think we had over 1000 individuals in that family tree
-Dialogue: 0,0:13:26.21,0:13:30.20,CHN,,0,0,0,,我认为 里面有一千多人
-Dialogue: 0,0:13:30.20,0:13:34.06,ENG,,0,0,0,,but we knew a lot about our offender.
-Dialogue: 0,0:13:30.20,0:13:34.06,CHN,,0,0,0,,但我们对这个罪犯十分了解
-Dialogue: 0,0:13:34.06,0:13:37.21,ENG,,0,0,0,,We were confident he was born between 1940 and 1960.
-Dialogue: 0,0:13:34.06,0:13:37.21,CHN,,0,0,0,,我们确信他生于 20世纪40年代 到 60年代
-Dialogue: 0,0:13:37.21,0:13:38.67,ENG,,0,0,0,,We knew he was a white male.
-Dialogue: 0,0:13:37.21,0:13:38.67,CHN,,0,0,0,,他是白人男性
-Dialogue: 0,0:13:38.67,0:13:41.06,ENG,,0,0,0,,We knew he was 5'8" to 5'10".
-Dialogue: 0,0:13:38.67,0:13:41.06,CHN,,0,0,0,,他身高介于 5英尺8英寸(1.73m) 和 5英尺10英寸(1.78m) 之间
-Dialogue: 0,0:13:41.06,0:13:42.45,ENG,,0,0,0,,You know, he's in California.
-Dialogue: 0,0:13:41.06,0:13:42.45,CHN,,0,0,0,,你也知道 他人在加州
-Dialogue: 0,0:13:42.45,0:13:44.77,ENG,,0,0,0,,He's up in Sacramento in 1976.
-Dialogue: 0,0:13:42.45,0:13:44.77,CHN,,0,0,0,,1976年时 他在萨克拉门托
-Dialogue: 0,0:13:44.77,0:13:47.49,ENG,,0,0,0,,He's in Southern California in the '80s
-Dialogue: 0,0:13:44.77,0:13:47.49,CHN,,0,0,0,,20世纪80年代时 他在南加州
-Dialogue: 0,0:13:47.49,0:13:50.95,ENG,,0,0,0,,and we basically narrowed it down to about five males
-Dialogue: 0,0:13:47.49,0:13:50.95,CHN,,0,0,0,,我们最终将目标范围缩小到五个男性
-Dialogue: 0,0:13:50.95,0:13:52.88,ENG,,0,0,0,,and then it's just investigations.
-Dialogue: 0,0:13:50.95,0:13:52.88,CHN,,0,0,0,,然后就是调查了
-Dialogue: 0,0:13:52.88,0:13:54.90,ENG,,0,0,0,,- With a suspect at their fingertips,
-Dialogue: 0,0:13:52.88,0:13:54.90,CHN,,0,0,0,,嫌疑人已经触手可及
-Dialogue: 0,0:13:54.90,0:13:56.32,ENG,,0,0,0,,this spring, they followed him
-Dialogue: 0,0:13:54.90,0:13:56.32,CHN,,0,0,0,,今年春天，他们跟踪他
-Dialogue: 0,0:13:56.32,0:13:59.10,ENG,,0,0,0,,to a Sacramento area Hobby Lobby store
-Dialogue: 0,0:13:56.32,0:13:59.10,CHN,,0,0,0,,前往萨克拉门托的 Hobby Lobby store
-Dialogue: 0,0:13:59.10,0:14:01.91,ENG,,0,0,0,,and took a DNA sample from his car door handle.
-Dialogue: 0,0:13:59.10,0:14:01.91,CHN,,0,0,0,,并从他的车门把手上采集到了他的 DNA 样本
-Dialogue: 0,0:14:01.91,0:14:05.90,ENG,,0,0,0,,Days later, investigators recovered another DNA sample
-Dialogue: 0,0:14:01.91,0:14:05.90,CHN,,0,0,0,,几天后 调查人员找到了另一份 DNA 样本
-Dialogue: 0,0:14:05.90,0:14:09.32,ENG,,0,0,0,,from one discarded tissue which registered a match
-Dialogue: 0,0:14:05.90,0:14:09.32,CHN,,0,0,0,,是从一张丢弃的纸巾上获得的
-Dialogue: 0,0:14:09.32,0:14:12.27,ENG,,0,0,0,,to DNA evidence left at one of the crime scenes.
-Dialogue: 0,0:14:09.32,0:14:12.27,CHN,,0,0,0,,它与其中一处犯罪现场遗留的 DNA 痕迹吻合
-Dialogue: 0,0:14:12.27,0:14:15.73,ENG,,0,0,0,,- Investigators in California say DNA evidence led them
-Dialogue: 0,0:14:12.27,0:14:15.73,CHN,,0,0,0,,加州的调查人员说  DNA 痕迹引导他们
-Dialogue: 0,0:14:15.73,0:14:19.17,ENG,,0,0,0,,to one of the country's most notorious serial killers.
-Dialogue: 0,0:14:15.73,0:14:19.17,CHN,,0,0,0,,找到了美国最臭名昭著的连环杀手
-Dialogue: 0,0:14:19.17,0:14:23.56,ENG,,0,0,0,,Former police officer Joseph James DeAngelo was arrested yesterday
-Dialogue: 0,0:14:19.17,0:14:23.56,CHN,,0,0,0,,前警官 约瑟夫-詹姆斯-德安杰罗 昨天被捕
-Dialogue: 0,0:14:23.56,0:14:28.20,ENG,,0,0,0,,and he is believed to be the so-called golden state killer.
-Dialogue: 0,0:14:23.56,0:14:28.20,CHN,,0,0,0,,据信 他就是所谓的“金州杀手”
-Dialogue: 0,0:14:28.20,0:14:32.83,ENG,,0,0,0,,For 44 years, countless investigators have worked it
-Dialogue: 0,0:14:28.20,0:14:32.83,CHN,,0,0,0,,44年来 无数的调查员致力于破解此案
-Dialogue: 0,0:14:32.83,0:14:34.59,ENG,,0,0,0,,and have failed to solve it.
-Dialogue: 0,0:14:32.83,0:14:34.59,CHN,,0,0,0,,无一成功
-Dialogue: 0,0:14:34.59,0:14:38.37,ENG,,0,0,0,,Within four and a half months, a team of six were able
-Dialogue: 0,0:14:34.59,0:14:38.37,CHN,,0,0,0,,而一个六人小组，仅用四个半月
-Dialogue: 0,0:14:38.37,0:14:40.85,ENG,,0,0,0,,to figure out who the golden state killer was
-Dialogue: 0,0:14:38.37,0:14:40.85,CHN,,0,0,0,,就能找出金州杀手其人
-Dialogue: 0,0:14:40.85,0:14:43.01,ENG,,0,0,0,,and that was Joseph DeAngelo.
-Dialogue: 0,0:14:40.85,0:14:43.01,CHN,,0,0,0,,原来是约瑟夫-德安杰罗
-Dialogue: 0,0:14:43.01,0:14:45.91,ENG,,0,0,0,,- After the golden state killer was identified,
-Dialogue: 0,0:14:43.01,0:14:45.91,CHN,,0,0,0,,金州杀手被找到以后
-Dialogue: 0,0:14:45.91,0:14:49.54,ENG,,0,0,0,,the flood gates opened and we were seeing every week
-Dialogue: 0,0:14:45.91,0:14:49.54,CHN,,0,0,0,,如闸门打开一般 我们每周都能看到
-Dialogue: 0,0:14:49.54,0:14:53.28,ENG,,0,0,0,,not only single killers, but multiple killers, serial killers
-Dialogue: 0,0:14:49.54,0:14:53.28,CHN,,0,0,0,,不只单人杀手 还有多人杀手 连环杀手
-Dialogue: 0,0:14:53.28,0:14:55.23,ENG,,0,0,0,,every week were being identified
-Dialogue: 0,0:14:53.28,0:14:55.23,CHN,,0,0,0,,每周都有新的凶手被辨认出来
-Dialogue: 0,0:14:55.23,0:14:57.51,ENG,,0,0,0,,from cases in the '70s and the '80s.
-Dialogue: 0,0:14:55.23,0:14:57.51,CHN,,0,0,0,,那些七八十年代的悬案得以破解
-Dialogue: 0,0:14:57.51,0:14:59.65,ENG,,0,0,0,,- 'Cause, there's been over 70 cases now
-Dialogue: 0,0:14:57.51,0:14:59.65,CHN,,0,0,0,,因此，调查人员现在用这种方式
-Dialogue: 0,0:14:59.65,0:15:01.47,ENG,,0,0,0,,that they've solved this way
-Dialogue: 0,0:14:59.65,0:15:01.47,CHN,,0,0,0,,解决了超过70件案子
-Dialogue: 0,0:15:01.47,0:15:05.30,ENG,,0,0,0,,and they continue to solve them at a fairly regular rate
-Dialogue: 0,0:15:01.47,0:15:05.30,CHN,,0,0,0,,并且他们依然以一种相当稳定的速率解决案件。
-Dialogue: 0,0:15:05.30,0:15:06.35,ENG,,0,0,0,,and I think
-Dialogue: 0,0:15:05.30,0:15:06.35,CHN,,0,0,0,,并且我认为
-Dialogue: 0,0:15:06.35,0:15:08.72,ENG,,0,0,0,,- Presumably that rate's just gonna increase.
-Dialogue: 0,0:15:06.35,0:15:08.72,CHN,,0,0,0,,很有可能这一速率只会增加
-Dialogue: 0,0:15:08.72,0:15:09.55,ENG,,0,0,0,,- Yeah.
-Dialogue: 0,0:15:08.72,0:15:09.55,CHN,,0,0,0,,是的
-Dialogue: 0,0:15:09.55,0:15:12.06,ENG,,0,0,0,,- And there's gonna be more because it's working
-Dialogue: 0,0:15:09.55,0:15:12.06,CHN,,0,0,0,,并且将会有更多，因为这种方法是有效的
-Dialogue: 0,0:15:12.06,0:15:16.67,ENG,,0,0,0,,and we are going to help find these people.
-Dialogue: 0,0:15:12.06,0:15:16.67,CHN,,0,0,0,,我们将会帮忙找寻这些人
-Dialogue: 0,0:15:16.67,0:15:18.51,ENG,,0,0,0,,- But the scary thing is in the US,
-Dialogue: 0,0:15:16.67,0:15:18.51,CHN,,0,0,0,,但是可怕的是
-Dialogue: 0,0:15:18.51,0:15:21.29,ENG,,0,0,0,,you have 100,000 cold case murders with DNA.
-Dialogue: 0,0:15:18.51,0:15:21.29,CHN,,0,0,0,,全美一共有100000起留有DNA的谋杀悬案
-Dialogue: 0,0:15:21.29,0:15:24.05,ENG,,0,0,0,,You have more cold cases but the ones with DNA
-Dialogue: 0,0:15:21.29,0:15:24.05,CHN,,0,0,0,,总计的谋杀悬案有更多
-Dialogue: 0,0:15:24.05,0:15:25.95,ENG,,0,0,0,,is estimated about 100,000
-Dialogue: 0,0:15:24.05,0:15:25.95,CHN,,0,0,0,,但是留有DNA的估计在100000起左右
-Dialogue: 0,0:15:25.95,0:15:30.20,ENG,,0,0,0,,There's roughly about 650,000 sexual assaults,
-Dialogue: 0,0:15:25.95,0:15:30.20,CHN,,0,0,0,,大约有650000起留有DNA的性侵犯悬案
-Dialogue: 0,0:15:30.20,0:15:32.39,ENG,,0,0,0,,cold cases with DNA. - With DNA?
-Dialogue: 0,0:15:30.20,0:15:32.39,CHN,,0,0,0,,留有DNA？
-Dialogue: 0,0:15:32.39,0:15:34.41,ENG,,0,0,0,,It seems like a real paradigm shift.
-Dialogue: 0,0:15:32.39,0:15:34.41,CHN,,0,0,0,,这似乎像是真正的范式转变
-Dialogue: 0,0:15:34.41,0:15:35.24,ENG,,0,0,0,,- It is.
-Dialogue: 0,0:15:34.41,0:15:35.24,CHN,,0,0,0,,它确实是
-Dialogue: 0,0:15:35.24,0:15:37.80,ENG,,0,0,0,,Multiple law enforcement agencies has said
-Dialogue: 0,0:15:35.24,0:15:37.80,CHN,,0,0,0,,许多执法部门认为
-Dialogue: 0,0:15:37.80,0:15:42.80,ENG,,0,0,0,,that this is the most revolutionary tool they've had
-Dialogue: 0,0:15:37.80,0:15:42.80,CHN,,0,0,0,,这是他们继采用指纹之后
-Dialogue: 0,0:15:42.90,0:15:45.58,ENG,,0,0,0,,since the adoption of the fingerprint.
-Dialogue: 0,0:15:42.90,0:15:45.58,CHN,,0,0,0,,用过的最具革命性的工具
-Dialogue: 0,0:15:45.58,0:15:50.10,ENG,,0,0,0,,- With traditional DNA, it required getting a sample
-Dialogue: 0,0:15:45.58,0:15:50.10,CHN,,0,0,0,,对传统DNA技术来说，它需要从实际个体
-Dialogue: 0,0:15:50.10,0:15:51.58,ENG,,0,0,0,,from the actual individual.
-Dialogue: 0,0:15:50.10,0:15:51.58,CHN,,0,0,0,,获取样本
-Dialogue: 0,0:15:51.58,0:15:54.80,ENG,,0,0,0,,It's a one-to-one type of process.
-Dialogue: 0,0:15:51.58,0:15:54.80,CHN,,0,0,0,,这是一种一对一的过程
-Dialogue: 0,0:15:54.80,0:15:57.23,ENG,,0,0,0,,And so these offenders who let's say
-Dialogue: 0,0:15:54.80,0:15:57.23,CHN,,0,0,0,,所以这些罪犯
-Dialogue: 0,0:15:57.23,0:15:59.09,ENG,,0,0,0,,they have committed crimes and haven't been caught
-Dialogue: 0,0:15:57.23,0:15:59.09,CHN,,0,0,0,,假设他们犯了罪且从未被抓
-Dialogue: 0,0:15:59.09,0:16:02.21,ENG,,0,0,0,,and they're just living their life and they're thinking,
-Dialogue: 0,0:15:59.09,0:16:02.21,CHN,,0,0,0,,之后他们过着自己的生活，心里想着
-Dialogue: 0,0:16:02.21,0:16:05.62,ENG,,0,0,0,,well, my DNA has never been taken from me.
-Dialogue: 0,0:16:02.21,0:16:05.62,CHN,,0,0,0,,我从来没被提取过DNA
-Dialogue: 0,0:16:05.62,0:16:07.16,ENG,,0,0,0,,I may have left DNA in the case
-Dialogue: 0,0:16:05.62,0:16:07.16,CHN,,0,0,0,,我可能在1975年犯下的案子里
-Dialogue: 0,0:16:07.16,0:16:10.06,ENG,,0,0,0,,that I committed back in 1975,
-Dialogue: 0,0:16:07.16,0:16:10.06,CHN,,0,0,0,,留下了我的DNA
-Dialogue: 0,0:16:10.06,0:16:13.49,ENG,,0,0,0,,but they've never gotten my DNA, they won't find me.
-Dialogue: 0,0:16:10.06,0:16:13.49,CHN,,0,0,0,,但是执法部门没有我的DNA，他们找不到我的
-Dialogue: 0,0:16:13.49,0:16:16.22,ENG,,0,0,0,,But now we don't have to rely upon that.
-Dialogue: 0,0:16:13.49,0:16:16.22,CHN,,0,0,0,,但是现在我们不必依赖传统DNA技术了
-Dialogue: 0,0:16:16.22,0:16:19.47,ENG,,0,0,0,,Somebody distantly related to that offender
-Dialogue: 0,0:16:16.22,0:16:19.47,CHN,,0,0,0,,如果罪犯的某个远房亲戚
-Dialogue: 0,0:16:19.47,0:16:22.54,ENG,,0,0,0,,has put their DNA into a database
-Dialogue: 0,0:16:19.47,0:16:22.54,CHN,,0,0,0,,将自己的DNA录入数据库中
-Dialogue: 0,0:16:22.54,0:16:24.69,ENG,,0,0,0,,and they have to start getting nervous
-Dialogue: 0,0:16:22.54,0:16:24.69,CHN,,0,0,0,,罪犯就不得不开始紧张了
-Dialogue: 0,0:16:24.69,0:16:26.36,ENG,,0,0,0,,because that's outside of their control.
-Dialogue: 0,0:16:24.69,0:16:26.36,CHN,,0,0,0,,因为这件事不是他们能控制的
-Dialogue: 0,0:16:26.36,0:16:28.89,ENG,,0,0,0,,They can't account for a third cousin
-Dialogue: 0,0:16:26.36,0:16:28.89,CHN,,0,0,0,,他们无法了解第三代堂（表）兄妹的情况
-Dialogue: 0,0:16:28.89,0:16:31.56,ENG,,0,0,0,,or what that third cousin is doing.
-Dialogue: 0,0:16:28.89,0:16:31.56,CHN,,0,0,0,,也不知道第三代堂（表）兄妹在做什么
-Dialogue: 0,0:16:31.56,0:16:33.14,ENG,,0,0,0,,And so they start getting nervous.
-Dialogue: 0,0:16:31.56,0:16:33.14,CHN,,0,0,0,,所以他们开始紧张不安
-Dialogue: 0,0:16:33.14,0:16:34.11,ENG,,0,0,0,,And I've kind of wondered
-Dialogue: 0,0:16:33.14,0:16:34.11,CHN,,0,0,0,,我有些好奇
-Dialogue: 0,0:16:34.11,0:16:37.18,ENG,,0,0,0,,how many of these individuals recognize
-Dialogue: 0,0:16:34.11,0:16:37.18,CHN,,0,0,0,,这些罪犯中有多少人会意识到
-Dialogue: 0,0:16:37.18,0:16:38.98,ENG,,0,0,0,,that law enforcement is eventually gonna
-Dialogue: 0,0:16:37.18,0:16:38.98,CHN,,0,0,0,,因为第三代堂（表）兄妹将他们自己的DNA放入数据库
-Dialogue: 0,0:16:38.98,0:16:40.88,ENG,,0,0,0,,be knocking on their door as a result
-Dialogue: 0,0:16:38.98,0:16:40.88,CHN,,0,0,0,,最终会导致执法者
-Dialogue: 0,0:16:40.88,0:16:43.93,ENG,,0,0,0,,of a third cousin putting their DNA in the database?
-Dialogue: 0,0:16:40.88,0:16:43.93,CHN,,0,0,0,,敲响他们的房门
-Dialogue: 0,0:16:43.93,0:16:47.81,ENG,,0,0,0,,- Each person who uploads their information to a database
-Dialogue: 0,0:16:43.93,0:16:47.81,CHN,,0,0,0,,每个将自己信息上传数据库的人
-Dialogue: 0,0:16:47.81,0:16:49.60,ENG,,0,0,0,,illuminates the identities
-Dialogue: 0,0:16:47.81,0:16:49.60,CHN,,0,0,0,,将点亮他们周围
-Dialogue: 0,0:16:49.60,0:16:52.41,ENG,,0,0,0,,of hundreds of other people around them,
-Dialogue: 0,0:16:49.60,0:16:52.41,CHN,,0,0,0,,数百个人的身份
-Dialogue: 0,0:16:52.41,0:16:56.26,ENG,,0,0,0,,parents, siblings, aunts, and uncles and cousins.
-Dialogue: 0,0:16:52.41,0:16:56.26,CHN,,0,0,0,,父母、兄弟姐妹、姑姑、叔叔和堂兄弟姐妹们
-Dialogue: 0,0:16:56.26,0:17:01.00,ENG,,0,0,0,,A study by ancestry DNA found the average person in the UK
-Dialogue: 0,0:16:56.26,0:17:01.00,CHN,,0,0,0,,一项对祖先DNA的研究发现，
-Dialogue: 0,0:17:01.00,0:17:06.00,ENG,,0,0,0,,has 175 third cousins and it doesn't stop there.
-Dialogue: 0,0:17:01.00,0:17:06.00,CHN,,0,0,0,,英国人平均有175个第三代堂（表）兄妹，而且还不止于此
-Dialogue: 0,0:17:06.50,0:17:09.64,ENG,,0,0,0,,The DNA in one person will be shared
-Dialogue: 0,0:17:06.50,0:17:09.64,CHN,,0,0,0,,一人身上的DNA
-Dialogue: 0,0:17:09.64,0:17:13.04,ENG,,0,0,0,,by hundreds of people yet to be born.
-Dialogue: 0,0:17:09.64,0:17:13.04,CHN,,0,0,0,,将共享给数百个尚未出生的人
-Dialogue: 0,0:17:13.04,0:17:16.66,ENG,,0,0,0,,Children, grandchildren, nieces, and nephews,
-Dialogue: 0,0:17:13.04,0:17:16.66,CHN,,0,0,0,,子女、孙子女、侄子/孙女、外甥/外甥女
-Dialogue: 0,0:17:16.66,0:17:19.62,ENG,,0,0,0,,and cousins once or twice removed.
-Dialogue: 0,0:17:16.66,0:17:19.62,CHN,,0,0,0,,甚至是差一个或者是两个辈分的表亲
-Dialogue: 0,0:17:19.62,0:17:23.41,ENG,,0,0,0,,Realistically, each person shares identifiable DNA
-Dialogue: 0,0:17:19.62,0:17:23.41,CHN,,0,0,0,,现实中，每个人都与过去与未来的近1000人
-Dialogue: 0,0:17:23.41,0:17:28.21,ENG,,0,0,0,,with nearly 1000 people past and future.
-Dialogue: 0,0:17:23.41,0:17:28.21,CHN,,0,0,0,,共享可被识别的DNA
-Dialogue: 0,0:17:28.21,0:17:31.03,ENG,,0,0,0,,So it doesn't take many people uploading their data
-Dialogue: 0,0:17:28.21,0:17:31.03,CHN,,0,0,0,,不需要许多人上传他们的数据
-Dialogue: 0,0:17:31.03,0:17:35.47,ENG,,0,0,0,,to reveal the identities of everyone living in a country.
-Dialogue: 0,0:17:31.03,0:17:35.47,CHN,,0,0,0,,就能显示出生活在一个国家的所有人的身份
-Dialogue: 0,0:17:35.47,0:17:39.61,ENG,,0,0,0,,Back in 2018, a study found that using an existing database
-Dialogue: 0,0:17:35.47,0:17:39.61,CHN,,0,0,0,,在2018年，一项研究发现
-Dialogue: 0,0:17:39.61,0:17:44.52,ENG,,0,0,0,,of just 1.3 million people, they could identify 60%
-Dialogue: 0,0:17:39.61,0:17:44.52,CHN,,0,0,0,,使用现存的130万人口的数据库，
-Dialogue: 0,0:17:44.52,0:17:47.34,ENG,,0,0,0,,of all Americans of European descent.
-Dialogue: 0,0:17:44.52,0:17:47.34,CHN,,0,0,0,,他们能够确认出60%的欧裔美国人
-Dialogue: 0,0:17:47.34,0:17:49.34,ENG,,0,0,0,,And they estimated with a database containing
-Dialogue: 0,0:17:47.34,0:17:49.34,CHN,,0,0,0,,他们仅仅是用包含了人口总数的2%的数据库
-Dialogue: 0,0:17:49.34,0:17:53.34,ENG,,0,0,0,,just 2% of the population, you could find a third cousin
-Dialogue: 0,0:17:49.34,0:17:53.34,CHN,,0,0,0,,进行估计，就能在99%的测试例中找到
-Dialogue: 0,0:17:53.34,0:17:57.25,ENG,,0,0,0,,or closer match in 99% of cases.
-Dialogue: 0,0:17:53.34,0:17:57.25,CHN,,0,0,0,,第三代堂（表）兄妹或者更亲的血缘关系
-Dialogue: 0,0:17:58.12,0:18:01.53,ENG,,0,0,0,,- DNA storage is one of the things that we have
-Dialogue: 0,0:17:58.12,0:18:01.53,CHN,,0,0,0,,我们拥有的DNA存储
-Dialogue: 0,0:18:01.53,0:18:04.09,ENG,,0,0,0,,that is really unlike anything else.
-Dialogue: 0,0:18:01.53,0:18:04.09,CHN,,0,0,0,,和其他东西完全不同
-Dialogue: 0,0:18:04.09,0:18:07.71,ENG,,0,0,0,,If you look inside, this is at minus 20 degrees Celsius.
-Dialogue: 0,0:18:04.09,0:18:07.71,CHN,,0,0,0,,如果你向里面看 它处在零下20摄氏度的环境中
-Dialogue: 0,0:18:07.71,0:18:10.04,ENG,,0,0,0,,- That keeps the DNA good for a long time?
-Dialogue: 0,0:18:07.71,0:18:10.04,CHN,,0,0,0,,这种方法能长期保存DNA吗
-Dialogue: 0,0:18:10.04,0:18:11.76,ENG,,0,0,0,,- We have DNA samples in here
-Dialogue: 0,0:18:10.04,0:18:11.76,CHN,,0,0,0,,我们的样本
-Dialogue: 0,0:18:11.76,0:18:14.35,ENG,,0,0,0,,that are probably about 15 years old.
-Dialogue: 0,0:18:11.76,0:18:14.35,CHN,,0,0,0,,有些可能在此保存了大约15年
-Dialogue: 0,0:18:14.35,0:18:16.71,ENG,,0,0,0,,- How many samples are stored in there?
-Dialogue: 0,0:18:14.35,0:18:16.71,CHN,,0,0,0,,这里面有多少样本
-Dialogue: 0,0:18:16.71,0:18:17.81,ENG,,0,0,0,,- Just over 2 million.
-Dialogue: 0,0:18:16.71,0:18:17.81,CHN,,0,0,0,,略多于两百万
-Dialogue: 0,0:18:19.19,0:18:20.56,ENG,,0,0,0,,- Wow. - Yeah.
-Dialogue: 0,0:18:19.19,0:18:20.56,CHN,,0,0,0,,- 哇哦 - 是的
-Dialogue: 0,0:18:20.56,0:18:22.54,ENG,,0,0,0,,So the capacity is just over 2 million.
-Dialogue: 0,0:18:20.56,0:18:22.54,CHN,,0,0,0,,这个样本库的容量就在两百万左右
-Dialogue: 0,0:18:22.54,0:18:26.32,ENG,,0,0,0,,- 2 million people's DNA stored in this one small room?
-Dialogue: 0,0:18:22.54,0:18:26.32,CHN,,0,0,0,,- 你们在这个小房间里放了两百万人的DNA
-Dialogue: 0,0:18:26.32,0:18:27.80,ENG,,0,0,0,,- Correct.
-Dialogue: 0,0:18:26.32,0:18:27.80,CHN,,0,0,0,,- 完全正确
-Dialogue: 0,0:18:27.80,0:18:28.88,ENG,,0,0,0,,- Wow.
-Dialogue: 0,0:18:27.80,0:18:28.88,CHN,,0,0,0,,- 哇哦
-Dialogue: 0,0:18:29.75,0:18:33.26,ENG,,0,0,0,,By 2021, over 30 million people worldwide
-Dialogue: 0,0:18:29.75,0:18:33.26,CHN,,0,0,0,,截止2021年 世界范围内有超过三千万人
-Dialogue: 0,0:18:33.26,0:18:36.10,ENG,,0,0,0,,have taken a direct consumer genetic test,
-Dialogue: 0,0:18:33.26,0:18:36.10,CHN,,0,0,0,,参与了直接面向消费者的基因检测
-Dialogue: 0,0:18:36.10,0:18:39.64,ENG,,0,0,0,,the majority of which are through Ancestry and 23andMe,
-Dialogue: 0,0:18:36.10,0:18:39.64,CHN,,0,0,0,,他们之中的大多数经由 Ancestry 和 23andMe 进行检测
-Dialogue: 0,0:18:39.64,0:18:42.72,ENG,,0,0,0,,which do not currently work with law enforcement
-Dialogue: 0,0:18:39.64,0:18:42.72,CHN,,0,0,0,,这两家机构目前还没有与执法者达成合作
-Dialogue: 0,0:18:42.72,0:18:46.33,ENG,,0,0,0,,but Family Tree DNA does.
-Dialogue: 0,0:18:42.72,0:18:46.33,CHN,,0,0,0,,而 Family Tree DNA 相反
-Dialogue: 0,0:18:46.33,0:18:49.66,ENG,,0,0,0,,- If you ask Americans, should we have a national database
-Dialogue: 0,0:18:46.33,0:18:49.66,CHN,,0,0,0,,- 如果你问美国人 我们该不该有一个国家数据库
-Dialogue: 0,0:18:49.66,0:18:51.54,ENG,,0,0,0,,where everyone's logged in it?
-Dialogue: 0,0:18:49.66,0:18:51.54,CHN,,0,0,0,,把所有人都录入进去
-Dialogue: 0,0:18:51.54,0:18:52.40,ENG,,0,0,0,,- As their DNA?
-Dialogue: 0,0:18:51.54,0:18:52.40,CHN,,0,0,0,,- 用他们的 DNA
-Dialogue: 0,0:18:52.40,0:18:55.17,ENG,,0,0,0,,- Yeah by their DNA and their name,
-Dialogue: 0,0:18:52.40,0:18:55.17,CHN,,0,0,0,,- 是的 用他们的 DNA 和姓名
-Dialogue: 0,0:18:55.17,0:18:57.71,ENG,,0,0,0,,most Americans will be somewhat uncomfortable
-Dialogue: 0,0:18:55.17,0:18:57.71,CHN,,0,0,0,,多数美国人会对此感到不适
-Dialogue: 0,0:18:57.71,0:19:00.17,ENG,,0,0,0,,or potentially very uncomfortable with that.
-Dialogue: 0,0:18:57.71,0:19:00.17,CHN,,0,0,0,,或者在心里觉得相当难受
-Dialogue: 0,0:19:00.17,0:19:02.29,ENG,,0,0,0,,But we're kind of sleepwalking into that scenario.
-Dialogue: 0,0:19:00.17,0:19:02.29,CHN,,0,0,0,,但我们正在不知不觉中步入这样的境地
-Dialogue: 0,0:19:02.29,0:19:05.32,ENG,,0,0,0,,- There are some people who are concerned with privacy.
-Dialogue: 0,0:19:02.29,0:19:05.32,CHN,,0,0,0,,有些人对他们的隐私相当关切
-Dialogue: 0,0:19:05.32,0:19:08.03,ENG,,0,0,0,,If anyone chooses or decides
-Dialogue: 0,0:19:05.32,0:19:08.03,CHN,,0,0,0,,如果某些人选择
-Dialogue: 0,0:19:08.03,0:19:11.06,ENG,,0,0,0,,that they do not want their results
-Dialogue: 0,0:19:08.03,0:19:11.06,CHN,,0,0,0,,不允许执法者使用其结果
-Dialogue: 0,0:19:11.06,0:19:13.25,ENG,,0,0,0,,to be used for law enforcement matching,
-Dialogue: 0,0:19:11.06,0:19:13.25,CHN,,0,0,0,,进行相关匹配
-Dialogue: 0,0:19:13.25,0:19:15.10,ENG,,0,0,0,,they can remove themselves from that.
-Dialogue: 0,0:19:13.25,0:19:15.10,CHN,,0,0,0,,他们可以把自己从(数据库)中移除 *这个地方好像没有上下文
-Dialogue: 0,0:19:15.10,0:19:17.43,ENG,,0,0,0,,- I do worry about genetic information being used
-Dialogue: 0,0:19:15.10,0:19:17.43,CHN,,0,0,0,,- 我确实担心基因信息被用于
-Dialogue: 0,0:19:17.43,0:19:19.67,ENG,,0,0,0,,to discriminate against someone.
-Dialogue: 0,0:19:17.43,0:19:19.67,CHN,,0,0,0,,区别对待某些人
-Dialogue: 0,0:19:19.67,0:19:21.55,ENG,,0,0,0,,- My biggest thing is health insurance.
-Dialogue: 0,0:19:19.67,0:19:21.55,CHN,,0,0,0,,- 我最担心的是健康保险
-Dialogue: 0,0:19:21.55,0:19:25.46,ENG,,0,0,0,,I worry about if you have somebody's DNA profile
-Dialogue: 0,0:19:21.55,0:19:25.46,CHN,,0,0,0,,我担心如果有了某人的 DNA 资料
-Dialogue: 0,0:19:25.46,0:19:28.40,ENG,,0,0,0,,and some laws enacted, it gets in the wrong hands
-Dialogue: 0,0:19:25.46,0:19:28.40,CHN,,0,0,0,,特定的法律颁布后 它们会落入坏人之手
-Dialogue: 0,0:19:28.40,0:19:32.24,ENG,,0,0,0,,and they say that this person has a proclivity,
-Dialogue: 0,0:19:28.40,0:19:32.24,CHN,,0,0,0,,保险公司可能会说此人有罹患疾病的风险
-Dialogue: 0,0:19:32.24,0:19:33.77,ENG,,0,0,0,,they're headed towards Parkinson's,
-Dialogue: 0,0:19:32.24,0:19:33.77,CHN,,0,0,0,,他们可能更易得帕金森
-Dialogue: 0,0:19:33.77,0:19:36.19,ENG,,0,0,0,,they're headed towards this, headed towards that
-Dialogue: 0,0:19:33.77,0:19:36.19,CHN,,0,0,0,,他们更易得这种那种病
-Dialogue: 0,0:19:36.19,0:19:38.50,ENG,,0,0,0,,and then rates skyrocket.
-Dialogue: 0,0:19:36.19,0:19:38.50,CHN,,0,0,0,,然后保费猛涨
-Dialogue: 0,0:19:38.50,0:19:42.87,ENG,,0,0,0,,That's the biggest place that I see as a privacy concern.
-Dialogue: 0,0:19:38.50,0:19:42.87,CHN,,0,0,0,,我认为这是最关乎个人隐私的地方
-Dialogue: 0,0:19:42.87,0:19:44.66,ENG,,0,0,0,,- Once your genetic information is out there,
-Dialogue: 0,0:19:42.87,0:19:44.66,CHN,,0,0,0,,- 一旦你的基因信息被获取
-Dialogue: 0,0:19:44.66,0:19:45.49,ENG,,0,0,0,,it's out there.
-Dialogue: 0,0:19:44.66,0:19:45.49,CHN,,0,0,0,,它就会一直保存在那里
-Dialogue: 0,0:19:45.49,0:19:47.37,ENG,,0,0,0,,It's not like a credit card where you can get a new one.
-Dialogue: 0,0:19:45.49,0:19:47.37,CHN,,0,0,0,,这可不像信用卡 你能办一张新的
-Dialogue: 0,0:19:47.37,0:19:48.69,ENG,,0,0,0,,Yeah you're giving away something
-Dialogue: 0,0:19:47.37,0:19:48.69,CHN,,0,0,0,,是的 你是在把用途难料的事物
-Dialogue: 0,0:19:48.69,0:19:50.60,ENG,,0,0,0,,that you don't know what it can do.
-Dialogue: 0,0:19:48.69,0:19:50.60,CHN,,0,0,0,,拱手让人
-Dialogue: 0,0:19:51.76,0:19:53.90,ENG,,0,0,0,,- Well, yeah our information isn't ours
-Dialogue: 0,0:19:51.76,0:19:53.90,CHN,,0,0,0,,- 我们的信息起初
-Dialogue: 0,0:19:53.90,0:19:54.87,ENG,,0,0,0,,in the first place. - Right.
-Dialogue: 0,0:19:53.90,0:19:54.87,CHN,,0,0,0,,并不是我们自己的 - 的确
-Dialogue: 0,0:19:54.87,0:19:57.93,ENG,,0,0,0,,- Our information is shared.
-Dialogue: 0,0:19:54.87,0:19:57.93,CHN,,0,0,0,,- 我们的信息是共享的
-Dialogue: 0,0:19:57.93,0:19:59.55,ENG,,0,0,0,,- Yes with your relatives.
-Dialogue: 0,0:19:57.93,0:19:59.55,CHN,,0,0,0,,- 与我们的亲属
-Dialogue: 0,0:19:59.55,0:20:02.01,ENG,,0,0,0,,- Yes. - And although you may be
-Dialogue: 0,0:19:59.55,0:20:02.01,CHN,,0,0,0,,- 是的 - 并且即使你
-Dialogue: 0,0:20:02.01,0:20:03.48,ENG,,0,0,0,,adverse to this sort of thing,
-Dialogue: 0,0:20:02.01,0:20:03.48,CHN,,0,0,0,,厌恶这种东西
-Dialogue: 0,0:20:03.48,0:20:06.11,ENG,,0,0,0,,if they've already done it, if it,
-Dialogue: 0,0:20:03.48,0:20:06.11,CHN,,0,0,0,,如果他们已经做了检测
-Dialogue: 0,0:20:06.11,0:20:08.79,ENG,,0,0,0,,you know, in a way you're out there.
-Dialogue: 0,0:20:06.11,0:20:08.79,CHN,,0,0,0,,那么你懂的 某种意义上你已经在数据库中了
-Dialogue: 0,0:20:08.79,0:20:11.77,ENG,,0,0,0,,- In society today, you have very clearly had two camps.
-Dialogue: 0,0:20:08.79,0:20:11.77,CHN,,0,0,0,,- 当今社会已经分成了两个阵营
-Dialogue: 0,0:20:11.77,0:20:14.28,ENG,,0,0,0,,There are those that are very comfortable
-Dialogue: 0,0:20:11.77,0:20:14.28,CHN,,0,0,0,,那些非常愿意
-Dialogue: 0,0:20:14.28,0:20:17.50,ENG,,0,0,0,,having their genome available to be able to be searched
-Dialogue: 0,0:20:14.28,0:20:17.50,CHN,,0,0,0,,把自己的基因组交由执法者
-Dialogue: 0,0:20:17.50,0:20:18.88,ENG,,0,0,0,,for law enforcement purposes
-Dialogue: 0,0:20:17.50,0:20:18.88,CHN,,0,0,0,,进行相关搜索的
-Dialogue: 0,0:20:18.88,0:20:21.64,ENG,,0,0,0,,and there are others that are not comfortable at all
-Dialogue: 0,0:20:18.88,0:20:21.64,CHN,,0,0,0,,以及其他对此感到非常不适的
-Dialogue: 0,0:20:21.64,0:20:23.44,ENG,,0,0,0,,and that's okay.
-Dialogue: 0,0:20:21.64,0:20:23.44,CHN,,0,0,0,,这是人之常情
-Dialogue: 0,0:20:23.44,0:20:25.49,ENG,,0,0,0,,- The problem is of course,
-Dialogue: 0,0:20:23.44,0:20:25.49,CHN,,0,0,0,,- 问题当然是
-Dialogue: 0,0:20:25.49,0:20:28.07,ENG,,0,0,0,,those people who don't want theirs to be searchable
-Dialogue: 0,0:20:25.49,0:20:28.07,CHN,,0,0,0,,那些不想让自己可以搜索的人
-Dialogue: 0,0:20:28.07,0:20:30.69,ENG,,0,0,0,,could have their DNA uploaded inadvertently
-Dialogue: 0,0:20:28.07,0:20:30.69,CHN,,0,0,0,,他们的 DNA 其实已经被亲属
-Dialogue: 0,0:20:30.69,0:20:32.39,ENG,,0,0,0,,by their relatives.
-Dialogue: 0,0:20:30.69,0:20:32.39,CHN,,0,0,0,,不经意上传了
-Dialogue: 0,0:20:32.39,0:20:33.38,ENG,,0,0,0,,Do you know what I mean?
-Dialogue: 0,0:20:32.39,0:20:33.38,CHN,,0,0,0,,您明白我的意思吗
-Dialogue: 0,0:20:33.38,0:20:35.73,ENG,,0,0,0,,So like, if I don't want my DNA
-Dialogue: 0,0:20:33.38,0:20:35.73,CHN,,0,0,0,,所以 如果我不想让执法者搜索
-Dialogue: 0,0:20:35.73,0:20:37.21,ENG,,0,0,0,,to be searchable by law enforcement
-Dialogue: 0,0:20:35.73,0:20:37.21,CHN,,0,0,0,,我的 DNA
-Dialogue: 0,0:20:37.21,0:20:39.66,ENG,,0,0,0,,but my sister uploads hers, - Yes.
-Dialogue: 0,0:20:37.21,0:20:39.66,CHN,,0,0,0,,但是我妹妹上传了她的 - 是的
-Dialogue: 0,0:20:39.66,0:20:43.46,ENG,,0,0,0,,- It's almost as good as me doing it myself.
-Dialogue: 0,0:20:39.66,0:20:43.46,CHN,,0,0,0,,- 这和我自己上传效果几乎一样
-Dialogue: 0,0:20:43.46,0:20:46.15,ENG,,0,0,0,,- Right now, Family Tree DNA's policy
-Dialogue: 0,0:20:43.46,0:20:46.15,CHN,,0,0,0,,- 目前 Famliy Tree DNA 的政策是
-Dialogue: 0,0:20:46.15,0:20:50.85,ENG,,0,0,0,,is we only accept samples from law enforcement
-Dialogue: 0,0:20:46.15,0:20:50.85,CHN,,0,0,0,,我们只在某些情况下接受
-Dialogue: 0,0:20:50.85,0:20:52.72,ENG,,0,0,0,,under certain circumstances.
-Dialogue: 0,0:20:50.85,0:20:52.72,CHN,,0,0,0,,来自执法者的样本
-Dialogue: 0,0:20:52.72,0:20:57.45,ENG,,0,0,0,,It has to be a sexual assault, identification of remains,
-Dialogue: 0,0:20:52.72,0:20:57.45,CHN,,0,0,0,,样本只能来自性骚扰 遗体辨别
-Dialogue: 0,0:20:57.45,0:21:02.24,ENG,,0,0,0,,DNA recovered from the scene of a homicide.
-Dialogue: 0,0:20:57.45,0:21:02.24,CHN,,0,0,0,,或者从命案现场提取的 DNA
-Dialogue: 0,0:21:02.24,0:21:04.78,ENG,,0,0,0,,And we also do child abductions.
-Dialogue: 0,0:21:02.24,0:21:04.78,CHN,,0,0,0,,儿童绑架案也位列其中
-Dialogue: 0,0:21:04.78,0:21:06.12,ENG,,0,0,0,,So if there's a child that's kidnapped
-Dialogue: 0,0:21:04.78,0:21:06.12,CHN,,0,0,0,,所以如果有孩子被绑架勒索
-Dialogue: 0,0:21:06.12,0:21:09.84,ENG,,0,0,0,,and there's DNA evidence, we will process the DNA
-Dialogue: 0,0:21:06.12,0:21:09.84,CHN,,0,0,0,,并且有基因证据 我们会处理 DNA
-Dialogue: 0,0:21:09.84,0:21:12.56,ENG,,0,0,0,,so that they can try to find out who the abductor is.
-Dialogue: 0,0:21:09.84,0:21:12.56,CHN,,0,0,0,,这样执法者就可能找到绑匪
-Dialogue: 0,0:21:12.56,0:21:15.95,ENG,,0,0,0,,Those are the only cases that we will accept.
-Dialogue: 0,0:21:12.56,0:21:15.95,CHN,,0,0,0,,以上就是我们接受比对的情况
-Dialogue: 0,0:21:15.95,0:21:16.92,ENG,,0,0,0,,- Got it.
-Dialogue: 0,0:21:15.95,0:21:16.92,CHN,,0,0,0,,明白了
-Dialogue: 0,0:21:16.92,0:21:21.73,ENG,,0,0,0,,- Unfortunately now GEDmatch has flipped off the switch
-Dialogue: 0,0:21:16.92,0:21:21.73,CHN,,0,0,0,,- 不幸的是 GEDmatch 已经不再合作
-Dialogue: 0,0:21:21.73,0:21:24.67,ENG,,0,0,0,,and GEDmatch has actually said that you don't all have
-Dialogue: 0,0:21:21.73,0:21:24.67,CHN,,0,0,0,,GEDmatch 表示即使用户没有这样选择 * 怀疑英文不是这样的，我听到的是 You'll allow to ....
-Dialogue: 0,0:21:24.67,0:21:28.28,ENG,,0,0,0,,to have your information searched without opting in.
-Dialogue: 0,0:21:24.67,0:21:28.28,CHN,,0,0,0,,他们的信息也不被允许检索
-Dialogue: 0,0:21:28.28,0:21:29.11,ENG,,0,0,0,,- Right.
-Dialogue: 0,0:21:28.28,0:21:29.11,CHN,,0,0,0,,- 是的
-Dialogue: 0,0:21:29.11,0:21:30.24,ENG,,0,0,0,,- Was that decision by GEDmatch
-Dialogue: 0,0:21:29.11,0:21:30.24,CHN,,0,0,0,,- GEDmatch 的这个决定是
-Dialogue: 0,0:21:30.24,0:21:33.70,ENG,,0,0,0,,a direct result of this golden state killer case?
-Dialogue: 0,0:21:30.24,0:21:33.70,CHN,,0,0,0,,金州杀手案的直接结果吗
-Dialogue: 0,0:21:33.70,0:21:34.53,ENG,,0,0,0,,- No, it wasn't. - No.
-Dialogue: 0,0:21:33.70,0:21:34.53,CHN,,0,0,0,,- 不 不是 - 不
-Dialogue: 0,0:21:34.53,0:21:35.44,ENG,,0,0,0,,- Wanna tell the story?
-Dialogue: 0,0:21:34.53,0:21:35.44,CHN,,0,0,0,,- 想讲讲这个故事吗
-Dialogue: 0,0:21:35.44,0:21:39.46,ENG,,0,0,0,,- You know, it had to do with a Utah case.
-Dialogue: 0,0:21:35.44,0:21:39.46,CHN,,0,0,0,,- 这是一个犹他州的案子
-Dialogue: 0,0:21:39.46,0:21:43.18,ENG,,0,0,0,,- Where an elderly woman was playing the organ in a church.
-Dialogue: 0,0:21:39.46,0:21:43.18,CHN,,0,0,0,,- 一位老妇人在教堂中演奏管风琴时
-Dialogue: 0,0:21:43.18,0:21:45.75,ENG,,0,0,0,,- And there was an individual who broke in
-Dialogue: 0,0:21:43.18,0:21:45.75,CHN,,0,0,0,,- 有人破门而入
-Dialogue: 0,0:21:45.75,0:21:48.52,ENG,,0,0,0,,and assaulted her.
-Dialogue: 0,0:21:45.75,0:21:48.52,CHN,,0,0,0,,袭击了她
-Dialogue: 0,0:21:48.52,0:21:51.57,ENG,,0,0,0,,- But it wasn't a sexual assault, but it's a serious crime.
-Dialogue: 0,0:21:48.52,0:21:51.57,CHN,,0,0,0,,- 这不是性骚扰 但是仍属于严重犯罪
-Dialogue: 0,0:21:51.57,0:21:53.42,ENG,,0,0,0,,- I think believed, tried to strangle her
-Dialogue: 0,0:21:51.57,0:21:53.42,CHN,,0,0,0,,那人试着勒死她
-Dialogue: 0,0:21:53.42,0:21:54.25,ENG,,0,0,0,,and left her for dead.
-Dialogue: 0,0:21:53.42,0:21:54.25,CHN,,0,0,0,,然后逃之夭夭
-Dialogue: 0,0:21:54.25,0:21:57.95,ENG,,0,0,0,,I believe he thought that she was obviously dead and left.
-Dialogue: 0,0:21:54.25,0:21:57.95,CHN,,0,0,0,,我相信袭击者认为她看起来已经死去 就离开了
-Dialogue: 0,0:21:57.95,0:22:01.64,ENG,,0,0,0,,The police I believe approached GEDmatch
-Dialogue: 0,0:21:57.95,0:22:01.64,CHN,,0,0,0,,我相信警方与 GEDmatch 接触
-Dialogue: 0,0:22:01.64,0:22:03.80,ENG,,0,0,0,,because that they were concerned
-Dialogue: 0,0:22:01.64,0:22:03.80,CHN,,0,0,0,,是因为他们认为
-Dialogue: 0,0:22:03.80,0:22:06.88,ENG,,0,0,0,,that he was going to recommit other crimes.
-Dialogue: 0,0:22:03.80,0:22:06.88,CHN,,0,0,0,,犯罪者可能会再次作案
-Dialogue: 0,0:22:06.88,0:22:08.89,ENG,,0,0,0,,- But GEDmatch's terms of service said
-Dialogue: 0,0:22:06.88,0:22:08.89,CHN,,0,0,0,,但是 GEDmatch 的服务条款写明
-Dialogue: 0,0:22:08.89,0:22:10.33,ENG,,0,0,0,,they would only help law enforcement
-Dialogue: 0,0:22:08.89,0:22:10.33,CHN,,0,0,0,,他们只会在强奸和谋杀案件中
-Dialogue: 0,0:22:10.33,0:22:12.48,ENG,,0,0,0,,in cases of rape or homicide.
-Dialogue: 0,0:22:10.33,0:22:12.48,CHN,,0,0,0,,协助警方
-Dialogue: 0,0:22:12.48,0:22:15.52,ENG,,0,0,0,,- Her problem was that she didn't die.
-Dialogue: 0,0:22:12.48,0:22:15.52,CHN,,0,0,0,,她的案件问题在于她还活着
-Dialogue: 0,0:22:15.52,0:22:16.68,ENG,,0,0,0,,- 'Cause if she died then?
-Dialogue: 0,0:22:15.52,0:22:16.68,CHN,,0,0,0,,- 如果她死去的话 那么
-Dialogue: 0,0:22:16.68,0:22:18.92,ENG,,0,0,0,,- If she died it would have fit the conditions
-Dialogue: 0,0:22:16.68,0:22:18.92,CHN,,0,0,0,,- 如果她死去 那么这桩案件就符合情况
-Dialogue: 0,0:22:18.92,0:22:20.45,ENG,,0,0,0,,and then they would have uploaded the sample
-Dialogue: 0,0:22:18.92,0:22:20.45,CHN,,0,0,0,,警方就能上传样本
-Dialogue: 0,0:22:20.45,0:22:21.77,ENG,,0,0,0,,because it met the terms
-Dialogue: 0,0:22:20.45,0:22:21.77,CHN,,0,0,0,,因为这样符合服务条款
-Dialogue: 0,0:22:21.77,0:22:23.02,ENG,,0,0,0,,of service and everything. - So what happened?
-Dialogue: 0,0:22:21.77,0:22:23.02,CHN,,0,0,0,,- 所以发生了什么
-Dialogue: 0,0:22:23.02,0:22:24.79,ENG,,0,0,0,,They didn't take that case?
-Dialogue: 0,0:22:23.02,0:22:24.79,CHN,,0,0,0,,公司没接下这桩案子吗
-Dialogue: 0,0:22:24.79,0:22:25.62,ENG,,0,0,0,,- They did.
-Dialogue: 0,0:22:24.79,0:22:25.62,CHN,,0,0,0,,- 他们接下了
-Dialogue: 0,0:22:26.67,0:22:29.01,ENG,,0,0,0,,- They subsequently caught the individual
-Dialogue: 0,0:22:26.67,0:22:29.01,CHN,,0,0,0,,随后警方根据 GEDmatch 中的检索结果
-Dialogue: 0,0:22:29.01,0:22:32.45,ENG,,0,0,0,,from that search that they performed on GEDmatch.
-Dialogue: 0,0:22:29.01,0:22:32.45,CHN,,0,0,0,,抓到了犯罪嫌疑人
-Dialogue: 0,0:22:33.56,0:22:38.04,ENG,,0,0,0,,- But people within the genealogy world kinda got
-Dialogue: 0,0:22:33.56,0:22:38.04,CHN,,0,0,0,,- 但是做家谱分析的人们
-Dialogue: 0,0:22:38.04,0:22:41.46,ENG,,0,0,0,,their passions and flame saying that is stepping outside
-Dialogue: 0,0:22:38.04,0:22:41.46,CHN,,0,0,0,,非常愤怒 他们说这已经超出了
-Dialogue: 0,0:22:41.46,0:22:43.21,ENG,,0,0,0,,of what this tool should be used for
-Dialogue: 0,0:22:41.46,0:22:43.21,CHN,,0,0,0,,这个工具本应被使用的范围
-Dialogue: 0,0:22:43.21,0:22:46.28,ENG,,0,0,0,,and they ended up putting a lot of pressure on GEDmatch.
-Dialogue: 0,0:22:43.21,0:22:46.28,CHN,,0,0,0,,他们最终向 GEDmatch 施加了很多压力
-Dialogue: 0,0:22:46.28,0:22:49.17,ENG,,0,0,0,,- They flipped the switch because they got freaked out.
-Dialogue: 0,0:22:46.28,0:22:49.17,CHN,,0,0,0,,- GEDmatch 吓坏了 所以停止了与警方的合作 *没懂
-Dialogue: 0,0:22:49.17,0:22:50.02,ENG,,0,0,0,,- But at the end of the day,
-Dialogue: 0,0:22:49.17,0:22:50.02,CHN,,0,0,0,,- 但是到头来
-Dialogue: 0,0:22:50.02,0:22:52.23,ENG,,0,0,0,,it was a violation of terms of service.
-Dialogue: 0,0:22:50.02,0:22:52.23,CHN,,0,0,0,,这违反了服务条款
-Dialogue: 0,0:22:52.23,0:22:55.33,ENG,,0,0,0,,And I think ultimately led to a good thing.
-Dialogue: 0,0:22:52.23,0:22:55.33,CHN,,0,0,0,,我觉得这到最后反而是一件好事
-Dialogue: 0,0:22:55.33,0:22:56.63,ENG,,0,0,0,,Everybody got zeroed out
-Dialogue: 0,0:22:55.33,0:22:56.63,CHN,,0,0,0,,所有人的数据都被清零了
-Dialogue: 0,0:22:56.63,0:22:59.06,ENG,,0,0,0,,and then everybody gets to sign back in.
-Dialogue: 0,0:22:56.63,0:22:59.06,CHN,,0,0,0,,然后他们会注册回来
-Dialogue: 0,0:22:59.06,0:23:04.00,ENG,,0,0,0,,- Subsequently GEDmatch was sold to Verogen.
-Dialogue: 0,0:22:59.06,0:23:04.00,CHN,,0,0,0,,- 随后 GEDmatch 被卖给了 Verogen
-Dialogue: 0,0:23:04.00,0:23:06.38,ENG,,0,0,0,,- I can tell you a new user today
-Dialogue: 0,0:23:04.00,0:23:06.38,CHN,,0,0,0,,- 我可以说 目前的新用户
-Dialogue: 0,0:23:06.38,0:23:10.44,ENG,,0,0,0,,when they sign up for GEDmatch, about 73% of them
-Dialogue: 0,0:23:06.38,0:23:10.44,CHN,,0,0,0,,在 GEDmatch 注册时 会有约 73%
-Dialogue: 0,0:23:10.44,0:23:14.17,ENG,,0,0,0,,are signing up to allow law enforcement to search.
-Dialogue: 0,0:23:10.44,0:23:14.17,CHN,,0,0,0,,允许执法者检索数据
-Dialogue: 0,0:23:14.17,0:23:15.31,ENG,,0,0,0,,We're pretty happy with that.
-Dialogue: 0,0:23:14.17,0:23:15.31,CHN,,0,0,0,,我们对此相当高兴
-Dialogue: 0,0:23:15.31,0:23:17.86,ENG,,0,0,0,,- Yeah I mean, that's, it's a high number.
-Dialogue: 0,0:23:15.31,0:23:17.86,CHN,,0,0,0,,- 是的 我的意思是 这是个很高的数字
-Dialogue: 0,0:23:17.86,0:23:18.95,ENG,,0,0,0,,- It's a high number.
-Dialogue: 0,0:23:17.86,0:23:18.95,CHN,,0,0,0,,- 不是小数目
-Dialogue: 0,0:23:18.95,0:23:22.01,ENG,,0,0,0,,- And it suggests that people want that innocence.
-Dialogue: 0,0:23:18.95,0:23:22.01,CHN,,0,0,0,,- 这说明人们想要自证清白
-Dialogue: 0,0:23:22.01,0:23:24.57,ENG,,0,0,0,,- How many second cousins or third cousins do you now?
-Dialogue: 0,0:23:22.01,0:23:24.57,CHN,,0,0,0,,- 你知道几个从兄弟或者再从兄弟
-Dialogue: 0,0:23:24.57,0:23:25.40,ENG,,0,0,0,,You know what I mean?
-Dialogue: 0,0:23:24.57,0:23:25.40,CHN,,0,0,0,,懂我意思吗
-Dialogue: 0,0:23:25.40,0:23:27.15,ENG,,0,0,0,,You don't know that many of them.
-Dialogue: 0,0:23:25.40,0:23:27.15,CHN,,0,0,0,,你对他们不很了解
-Dialogue: 0,0:23:27.15,0:23:31.55,ENG,,0,0,0,,Without even knowing it, you're helping justice.
-Dialogue: 0,0:23:27.15,0:23:31.55,CHN,,0,0,0,,你在不知不觉中协助了正义的一方
-Dialogue: 0,0:23:31.55,0:23:36.33,ENG,,0,0,0,,You're helping a victim's family get a little bit of peace,
-Dialogue: 0,0:23:31.55,0:23:36.33,CHN,,0,0,0,,你在帮助受害者的家庭获得一点宽慰
-Dialogue: 0,0:23:36.33,0:23:38.73,ENG,,0,0,0,,not closure, but a little bit of peace
-Dialogue: 0,0:23:36.33,0:23:38.73,CHN,,0,0,0,,不是悲痛的终结 只是一点平静
-Dialogue: 0,0:23:38.73,0:23:39.82,ENG,,0,0,0,,and why not? - They get an answer.
-Dialogue: 0,0:23:38.73,0:23:39.82,CHN,,0,0,0,,为什么不呢 - 他们有自己的答案
-Dialogue: 0,0:23:39.82,0:23:41.40,ENG,,0,0,0,,- Partly, you could make an argument
-Dialogue: 0,0:23:39.82,0:23:41.40,CHN,,0,0,0,,- 在一定程度上  你可以这样认为
-Dialogue: 0,0:23:41.40,0:23:46.36,ENG,,0,0,0,,that if you wanna be an activist helping catch criminals,
-Dialogue: 0,0:23:41.40,0:23:46.36,CHN,,0,0,0,,如果你想成为一名帮助抓捕犯罪分子的热心市民
-Dialogue: 0,0:23:46.36,0:23:47.70,ENG,,0,0,0,,one of the best things you can do
-Dialogue: 0,0:23:46.36,0:23:47.70,CHN,,0,0,0,,你能做到的最好的事情之一
-Dialogue: 0,0:23:47.70,0:23:52.02,ENG,,0,0,0,,is encourage everyone you know to be tested
-Dialogue: 0,0:23:47.70,0:23:52.02,CHN,,0,0,0,,就是鼓励身边的每个人都接受DNA测试
-Dialogue: 0,0:23:52.02,0:23:53.30,ENG,,0,0,0,,and put in the database.
-Dialogue: 0,0:23:52.02,0:23:53.30,CHN,,0,0,0,,并将基因录入数据库
-Dialogue: 0,0:23:53.30,0:23:57.03,ENG,,0,0,0,,- Correct and you know, there are millions
-Dialogue: 0,0:23:53.30,0:23:57.03,CHN,,0,0,0,,- 的确  如你所知
-Dialogue: 0,0:23:57.03,0:24:02.81,ENG,,0,0,0,,of people who have tested at other companies\Nthat are not working with law enforcement.
-Dialogue: 0,0:23:57.03,0:24:02.81,CHN,,0,0,0,,还有数百万人在不与执法部门合作的公司做了测试
-Dialogue: 0,0:24:02.81,0:24:06.97,ENG,,0,0,0,,And if they want to help, all they have to do
-Dialogue: 0,0:24:02.81,0:24:06.97,CHN,,0,0,0,,如果他们想要提供帮助
-Dialogue: 0,0:24:06.97,0:24:12.43,ENG,,0,0,0,,is download their raw data and they can upload it for free\Ninto our database.
-Dialogue: 0,0:24:06.97,0:24:12.43,CHN,,0,0,0,,他们只需要下载原始数据  并将其免费上传至我们的数据库
-Dialogue: 0,0:24:12.43,0:24:16.35,ENG,,0,0,0,,- I absolutely believe in a person's right to privacy.
-Dialogue: 0,0:24:12.43,0:24:16.35,CHN,,0,0,0,,- 我完全相信人们的隐私权
-Dialogue: 0,0:24:16.35,0:24:19.01,ENG,,0,0,0,,But I also absolutely believe we have a right not
-Dialogue: 0,0:24:16.35,0:24:19.01,CHN,,0,0,0,,但是我也完全相信
-Dialogue: 0,0:24:19.01,0:24:21.54,ENG,,0,0,0,,to get murdered or sexually assaulted or it will be part
-Dialogue: 0,0:24:19.01,0:24:21.54,CHN,,0,0,0,,我们有权不被谋杀或性侵
-Dialogue: 0,0:24:21.54,0:24:25.31,ENG,,0,0,0,,having violent crimes committed against us.
-Dialogue: 0,0:24:21.54,0:24:25.31,CHN,,0,0,0,,否则相同的事情可能会落到我们头上
-Dialogue: 0,0:24:25.31,0:24:27.82,ENG,,0,0,0,,There has to be an equal balance.
-Dialogue: 0,0:24:25.31,0:24:27.82,CHN,,0,0,0,,这中间必须做出权衡
-Dialogue: 0,0:24:27.82,0:24:31.11,ENG,,0,0,0,,- That scale of my privacy has been taken
-Dialogue: 0,0:24:27.82,0:24:31.11,CHN,,0,0,0,,- 我的隐私天平不再平衡
-Dialogue: 0,0:24:31.11,0:24:33.65,ENG,,0,0,0,,because of a third cousin has been identified
-Dialogue: 0,0:24:31.11,0:24:33.65,CHN,,0,0,0,,因为一位女儿被谋杀的母亲
-Dialogue: 0,0:24:33.65,0:24:37.01,ENG,,0,0,0,,versus a mother who's talking\Nabout her daughter has been murdered,
-Dialogue: 0,0:24:33.65,0:24:37.01,CHN,,0,0,0,,正在与被辨认出的我的三表弟对峙
-Dialogue: 0,0:24:37.01,0:24:40.21,ENG,,0,0,0,,that scale is way the hell like this.
-Dialogue: 0,0:24:37.01,0:24:40.21,CHN,,0,0,0,,就像这个鬼样子
-Dialogue: 0,0:24:40.21,0:24:43.54,ENG,,0,0,0,,- We're at a point now where in many ways technology
-Dialogue: 0,0:24:40.21,0:24:43.54,CHN,,0,0,0,,- 我们现在许多方面的科技
-Dialogue: 0,0:24:43.54,0:24:47.62,ENG,,0,0,0,,has kind of outstripped where the laws are.
-Dialogue: 0,0:24:43.54,0:24:47.62,CHN,,0,0,0,,已经超越了法律
-Dialogue: 0,0:24:47.62,0:24:49.00,ENG,,0,0,0,,I truly believe that
-Dialogue: 0,0:24:47.62,0:24:49.00,CHN,,0,0,0,,我真希望
-Dialogue: 0,0:24:49.00,0:24:56.56,ENG,,0,0,0,,ultimately this tool and the,\Nall the concerns with it will probably end up
-Dialogue: 0,0:24:49.00,0:24:56.56,CHN,,0,0,0,,这项技术和所有相关的问题
-Dialogue: 0,0:24:56.56,0:24:58.71,ENG,,0,0,0,,in front of the nation Supreme Court
-Dialogue: 0,0:24:56.56,0:24:58.71,CHN,,0,0,0,,最终都会提交给国家最高法院
-Dialogue: 0,0:24:58.71,0:25:00.31,ENG,,0,0,0,,and there will be a decision.
-Dialogue: 0,0:24:58.71,0:25:00.31,CHN,,0,0,0,,并且会有个结果
-Dialogue: 0,0:25:00.31,0:25:03.70,ENG,,0,0,0,,My bottom line message, if you're gonna make a decision,
-Dialogue: 0,0:25:00.31,0:25:03.70,CHN,,0,0,0,,我的底线是  如果你要做个判决
-Dialogue: 0,0:25:03.70,0:25:06.60,ENG,,0,0,0,,if there's gonna be laws restricting law enforcement to use it, 
-Dialogue: 0,0:25:03.70,0:25:06.60,CHN,,0,0,0,,如果这事涉及到法律的制裁
-Dialogue: 0,0:25:06.60,0:25:09.80,ENG,,0,0,0,,make sure that you're making an informed decision
-Dialogue: 0,0:25:06.60,0:25:09.80,CHN,,0,0,0,,请确保你做出明智的决定
-Dialogue: 0,0:25:09.80,0:25:12.89,ENG,,0,0,0,,and not assuming what it is based on
-Dialogue: 0,0:25:09.80,0:25:12.89,CHN,,0,0,0,,而不是根据DNA、遗传学来猜测
-Dialogue: 0,0:25:12.89,0:25:15.45,ENG,,0,0,0,,its DNA and genetics and law enforcement
-Dialogue: 0,0:25:12.89,0:25:15.45,CHN,,0,0,0,,并将“罪犯”绳之以法
-Dialogue: 0,0:25:15.45,0:25:18.37,ENG,,0,0,0,,because it really isn't what you think it is.
-Dialogue: 0,0:25:15.45,0:25:18.37,CHN,,0,0,0,,因为它真的不是你想象的那样
-Dialogue: 0,0:25:18.37,0:25:20.31,ENG,,0,0,0,,- I gotta keep a couple of million people happy
-Dialogue: 0,0:25:18.37,0:25:20.31,CHN,,0,0,0,,- 从某种意义上说  我得让几百万人开心
-Dialogue: 0,0:25:20.31,0:25:24.22,ENG,,0,0,0,,so that I have access to the identities, kind of in a sense.
-Dialogue: 0,0:25:20.31,0:25:24.22,CHN,,0,0,0,,才能拥有这些基因数据
-Dialogue: 0,0:25:24.22,0:25:25.66,ENG,,0,0,0,,- In a sense, right? - Of millions,
-Dialogue: 0,0:25:24.22,0:25:25.66,CHN,,0,0,0,,- 某种意义上  对吧？\N- 几百万
-Dialogue: 0,0:25:25.66,0:25:26.95,ENG,,0,0,0,,of hundreds of millions of people.
-Dialogue: 0,0:25:25.66,0:25:26.95,CHN,,0,0,0,,几亿人
-Dialogue: 0,0:25:26.95,0:25:27.78,ENG,,0,0,0,,- Right.
-Dialogue: 0,0:25:26.95,0:25:27.78,CHN,,0,0,0,,- 对
-Dialogue: 0,0:25:28.74,0:25:30.45,ENG,,0,0,0,,- And that's a pretty selective sample.
-Dialogue: 0,0:25:28.74,0:25:30.45,CHN,,0,0,0,,- 这是一组非常有选择性的样本
-Dialogue: 0,0:25:30.45,0:25:31.70,ENG,,0,0,0,,These are people who are willing
-Dialogue: 0,0:25:30.45,0:25:31.70,CHN,,0,0,0,,这是那些愿意放弃他们的信息的人
-Dialogue: 0,0:25:31.70,0:25:33.15,ENG,,0,0,0,,to give up their information - Give up, yes.
-Dialogue: 0,0:25:31.70,0:25:33.15,CHN,,0,0,0,,- 是的  放弃
-Dialogue: 0,0:25:33.15,0:25:34.92,ENG,,0,0,0,,- To find their ancestors. - Yeah.
-Dialogue: 0,0:25:33.15,0:25:34.92,CHN,,0,0,0,,- 来寻找他们的祖先  - 对
-Dialogue: 0,0:25:34.92,0:25:37.67,ENG,,0,0,0,,- There may be many others who are militantly private
-Dialogue: 0,0:25:34.92,0:25:37.67,CHN,,0,0,0,,- 还有许多其他非常注重隐私的人
-Dialogue: 0,0:25:37.67,0:25:40.06,ENG,,0,0,0,,but they don't get a say in the decision
-Dialogue: 0,0:25:37.67,0:25:40.06,CHN,,0,0,0,,但是他们对于
-Dialogue: 0,0:25:40.06,0:25:42.81,ENG,,0,0,0,,of whether they're gonna be searchable
-Dialogue: 0,0:25:40.06,0:25:42.81,CHN,,0,0,0,,是否可以被其他人的数据检索到
-Dialogue: 0,0:25:42.81,0:25:44.57,ENG,,0,0,0,,through that person or not.
-Dialogue: 0,0:25:42.81,0:25:44.57,CHN,,0,0,0,,并没有发言权
-Dialogue: 0,0:25:44.57,0:25:47.53,ENG,,0,0,0,,- True, that's the choice you make.
-Dialogue: 0,0:25:44.57,0:25:47.53,CHN,,0,0,0,,- 是的  这是你的决定
-Dialogue: 0,0:25:48.38,0:25:49.88,ENG,,0,0,0,,- That's the choice you don't make.
-Dialogue: 0,0:25:48.38,0:25:49.88,CHN,,0,0,0,,- 这是你不会做出的决定
-Dialogue: 0,0:25:49.88,0:25:52.52,ENG,,0,0,0,,- It's a choice you don't make but it's also
-Dialogue: 0,0:25:49.88,0:25:52.52,CHN,,0,0,0,,- 你也不会选择这样
-Dialogue: 0,0:25:52.52,0:25:54.72,ENG,,0,0,0,,it's the choice we have to make as a society,
-Dialogue: 0,0:25:52.52,0:25:54.72,CHN,,0,0,0,,但这也是我们作为一个社会必须做出的选择
-Dialogue: 0,0:25:54.72,0:25:56.35,ENG,,0,0,0,,is what's that balance.
-Dialogue: 0,0:25:54.72,0:25:56.35,CHN,,0,0,0,,这种平衡是什么
-Dialogue: 0,0:25:56.35,0:25:58.34,ENG,,0,0,0,,There is always gonna be winners and loses
-Dialogue: 0,0:25:56.35,0:25:58.34,CHN,,0,0,0,,在我看来
-Dialogue: 0,0:25:58.34,0:25:59.17,ENG,,0,0,0,,in my mind, right?
-Dialogue: 0,0:25:58.34,0:25:59.17,CHN,,0,0,0,,总会有赢家和输家
-Dialogue: 0,0:25:59.17,0:26:02.09,ENG,,0,0,0,,And I don't wanna use losers in the negative sense there
-Dialogue: 0,0:25:59.17,0:26:02.09,CHN,,0,0,0,,我并不想用消极意义上的失败者
-Dialogue: 0,0:26:02.09,0:26:05.17,ENG,,0,0,0,,but in a decision at the end of the day,
-Dialogue: 0,0:26:02.09,0:26:05.17,CHN,,0,0,0,,但是最终
-Dialogue: 0,0:26:05.17,0:26:07.62,ENG,,0,0,0,,you have to balance in my mind
-Dialogue: 0,0:26:05.17,0:26:07.62,CHN,,0,0,0,,关于公共安全和公共隐私
-Dialogue: 0,0:26:07.62,0:26:11.09,ENG,,0,0,0,,the public safety with the public privacy.
-Dialogue: 0,0:26:07.62,0:26:11.09,CHN,,0,0,0,,你会有个答案
-Dialogue: 0,0:26:11.09,0:26:13.66,ENG,,0,0,0,,- Is DuckDuckGo, is that good?
-Dialogue: 0,0:26:11.09,0:26:13.66,CHN,,0,0,0,,- DuckDuckGo  好用么？
-Dialogue: 0,0:26:13.66,0:26:14.49,ENG,,0,0,0,,- I use it.
-Dialogue: 0,0:26:13.66,0:26:14.49,CHN,,0,0,0,,- 我用这个
-Dialogue: 0,0:26:14.49,0:26:16.61,ENG,,0,0,0,,I'm a little paranoid.
-Dialogue: 0,0:26:14.49,0:26:16.61,CHN,,0,0,0,,我有点偏执
-Dialogue: 0,0:26:18.04,0:26:22.91,ENG,,0,0,0,,So it's supposed to not track you as much I guess, but yeah.
-Dialogue: 0,0:26:18.04,0:26:22.91,CHN,,0,0,0,,我觉得它应该会尽量不对你进行跟踪  就这样
+Dialogue: 0,0:00:00.00,0:00:03.94,English,,0,0,0,, Your DNA is probably already in a database.
+Dialogue: 0,0:00:00.00,0:00:03.94,Chinese,,0,0,0,,你的DNA可能已经在一个数据库当中了
+Dialogue: 0,0:00:03.94,0:00:07.17,English,,0,0,0,,You didn't have to provide a sample or give consent
+Dialogue: 0,0:00:03.94,0:00:07.17,Chinese,,0,0,0,,你无需提供样本或者给予许可
+Dialogue: 0,0:00:07.17,0:00:11.93,English,,0,0,0,,but the unique sequence of As, Ts, Gs and Cs that make you you
+Dialogue: 0,0:00:07.17,0:00:11.93,Chinese,,0,0,0,,但你拥有的四种碱基（A、T、G和C）独特的序列
+Dialogue: 0,0:00:11.93,0:00:13.87,English,,0,0,0,,are searchable nonetheless.
+Dialogue: 0,0:00:11.93,0:00:13.87,Chinese,,0,0,0,,是可以被检索到的
+Dialogue: 0,0:00:13.87,0:00:15.77,English,,0,0,0,,So if you committed a heinous crime
+Dialogue: 0,0:00:13.87,0:00:15.77,Chinese,,0,0,0,,所以，如果你犯下了令人发指的罪行
+Dialogue: 0,0:00:15.77,0:00:17.35,English,,0,0,0,,and left a bit of your DNA,
+Dialogue: 0,0:00:15.77,0:00:17.35,Chinese,,0,0,0,,并留下了你哪怕只有一点的DNA
+Dialogue: 0,0:00:17.35,0:00:20.05,English,,0,0,0,,law enforcement could search it in a database
+Dialogue: 0,0:00:17.35,0:00:20.05,Chinese,,0,0,0,,执法部门就可以在数据库中对你的DNA进行检索
+Dialogue: 0,0:00:20.05,0:00:21.43,English,,0,0,0,,and identify you.
+Dialogue: 0,0:00:20.05,0:00:21.43,Chinese,,0,0,0,,并最终识别到你的身份
+Dialogue: 0,0:00:22.90,0:00:28.06,English,,0,0,0,,This video includes a discussion of serious crimes which may be disturbing for some viewers
+Dialogue: 0,0:00:22.90,0:00:28.06,Chinese,,0,0,0,,本视频包括一些可能令观众感到不安的严重罪行的讨论
+Dialogue: 0,0:00:28.06,0:00:30.60,English,,0,0,0,,so I wanted to let you know that upfront,
+Dialogue: 0,0:00:28.06,0:00:30.60,Chinese,,0,0,0,,所以我想提前告知您
+Dialogue: 0,0:00:30.60,0:00:36.81,English,,0,0,0,,but I think it's necessary to talk about these crimes in some detail for reasons that will become apparent.
+Dialogue: 0,0:00:30.60,0:00:36.81,Chinese,,0,0,0,,但由于即将显而易见的原因，我认为有必要详细讨论这些犯罪
+Dialogue: 0,0:00:39.26,0:00:43.43,English,,0,0,0,,In the small town of Visalia, California in the mid 1970s,
+Dialogue: 0,0:00:39.26,0:00:43.43,Chinese,,0,0,0,,1970年代中期，在加利福尼亚州维塞利亚小镇
+Dialogue: 0,0:00:43.43,0:00:46.94,English,,0,0,0,,one of the state's most prolific criminals got his start.
+Dialogue: 0,0:00:43.43,0:00:46.94,Chinese,,0,0,0,,该州犯罪最多的罪犯之一开始了他的犯罪生涯
+Dialogue: 0,0:00:46.94,0:00:53.47,English,,0,0,0,,He repeatedly broke into houses and stole small items like cash, coins, and jewelry.
+Dialogue: 0,0:00:46.94,0:00:53.47,Chinese,,0,0,0,,他多次闯入民宅并偷走现金、硬币和珠宝等小物件
+Dialogue: 0,0:00:53.47,0:00:56.46,English,,0,0,0,,He was dubbed the Visalia ransacker
+Dialogue: 0,0:00:53.47,0:00:56.46,Chinese,,0,0,0,,他被称为“维塞利亚劫掠者”
+Dialogue: 0,0:00:56.46,0:00:59.29,English,,0,0,0,,but soon his crimes escalated.
+Dialogue: 0,0:00:56.46,0:00:59.29,Chinese,,0,0,0,,但很快他的罪行就不止于此了
+Dialogue: 0,0:00:59.29,0:01:01.22,English,,0,0,0,,- Six months later in 1976,
+Dialogue: 0,0:00:59.29,0:01:01.22,Chinese,,0,0,0,,六个月后的1976年
+Dialogue: 0,0:01:01.22,0:01:02.96,English,,0,0,0,,he moves up to Sacramento and over
+Dialogue: 0,0:01:01.22,0:01:02.96,Chinese,,0,0,0,,他搬去了萨克拉门托
+Dialogue: 0,0:01:02.96,0:01:04.56,English,,0,0,0,,the course of the next three years,
+Dialogue: 0,0:01:02.96,0:01:04.56,Chinese,,0,0,0,,并且在接下来的三年里
+Dialogue: 0,0:01:04.56,0:01:12.66,English,,0,0,0,,he's moving all across Northern California committing numerous sexual assaults, over 50 sexual assaults.
+Dialogue: 0,0:01:04.56,0:01:12.66,Chinese,,0,0,0,,他在北加州多地犯下了了超过50起强奸案
+Dialogue: 0,0:01:12.66,0:01:15.60,English,,0,0,0,,- Here, he was called the east area rapist.
+Dialogue: 0,0:01:12.66,0:01:15.60,Chinese,,0,0,0,,在这里，他被称为“东区强暴魔”
+Dialogue: 0,0:01:15.60,0:01:17.87,English,,0,0,0,,- [Male Reporter] The police are saying lock up tight.
+Dialogue: 0,0:01:15.60,0:01:17.87,Chinese,,0,0,0,,警察说要锁紧门窗
+Dialogue: 0,0:01:17.87,0:01:21.26,English,,0,0,0,,Sacramento's infamous east area rapist may still be in town.
+Dialogue: 0,0:01:17.87,0:01:21.26,Chinese,,0,0,0,,因为萨拉克门托臭名昭著的“东区强暴魔”可能还在城里
+Dialogue: 0,0:01:22.28,0:01:26.06,English,,0,0,0,,- And then in 1979, he moves down to Southern California,
+Dialogue: 0,0:01:22.28,0:01:26.06,Chinese,,0,0,0,,然后在1979年，他搬去南加州
+Dialogue: 0,0:01:26.06,0:01:29.31,English,,0,0,0,,starting in Santa Barbara and starts killing.
+Dialogue: 0,0:01:26.06,0:01:29.31,Chinese,,0,0,0,,从圣巴巴拉开始杀人
+Dialogue: 0,0:01:29.31,0:01:32.78,English,,0,0,0,,And he was known as the original night stalker in Southern California.
+Dialogue: 0,0:01:29.31,0:01:32.78,Chinese,,0,0,0,,他被称为南加州的“暗夜尾行者”
+Dialogue: 0,0:01:32.78,0:01:37.04,English,,0,0,0,,- [Reporter] Variously known as the east area rapist and the original night stalker,
+Dialogue: 0,0:01:32.78,0:01:37.04,Chinese,,0,0,0,,他被人们称为“东区强暴魔”“暗夜尾行者”
+Dialogue: 0,0:01:37.04,0:01:45.69,English,,0,0,0,,these were brutal meticulously planned crimes that spanned numerous California counties between 1976 and 1986.
+Dialogue: 0,0:01:37.04,0:01:45.69,Chinese,,0,0,0,,这些是1976年至1986年间跨越加利福尼亚州多县之间精心策划的残酷犯罪
+Dialogue: 0,0:01:45.69,0:01:52.84,English,,0,0,0,,- Police believed that all of these crimes were committed by the same person now known as the golden state killer.
+Dialogue: 0,0:01:45.69,0:01:52.84,Chinese,,0,0,0,,警察相信所有这些罪行都是由现在被称为“金州杀手”的同一人所犯
+Dialogue: 0,0:01:52.84,0:01:56.01,English,,0,0,0,,How was it known that these were committed by the same person?
+Dialogue: 0,0:01:52.84,0:01:56.01,Chinese,,0,0,0,,如何知道这些都是由同一人所犯的呢？
+Dialogue: 0,0:01:56.01,0:01:58.84,English,,0,0,0,,- Investigators were relying on MO.
+Dialogue: 0,0:01:56.01,0:01:58.84,Chinese,,0,0,0,,调查人员们依赖MO
+Dialogue: 0,0:01:59.24,0:02:05.65,English,,0,0,0,,MO, modus operandi is basically how a criminal will commit a crime.
+Dialogue: 0,0:01:59.24,0:02:05.65,Chinese,,0,0,0,,MO，作案手法，基本上可以理解为犯罪分子是如何犯罪的
+Dialogue: 0,0:02:05.65,0:02:09.03,English,,0,0,0,,- He was wearing some type of a mask or a hood.
+Dialogue: 0,0:02:05.65,0:02:09.03,Chinese,,0,0,0,,他戴着某种面具或者兜帽
+Dialogue: 0,0:02:09.73,0:02:11.97,English,,0,0,0,,He was wearing shorts and a T-shirt.
+Dialogue: 0,0:02:09.73,0:02:11.97,Chinese,,0,0,0,,他穿着短裤和T恤衫
+Dialogue: 0,0:02:11.97,0:02:14.65,English,,0,0,0,,- The golden state killer had a very distinctive MO
+Dialogue: 0,0:02:11.97,0:02:14.65,Chinese,,0,0,0,,“金州杀手”有一个非常独特的MO
+Dialogue: 0,0:02:14.65,0:02:15.55,English,,0,0,0,,- What he would do is
+Dialogue: 0,0:02:14.65,0:02:15.55,Chinese,,0,0,0,,他会做的是
+Dialogue: 0,0:02:15.55,0:02:19.10,English,,0,0,0,,he would break into a house with a gun,
+Dialogue: 0,0:02:19.10,0:02:21.21,English,,0,0,0,,a house with a man and a woman.
+Dialogue: 0,0:02:15.55,0:02:21.21,Chinese,,0,0,0,,他会持枪闯入一栋有男人和女人的民宅
+Dialogue: 0,0:02:21.21,0:02:23.03,English,,0,0,0,,He would tie them up
+Dialogue: 0,0:02:21.21,0:02:23.03,Chinese,,0,0,0,,他会把他们绑起来
+Dialogue: 0,0:02:24.06,0:02:27.22,English,,0,0,0,,tell the man I'm gonna put plates on your back.
+Dialogue: 0,0:02:24.06,0:02:27.22,Chinese,,0,0,0,,然后告诉那个男人，我要把盘子放到你的后背上
+Dialogue: 0,0:02:27.22,0:02:28.70,English,,0,0,0,,If I hear those plates move,
+Dialogue: 0,0:02:27.22,0:02:28.70,Chinese,,0,0,0,,如果我听到盘子动了
+Dialogue: 0,0:02:28.70,0:02:31.40,English,,0,0,0,,I'm going to kill your wife and then kill you,
+Dialogue: 0,0:02:28.70,0:02:31.40,Chinese,,0,0,0,,我就要杀了你的妻子然后再杀了你
+Dialogue: 0,0:02:31.40,0:02:34.47,English,,0,0,0,,take the wife into another room and sexually assault her.
+Dialogue: 0,0:02:31.40,0:02:34.47,Chinese,,0,0,0,,他把妻子带到另一个房间对她进行性侵犯
+Dialogue: 0,0:02:34.47,0:02:38.90,English,,0,0,0,,Then he would go through the house for however much time,
+Dialogue: 0,0:02:34.47,0:02:38.90,Chinese,,0,0,0,,然后他会在房子里徘徊相当久
+Dialogue: 0,0:02:38.90,0:02:42.11,English,,0,0,0,,eating, stealing stuff, stealing little things or whatever
+Dialogue: 0,0:02:38.90,0:02:42.11,Chinese,,0,0,0,,就吃东西，偷东西之类的
+Dialogue: 0,0:02:42.11,0:02:43.42,English,,0,0,0,,and then he would leave.
+Dialogue: 0,0:02:42.11,0:02:43.42,Chinese,,0,0,0,,然后他才会离开
+Dialogue: 0,0:02:43.42,0:02:46.90,English,,0,0,0,,- How was he not caught based on fingerprint evidence?
+Dialogue: 0,0:02:43.42,0:02:46.90,Chinese,,0,0,0,,他怎么没因为指纹证据被抓？
+Dialogue: 0,0:02:46.90,0:02:48.88,English,,0,0,0,,- Well, he didn't leave his fingerprints.
+Dialogue: 0,0:02:46.90,0:02:48.88,Chinese,,0,0,0,,好吧，他没留下指纹
+Dialogue: 0,0:02:48.88,0:02:49.94,English,,0,0,0,,He always wore a mask.
+Dialogue: 0,0:02:48.88,0:02:49.94,Chinese,,0,0,0,,他总是戴着面具
+Dialogue: 0,0:02:49.94,0:02:51.14,English,,0,0,0,,He always had gloves on.
+Dialogue: 0,0:02:49.94,0:02:51.14,Chinese,,0,0,0,,他总是戴着手套
+Dialogue: 0,0:02:51.14,0:02:53.75,English,,0,0,0,,This was an offender that did everything
+Dialogue: 0,0:02:53.75,0:02:55.73,English,,0,0,0,,to prevent himself from being caught.
+Dialogue: 0,0:02:51.14,0:02:55.73,Chinese,,0,0,0,,这是一个竭尽全力防止自己被抓的罪犯
+Dialogue: 0,0:02:55.73,0:02:58.90,English,,0,0,0,,- [Reporter] The golden state killer has been linked to at least 12 murders,
+Dialogue: 0,0:02:55.73,0:02:58.90,Chinese,,0,0,0,,金州杀手与在加州发生的至少12起谋杀案、
+Dialogue: 0,0:02:58.90,0:03:02.49,English,,0,0,0,,50 rapes, and a string of burglaries throughout California.
+Dialogue: 0,0:02:58.90,0:03:02.49,Chinese,,0,0,0,,50起强奸案和一系列的盗窃案有关
+Dialogue: 0,0:03:06.40,0:03:07.81,English,,0,0,0,,- All right, how's it going?
+Dialogue: 0,0:03:06.40,0:03:07.81,Chinese,,0,0,0,,最近怎么样？
+Dialogue: 0,0:03:07.81,0:03:09.09,English,,0,0,0,,- How you doing? - Good.
+Dialogue: 0,0:03:07.81,0:03:09.09,Chinese,,0,0,0,,你好吗？ 好的好的
+Dialogue: 0,0:03:09.09,0:03:12.76,English,,0,0,0,,- So we supply DNA sequencing solutions
+Dialogue: 0,0:03:12.76,0:03:15.97,English,,0,0,0,,to the forensic laboratories that process crime scene DNA.
+Dialogue: 0,0:03:09.34,0:03:15.97,Chinese,,0,0,0,,我们为处理犯罪现场DNA的法医实验室提供DNA测序解决方案
+Dialogue: 0,0:03:15.97,0:03:21.01,English,,0,0,0,,At a crime scene, there's typically less than a nanogram of DNA left
+Dialogue: 0,0:03:15.97,0:03:21.01,Chinese,,0,0,0,,一般我们在犯罪现场，只能找到不到1纳克的DNA
+Dialogue: 0,0:03:21.01,0:03:23.24,English,,0,0,0,,and it's usually degraded, right?
+Dialogue: 0,0:03:21.01,0:03:23.24,Chinese,,0,0,0,,并且它们通常还会降解，对吧？
+Dialogue: 0,0:03:15.97,0:03:23.24,Chinese,,0,0,0,,{\an7\pos(2596,1802)}纳克{\fsp-24}：{\fsp0}10的-9次方克{\fsp-24}
+Dialogue: 0,0:03:23.24,0:03:24.00,English,,0,0,0,,So it breaks down.
+Dialogue: 0,0:03:23.24,0:03:24.00,Chinese,,0,0,0,,所以它降解了
+Dialogue: 0,0:03:24.00,0:03:25.97,English,,0,0,0,,- Why is there so little? at a crime scene?
+Dialogue: 0,0:03:24.00,0:03:25.97,Chinese,,0,0,0,,为什么在犯罪现场，只有这么少？？？
+Dialogue: 0,0:03:25.97,0:03:27.13,English,,0,0,0,,A nanogram?
+Dialogue: 0,0:03:25.97,0:03:27.13,Chinese,,0,0,0,,只有1纳克？
+Dialogue: 0,0:03:27.13,0:03:27.63,English,,0,0,0,,- Yes.
+Dialogue: 0,0:03:27.13,0:03:27.63,Chinese,,0,0,0,,对的
+Dialogue: 0,0:03:27.63,0:03:28.49,English,,0,0,0,,- That's insane.
+Dialogue: 0,0:03:27.63,0:03:28.49,Chinese,,0,0,0,,这太疯狂了
+Dialogue: 0,0:03:28.49,0:03:29.23,English,,0,0,0,,- Yes.
+Dialogue: 0,0:03:28.49,0:03:29.23,Chinese,,0,0,0,,对啊
+Dialogue: 0,0:03:29.23,0:03:32.62,English,,0,0,0,,- There's no accident that he stops in 1986.
+Dialogue: 0,0:03:29.23,0:03:32.62,Chinese,,0,0,0,,他在1986年停止作案绝非偶然
+Dialogue: 0,0:03:32.62,0:03:38.32,English,,0,0,0,,1986 is when the first DNA case of a murder case
+Dialogue: 0,0:03:32.62,0:03:38.32,Chinese,,0,0,0,,1986年是第一个谋杀案的第一起DNA案件解决的年份
+Dialogue: 0,0:03:38.32,0:03:41.61,English,,0,0,0,,is actually solved with DNA and he's,
+Dialogue: 0,0:03:38.32,0:03:41.61,Chinese,,0,0,0,,第一次用DNA解决的，嗯..他...
+Dialogue: 0,0:03:41.61,0:03:45.22,English,,0,0,0,,I think he's following that and he's saying, you know what,
+Dialogue: 0,0:03:41.61,0:03:45.22,Chinese,,0,0,0,,我觉得他正在跟进这些案件的进度，他说，你知道吗
+Dialogue: 0,0:03:45.22,0:03:49.09,English,,0,0,0,,what I'm doing here, I'm leaving my DNA.
+Dialogue: 0,0:03:45.22,0:03:49.09,Chinese,,0,0,0,,我在这做的事，会遗留下我的DNA
+Dialogue: 0,0:03:49.09,0:03:50.61,English,,0,0,0,,I can't do this anymore.
+Dialogue: 0,0:03:49.09,0:03:50.61,Chinese,,0,0,0,,我可再也不能犯罪了
+Dialogue: 0,0:03:50.61,0:03:54.33,English,,0,0,0,,- [Reporter] Investigator Paul Holes tracked the golden state killer for decades.
+Dialogue: 0,0:03:50.61,0:03:54.33,Chinese,,0,0,0,,调查员保罗·霍尔斯追查了“金州杀手”几十年
+Dialogue: 0,0:03:54.33,0:03:56.35,English,,0,0,0,,- He couldn't account for DNA technology
+Dialogue: 0,0:03:54.33,0:03:56.35,Chinese,,0,0,0,,他不了解DNA技术
+Dialogue: 0,0:03:56.35,0:03:58.40,English,,0,0,0,,and that really was his big mistake.
+Dialogue: 0,0:03:56.35,0:03:58.40,Chinese,,0,0,0,,这确实是他犯下的大错
+Dialogue: 0,0:03:58.40,0:04:00.01,English,,0,0,0,,That was the critical mistake.
+Dialogue: 0,0:03:58.40,0:04:00.01,Chinese,,0,0,0,,这是一项严重的错误
+Dialogue: 0,0:04:00.01,0:04:03.03,English,,0,0,0,,He left his DNA all over California.
+Dialogue: 0,0:04:00.01,0:04:03.03,Chinese,,0,0,0,,他把他的DNA留得整个加州到处都是
+Dialogue: 0,0:04:03.03,0:04:05.20,English,,0,0,0,,And it turns out that in three of the cases,
+Dialogue: 0,0:04:03.03,0:04:05.20,Chinese,,0,0,0,,事实证明，在其中三个案例中
+Dialogue: 0,0:04:05.20,0:04:07.66,English,,0,0,0,,I had three sexual assault kits and that's where I got
+Dialogue: 0,0:04:07.66,0:04:10.92,English,,0,0,0,,the golden state killer's DNA from Northern California.
+Dialogue: 0,0:04:05.20,0:04:10.92,Chinese,,0,0,0,,我有三个性侵工具包，这就是我从北加州获得“金州杀手”DNA的地方
+Dialogue: 0,0:04:05.20,0:04:10.92,Chinese,,0,0,0,,{\an7\pos(396,1610)}性侵工具包{\fsp-24}：\N{\fsp0}一种取证工具{\fsp-24}，能帮助受害者快速留下被性侵证据{\fsp0}
+Dialogue: 0,0:04:12.35,0:04:15.70,English,,0,0,0,,- But having the unknown killer's DNA wasn't enough.
+Dialogue: 0,0:04:12.35,0:04:15.70,Chinese,,0,0,0,,但只有未知杀手的DNA还不够
+Dialogue: 0,0:04:15.70,0:04:18.33,English,,0,0,0,,They needed to match it to a known sample.
+Dialogue: 0,0:04:15.70,0:04:18.33,Chinese,,0,0,0,,他们还需将其与已知样本匹配起来
+Dialogue: 0,0:04:19.11,0:04:21.64,English,,0,0,0,,In 1990, the FBI started work
+Dialogue: 0,0:04:19.11,0:04:21.64,Chinese,,0,0,0,,1990年，FBI(美国联邦调查局)
+Dialogue: 0,0:04:21.64,0:04:24.83,English,,0,0,0,,on what would become a national genetic database.
+Dialogue: 0,0:04:21.64,0:04:24.83,Chinese,,0,0,0,,开始建立全国的基因库
+Dialogue: 0,0:04:24.83,0:04:26.83,English,,0,0,0,,It mainly stores DNA profiles
+Dialogue: 0,0:04:24.83,0:04:26.83,Chinese,,0,0,0,,这个基因库主要记录已被判刑的罪犯
+Dialogue: 0,0:04:26.83,0:04:29.81,English,,0,0,0,,from convicted criminals and persons of interest.
+Dialogue: 0,0:04:26.83,0:04:29.81,Chinese,,0,0,0,,和案件相关人士的DNA档案
+Dialogue: 0,0:04:29.81,0:04:32.91,English,,0,0,0,,It's called the combined DNA index system
+Dialogue: 0,0:04:29.81,0:04:32.91,Chinese,,0,0,0,,它被称为“联合DNA索引系统”，
+Dialogue: 0,0:04:32.91,0:04:35.13,English,,0,0,0,,or CODIS for short.
+Dialogue: 0,0:04:32.91,0:04:35.13,Chinese,,0,0,0,,缩写是CODIS
+Dialogue: 0,0:04:35.13,0:04:38.81,English,,0,0,0,,In each of your cells, there are 23 pairs of chromosomes,
+Dialogue: 0,0:04:35.13,0:04:38.81,Chinese,,0,0,0,,你的每一个细胞中，都有23对染色体
+Dialogue: 0,0:04:38.81,0:04:41.49,English,,0,0,0,,one from your mom and one from your dad.
+Dialogue: 0,0:04:38.81,0:04:41.49,Chinese,,0,0,0,,一对染色体中有一条来自母亲，另一条来自父亲
+Dialogue: 0,0:04:41.49,0:04:43.96,English,,0,0,0,,And at particular places on some chromosomes,
+Dialogue: 0,0:04:41.49,0:04:43.96,Chinese,,0,0,0,,在某些染色体中的特定位置上
+Dialogue: 0,0:04:43.96,0:04:46.48,English,,0,0,0,,there are short sections of DNA that repeat
+Dialogue: 0,0:04:43.96,0:04:46.48,Chinese,,0,0,0,,会有一些重复的DNA片段，
+Dialogue: 0,0:04:47.97,0:04:52.97,English with background,,0,0,0,,like A A T G, A A T G, A A T G, and so on.
+Dialogue: 0,0:04:47.97,0:04:52.97,Chinese with background,,0,0,0,,像是AATG,AATG,AATG这样
+Dialogue: 0,0:04:53.06,0:04:57.20,English with background,,0,0,0,,These are called short tandem repeats or STRs
+Dialogue: 0,0:04:53.06,0:04:57.20,Chinese with background,,0,0,0,,这些片段被称为“短串联重复序列（STR）”
+Dialogue: 0,0:04:57.20,0:05:00.59,English with background,,0,0,0,,and different people have different numbers of repeats.
+Dialogue: 0,0:04:57.20,0:05:00.59,Chinese with background,,0,0,0,,不同的人有不同数量的重复片段
+Dialogue: 0,0:05:00.59,0:05:03.03,English with background,,0,0,0,,Forensic labs produce STR profiles
+Dialogue: 0,0:05:00.59,0:05:03.03,Chinese with background,,0,0,0,,法医实验室通过计算所有的重复片段总数
+Dialogue: 0,0:05:03.03,0:05:06.95,English with background,,0,0,0,,by counting up the number of repeats at each location.
+Dialogue: 0,0:05:03.03,0:05:06.95,Chinese with background,,0,0,0,,来生成STR档案。
+Dialogue: 0,0:05:06.95,0:05:11.51,English,,0,0,0,,Initially, there were only 13 places on the DNA where STRs were counted, 
+Dialogue: 0,0:05:06.95,0:05:11.51,Chinese,,0,0,0,,最初，DNA上只有13个位置的STR会被计数
+Dialogue: 0,0:05:11.51,0:05:15.09,English,,0,0,0,,but in 2017 that was expanded to 20.
+Dialogue: 0,0:05:11.51,0:05:15.09,Chinese,,0,0,0,,但在2017年，这个数量扩大到了20个
+Dialogue: 0,0:05:15.09,0:05:18.00,English,,0,0,0,,It feels to me like that's not that much information.
+Dialogue: 0,0:05:15.09,0:05:18.00,Chinese,,0,0,0,,我感觉这个档案并没有提供太多有用的信息
+Dialogue: 0,0:05:18.00,0:05:19.14,English,,0,0,0,,- It isn't.
+Dialogue: 0,0:05:18.00,0:05:19.14,Chinese,,0,0,0,,-嗯，不多
+Dialogue: 0,0:05:19.14,0:05:21.04,English,,0,0,0,,- But the chances of two people having
+Dialogue: 0,0:05:19.14,0:05:21.04,Chinese,,0,0,0,,两个人在所有被计算的位置上，
+Dialogue: 0,0:05:21.04,0:05:24.28,English,,0,0,0,,the exact same number of repeats at all locations
+Dialogue: 0,0:05:21.04,0:05:24.28,Chinese,,0,0,0,,都拥有相同数量的重复片段的概率
+Dialogue: 0,0:05:24.28,0:05:26.58,English,,0,0,0,,is incredibly small.
+Dialogue: 0,0:05:24.28,0:05:26.58,Chinese,,0,0,0,,是非常小的
+Dialogue: 0,0:05:26.58,0:05:28.78,English,,0,0,0,,The CODIS database now contains
+Dialogue: 0,0:05:26.58,0:05:28.78,Chinese,,0,0,0,,现在，CODIS数据库中，
+Dialogue: 0,0:05:28.78,0:05:32.09,English,,0,0,0,,over 18 million STR profiles.
+Dialogue: 0,0:05:28.78,0:05:32.09,Chinese,,0,0,0,,已经有了超过1800万的STR档案
+Dialogue: 0,0:05:32.09,0:05:35.20,English,,0,0,0,,- The golden state killer's DNA profile has been up
+Dialogue: 0,0:05:32.09,0:05:35.20,Chinese,,0,0,0,,2001年，金州杀手的DNA档案
+Dialogue: 0,0:05:35.20,0:05:37.40,English,,0,0,0,,at the national DNA database
+Dialogue: 0,0:05:35.20,0:05:37.40,Chinese,,0,0,0,,就被上传到了
+Dialogue: 0,0:05:37.40,0:05:41.17,English,,0,0,0,,that's run by the FBI called CODIS since 2001
+Dialogue: 0,0:05:37.40,0:05:41.17,Chinese,,0,0,0,,FBI建立的国家DNA数据库（CODIS）
+Dialogue: 0,0:05:41.17,0:05:44.97,English,,0,0,0,,and has been searching ever since with no hits.
+Dialogue: 0,0:05:41.17,0:05:44.97,Chinese,,0,0,0,,自那以后，就一直在找他，但毫无成效
+Dialogue: 0,0:05:44.97,0:05:46.92,English,,0,0,0,,We did Interpol searching,
+Dialogue: 0,0:05:44.97,0:05:46.92,Chinese,,0,0,0,,我们向国际刑警组织申请
+Dialogue: 0,0:05:46.92,0:05:50.03,English,,0,0,0,,trying to search other country's DNA databases thinking
+Dialogue: 0,0:05:46.92,0:05:50.03,Chinese,,0,0,0,,尝试在其他国家的DNA数据库中搜索，想着
+Dialogue: 0,0:05:50.03,0:05:54.91,English,,0,0,0,,well, maybe he came from a out of the country that's why after all this time we have yet
+Dialogue: 0,0:05:50.03,0:05:54.91,Chinese,,0,0,0,,好吧，用了这么长时间都能没确认他的身份的原因
+Dialogue: 0,0:05:54.91,0:05:56.56,English,,0,0,0,,to be able to identify him
+Dialogue: 0,0:05:54.91,0:05:56.56,Chinese,,0,0,0,,可能是因为他来自其他国家
+Dialogue: 0,0:05:56.56,0:05:58.56,English,,0,0,0,,and obviously we didn't get any hits.
+Dialogue: 0,0:05:56.56,0:05:58.56,Chinese,,0,0,0,,不过很显然，我们的搜索没有任何收获
+Dialogue: 0,0:06:00.26,0:06:04.01,English,,0,0,0,,- But genetic sequencing technology was advancing rapidly.
+Dialogue: 0,0:06:00.26,0:06:04.01,Chinese,,0,0,0,,尽管如此，基因测序技术依然发展迅猛
+Dialogue: 0,0:06:04.01,0:06:06.58,English,,0,0,0,,- [Female Reporter] The human genome project was completed.
+Dialogue: 0,0:06:04.01,0:06:06.58,Chinese,,0,0,0,,[女记者]人类基因组计划已经完成
+Dialogue: 0,0:06:06.58,0:06:10.63,English,,0,0,0,,Since 1986 scientists had been mapping and sequencing
+Dialogue: 0,0:06:06.58,0:06:10.63,Chinese,,0,0,0,,从1986年开始，科学家们就一直在
+Dialogue: 0,0:06:10.63,0:06:13.81,English,,0,0,0,,the three billion nucleotides contained
+Dialogue: 0,0:06:10.63,0:06:13.81,Chinese,,0,0,0,,绘制和测序人类基因组中的
+Dialogue: 0,0:06:13.81,0:06:15.28,English,,0,0,0,,in the human genome.
+Dialogue: 0,0:06:13.81,0:06:15.28,Chinese,,0,0,0,,30亿个核苷酸
+Dialogue: 0,0:06:15.28,0:06:16.25,English,,0,0,0,,It's anticipated that
+Dialogue: 0,0:06:15.28,0:06:16.25,Chinese,,0,0,0,,这很让人期待……
+Dialogue: 0,0:06:16.25,0:06:19.24,English,,0,0,0,,- Soon private companies began offering genetic tests
+Dialogue: 0,0:06:16.25,0:06:19.24,Chinese,,0,0,0,,- 很快，私人公司们就开好似直接给客户们提供基因测试的项目
+Dialogue: 0,0:06:19.24,0:06:23.56,English,,0,0,0,,directly to consumers and they provide far more genetic data
+Dialogue: 0,0:06:23.56,0:06:26.14,English,,0,0,0,,than what's in the CODIS database.
+Dialogue: 0,0:06:19.24,0:06:26.14,Chinese,,0,0,0,,并向CODIS数据库直接提供更多的基因数据
+Dialogue: 0,0:06:26.14,0:06:27.73,English,,0,0,0,,I traveled to Houston, Texas
+Dialogue: 0,0:06:27.73,0:06:30.43,English,,0,0,0,,to visit Family Tree DNA headquarters.
+Dialogue: 0,0:06:26.14,0:06:30.43,Chinese,,0,0,0,,我去到德州的波士顿，去拜访「家族族谱DNA公司」的总部
+Dialogue: 0,0:06:30.43,0:06:32.17,English,,0,0,0,,- We'll go in the lab and we'll start talking
+Dialogue: 0,0:06:32.17,0:06:34.63,English,,0,0,0,,about the life cycle of a sample.
+Dialogue: 0,0:06:30.43,0:06:34.63,Chinese,,0,0,0,,我们会进到实验室并就一个样本的生命周期进行探讨。
+Dialogue: 0,0:06:34.63,0:06:35.51,English,,0,0,0,,There you go.
+Dialogue: 0,0:06:34.63,0:06:35.51,Chinese,,0,0,0,,给你
+Dialogue: 0,0:06:35.51,0:06:36.12,English,,0,0,0,,- Thank you.
+Dialogue: 0,0:06:35.51,0:06:36.12,Chinese,,0,0,0,,谢谢
+Dialogue: 0,0:06:36.12,0:06:38.98,English,,0,0,0,,These samples, what are they?
+Dialogue: 0,0:06:36.12,0:06:38.98,Chinese,,0,0,0,,这些是什么的样本？
+Dialogue: 0,0:06:38.98,0:06:41.03,English,,0,0,0,,- So they're cheek cells. They just scrape
+Dialogue: 0,0:06:38.98,0:06:41.03,Chinese,,0,0,0,,这些是脸部的细胞
+Dialogue: 0,0:06:41.03,0:06:43.24,English,,0,0,0,,the inside of their cheek, they put a cap on it
+Dialogue: 0,0:06:43.24,0:06:44.41,English,,0,0,0,,and they send it back to us.
+Dialogue: 0,0:06:41.03,0:06:44.41,Chinese,,0,0,0,,人们就只是在他们的脸颊里面刮一下，用盖子盖上然后就送回给我们。
+Dialogue: 0,0:06:44.41,0:06:46.05,English,,0,0,0,,- It's like a robot ballet.
+Dialogue: 0,0:06:44.41,0:06:46.05,Chinese,,0,0,0,,- 它就像芭蕾舞机器人一样
+Dialogue: 0,0:06:46.05,0:06:48.73,English,,0,0,0,,- Yes, so for DNA extraction,
+Dialogue: 0,0:06:46.05,0:06:48.73,Chinese,,0,0,0,,- 是的，DNA提取也是如此
+Dialogue: 0,0:06:48.73,0:06:52.94,English,,0,0,0,,we need to remove all of the protections that are on the DNA
+Dialogue: 0,0:06:48.73,0:06:52.94,Chinese,,0,0,0,,我们要移除DNA上面的保护层然后它自己就会分离出来
+Dialogue: 0,0:06:52.94,0:06:58.52,English,,0,0,0,,and just separate it by itself so we can do testing on that.
+Dialogue: 0,0:06:52.94,0:06:58.52,Chinese,,0,0,0,,这样我们就能在它上面进行测试
+Dialogue: 0,0:06:59.41,0:07:02.09,English,,0,0,0,,- Instead of looking at 20 places on your DNA,
+Dialogue: 0,0:06:59.41,0:07:02.09,Chinese,,0,0,0,,- 我们并不仅仅测试你DNA中的20个地方
+Dialogue: 0,0:07:02.09,0:07:06.07,English,,0,0,0,,these tests examined 700 to 800,000.
+Dialogue: 0,0:07:02.09,0:07:06.07,Chinese,,0,0,0,,而是测试70到80万个
+Dialogue: 0,0:07:06.07,0:07:07.95,English,,0,0,0,,- The Family Finder test is based
+Dialogue: 0,0:07:07.95,0:07:10.05,English,,0,0,0,,on what's called a micro array
+Dialogue: 0,0:07:06.07,0:07:10.05,Chinese,,0,0,0,,- 寻找家人的(基因)测试是基于一个叫做微阵列的方式
+Dialogue: 0,0:07:10.05,0:07:12.37,English,,0,0,0,,and this is what a micro array looks like.
+Dialogue: 0,0:07:10.05,0:07:12.37,Chinese,,0,0,0,,这就是微阵列看起来的样子
+Dialogue: 0,0:07:12.37,0:07:15.56,English,,0,0,0,,Each one of those boxes is an individual.
+Dialogue: 0,0:07:12.37,0:07:15.56,Chinese,,0,0,0,,每一个这种格子都是一个人
+Dialogue: 0,0:07:15.56,0:07:18.02,English,,0,0,0,,We can fit 24 individuals on here.
+Dialogue: 0,0:07:15.56,0:07:18.02,Chinese,,0,0,0,,我们能在这一片上放24个人
+Dialogue: 0,0:07:18.02,0:07:25.60,English,,0,0,0,,And within that box is about 710,000 positions of your DNA, 
+Dialogue: 0,0:07:18.02,0:07:25.60,Chinese,,0,0,0,,那在这个格子里面是我们正在检查，从中获取数据的
+Dialogue: 0,0:07:25.60,0:07:28.81,English,,0,0,0,,that we're measuring, we're getting data for.
+Dialogue: 0,0:07:25.60,0:07:28.81,Chinese,,0,0,0,,你DNA中大约71万个位置
+Dialogue: 0,0:07:28.81,0:07:30.44,English,,0,0,0,,- 710,000?
+Dialogue: 0,0:07:28.81,0:07:30.44,Chinese,,0,0,0,,71万个？
+Dialogue: 0,0:07:30.44,0:07:32.24,English,,0,0,0,,- Yes, and they're called snips.
+Dialogue: 0,0:07:30.44,0:07:32.24,Chinese,,0,0,0,,对，它们叫片段。
+Dialogue: 0,0:07:32.24,0:07:36.63,English,,0,0,0,,- So hang on, that's like 710,000
+Dialogue: 0,0:07:36.63,0:07:39.31,English,,0,0,0,,individual bases, like ATGC?
+Dialogue: 0,0:07:32.24,0:07:39.31,Chinese,,0,0,0,,所以 等等 这里就是71万个片段，就像ATGC那样？
+Dialogue: 0,0:07:39.31,0:07:40.14,English,,0,0,0,,- Yes.
+Dialogue: 0,0:07:39.31,0:07:40.14,Chinese,,0,0,0,,是的
+Dialogue: 0,0:07:40.14,0:07:43.52,English,,0,0,0,,- For each person, you can measure 24 on that single chip?
+Dialogue: 0,0:07:40.14,0:07:43.52,Chinese,,0,0,0,,对于每一个人，您可以在这一个芯片上检查24个片段？
+Dialogue: 0,0:07:43.52,0:07:44.90,English,,0,0,0,,- Correct.
+Dialogue: 0,0:07:43.52,0:07:44.90,Chinese,,0,0,0,,是的
+Dialogue: 0,0:07:44.90,0:07:48.74,English with background,,0,0,0,,- The human genome consists of three billion bases.
+Dialogue: 0,0:07:44.90,0:07:48.74,Chinese with background,,0,0,0,,人的基因组中包含有300亿个碱基
+Dialogue: 0,0:07:48.74,0:07:53.74,English with background,,0,0,0,,All people share about 99.9% the exact same DNA,
+Dialogue: 0,0:07:48.74,0:07:53.74,Chinese with background,,0,0,0,,而所有人类的DNA中有99.9%是完全相同的
+Dialogue: 0,0:07:54.16,0:07:57.49,English,,0,0,0,,which means on average, only about three million basis
+Dialogue: 0,0:07:57.49,0:07:59.58,English,,0,0,0,,differ from person to person.
+Dialogue: 0,0:07:54.16,0:07:59.58,Chinese,,0,0,0,,这意味着平均来说，人与人之间的基因只有300万个位置有差异
+Dialogue: 0,0:07:59.58,0:08:01.82,English,,0,0,0,,These individual letter changes are known
+Dialogue: 0,0:08:01.82,0:08:05.95,English,,0,0,0,,as single nucleotide polymorphisms or SNPs.
+Dialogue: 0,0:07:59.58,0:08:05.95,Chinese,,0,0,0,,这种单个核酸的改变被称为单核苷酸多态性(SNPs)
+Dialogue: 0,0:07:59.58,0:08:05.95,Chinese,,0,0,0,,{\an7\i1\pos(620,1290)}单核苷酸多态性{\fsp-24}：\N{\fsp0}DNA序列中单个核苷酸的替代导致的{\fsp-24}、\N{\fsp0}且分布于种群中相当一部分个体（如：1%以上）中的基因多样性{\fsp-24}。{\i0}
+Dialogue: 0,0:08:05.95,0:08:07.99,English,,0,0,0,,So on there, are there a whole bunch
+Dialogue: 0,0:08:07.99,0:08:10.52,English,,0,0,0,,of like little pieces of DNA then?
+Dialogue: 0,0:08:05.95,0:08:10.52,Chinese,,0,0,0,,所以在这里就有一大堆那些小片的DNA那样吗？
+Dialogue: 0,0:08:10.52,0:08:15.16,English,,0,0,0,,- Yes, so what we have is a short piece of DNA
+Dialogue: 0,0:08:15.16,0:08:17.81,English,,0,0,0,,that is specific to one SNP.
+Dialogue: 0,0:08:10.52,0:08:17.81,Chinese,,0,0,0,,是的 我们这里的一个小片的DNA 就是特定的一个多态单核苷酸
+Dialogue: 0,0:08:17.81,0:08:20.88,English,,0,0,0,,So it's one position in the genome
+Dialogue: 0,0:08:20.88,0:08:22.55,English,,0,0,0,,where we know there can be a difference.
+Dialogue: 0,0:08:17.81,0:08:22.55,Chinese,,0,0,0,,所以这是我们能知道的基因组内的一个能造成差异的位置
+Dialogue: 0,0:08:22.55,0:08:23.26,English,,0,0,0,,- Okay.
+Dialogue: 0,0:08:22.55,0:08:23.26,Chinese,,0,0,0,,这样
+Dialogue: 0,0:08:23.26,0:08:26.79,English,,0,0,0,,Is there any example of a simple SNP
+Dialogue: 0,0:08:26.79,0:08:29.06,English,,0,0,0,,that confers some sort of?
+Dialogue: 0,0:08:23.26,0:08:29.06,Chinese,,0,0,0,,能给我一个简单的单核苷酸多态性的例子吗？
+Dialogue: 0,0:08:29.06,0:08:32.28,English,,0,0,0,,- Actually blue eyes is a single base change.
+Dialogue: 0,0:08:29.06,0:08:32.28,Chinese,,0,0,0,,实际上蓝色眼睛是一个单基位的变化
+Dialogue: 0,0:08:32.28,0:08:32.70,English,,0,0,0,,- Really?
+Dialogue: 0,0:08:32.28,0:08:32.70,Chinese,,0,0,0,,真的？
+Dialogue: 0,0:08:32.70,0:08:33.34,English,,0,0,0,,- Yeah.
+Dialogue: 0,0:08:32.70,0:08:33.34,Chinese,,0,0,0,,是的
+Dialogue: 0,0:08:33.34,0:08:38.21,English,,0,0,0,,- So everyone with blue eyes has this one letter change? - mm hmm
+Dialogue: 0,0:08:34.09,0:08:38.21,Chinese,,0,0,0,,所以每一个有蓝眼睛的人都有这一个单基位变化？ - 嗯哼
+Dialogue: 0,0:08:36.93,0:08:38.26,Chinese,,0,0,0,,{\pos(760,1646)}*其实可能有两处变化
+Dialogue: 0,0:08:38.21,0:08:41.35,English,,0,0,0,,- You can see now it's starting to scan the first box.
+Dialogue: 0,0:08:38.21,0:08:41.35,Chinese,,0,0,0,,现在你能看到它从第一个格子开始扫描
+Dialogue: 0,0:08:45.03,0:08:48.85,English,,0,0,0,,- The results of your 710,000 SNPs can tell you
+Dialogue: 0,0:08:48.85,0:08:51.04,English,,0,0,0,,about your geographic ancestry
+Dialogue: 0,0:08:51.04,0:08:52.81,English,,0,0,0,,or possible medical conditions,
+Dialogue: 0,0:08:45.03,0:08:52.81,Chinese,,0,0,0,,你的71万个多态单核苷酸能让你知道你的地域性祖先或者潜在的医疗状况。
+Dialogue: 0,0:08:52.81,0:08:54.32,English,,0,0,0,,but they can also quantify
+Dialogue: 0,0:08:54.32,0:08:56.93,English,,0,0,0,,how related you are to someone else.
+Dialogue: 0,0:08:52.81,0:08:56.93,Chinese,,0,0,0,,但它们也可以量化你和某个人的血缘关系程度。
+Dialogue: 0,0:08:56.93,0:08:58.78,English,,0,0,0,,The genetics of having a kid
+Dialogue: 0,0:08:56.93,0:08:58.78,Chinese,,0,0,0,,产生后代的遗传学过程
+Dialogue: 0,0:08:58.78,0:09:02.34,English,,0,0,0,,are a bit like cutting two decks of cards together.
+Dialogue: 0,0:08:58.78,0:09:02.34,Chinese,,0,0,0,,有点像把两沓扑克牌切在一起
+Dialogue: 0,0:09:02.34,0:09:04.23,English,,0,0,0,,The resulting deck will share
+Dialogue: 0,0:09:02.34,0:09:04.23,Chinese,,0,0,0,,由此得到的后代
+Dialogue: 0,0:09:04.23,0:09:07.01,English,,0,0,0,,about half its cards with each parent
+Dialogue: 0,0:09:04.23,0:09:07.01,Chinese,,0,0,0,,与最初的两沓分别共享一半的卡牌
+Dialogue: 0,0:09:07.01,0:09:10.37,English,,0,0,0,,and there'll be long sequences of cards
+Dialogue: 0,0:09:07.01,0:09:10.37,Chinese,,0,0,0,,于是新牌堆中会有
+Dialogue: 0,0:09:10.37,0:09:15.15,English,,0,0,0,,which match identically sequences in each parent.
+Dialogue: 0,0:09:10.37,0:09:15.15,Chinese,,0,0,0,,与父母一方完全相同的序列
+Dialogue: 0,0:09:15.15,0:09:20.15,English,,0,0,0,,Now, if this deck has a kid, well then its offspring
+Dialogue: 0,0:09:15.15,0:09:20.15,Chinese,,0,0,0,,现在如果这堆牌有一个孩子 这个孩子会有
+Dialogue: 0,0:09:20.28,0:09:23.42,English,,0,0,0,,will share only about a quarter of its cards
+Dialogue: 0,0:09:20.28,0:09:23.42,Chinese,,0,0,0,,大约四分之一的卡牌分别来自（外）祖父（母）中的一个
+Dialogue: 0,0:09:23.42,0:09:27.95,English,,0,0,0,,with each grandparent and the sections of identical cards
+Dialogue: 0,0:09:23.42,0:09:27.95,Chinese,,0,0,0,,而相同卡牌组成的部分将会变得更短
+Dialogue: 0,0:09:27.95,0:09:31.91,English,,0,0,0,,will be shorter, and this is how it works with DNA.
+Dialogue: 0,0:09:27.95,0:09:31.91,Chinese,,0,0,0,,这些规则也对DNA适用
+Dialogue: 0,0:09:31.91,0:09:33.94,English,,0,0,0,,The more closely you're related to someone,
+Dialogue: 0,0:09:31.91,0:09:33.94,Chinese,,0,0,0,,你与某人的血缘关系越近
+Dialogue: 0,0:09:33.94,0:09:36.28,English,,0,0,0,,the more DNA you share and the longer
+Dialogue: 0,0:09:33.94,0:09:36.28,Chinese,,0,0,0,,你们共有的DNA就越多
+Dialogue: 0,0:09:36.28,0:09:38.70,English,,0,0,0,,the blocks of identical DNA are.
+Dialogue: 0,0:09:36.28,0:09:38.70,Chinese,,0,0,0,,相同的 DNA 片段越长
+Dialogue: 0,0:09:38.70,0:09:41.18,English,,0,0,0,,But to compare the DNA of two people,
+Dialogue: 0,0:09:38.70,0:09:41.18,Chinese,,0,0,0,,但是要比较两个人的DNA
+Dialogue: 0,0:09:41.18,0:09:43.60,English,,0,0,0,,you don't need to read every letter.
+Dialogue: 0,0:09:41.18,0:09:43.60,Chinese,,0,0,0,,你不必遍历每一个碱基
+Dialogue: 0,0:09:43.60,0:09:45.70,English,,0,0,0,,The SNPs are sprinkled throughout the DNA
+Dialogue: 0,0:09:43.60,0:09:45.70,Chinese,,0,0,0,,SNP 在 DNA 中散布
+Dialogue: 0,0:09:45.70,0:09:48.12,English,,0,0,0,,roughly every 2000 bases.
+Dialogue: 0,0:09:45.70,0:09:48.12,Chinese,,0,0,0,,大约每 2000 个碱基出现一次
+Dialogue: 0,0:09:48.12,0:09:51.42,English,,0,0,0,,So if you find long sections where the snips match up,
+Dialogue: 0,0:09:48.12,0:09:51.42,Chinese,,0,0,0,,所以如果你发现 SNP 在一个长片段里对得上
+Dialogue: 0,0:09:51.42,0:09:55.46,English,,0,0,0,,you can bet that the DNA in between is identical too
+Dialogue: 0,0:09:51.42,0:09:55.46,Chinese,,0,0,0,,就可以认为两段 DNA 也完全相同
+Dialogue: 0,0:09:55.46,0:09:58.93,English,,0,0,0,,by comparing hundreds of thousands of snips sprinkled
+Dialogue: 0,0:09:55.46,0:09:58.93,Chinese,,0,0,0,,通过比较成百上千
+Dialogue: 0,0:09:58.93,0:10:00.11,English,,0,0,0,,throughout the DNA,
+Dialogue: 0,0:09:58.93,0:10:00.11,Chinese,,0,0,0,,散布在 DNA 中的 SNP
+Dialogue: 0,0:10:00.11,0:10:03.74,English,,0,0,0,,you can see where these identical blocks start and stop
+Dialogue: 0,0:10:00.11,0:10:03.74,Chinese,,0,0,0,,你可以找到相同片段的起止点
+Dialogue: 0,0:10:03.74,0:10:06.64,English,,0,0,0,,and so how much total DNA is shared.
+Dialogue: 0,0:10:03.74,0:10:06.64,Chinese,,0,0,0,,从而得知由多少 DNA 是共有的
+Dialogue: 0,0:10:07.80,0:10:10.86,English,,0,0,0,,- Everywhere that is highlighted in blue
+Dialogue: 0,0:10:07.80,0:10:10.86,Chinese,,0,0,0,,- 随处可见用蓝色标出的就是
+Dialogue: 0,0:10:10.86,0:10:13.36,English,,0,0,0,,is where I share DNA.
+Dialogue: 0,0:10:10.86,0:10:13.36,Chinese,,0,0,0,,我共有的 DNA
+Dialogue: 0,0:10:14.38,0:10:16.00,English,,0,0,0,,- With your father? - With my father
+Dialogue: 0,0:10:14.38,0:10:16.00,Chinese,,0,0,0,,- 和你的父亲 - 和我的父亲
+Dialogue: 0,0:10:16.00,0:10:17.74,English,,0,0,0,,which is exactly what you expect
+Dialogue: 0,0:10:16.00,0:10:17.74,Chinese,,0,0,0,,和预期的情况一样
+Dialogue: 0,0:10:17.74,0:10:20.64,English,,0,0,0,,because I should share DNA with him everywhere
+Dialogue: 0,0:10:17.74,0:10:20.64,Chinese,,0,0,0,,我和他应该在各处都有相同的基因片段
+Dialogue: 0,0:10:20.64,0:10:24.24,English,,0,0,0,,because he gave me 50% of my DNA.
+Dialogue: 0,0:10:20.64,0:10:24.24,Chinese,,0,0,0,,因为我遗传了他一半基因
+Dialogue: 0,0:10:24.24,0:10:25.73,English,,0,0,0,,So this is a second to third cousin.
+Dialogue: 0,0:10:24.24,0:10:25.73,Chinese,,0,0,0,,这是我的从兄弟或再从兄弟
+Dialogue: 0,0:10:25.73,0:10:28.23,English,,0,0,0,,I have no idea who this person is.
+Dialogue: 0,0:10:25.73,0:10:28.23,Chinese,,0,0,0,,我不知道这个人是谁
+Dialogue: 0,0:10:28.23,0:10:29.93,English,,0,0,0,,And you can see here,
+Dialogue: 0,0:10:28.23,0:10:29.93,Chinese,,0,0,0,,你会发现
+Dialogue: 0,0:10:29.93,0:10:34.32,English,,0,0,0,,we are definitely not as closely related as me and my dad
+Dialogue: 0,0:10:29.93,0:10:34.32,Chinese,,0,0,0,,我们之间的血缘关系当然不像我和我父亲那样近
+Dialogue: 0,0:10:34.32,0:10:36.01,English,,0,0,0,,because where the blue is,
+Dialogue: 0,0:10:34.32,0:10:36.01,Chinese,,0,0,0,,因为这些蓝色区域
+Dialogue: 0,0:10:36.01,0:10:38.20,English,,0,0,0,,those are the only regions of the chromosome
+Dialogue: 0,0:10:36.01,0:10:38.20,Chinese,,0,0,0,,我们仅在这些染色体区域
+Dialogue: 0,0:10:38.20,0:10:39.72,English,,0,0,0,,where we share DNA.
+Dialogue: 0,0:10:38.20,0:10:39.72,Chinese,,0,0,0,,有相同的基因
+Dialogue: 0,0:10:40.63,0:10:42.84,English,,0,0,0,,- We all know that these genetic tests
+Dialogue: 0,0:10:40.63,0:10:42.84,Chinese,,0,0,0,,我们都知道这些遗传学检测
+Dialogue: 0,0:10:42.84,0:10:46.10,English,,0,0,0,,can help identify our relatives but the question is,
+Dialogue: 0,0:10:42.84,0:10:46.10,Chinese,,0,0,0,,可以帮助我们找到亲属 但问题是
+Dialogue: 0,0:10:46.10,0:10:50.00,English,,0,0,0,,can you do the same thing with law enforcement databases?
+Dialogue: 0,0:10:46.10,0:10:50.00,Chinese,,0,0,0,,你能用执法者的数据库做到相同的事吗
+Dialogue: 0,0:10:50.00,0:10:54.25,English,,0,0,0,,Can you identify family members using the CODIS database?
+Dialogue: 0,0:10:50.00,0:10:54.25,Chinese,,0,0,0,,您能用 CODIS 数据库辨认家庭成员吗
+Dialogue: 0,0:10:54.25,0:10:56.24,English,,0,0,0,,- You can and it's only limited
+Dialogue: 0,0:10:54.25,0:10:56.24,Chinese,,0,0,0,,能 但不完全能
+Dialogue: 0,0:10:56.24,0:10:59.38,English,,0,0,0,,to really first order and second order relatives.
+Dialogue: 0,0:10:56.24,0:10:59.38,Chinese,,0,0,0,,它只限于第一代和第二代亲属
+Dialogue: 0,0:10:59.38,0:11:02.57,English,,0,0,0,,- That means if I'm looking for the golden state killer,
+Dialogue: 0,0:10:59.38,0:11:02.57,Chinese,,0,0,0,,这意味着如果我要寻找金州杀手
+Dialogue: 0,0:11:02.57,0:11:06.67,English,,0,0,0,,I'm looking for either his father, his brother or his son.
+Dialogue: 0,0:11:02.57,0:11:06.67,Chinese,,0,0,0,,我是在找他的父亲 他的兄弟或者他的儿子
+Dialogue: 0,0:11:06.67,0:11:11.28,English,,0,0,0,,We did that over and over again with no hits.
+Dialogue: 0,0:11:06.67,0:11:11.28,Chinese,,0,0,0,,我们这样做了多次却一无所获
+Dialogue: 0,0:11:11.28,0:11:12.47,English,,0,0,0,,- Why is it so limited?
+Dialogue: 0,0:11:11.28,0:11:12.47,Chinese,,0,0,0,,- 为什么它如此受限
+Dialogue: 0,0:11:12.47,0:11:15.22,English,,0,0,0,,- Because you've only got 23 loci.
+Dialogue: 0,0:11:12.47,0:11:15.22,Chinese,,0,0,0,,- 因为你只检查23个基因位点
+Dialogue: 0,0:11:15.22,0:11:17.63,English,,0,0,0,,If you wanna do proper kinship analysis,
+Dialogue: 0,0:11:15.22,0:11:17.63,Chinese,,0,0,0,,如果你想进行更好的血缘分析
+Dialogue: 0,0:11:17.63,0:11:21.85,English,,0,0,0,,you need to have more points assessed on that genome
+Dialogue: 0,0:11:17.63,0:11:21.85,Chinese,,0,0,0,,你需要测定基因组上的更多位置
+Dialogue: 0,0:11:21.85,0:11:24.24,English,,0,0,0,,to see how related you really are.
+Dialogue: 0,0:11:21.85,0:11:24.24,Chinese,,0,0,0,,才能知道亲缘远近
+Dialogue: 0,0:11:24.24,0:11:27.19,English,,0,0,0,,- We know the answer is behind a locked door
+Dialogue: 0,0:11:24.24,0:11:27.19,Chinese,,0,0,0,,- 我们知道答案在一扇上锁的门后
+Dialogue: 0,0:11:27.19,0:11:28.73,English,,0,0,0,,and the answer is behind the locked door
+Dialogue: 0,0:11:27.19,0:11:28.73,Chinese,,0,0,0,,答案在 23andMe 和 Ancestry.com
+Dialogue: 0,0:11:28.73,0:11:31.45,English,,0,0,0,,of 23andMe and Ancestry.com.
+Dialogue: 0,0:11:28.73,0:11:31.45,Chinese,,0,0,0,,的数据库中
+Dialogue: 0,0:11:31.45,0:11:34.76,English,,0,0,0,,We know that they have millions of profiles.
+Dialogue: 0,0:11:31.45,0:11:34.76,Chinese,,0,0,0,,我们知道他们有数以百万记的个人档案
+Dialogue: 0,0:11:34.76,0:11:38.21,English,,0,0,0,,Somebody related to him, a second cousin I would guess,
+Dialogue: 0,0:11:34.76,0:11:38.21,Chinese,,0,0,0,, 某个与他有关系的人也会在其中
+Dialogue: 0,0:11:38.21,0:11:39.04,English,,0,0,0,,would be in there.
+Dialogue: 0,0:11:38.21,0:11:39.04,Chinese,,0,0,0,,我猜是他的从兄弟
+Dialogue: 0,0:11:39.04,0:11:40.14,English,,0,0,0,,- Sure.
+Dialogue: 0,0:11:39.04,0:11:40.14,Chinese,,0,0,0,,- 当然
+Dialogue: 0,0:11:40.14,0:11:43.50,English,,0,0,0,,- And that was very hard to deal with.
+Dialogue: 0,0:11:40.14,0:11:43.50,Chinese,,0,0,0,,- 这处理起来相当困难
+Dialogue: 0,0:11:43.50,0:11:47.72,English,,0,0,0,,You know, that the answer is there behind this locked door.
+Dialogue: 0,0:11:43.50,0:11:47.72,Chinese,,0,0,0,,答案就在那里 被锁在门后
+Dialogue: 0,0:11:47.72,0:11:50.14,English,,0,0,0,,- Law enforcement is not allowed to search
+Dialogue: 0,0:11:47.72,0:11:50.14,Chinese,,0,0,0,,执法者不被允许搜索
+Dialogue: 0,0:11:50.14,0:11:53.70,English,,0,0,0,,the databases of 23andMe and Ancestry.com
+Dialogue: 0,0:11:50.14,0:11:53.70,Chinese,,0,0,0,,23andMe 和 Ancestry.com 的数据库
+Dialogue: 0,0:11:53.70,0:11:57.98,English,,0,0,0,,but luckily for investigators, there was another way.
+Dialogue: 0,0:11:53.70,0:11:57.98,Chinese,,0,0,0,,但是幸运的的是 对于调查员而言 还有另一条路可走
+Dialogue: 0,0:11:57.98,0:12:01.04,English,,0,0,0,,An independent website called GEDmatch had been set up
+Dialogue: 0,0:11:57.98,0:12:01.04,Chinese,,0,0,0,,有人建立了一个名为 GEDmatch 的独立网站
+Dialogue: 0,0:12:01.04,0:12:03.45,English,,0,0,0,,to allow people to connect with relatives.
+Dialogue: 0,0:12:01.04,0:12:03.45,Chinese,,0,0,0,,使人们得以联系到自己的亲戚
+Dialogue: 0,0:12:03.45,0:12:04.67,English,,0,0,0,,You can upload the raw data
+Dialogue: 0,0:12:03.45,0:12:04.67,Chinese,,0,0,0,,你可以上传自己的原始 DNA 数据
+Dialogue: 0,0:12:04.67,0:12:07.12,English,,0,0,0,,from any of the big genetic testing companies
+Dialogue: 0,0:12:04.67,0:12:07.12,Chinese,,0,0,0,,无论它来自哪一间基因检测公司
+Dialogue: 0,0:12:07.12,0:12:08.95,English,,0,0,0,,and search for matches.
+Dialogue: 0,0:12:07.12,0:12:08.95,Chinese,,0,0,0,,并搜索与自己基因相匹配的人
+Dialogue: 0,0:12:08.95,0:12:12.68,English,,0,0,0,,- So when we initially search the GEDmatch database,
+Dialogue: 0,0:12:08.95,0:12:12.68,Chinese,,0,0,0,,在我们开始搜索 GEDmatch 数据库时
+Dialogue: 0,0:12:12.68,0:12:15.49,English,,0,0,0,,our best hits come back at third cousins
+Dialogue: 0,0:12:12.68,0:12:15.49,Chinese,,0,0,0,,匹配最接近的 是他的第三代堂（表）兄妹
+Dialogue: 0,0:12:15.49,0:12:18.11,English,,0,0,0,,which means they shared you know, our top hit,
+Dialogue: 0,0:12:15.49,0:12:18.11,Chinese,,0,0,0,,也就是说，这个人和他共享了
+Dialogue: 0,0:12:18.11,0:12:20.65,English,,0,0,0,,I think shared about 1% of the DNA.
+Dialogue: 0,0:12:18.11,0:12:20.65,Chinese,,0,0,0,,大约 1% 的 DNA
+Dialogue: 0,0:12:20.65,0:12:22.65,English,,0,0,0,,It's very little DNA that's shared
+Dialogue: 0,0:12:20.65,0:12:22.65,Chinese,,0,0,0,,他们共享的 DNA 确实很少
+Dialogue: 0,0:12:23.52,0:12:26.05,English,,0,0,0,,but that's a starting data point.
+Dialogue: 0,0:12:23.52,0:12:26.05,Chinese,,0,0,0,,但这是数据的起点
+Dialogue: 0,0:12:26.05,0:12:31.37,English,,0,0,0,,And theoretically, by taking multiple of these individuals that share DNA
+Dialogue: 0,0:12:26.05,0:12:31.37,Chinese,,0,0,0,,理论上 通过获取多个共享 DNA 的个体
+Dialogue: 0,0:12:31.37,0:12:32.98,English,,0,0,0,,and building their family trees
+Dialogue: 0,0:12:31.37,0:12:32.98,Chinese,,0,0,0,,并且画出谱系图
+Dialogue: 0,0:12:32.98,0:12:36.20,English,,0,0,0,,using traditional genealogy and public source documents
+Dialogue: 0,0:12:32.98,0:12:36.20,Chinese,,0,0,0,,利用传统的基因学和公共来源的文件
+Dialogue: 0,0:12:36.20,0:12:38.19,English,,0,0,0,,like census records and obituaries
+Dialogue: 0,0:12:36.20,0:12:38.19,Chinese,,0,0,0,,比如人口普查记录 讣告
+Dialogue: 0,0:12:38.19,0:12:42.09,English,,0,0,0,,and newspaper articles and findagrave.com,
+Dialogue: 0,0:12:38.19,0:12:42.09,Chinese,,0,0,0,,报刊文章和 findagrave.com
+Dialogue: 0,0:12:42.09,0:12:44.09,English,,0,0,0,,you build this family tree back
+Dialogue: 0,0:12:42.09,0:12:44.09,Chinese,,0,0,0,,向上构建谱系图
+Dialogue: 0,0:12:44.09,0:12:47.60,English,,0,0,0,,until you get two of these relatives of the Golden State killer
+Dialogue: 0,0:12:44.09,0:12:47.60,Chinese,,0,0,0,,直到在金州杀手的亲属中找到这两个人
+Dialogue: 0,0:12:47.60,0:12:49.32,English,,0,0,0,,you get them to intersect
+Dialogue: 0,0:12:47.60,0:12:49.32,Chinese,,0,0,0,,他们最终交会在同一处
+Dialogue: 0,0:12:49.32,0:12:51.16,English,,0,0,0,,where now you see, oh, they've got,
+Dialogue: 0,0:12:49.32,0:12:51.16,Chinese,,0,0,0,,你会发现
+Dialogue: 0,0:12:51.16,0:12:54.17,English,,0,0,0,,they share great-great grandparents together.
+Dialogue: 0,0:12:51.16,0:12:54.17,Chinese,,0,0,0,,他们有共同的高祖父母
+Dialogue: 0,0:12:54.17,0:12:57.59,English,,0,0,0,,Theoretically the golden state killer is a descendant
+Dialogue: 0,0:12:54.17,0:12:57.59,Chinese,,0,0,0,,理论上 金州杀手也是他们的后代
+Dialogue: 0,0:12:57.59,0:12:59.67,English,,0,0,0,,from those same great-great grandparents.
+Dialogue: 0,0:12:57.59,0:12:59.67,Chinese,,0,0,0,,来自相同的高祖父母
+Dialogue: 0,0:12:59.67,0:13:03.09,English,,0,0,0,,So once I identify that common ancestor,
+Dialogue: 0,0:12:59.67,0:13:03.09,Chinese,,0,0,0,,所以 一旦我确认了他们的共同祖先
+Dialogue: 0,0:13:03.09,0:13:06.12,English,,0,0,0,,it's now identifying every single descendant
+Dialogue: 0,0:13:03.09,0:13:08.68,Chinese,,0,0,0,,接下来要辨认这对高祖父母的每一个后代
+Dialogue: 0,0:13:06.12,0:13:08.68,English,,0,0,0,,from those great-great grandparents
+Dialogue: 0,0:13:08.68,0:13:10.84,English,,0,0,0,,and this becomes a huge process.
+Dialogue: 0,0:13:08.68,0:13:10.84,Chinese,,0,0,0,,这是个巨大的工程
+Dialogue: 0,0:13:10.84,0:13:14.43,English,,0,0,0,,People in the 1840s would typically have 15 kids.
+Dialogue: 0,0:13:10.84,0:13:14.43,Chinese,,0,0,0,,18世纪40年代的人通常有15个子女
+Dialogue: 0,0:13:14.43,0:13:16.83,English,,0,0,0,,You have to identify each of those kids
+Dialogue: 0,0:13:14.43,0:13:16.83,Chinese,,0,0,0,,你得逐个辨认他们的所有子女
+Dialogue: 0,0:13:16.83,0:13:18.27,English,,0,0,0,,and then all of their children
+Dialogue: 0,0:13:16.83,0:13:18.27,Chinese,,0,0,0,,还有这些子女的所有子女
+Dialogue: 0,0:13:18.27,0:13:19.72,English,,0,0,0,,and then all of their children.
+Dialogue: 0,0:13:18.27,0:13:19.72,Chinese,,0,0,0,,依此类推
+Dialogue: 0,0:13:19.72,0:13:23.81,English,,0,0,0,,So now we have this exponentially growing family tree.
+Dialogue: 0,0:13:19.72,0:13:23.81,Chinese,,0,0,0,,于是 就有了一张呈指数增长的谱系图
+Dialogue: 0,0:13:23.81,0:13:26.21,English,,0,0,0,,- How wide did that tree get?
+Dialogue: 0,0:13:23.81,0:13:26.21,Chinese,,0,0,0,,这个谱系图会变得多宽呢？
+Dialogue: 0,0:13:26.21,0:13:30.20,English,,0,0,0,,- I think we had over 1000 individuals in that family tree
+Dialogue: 0,0:13:26.21,0:13:30.20,Chinese,,0,0,0,,我认为 里面有一千多人
+Dialogue: 0,0:13:30.20,0:13:34.06,English,,0,0,0,,but we knew a lot about our offender.
+Dialogue: 0,0:13:30.20,0:13:34.06,Chinese,,0,0,0,,但我们对这个罪犯十分了解
+Dialogue: 0,0:13:34.06,0:13:37.21,English,,0,0,0,,We were confident he was born between 1940 and 1960.
+Dialogue: 0,0:13:34.06,0:13:37.21,Chinese,,0,0,0,,我们确信他生于 20世纪40年代 到 60年代
+Dialogue: 0,0:13:37.21,0:13:38.67,English,,0,0,0,,We knew he was a white male.
+Dialogue: 0,0:13:37.21,0:13:38.67,Chinese,,0,0,0,,他是白人男性
+Dialogue: 0,0:13:38.67,0:13:41.06,English,,0,0,0,,We knew he was 5'8" to 5'10".
+Dialogue: 0,0:13:38.67,0:13:41.06,Chinese,,0,0,0,,他身高介于 5英尺8英寸(1.73m) 和 5英尺10英寸(1.78m) 之间
+Dialogue: 0,0:13:41.06,0:13:42.45,English,,0,0,0,,You know, he's in California.
+Dialogue: 0,0:13:41.06,0:13:42.45,Chinese,,0,0,0,,你也知道 他人在加州
+Dialogue: 0,0:13:42.45,0:13:44.77,English,,0,0,0,,He's up in Sacramento in 1976.
+Dialogue: 0,0:13:42.45,0:13:44.77,Chinese,,0,0,0,,1976年时 他在萨克拉门托
+Dialogue: 0,0:13:44.77,0:13:47.49,English,,0,0,0,,He's in Southern California in the '80s
+Dialogue: 0,0:13:44.77,0:13:47.49,Chinese,,0,0,0,,20世纪80年代时 他在南加州
+Dialogue: 0,0:13:47.49,0:13:50.95,English,,0,0,0,,and we basically narrowed it down to about five males
+Dialogue: 0,0:13:47.49,0:13:50.95,Chinese,,0,0,0,,我们最终将目标范围缩小到五个男性
+Dialogue: 0,0:13:50.95,0:13:52.88,English,,0,0,0,,and then it's just investigations.
+Dialogue: 0,0:13:50.95,0:13:52.88,Chinese,,0,0,0,,然后就是调查了
+Dialogue: 0,0:13:52.88,0:13:54.90,English,,0,0,0,,- With a suspect at their fingertips,
+Dialogue: 0,0:13:52.88,0:13:54.90,Chinese,,0,0,0,,嫌疑人已经触手可及
+Dialogue: 0,0:13:54.90,0:13:56.32,English,,0,0,0,,this spring, they followed him
+Dialogue: 0,0:13:54.90,0:13:56.32,Chinese,,0,0,0,,今年春天，他们跟踪他
+Dialogue: 0,0:13:56.32,0:13:59.10,English,,0,0,0,,to a Sacramento area Hobby Lobby store
+Dialogue: 0,0:13:56.32,0:13:59.10,Chinese,,0,0,0,,前往萨克拉门托的 Hobby Lobby store
+Dialogue: 0,0:13:59.10,0:14:01.91,English,,0,0,0,,and took a DNA sample from his car door handle.
+Dialogue: 0,0:13:59.10,0:14:01.91,Chinese,,0,0,0,,并从他的车门把手上采集到了他的 DNA 样本
+Dialogue: 0,0:14:01.91,0:14:05.90,English,,0,0,0,,Days later, investigators recovered another DNA sample
+Dialogue: 0,0:14:01.91,0:14:05.90,Chinese,,0,0,0,,几天后 调查人员找到了另一份 DNA 样本
+Dialogue: 0,0:14:05.90,0:14:09.32,English,,0,0,0,,from one discarded tissue which registered a match
+Dialogue: 0,0:14:05.90,0:14:09.32,Chinese,,0,0,0,,是从一张丢弃的纸巾上获得的
+Dialogue: 0,0:14:09.32,0:14:12.27,English,,0,0,0,,to DNA evidence left at one of the crime scenes.
+Dialogue: 0,0:14:09.32,0:14:12.27,Chinese,,0,0,0,,它与其中一处犯罪现场遗留的 DNA 痕迹吻合
+Dialogue: 0,0:14:12.27,0:14:15.73,English,,0,0,0,,- Investigators in California say DNA evidence led them
+Dialogue: 0,0:14:12.27,0:14:15.73,Chinese,,0,0,0,,加州的调查人员说  DNA 痕迹引导他们
+Dialogue: 0,0:14:15.73,0:14:19.17,English,,0,0,0,,to one of the country's most notorious serial killers.
+Dialogue: 0,0:14:15.73,0:14:19.17,Chinese,,0,0,0,,找到了美国最臭名昭著的连环杀手
+Dialogue: 0,0:14:19.17,0:14:23.56,English,,0,0,0,,Former police officer Joseph James DeAngelo was arrested yesterday
+Dialogue: 0,0:14:19.17,0:14:23.56,Chinese,,0,0,0,,前警官 约瑟夫-詹姆斯-德安杰罗 昨天被捕
+Dialogue: 0,0:14:23.56,0:14:28.20,English,,0,0,0,,and he is believed to be the so-called golden state killer.
+Dialogue: 0,0:14:23.56,0:14:28.20,Chinese,,0,0,0,,据信 他就是所谓的“金州杀手”
+Dialogue: 0,0:14:28.20,0:14:32.83,English,,0,0,0,,For 44 years, countless investigators have worked it
+Dialogue: 0,0:14:28.20,0:14:32.83,Chinese,,0,0,0,,44年来 无数的调查员致力于破解此案
+Dialogue: 0,0:14:32.83,0:14:34.59,English,,0,0,0,,and have failed to solve it.
+Dialogue: 0,0:14:32.83,0:14:34.59,Chinese,,0,0,0,,无一成功
+Dialogue: 0,0:14:34.59,0:14:38.37,English,,0,0,0,,Within four and a half months, a team of six were able
+Dialogue: 0,0:14:34.59,0:14:38.37,Chinese,,0,0,0,,而一个六人小组，仅用四个半月
+Dialogue: 0,0:14:38.37,0:14:41.23,English,,0,0,0,,to figure out who the golden state killer was
+Dialogue: 0,0:14:38.37,0:14:41.23,Chinese,,0,0,0,,就能找出金州杀手其人
+Dialogue: 0,0:14:41.23,0:14:43.01,English,,0,0,0,,and that was Joseph DeAngelo.
+Dialogue: 0,0:14:41.23,0:14:43.01,Chinese,,0,0,0,,原来是约瑟夫-德安杰罗
+Dialogue: 0,0:14:43.01,0:14:45.91,English,,0,0,0,,- After the golden state killer was identified,
+Dialogue: 0,0:14:43.01,0:14:45.91,Chinese,,0,0,0,,金州杀手被找到以后
+Dialogue: 0,0:14:45.91,0:14:49.54,English,,0,0,0,,the flood gates opened and we were seeing every week
+Dialogue: 0,0:14:45.91,0:14:49.54,Chinese,,0,0,0,,如闸门打开一般 我们每周都能看到
+Dialogue: 0,0:14:49.54,0:14:53.28,English,,0,0,0,,not only single killers, but multiple killers, serial killers
+Dialogue: 0,0:14:49.54,0:14:53.28,Chinese,,0,0,0,,不只单人杀手 还有多人杀手 连环杀手
+Dialogue: 0,0:14:53.28,0:14:55.23,English,,0,0,0,,every week were being identified
+Dialogue: 0,0:14:53.28,0:14:55.23,Chinese,,0,0,0,,每周都有新的凶手被辨认出来
+Dialogue: 0,0:14:55.23,0:14:57.51,English,,0,0,0,,from cases in the '70s and the '80s.
+Dialogue: 0,0:14:55.23,0:14:57.51,Chinese,,0,0,0,,那些七八十年代的悬案得以破解
+Dialogue: 0,0:14:57.51,0:14:59.65,English,,0,0,0,,- 'Cause, there's been over 70 cases now
+Dialogue: 0,0:14:57.51,0:14:59.65,Chinese,,0,0,0,,因此，调查人员现在用这种方式
+Dialogue: 0,0:14:59.65,0:15:01.47,English,,0,0,0,,that they've solved this way
+Dialogue: 0,0:14:59.65,0:15:01.47,Chinese,,0,0,0,,解决了超过70件案子
+Dialogue: 0,0:15:01.47,0:15:05.30,English,,0,0,0,,and they continue to solve them at a fairly regular rate
+Dialogue: 0,0:15:01.47,0:15:05.30,Chinese,,0,0,0,,并且他们依然以一种相当稳定的速率解决案件。
+Dialogue: 0,0:15:05.30,0:15:06.35,English,,0,0,0,,and I think
+Dialogue: 0,0:15:05.30,0:15:06.35,Chinese,,0,0,0,,并且我认为
+Dialogue: 0,0:15:06.35,0:15:08.72,English,,0,0,0,,- Presumably that rate's just gonna increase.
+Dialogue: 0,0:15:06.35,0:15:08.72,Chinese,,0,0,0,,很有可能这一速率只会增加
+Dialogue: 0,0:15:08.72,0:15:09.16,English,,0,0,0,,- Yeah.
+Dialogue: 0,0:15:08.72,0:15:09.16,Chinese,,0,0,0,,是的
+Dialogue: 0,0:15:09.16,0:15:12.06,English,,0,0,0,,- And there's gonna be more because it's working
+Dialogue: 0,0:15:09.16,0:15:12.06,Chinese,,0,0,0,,并且将会有更多，因为这种方法是有效的
+Dialogue: 0,0:15:12.06,0:15:16.67,English,,0,0,0,,and we are going to help find these people.
+Dialogue: 0,0:15:12.06,0:15:16.67,Chinese,,0,0,0,,我们将会帮忙找寻这些人
+Dialogue: 0,0:15:16.67,0:15:18.51,English,,0,0,0,,- But the scary thing is in the US,
+Dialogue: 0,0:15:16.67,0:15:18.51,Chinese,,0,0,0,,但是可怕的是
+Dialogue: 0,0:15:18.51,0:15:21.29,English,,0,0,0,,you have 100,000 cold case murders with DNA.
+Dialogue: 0,0:15:18.51,0:15:21.29,Chinese,,0,0,0,,全美一共有100000起留有DNA的谋杀悬案
+Dialogue: 0,0:15:21.29,0:15:24.05,English,,0,0,0,,You have more cold cases but the ones with DNA
+Dialogue: 0,0:15:21.29,0:15:24.05,Chinese,,0,0,0,,总计的谋杀悬案有更多
+Dialogue: 0,0:15:24.05,0:15:25.95,English,,0,0,0,,is estimated about 100,000
+Dialogue: 0,0:15:24.05,0:15:25.95,Chinese,,0,0,0,,但是留有DNA的估计在100000起左右
+Dialogue: 0,0:15:25.95,0:15:30.20,English,,0,0,0,,There's roughly about 650,000 sexual assaults,
+Dialogue: 0,0:15:25.95,0:15:30.20,Chinese,,0,0,0,,大约有650000起留有DNA的性侵犯悬案
+Dialogue: 0,0:15:30.20,0:15:32.39,English,,0,0,0,,cold cases with DNA. - With DNA?
+Dialogue: 0,0:15:30.20,0:15:32.39,Chinese,,0,0,0,,留有DNA？
+Dialogue: 0,0:15:32.39,0:15:34.41,English,,0,0,0,,It seems like a real paradigm shift.
+Dialogue: 0,0:15:32.39,0:15:34.41,Chinese,,0,0,0,,这似乎像是真正的范式转变
+Dialogue: 0,0:15:34.41,0:15:35.24,English,,0,0,0,,- It is.
+Dialogue: 0,0:15:34.41,0:15:35.24,Chinese,,0,0,0,,它确实是
+Dialogue: 0,0:15:35.24,0:15:37.80,English,,0,0,0,,Multiple law enforcement agencies has said
+Dialogue: 0,0:15:35.24,0:15:37.80,Chinese,,0,0,0,,许多执法部门认为
+Dialogue: 0,0:15:37.80,0:15:42.80,English,,0,0,0,,that this is the most revolutionary tool they've had
+Dialogue: 0,0:15:37.80,0:15:42.80,Chinese,,0,0,0,,这是他们继采用指纹之后
+Dialogue: 0,0:15:42.90,0:15:45.58,English,,0,0,0,,since the adoption of the fingerprint.
+Dialogue: 0,0:15:42.90,0:15:45.58,Chinese,,0,0,0,,用过的最具革命性的工具
+Dialogue: 0,0:15:45.58,0:15:50.10,English,,0,0,0,,- With traditional DNA, it required getting a sample
+Dialogue: 0,0:15:45.58,0:15:50.10,Chinese,,0,0,0,,对传统DNA技术来说，它需要从实际个体
+Dialogue: 0,0:15:50.10,0:15:51.58,English,,0,0,0,,from the actual individual.
+Dialogue: 0,0:15:50.10,0:15:51.58,Chinese,,0,0,0,,获取样本
+Dialogue: 0,0:15:51.58,0:15:54.80,English,,0,0,0,,It's a one-to-one type of process.
+Dialogue: 0,0:15:51.58,0:15:54.80,Chinese,,0,0,0,,这是一种一对一的过程
+Dialogue: 0,0:15:54.80,0:15:57.23,English,,0,0,0,,And so these offenders who let's say
+Dialogue: 0,0:15:54.80,0:15:57.23,Chinese,,0,0,0,,所以这些罪犯
+Dialogue: 0,0:15:57.23,0:15:59.09,English,,0,0,0,,they have committed crimes and haven't been caught
+Dialogue: 0,0:15:57.23,0:15:59.09,Chinese,,0,0,0,,假设他们犯了罪且从未被抓
+Dialogue: 0,0:15:59.09,0:16:02.21,English,,0,0,0,,and they're just living their life and they're thinking,
+Dialogue: 0,0:15:59.09,0:16:02.21,Chinese,,0,0,0,,之后他们过着自己的生活，心里想着
+Dialogue: 0,0:16:02.21,0:16:05.62,English,,0,0,0,,well, my DNA has never been taken from me. So they may..
+Dialogue: 0,0:16:02.21,0:16:05.62,Chinese,,0,0,0,,我从来没被提取过DNA
+Dialogue: 0,0:16:05.62,0:16:07.16,English,,0,0,0,,I may have left DNA in the case
+Dialogue: 0,0:16:05.62,0:16:07.16,Chinese,,0,0,0,,我可能在1975年犯下的案子里
+Dialogue: 0,0:16:07.16,0:16:10.06,English,,0,0,0,,that I committed back in 1975,
+Dialogue: 0,0:16:07.16,0:16:10.06,Chinese,,0,0,0,,留下了我的DNA
+Dialogue: 0,0:16:10.06,0:16:13.49,English,,0,0,0,,but they've never gotten my DNA, they won't find me.
+Dialogue: 0,0:16:10.06,0:16:13.49,Chinese,,0,0,0,,但是执法部门没有我的DNA，他们找不到我的
+Dialogue: 0,0:16:13.49,0:16:16.22,English,,0,0,0,,But now we don't have to rely upon that.
+Dialogue: 0,0:16:13.49,0:16:16.22,Chinese,,0,0,0,,但是现在我们不必依赖传统DNA技术了
+Dialogue: 0,0:16:16.22,0:16:19.47,English,,0,0,0,,Somebody distantly related to that offender
+Dialogue: 0,0:16:16.22,0:16:19.47,Chinese,,0,0,0,,如果罪犯的某个远房亲戚
+Dialogue: 0,0:16:19.47,0:16:22.54,English,,0,0,0,,has put their DNA into a database
+Dialogue: 0,0:16:19.47,0:16:22.54,Chinese,,0,0,0,,将自己的DNA录入数据库中
+Dialogue: 0,0:16:22.54,0:16:24.69,English,,0,0,0,,and they have to start getting nervous
+Dialogue: 0,0:16:22.54,0:16:24.69,Chinese,,0,0,0,,罪犯就不得不开始紧张了
+Dialogue: 0,0:16:24.69,0:16:26.36,English,,0,0,0,,because that's outside of their control.
+Dialogue: 0,0:16:24.69,0:16:26.36,Chinese,,0,0,0,,因为这件事不是他们能控制的
+Dialogue: 0,0:16:26.36,0:16:29.09,English,,0,0,0,,They can't account for a third cousin
+Dialogue: 0,0:16:26.36,0:16:29.09,Chinese,,0,0,0,,他们无法了解第三代堂（表）兄妹的情况
+Dialogue: 0,0:16:29.09,0:16:31.56,English,,0,0,0,,or what that third cousin is doing.
+Dialogue: 0,0:16:29.09,0:16:31.56,Chinese,,0,0,0,,也不知道第三代堂（表）兄妹在做什么
+Dialogue: 0,0:16:31.56,0:16:33.14,English,,0,0,0,,And so they start getting nervous.
+Dialogue: 0,0:16:31.56,0:16:33.14,Chinese,,0,0,0,,所以他们开始紧张不安
+Dialogue: 0,0:16:33.14,0:16:34.11,English,,0,0,0,,And I've kind of wondered
+Dialogue: 0,0:16:33.14,0:16:34.11,Chinese,,0,0,0,,我有些好奇
+Dialogue: 0,0:16:34.11,0:16:37.18,English,,0,0,0,,how many of these individuals recognize
+Dialogue: 0,0:16:34.11,0:16:37.18,Chinese,,0,0,0,,这些罪犯中有多少人会意识到
+Dialogue: 0,0:16:37.18,0:16:38.98,English,,0,0,0,,that law enforcement is eventually gonna
+Dialogue: 0,0:16:37.18,0:16:38.98,Chinese,,0,0,0,,因为第三代堂（表）兄妹将他们自己的DNA放入数据库
+Dialogue: 0,0:16:38.98,0:16:40.88,English,,0,0,0,,be knocking on their door as a result
+Dialogue: 0,0:16:38.98,0:16:40.88,Chinese,,0,0,0,,最终会导致执法者
+Dialogue: 0,0:16:40.88,0:16:43.93,English,,0,0,0,,of a third cousin putting their DNA in the database?
+Dialogue: 0,0:16:40.88,0:16:43.93,Chinese,,0,0,0,,敲响他们的房门
+Dialogue: 0,0:16:43.93,0:16:47.81,English,,0,0,0,,- Each person who uploads their information to a database
+Dialogue: 0,0:16:43.93,0:16:47.81,Chinese,,0,0,0,,每个将自己信息上传数据库的人
+Dialogue: 0,0:16:47.81,0:16:49.60,English,,0,0,0,,illuminates the identities
+Dialogue: 0,0:16:47.81,0:16:49.60,Chinese,,0,0,0,,将点亮他们周围
+Dialogue: 0,0:16:49.60,0:16:52.41,English,,0,0,0,,of hundreds of other people around them,
+Dialogue: 0,0:16:49.60,0:16:52.41,Chinese,,0,0,0,,数百个人的身份
+Dialogue: 0,0:16:52.41,0:16:56.26,English,,0,0,0,,parents, siblings, aunts, and uncles and cousins.
+Dialogue: 0,0:16:52.41,0:16:56.26,Chinese,,0,0,0,,父母、兄弟姐妹、姑姑、叔叔和堂兄弟姐妹们
+Dialogue: 0,0:16:56.26,0:17:01.00,English,,0,0,0,,A study by ancestry DNA found the average person in the UK
+Dialogue: 0,0:16:56.26,0:17:01.00,Chinese,,0,0,0,,一项对祖先DNA的研究发现，
+Dialogue: 0,0:17:01.00,0:17:06.00,English,,0,0,0,,has 175 third cousins and it doesn't stop there.
+Dialogue: 0,0:17:01.00,0:17:06.00,Chinese,,0,0,0,,英国人平均有175个第三代堂（表）兄妹，而且还不止于此
+Dialogue: 0,0:17:06.50,0:17:09.64,English,,0,0,0,,The DNA in one person will be shared
+Dialogue: 0,0:17:06.50,0:17:09.64,Chinese,,0,0,0,,一人身上的DNA
+Dialogue: 0,0:17:09.64,0:17:13.04,English,,0,0,0,,by hundreds of people yet to be born.
+Dialogue: 0,0:17:09.64,0:17:13.04,Chinese,,0,0,0,,将共享给数百个尚未出生的人
+Dialogue: 0,0:17:13.04,0:17:16.66,English,,0,0,0,,Children, grandchildren, nieces, and nephews,
+Dialogue: 0,0:17:13.04,0:17:16.66,Chinese,,0,0,0,,子女、孙子女、侄子/孙女、外甥/外甥女
+Dialogue: 0,0:17:16.66,0:17:19.62,English,,0,0,0,,and cousins once or twice removed.
+Dialogue: 0,0:17:16.66,0:17:19.62,Chinese,,0,0,0,,甚至是差一个或者是两个辈分的表亲
+Dialogue: 0,0:17:19.62,0:17:23.41,English,,0,0,0,,Realistically, each person shares identifiable DNA
+Dialogue: 0,0:17:19.62,0:17:23.41,Chinese,,0,0,0,,现实中，每个人都与过去与未来的近1000人
+Dialogue: 0,0:17:23.41,0:17:28.21,English,,0,0,0,,with nearly 1000 people past and future.
+Dialogue: 0,0:17:23.41,0:17:28.21,Chinese,,0,0,0,,共享可被识别的DNA
+Dialogue: 0,0:17:28.21,0:17:31.03,English,,0,0,0,,So it doesn't take many people uploading their data
+Dialogue: 0,0:17:28.21,0:17:31.03,Chinese,,0,0,0,,不需要许多人上传他们的数据
+Dialogue: 0,0:17:31.03,0:17:35.47,English,,0,0,0,,to reveal the identities of everyone living in a country.
+Dialogue: 0,0:17:31.03,0:17:35.47,Chinese,,0,0,0,,就能显示出生活在一个国家的所有人的身份
+Dialogue: 0,0:17:35.47,0:17:39.61,English,,0,0,0,,Back in 2018, a study found that using an existing database
+Dialogue: 0,0:17:35.47,0:17:39.61,Chinese,,0,0,0,,在2018年，一项研究发现
+Dialogue: 0,0:17:39.61,0:17:44.52,English,,0,0,0,,of just 1.3 million people, they could identify 60%
+Dialogue: 0,0:17:39.61,0:17:44.52,Chinese,,0,0,0,,使用现存的130万人口的数据库，
+Dialogue: 0,0:17:44.52,0:17:47.34,English,,0,0,0,,of all Americans of European descent.
+Dialogue: 0,0:17:44.52,0:17:47.34,Chinese,,0,0,0,,他们能够确认出60%的欧裔美国人
+Dialogue: 0,0:17:47.34,0:17:49.34,English,,0,0,0,,And they estimated with a database containing
+Dialogue: 0,0:17:47.34,0:17:49.34,Chinese,,0,0,0,,他们仅仅是用包含了人口总数的2%的数据库
+Dialogue: 0,0:17:49.34,0:17:53.34,English,,0,0,0,,just 2% of the population, you could find a third cousin
+Dialogue: 0,0:17:49.34,0:17:53.34,Chinese,,0,0,0,,进行估计，就能在99%的测试例中找到
+Dialogue: 0,0:17:53.34,0:17:57.25,English,,0,0,0,,or closer match in 99% of cases.
+Dialogue: 0,0:17:53.34,0:17:57.25,Chinese,,0,0,0,,第三代堂（表）兄妹或者更亲的血缘关系
+Dialogue: 0,0:17:58.12,0:18:01.53,English,,0,0,0,,- DNA storage is one of the things that we have
+Dialogue: 0,0:17:58.12,0:18:01.53,Chinese,,0,0,0,,我们拥有的DNA存储
+Dialogue: 0,0:18:01.53,0:18:04.09,English,,0,0,0,,that is really unlike anything else.
+Dialogue: 0,0:18:01.53,0:18:04.09,Chinese,,0,0,0,,和其他东西完全不同
+Dialogue: 0,0:18:04.09,0:18:07.71,English,,0,0,0,,If you look inside, this is at minus 20 degrees Celsius.
+Dialogue: 0,0:18:04.09,0:18:07.71,Chinese,,0,0,0,,如果你向里面看 它处在零下20摄氏度的环境中
+Dialogue: 0,0:18:07.71,0:18:10.04,English,,0,0,0,,- That keeps the DNA good for a long time?
+Dialogue: 0,0:18:07.71,0:18:10.04,Chinese,,0,0,0,,这种方法能长期保存DNA吗
+Dialogue: 0,0:18:10.04,0:18:11.76,English,,0,0,0,,- We have DNA samples in here
+Dialogue: 0,0:18:10.04,0:18:11.76,Chinese,,0,0,0,,我们的样本
+Dialogue: 0,0:18:11.76,0:18:14.35,English,,0,0,0,,that are probably about 15 years old.
+Dialogue: 0,0:18:11.76,0:18:14.35,Chinese,,0,0,0,,有些可能在此保存了大约15年
+Dialogue: 0,0:18:14.35,0:18:16.71,English,,0,0,0,,- How many samples are stored in there?
+Dialogue: 0,0:18:14.35,0:18:16.71,Chinese,,0,0,0,,这里面有多少样本
+Dialogue: 0,0:18:16.71,0:18:17.81,English,,0,0,0,,- Just over 2 million.
+Dialogue: 0,0:18:16.71,0:18:17.81,Chinese,,0,0,0,,略多于两百万
+Dialogue: 0,0:18:19.19,0:18:20.56,English,,0,0,0,,- Wow. - Yeah.
+Dialogue: 0,0:18:19.19,0:18:20.56,Chinese,,0,0,0,,- 哇哦 - 是的
+Dialogue: 0,0:18:20.56,0:18:22.54,English,,0,0,0,,So the capacity is just over 2 million.
+Dialogue: 0,0:18:20.56,0:18:22.54,Chinese,,0,0,0,,这个样本库的容量就在两百万左右
+Dialogue: 0,0:18:22.54,0:18:26.32,English,,0,0,0,,- 2 million people's DNA stored in this one small room?
+Dialogue: 0,0:18:22.54,0:18:26.32,Chinese,,0,0,0,,- 你们在这个小房间里放了两百万人的DNA
+Dialogue: 0,0:18:26.32,0:18:27.80,English,,0,0,0,,- Correct.
+Dialogue: 0,0:18:26.32,0:18:27.80,Chinese,,0,0,0,,- 完全正确
+Dialogue: 0,0:18:27.80,0:18:28.88,English,,0,0,0,,- Wow.
+Dialogue: 0,0:18:27.80,0:18:28.88,Chinese,,0,0,0,,- 哇哦
+Dialogue: 0,0:18:29.75,0:18:33.26,English,,0,0,0,,By 2021, over 30 million people worldwide
+Dialogue: 0,0:18:29.75,0:18:33.26,Chinese,,0,0,0,,截止2021年 世界范围内有超过三千万人
+Dialogue: 0,0:18:33.26,0:18:36.10,English,,0,0,0,,have taken a direct consumer genetic test,
+Dialogue: 0,0:18:33.26,0:18:36.10,Chinese,,0,0,0,,参与了直接面向消费者的基因检测
+Dialogue: 0,0:18:36.10,0:18:39.64,English,,0,0,0,,the majority of which are through Ancestry and 23andMe,
+Dialogue: 0,0:18:36.10,0:18:39.64,Chinese,,0,0,0,,他们之中的大多数经由 Ancestry 和 23andMe 进行检测
+Dialogue: 0,0:18:39.64,0:18:42.72,English,,0,0,0,,which do not currently work with law enforcement
+Dialogue: 0,0:18:39.64,0:18:42.72,Chinese,,0,0,0,,这两家机构目前还没有与执法者达成合作
+Dialogue: 0,0:18:42.72,0:18:46.33,English,,0,0,0,,but Family Tree DNA does.
+Dialogue: 0,0:18:42.72,0:18:46.33,Chinese,,0,0,0,,而 Family Tree DNA 相反
+Dialogue: 0,0:18:46.33,0:18:49.66,English,,0,0,0,,- If you ask Americans, should we have a national database
+Dialogue: 0,0:18:46.33,0:18:49.66,Chinese,,0,0,0,,- 如果你问美国人 我们该不该有一个国家数据库
+Dialogue: 0,0:18:49.66,0:18:51.54,English,,0,0,0,,where everyone's logged in it?
+Dialogue: 0,0:18:49.66,0:18:51.54,Chinese,,0,0,0,,把所有人都录入进去
+Dialogue: 0,0:18:51.54,0:18:52.40,English,,0,0,0,,- As their DNA?
+Dialogue: 0,0:18:51.54,0:18:52.40,Chinese,,0,0,0,,- 用他们的 DNA
+Dialogue: 0,0:18:52.40,0:18:55.17,English,,0,0,0,,- Yeah by their DNA and their name,
+Dialogue: 0,0:18:52.40,0:18:55.17,Chinese,,0,0,0,,- 是的 用他们的 DNA 和姓名
+Dialogue: 0,0:18:55.17,0:18:57.71,English,,0,0,0,,most Americans will be somewhat uncomfortable
+Dialogue: 0,0:18:55.17,0:18:57.71,Chinese,,0,0,0,,多数美国人会对此感到不适
+Dialogue: 0,0:18:57.71,0:19:00.17,English,,0,0,0,,or potentially very uncomfortable with that.
+Dialogue: 0,0:18:57.71,0:19:00.17,Chinese,,0,0,0,,或者在心里觉得相当难受
+Dialogue: 0,0:19:00.17,0:19:02.29,English,,0,0,0,,But we're kind of sleepwalking into that scenario.
+Dialogue: 0,0:19:00.17,0:19:02.29,Chinese,,0,0,0,,但我们正在不知不觉中步入这样的境地
+Dialogue: 0,0:19:02.29,0:19:05.32,English,,0,0,0,,- There are some people who are concerned with privacy.
+Dialogue: 0,0:19:02.29,0:19:05.32,Chinese,,0,0,0,,有些人对他们的隐私相当关切
+Dialogue: 0,0:19:05.32,0:19:08.03,English,,0,0,0,,If anyone chooses or decides
+Dialogue: 0,0:19:05.32,0:19:08.03,Chinese,,0,0,0,,如果某些人选择
+Dialogue: 0,0:19:08.03,0:19:11.06,English,,0,0,0,,that they do not want their results
+Dialogue: 0,0:19:08.03,0:19:11.06,Chinese,,0,0,0,,不允许执法者使用其结果
+Dialogue: 0,0:19:11.06,0:19:13.25,English,,0,0,0,,to be used for law enforcement matching,
+Dialogue: 0,0:19:11.06,0:19:13.25,Chinese,,0,0,0,,进行相关匹配
+Dialogue: 0,0:19:13.25,0:19:15.10,English,,0,0,0,,they can remove themselves from that.
+Dialogue: 0,0:19:13.25,0:19:15.10,Chinese,,0,0,0,,他们可以把自己从(数据库)中移除 *这个地方好像没有上下文
+Dialogue: 0,0:19:15.10,0:19:17.43,English,,0,0,0,,- I do worry about genetic information being used
+Dialogue: 0,0:19:15.10,0:19:17.43,Chinese,,0,0,0,,- 我确实担心基因信息被用于
+Dialogue: 0,0:19:17.43,0:19:19.67,English,,0,0,0,,to discriminate against someone.
+Dialogue: 0,0:19:17.43,0:19:19.67,Chinese,,0,0,0,,区别对待某些人
+Dialogue: 0,0:19:19.67,0:19:21.55,English,,0,0,0,,- My biggest thing is health insurance.
+Dialogue: 0,0:19:19.67,0:19:21.55,Chinese,,0,0,0,,- 我最担心的是健康保险
+Dialogue: 0,0:19:21.55,0:19:25.46,English,,0,0,0,,I worry about if you have somebody's DNA profile
+Dialogue: 0,0:19:21.55,0:19:25.46,Chinese,,0,0,0,,我担心如果有了某人的 DNA 资料
+Dialogue: 0,0:19:25.46,0:19:28.40,English,,0,0,0,,and some laws enacted, it gets in the wrong hands
+Dialogue: 0,0:19:25.46,0:19:28.40,Chinese,,0,0,0,,特定的法律颁布后 它们会落入坏人之手
+Dialogue: 0,0:19:28.40,0:19:32.24,English,,0,0,0,,and they say that this person has a proclivity,
+Dialogue: 0,0:19:28.40,0:19:32.24,Chinese,,0,0,0,,保险公司可能会说此人有罹患疾病的风险
+Dialogue: 0,0:19:32.24,0:19:33.77,English,,0,0,0,,they're headed towards Parkinson's,
+Dialogue: 0,0:19:32.24,0:19:33.77,Chinese,,0,0,0,,他们可能更易得帕金森
+Dialogue: 0,0:19:33.77,0:19:36.19,English,,0,0,0,,they're headed towards this, headed towards that
+Dialogue: 0,0:19:33.77,0:19:36.19,Chinese,,0,0,0,,他们更易得这种那种病
+Dialogue: 0,0:19:36.19,0:19:38.50,English,,0,0,0,,and then rates skyrocket.
+Dialogue: 0,0:19:36.19,0:19:38.50,Chinese,,0,0,0,,然后保费猛涨
+Dialogue: 0,0:19:38.50,0:19:42.87,English,,0,0,0,,That's the biggest place that I see as a privacy concern.
+Dialogue: 0,0:19:38.50,0:19:42.87,Chinese,,0,0,0,,我认为这是最关乎个人隐私的地方
+Dialogue: 0,0:19:42.87,0:19:44.66,English,,0,0,0,,- Once your genetic information is out there,
+Dialogue: 0,0:19:42.87,0:19:44.66,Chinese,,0,0,0,,- 一旦你的基因信息被获取
+Dialogue: 0,0:19:44.66,0:19:45.26,English,,0,0,0,,it's out there.
+Dialogue: 0,0:19:44.66,0:19:45.26,Chinese,,0,0,0,,它就会一直保存在那里
+Dialogue: 0,0:19:45.26,0:19:47.37,English,,0,0,0,,It's not like a credit card where you can get a new one.
+Dialogue: 0,0:19:45.26,0:19:47.37,Chinese,,0,0,0,,这可不像信用卡 你能办一张新的
+Dialogue: 0,0:19:47.37,0:19:48.69,English,,0,0,0,,Yeah you're giving away something
+Dialogue: 0,0:19:47.37,0:19:48.69,Chinese,,0,0,0,,是的 你是在把用途难料的事物
+Dialogue: 0,0:19:48.69,0:19:50.60,English,,0,0,0,,that you don't know what it can do.
+Dialogue: 0,0:19:48.69,0:19:50.60,Chinese,,0,0,0,,拱手让人
+Dialogue: 0,0:19:51.76,0:19:53.90,English,,0,0,0,,- Well, yeah our information isn't ours
+Dialogue: 0,0:19:51.76,0:19:53.90,Chinese,,0,0,0,,- 我们的信息起初
+Dialogue: 0,0:19:53.90,0:19:55.38,English,,0,0,0,,in the first place. - Right.
+Dialogue: 0,0:19:53.90,0:19:55.38,Chinese,,0,0,0,,并不是我们自己的 - 的确
+Dialogue: 0,0:19:55.38,0:19:57.93,English,,0,0,0,,- Our information is shared.
+Dialogue: 0,0:19:55.38,0:19:57.93,Chinese,,0,0,0,,- 我们的信息是共享的
+Dialogue: 0,0:19:57.93,0:19:59.55,English,,0,0,0,,- Yes with your relatives.
+Dialogue: 0,0:19:57.93,0:19:59.55,Chinese,,0,0,0,,- 与我们的亲属
+Dialogue: 0,0:19:59.55,0:20:02.01,English,,0,0,0,,- Yes. - And although you may be
+Dialogue: 0,0:19:59.55,0:20:02.01,Chinese,,0,0,0,,- 是的 - 并且即使你
+Dialogue: 0,0:20:02.01,0:20:03.48,English,,0,0,0,,adverse to this sort of thing,
+Dialogue: 0,0:20:02.01,0:20:03.48,Chinese,,0,0,0,,厌恶这种东西
+Dialogue: 0,0:20:03.48,0:20:06.11,English,,0,0,0,,if they've already done it, if it,
+Dialogue: 0,0:20:03.48,0:20:06.11,Chinese,,0,0,0,,如果他们已经做了检测
+Dialogue: 0,0:20:06.11,0:20:08.79,English,,0,0,0,,you know, in a way you're out there.
+Dialogue: 0,0:20:06.11,0:20:08.79,Chinese,,0,0,0,,那么你懂的 某种意义上你已经在数据库中了
+Dialogue: 0,0:20:08.79,0:20:11.77,English,,0,0,0,,- In society today, you have very clearly had two camps.
+Dialogue: 0,0:20:08.79,0:20:11.77,Chinese,,0,0,0,,- 当今社会已经分成了两个阵营
+Dialogue: 0,0:20:11.77,0:20:14.28,English,,0,0,0,,There are those that are very comfortable
+Dialogue: 0,0:20:11.77,0:20:14.28,Chinese,,0,0,0,,那些非常愿意
+Dialogue: 0,0:20:14.28,0:20:17.50,English,,0,0,0,,having their genome available to be able to be searched
+Dialogue: 0,0:20:14.28,0:20:17.50,Chinese,,0,0,0,,把自己的基因组交由执法者
+Dialogue: 0,0:20:17.50,0:20:18.88,English,,0,0,0,,for law enforcement purposes
+Dialogue: 0,0:20:17.50,0:20:18.88,Chinese,,0,0,0,,进行相关搜索的
+Dialogue: 0,0:20:18.88,0:20:21.64,English,,0,0,0,,and there are others that are not comfortable at all
+Dialogue: 0,0:20:18.88,0:20:21.64,Chinese,,0,0,0,,以及其他对此感到非常不适的
+Dialogue: 0,0:20:21.64,0:20:23.44,English,,0,0,0,,and that's okay.
+Dialogue: 0,0:20:21.64,0:20:23.44,Chinese,,0,0,0,,这是人之常情
+Dialogue: 0,0:20:23.44,0:20:25.49,English,,0,0,0,,- The problem is of course,
+Dialogue: 0,0:20:23.44,0:20:25.49,Chinese,,0,0,0,,- 问题当然是
+Dialogue: 0,0:20:25.49,0:20:28.07,English,,0,0,0,,those people who don't want theirs to be searchable
+Dialogue: 0,0:20:25.49,0:20:28.07,Chinese,,0,0,0,,那些不想让自己可以搜索的人
+Dialogue: 0,0:20:28.07,0:20:30.69,English,,0,0,0,,could have their DNA uploaded inadvertently
+Dialogue: 0,0:20:28.07,0:20:30.69,Chinese,,0,0,0,,他们的 DNA 其实已经被亲属
+Dialogue: 0,0:20:30.69,0:20:32.39,English,,0,0,0,,by their relatives.
+Dialogue: 0,0:20:30.69,0:20:32.39,Chinese,,0,0,0,,不经意上传了
+Dialogue: 0,0:20:32.39,0:20:33.38,English,,0,0,0,,Do you know what I mean?
+Dialogue: 0,0:20:32.39,0:20:33.38,Chinese,,0,0,0,,您明白我的意思吗
+Dialogue: 0,0:20:33.38,0:20:35.73,English,,0,0,0,,So like, if I don't want my DNA
+Dialogue: 0,0:20:33.38,0:20:35.73,Chinese,,0,0,0,,所以 如果我不想让执法者搜索
+Dialogue: 0,0:20:35.73,0:20:37.21,English,,0,0,0,,to be searchable by law enforcement
+Dialogue: 0,0:20:35.73,0:20:37.21,Chinese,,0,0,0,,我的 DNA
+Dialogue: 0,0:20:37.21,0:20:39.66,English,,0,0,0,,but my sister uploads hers, - Yes.
+Dialogue: 0,0:20:37.21,0:20:39.66,Chinese,,0,0,0,,但是我妹妹上传了她的 - 是的
+Dialogue: 0,0:20:39.66,0:20:43.46,English,,0,0,0,,- It's almost as good as me doing it myself.
+Dialogue: 0,0:20:39.66,0:20:43.46,Chinese,,0,0,0,,- 这和我自己上传效果几乎一样
+Dialogue: 0,0:20:43.46,0:20:46.15,English,,0,0,0,,- Right now, Family Tree DNA's policy
+Dialogue: 0,0:20:43.46,0:20:46.15,Chinese,,0,0,0,,- 目前 Famliy Tree DNA 的政策是
+Dialogue: 0,0:20:46.15,0:20:50.85,English,,0,0,0,,is we only accept samples from law enforcement
+Dialogue: 0,0:20:46.15,0:20:50.85,Chinese,,0,0,0,,我们只在某些情况下接受
+Dialogue: 0,0:20:50.85,0:20:52.72,English,,0,0,0,,under certain circumstances.
+Dialogue: 0,0:20:50.85,0:20:52.72,Chinese,,0,0,0,,来自执法者的样本
+Dialogue: 0,0:20:52.72,0:20:57.45,English,,0,0,0,,It has to be a sexual assault, identification of remains,
+Dialogue: 0,0:20:52.72,0:20:57.45,Chinese,,0,0,0,,样本只能来自性骚扰 遗体辨别
+Dialogue: 0,0:20:57.45,0:21:02.24,English,,0,0,0,,DNA recovered from the scene of a homicide.
+Dialogue: 0,0:20:57.45,0:21:02.24,Chinese,,0,0,0,,或者从命案现场提取的 DNA
+Dialogue: 0,0:21:02.24,0:21:04.78,English,,0,0,0,,And we also do child abductions.
+Dialogue: 0,0:21:02.24,0:21:04.78,Chinese,,0,0,0,,儿童绑架案也位列其中
+Dialogue: 0,0:21:04.78,0:21:06.12,English,,0,0,0,,So if there's a child that's kidnapped
+Dialogue: 0,0:21:04.78,0:21:06.12,Chinese,,0,0,0,,所以如果有孩子被绑架勒索
+Dialogue: 0,0:21:06.12,0:21:09.84,English,,0,0,0,,and there's DNA evidence, we will process the DNA
+Dialogue: 0,0:21:06.12,0:21:09.84,Chinese,,0,0,0,,并且有基因证据 我们会处理 DNA
+Dialogue: 0,0:21:09.84,0:21:12.56,English,,0,0,0,,so that they can try to find out who the abductor is.
+Dialogue: 0,0:21:09.84,0:21:12.56,Chinese,,0,0,0,,这样执法者就可能找到绑匪
+Dialogue: 0,0:21:12.56,0:21:15.95,English,,0,0,0,,Those are the only cases that we will accept.
+Dialogue: 0,0:21:12.56,0:21:15.95,Chinese,,0,0,0,,以上就是我们接受比对的情况
+Dialogue: 0,0:21:15.95,0:21:16.92,English,,0,0,0,,- Got it.
+Dialogue: 0,0:21:15.95,0:21:16.92,Chinese,,0,0,0,,明白了
+Dialogue: 0,0:21:16.92,0:21:21.73,English,,0,0,0,,- Unfortunately now GEDmatch has flipped off the switch
+Dialogue: 0,0:21:16.92,0:21:21.73,Chinese,,0,0,0,,- 不幸的是 GEDmatch 已经不再合作
+Dialogue: 0,0:21:21.73,0:21:24.67,English,,0,0,0,,and GEDmatch has actually said that you're not allowed to 
+Dialogue: 0,0:21:21.73,0:21:24.67,Chinese,,0,0,0,,GEDmatch 表示如果用户没有同意，
+Dialogue: 0,0:21:24.67,0:21:28.28,English,,0,0,0,,have your information searched without opting in.
+Dialogue: 0,0:21:24.67,0:21:28.28,Chinese,,0,0,0,,他们的信息也不被允许检索
+Dialogue: 0,0:21:28.28,0:21:28.92,English,,0,0,0,,- Right.
+Dialogue: 0,0:21:28.28,0:21:28.92,Chinese,,0,0,0,,- 是的
+Dialogue: 0,0:21:28.92,0:21:30.67,English,,0,0,0,,- Was that decision by GEDmatch
+Dialogue: 0,0:21:28.92,0:21:30.67,Chinese,,0,0,0,,- GEDmatch 的这个决定是
+Dialogue: 0,0:21:30.67,0:21:33.70,English,,0,0,0,,a direct result of this golden state killer case?
+Dialogue: 0,0:21:30.67,0:21:33.70,Chinese,,0,0,0,,金州杀手案的直接结果吗
+Dialogue: 0,0:21:33.70,0:21:34.53,English,,0,0,0,,- No, it wasn't. - No.
+Dialogue: 0,0:21:33.70,0:21:34.53,Chinese,,0,0,0,,- 不 不是 - 不
+Dialogue: 0,0:21:34.53,0:21:35.44,English,,0,0,0,,- Wanna tell the story?
+Dialogue: 0,0:21:34.53,0:21:35.44,Chinese,,0,0,0,,- 想讲讲这个故事吗
+Dialogue: 0,0:21:35.44,0:21:39.46,English,,0,0,0,,- You know, it had to do with a Utah case.
+Dialogue: 0,0:21:35.44,0:21:39.46,Chinese,,0,0,0,,- 这是一个犹他州的案子
+Dialogue: 0,0:21:39.46,0:21:43.18,English,,0,0,0,,- Where an elderly woman was playing the organ in a church.
+Dialogue: 0,0:21:39.46,0:21:43.18,Chinese,,0,0,0,,- 一位老妇人在教堂中演奏管风琴时
+Dialogue: 0,0:21:43.18,0:21:45.75,English,,0,0,0,,- And there was an individual who broke in
+Dialogue: 0,0:21:43.18,0:21:45.75,Chinese,,0,0,0,,- 有人破门而入
+Dialogue: 0,0:21:45.75,0:21:48.52,English,,0,0,0,,and assaulted her.
+Dialogue: 0,0:21:45.75,0:21:48.52,Chinese,,0,0,0,,袭击了她
+Dialogue: 0,0:21:48.52,0:21:51.57,English,,0,0,0,,- But it wasn't a sexual assault, but it's a serious crime.
+Dialogue: 0,0:21:48.52,0:21:51.57,Chinese,,0,0,0,,- 这不是性骚扰 但是仍属于严重犯罪
+Dialogue: 0,0:21:51.57,0:21:53.42,English,,0,0,0,,- I think believed, tried to strangle her
+Dialogue: 0,0:21:51.57,0:21:53.42,Chinese,,0,0,0,,那人试着勒死她
+Dialogue: 0,0:21:53.42,0:21:54.25,English,,0,0,0,,and left her for dead.
+Dialogue: 0,0:21:53.42,0:21:54.25,Chinese,,0,0,0,,然后逃之夭夭
+Dialogue: 0,0:21:54.25,0:21:57.95,English,,0,0,0,,I believe he thought that she was obviously dead and left.
+Dialogue: 0,0:21:54.25,0:21:57.95,Chinese,,0,0,0,,我相信袭击者认为她看起来已经死去 就离开了
+Dialogue: 0,0:21:57.95,0:22:01.64,English,,0,0,0,,The police I believe approached GEDmatch
+Dialogue: 0,0:21:57.95,0:22:01.64,Chinese,,0,0,0,,我相信警方与 GEDmatch 接触
+Dialogue: 0,0:22:01.64,0:22:03.80,English,,0,0,0,,because that they were concerned
+Dialogue: 0,0:22:01.64,0:22:03.80,Chinese,,0,0,0,,是因为他们认为
+Dialogue: 0,0:22:03.80,0:22:06.88,English,,0,0,0,,that he was going to recommit other crimes.
+Dialogue: 0,0:22:03.80,0:22:06.88,Chinese,,0,0,0,,犯罪者可能会再次作案
+Dialogue: 0,0:22:06.88,0:22:08.89,English,,0,0,0,,- But GEDmatch's terms of service said
+Dialogue: 0,0:22:06.88,0:22:08.89,Chinese,,0,0,0,,但是 GEDmatch 的服务条款写明
+Dialogue: 0,0:22:08.89,0:22:10.33,English,,0,0,0,,they would only help law enforcement
+Dialogue: 0,0:22:08.89,0:22:10.33,Chinese,,0,0,0,,他们只会在强奸和谋杀案件中
+Dialogue: 0,0:22:10.33,0:22:12.48,English,,0,0,0,,in cases of rape or homicide.
+Dialogue: 0,0:22:10.33,0:22:12.48,Chinese,,0,0,0,,协助警方
+Dialogue: 0,0:22:12.48,0:22:15.52,English,,0,0,0,,- Her problem was that she didn't die.
+Dialogue: 0,0:22:12.48,0:22:15.52,Chinese,,0,0,0,,她的案件问题在于她还活着
+Dialogue: 0,0:22:15.52,0:22:16.68,English,,0,0,0,,- 'Cause if she died then?
+Dialogue: 0,0:22:15.52,0:22:16.68,Chinese,,0,0,0,,- 如果她死去的话 那么
+Dialogue: 0,0:22:16.68,0:22:18.92,English,,0,0,0,,- If she died it would have fit the conditions
+Dialogue: 0,0:22:16.68,0:22:18.92,Chinese,,0,0,0,,- 如果她死去 那么这桩案件就符合情况
+Dialogue: 0,0:22:18.92,0:22:20.45,English,,0,0,0,,and then they would have uploaded the sample
+Dialogue: 0,0:22:18.92,0:22:20.45,Chinese,,0,0,0,,警方就能上传样本
+Dialogue: 0,0:22:20.45,0:22:22.59,English,,0,0,0,,because it met the terms of service and everything. 
+Dialogue: 0,0:22:20.45,0:22:22.59,Chinese,,0,0,0,,因为这样符合服务条款
+Dialogue: 0,0:22:22.59,0:22:23.02,English,,0,0,0,,- So what happened?
+Dialogue: 0,0:22:22.59,0:22:23.02,Chinese,,0,0,0,,- 所以发生了什么
+Dialogue: 0,0:22:23.02,0:22:24.79,English,,0,0,0,,They didn't take that case?
+Dialogue: 0,0:22:23.02,0:22:24.79,Chinese,,0,0,0,,公司没接下这桩案子吗
+Dialogue: 0,0:22:24.79,0:22:25.62,English,,0,0,0,,- They did.
+Dialogue: 0,0:22:24.79,0:22:25.62,Chinese,,0,0,0,,- 他们接下了
+Dialogue: 0,0:22:26.67,0:22:29.01,English,,0,0,0,,- They subsequently caught the individual
+Dialogue: 0,0:22:26.67,0:22:29.01,Chinese,,0,0,0,,随后警方根据 GEDmatch 中的检索结果
+Dialogue: 0,0:22:29.01,0:22:32.45,English,,0,0,0,,from that search that they performed on GEDmatch.
+Dialogue: 0,0:22:29.01,0:22:32.45,Chinese,,0,0,0,,抓到了犯罪嫌疑人
+Dialogue: 0,0:22:33.56,0:22:38.04,English,,0,0,0,,- But people within the genealogy world kinda got
+Dialogue: 0,0:22:33.56,0:22:38.04,Chinese,,0,0,0,,- 但是做家谱分析的人们
+Dialogue: 0,0:22:38.04,0:22:41.46,English,,0,0,0,,their passions and flame saying that is stepping outside
+Dialogue: 0,0:22:38.04,0:22:41.46,Chinese,,0,0,0,,非常愤怒 他们说这已经超出了
+Dialogue: 0,0:22:41.46,0:22:43.21,English,,0,0,0,,of what this tool should be used for
+Dialogue: 0,0:22:41.46,0:22:43.21,Chinese,,0,0,0,,这个工具本应被使用的范围
+Dialogue: 0,0:22:43.21,0:22:46.28,English,,0,0,0,,and they ended up putting a lot of pressure on GEDmatch.
+Dialogue: 0,0:22:43.21,0:22:46.28,Chinese,,0,0,0,,他们最终向 GEDmatch 施加了很多压力
+Dialogue: 0,0:22:46.28,0:22:49.17,English,,0,0,0,,- They flipped the switch because they got freaked out.
+Dialogue: 0,0:22:46.28,0:22:49.17,Chinese,,0,0,0,,- GEDmatch 吓坏了 所以停止了与警方的合作
+Dialogue: 0,0:22:49.17,0:22:50.02,English,,0,0,0,,- But at the end of the day,
+Dialogue: 0,0:22:49.17,0:22:50.02,Chinese,,0,0,0,,- 但是到头来
+Dialogue: 0,0:22:50.02,0:22:52.23,English,,0,0,0,,it was a violation of terms of service.
+Dialogue: 0,0:22:50.02,0:22:52.23,Chinese,,0,0,0,,这违反了服务条款
+Dialogue: 0,0:22:52.23,0:22:55.33,English,,0,0,0,,And I think ultimately led to a good thing.
+Dialogue: 0,0:22:52.23,0:22:55.33,Chinese,,0,0,0,,我觉得这到最后反而是一件好事
+Dialogue: 0,0:22:55.33,0:22:56.63,English,,0,0,0,,Everybody got zeroed out
+Dialogue: 0,0:22:55.33,0:22:56.63,Chinese,,0,0,0,,所有人的数据都被清零了
+Dialogue: 0,0:22:56.63,0:22:59.06,English,,0,0,0,,and then everybody gets to sign back in.
+Dialogue: 0,0:22:56.63,0:22:59.06,Chinese,,0,0,0,,然后他们会注册回来
+Dialogue: 0,0:22:59.06,0:23:04.00,English,,0,0,0,,- Subsequently GEDmatch was sold to Verogen.
+Dialogue: 0,0:22:59.06,0:23:04.00,Chinese,,0,0,0,,- 随后 GEDmatch 被卖给了 Verogen
+Dialogue: 0,0:23:04.00,0:23:06.38,English,,0,0,0,,- I can tell you a new user today
+Dialogue: 0,0:23:04.00,0:23:06.38,Chinese,,0,0,0,,- 我可以说 目前的新用户
+Dialogue: 0,0:23:06.38,0:23:10.44,English,,0,0,0,,when they sign up for GEDmatch, about 73% of them
+Dialogue: 0,0:23:06.38,0:23:10.44,Chinese,,0,0,0,,在 GEDmatch 注册时 会有约 73%
+Dialogue: 0,0:23:10.44,0:23:14.17,English,,0,0,0,,are signing up to allow law enforcement to search.
+Dialogue: 0,0:23:10.44,0:23:14.17,Chinese,,0,0,0,,允许执法者检索数据
+Dialogue: 0,0:23:14.17,0:23:15.31,English,,0,0,0,,We're pretty happy with that.
+Dialogue: 0,0:23:14.17,0:23:15.31,Chinese,,0,0,0,,我们对此相当高兴
+Dialogue: 0,0:23:15.31,0:23:17.86,English,,0,0,0,,- Yeah I mean, that's, it's a high number.
+Dialogue: 0,0:23:15.31,0:23:17.86,Chinese,,0,0,0,,- 是的 我的意思是 这是个很高的数字
+Dialogue: 0,0:23:17.86,0:23:18.95,English,,0,0,0,,- It's a high number.
+Dialogue: 0,0:23:17.86,0:23:18.95,Chinese,,0,0,0,,- 不是小数目
+Dialogue: 0,0:23:18.95,0:23:22.01,English,,0,0,0,,- And it suggests that people want that innocence.
+Dialogue: 0,0:23:18.95,0:23:22.01,Chinese,,0,0,0,,- 这说明人们想要自证清白
+Dialogue: 0,0:23:22.01,0:23:24.57,English,,0,0,0,,- How many second cousins or third cousins do you now?
+Dialogue: 0,0:23:22.01,0:23:24.57,Chinese,,0,0,0,,- 你知道几个从兄弟或者再从兄弟
+Dialogue: 0,0:23:24.57,0:23:25.04,English,,0,0,0,,You know what I mean?
+Dialogue: 0,0:23:24.57,0:23:25.04,Chinese,,0,0,0,,懂我意思吗
+Dialogue: 0,0:23:25.04,0:23:27.15,English,,0,0,0,,You don't know that many of them.
+Dialogue: 0,0:23:25.04,0:23:27.15,Chinese,,0,0,0,,你对他们不很了解
+Dialogue: 0,0:23:27.15,0:23:31.55,English,,0,0,0,,Without even knowing it, you're helping justice.
+Dialogue: 0,0:23:27.15,0:23:31.55,Chinese,,0,0,0,,你在不知不觉中协助了正义的一方
+Dialogue: 0,0:23:31.55,0:23:36.33,English,,0,0,0,,You're helping a victim's family get a little bit of peace,
+Dialogue: 0,0:23:31.55,0:23:36.33,Chinese,,0,0,0,,你在帮助受害者的家庭获得一点宽慰
+Dialogue: 0,0:23:36.33,0:23:38.73,English,,0,0,0,,not closure, but a little bit of peace
+Dialogue: 0,0:23:36.33,0:23:38.73,Chinese,,0,0,0,,不是悲痛的终结 只是一点平静
+Dialogue: 0,0:23:38.73,0:23:39.82,English,,0,0,0,,and why not? - They get an answer.
+Dialogue: 0,0:23:38.73,0:23:39.82,Chinese,,0,0,0,,为什么不呢 - 他们有自己的答案
+Dialogue: 0,0:23:39.82,0:23:41.40,English,,0,0,0,,- Partly, you could make an argument
+Dialogue: 0,0:23:39.82,0:23:41.40,Chinese,,0,0,0,,- 在一定程度上  你可以这样认为
+Dialogue: 0,0:23:41.40,0:23:46.36,English,,0,0,0,,that if you wanna be an activist helping catch criminals,
+Dialogue: 0,0:23:41.40,0:23:46.36,Chinese,,0,0,0,,如果你想成为一名帮助抓捕犯罪分子的热心市民
+Dialogue: 0,0:23:46.36,0:23:47.70,English,,0,0,0,,one of the best things you can do
+Dialogue: 0,0:23:46.36,0:23:47.70,Chinese,,0,0,0,,你能做到的最好的事情之一
+Dialogue: 0,0:23:47.70,0:23:52.02,English,,0,0,0,,is encourage everyone you know to be tested
+Dialogue: 0,0:23:47.70,0:23:52.02,Chinese,,0,0,0,,就是鼓励身边的每个人都接受DNA测试
+Dialogue: 0,0:23:52.02,0:23:53.30,English,,0,0,0,,and put in the database.
+Dialogue: 0,0:23:52.02,0:23:53.30,Chinese,,0,0,0,,并将基因录入数据库
+Dialogue: 0,0:23:53.30,0:23:57.33,English,,0,0,0,,- Correct and you know, there are millions
+Dialogue: 0,0:23:53.30,0:23:57.33,Chinese,,0,0,0,,- 的确  如你所知
+Dialogue: 0,0:23:57.33,0:24:02.81,English,,0,0,0,,of people who have tested at other companies that are not working with law enforcement.
+Dialogue: 0,0:23:57.33,0:24:02.81,Chinese,,0,0,0,,还有数百万人在不与执法部门合作的公司做了测试
+Dialogue: 0,0:24:02.81,0:24:06.97,English,,0,0,0,,And if they want to help, all they have to do
+Dialogue: 0,0:24:02.81,0:24:06.97,Chinese,,0,0,0,,如果他们想要提供帮助
+Dialogue: 0,0:24:06.97,0:24:12.43,English,,0,0,0,,is download their raw data and they can upload it for free into our database.
+Dialogue: 0,0:24:06.97,0:24:12.43,Chinese,,0,0,0,,他们只需要下载原始数据  并将其免费上传至我们的数据库
+Dialogue: 0,0:24:12.43,0:24:16.35,English,,0,0,0,,- I absolutely believe in a person's right to privacy.
+Dialogue: 0,0:24:12.43,0:24:16.35,Chinese,,0,0,0,,- 我完全相信人们的隐私权
+Dialogue: 0,0:24:16.35,0:24:19.01,English,,0,0,0,,But I also absolutely believe we have a right not
+Dialogue: 0,0:24:16.35,0:24:19.01,Chinese,,0,0,0,,但是我也完全相信
+Dialogue: 0,0:24:19.01,0:24:21.54,English,,0,0,0,,to get murdered or sexually assaulted or it will be part
+Dialogue: 0,0:24:19.01,0:24:21.54,Chinese,,0,0,0,,我们有权不被谋杀或性侵
+Dialogue: 0,0:24:21.54,0:24:25.31,English,,0,0,0,,having violent crimes committed against us.
+Dialogue: 0,0:24:21.54,0:24:25.31,Chinese,,0,0,0,,否则相同的事情可能会落到我们头上
+Dialogue: 0,0:24:25.31,0:24:27.82,English,,0,0,0,,There has to be an equal balance.
+Dialogue: 0,0:24:25.31,0:24:27.82,Chinese,,0,0,0,,这中间必须做出权衡
+Dialogue: 0,0:24:27.82,0:24:31.11,English,,0,0,0,,- That scale of my privacy has been taken
+Dialogue: 0,0:24:27.82,0:24:31.11,Chinese,,0,0,0,,- 这是个平衡。如果你认为你的隐私被侵犯了，
+Dialogue: 0,0:24:31.11,0:24:33.65,English,,0,0,0,,because of a third cousin has been identified
+Dialogue: 0,0:24:31.11,0:24:33.65,Chinese,,0,0,0,,因为你的三代堂（表）兄妹上传了DNA信息，
+Dialogue: 0,0:24:33.65,0:24:37.01,English,,0,0,0,,versus a mother who's talking about her daughter has been murdered,
+Dialogue: 0,0:24:33.65,0:24:37.01,Chinese,,0,0,0,,这个相比于一位女儿被谋杀了的母亲，
+Dialogue: 0,0:24:37.01,0:24:40.21,English,,0,0,0,,that scale is way the hell like this.
+Dialogue: 0,0:24:37.01,0:24:40.21,Chinese,,0,0,0,,这个平衡不用说都知道隐私在这里啥也算不上
+Dialogue: 0,0:24:40.21,0:24:43.54,English,,0,0,0,,- We're at a point now where in many ways technology
+Dialogue: 0,0:24:40.21,0:24:43.54,Chinese,,0,0,0,,- 我们现在许多方面的科技
+Dialogue: 0,0:24:43.54,0:24:47.62,English,,0,0,0,,has kind of outstripped where the laws are.
+Dialogue: 0,0:24:43.54,0:24:47.62,Chinese,,0,0,0,,已经超越了法律
+Dialogue: 0,0:24:47.62,0:24:49.00,English,,0,0,0,,I truly believe
+Dialogue: 0,0:24:47.62,0:24:49.00,Chinese,,0,0,0,,我真希望
+Dialogue: 0,0:24:49.00,0:24:56.56,English,,0,0,0,,that ultimately this tool and the, all the concerns with it will probably end up
+Dialogue: 0,0:24:49.00,0:24:56.56,Chinese,,0,0,0,,这项技术和所有相关的问题
+Dialogue: 0,0:24:56.56,0:24:58.71,English,,0,0,0,,in front of the nation Supreme Court
+Dialogue: 0,0:24:56.56,0:24:58.71,Chinese,,0,0,0,,最终都会提交给国家最高法院
+Dialogue: 0,0:24:58.71,0:25:00.31,English,,0,0,0,,and there will be a decision.
+Dialogue: 0,0:24:58.71,0:25:00.31,Chinese,,0,0,0,,并且会有个结果
+Dialogue: 0,0:25:00.31,0:25:03.70,English,,0,0,0,,My bottom line message, if you're gonna make a decision,
+Dialogue: 0,0:25:00.31,0:25:03.70,Chinese,,0,0,0,,我的底线是  如果你要做个判决
+Dialogue: 0,0:25:03.70,0:25:06.60,English,,0,0,0,,if there's gonna be laws restricting law enforcement to use it,
+Dialogue: 0,0:25:03.70,0:25:06.60,Chinese,,0,0,0,,如果这事涉及到法律的制裁
+Dialogue: 0,0:25:06.60,0:25:09.80,English,,0,0,0,,make sure that you're making an informed decision
+Dialogue: 0,0:25:06.60,0:25:09.80,Chinese,,0,0,0,,请确保你做出明智的决定
+Dialogue: 0,0:25:09.80,0:25:12.89,English,,0,0,0,,and not assuming what it is based on
+Dialogue: 0,0:25:09.80,0:25:12.89,Chinese,,0,0,0,,而不是根据DNA、遗传学来猜测
+Dialogue: 0,0:25:12.89,0:25:15.45,English,,0,0,0,,its DNA and genetics and law enforcement
+Dialogue: 0,0:25:12.89,0:25:15.45,Chinese,,0,0,0,,并将“罪犯”绳之以法
+Dialogue: 0,0:25:15.45,0:25:18.37,English,,0,0,0,,because it really isn't what you think it is.
+Dialogue: 0,0:25:15.45,0:25:18.37,Chinese,,0,0,0,,因为它真的不是你想象的那样
+Dialogue: 0,0:25:18.37,0:25:20.31,English,,0,0,0,,- I gotta keep a couple of million people happy
+Dialogue: 0,0:25:18.37,0:25:20.31,Chinese,,0,0,0,,- 从某种意义上说  我得让几百万人开心
+Dialogue: 0,0:25:20.31,0:25:23.97,English,,0,0,0,,so that I have access to the identities, kind of in a sense.
+Dialogue: 0,0:25:20.31,0:25:23.97,Chinese,,0,0,0,,才能拥有这些人的身份（在此只基因）
+Dialogue: 0,0:25:23.97,0:25:25.66,English,,0,0,0,,- In a sense, right? - Of millions,
+Dialogue: 0,0:25:23.97,0:25:25.66,English,,0,0,0,,- 某种意义上  对吧？- 几百万
+Dialogue: 0,0:25:25.66,0:25:26.95,English,,0,0,0,,of hundreds of millions of people.
+Dialogue: 0,0:25:25.66,0:25:26.95,Chinese,,0,0,0,,几亿人
+Dialogue: 0,0:25:26.95,0:25:27.78,English,,0,0,0,,- Right.
+Dialogue: 0,0:25:26.95,0:25:27.78,Chinese,,0,0,0,,- 对
+Dialogue: 0,0:25:28.74,0:25:30.45,English,,0,0,0,,- And that's a pretty selective sample.
+Dialogue: 0,0:25:28.74,0:25:30.45,Chinese,,0,0,0,,- 这是一组非常有选择性的样本
+Dialogue: 0,0:25:30.45,0:25:32.58,English,,0,0,0,,These are people who are willing to give up their information 
+Dialogue: 0,0:25:30.45,0:25:32.58,Chinese,,0,0,0,,这是那些愿意放弃他们的信息的人
+Dialogue: 0,0:25:32.58,0:25:33.15,English,,0,0,0,,- Give up, yes.
+Dialogue: 0,0:25:32.58,0:25:33.15,Chinese,,0,0,0,,- 是的  放弃
+Dialogue: 0,0:25:33.15,0:25:34.92,English,,0,0,0,,- To find their ancestors. - Yeah.
+Dialogue: 0,0:25:33.15,0:25:34.92,Chinese,,0,0,0,,- 来寻找他们的祖先  - 对
+Dialogue: 0,0:25:34.92,0:25:37.67,English,,0,0,0,,- There may be many others who are militantly private
+Dialogue: 0,0:25:34.92,0:25:37.67,Chinese,,0,0,0,,- 还有许多其他非常注重隐私的人
+Dialogue: 0,0:25:37.67,0:25:40.06,English,,0,0,0,,but they don't get a say in the decision
+Dialogue: 0,0:25:37.67,0:25:40.06,Chinese,,0,0,0,,但是他们对于
+Dialogue: 0,0:25:40.06,0:25:42.81,English,,0,0,0,,of whether they're gonna be searchable
+Dialogue: 0,0:25:40.06,0:25:42.81,Chinese,,0,0,0,,是否可以被其他人的数据检索到
+Dialogue: 0,0:25:42.81,0:25:44.57,English,,0,0,0,,through that person or not.
+Dialogue: 0,0:25:42.81,0:25:44.57,Chinese,,0,0,0,,并没有发言权
+Dialogue: 0,0:25:44.57,0:25:47.53,English,,0,0,0,,- True, that's the choice you make.
+Dialogue: 0,0:25:44.57,0:25:47.53,Chinese,,0,0,0,,- 是的  这是你的决定
+Dialogue: 0,0:25:48.38,0:25:49.88,English,,0,0,0,,- That's the choice you don't make.
+Dialogue: 0,0:25:48.38,0:25:49.88,Chinese,,0,0,0,,- 这是你不会做出的决定
+Dialogue: 0,0:25:49.88,0:25:52.52,English,,0,0,0,,- It's a choice you don't make but it's also
+Dialogue: 0,0:25:49.88,0:25:52.52,Chinese,,0,0,0,,- 你也不会选择这样
+Dialogue: 0,0:25:52.52,0:25:54.72,English,,0,0,0,,it's the choice we have to make as a society,
+Dialogue: 0,0:25:52.52,0:25:54.72,Chinese,,0,0,0,,但这也是我们作为一个社会必须做出的选择
+Dialogue: 0,0:25:54.72,0:25:56.35,English,,0,0,0,,is what's that balance.
+Dialogue: 0,0:25:54.72,0:25:56.35,Chinese,,0,0,0,,这种平衡是什么
+Dialogue: 0,0:25:56.35,0:25:58.34,English,,0,0,0,,There is always gonna be winners and loses
+Dialogue: 0,0:25:56.35,0:25:58.34,Chinese,,0,0,0,,在我看来
+Dialogue: 0,0:25:58.34,0:25:59.17,English,,0,0,0,,in my mind, right?
+Dialogue: 0,0:25:58.34,0:25:59.17,Chinese,,0,0,0,,总会有赢家和输家
+Dialogue: 0,0:25:59.17,0:26:02.09,English,,0,0,0,,And I don't wanna use losers in the negative sense there
+Dialogue: 0,0:25:59.17,0:26:02.09,Chinese,,0,0,0,,我并不想用消极意义上的失败者
+Dialogue: 0,0:26:02.09,0:26:05.17,English,,0,0,0,,but in a decision at the end of the day,
+Dialogue: 0,0:26:02.09,0:26:05.17,Chinese,,0,0,0,,但是最终
+Dialogue: 0,0:26:05.17,0:26:07.62,English,,0,0,0,,you have to balance in my mind
+Dialogue: 0,0:26:05.17,0:26:07.62,Chinese,,0,0,0,,关于公共安全和公共隐私
+Dialogue: 0,0:26:07.62,0:26:11.09,English,,0,0,0,,the public safety with the public privacy.
+Dialogue: 0,0:26:07.62,0:26:11.09,Chinese,,0,0,0,,这得有个平衡
+Dialogue: 0,0:26:11.09,0:26:13.66,English,,0,0,0,,- Is DuckDuckGo, is that good?
+Dialogue: 0,0:26:11.09,0:26:13.66,Chinese,,0,0,0,,- DuckDuckGo  好用么？
+Dialogue: 0,0:26:13.66,0:26:14.23,English,,0,0,0,,- I use it.
+Dialogue: 0,0:26:13.66,0:26:14.23,Chinese,,0,0,0,,- 我用这个
+Dialogue: 0,0:26:14.23,0:26:16.61,English,,0,0,0,,I'm a little paranoid.
+Dialogue: 0,0:26:14.23,0:26:16.61,Chinese,,0,0,0,,我有点偏执
+Dialogue: 0,0:26:18.04,0:26:23.62,English,,0,0,0,,So it's supposed to not track you as much I guess, but yeah.
+Dialogue: 0,0:26:18.04,0:26:23.62,Chinese,,0,0,0,,我觉得它应该会尽量不对你进行跟踪  就这样
+Dialogue: 0,0:26:23.62,0:26:25.62,Chinese,,0,0,0,,翻译：Arukas E、Pwdding、pointee、Yuumi、H3arn
