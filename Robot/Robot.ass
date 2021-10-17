@@ -359,11 +359,11 @@ Dialogue: 0,0:07:40.96,0:07:42.43,CHN,,0,0,0,,好像通人性
 Dialogue: 0,0:07:42.43,0:07:45.26,ENG,,0,0,0,,The way it walks and flies.
 Dialogue: 0,0:07:42.43,0:07:45.26,CHN,,0,0,0,,这挺有趣的
 Dialogue: 0,0:07:45.26,0:07:47.70,ENG,,0,0,0,,It's just totally something you're not used to seeing.
-Dialogue: 0,0:07:45.26,0:07:47.70,CHN,,0,0,0,,这仅仅是你还不习惯所见到东西
+Dialogue: 0,0:07:45.26,0:07:47.70,CHN,,0,0,0,,这仅仅是你还不习惯所见的东西
 Dialogue: 0,0:07:47.70,0:07:48.68,ENG,,0,0,0,,- It looks natural.
 Dialogue: 0,0:07:47.70,0:07:48.68,CHN,,0,0,0,,- 它看起来很自然
 Dialogue: 0,0:07:48.68,0:07:51.10,ENG,,0,0,0,,Actually, I have to say that the sensors
-Dialogue: 0,0:07:48.68,0:07:51.10,CHN,,0,0,0,,实际上 我要说这些传感器
+Dialogue: 0,0:07:48.68,0:07:51.10,CHN,,0,0,0,,实际上 这些传感器
 Dialogue: 0,0:07:51.10,0:07:53.50,ENG,,0,0,0,,are sampled at 1,000 times per second,
 Dialogue: 0,0:07:51.10,0:07:53.50,CHN,,0,0,0,,每秒采样 1000 次
 Dialogue: 0,0:07:53.50,0:07:56.66,ENG,,0,0,0,,but the controller is actually being recomputed
@@ -400,8 +400,6 @@ Dialogue: 0,0:08:30.27,0:08:32.43,ENG,,0,0,0,,- [Derek] How do you feel about th
 Dialogue: 0,0:08:30.27,0:08:32.43,CHN,,0,0,0,,- 你觉得今天表现它如何
 Dialogue: 0,0:08:32.43,0:08:33.64,ENG,,0,0,0,,- Yeah, I think it beat you.
 Dialogue: 0,0:08:32.43,0:08:33.64,CHN,,0,0,0,,- 是的 我觉得它比你强
-Dialogue: 0,0:08:33.64,0:08:35.11,ENG,,0,0,0,,
-Dialogue: 0,0:08:33.64,0:08:35.11,CHN,,0,0,0,,
 Dialogue: 0,0:08:35.11,0:08:36.50,ENG,,0,0,0,,- I mean, not that that's hard,
 Dialogue: 0,0:08:35.11,0:08:36.50,CHN,,0,0,0,,我不是说那个 走绳很难
 Dialogue: 0,0:08:36.50,0:08:38.38,ENG,,0,0,0,,but this is very impressive.
@@ -440,75 +438,9 @@ Dialogue: 0,0:09:15.60,0:09:17.35,ENG,,0,0,0,,- And then once, yeah, once you la
 Dialogue: 0,0:09:15.60,0:09:17.35,CHN,,0,0,0,,- 是的 只要着陆之后
 Dialogue: 0,0:09:17.35,0:09:18.48,ENG,,0,0,0,,then you can walk over.
 Dialogue: 0,0:09:17.35,0:09:18.48,CHN,,0,0,0,,就能到处走动
-Dialogue: 0,0:09:18.48,0:09:22.00,ENG,,0,0,0,,
-Dialogue: 0,0:09:18.48,0:09:22.00,CHN,,0,0,0,,
 Dialogue: 0,0:09:22.00,0:09:24.99,ENG,,0,0,0,,- Imagine if you have a cliff and then you have the robot
 Dialogue: 0,0:09:22.00,0:09:24.99,CHN,,0,0,0,,- 想象一下前面有处悬崖 然后机器人
 Dialogue: 0,0:09:24.99,0:09:28.93,ENG,,0,0,0,,just jump out of the cliff, deploy the propellers and fly.
 Dialogue: 0,0:09:24.99,0:09:28.93,CHN,,0,0,0,,只要纵身一跃 就启动螺旋桨飞行通过
 Dialogue: 0,0:09:30.22,0:09:31.95,ENG,,0,0,0,,- [Derek] That'd be wild.
 Dialogue: 0,0:09:30.22,0:09:31.95,CHN,,0,0,0,,真是太狂野了
-Dialogue: 0,0:09:31.95,0:09:35.12,ENG,,0,0,0,,
-Dialogue: 0,0:09:31.95,0:09:35.12,CHN,,0,0,0,,
-Dialogue: 0,0:09:37.42,0:09:38.52,ENG,,0,0,0,,Oh, hey there.
-Dialogue: 0,0:09:37.42,0:09:38.52,CHN,,0,0,0,,
-Dialogue: 0,0:09:38.52,0:09:41.40,ENG,,0,0,0,,This portion of the video was sponsored by Bluehost.
-Dialogue: 0,0:09:38.52,0:09:41.40,CHN,,0,0,0,,
-Dialogue: 0,0:09:41.40,0:09:42.87,ENG,,0,0,0,,You know, tech is now so advanced
-Dialogue: 0,0:09:41.40,0:09:42.87,CHN,,0,0,0,,
-Dialogue: 0,0:09:42.87,0:09:44.65,ENG,,0,0,0,,that robots can skateboard.
-Dialogue: 0,0:09:42.87,0:09:44.65,CHN,,0,0,0,,
-Dialogue: 0,0:09:44.65,0:09:46.98,ENG,,0,0,0,,So why is it still so hard to build a website?
-Dialogue: 0,0:09:44.65,0:09:46.98,CHN,,0,0,0,,
-Dialogue: 0,0:09:46.98,0:09:49.01,ENG,,0,0,0,,Make the process simple with Bluehost.
-Dialogue: 0,0:09:46.98,0:09:49.01,CHN,,0,0,0,,
-Dialogue: 0,0:09:49.01,0:09:51.00,ENG,,0,0,0,,It's easier than ever to get started.
-Dialogue: 0,0:09:49.01,0:09:51.00,CHN,,0,0,0,,
-Dialogue: 0,0:09:51.00,0:09:53.54,ENG,,0,0,0,,Bluehost provides you with a completely free domain
-Dialogue: 0,0:09:51.00,0:09:53.54,CHN,,0,0,0,,
-Dialogue: 0,0:09:53.54,0:09:56.04,ENG,,0,0,0,,for the first year, as well as quick start templates.
-Dialogue: 0,0:09:53.54,0:09:56.04,CHN,,0,0,0,,
-Dialogue: 0,0:09:56.04,0:09:57.78,ENG,,0,0,0,,So you can have a beautiful website
-Dialogue: 0,0:09:56.04,0:09:57.78,CHN,,0,0,0,,
-Dialogue: 0,0:09:57.78,0:09:59.44,ENG,,0,0,0,,up and running in just minutes.
-Dialogue: 0,0:09:57.78,0:09:59.44,CHN,,0,0,0,,
-Dialogue: 0,0:09:59.44,0:10:02.43,ENG,,0,0,0,,The templates are mobile ready so your website is optimized
-Dialogue: 0,0:09:59.44,0:10:02.43,CHN,,0,0,0,,
-Dialogue: 0,0:10:02.43,0:10:05.55,ENG,,0,0,0,,for both phones and computers from the start.
-Dialogue: 0,0:10:02.43,0:10:05.55,CHN,,0,0,0,,
-Dialogue: 0,0:10:05.55,0:10:07.56,ENG,,0,0,0,,Unlike the process of building a robot like LEO,
-Dialogue: 0,0:10:05.55,0:10:07.56,CHN,,0,0,0,,
-Dialogue: 0,0:10:07.56,0:10:10.54,ENG,,0,0,0,,you don't need code in order to make your website.
-Dialogue: 0,0:10:07.56,0:10:10.54,CHN,,0,0,0,,
-Dialogue: 0,0:10:10.54,0:10:12.41,ENG,,0,0,0,,Bluehost lets you customize everything
-Dialogue: 0,0:10:10.54,0:10:12.41,CHN,,0,0,0,,
-Dialogue: 0,0:10:12.41,0:10:14.22,ENG,,0,0,0,,with simple drag and drop editing.
-Dialogue: 0,0:10:12.41,0:10:14.22,CHN,,0,0,0,,
-Dialogue: 0,0:10:14.22,0:10:16.44,ENG,,0,0,0,,And Bluehost builder also allows people
-Dialogue: 0,0:10:14.22,0:10:16.44,CHN,,0,0,0,,
-Dialogue: 0,0:10:16.44,0:10:18.77,ENG,,0,0,0,,to choose their own editing journey.
-Dialogue: 0,0:10:16.44,0:10:18.77,CHN,,0,0,0,,
-Dialogue: 0,0:10:18.77,0:10:19.96,ENG,,0,0,0,,It's built on WordPress.
-Dialogue: 0,0:10:18.77,0:10:19.96,CHN,,0,0,0,,
-Dialogue: 0,0:10:19.96,0:10:22.62,ENG,,0,0,0,,So at any time you can toggle between WordPress core,
-Dialogue: 0,0:10:19.96,0:10:22.62,CHN,,0,0,0,,
-Dialogue: 0,0:10:22.62,0:10:24.52,ENG,,0,0,0,,the traditional editing experience,
-Dialogue: 0,0:10:22.62,0:10:24.52,CHN,,0,0,0,,
-Dialogue: 0,0:10:24.52,0:10:27.64,ENG,,0,0,0,,and the Bluehost builder with no loss of functionality.
-Dialogue: 0,0:10:24.52,0:10:27.64,CHN,,0,0,0,,
-Dialogue: 0,0:10:27.64,0:10:30.61,ENG,,0,0,0,,This is a first of its kind builder experience.
-Dialogue: 0,0:10:27.64,0:10:30.61,CHN,,0,0,0,,
-Dialogue: 0,0:10:30.61,0:10:33.30,ENG,,0,0,0,,So start building your website today with Bluehost.
-Dialogue: 0,0:10:30.61,0:10:33.30,CHN,,0,0,0,,
-Dialogue: 0,0:10:33.30,0:10:35.53,ENG,,0,0,0,,Just go to bluehost.com/track/veritasium
-Dialogue: 0,0:10:33.30,0:10:35.53,CHN,,0,0,0,,
-Dialogue: 0,0:10:35.53,0:10:37.95,ENG,,0,0,0,,to receive more than 65% off.
-Dialogue: 0,0:10:35.53,0:10:37.95,CHN,,0,0,0,,
-Dialogue: 0,0:10:37.95,0:10:40.09,ENG,,0,0,0,,I will put that link down in the description.
-Dialogue: 0,0:10:37.95,0:10:40.09,CHN,,0,0,0,,
-Dialogue: 0,0:10:40.09,0:10:41.75,ENG,,0,0,0,,So I wanna thank Bluehost again
-Dialogue: 0,0:10:40.09,0:10:41.75,CHN,,0,0,0,,
-Dialogue: 0,0:10:41.75,0:10:43.82,ENG,,0,0,0,,for sponsoring this portion of the video.
-Dialogue: 0,0:10:41.75,0:10:43.82,CHN,,0,0,0,,
-Dialogue: 0,0:10:43.82,0:10:45.75,ENG,,0,0,0,,And I wanna thank you for watching.
-Dialogue: 0,0:10:43.82,0:10:45.75,CHN,,0,0,0,,
