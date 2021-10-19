@@ -25,179 +25,177 @@ Style: CHN,MonyharOS Sans SC Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:02.59,ENG,,0,0,0,,This is a robot that walks,
-Dialogue: 0,0:00:00.00,0:00:02.59,CHN,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:02.59,CHN,,0,0,0,,这是一个可以走
 Dialogue: 0,0:00:02.59,0:00:04.46,ENG,,0,0,0,,flies,
-Dialogue: 0,0:00:02.59,0:00:04.46,CHN,,0,0,0,,
+Dialogue: 0,0:00:02.59,0:00:04.46,CHN,,0,0,0,,可以飞
 Dialogue: 0,0:00:04.46,0:00:05.97,ENG,,0,0,0,,skateboards,
-Dialogue: 0,0:00:04.46,0:00:05.97,CHN,,0,0,0,,
+Dialogue: 0,0:00:04.46,0:00:05.97,CHN,,0,0,0,,可以玩滑板
 Dialogue: 0,0:00:05.97,0:00:07.82,ENG,,0,0,0,,and slacklines.
-Dialogue: 0,0:00:05.97,0:00:07.82,CHN,,0,0,0,,
+Dialogue: 0,0:00:05.97,0:00:07.82,CHN,,0,0,0,,还能走钢丝的机器人
 Dialogue: 0,0:00:07.82,0:00:09.70,ENG,,0,0,0,,But why?
-Dialogue: 0,0:00:07.82,0:00:09.70,CHN,,0,0,0,,
+Dialogue: 0,0:00:07.82,0:00:09.70,CHN,,0,0,0,,为啥
 Dialogue: 0,0:00:10.61,0:00:12.46,ENG,,0,0,0,,A portion of this video was sponsored by Bluehost.
-Dialogue: 0,0:00:10.61,0:00:12.46,CHN,,0,0,0,,
+Dialogue: 0,0:00:10.61,0:00:12.46,CHN,,0,0,0,,-
 Dialogue: 0,0:00:12.46,0:00:15.24,ENG,,0,0,0,,More about them at the end of the show.
-Dialogue: 0,0:00:12.46,0:00:15.24,CHN,,0,0,0,,
+Dialogue: 0,0:00:12.46,0:00:15.24,CHN,,0,0,0,,-
 Dialogue: 0,0:00:15.24,0:00:17.52,ENG,,0,0,0,,There are lots of bipedal robots out there,
-Dialogue: 0,0:00:15.24,0:00:17.52,CHN,,0,0,0,,
+Dialogue: 0,0:00:15.24,0:00:17.52,CHN,,0,0,0,,早就有很多两脚机器人了
 Dialogue: 0,0:00:17.52,0:00:19.89,ENG,,0,0,0,,and drones are ubiquitous.
-Dialogue: 0,0:00:17.52,0:00:19.89,CHN,,0,0,0,,
+Dialogue: 0,0:00:17.52,0:00:19.89,CHN,,0,0,0,,而且无人机也无处不在
 Dialogue: 0,0:00:19.89,0:00:22.52,ENG,,0,0,0,,But until now, no one had engineered
-Dialogue: 0,0:00:19.89,0:00:22.52,CHN,,0,0,0,,
+Dialogue: 0,0:00:19.89,0:00:22.52,CHN,,0,0,0,,然而直到现在  仍然没有人
 Dialogue: 0,0:00:22.52,0:00:25.93,ENG,,0,0,0,,walking and flying technology to work together
-Dialogue: 0,0:00:22.52,0:00:25.93,CHN,,0,0,0,,
+Dialogue: 0,0:00:22.52,0:00:25.93,CHN,,0,0,0,,将行走和飞行两项技术
 Dialogue: 0,0:00:25.93,0:00:27.26,ENG,,0,0,0,,in a single robot.
-Dialogue: 0,0:00:25.93,0:00:27.26,CHN,,0,0,0,,
+Dialogue: 0,0:00:25.93,0:00:27.26,CHN,,0,0,0,,共同搭载在同一台机器人上
 Dialogue: 0,0:00:27.26,0:00:29.94,ENG,,0,0,0,,- So it's the first robot that truly integrates
-Dialogue: 0,0:00:27.26,0:00:29.94,CHN,,0,0,0,,
+Dialogue: 0,0:00:27.26,0:00:29.94,CHN,,0,0,0,,- 因此这是第一台
 Dialogue: 0,0:00:29.94,0:00:31.39,ENG,,0,0,0,,the walking and the flying.
-Dialogue: 0,0:00:29.94,0:00:31.39,CHN,,0,0,0,,
+Dialogue: 0,0:00:29.94,0:00:31.39,CHN,,0,0,0,,不仅能走还能飞的机器人
 Dialogue: 0,0:00:31.39,0:00:34.68,ENG,,0,0,0,,It's not just a drone with legs.
-Dialogue: 0,0:00:31.39,0:00:34.68,CHN,,0,0,0,,
+Dialogue: 0,0:00:31.39,0:00:34.68,CHN,,0,0,0,,它可不只是个有两条腿的无人机
 Dialogue: 0,0:00:34.68,0:00:37.47,ENG,,0,0,0,,- [Dr. Chung] It's LEONARDO and it stands for
-Dialogue: 0,0:00:34.68,0:00:37.47,CHN,,0,0,0,,
+Dialogue: 0,0:00:34.68,0:00:37.47,CHN,,0,0,0,,- [Chung博士] 这是LEONARDO
 Dialogue: 0,0:00:37.47,0:00:39.84,ENG,,0,0,0,,LEgs ONboARD drOne.
-Dialogue: 0,0:00:37.47,0:00:39.84,CHN,,0,0,0,,
+Dialogue: 0,0:00:37.47,0:00:39.84,CHN,,0,0,0,,代表“带腿的无人机”
 Dialogue: 0,0:00:39.84,0:00:41.34,ENG,,0,0,0,,So I think it's a pretty good name.
-Dialogue: 0,0:00:39.84,0:00:41.34,CHN,,0,0,0,,
+Dialogue: 0,0:00:39.84,0:00:41.34,CHN,,0,0,0,,我觉得是个好名字
 Dialogue: 0,0:00:41.34,0:00:43.67,ENG,,0,0,0,,- [Derek] Why is this potentially useful?
-Dialogue: 0,0:00:41.34,0:00:43.67,CHN,,0,0,0,,
+Dialogue: 0,0:00:41.34,0:00:43.67,CHN,,0,0,0,,- [Derek] 为啥这腿有可能会很有用
 Dialogue: 0,0:00:43.67,0:00:45.63,ENG,,0,0,0,,- Yeah, so any flying vehicles
-Dialogue: 0,0:00:43.67,0:00:45.63,CHN,,0,0,0,,
+Dialogue: 0,0:00:43.67,0:00:45.63,CHN,,0,0,0,,- 每一台飞行器
 Dialogue: 0,0:00:45.63,0:00:47.96,ENG,,0,0,0,,actually have to start from the ground to take off.
-Dialogue: 0,0:00:45.63,0:00:47.96,CHN,,0,0,0,,
+Dialogue: 0,0:00:45.63,0:00:47.96,CHN,,0,0,0,,实际上都是从地面起飞
 Dialogue: 0,0:00:47.96,0:00:50.84,ENG,,0,0,0,,And eventually, they can not stay in the air forever.
-Dialogue: 0,0:00:47.96,0:00:50.84,CHN,,0,0,0,,
+Dialogue: 0,0:00:47.96,0:00:50.84,CHN,,0,0,0,,并且它们不可能永远停留在空中
 Dialogue: 0,0:00:50.84,0:00:52.55,ENG,,0,0,0,,They have to eventually come down.
-Dialogue: 0,0:00:50.84,0:00:52.55,CHN,,0,0,0,,
+Dialogue: 0,0:00:50.84,0:00:52.55,CHN,,0,0,0,,它们最终都得降落
 Dialogue: 0,0:00:52.55,0:00:54.13,ENG,,0,0,0,,But sometimes they have to come down
-Dialogue: 0,0:00:52.55,0:00:54.13,CHN,,0,0,0,,
+Dialogue: 0,0:00:52.55,0:00:54.13,CHN,,0,0,0,,但有些时候
 Dialogue: 0,0:00:54.13,0:00:57.70,ENG,,0,0,0,,on the very challenging terrain or some obstacles.
-Dialogue: 0,0:00:54.13,0:00:57.70,CHN,,0,0,0,,
+Dialogue: 0,0:00:54.13,0:00:57.70,CHN,,0,0,0,,它们得在一些奇怪的地形或者障碍上降落
 Dialogue: 0,0:00:57.70,0:00:59.66,ENG,,0,0,0,,So it's actually a good idea to have
-Dialogue: 0,0:00:57.70,0:00:59.66,CHN,,0,0,0,,
+Dialogue: 0,0:00:57.70,0:00:59.66,CHN,,0,0,0,,所以给它们装上这些可以动的腿
 Dialogue: 0,0:00:59.66,0:01:01.30,ENG,,0,0,0,,these controlLable legs.
-Dialogue: 0,0:00:59.66,0:01:01.30,CHN,,0,0,0,,
+Dialogue: 0,0:00:59.66,0:01:01.30,CHN,,0,0,0,,是个不错的主意
 Dialogue: 0,0:01:01.30,0:01:02.32,ENG,,0,0,0,,So they can actually land
-Dialogue: 0,0:01:01.30,0:01:02.32,CHN,,0,0,0,,
+Dialogue: 0,0:01:01.30,0:01:02.32,CHN,,0,0,0,,然后它们就可以
 Dialogue: 0,0:01:02.32,0:01:05.21,ENG,,0,0,0,,in a very interesting configuration,
-Dialogue: 0,0:01:02.32,0:01:05.21,CHN,,0,0,0,,
+Dialogue: 0,0:01:02.32,0:01:05.21,CHN,,0,0,0,,以一些奇怪的姿态
 Dialogue: 0,0:01:05.21,0:01:07.66,ENG,,0,0,0,,or posture, or orientation.
-Dialogue: 0,0:01:05.21,0:01:07.66,CHN,,0,0,0,,
+Dialogue: 0,0:01:05.21,0:01:07.66,CHN,,0,0,0,,或者方向来进行降落
 Dialogue: 0,0:01:07.66,0:01:09.63,ENG,,0,0,0,,- [Derek] But there are additional benefits.
-Dialogue: 0,0:01:07.66,0:01:09.63,CHN,,0,0,0,,
+Dialogue: 0,0:01:07.66,0:01:09.63,CHN,,0,0,0,,- [Derek] 但是这两条腿还有一些其他的好处
 Dialogue: 0,0:01:09.63,0:01:12.95,ENG,,0,0,0,,A robot like this is more stable than a regular drone.
-Dialogue: 0,0:01:09.63,0:01:12.95,CHN,,0,0,0,,
+Dialogue: 0,0:01:09.63,0:01:12.95,CHN,,0,0,0,,一台这样子的机器人比常见的无人机更加稳定
 Dialogue: 0,0:01:12.95,0:01:15.78,ENG,,0,0,0,,- I view these propellers almost like arms.
-Dialogue: 0,0:01:12.95,0:01:15.78,CHN,,0,0,0,,
+Dialogue: 0,0:01:12.95,0:01:15.78,CHN,,0,0,0,,- 我感觉这些螺旋桨看起来就像胳膊一样
 Dialogue: 0,0:01:15.78,0:01:16.96,ENG,,0,0,0,,So some people might say that,
-Dialogue: 0,0:01:15.78,0:01:16.96,CHN,,0,0,0,,
+Dialogue: 0,0:01:15.78,0:01:16.96,CHN,,0,0,0,,所以有些人可能会说
 Dialogue: 0,0:01:16.96,0:01:18.89,ENG,,0,0,0,,oh, you guys are cheating because I mean,
-Dialogue: 0,0:01:16.96,0:01:18.89,CHN,,0,0,0,,
+Dialogue: 0,0:01:16.96,0:01:18.89,CHN,,0,0,0,,噢  你们开挂了吧
 Dialogue: 0,0:01:18.89,0:01:21.08,ENG,,0,0,0,,bipedal robots do not have propellers,
-Dialogue: 0,0:01:18.89,0:01:21.08,CHN,,0,0,0,,
+Dialogue: 0,0:01:18.89,0:01:21.08,CHN,,0,0,0,,两足机器人怎么能有螺旋桨嘞
 Dialogue: 0,0:01:21.08,0:01:23.07,ENG,,0,0,0,,but we are essentially using the propellers
-Dialogue: 0,0:01:21.08,0:01:23.07,CHN,,0,0,0,,
+Dialogue: 0,0:01:21.08,0:01:23.07,CHN,,0,0,0,,但这些螺旋桨
 Dialogue: 0,0:01:23.07,0:01:25.05,ENG,,0,0,0,,to do additional stabilization.
-Dialogue: 0,0:01:23.07,0:01:25.05,CHN,,0,0,0,,
+Dialogue: 0,0:01:23.07,0:01:25.05,CHN,,0,0,0,,实际上只是用来提供额外的稳定性
 Dialogue: 0,0:01:26.16,0:01:28.91,ENG,,0,0,0,,(robot whirring)
-Dialogue: 0,0:01:26.16,0:01:28.91,CHN,,0,0,0,,
+Dialogue: 0,0:01:26.16,0:01:28.91,CHN,,0,0,0,,（机器人嗡嗡）
 Dialogue: 0,0:01:32.06,0:01:34.84,ENG,,0,0,0,,So basically, you generate the lift or thruster force
-Dialogue: 0,0:01:32.06,0:01:34.84,CHN,,0,0,0,,
+Dialogue: 0,0:01:32.06,0:01:34.84,CHN,,0,0,0,,简单来说  我们通过产生向上的推力
 Dialogue: 0,0:01:34.84,0:01:38.77,ENG,,0,0,0,,to cancel some of the the weight of the robot,
-Dialogue: 0,0:01:34.84,0:01:38.77,CHN,,0,0,0,,
+Dialogue: 0,0:01:34.84,0:01:38.77,CHN,,0,0,0,,来抵消机器人受到的部分重力
 Dialogue: 0,0:01:38.77,0:01:40.76,ENG,,0,0,0,,but that's really a secondary factor.
-Dialogue: 0,0:01:38.77,0:01:40.76,CHN,,0,0,0,,
+Dialogue: 0,0:01:38.77,0:01:40.76,CHN,,0,0,0,,但这是次要的
 Dialogue: 0,0:01:40.76,0:01:42.41,ENG,,0,0,0,,The most important thing is basically
-Dialogue: 0,0:01:40.76,0:01:42.41,CHN,,0,0,0,,
+Dialogue: 0,0:01:40.76,0:01:42.41,CHN,,0,0,0,,实际上  最重要的是
 Dialogue: 0,0:01:42.41,0:01:44.97,ENG,,0,0,0,,posture or orientation, stabilization.
-Dialogue: 0,0:01:42.41,0:01:44.97,CHN,,0,0,0,,
+Dialogue: 0,0:01:42.41,0:01:44.97,CHN,,0,0,0,,稳定的姿态和方向
 Dialogue: 0,0:01:44.97,0:01:47.72,ENG,,0,0,0,,(robot whirring)
-Dialogue: 0,0:01:44.97,0:01:47.72,CHN,,0,0,0,,
+Dialogue: 0,0:01:44.97,0:01:47.72,CHN,,0,0,0,,（机器人嗡嗡）
 Dialogue: 0,0:01:50.53,0:01:52.72,ENG,,0,0,0,,- [Derek] That is so cool to see.
-Dialogue: 0,0:01:50.53,0:01:52.72,CHN,,0,0,0,,
+Dialogue: 0,0:01:50.53,0:01:52.72,CHN,,0,0,0,,- [Derek] 真棒
 Dialogue: 0,0:01:52.72,0:01:55.35,ENG,,0,0,0,,- So the main facility for this lab
-Dialogue: 0,0:01:52.72,0:01:55.35,CHN,,0,0,0,,
+Dialogue: 0,0:01:52.72,0:01:55.35,CHN,,0,0,0,,- 这间实验室的主要设施
 Dialogue: 0,0:01:55.35,0:01:56.57,ENG,,0,0,0,,is this one.
-Dialogue: 0,0:01:55.35,0:01:56.57,CHN,,0,0,0,,
+Dialogue: 0,0:01:55.35,0:01:56.57,CHN,,0,0,0,,是这个
 Dialogue: 0,0:01:56.57,0:01:58.93,ENG,,0,0,0,,It's a gigantic fan array.
-Dialogue: 0,0:01:56.57,0:01:58.93,CHN,,0,0,0,,
+Dialogue: 0,0:01:56.57,0:01:58.93,CHN,,0,0,0,,这是个巨大的风扇阵列
 Dialogue: 0,0:01:58.93,0:02:00.32,ENG,,0,0,0,,- [Derek] I can see all the fans now.
-Dialogue: 0,0:01:58.93,0:02:00.32,CHN,,0,0,0,,
+Dialogue: 0,0:01:58.93,0:02:00.32,CHN,,0,0,0,,- [Derek] 我可以看到所有的风扇
 Dialogue: 0,0:02:00.32,0:02:02.13,ENG,,0,0,0,,- [Dr. Chung] Yeah, we have - you can start counting,
-Dialogue: 0,0:02:00.32,0:02:02.13,CHN,,0,0,0,,
+Dialogue: 0,0:02:00.32,0:02:02.13,CHN,,0,0,0,,- [Chung博士] 确实  你可以数数
 Dialogue: 0,0:02:02.13,0:02:05.26,ENG,,0,0,0,,but 1,296 computer fans.
-Dialogue: 0,0:02:02.13,0:02:05.26,CHN,,0,0,0,,
+Dialogue: 0,0:02:02.13,0:02:05.26,CHN,,0,0,0,,一共有1296个电脑风扇
 Dialogue: 0,0:02:05.26,0:02:07.11,ENG,,0,0,0,,Those are really literally computer fans.
-Dialogue: 0,0:02:05.26,0:02:07.11,CHN,,0,0,0,,
+Dialogue: 0,0:02:05.26,0:02:07.11,CHN,,0,0,0,,这些就是字面意思上的电脑风扇
 Dialogue: 0,0:02:07.11,0:02:09.34,ENG,,0,0,0,,- [Derek] How fast can it generate wind?
-Dialogue: 0,0:02:07.11,0:02:09.34,CHN,,0,0,0,,
+Dialogue: 0,0:02:07.11,0:02:09.34,CHN,,0,0,0,,- [Derek] 他们可以产生多大的风
 Dialogue: 0,0:02:09.34,0:02:12.60,ENG,,0,0,0,,- So up to 15 meters per second or 20 meters per second.
-Dialogue: 0,0:02:09.34,0:02:12.60,CHN,,0,0,0,,
-Dialogue: 0,0:02:12.60,0:02:13.43,ENG,,0,0,0,,- [Derek] It's like a wind tunnel
-Dialogue: 0,0:02:12.60,0:02:13.43,CHN,,0,0,0,,
-Dialogue: 0,0:02:13.43,0:02:14.65,ENG,,0,0,0,,without the need for a tunnel.
-Dialogue: 0,0:02:13.43,0:02:14.65,CHN,,0,0,0,,
+Dialogue: 0,0:02:09.34,0:02:12.60,CHN,,0,0,0,,- 最大风速15米/秒到20米/秒
+Dialogue: 0,0:02:12.60,0:02:14.65,ENG,,0,0,0,,- [Derek] It's like a wind tunnel\Nwithout the need for a tunnel.
+Dialogue: 0,0:02:12.60,0:02:14.65,CHN,,0,0,0,,- [Derek] 风 洞 没 有 洞 ？
 Dialogue: 0,0:02:14.65,0:02:15.48,ENG,,0,0,0,,- Yes.
-Dialogue: 0,0:02:14.65,0:02:15.48,CHN,,0,0,0,,
+Dialogue: 0,0:02:14.65,0:02:15.48,CHN,,0,0,0,,- 确实
 Dialogue: 0,0:02:15.48,0:02:17.53,ENG,,0,0,0,,- It might mess with our audio or with our microphones.
-Dialogue: 0,0:02:15.48,0:02:17.53,CHN,,0,0,0,,
+Dialogue: 0,0:02:15.48,0:02:17.53,CHN,,0,0,0,,- 它可能会把我们的音频搞得乱七八糟
 Dialogue: 0,0:02:17.53,0:02:19.10,ENG,,0,0,0,,Whoa.
-Dialogue: 0,0:02:17.53,0:02:19.10,CHN,,0,0,0,,
+Dialogue: 0,0:02:17.53,0:02:19.10,CHN,,0,0,0,,哇哦
 Dialogue: 0,0:02:19.10,0:02:20.55,ENG,,0,0,0,,- The idea of the smoke machines
-Dialogue: 0,0:02:19.10,0:02:20.55,CHN,,0,0,0,,
+Dialogue: 0,0:02:19.10,0:02:20.55,CHN,,0,0,0,,- 这些烟雾机的主要作用
 Dialogue: 0,0:02:20.55,0:02:22.97,ENG,,0,0,0,,is to actually visualize the flow,
-Dialogue: 0,0:02:20.55,0:02:22.97,CHN,,0,0,0,,
+Dialogue: 0,0:02:20.55,0:02:22.97,CHN,,0,0,0,,就是让我们能够看见气流
 Dialogue: 0,0:02:22.97,0:02:25.14,ENG,,0,0,0,,but also with all these additional sensors,
-Dialogue: 0,0:02:22.97,0:02:25.14,CHN,,0,0,0,,
+Dialogue: 0,0:02:22.97,0:02:25.14,CHN,,0,0,0,,并且加上这些额外的传感器
 Dialogue: 0,0:02:25.14,0:02:27.76,ENG,,0,0,0,,like infrared cameras or radar and LIDAR,
-Dialogue: 0,0:02:25.14,0:02:27.76,CHN,,0,0,0,,
+Dialogue: 0,0:02:25.14,0:02:27.76,CHN,,0,0,0,,比如红外摄像头和激光雷达
 Dialogue: 0,0:02:27.76,0:02:30.06,ENG,,0,0,0,,how we can actually figure out the kind of location
-Dialogue: 0,0:02:27.76,0:02:30.06,CHN,,0,0,0,,
+Dialogue: 0,0:02:27.76,0:02:30.06,CHN,,0,0,0,,让我们可以在这种有雾的情况下
 Dialogue: 0,0:02:30.06,0:02:32.68,ENG,,0,0,0,,or environment around your vehicle
-Dialogue: 0,0:02:30.06,0:02:32.68,CHN,,0,0,0,,
+Dialogue: 0,0:02:30.06,0:02:32.68,CHN,,0,0,0,,能够确定无人机的位置
 Dialogue: 0,0:02:32.68,0:02:36.00,ENG,,0,0,0,,in the presence of this fog.
-Dialogue: 0,0:02:32.68,0:02:36.00,CHN,,0,0,0,,
+Dialogue: 0,0:02:32.68,0:02:36.00,CHN,,0,0,0,,或确定周围的环境
 Dialogue: 0,0:02:36.00,0:02:38.84,ENG,,0,0,0,,- [Derek] I wanted to feel their power for myself.
-Dialogue: 0,0:02:36.00,0:02:38.84,CHN,,0,0,0,,
+Dialogue: 0,0:02:36.00,0:02:38.84,CHN,,0,0,0,,- [Derek] 我想感受一下这散热器阵列的力量
 Dialogue: 0,0:02:38.84,0:02:40.12,ENG,,0,0,0,,- [Man] All right, you ready?
-Dialogue: 0,0:02:38.84,0:02:40.12,CHN,,0,0,0,,
+Dialogue: 0,0:02:38.84,0:02:40.12,CHN,,0,0,0,,- [那个男人] 好的  你准备好了么
 Dialogue: 0,0:02:40.12,0:02:43.13,ENG,,0,0,0,,- [Derek] Yeah, let's do it.
-Dialogue: 0,0:02:40.12,0:02:43.13,CHN,,0,0,0,,
+Dialogue: 0,0:02:40.12,0:02:43.13,CHN,,0,0,0,,- [Derek] 来吧
 Dialogue: 0,0:02:43.13,0:02:46.63,ENG,,0,0,0,,(machine whirring loudly)
-Dialogue: 0,0:02:43.13,0:02:46.63,CHN,,0,0,0,,
+Dialogue: 0,0:02:43.13,0:02:46.63,CHN,,0,0,0,,（机器巨大的嗡嗡声）
 Dialogue: 0,0:02:53.28,0:02:54.92,ENG,,0,0,0,,Yeah!
-Dialogue: 0,0:02:53.28,0:02:54.92,CHN,,0,0,0,,
+Dialogue: 0,0:02:53.28,0:02:54.92,CHN,,0,0,0,,耶
 Dialogue: 0,0:02:54.92,0:02:56.52,ENG,,0,0,0,,That was so cool.
-Dialogue: 0,0:02:54.92,0:02:56.52,CHN,,0,0,0,,
+Dialogue: 0,0:02:54.92,0:02:56.52,CHN,,0,0,0,,这东西太炫酷了
 Dialogue: 0,0:02:56.52,0:02:58.17,ENG,,0,0,0,,I love it.
-Dialogue: 0,0:02:56.52,0:02:58.17,CHN,,0,0,0,,
+Dialogue: 0,0:02:56.52,0:02:58.17,CHN,,0,0,0,,我喜欢这个
 Dialogue: 0,0:02:58.17,0:03:00.42,ENG,,0,0,0,,They use this facility to test Leonardo
-Dialogue: 0,0:02:58.17,0:03:00.42,CHN,,0,0,0,,
+Dialogue: 0,0:02:58.17,0:03:00.42,CHN,,0,0,0,,他们用这东西来测试Leonardo
 Dialogue: 0,0:03:00.42,0:03:03.90,ENG,,0,0,0,,to see how stable he is even in different wind conditions.
-Dialogue: 0,0:03:00.42,0:03:03.90,CHN,,0,0,0,,
+Dialogue: 0,0:03:00.42,0:03:03.90,CHN,,0,0,0,,看看它在不同风速下的稳定性如何
 Dialogue: 0,0:03:05.54,0:03:09.37,ENG,,0,0,0,,(orchestral music)
-Dialogue: 0,0:03:05.54,0:03:09.37,CHN,,0,0,0,,
+Dialogue: 0,0:03:05.54,0:03:09.37,CHN,,0,0,0,,（管弦乐）
 Dialogue: 0,0:03:16.43,0:03:19.70,ENG,,0,0,0,,- And we showed that Leo is more robust than a drone
-Dialogue: 0,0:03:16.43,0:03:19.70,CHN,,0,0,0,,
+Dialogue: 0,0:03:16.43,0:03:19.70,CHN,,0,0,0,,- 我们证明了Leo比无人机更强壮
 Dialogue: 0,0:03:19.70,0:03:21.46,ENG,,0,0,0,,because a drone gets blown away by the wind.
-Dialogue: 0,0:03:19.70,0:03:21.46,CHN,,0,0,0,,
+Dialogue: 0,0:03:19.70,0:03:21.46,CHN,,0,0,0,,因为无人机会被风吹走
 Dialogue: 0,0:03:21.46,0:03:24.45,ENG,,0,0,0,,But then Leo does not because of its ground contact.
-Dialogue: 0,0:03:21.46,0:03:24.45,CHN,,0,0,0,,
+Dialogue: 0,0:03:21.46,0:03:24.45,CHN,,0,0,0,,但Leo不会  因为它“触地”了
 Dialogue: 0,0:03:24.45,0:03:26.35,ENG,,0,0,0,,So for example, if you go hiking and there's like,
-Dialogue: 0,0:03:24.45,0:03:26.35,CHN,,0,0,0,,
+Dialogue: 0,0:03:24.45,0:03:26.35,CHN,,0,0,0,,举个栗子  比如你去远足
 Dialogue: 0,0:03:26.35,0:03:28.97,ENG,,0,0,0,,suddenly a lot of wind, you're not gonna fall
-Dialogue: 0,0:03:26.35,0:03:28.97,CHN,,0,0,0,,
+Dialogue: 0,0:03:26.35,0:03:28.97,CHN,,0,0,0,,然后突然一阵大风吹过  你并不会摔一跤
 Dialogue: 0,0:03:28.97,0:03:31.66,ENG,,0,0,0,,because you have the ground contact.
-Dialogue: 0,0:03:28.97,0:03:31.66,CHN,,0,0,0,,
+Dialogue: 0,0:03:28.97,0:03:31.66,CHN,,0,0,0,,因为你接触到了地面
 Dialogue: 0,0:03:31.66,0:03:33.86,ENG,,0,0,0,,But for a drone, it might be blown away.
-Dialogue: 0,0:03:31.66,0:03:33.86,CHN,,0,0,0,,
+Dialogue: 0,0:03:31.66,0:03:33.86,CHN,,0,0,0,,但如果是个无人机  它可能就被吹走了
 Dialogue: 0,0:03:33.86,0:03:37.69,ENG,,0,0,0,,(gentle soft orchestra music)
-Dialogue: 0,0:03:33.86,0:03:37.69,CHN,,0,0,0,,
+Dialogue: 0,0:03:33.86,0:03:37.69,CHN,,0,0,0,,（柔和的管弦乐）
 Dialogue: 0,0:03:48.46,0:03:50.31,ENG,,0,0,0,,(robot whirring)
-Dialogue: 0,0:03:48.46,0:03:50.31,CHN,,0,0,0,,
+Dialogue: 0,0:03:48.46,0:03:50.31,CHN,,0,0,0,,（机器人嗡嗡）
 Dialogue: 0,0:03:50.31,0:03:51.14,ENG,,0,0,0,,- [Man] Oh no.
-Dialogue: 0,0:03:50.31,0:03:51.14,CHN,,0,0,0,,
+Dialogue: 0,0:03:50.31,0:03:51.14,CHN,,0,0,0,,- [那个男人] 噢不
 Dialogue: 0,0:03:54.48,0:03:56.75,ENG,,0,0,0,,- So we actually took one of the whiteboards
 Dialogue: 0,0:03:54.48,0:03:56.75,CHN,,0,0,0,,
 Dialogue: 0,0:03:56.75,0:03:59.43,ENG,,0,0,0,,that we have at home and we put oil.
