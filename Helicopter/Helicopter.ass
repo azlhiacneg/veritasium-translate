@@ -176,79 +176,79 @@ Dialogue: 0,0:03:59.24,0:04:00.99,Chinese,,0,0,0,,这条斜线基本没有弯曲
 Dialogue: 0,0:04:02.92,0:04:05.54,English,,0,0,0,,So, the correct answer to the question is B.
 Dialogue: 0,0:04:02.92,0:04:05.54,Chinese,,0,0,0,,所以 正确答案是 B
 Dialogue: 0,0:04:09.01,0:04:09.97,English,,0,0,0,,You wanna pull it in?
-Dialogue: 0,0:04:09.01,0:04:09.97,Chinese,,0,0,0,,
+Dialogue: 0,0:04:09.01,0:04:09.97,Chinese,,0,0,0,,你要把它收回来么？
 Dialogue: 0,0:04:09.97,0:04:11.14,English,,0,0,0,,- Up it comes.
-Dialogue: 0,0:04:09.97,0:04:11.14,Chinese,,0,0,0,,
+Dialogue: 0,0:04:09.97,0:04:11.14,Chinese,,0,0,0,,在收了
 Dialogue: 0,0:04:12.35,0:04:14.48,English,,0,0,0,,- [Derek] We're going to try a few more experiments,
-Dialogue: 0,0:04:12.35,0:04:14.48,Chinese,,0,0,0,,
+Dialogue: 0,0:04:12.35,0:04:14.48,Chinese,,0,0,0,,我们准备多尝试几个实验
 Dialogue: 0,0:04:14.48,0:04:17.75,English,,0,0,0,,adding a weight to the end of the rope and then a parachute.
-Dialogue: 0,0:04:14.48,0:04:17.75,Chinese,,0,0,0,,
+Dialogue: 0,0:04:14.48,0:04:17.75,Chinese,,0,0,0,,比如在绳子末端加点配重或者降落伞什么的
 Dialogue: 0,0:04:17.75,0:04:21.77,English,,0,0,0,,But first I want to discuss why the answer is B.
-Dialogue: 0,0:04:17.75,0:04:21.77,Chinese,,0,0,0,,
+Dialogue: 0,0:04:17.75,0:04:21.77,Chinese,,0,0,0,,但首先我想先解释一下为什么答案是B
 Dialogue: 0,0:04:21.77,0:04:24.75,English,,0,0,0,,There are two external forces acting on the rope,
-Dialogue: 0,0:04:21.77,0:04:24.75,Chinese,,0,0,0,,
+Dialogue: 0,0:04:21.77,0:04:24.75,Chinese,,0,0,0,,绳子受到2个外力
 Dialogue: 0,0:04:24.75,0:04:28.68,English,,0,0,0,,gravity pulling it down and air resistance to the left.
-Dialogue: 0,0:04:24.75,0:04:28.68,Chinese,,0,0,0,,
+Dialogue: 0,0:04:24.75,0:04:28.68,Chinese,,0,0,0,,分别是向下的重力和向左的空气阻力
 Dialogue: 0,0:04:28.68,0:04:32.97,English,,0,0,0,,When flying along at constant speed, these forces must be perfectly balanced
-Dialogue: 0,0:04:28.68,0:04:32.97,Chinese,,0,0,0,,
+Dialogue: 0,0:04:28.68,0:04:32.97,Chinese,,0,0,0,,当飞机匀速飞行时  绳子所受的拉力
 Dialogue: 0,0:04:32.97,0:04:35.06,English,,0,0,0,,by the tension in the rope.
-Dialogue: 0,0:04:32.97,0:04:35.06,Chinese,,0,0,0,,
+Dialogue: 0,0:04:32.97,0:04:35.06,Chinese,,0,0,0,,会和这些力保持受力平衡
 Dialogue: 0,0:04:35.06,0:04:37.40,English,,0,0,0,,Now, when I set out to do this experiment,
-Dialogue: 0,0:04:35.06,0:04:37.40,Chinese,,0,0,0,,
+Dialogue: 0,0:04:35.06,0:04:37.40,Chinese,,0,0,0,,刚开始的时候
 Dialogue: 0,0:04:37.40,0:04:41.96,English,,0,0,0,,I wondered if the rope would be affected by the air pushed down by the helicopters rotor,
-Dialogue: 0,0:04:37.40,0:04:41.96,Chinese,,0,0,0,,
+Dialogue: 0,0:04:37.40,0:04:41.96,Chinese,,0,0,0,,我很好奇绳子会不会受到旋翼产生的向下气流影响
 Dialogue: 0,0:04:41.96,0:04:43.84,English,,0,0,0,,but judging by our results.
-Dialogue: 0,0:04:41.96,0:04:43.84,Chinese,,0,0,0,,
+Dialogue: 0,0:04:41.96,0:04:43.84,Chinese,,0,0,0,,但是从实验结果来看
 Dialogue: 0,0:04:43.84,0:04:45.35,English,,0,0,0,,This was not the case.
-Dialogue: 0,0:04:43.84,0:04:45.35,Chinese,,0,0,0,,
+Dialogue: 0,0:04:43.84,0:04:45.35,Chinese,,0,0,0,,完全没影响
 Dialogue: 0,0:04:45.35,0:04:49.47,English,,0,0,0,,- The rotor wash doesn't extend down below the helicopter,
-Dialogue: 0,0:04:45.35,0:04:49.47,Chinese,,0,0,0,,
+Dialogue: 0,0:04:45.35,0:04:49.47,Chinese,,0,0,0,,机翼产生的洗流不会延伸到直升机的下方
 Dialogue: 0,0:04:49.47,0:04:53.70,English,,0,0,0,,all that far. It dissipates pretty quickly.
-Dialogue: 0,0:04:49.47,0:04:53.70,Chinese,,0,0,0,,
+Dialogue: 0,0:04:49.47,0:04:53.70,Chinese,,0,0,0,,它衰减得非常快
 Dialogue: 0,0:04:53.70,0:05:00.10,English,,0,0,0,,- So, you can consider the air resistance on the rope as entirely due to its motion through still air.
-Dialogue: 0,0:04:53.70,0:05:00.10,Chinese,,0,0,0,,
+Dialogue: 0,0:04:53.70,0:05:00.10,Chinese,,0,0,0,,因此  你可以认为绳子受到的空气阻力完全是由于它在静止的空气中运动
 Dialogue: 0,0:05:00.10,0:05:03.81,English,,0,0,0,,Imagine dividing the rope up into many short sections.
-Dialogue: 0,0:05:00.10,0:05:03.81,Chinese,,0,0,0,,
+Dialogue: 0,0:05:00.10,0:05:03.81,Chinese,,0,0,0,,想象一下  将绳子分成很多小段
 Dialogue: 0,0:05:03.81,0:05:09.11,English,,0,0,0,,Each section has the same weight and experiences the same amount of air resistance
-Dialogue: 0,0:05:03.81,0:05:09.11,Chinese,,0,0,0,,
+Dialogue: 0,0:05:03.81,0:05:09.11,Chinese,,0,0,0,,每一段的质量与其受到的空气阻力都相同
 Dialogue: 0,0:05:09.11,0:05:10.98,English,,0,0,0,,because it has the same cross-sectional area.
-Dialogue: 0,0:05:09.11,0:05:10.98,Chinese,,0,0,0,,
+Dialogue: 0,0:05:09.11,0:05:10.98,Chinese,,0,0,0,,因为他们有着相同的截面积
 Dialogue: 0,0:05:10.98,0:05:13.23,English,,0,0,0,,And it's moving at the same speed.
-Dialogue: 0,0:05:10.98,0:05:13.23,Chinese,,0,0,0,,
+Dialogue: 0,0:05:10.98,0:05:13.23,Chinese,,0,0,0,,并且运动速度一致
 Dialogue: 0,0:05:13.23,0:05:15.64,English,,0,0,0,,Now, the tension in any section of the rope
-Dialogue: 0,0:05:13.23,0:05:15.64,Chinese,,0,0,0,,
+Dialogue: 0,0:05:13.23,0:05:15.64,Chinese,,0,0,0,,每一段绳子受到的拉力
 Dialogue: 0,0:05:15.64,0:05:18.32,English,,0,0,0,,must balance the sum of the air resistance
-Dialogue: 0,0:05:15.64,0:05:18.32,Chinese,,0,0,0,,
+Dialogue: 0,0:05:15.64,0:05:18.32,Chinese,,0,0,0,,必须平衡空气阻力
 Dialogue: 0,0:05:18.32,0:05:21.48,English,,0,0,0,,and weight of all the sections beneath it.
-Dialogue: 0,0:05:18.32,0:05:21.48,Chinese,,0,0,0,,
+Dialogue: 0,0:05:18.32,0:05:21.48,Chinese,,0,0,0,,以及下方所有绳子施加给它的拉力的合力
 Dialogue: 0,0:05:21.48,0:05:24.72,English,,0,0,0,,So, the tension is zero at the bottom of the rope,
-Dialogue: 0,0:05:21.48,0:05:24.72,Chinese,,0,0,0,,
+Dialogue: 0,0:05:21.48,0:05:24.72,Chinese,,0,0,0,,因此  绳子末端受到的合力为0
 Dialogue: 0,0:05:24.72,0:05:29.16,English,,0,0,0,,and it increases linearly up to a maximum at the top.
-Dialogue: 0,0:05:24.72,0:05:29.16,Chinese,,0,0,0,,
+Dialogue: 0,0:05:24.72,0:05:29.16,Chinese,,0,0,0,,并且以线性递增  在顶端达到最大值
 Dialogue: 0,0:05:29.16,0:05:33.09,English,,0,0,0,,You can see the tension is small at the bottom of the rope, and that's why it wiggles around
-Dialogue: 0,0:05:29.16,0:05:33.09,Chinese,,0,0,0,,
+Dialogue: 0,0:05:29.16,0:05:33.09,Chinese,,0,0,0,,由于绳子末端的拉力很小  因此它会产生摆动
 Dialogue: 0,0:05:33.09,0:05:35.36,English,,0,0,0,,while the top is much steadier.
-Dialogue: 0,0:05:33.09,0:05:35.36,Chinese,,0,0,0,,
+Dialogue: 0,0:05:33.09,0:05:35.36,Chinese,,0,0,0,,而顶部则更稳定
 Dialogue: 0,0:05:35.36,0:05:37.71,English,,0,0,0,,Now, although the magnitude of tension changes
-Dialogue: 0,0:05:35.36,0:05:37.71,Chinese,,0,0,0,,
+Dialogue: 0,0:05:35.36,0:05:37.71,Chinese,,0,0,0,,虽然整个绳子受到的拉力大小会发生变化
 Dialogue: 0,0:05:37.71,0:05:40.65,English,,0,0,0,,throughout the rope, it's direction doesn't.
-Dialogue: 0,0:05:37.71,0:05:40.65,Chinese,,0,0,0,,
+Dialogue: 0,0:05:37.71,0:05:40.65,Chinese,,0,0,0,,但是方向并没有变
 Dialogue: 0,0:05:40.65,0:05:43.38,English,,0,0,0,,And that's because the ratio of air resistance
-Dialogue: 0,0:05:40.65,0:05:43.38,Chinese,,0,0,0,,
+Dialogue: 0,0:05:40.65,0:05:43.38,Chinese,,0,0,0,,因为绳子每一点受到的空气阻力
 Dialogue: 0,0:05:43.38,0:05:47.68,English,,0,0,0,,to weight is the same at every point along the rope.
-Dialogue: 0,0:05:43.38,0:05:47.68,Chinese,,0,0,0,,
+Dialogue: 0,0:05:43.38,0:05:47.68,Chinese,,0,0,0,,和这一点受到重力的比值都相同
 Dialogue: 0,0:05:47.68,0:05:52.54,English,,0,0,0,,That is why a uniform flexible cable hangs in a straight diagonal line
-Dialogue: 0,0:05:47.68,0:05:52.54,Chinese,,0,0,0,,
+Dialogue: 0,0:05:47.68,0:05:52.54,Chinese,,0,0,0,,这就是为什么当直升机拖着柔性绳子做匀速运动时
 Dialogue: 0,0:05:52.54,0:05:56.06,English,,0,0,0,,when pulled at constant speed by a helicopter.
-Dialogue: 0,0:05:52.54,0:05:56.06,Chinese,,0,0,0,,
+Dialogue: 0,0:05:52.54,0:05:56.06,Chinese,,0,0,0,,绳子会“笔直”地挂在直升机上
 Dialogue: 0,0:05:56.06,0:05:57.86,English,,0,0,0,,If the helicopter flies faster,
-Dialogue: 0,0:05:56.06,0:05:57.86,Chinese,,0,0,0,,
+Dialogue: 0,0:05:56.06,0:05:57.86,Chinese,,0,0,0,,如果直升机运动得更快
 Dialogue: 0,0:05:57.86,0:06:02.66,English,,0,0,0,,the angle of the rope changes, but it still makes a diagonal straight line
-Dialogue: 0,0:05:57.86,0:06:02.66,Chinese,,0,0,0,,
+Dialogue: 0,0:05:57.86,0:06:02.66,Chinese,,0,0,0,,绳子悬挂的角度会变  但是仍然是一条斜直线
 Dialogue: 0,0:06:02.66,0:06:05.74,English,,0,0,0,,because the ratio of air resistance to weight
-Dialogue: 0,0:06:02.66,0:06:05.74,Chinese,,0,0,0,,
+Dialogue: 0,0:06:02.66,0:06:05.74,Chinese,,0,0,0,,因为在绳子上的每一点
 Dialogue: 0,0:06:05.74,0:06:09.24,English,,0,0,0,,is still constant along the entire length of the rope.
-Dialogue: 0,0:06:05.74,0:06:09.24,Chinese,,0,0,0,,
+Dialogue: 0,0:06:05.74,0:06:09.24,Chinese,,0,0,0,,空气阻力和重力的比例仍然相同
 Dialogue: 0,0:06:10.42,0:06:14.97,English,,0,0,0,,But this got me wondering, "What would happen if we added a weight
 Dialogue: 0,0:06:10.42,0:06:14.97,Chinese,,0,0,0,,
 Dialogue: 0,0:06:14.97,0:06:16.26,English,,0,0,0,,to the end of the rope?"
