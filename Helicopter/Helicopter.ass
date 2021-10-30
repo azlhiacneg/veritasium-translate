@@ -16,89 +16,80 @@ Style: CHN,MonyharOS Sans SC Medium,27.0,&H00FFFFFF,&H000000FF,&H00000000,&H0000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:06.26,English,,0,0,0,,In 2014, the qualifying exam for the US Physics Team had this as question 19:
-Dialogue: 0,0:00:00.00,0:00:06.26,Chinese,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:06.26,Chinese,,0,0,0,,2014年，美国物理竞赛队，资格考试的第19题是这个：
 Dialogue: 0,0:00:06.26,0:00:10.44,English,,0,0,0,,A helicopter is flying horizontally at constant speed.
-Dialogue: 0,0:00:06.26,0:00:10.44,Chinese,,0,0,0,,
+Dialogue: 0,0:00:06.26,0:00:10.44,Chinese,,0,0,0,,一架直升飞机正在匀速平飞
 Dialogue: 0,0:00:10.44,0:00:14.63,English,,0,0,0,,A perfectly flexible uniform cable is suspended beneath the helicopter.
-Dialogue: 0,0:00:10.44,0:00:14.63,Chinese,,0,0,0,,
+Dialogue: 0,0:00:10.44,0:00:14.63,Chinese,,0,0,0,,一条可以任意弯曲的均质缆绳悬挂在直升机下方
 Dialogue: 0,0:00:14.63,0:00:17.95,English,,0,0,0,,Air friction on the cable is not negligible.
-Dialogue: 0,0:00:14.63,0:00:17.95,Chinese,,0,0,0,,
+Dialogue: 0,0:00:14.63,0:00:17.95,Chinese,,0,0,0,,线缆所受的空气阻力不可忽略
 Dialogue: 0,0:00:17.95,0:00:21.31,English,,0,0,0,,So, which of the following diagrams best shows the shape of the cable
-Dialogue: 0,0:00:17.95,0:00:21.31,Chinese,,0,0,0,,
+Dialogue: 0,0:00:17.95,0:00:21.31,Chinese,,0,0,0,,当直升机在空中向右飞行时
 Dialogue: 0,0:00:21.31,0:00:24.36,English,,0,0,0,,as the helicopter flies through the air to the right?
-Dialogue: 0,0:00:21.31,0:00:24.36,Chinese,,0,0,0,,
+Dialogue: 0,0:00:21.31,0:00:24.36,Chinese,,0,0,0,,下面哪个图示最符合缆绳的形状
 Dialogue: 0,0:00:24.36,0:00:26.72,English,,0,0,0,,Is it A. hanging straight down.
-Dialogue: 0,0:00:24.36,0:00:26.72,Chinese,,0,0,0,,
+Dialogue: 0,0:00:24.36,0:00:26.72,Chinese,,0,0,0,,是选A——竖直向下？
 Dialogue: 0,0:00:26.72,0:00:29.48,English,,0,0,0,,B, hanging diagonally to the left?
-Dialogue: 0,0:00:26.72,0:00:29.48,Chinese,,0,0,0,,
+Dialogue: 0,0:00:26.72,0:00:29.48,Chinese,,0,0,0,,B——朝向左下的直线？
 Dialogue: 0,0:00:29.48,0:00:31.80,English,,0,0,0,,C, this hook shape.
-Dialogue: 0,0:00:29.48,0:00:31.80,Chinese,,0,0,0,,
+Dialogue: 0,0:00:29.48,0:00:31.80,Chinese,,0,0,0,,C——鱼钩状？
 Dialogue: 0,0:00:31.80,0:00:34.30,English,,0,0,0,,D, the inverted hook shape,
-Dialogue: 0,0:00:31.80,0:00:34.30,Chinese,,0,0,0,,
+Dialogue: 0,0:00:31.80,0:00:34.30,Chinese,,0,0,0,,D——翻转的鱼钩状？
 Dialogue: 0,0:00:34.30,0:00:37.64,English,,0,0,0,,or E, a kind of S bend.
-Dialogue: 0,0:00:34.30,0:00:37.64,Chinese,,0,0,0,,
-Dialogue: 0,0:00:37.64,0:00:39.56,English,,0,0,0,,Now , apparently there 's been a certain amount of controversy
-Dialogue: 0,0:00:37.64,0:00:39.56,Chinese,,0,0,0,,
+Dialogue: 0,0:00:34.30,0:00:37.64,Chinese,,0,0,0,,还是E选项——类似S形？
+Dialogue: 0,0:00:37.64,0:00:39.56,English,,0,0,0,,Now, apparently there 's been a certain amount of controversy
 Dialogue: 0,0:00:39.56,0:00:41.62,English,,0,0,0,,about the correct answer to this question.
-Dialogue: 0,0:00:39.56,0:00:41.62,Chinese,,0,0,0,,
+Dialogue: 0,0:00:37.64,0:00:41.62,Chinese,,0,0,0,,人们对这个问题的正确答案众说纷纭
 Dialogue: 0,0:00:41.62,0:00:44.62,English,,0,0,0,,So, today we're gonna go up in this helicopter,
-Dialogue: 0,0:00:41.62,0:00:44.62,Chinese,,0,0,0,,
+Dialogue: 0,0:00:41.62,0:00:44.62,Chinese,,0,0,0,,所以今天  我们要坐上直升机
 Dialogue: 0,0:00:44.62,0:00:47.68,English,,0,0,0,,and put this question to rest once and for all.
-Dialogue: 0,0:00:44.62,0:00:47.68,Chinese,,0,0,0,,
+Dialogue: 0,0:00:44.62,0:00:47.68,Chinese,,0,0,0,,来彻底终结这个问题
 Dialogue: 0,0:00:49.26,0:00:50.31,English,,0,0,0,,Let's go.
-Dialogue: 0,0:00:49.26,0:00:50.31,Chinese,,0,0,0,,
-Dialogue: 0,0:00:54.53,0:00:59.12,English,,0,0,0,,A portion of this video was sponsored by SimpliSafe, which allowed us to rent this helicopter.
-Dialogue: 0,0:00:54.53,0:00:59.12,Chinese,,0,0,0,,
-Dialogue: 0,0:00:59.12,0:01:01.16,English,,0,0,0,,More about them at the end of the show.
-Dialogue: 0,0:00:59.12,0:01:01.16,Chinese,,0,0,0,,
+Dialogue: 0,0:00:49.26,0:00:50.31,Chinese,,0,0,0,,走起
 Dialogue: 0,0:01:02.10,0:01:05.15,English,,0,0,0,,I've got several thousand hours of carrying sling loads,
-Dialogue: 0,0:01:02.10,0:01:05.15,Chinese,,0,0,0,,
+Dialogue: 0,0:01:02.10,0:01:05.15,Chinese,,0,0,0,,我吊运货物已有数千小时的经验
 Dialogue: 0,0:01:05.15,0:01:05.88,English,,0,0,0,,fire buckets,
-Dialogue: 0,0:01:05.15,0:01:05.88,Chinese,,0,0,0,,
-Dialogue: 0,0:01:05.88,0:01:10.13,English,,0,0,0,,concrete buckets , doing power line construction, actual power poles.
-Dialogue: 0,0:01:05.88,0:01:10.13,Chinese,,0,0,0,,
+Dialogue: 0,0:01:05.15,0:01:05.88,Chinese,,0,0,0,,消防水桶
+Dialogue: 0,0:01:05.88,0:01:10.13,English,,0,0,0,,concrete buckets, doing power line construction, actual power poles.
+Dialogue: 0,0:01:05.88,0:01:10.13,Chinese,,0,0,0,,混凝土桶  在电网建设时用来造电线杆
 Dialogue: 0,0:01:10.13,0:01:12.77,English,,0,0,0,,You name it, anything that needs to be moved around the mountains,
-Dialogue: 0,0:01:10.13,0:01:12.77,Chinese,,0,0,0,,
-Dialogue: 0,0:01:12.77,0:01:13.41,English,,0,0,0,, I 've done .
-Dialogue: 0,0:01:12.77,0:01:13.41,Chinese,,0,0,0,,
+Dialogue: 0,0:01:10.13,0:01:12.77,Chinese,,0,0,0,,你叫得上名字的、一切需要在山间运输的东西
+Dialogue: 0,0:01:12.77,0:01:13.41,English,,0,0,0,,I 've done.
+Dialogue: 0,0:01:12.77,0:01:13.41,Chinese,,0,0,0,,我都做过
 Dialogue: 0,0:01:13.41,0:01:18.20,English,,0,0,0,,Biggest concern that I have is that the rope's gonna interact with the rotor wash
-Dialogue: 0,0:01:13.41,0:01:18.20,Chinese,,0,0,0,,
+Dialogue: 0,0:01:13.41,0:01:18.20,Chinese,,0,0,0,,我最担心的是，绳子会与下洗流发生作用
 Dialogue: 0,0:01:18.20,0:01:21.57,English,,0,0,0,,as its interaction with the ambient air around the aircraft.
-Dialogue: 0,0:01:18.20,0:01:21.57,Chinese,,0,0,0,,
-Dialogue: 0,0:01:21.57,0:01:25.27,English,,0,0,0,,And we'll get a whipping action that falls down the rope
-Dialogue: 0,0:01:21.57,0:01:25.27,Chinese,,0,0,0,,
-Dialogue: 0,0:01:25.27,0:01:26.97,English,,0,0,0,,and flips around on the end.
-Dialogue: 0,0:01:25.27,0:01:26.97,Chinese,,0,0,0,,
-Dialogue: 0,0:01:26.97,0:01:30.07,English,,0,0,0,,To a point that we worry if it will have a tendency
-Dialogue: 0,0:01:26.97,0:01:30.07,Chinese,,0,0,0,,
+Dialogue: 0,0:01:18.20,0:01:21.57,Chinese,,0,0,0,,毕竟旋翼会影响飞机周围环境的空气
+Dialogue: 0,0:01:21.57,0:01:24.00,English,,0,0,0,,And we'll get a whipping action
+Dialogue: 0,0:01:21.57,0:01:24.00,Chinese,,0,0,0,,这可能会导致鞭鞘效应
+Dialogue: 0,0:01:24.00,0:01:26.97,English,,0,0,0,,that falls down the rope and flips around on the end
+Dialogue: 0,0:01:24.00,0:01:26.97,Chinese,,0,0,0,,沿缆绳一路向下传  把末端甩起来
+Dialogue: 0,0:01:26.97,0:01:30.07,English,,0,0,0,,to a point that we worry if it will have a tendency
 Dialogue: 0,0:01:30.07,0:01:32.44,English,,0,0,0,,to work its way back up towards the aircraft.
-Dialogue: 0,0:01:30.07,0:01:32.44,Chinese,,0,0,0,,
-Dialogue: 0,0:01:32.44,0:01:34.82,English,,0,0,0,,Obviously, we don't want it getting in the rotors
-Dialogue: 0,0:01:32.44,0:01:34.82,Chinese,,0,0,0,,
-Dialogue: 0,0:01:34.82,0:01:36.00,English,,0,0,0,,or the tail rotor.
-Dialogue: 0,0:01:34.82,0:01:36.00,Chinese,,0,0,0,,
+Dialogue: 0,0:01:26.97,0:01:32.44,Chinese,,0,0,0,,我们怕末端会甩得越来越高
+Dialogue: 0,0:01:32.44,0:01:36.00,English,,0,0,0,,Obviously, we don't want it getting in the rotors or the tail rotor.
+Dialogue: 0,0:01:32.44,0:01:36.00,Chinese,,0,0,0,,我们当然不希望它缠上旋翼或尾翼
 Dialogue: 0,0:01:38.54,0:01:40.15,English,,0,0,0,,- [Derek] Alright, we're all set.
-Dialogue: 0,0:01:38.54,0:01:40.15,Chinese,,0,0,0,,
+Dialogue: 0,0:01:38.54,0:01:40.15,Chinese,,0,0,0,,准备好了
 Dialogue: 0,0:01:41.21,0:01:42.04,English,,0,0,0,,Movin' up.
-Dialogue: 0,0:01:41.21,0:01:42.04,Chinese,,0,0,0,,
+Dialogue: 0,0:01:41.21,0:01:42.04,Chinese,,0,0,0,,起飞
 Dialogue: 0,0:01:51.58,0:01:55.66,English,,0,0,0,,Here I'm deploying a battle rope, like you'd see at the gym.
-Dialogue: 0,0:01:51.58,0:01:55.66,Chinese,,0,0,0,,
+Dialogue: 0,0:01:51.58,0:01:55.66,Chinese,,0,0,0,,我搞了条你会健身房里见到的那种战斗绳
 Dialogue: 0,0:01:55.66,0:01:58.18,English,,0,0,0,,This one is about 15 meters long
-Dialogue: 0,0:01:55.66,0:01:58.18,Chinese,,0,0,0,,
-Dialogue: 0,0:01:58.18,0:01:59.95,English,,0,0,0,,and it weighs 20 kilograms .
-Dialogue: 0,0:01:58.18,0:01:59.95,Chinese,,0,0,0,,
+Dialogue: 0,0:01:55.66,0:01:58.18,Chinese,,0,0,0,,这条有15米长
+Dialogue: 0,0:01:58.18,0:01:59.95,English,,0,0,0,,and it weighs 20 kilograms.
+Dialogue: 0,0:01:58.18,0:01:59.95,Chinese,,0,0,0,,重量有20千克
 Dialogue: 0,0:01:59.95,0:02:01.49,English,,0,0,0,,- [Craig] See, the whipping action's begun.
-Dialogue: 0,0:01:59.95,0:02:01.49,Chinese,,0,0,0,,
+Dialogue: 0,0:01:59.95,0:02:01.49,Chinese,,0,0,0,,开始有鞭鞘效应了
 Dialogue: 0,0:02:01.49,0:02:03.07,English,,0,0,0,,- [Derek] I see it.
-Dialogue: 0,0:02:01.49,0:02:03.07,Chinese,,0,0,0,,
+Dialogue: 0,0:02:01.49,0:02:03.07,Chinese,,0,0,0,,看到了
 Dialogue: 0,0:02:04.23,0:02:06.22,English,,0,0,0,,So, if we go really slow, will we avoid that?
-Dialogue: 0,0:02:04.23,0:02:06.22,Chinese,,0,0,0,,
+Dialogue: 0,0:02:04.23,0:02:06.22,Chinese,,0,0,0,,我们试试走得非常慢  能不能避免这种现象
 Dialogue: 0,0:02:06.22,0:02:07.29,English,,0,0,0,,- We 'll see.
-Dialogue: 0,0:02:06.22,0:02:07.29,Chinese,,0,0,0,,
+Dialogue: 0,0:02:06.22,0:02:07.29,Chinese,,0,0,0,,看着吧
 Dialogue: 0,0:02:07.29,0:02:10.68,English,,0,0,0,,We'll see where the rotor wash stops interacting with the rope
-Dialogue: 0,0:02:07.29,0:02:10.68,Chinese,,0,0,0,,
 Dialogue: 0,0:02:10.68,0:02:11.97,English,,0,0,0,,and the ambient wind.
-Dialogue: 0,0:02:10.68,0:02:11.97,Chinese,,0,0,0,,
+Dialogue: 0,0:02:07.29,0:02:11.97,Chinese,,0,0,0,,看看下洗流何时会不再影响绳子和环境气流
 Dialogue: 0,0:02:14.13,0:02:18.99,English,,0,0,0,,Now the setup looks pretty simple, but few people agree on what the right answer should be.
 Dialogue: 0,0:02:14.13,0:02:18.99,Chinese,,0,0,0,,题目条件看似非常简单  但关于正确答案人们却莫衷一是
 Dialogue: 0,0:02:20.29,0:02:22.05,English,,0,0,0,,When I polled YouTube,
