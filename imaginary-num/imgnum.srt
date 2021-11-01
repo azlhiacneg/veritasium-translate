@@ -2,162 +2,185 @@
 00:00:00,000 --> 00:00:03,730
 - Mathematics began as a
 way to quantify our world,
-
+数学这一学科
 2
 00:00:03,730 --> 00:00:04,910
 to measure land,
-
+起源于对世界的量化
 3
 00:00:04,910 --> 00:00:08,480
 predict the motions of planets,
 and keep track of commerce.
-
+测量土地、预测行星运动、记录交易
 4
 00:00:08,480 --> 00:00:11,590
 Then came a problem considered impossible.
-
+后来，一个看似无解的问题出现了
 5
 00:00:11,590 --> 00:00:14,450
 The secret to solving
 it was to separate math
-
+而解决这个问题的关键
 6
 00:00:14,450 --> 00:00:18,220
 from the real world, to
 split algebra from geometry
-
+就是把真实世界和代数、几何分开
 7
 00:00:18,220 --> 00:00:20,840
 and to invent new numbers so fanciful
-
+然后整出一种奇妙的数
 8
 00:00:20,840 --> 00:00:23,020
 they are called imaginary.
-
+称为虚数
 9
 00:00:23,020 --> 00:00:26,750
 Ironically, 400 years later,
 these very numbers turn up
-
+讽刺的是，虚数在四百年后
 10
 00:00:26,750 --> 00:00:30,400
 in the heart of our best
 physical theory of the universe.
-
+成为了世界上最美妙的物理理论的核心
 11
 00:00:30,400 --> 00:00:33,940
 Only by abandoning math's
 connection to reality
-
+而物理世界的这一本质
 12
 00:00:33,940 --> 00:00:36,956
 could we discover reality's true nature.
-
+只有断开数学和现实联系才能发现
 13
 00:00:36,956 --> 00:00:38,720
 (light music)
-
+（嘤乐）
 14
 00:00:38,720 --> 00:00:41,290
 In 1494, Luca Pacioli
+在 1494，达芬奇的数学老师
 
 15
 00:00:41,290 --> 00:00:44,197
 who is Leonardo da Vinci's
 math teacher publishes
+卢卡·帕丘利发布了名为
 
 16
 00:00:44,197 --> 00:00:47,560
 "Summa de Arithmetica,"
 a comprehensive summary
+"Summa de Artihmetica" 的著作
 
 17
 00:00:47,560 --> 00:00:51,230
 of all mathematics known in
 Renaissance Italy at the time.
+总结了意大利文艺复兴时期的所有数学知识
 
 18
 00:00:51,230 --> 00:00:53,380
 In it, there's a section on the cubic,
+里面有一节记载三次方程相关的内容
 
 19
 00:00:53,380 --> 00:00:56,370
 any equation which today
 we would write as ax cubed
+也就是我们现如今写成
 
 20
 00:00:56,370 --> 00:01:00,200
 plus bx squared plus
 cx plus d equals zero.
+ax^3+bx^2+cx+d=0 形式的方程
 
 21
 00:01:00,200 --> 00:01:02,550
 People have been trying
 to find a general solution
+当时的人们
 
 22
 00:01:02,550 --> 00:01:05,630
 to the cubic for at least 4,000 years,
+已经找了 4000 年这种方程的通解
 
 23
 00:01:05,630 --> 00:01:08,100
 but each ancient civilization
 that encountered it,
+但是各个文明碰上它
 
 24
 00:01:08,100 --> 00:01:10,430
 the Babylonians, Greeks, Chinese,
+不论是巴比伦、希腊、华夏
 
 25
 00:01:10,430 --> 00:01:12,740
 Indians, Egyptians, and Persians,
+印度、希腊还是波斯文明
 
 26
 00:01:12,740 --> 00:01:15,380
 they all came up empty-handed.
+都对此束手无策
 
 27
 00:01:15,380 --> 00:01:17,990
 Pacioli's conclusion is that a solution
+帕丘利对此的总结是
 
 28
 00:01:17,990 --> 00:01:21,410
 to the cubic equation is impossible.
+三次方程没有通解
 
 29
 00:01:21,410 --> 00:01:23,370
 Now, this should be at
 least a little surprising,
+这种想法或许有些让人意外
 
 30
 00:01:23,370 --> 00:01:25,130
 since without the X cubed term,
+因为去掉三次项
 
 31
 00:01:25,130 --> 00:01:27,200
 the equation is simply a quadratic.
+这就只是个二次方程
 
 32
 00:01:27,200 --> 00:01:29,310
 And many ancient civilizations
+而许多古代文明
 
 33
 00:01:29,310 --> 00:01:32,620
 had solved quadratics
 thousands of years earlier.
+几千年前就会解二次方程了
 
 34
 00:01:32,620 --> 00:01:34,610
 Today, anyone who's passed eighth grade
+而在现如今
 
 35
 00:01:34,610 --> 00:01:36,260
 knows the general solution.
+一个初二的学生都知道通解是
 
 36
 00:01:36,260 --> 00:01:39,340
 It's minus b plus minus
 root b squared minus four ac
+(-b ± √(b^2-4ac))/2a
 
 37
 00:01:39,340 --> 00:01:41,170
@@ -167,32 +190,39 @@ all over two a.
 00:01:41,170 --> 00:01:44,250
 But most people just plug
 and chug into this formula
+但是许多人只是会套这个公式
 
 39
 00:01:44,250 --> 00:01:46,840
 completely oblivious to the geometry
+而完全忽略了古代数学家推导时
 
 40
 00:01:46,840 --> 00:01:50,320
 that ancient mathematicians
 used to derive it.
+背后运用的几何
 
 41
 00:01:50,320 --> 00:01:52,080
 You know, back in those days,
+因为在那时候
 
 42
 00:01:52,080 --> 00:01:54,810
 mathematics wasn't
 written down in equations.
+数学家不用式子
 
 43
 00:01:54,810 --> 00:01:58,220
 It was written with words and pictures.
+而是用文字和图像描述
 
 44
 00:01:58,220 --> 00:01:59,053
 Take, for example,
+例如 x^2+26x=27
 
 45
 00:01:59,053 --> 00:02:03,050
@@ -202,80 +232,98 @@ the equation x squared plus 26x equals 27.
 00:02:03,050 --> 00:02:06,480
 Ancient mathematicians would
 think of the x squared term
+古代的数学家
 
 47
 00:02:06,480 --> 00:02:10,980
 like a literal square
 with sides of length x.
+把 x^2 当作一个边长为 x 的正方形
 
 48
 00:02:10,980 --> 00:02:12,670
 And then 26x,
+而 26x 则是一个
 
 49
 00:02:12,670 --> 00:02:17,010
 well, that would be a rectangle
 with one side of length 26
+一边长为 26
 
 50
 00:02:17,010 --> 00:02:19,780
 and the other side of length x,
+另一边长为 x 的矩形
 
 51
 00:02:19,780 --> 00:02:24,430
 and these two areas together add to 27.
+这俩的面积和为 27
 
 52
 00:02:24,430 --> 00:02:26,880
 So how do we figure out what x is?
+那怎么求出 x 呢？
 
 53
 00:02:26,880 --> 00:02:31,880
 Well, we can take this 26x
 rectangle and cut it in half.
+我们把这个 26x 的矩形切成两半
 
 54
 00:02:33,290 --> 00:02:38,230
 So now I have two 13x rectangles
 and I can position them
+就得到了两个 13x 的矩形
 
 55
 00:02:38,230 --> 00:02:41,420
 so the new shape I create
 is almost a square,
+然后我把它摆成这样
 
 56
 00:02:41,420 --> 00:02:44,250
 It's just missing this section down here.
+就是少了一块的正方形
 
 57
 00:02:44,250 --> 00:02:46,160
 But I know the dimensions of this section.
+但是我知道少的这块的尺寸
 
 58
 00:02:46,160 --> 00:02:48,450
 It's just 13 by 13.
+是 13 x 13
 
 59
 00:02:48,450 --> 00:02:52,410
 So I can complete the square by adding in
+那我就可以给它补上这样一个
 
 60
 00:02:52,410 --> 00:02:55,970
 a 13 by 13 square.
+13 x 13 的正方形
 
 61
 00:02:55,970 --> 00:02:57,860
 Now, since I've added 13-squared
+那现在我在式子左边多了 13^2
 
 62
 00:02:57,860 --> 00:03:01,450
 or 169 to the left-hand
 side of the equation,
+也就是 169
 
 63
 00:03:01,450 --> 00:03:03,480
 I also have to add 169
+我要在式子右边也多 169
 
 64
 00:03:03,480 --> 00:03:05,980
@@ -284,28 +332,34 @@ to the right-hand side of the equation
 65
 00:03:05,980 --> 00:03:07,670
 to maintain the equality.
+才能保持两边相等
 
 66
 00:03:07,670 --> 00:03:09,640
 So now I have this larger square
+现在我的大正方形
 
 67
 00:03:09,640 --> 00:03:13,917
 with sides of length X plus
 13, and it is equal to 196.
+边长是 (13+x)，面积是 196
 
 68
 00:03:16,470 --> 00:03:19,700
 Now the square root of 196 is 14.
+196 开方得 14
 
 69
 00:03:19,700 --> 00:03:23,330
 So I know that the sides of
 this square have length 14,
+所以我就知道这个正方形边长是 14
 
 70
 00:03:23,330 --> 00:03:26,820
 which means X is equal to one.
+也就意味着 X=1
 
 71
 00:03:26,820 --> 00:03:29,870
