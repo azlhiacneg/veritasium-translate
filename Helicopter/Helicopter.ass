@@ -359,78 +359,69 @@ Dialogue: 0,0:09:05.00,0:09:08.23,Chinese,,0,0,0,,使绳子的张力能与增加
 Dialogue: 0,0:09:11.16,0:09:14.12,English,,0,0,0,,- You're more than halfway. You got it.
 Dialogue: 0,0:09:11.16,0:09:14.12,Chinese,,0,0,0,,绳子已经上来一半了  你可以的
 Dialogue: 0,0:09:15.11,0:09:16.04,English,,0,0,0,,- [Derek] For the final test,
-Dialogue: 0,0:09:15.11,0:09:16.04,Chinese,,0,0,0,,
+Dialogue: 0,0:09:15.11,0:09:16.04,Chinese,,0,0,0,,- [Derek] 对于最后的测试
 Dialogue: 0,0:09:16.04,0:09:21.83,English,,0,0,0,,I wanted to add something to the bottom of the rope that added almost no weight, but significant air resistance.
-Dialogue: 0,0:09:16.04,0:09:21.83,Chinese,,0,0,0,,
+Dialogue: 0,0:09:16.04,0:09:21.83,Chinese,,0,0,0,,我想在绳子的底部加上一个几乎没有什么重量，但对空气阻力很敏感的东西
 Dialogue: 0,0:09:21.83,0:09:25.40,English,,0,0,0,,So, I picked a Veritasium flag, of course.
-Dialogue: 0,0:09:21.83,0:09:25.40,Chinese,,0,0,0,,
+Dialogue: 0,0:09:21.83,0:09:25.40,Chinese,,0,0,0,,所以当然，我拿了一个真理元素的旗子
 Dialogue: 0,0:09:25.40,0:09:28.26,English,,0,0,0,,So, what do you think about hanging this at the end of the rope?
-Dialogue: 0,0:09:25.40,0:09:28.26,Chinese,,0,0,0,,
-Dialogue: 0,0:09:28.26,0:09:30.39,English,,0,0,0,,- Well, it's all science experiment for me
-Dialogue: 0,0:09:28.26,0:09:30.39,Chinese,,0,0,0,,
+Dialogue: 0,0:09:25.40,0:09:28.26,Chinese,,0,0,0,,所以，你觉得这条绳子的尾端会发生什么？
+Dialogue: 0,0:09:28.26,0:09:30.39,English,,0,0,0,,- Well, it's all science experiment for me.
 Dialogue: 0,0:09:30.39,0:09:33.65,English,,0,0,0,,'cause these are all the things you'd never do with a helicopter in a row.
-Dialogue: 0,0:09:30.39,0:09:33.65,Chinese,,0,0,0,,
+Dialogue: 0,0:09:28.26,0:09:33.65,Chinese,,0,0,0,,- 对于我来说这些都是些科学研究，因为你搞的这些试验都是在实际操作中不会做出来的
 Dialogue: 0,0:09:33.65,0:09:37.34,English,,0,0,0,,- What would it be the real risks, like tail rotor or this rotor, or both?
-Dialogue: 0,0:09:33.65,0:09:37.34,Chinese,,0,0,0,,
+Dialogue: 0,0:09:33.65,0:09:37.34,Chinese,,0,0,0,,- 做这些动作，真正的风险在哪里？是在尾部的马达还是这个马达还是都是？
 Dialogue: 0,0:09:37.34,0:09:38.26,English,,0,0,0,,- Either.
-Dialogue: 0,0:09:37.34,0:09:38.26,Chinese,,0,0,0,,
+Dialogue: 0,0:09:37.34,0:09:38.26,Chinese,,0,0,0,,- 都是。
 Dialogue: 0,0:09:38.26,0:09:40.85,English,,0,0,0,,Any kind of this getting into the inner tail rotor
-Dialogue: 0,0:09:38.26,0:09:40.85,Chinese,,0,0,0,,
 Dialogue: 0,0:09:40.85,0:09:43.38,English,,0,0,0,,would be destruction to the aircraft.
-Dialogue: 0,0:09:40.85,0:09:43.38,Chinese,,0,0,0,,
+Dialogue: 0,0:09:38.26,0:09:43.38,Chinese,,0,0,0,,任何这种东西如果跑到了尾部马达里面，那这飞机就无了
 Dialogue: 0,0:10:02.36,0:10:03.23,English,,0,0,0,,And we 'll start,
-Dialogue: 0,0:10:02.36,0:10:03.23,Chinese,,0,0,0,,
+Dialogue: 0,0:10:02.36,0:10:03.23,Chinese,,0,0,0,,我们开始吧
 Dialogue: 0,0:10:03.23,0:10:04.69,English,,0,0,0,, here we go .
-Dialogue: 0,0:10:03.23,0:10:04.69,Chinese,,0,0,0,,
+Dialogue: 0,0:10:03.23,0:10:04.69,Chinese,,0,0,0,,走
 Dialogue: 0,0:10:11.32,0:10:13.99,English,,0,0,0,,- [Derek] Now the rope still seems to be pretty straight.
-Dialogue: 0,0:10:11.32,0:10:13.99,Chinese,,0,0,0,,
+Dialogue: 0,0:10:11.32,0:10:13.99,Chinese,,0,0,0,,- [Derek] 现在这绳子看起来还是停止的诶
 Dialogue: 0,0:10:13.99,0:10:15.68,English,,0,0,0,,I think it's because the flag
-Dialogue: 0,0:10:13.99,0:10:15.68,Chinese,,0,0,0,,
 Dialogue: 0,0:10:15.68,0:10:17.92,English,,0,0,0,,isn't actually adding much drag.
-Dialogue: 0,0:10:15.68,0:10:17.92,Chinese,,0,0,0,,
+Dialogue: 0,0:10:13.99,0:10:17.92,Chinese,,0,0,0,,我想这是因为这旗子还不会（对绳子）增加很足够的拉力的原因
 Dialogue: 0,0:10:19.35,0:10:21.35,English,,0,0,0,,Still looks pretty crazy, interestingly.
-Dialogue: 0,0:10:19.35,0:10:21.35,Chinese,,0,0,0,,
+Dialogue: 0,0:10:19.35,0:10:21.35,Chinese,,0,0,0,,但有意思的是，这还是看起来挺疯狂的
 Dialogue: 0,0:10:22.35,0:10:26.63,English,,0,0,0,,So, we decided to add a small parachute to the end of the rope.
-Dialogue: 0,0:10:22.35,0:10:26.63,Chinese,,0,0,0,,
+Dialogue: 0,0:10:22.35,0:10:26.63,Chinese,,0,0,0,,所以，我们决定去在绳子的尾端加一个小得降落伞
 Dialogue: 0,0:10:26.63,0:10:28.61,English,,0,0,0,,All right, let's try it.
-Dialogue: 0,0:10:26.63,0:10:28.61,Chinese,,0,0,0,,
+Dialogue: 0,0:10:26.63,0:10:28.61,Chinese,,0,0,0,,好了，我们来试一下
 Dialogue: 0,0:10:28.61,0:10:30.46,English,,0,0,0,,The concern here was that the parachute
-Dialogue: 0,0:10:28.61,0:10:30.46,Chinese,,0,0,0,,
 Dialogue: 0,0:10:30.46,0:10:33.21,English,,0,0,0,,could get flipped up into the rotors during deployment.
-Dialogue: 0,0:10:30.46,0:10:33.21,Chinese,,0,0,0,,
+Dialogue: 0,0:10:28.61,0:10:33.21,Chinese,,0,0,0,,这样做的风险就是这个小降落伞有可能在部署的时候滑到马达里面
 Dialogue: 0,0:10:33.21,0:10:36.17,English,,0,0,0,,So, we bundled the shoot up into a backpack.
-Dialogue: 0,0:10:33.21,0:10:36.17,Chinese,,0,0,0,,
+Dialogue: 0,0:10:33.21,0:10:36.17,Chinese,,0,0,0,,所以，我们将这个伞打包了起来
 Dialogue: 0,0:10:38.03,0:10:41.38,English,,0,0,0,,- [Craig] Very nicely done.
-Dialogue: 0,0:10:38.03,0:10:41.38,Chinese,,0,0,0,,
+Dialogue: 0,0:10:38.03,0:10:41.38,Chinese,,0,0,0,,- [Craig] 做得很棒
 Dialogue: 0,0:10:41.38,0:10:43.07,English,,0,0,0,,- [Derek] Does it deploy more than that?
-Dialogue: 0,0:10:41.38,0:10:43.07,Chinese,,0,0,0,,
+Dialogue: 0,0:10:41.38,0:10:43.07,Chinese,,0,0,0,,- [Derek] 这样做有让拉力增加吗？
 Dialogue: 0,0:10:43.07,0:10:44.87,English,,0,0,0,,- [Craig] No, but once we start moving,
-Dialogue: 0,0:10:43.07,0:10:44.87,Chinese,,0,0,0,,
 Dialogue: 0,0:10:44.87,0:10:47.21,English,,0,0,0,,its gonna grab a lot of air.
-Dialogue: 0,0:10:44.87,0:10:47.21,Chinese,,0,0,0,,
+Dialogue: 0,0:10:43.07,0:10:47.21,Chinese,,0,0,0,,- [Craig] 没有，但是一旦我们开始移动，它就将抓住很多的空气
 Dialogue: 0,0:10:50.40,0:10:52.61,English,,0,0,0,,- [Derek] Now, with the parachute at the end of the rope,
-Dialogue: 0,0:10:50.40,0:10:52.61,Chinese,,0,0,0,,
+Dialogue: 0,0:10:50.40,0:10:52.61,Chinese,,0,0,0,,- [Derek] 现在，我们在绳子尾部加了个降落伞之后
 Dialogue: 0,0:10:52.61,0:10:55.89,English,,0,0,0,,it makes a J shape, which is answer C.
-Dialogue: 0,0:10:52.61,0:10:55.89,Chinese,,0,0,0,,
+Dialogue: 0,0:10:52.61,0:10:55.89,Chinese,,0,0,0,,绳子就变成了J形，也就是答案C的形状
 Dialogue: 0,0:10:56.94,0:10:59.53,English,,0,0,0,,With extra air resistance at the end of the rope,
-Dialogue: 0,0:10:56.94,0:10:59.53,Chinese,,0,0,0,,
+Dialogue: 0,0:10:56.94,0:10:59.53,Chinese,,0,0,0,,随着更多的空气阻力加在绳子的尾端
 Dialogue: 0,0:10:59.53,0:11:03.62,English,,0,0,0,,but not much weight, the tension has to be virtually horizontal.
-Dialogue: 0,0:10:59.53,0:11:03.62,Chinese,,0,0,0,,
+Dialogue: 0,0:10:59.53,0:11:03.62,Chinese,,0,0,0,,但（因为在这个点）重力并不是很大 ，（绳子的）张力方向就需要相当接近水平方向
 Dialogue: 0,0:11:03.62,0:11:05.82,English,,0,0,0,,And then as you go up the rope,
-Dialogue: 0,0:11:03.62,0:11:05.82,Chinese,,0,0,0,,
 Dialogue: 0,0:11:05.82,0:11:08.51,English,,0,0,0,,the ratio of total air resistance to weight
-Dialogue: 0,0:11:05.82,0:11:08.51,Chinese,,0,0,0,,
 Dialogue: 0,0:11:08.51,0:11:10.76,English,,0,0,0,,for everything beneath decreases.
-Dialogue: 0,0:11:08.51,0:11:10.76,Chinese,,0,0,0,,
+Dialogue: 0,0:11:03.62,0:11:10.76,Chinese,,0,0,0,,然后随着你沿着绳子往上走，空气总阻力与飞机下面东西的重力的比值将会下降
 Dialogue: 0,0:11:10.76,0:11:12.89,English,,0,0,0,,So, the rope becomes more vertical
-Dialogue: 0,0:11:10.76,0:11:12.89,Chinese,,0,0,0,,
 Dialogue: 0,0:11:12.89,0:11:15.86,English,,0,0,0,,to balance out the increasing weight.
-Dialogue: 0,0:11:12.89,0:11:15.86,Chinese,,0,0,0,,
+Dialogue: 0,0:11:10.76,0:11:15.86,Chinese,,0,0,0,,所以，绳子就需要变得更垂直来平衡那不断增大的重力
 Dialogue: 0,0:11:15.86,0:11:17.67,English,,0,0,0,,So, depending on what's on the end of the rope,
-Dialogue: 0,0:11:15.86,0:11:17.67,Chinese,,0,0,0,,
 Dialogue: 0,0:11:17.67,0:11:21.33,English,,0,0,0,,you could get answers B , C or D.
-Dialogue: 0,0:11:17.67,0:11:21.33,Chinese,,0,0,0,,
+Dialogue: 0,0:11:15.86,0:11:21.33,Chinese,,0,0,0,,所以根据在绳子尾部有的东西，你可以得到答案的B、C或者D
 Dialogue: 0,0:11:21.55,0:11:26.42,English,,0,0,0,,Now, if you enjoyed this video, I bet you would also like my bullet block experiment series.
-Dialogue: 0,0:11:21.55,0:11:26.42,Chinese,,0,0,0,,
+Dialogue: 0,0:11:21.55,0:11:26.42,Chinese,,0,0,0,,现在，如果你喜欢这个视频，我猜你也会喜欢我的子弹块试验的系列
 Dialogue: 0,0:11:26.42,0:11:27.27,English,,0,0,0,,So, check it out.
-Dialogue: 0,0:11:26.42,0:11:27.27,Chinese,,0,0,0,,
+Dialogue: 0,0:11:26.42,0:11:27.27,Chinese,,0,0,0,,所以，来看看吧
