@@ -459,155 +459,152 @@ Dialogue: 0,0:10:32.27,0:10:34.59,Chinese,,0,0,0,,
 Dialogue: 0,0:10:34.59,0:10:36.84,English,,0,0,0,,for each new cubic he encounters,
 Dialogue: 0,0:10:34.59,0:10:36.84,Chinese,,0,0,0,,
 Dialogue: 0,0:10:36.84,0:10:39.88,English,,0,0,0,,Tartaglia summarizes his method in an algorithm,
-Dialogue: 0,0:10:36.84,0:10:39.88,Chinese,,0,0,0,,
+Dialogue: 0,0:10:36.84,0:10:39.88,Chinese,,0,0,0,,塔尔塔利亚把他的方法总结成了一种算法
 Dialogue: 0,0:10:39.88,0:10:41.68,English,,0,0,0,,a set of instructions.
-Dialogue: 0,0:10:39.88,0:10:41.68,Chinese,,0,0,0,,
+Dialogue: 0,0:10:39.88,0:10:41.68,Chinese,,0,0,0,,即一系列计算步骤
 Dialogue: 0,0:10:41.68,0:10:44.35,English,,0,0,0,,He writes this down not as a set of equations
-Dialogue: 0,0:10:41.68,0:10:44.35,Chinese,,0,0,0,,
 Dialogue: 0,0:10:44.35,0:10:45.39,English,,0,0,0,,like we would today.
-Dialogue: 0,0:10:44.35,0:10:45.39,Chinese,,0,0,0,,
+Dialogue: 0,0:10:41.68,0:10:45.39,Chinese,,0,0,0,,他不像现代人那样  把算法写成若干公式
 Dialogue: 0,0:10:45.39,0:10:47.44,English,,0,0,0,,Modern algebraic notation wouldn't exist
 Dialogue: 0,0:10:47.44,0:10:48.93,English,,0,0,0,,for another hundred years,
-Dialogue: 0,0:10:45.39,0:10:48.93,Chinese,,0,0,0,,
-Dialogue: 0,0:10:48.93,0:10:50.91,English,,0,0,0,,but instead, as a poem.
-Dialogue: 0,0:10:48.93,0:10:50.91,Chinese,,0,0,0,,
+Dialogue: 0,0:10:45.39,0:10:48.93,Chinese,,0,0,0,,现代的代数符号还要等几百年才出现
 Dialogue: 0,0:10:50.15,0:10:53.60,Poem,,0,0,0,,{\an4\pos(68,350)\fad(333,0)\fn20}若三次项并其后的一次项\N等于某个自然数\N则以该数为差值  寻甲乙两数\N接着  按照惯例\N甲乙之积总是会等于\N一次项系数之少半  自再乘\N剩余的步骤就是\N甲乙开立方  得值相减\N即为汝方程之未知数\N\N\N在第二种情况中\N三次项独立放一边\N你可以走另一条路\N常数项可拆为甲乙两数之和\N而甲乙之积仍直接等于
 Dialogue: 0,0:10:50.15,0:10:53.60,Poem,,0,0,0,,{\an4\pos(660,350)\fad(333,0)\fn20}一次项系数之少半  自再乘\N接着  出于常识\N开立方除甲并开立方除乙\N得和乃汝之未知数\N\N\N至于第三类计算\N则与第二类联立\N你若细心斟酌\N可见两式之解正负相抵\N\N\N我找到的方法\N用起来可不慢\N在一千五百三十四年\N凭借无比坚实的基础\N于此环海之城
-Dialogue: 0,0:10:50.15,0:10:53.58,Chinese,,0,0,0,,
+Dialogue: 0,0:10:48.93,0:10:50.91,English,,0,0,0,,but instead, as a poem.
+Dialogue: 0,0:10:48.93,0:10:50.91,Chinese,,0,0,0,,他反而写了一首诗
 Dialogue: 0,0:10:52.36,0:10:55.83,English,,0,0,0,,Tartaglia's victory makes him something of a celebrity.
-Dialogue: 0,0:10:52.36,0:10:55.83,Chinese,,0,0,0,,
+Dialogue: 0,0:10:52.36,0:10:55.83,Chinese,,0,0,0,,塔尔塔利亚的成功让他名声大噪
 Dialogue: 0,0:10:55.83,0:10:57.76,English,,0,0,0,,Mathematicians are desperate to learn
-Dialogue: 0,0:10:55.83,0:10:57.76,Chinese,,0,0,0,,
 Dialogue: 0,0:10:57.76,0:11:00.03,English,,0,0,0,,how he solved the cubic, especially
-Dialogue: 0,0:10:57.76,0:11:00.03,Chinese,,0,0,0,,
+Dialogue: 0,0:10:55.83,0:11:00.03,Chinese,,0,0,0,,数学家都想知道他怎么解三次方程  尤其是
 Dialogue: 0,0:11:00.20,0:11:04.75,Chinese,,0,0,0,,{\pos(360,420)\fad(333,500)}吉罗拉莫·卡尔达诺
 Dialogue: 0,0:11:01.31,0:11:03.64,English,,0,0,0,,a polymath based in Milan.
-Dialogue: 0,0:11:01.31,0:11:03.64,Chinese,,0,0,0,,
+Dialogue: 0,0:11:01.31,0:11:03.64,Chinese,,0,0,0,,一位来自米兰的博学家
 Dialogue: 0,0:11:03.64,0:11:06.31,English,,0,0,0,,As you can guess, Tartaglia will have none of it.
-Dialogue: 0,0:11:03.64,0:11:06.31,Chinese,,0,0,0,,
+Dialogue: 0,0:11:03.64,0:11:06.31,Chinese,,0,0,0,,不出意外地  塔尔塔利亚守口如瓶
 Dialogue: 0,0:11:06.31,0:11:10.31,English,,0,0,0,,He refuses to reveal even a single question from the competition.
-Dialogue: 0,0:11:06.31,0:11:10.31,Chinese,,0,0,0,,
+Dialogue: 0,0:11:06.31,0:11:10.31,Chinese,,0,0,0,,他拒绝公开  对决中任何一个问题的解法
 Dialogue: 0,0:11:10.31,0:11:12.29,English,,0,0,0,,But Cardano is persistent.
-Dialogue: 0,0:11:10.31,0:11:12.29,Chinese,,0,0,0,,
+Dialogue: 0,0:11:10.31,0:11:12.29,Chinese,,0,0,0,,但是卡尔达诺穷追不舍
 Dialogue: 0,0:11:12.29,0:11:13.68,English,,0,0,0,,He writes a series of letters
-Dialogue: 0,0:11:12.29,0:11:13.69,Chinese,,0,0,0,,
+Dialogue: 0,0:11:12.29,0:11:13.69,Chinese,,0,0,0,,他写了很多封信
 Dialogue: 0,0:11:13.68,0:11:17.83,English,,0,0,0,,that alternate between flattery and aggressive attacks.
-Dialogue: 0,0:11:13.68,0:11:17.83,Chinese,,0,0,0,,
+Dialogue: 0,0:11:13.68,0:11:17.83,Chinese,,0,0,0,,一些是阿谀奉承  另一些又咄咄逼人
 Dialogue: 0,0:11:17.83,0:11:20.11,English,,0,0,0,,Eventually with the promise of an introduction
 Dialogue: 0,0:11:20.11,0:11:21.80,English,,0,0,0,,to his wealthy benefactor,
-Dialogue: 0,0:11:17.83,0:11:21.80,Chinese,,0,0,0,,
+Dialogue: 0,0:11:17.83,0:11:21.80,Chinese,,0,0,0,,最终，在许诺给把他介绍给自己的金主之后
 Dialogue: 0,0:11:21.80,0:11:25.49,English,,0,0,0,,Cardono manages to lure Tartaglia to Milan.
-Dialogue: 0,0:11:21.80,0:11:25.49,Chinese,,0,0,0,,
+Dialogue: 0,0:11:21.80,0:11:25.49,Chinese,,0,0,0,,卡尔达诺终于将塔尔塔利亚请到了米兰
 Dialogue: 0,0:11:25.49,0:11:28.09,English,,0,0,0,,And there on March 25, 1539
-Dialogue: 0,0:11:25.49,0:11:28.09,Chinese,,0,0,0,,
+Dialogue: 0,0:11:25.49,0:11:28.09,Chinese,,0,0,0,,1539年3月25日
 Dialogue: 0,0:11:28.09,0:11:30.30,English,,0,0,0,,Tartaglia reveals his method,
-Dialogue: 0,0:11:28.09,0:11:30.30,Chinese,,0,0,0,,
+Dialogue: 0,0:11:28.09,0:11:30.30,Chinese,,0,0,0,,塔尔塔利亚揭秘了他的算法
 Dialogue: 0,0:11:30.30,0:11:34.21,English,,0,0,0,,but only after forcing Cardono to swear a solemn oath
-Dialogue: 0,0:11:30.30,0:11:34.21,Chinese,,0,0,0,,
+Dialogue: 0,0:11:30.30,0:11:34.21,Chinese,,0,0,0,,前提是卡尔达诺郑重发誓
 Dialogue: 0,0:11:34.21,0:11:35.94,English,,0,0,0,,not to tell anyone the method,
-Dialogue: 0,0:11:34.21,0:11:35.94,Chinese,,0,0,0,,
+Dialogue: 0,0:11:34.21,0:11:35.94,Chinese,,0,0,0,,不把算法告诉其他人
 Dialogue: 0,0:11:35.94,0:11:37.14,English,,0,0,0,,not to publish it,
-Dialogue: 0,0:11:35.94,0:11:37.14,Chinese,,0,0,0,,
+Dialogue: 0,0:11:35.94,0:11:37.14,Chinese,,0,0,0,,不能公开发表
 Dialogue: 0,0:11:37.14,0:11:39.67,English,,0,0,0,,and to write it only in cipher.
-Dialogue: 0,0:11:37.14,0:11:39.67,Chinese,,0,0,0,,
+Dialogue: 0,0:11:37.14,0:11:39.67,Chinese,,0,0,0,,并且记录时必须写成密文
 Dialogue: 0,0:11:39.67,0:11:42.24,English,,0,0,0,,Quote, "So that after my death,
-Dialogue: 0,0:11:39.67,0:11:42.24,Chinese,,0,0,0,,
+Dialogue: 0,0:11:39.67,0:11:42.24,Chinese,,0,0,0,,按照他的说法：“我去世之后
 Dialogue: 0,0:11:42.24,0:11:45.30,English,,0,0,0,,no one shall be able to understand it."
-Dialogue: 0,0:11:42.24,0:11:45.30,Chinese,,0,0,0,,
+Dialogue: 0,0:11:42.24,0:11:45.30,Chinese,,0,0,0,,世人将再也无从得知这个算法”
 Dialogue: 0,0:11:45.30,0:11:46.92,English,,0,0,0,,Cardono is delighted
-Dialogue: 0,0:11:45.30,0:11:46.92,Chinese,,0,0,0,,
+Dialogue: 0,0:11:45.30,0:11:46.92,Chinese,,0,0,0,,卡尔达诺十分高兴
 Dialogue: 0,0:11:46.92,0:11:50.47,English,,0,0,0,,and immediately starts playing around with Tartaglia's algorithm.
-Dialogue: 0,0:11:46.92,0:11:50.47,Chinese,,0,0,0,,
+Dialogue: 0,0:11:46.92,0:11:50.47,Chinese,,0,0,0,,马上开始摆弄起塔尔塔利亚的算法来
 Dialogue: 0,0:11:50.47,0:11:52.74,English,,0,0,0,,But he has a loftier goal in mind,
-Dialogue: 0,0:11:50.47,0:11:52.74,Chinese,,0,0,0,,
+Dialogue: 0,0:11:50.47,0:11:52.74,Chinese,,0,0,0,,但他有更高远的理想
 Dialogue: 0,0:11:52.74,0:11:57.05,English,,0,0,0,,a solution to the full cubic equation, including the x squared term.
-Dialogue: 0,0:11:52.74,0:11:57.05,Chinese,,0,0,0,,
+Dialogue: 0,0:11:52.74,0:11:57.05,Chinese,,0,0,0,,也就是解出完整的、包含了二次项的三次方程
 Dialogue: 0,0:11:57.05,0:11:59.76,English,,0,0,0,,And amazingly, he discovers it.
-Dialogue: 0,0:11:57.05,0:11:59.76,Chinese,,0,0,0,,
+Dialogue: 0,0:11:57.05,0:11:59.76,Chinese,,0,0,0,,令人惊叹的是  他成功找到了
 Dialogue: 0,0:11:59.76,0:12:01.70,English,,0,0,0,,If you substitute for x,
-Dialogue: 0,0:11:59.76,0:12:01.70,Chinese,,0,0,0,,
+Dialogue: 0,0:11:59.76,0:12:01.70,Chinese,,0,0,0,,如果我们将x换成
 Dialogue: 0,0:12:01.70,0:12:04.06,English,,0,0,0,,x minus b over three a,
-Dialogue: 0,0:12:01.70,0:12:04.06,Chinese,,0,0,0,,
+Dialogue: 0,0:12:01.70,0:12:04.06,Chinese,,0,0,0,,x-b/3a
 Dialogue: 0,0:12:04.06,0:12:07.27,English,,0,0,0,,then all the X squared terms cancel out.
-Dialogue: 0,0:12:04.06,0:12:07.27,Chinese,,0,0,0,,
+Dialogue: 0,0:12:04.06,0:12:07.27,Chinese,,0,0,0,,就能够消掉所有关于x的二次项
 Dialogue: 0,0:12:07.27,0:12:10.20,English,,0,0,0,,This is the way to turn any general cubic equation
-Dialogue: 0,0:12:07.27,0:12:10.20,Chinese,,0,0,0,,
+Dialogue: 0,0:12:07.27,0:12:10.20,Chinese,,0,0,0,,这样就能将任意的三次方程
 Dialogue: 0,0:12:10.20,0:12:11.88,English,,0,0,0,,into a depressed cubic,
-Dialogue: 0,0:12:10.20,0:12:11.88,Chinese,,0,0,0,,
+Dialogue: 0,0:12:10.20,0:12:11.88,Chinese,,0,0,0,,转化为弱三次方程
 Dialogue: 0,0:12:11.88,0:12:15.00,English,,0,0,0,,which can then be solved by Tartaglia's formula.
-Dialogue: 0,0:12:11.88,0:12:15.00,Chinese,,0,0,0,,
+Dialogue: 0,0:12:11.88,0:12:15.00,Chinese,,0,0,0,,接着就能用塔尔塔利亚的公式求解了
 Dialogue: 0,0:12:15.00,0:12:17.57,English,,0,0,0,,Cardano is so excited to have solved the problem
-Dialogue: 0,0:12:15.00,0:12:17.57,Chinese,,0,0,0,,
+Dialogue: 0,0:12:15.00,0:12:17.57,Chinese,,0,0,0,,卡尔达诺解出方程后十分激动
 Dialogue: 0,0:12:17.57,0:12:20.39,English,,0,0,0,,that stumped the best mathematicians for thousands of years,
-Dialogue: 0,0:12:17.57,0:12:20.39,Chinese,,0,0,0,,
-Dialogue: 0,0:12:20.39,0:12:22.28,English,,0,0,0,,he wants to publish it.
-Dialogue: 0,0:12:20.39,0:12:22.28,Chinese,,0,0,0,,
-Dialogue: 0,0:12:22.28,0:12:23.21,English,,0,0,0,,Unlike his peers,
-Dialogue: 0,0:12:22.28,0:12:23.21,Chinese,,0,0,0,,
+Dialogue: 0,0:12:17.57,0:12:20.39,Chinese,,0,0,0,,毕竟这个问题已经困扰数学界好几千年了
+Dialogue: 0,0:12:20.39,0:12:22.12,English,,0,0,0,,he wants to publish it.
+Dialogue: 0,0:12:20.39,0:12:22.12,Chinese,,0,0,0,,他想把解法公之于众
+Dialogue: 0,0:12:22.12,0:12:23.21,English,,0,0,0,,Unlike his peers,
+Dialogue: 0,0:12:22.12,0:12:23.21,Chinese,,0,0,0,,他跟同行不一样
 Dialogue: 0,0:12:23.21,0:12:26.12,English,,0,0,0,,Cardano has no need to keep the solution a secret.
-Dialogue: 0,0:12:23.21,0:12:26.12,Chinese,,0,0,0,,
+Dialogue: 0,0:12:23.21,0:12:26.12,Chinese,,0,0,0,,卡尔达诺并不需要将解法保密
 Dialogue: 0,0:12:26.12,0:12:28.62,English,,0,0,0,,He makes his living not as a mathematician,
-Dialogue: 0,0:12:26.12,0:12:28.62,Chinese,,0,0,0,,
+Dialogue: 0,0:12:26.12,0:12:28.62,Chinese,,0,0,0,,他的主业并不是数学家
 Dialogue: 0,0:12:28.62,0:12:31.49,English,,0,0,0,,but as a physician and famous intellectual.
-Dialogue: 0,0:12:28.62,0:12:31.49,Chinese,,0,0,0,,
+Dialogue: 0,0:12:28.62,0:12:31.49,Chinese,,0,0,0,,而是一名医生  也是一位著名的知识分子
 Dialogue: 0,0:12:31.49,0:12:35.51,English,,0,0,0,,For him, the credit is more valuable than the secret.
-Dialogue: 0,0:12:31.49,0:12:35.51,Chinese,,0,0,0,,
+Dialogue: 0,0:12:31.49,0:12:35.51,Chinese,,0,0,0,,对他来说  名望可比保守秘密重要多了
 Dialogue: 0,0:12:35.51,0:12:39.10,English,,0,0,0,,The only problem is the oath he swore to Tartaglia
-Dialogue: 0,0:12:35.51,0:12:39.10,Chinese,,0,0,0,,
+Dialogue: 0,0:12:35.51,0:12:39.10,Chinese,,0,0,0,,唯一的问题在于  他对塔尔塔利亚发过誓
 Dialogue: 0,0:12:39.10,0:12:41.46,English,,0,0,0,,who won't let him break it.
-Dialogue: 0,0:12:39.10,0:12:41.46,Chinese,,0,0,0,,
+Dialogue: 0,0:12:39.10,0:12:41.46,Chinese,,0,0,0,,对方可不会善罢甘休
 Dialogue: 0,0:12:41.46,0:12:43.73,English,,0,0,0,,And you might think this would be the end of it.
-Dialogue: 0,0:12:41.46,0:12:43.73,Chinese,,0,0,0,,
+Dialogue: 0,0:12:41.46,0:12:43.73,Chinese,,0,0,0,,也许你以为这事儿就到此为止了
 Dialogue: 0,0:12:43.73,0:12:47.79,English,,0,0,0,,But in 1542, Cardano travels to Bologna
-Dialogue: 0,0:12:43.73,0:12:47.79,Chinese,,0,0,0,,
+Dialogue: 0,0:12:43.73,0:12:47.79,Chinese,,0,0,0,,但到了1542年  卡尔达诺来到了博洛尼亚
 Dialogue: 0,0:12:47.79,0:12:49.65,English,,0,0,0,,and there he visits a mathematician
-Dialogue: 0,0:12:47.79,0:12:49.65,Chinese,,0,0,0,,
-Dialogue: 0,0:12:49.65,0:12:51.78,English,,0,0,0,,who just happens to be the son-in-law
-Dialogue: 0,0:12:49.65,0:12:51.78,Chinese,,0,0,0,,
-Dialogue: 0,0:12:51.78,0:12:55.70,English,,0,0,0,,of one Scipione del Ferro, the man who on his deathbed,
-Dialogue: 0,0:12:51.78,0:12:55.70,Chinese,,0,0,0,,
+Dialogue: 0,0:12:47.79,0:12:49.65,Chinese,,0,0,0,,在这里  他拜访了一位数学家
+Dialogue: 0,0:12:49.65,0:12:53.84,English,,0,0,0,,who just happens to be the son-in-law of one Scipione del Ferro,
+Dialogue: 0,0:12:49.65,0:12:53.84,Chinese,,0,0,0,,正好是希皮奥内·德尔·费罗的女婿
+Dialogue: 0,0:12:53.84,0:12:55.70,English,,0,0,0,,the man who on his deathbed,
+Dialogue: 0,0:12:53.84,0:12:55.70,Chinese,,0,0,0,,德尔·费罗就是在临终前
 Dialogue: 0,0:12:55.70,0:12:59.37,English,,0,0,0,,gave the solution to the depressed cubic to Antonio Fior.
-Dialogue: 0,0:12:55.70,0:12:59.37,Chinese,,0,0,0,,
+Dialogue: 0,0:12:55.70,0:12:59.37,Chinese,,0,0,0,,把弱三次方程解法传给了安东尼奥·菲奥尔的人
 Dialogue: 0,0:12:59.37,0:13:02.75,English,,0,0,0,,Cardano finds the solution in del Ferro's old notebook,
-Dialogue: 0,0:12:59.37,0:13:02.75,Chinese,,0,0,0,,
+Dialogue: 0,0:12:59.37,0:13:02.75,Chinese,,0,0,0,,卡尔达诺在德尔·费罗的旧笔记本里发现了这解法
 Dialogue: 0,0:13:02.75,0:13:04.84,English,,0,0,0,,which is shared with him during the visit.
-Dialogue: 0,0:13:02.75,0:13:04.84,Chinese,,0,0,0,,
+Dialogue: 0,0:13:02.75,0:13:04.84,Chinese,,0,0,0,,旧笔记本是他做客时拿到的
 Dialogue: 0,0:13:04.84,0:13:08.02,English,,0,0,0,,This solution predates Tartaglia's by decades.
-Dialogue: 0,0:13:04.84,0:13:08.02,Chinese,,0,0,0,,
+Dialogue: 0,0:13:04.84,0:13:08.02,Chinese,,0,0,0,,这比塔尔塔利亚早了几十年
 Dialogue: 0,0:13:08.02,0:13:09.75,English,,0,0,0,,So now, as Cardano sees it,
-Dialogue: 0,0:13:08.02,0:13:09.75,Chinese,,0,0,0,,
+Dialogue: 0,0:13:08.02,0:13:09.75,Chinese,,0,0,0,,卡尔达诺发现之后
 Dialogue: 0,0:13:09.75,0:13:11.96,English,,0,0,0,,he can publish the full solution to the cubic
-Dialogue: 0,0:13:09.75,0:13:11.96,Chinese,,0,0,0,,
+Dialogue: 0,0:13:09.75,0:13:11.96,Chinese,,0,0,0,,就可以将三次方程的解法公开
 Dialogue: 0,0:13:11.96,0:13:15.50,English,,0,0,0,,without violating his oath to Tartaglia.
-Dialogue: 0,0:13:11.96,0:13:15.50,Chinese,,0,0,0,,
+Dialogue: 0,0:13:11.96,0:13:15.50,Chinese,,0,0,0,,同时还不违反他对塔尔塔利亚的宣誓
 Dialogue: 0,0:13:15.50,0:13:16.47,English,,0,0,0,,Three years later,
-Dialogue: 0,0:13:15.50,0:13:16.47,Chinese,,0,0,0,,
+Dialogue: 0,0:13:15.50,0:13:16.47,Chinese,,0,0,0,,三年后
 Dialogue: 0,0:13:16.47,0:13:19.43,English,,0,0,0,,Cardano publishes "Ars Magna," The Great Art,
-Dialogue: 0,0:13:16.47,0:13:19.43,Chinese,,0,0,0,,
+Dialogue: 0,0:13:16.47,0:13:19.43,Chinese,,0,0,0,,卡尔达诺出版了《大术》一书  意为“伟大的艺术”
 Dialogue: 0,0:13:19.43,0:13:21.89,English,,0,0,0,,an updated compendium of mathematics.
-Dialogue: 0,0:13:19.43,0:13:21.89,Chinese,,0,0,0,,
-Dialogue: 0,0:13:21.89,0:13:27.32,Chinese,,0,0,0,,{\pos(640,490)}写就凡五载  流芳愿千年
+Dialogue: 0,0:13:19.43,0:13:21.89,Chinese,,0,0,0,,一部先进的数学总纲
+Dialogue: 0,0:13:21.89,0:13:27.32,Chinese,,0,0,0,,{\pos(640,490)\fad(1000,0)}写就凡五载  流芳愿千年
 Dialogue: 0,0:13:25.96,0:13:28.83,English,,0,0,0,,Cardano writes a chapter with a unique geometric proof
-Dialogue: 0,0:13:25.96,0:13:28.83,Chinese,,0,0,0,,
+Dialogue: 0,0:13:25.96,0:13:28.83,Chinese,,0,0,0,,卡尔纳诺用了一章的篇幅列举了十三种三次方程
 Dialogue: 0,0:13:28.83,0:13:32.25,English,,0,0,0,,for each of the 13 arrangements of the cubic equation.
-Dialogue: 0,0:13:28.83,0:13:32.25,Chinese,,0,0,0,,
+Dialogue: 0,0:13:28.83,0:13:32.25,Chinese,,0,0,0,,并介绍了独特的几何解法
 Dialogue: 0,0:13:32.25,0:13:33.28,English,,0,0,0,,Although he acknowledges
-Dialogue: 0,0:13:32.25,0:13:33.28,Chinese,,0,0,0,,
+Dialogue: 0,0:13:32.25,0:13:33.28,Chinese,,0,0,0,,尽管他声明了
 Dialogue: 0,0:13:33.28,0:13:36.59,English,,0,0,0,,the contributions of Tartaglia, del Ferro and Fior,
-Dialogue: 0,0:13:33.28,0:13:36.59,Chinese,,0,0,0,,
+Dialogue: 0,0:13:33.28,0:13:36.59,Chinese,,0,0,0,,塔尔塔利亚、德尔·费罗和菲奥尔的贡献
 Dialogue: 0,0:13:36.59,0:13:39.95,English,,0,0,0,,Tartaglia is displeased, to say the least.
-Dialogue: 0,0:13:36.59,0:13:39.95,Chinese,,0,0,0,,
+Dialogue: 0,0:13:36.59,0:13:39.95,Chinese,,0,0,0,,塔尔塔利亚依然十分不爽
 Dialogue: 0,0:13:39.95,0:13:41.83,English,,0,0,0,,He writes insulting letters to Cardano,
-Dialogue: 0,0:13:39.95,0:13:41.83,Chinese,,0,0,0,,
-Dialogue: 0,0:13:40.50,0:13:45.50,Chinese,,0,0,0,,{\an4\pos(60,360)}无耻  无权无势的男人\N愚蠢至极的男人\N数学研究的门外汉
+Dialogue: 0,0:13:39.95,0:13:41.83,Chinese,,0,0,0,,他写了封言辞激烈的信给卡尔达诺
+Dialogue: 0,0:13:40.50,0:13:45.50,Chinese,,0,0,0,,{\an4\pos(60,360)}卑鄙  无权无势的男人\N愚蠢至极的人\N对数学一无所知
 Dialogue: 0,0:13:41.83,0:13:45.25,English,,0,0,0,,and CC's a good fraction of the mathematics community.
-Dialogue: 0,0:13:41.83,0:13:45.25,Chinese,,0,0,0,,
+Dialogue: 0,0:13:41.83,0:13:45.25,Chinese,,0,0,0,,并抄送给了数学界的好一部分人
 Dialogue: 0,0:13:45.25,0:13:46.32,English,,0,0,0,,And he has a point.
-Dialogue: 0,0:13:45.25,0:13:46.32,Chinese,,0,0,0,,
+Dialogue: 0,0:13:45.25,0:13:46.32,Chinese,,0,0,0,,他说的也有道理
 Dialogue: 0,0:13:46.32,0:13:48.59,English,,0,0,0,,To this day, the general solution to the cubic
-Dialogue: 0,0:13:46.32,0:13:48.59,Chinese,,0,0,0,,
+Dialogue: 0,0:13:46.32,0:13:48.59,Chinese,,0,0,0,,直到今日，三次方程的解法
 Dialogue: 0,0:13:48.59,0:13:51.78,English,,0,0,0,,is often called Cardano's method.
-Dialogue: 0,0:13:48.59,0:13:51.78,Chinese,,0,0,0,,
+Dialogue: 0,0:13:48.59,0:13:51.78,Chinese,,0,0,0,,仍被称作“卡尔达诺公式”（卡当公式）
 Dialogue: 0,0:13:51.78,0:13:54.90,English,,0,0,0,,But "Ars Magna" is a phenomenal achievement.
 Dialogue: 0,0:13:51.78,0:13:54.90,Chinese,,0,0,0,,
 Dialogue: 0,0:13:54.90,0:13:59.54,English,,0,0,0,,It pushes geometrical reasoning to its very breaking point.
