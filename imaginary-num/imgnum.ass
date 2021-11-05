@@ -284,180 +284,181 @@ Dialogue: 0,0:06:19.68,0:06:22.12,Chinese,,0,0,0,,他吹嘘自己的数学能力
 Dialogue: 0,0:06:22.12,0:06:26.19,English,,0,0,0,,and specifically, his ability to solve the depressed cubic.
 Dialogue: 0,0:06:22.12,0:06:26.19,Chinese,,0,0,0,,并且他大吹特吹  自己能解弱三次方程
 Dialogue: 0,0:06:26.19,0:06:28.48,English,,0,0,0,,On February 12, 1535,
-Dialogue: 0,0:06:26.19,0:06:28.48,Chinese,,0,0,0,,
-Dialogue: 0,0:06:28.48,0:06:30.33,English,,0,0,0,,Fior challenges mathematician
-Dialogue: 0,0:06:28.48,0:06:30.33,Chinese,,0,0,0,,
+Dialogue: 0,0:06:26.19,0:06:28.48,Chinese,,0,0,0,,1535年2月12日，
+Dialogue: 0,0:06:28.48,0:06:30.33,English,,0,0,0,,Fior challenges mathematician Niccolo Fontana Tartaglia
+Dialogue: 0,0:06:28.48,0:06:30.33,Chinese,,0,0,0,,菲奥尔向刚搬到自己家乡威尼斯的
 Dialogue: 0,0:06:30.70,0:06:34.50,Chinese,,0,0,0,,{\pos(445,523)\fad(333,500)}尼科洛·丰坦纳·塔尔塔利亚
 Dialogue: 0,0:06:32.36,0:06:36.11,English,,0,0,0,,who has recently moved to Fior's hometown of Venice.
-Dialogue: 0,0:06:32.36,0:06:36.11,Chinese,,0,0,0,,
+Dialogue: 0,0:06:32.36,0:06:36.11,Chinese,,0,0,0,,尼科洛·丰坦纳·塔尔塔利亚发出挑战
 Dialogue: 0,0:06:36.11,0:06:39.58,English,,0,0,0,,Niccolo Fontana is no stranger to adversity.
-Dialogue: 0,0:06:36.11,0:06:39.58,Chinese,,0,0,0,,
+Dialogue: 0,0:06:36.11,0:06:39.58,Chinese,,0,0,0,,尼科洛·丰坦纳可以说是一生历经磨难
 Dialogue: 0,0:06:39.58,0:06:42.87,English,,0,0,0,,As a kid, his face was cut open by a French soldier,
-Dialogue: 0,0:06:39.58,0:06:42.87,Chinese,,0,0,0,,
+Dialogue: 0,0:06:39.58,0:06:42.87,Chinese,,0,0,0,,小时候，他曾经被法国士兵用刀切开面部
 Dialogue: 0,0:06:42.87,0:06:44.77,English,,0,0,0,,leaving him with a stutter.
-Dialogue: 0,0:06:42.87,0:06:44.77,Chinese,,0,0,0,,
+Dialogue: 0,0:06:42.87,0:06:44.77,Chinese,,0,0,0,,使得他变成了口吃
 Dialogue: 0,0:06:44.77,0:06:46.69,English,,0,0,0,,That's why he's known as Tartaglia,
-Dialogue: 0,0:06:44.77,0:06:46.69,Chinese,,0,0,0,,
+Dialogue: 0,0:06:44.77,0:06:46.69,Chinese,,0,0,0,,这也是为什么他名字中有“塔尔塔利亚”
 Dialogue: 0,0:06:46.69,0:06:49.26,English,,0,0,0,,which means stutterer in Italian.
-Dialogue: 0,0:06:46.69,0:06:49.26,Chinese,,0,0,0,,
+Dialogue: 0,0:06:46.69,0:06:49.26,Chinese,,0,0,0,,因为那在意大利语意为口吃者
 Dialogue: 0,0:06:49.26,0:06:52.63,English,,0,0,0,,Growing up in poverty, Tartaglia is largely self-taught.
-Dialogue: 0,0:06:49.26,0:06:52.63,Chinese,,0,0,0,,
+Dialogue: 0,0:06:49.26,0:06:52.63,Chinese,,0,0,0,,塔尔塔利亚出身贫困，几乎靠自学
 Dialogue: 0,0:06:52.63,0:06:54.91,English,,0,0,0,,He claws his way up through Italian society
-Dialogue: 0,0:06:52.63,0:06:54.91,Chinese,,0,0,0,,
+Dialogue: 0,0:06:52.63,0:06:54.91,Chinese,,0,0,0,,他在意大利阶层中拼死拼活的前行
 Dialogue: 0,0:06:54.91,0:06:57.74,English,,0,0,0,,to become a respected mathematician.
-Dialogue: 0,0:06:54.91,0:06:57.74,Chinese,,0,0,0,,
+Dialogue: 0,0:06:54.91,0:06:57.74,Chinese,,0,0,0,,最终成为了一名备受尊敬的数学家
 Dialogue: 0,0:06:57.74,0:07:00.98,English,,0,0,0,,Now, all of that is at stake.
-Dialogue: 0,0:06:57.74,0:07:00.98,Chinese,,0,0,0,,
+Dialogue: 0,0:06:57.74,0:07:00.98,Chinese,,0,0,0,,然而此刻，这一切可能又会化为虚无
 Dialogue: 0,0:07:00.98,0:07:03.45,English,,0,0,0,,As is the custom, in the challenge Tartaglia gives
-Dialogue: 0,0:07:00.98,0:07:06.83,English,,0,0,0,,a very discernment of 30 problems to Fior.
-Dialogue: 0,0:07:03.45,0:07:06.83,Chinese,,0,0,0,,
+Dialogue: 0,0:07:00.98,0:07:03.45,Chinese,,0,0,0,,作为数学挑战的传统，
+Dialogue: 0,0:07:03.45,0:07:06.83,English,,0,0,0,,a very discernment of 30 problems to Fior.
+Dialogue: 0,0:07:03.45,0:07:06.83,Chinese,,0,0,0,,塔尔塔利亚给菲奥尔出30道难题
 Dialogue: 0,0:07:06.83,0:07:09.63,English,,0,0,0,,Fior gives 30 problems to Tartaglia,
-Dialogue: 0,0:07:06.83,0:07:09.63,Chinese,,0,0,0,,
+Dialogue: 0,0:07:06.83,0:07:09.63,Chinese,,0,0,0,,菲奥尔给塔尔塔利亚也出30道难题
 Dialogue: 0,0:07:09.63,0:07:12.09,English,,0,0,0,,all of which are depressed cubics.
-Dialogue: 0,0:07:09.63,0:07:12.09,Chinese,,0,0,0,,
+Dialogue: 0,0:07:09.63,0:07:12.09,Chinese,,0,0,0,,这次的题型全是弱三次方程
 Dialogue: 0,0:07:13.08,0:07:14.81,English,,0,0,0,,Each mathematician has 40 days
-Dialogue: 0,0:07:13.08,0:07:14.81,Chinese,,0,0,0,,
+Dialogue: 0,0:07:13.08,0:07:14.81,Chinese,,0,0,0,,他们每人有40天时间
 Dialogue: 0,0:07:14.81,0:07:17.36,English,,0,0,0,,to solve the 30 problems they've been given.
-Dialogue: 0,0:07:14.81,0:07:17.36,Chinese,,0,0,0,,
+Dialogue: 0,0:07:14.81,0:07:17.36,Chinese,,0,0,0,,去解各自拿到的30道题
 Dialogue: 0,0:07:17.36,0:07:21.25,English,,0,0,0,,Fior can't solve a single problem.
-Dialogue: 0,0:07:17.36,0:07:21.25,Chinese,,0,0,0,,
+Dialogue: 0,0:07:17.36,0:07:21.25,Chinese,,0,0,0,,菲奥尔一题也做不出来
 Dialogue: 0,0:07:21.25,0:07:24.80,English,,0,0,0,,Tartaglia solves all 30 of Fior's depressed cubics
-Dialogue: 0,0:07:21.25,0:07:24.80,Chinese,,0,0,0,,
+Dialogue: 0,0:07:21.25,0:07:24.80,Chinese,,0,0,0,,然而塔尔塔利亚只用了2小时
 Dialogue: 0,0:07:24.80,0:07:26.80,English,,0,0,0,,in just two hours.
-Dialogue: 0,0:07:24.80,0:07:26.80,Chinese,,0,0,0,,
+Dialogue: 0,0:07:24.80,0:07:26.80,Chinese,,0,0,0,,就解完了30道弱三次方程
 Dialogue: 0,0:07:26.80,0:07:30.36,English,,0,0,0,,It seems Fior's boastfulness was his undoing.
-Dialogue: 0,0:07:26.80,0:07:30.36,Chinese,,0,0,0,,
+Dialogue: 0,0:07:26.80,0:07:30.36,Chinese,,0,0,0,,看起来菲奥尔的浮夸风正是他凉凉的原因
 Dialogue: 0,0:07:30.36,0:07:32.82,English,,0,0,0,,Before the challenge came, Tartaglia learns
-Dialogue: 0,0:07:30.36,0:07:32.82,Chinese,,0,0,0,,
+Dialogue: 0,0:07:30.36,0:07:32.82,Chinese,,0,0,0,,在收到挑战之前，塔尔塔利亚就有所耳闻
 Dialogue: 0,0:07:32.82,0:07:35.13,English,,0,0,0,,that Fior's claimed to have solved the depressed cubic,
-Dialogue: 0,0:07:32.82,0:07:35.13,Chinese,,0,0,0,,
+Dialogue: 0,0:07:32.82,0:07:35.13,Chinese,,0,0,0,,菲奥尔解弱三次方程的能力
 Dialogue: 0,0:07:35.13,0:07:36.61,English,,0,0,0,,but he's skeptical.
-Dialogue: 0,0:07:35.13,0:07:36.61,Chinese,,0,0,0,,
+Dialogue: 0,0:07:35.13,0:07:36.61,Chinese,,0,0,0,,但他其实很怀疑
 Dialogue: 0,0:07:36.89,0:07:39.89,Chinese,,0,0,0,,依我之见  他的能力不足以独立解出这个问题
 Dialogue: 0,0:07:39.89,0:07:41.15,English,,0,0,0,,Tartaglia writes.
-Dialogue: 0,0:07:38.11,0:07:41.15,Chinese,,0,0,0,,
-Dialogue: 0,0:07:41.15,0:07:43.02,English,,0,0,0,,But word was that a great mathematician
-Dialogue: 0,0:07:41.15,0:07:43.02,Chinese,,0,0,0,,
+Dialogue: 0,0:07:38.11,0:07:41.15,Chinese,,0,0,0,,塔尔塔利亚写到
+Dialogue: 0,0:07:41.15,0:07:43.02,English,,0,0,0,,But what was that a great mathematician
+Dialogue: 0,0:07:41.15,0:07:43.02,Chinese,,0,0,0,,很可能是某位厉害的数学家把方法
 Dialogue: 0,0:07:43.02,0:07:44.84,English,,0,0,0,,had revealed the secret to Fior,
-Dialogue: 0,0:07:43.02,0:07:44.84,Chinese,,0,0,0,,
+Dialogue: 0,0:07:43.02,0:07:44.84,Chinese,,0,0,0,,透露给了菲奥尔
 Dialogue: 0,0:07:44.84,0:07:46.71,English,,0,0,0,,which seems more plausible.
-Dialogue: 0,0:07:44.84,0:07:46.71,Chinese,,0,0,0,,
+Dialogue: 0,0:07:44.84,0:07:46.71,Chinese,,0,0,0,,这才合理
 Dialogue: 0,0:07:46.71,0:07:50.09,English,,0,0,0,,So with the knowledge that a solution to the cubic is possible,
-Dialogue: 0,0:07:46.71,0:07:50.09,Chinese,,0,0,0,,
+Dialogue: 0,0:07:46.71,0:07:50.09,Chinese,,0,0,0,,既然知道解出三次方程是有可能的
 Dialogue: 0,0:07:50.09,0:07:52.17,English,,0,0,0,,and with his livelihood on the line,
-Dialogue: 0,0:07:50.09,0:07:52.17,Chinese,,0,0,0,,
+Dialogue: 0,0:07:50.09,0:07:52.17,Chinese,,0,0,0,,并且他本人的生计也即将受到挑战
 Dialogue: 0,0:07:52.17,0:07:56.07,English,,0,0,0,,Tartaglia sets about solving the depressed cubic himself.
-Dialogue: 0,0:07:52.17,0:07:56.07,Chinese,,0,0,0,,
+Dialogue: 0,0:07:52.17,0:07:56.07,Chinese,,0,0,0,,塔尔塔利亚开始自己研究弱三次方程的解法
 Dialogue: 0,0:07:56.07,0:07:58.60,English,,0,0,0,,To do it, he extends the idea
 Dialogue: 0,0:07:58.60,0:08:02.61,English,,0,0,0,,of completing the square into three dimensions.
-Dialogue: 0,0:07:56.07,0:08:02.61,Chinese,,0,0,0,,
+Dialogue: 0,0:07:56.07,0:08:02.61,Chinese,,0,0,0,,他把用正方形面积法解二次方程的思路拓展到正方体
 Dialogue: 0,0:08:02.61,0:08:07.09,English,,0,0,0,,Take the equation x cubed plus nine x equals 26.
-Dialogue: 0,0:08:02.61,0:08:07.09,Chinese,,0,0,0,,
+Dialogue: 0,0:08:02.61,0:08:07.09,Chinese,,0,0,0,,例如 x^3 + 9x = 26
 Dialogue: 0,0:08:07.09,0:08:08.43,English,,0,0,0,,You can think of x cubed
-Dialogue: 0,0:08:07.09,0:08:08.43,Chinese,,0,0,0,,
+Dialogue: 0,0:08:07.09,0:08:08.43,Chinese,,0,0,0,,我们把x的立方
 Dialogue: 0,0:08:08.43,0:08:11.86,English,,0,0,0,,as the volume of a cube with sides of length x.
-Dialogue: 0,0:08:08.43,0:08:11.86,Chinese,,0,0,0,,
+Dialogue: 0,0:08:08.43,0:08:11.86,Chinese,,0,0,0,,想成是一个边长为x的立方体的体积
 Dialogue: 0,0:08:11.86,0:08:15.54,English,,0,0,0,,And if you add a volume of nine x, you get 26.
-Dialogue: 0,0:08:11.86,0:08:15.54,Chinese,,0,0,0,,
+Dialogue: 0,0:08:11.86,0:08:15.54,Chinese,,0,0,0,,再加上一个体积为9x的物体，最终体积为26
 Dialogue: 0,0:08:15.54,0:08:17.46,English,,0,0,0,,So just like with completing the square,
-Dialogue: 0,0:08:15.54,0:08:17.46,Chinese,,0,0,0,,
+Dialogue: 0,0:08:15.54,0:08:17.46,Chinese,,0,0,0,,类比我们是如何补齐一个正方形的
 Dialogue: 0,0:08:17.46,0:08:19.44,English,,0,0,0,,we need to add onto the cube
-Dialogue: 0,0:08:17.46,0:08:19.44,Chinese,,0,0,0,,
+Dialogue: 0,0:08:17.46,0:08:19.44,Chinese,,0,0,0,,我们需要使正方体x^3的体积增加9x
 Dialogue: 0,0:08:19.44,0:08:22.69,English,,0,0,0,,to increase its volume by nine x.
-Dialogue: 0,0:08:19.44,0:08:22.69,Chinese,,0,0,0,,
+Dialogue: 0,0:08:19.44,0:08:22.69,Chinese,,0,0,0,,我们需要使正方体x^3的体积增加9x
 Dialogue: 0,0:08:22.69,0:08:27.27,English,,0,0,0,,Imagine extending three sides of this cube out a distance y,
-Dialogue: 0,0:08:22.69,0:08:27.27,Chinese,,0,0,0,,
+Dialogue: 0,0:08:22.69,0:08:27.27,Chinese,,0,0,0,,把正方体的长宽高分别扩大y
 Dialogue: 0,0:08:27.27,0:08:31.92,English,,0,0,0,,creating a new, larger cube with sides of length, call it z.
-Dialogue: 0,0:08:27.27,0:08:31.92,Chinese,,0,0,0,,
+Dialogue: 0,0:08:27.27,0:08:31.92,Chinese,,0,0,0,,我们得到一个边长为z的大正方体
 Dialogue: 0,0:08:31.92,0:08:34.68,English,,0,0,0,,z is just x plus y.
-Dialogue: 0,0:08:31.92,0:08:34.68,Chinese,,0,0,0,,
+Dialogue: 0,0:08:31.92,0:08:34.68,Chinese,,0,0,0,,z是x+y
 Dialogue: 0,0:08:34.68,0:08:36.90,English,,0,0,0,,The original cube has been padded out
-Dialogue: 0,0:08:34.68,0:08:36.90,Chinese,,0,0,0,,
+Dialogue: 0,0:08:34.68,0:08:36.90,Chinese,,0,0,0,,原正方体就增大了一圈
 Dialogue: 0,0:08:36.90,0:08:41.20,English,,0,0,0,,and we can break up the additional volume into seven shapes.
-Dialogue: 0,0:08:36.90,0:08:41.20,Chinese,,0,0,0,,
+Dialogue: 0,0:08:36.90,0:08:41.20,Chinese,,0,0,0,,我们可以把这增加的部分切成7块：
 Dialogue: 0,0:08:41.20,0:08:43.22,English,,0,0,0,,There are three rectangular prisms
-Dialogue: 0,0:08:41.20,0:08:43.22,Chinese,,0,0,0,,
+Dialogue: 0,0:08:41.20,0:08:43.22,Chinese,,0,0,0,,有三个长宽高为x,x,y的长方体
 Dialogue: 0,0:08:43.22,0:08:46.71,English,,0,0,0,,with dimensions of x by x by y,
-Dialogue: 0,0:08:43.22,0:08:46.71,Chinese,,0,0,0,,
+Dialogue: 0,0:08:43.22,0:08:46.71,Chinese,,0,0,0,,有三个长宽高为x,x,y的长方体
 Dialogue: 0,0:08:46.71,0:08:48.70,English,,0,0,0,,and another three narrower prisms
-Dialogue: 0,0:08:46.71,0:08:48.70,Chinese,,0,0,0,,
+Dialogue: 0,0:08:46.71,0:08:48.70,Chinese,,0,0,0,,另有三个长宽高为x,y,y的小长方体
 Dialogue: 0,0:08:48.70,0:08:51.82,English,,0,0,0,,with dimensions of x by y by y,
-Dialogue: 0,0:08:48.70,0:08:51.82,Chinese,,0,0,0,,
+Dialogue: 0,0:08:48.70,0:08:51.82,Chinese,,0,0,0,,另有三个长宽高为x,y,y的小长方体
 Dialogue: 0,0:08:51.82,0:08:54.89,English,,0,0,0,,plus there's a cube with a volume y cubed.
-Dialogue: 0,0:08:51.82,0:08:54.89,Chinese,,0,0,0,,
+Dialogue: 0,0:08:51.82,0:08:54.89,Chinese,,0,0,0,,再加上一个体积为y^3的正方体
 Dialogue: 0,0:08:54.89,0:08:59.72,English,,0,0,0,,Tartaglia rearranges the six rectangular prisms into one block.
-Dialogue: 0,0:08:54.89,0:08:59.72,Chinese,,0,0,0,,
+Dialogue: 0,0:08:54.89,0:08:59.72,Chinese,,0,0,0,,塔尔塔利亚把这6个长方体重组成一个新的长方体
 Dialogue: 0,0:08:59.72,0:09:02.01,English,,0,0,0,,{\an3}One side has length three y,
-Dialogue: 0,0:08:59.72,0:09:02.01,Chinese,,0,0,0,,{\an3}
+Dialogue: 0,0:08:59.72,0:09:02.01,Chinese,,0,0,0,,{\an3}一边长为3y
 Dialogue: 0,0:09:02.01,0:09:05.28,English,,0,0,0,,{\an3}the other has a length x plus y, which is z,
-Dialogue: 0,0:09:02.01,0:09:05.28,Chinese,,0,0,0,,{\an3}
+Dialogue: 0,0:09:02.01,0:09:05.28,Chinese,,0,0,0,,{\an3}另一边长为x+y，即z
 Dialogue: 0,0:09:05.28,0:09:07.40,English,,0,0,0,,{\an3}and the height is x.
-Dialogue: 0,0:09:05.28,0:09:07.40,Chinese,,0,0,0,,{\an3}
+Dialogue: 0,0:09:05.28,0:09:07.40,Chinese,,0,0,0,,{\an3}高为x
 Dialogue: 0,0:09:07.40,0:09:08.84,English,,0,0,0,,{\an3}So the volume of this shape
-Dialogue: 0,0:09:07.40,0:09:08.84,Chinese,,0,0,0,,{\an3}
+Dialogue: 0,0:09:07.40,0:09:08.84,Chinese,,0,0,0,,{\an3}这个新长方体的体积为
 Dialogue: 0,0:09:08.84,0:09:12.49,English,,0,0,0,,{\an3}is its base, three yz times its height, x.
-Dialogue: 0,0:09:08.84,0:09:12.49,Chinese,,0,0,0,,{\an3}
+Dialogue: 0,0:09:08.84,0:09:12.49,Chinese,,0,0,0,,{\an3}底面积3yz 乘以 高 x
 Dialogue: 0,0:09:12.49,0:09:16.01,English,,0,0,0,,And Tartaglia realizes this volume can perfectly represent
-Dialogue: 0,0:09:12.49,0:09:16.01,Chinese,,0,0,0,,
+Dialogue: 0,0:09:12.49,0:09:16.01,Chinese,,0,0,0,,观察发现，如果让3yx等于9的话
 Dialogue: 0,0:09:16.01,0:09:18.18,English,,0,0,0,,the nine x term in the equation,
-Dialogue: 0,0:09:16.01,0:09:18.18,Chinese,,0,0,0,,
+Dialogue: 0,0:09:16.01,0:09:18.18,Chinese,,0,0,0,,这个新的长方体体积3yzx
 Dialogue: 0,0:09:18.18,0:09:20.83,English,,0,0,0,,if its base is equal to nine.
-Dialogue: 0,0:09:18.18,0:09:20.83,Chinese,,0,0,0,,
+Dialogue: 0,0:09:18.18,0:09:20.83,Chinese,,0,0,0,,就变成了原方程中的9x
 Dialogue: 0,0:09:20.83,0:09:24.05,English,,0,0,0,,So he sets three yz equals nine.
-Dialogue: 0,0:09:20.83,0:09:24.05,Chinese,,0,0,0,,
+Dialogue: 0,0:09:20.83,0:09:24.05,Chinese,,0,0,0,,于是他令3yz=9
 Dialogue: 0,0:09:24.05,0:09:26.23,English,,0,0,0,,Putting the cube back together,
-Dialogue: 0,0:09:24.05,0:09:26.23,Chinese,,0,0,0,,
+Dialogue: 0,0:09:24.05,0:09:26.23,Chinese,,0,0,0,,把小块拼回去之后
 Dialogue: 0,0:09:26.23,0:09:29.38,English,,0,0,0,,you find we're missing the one small y cubed block,
-Dialogue: 0,0:09:26.23,0:09:29.38,Chinese,,0,0,0,,
+Dialogue: 0,0:09:26.23,0:09:29.38,Chinese,,0,0,0,,我们还漏算了一个小正方体体积
 Dialogue: 0,0:09:29.38,0:09:32.09,English,,0,0,0,,so we can complete the cube
 Dialogue: 0,0:09:32.09,0:09:35.34,English,,0,0,0,,by adding y cubed to both sides of the equation.
-Dialogue: 0,0:09:29.38,0:09:35.34,Chinese,,0,0,0,,
+Dialogue: 0,0:09:29.38,0:09:35.34,Chinese,,0,0,0,,于是我们方程两边同时加上y^3
 Dialogue: 0,0:09:35.34,0:09:38.32,English,,0,0,0,,Now we have z cubed, the complete larger cube,
-Dialogue: 0,0:09:35.34,0:09:38.32,Chinese,,0,0,0,,
+Dialogue: 0,0:09:35.34,0:09:38.32,Chinese,,0,0,0,,这时大正方体的体积就是z^3
 Dialogue: 0,0:09:38.32,0:09:40.65,English,,0,0,0,,equals 26 plus y cubed.
-Dialogue: 0,0:09:38.32,0:09:40.65,Chinese,,0,0,0,,
+Dialogue: 0,0:09:38.32,0:09:40.65,Chinese,,0,0,0,,等于26+y^3
 Dialogue: 0,0:09:40.65,0:09:43.90,English,,0,0,0,,We have two equations and two unknowns.
-Dialogue: 0,0:09:40.65,0:09:43.90,Chinese,,0,0,0,,
+Dialogue: 0,0:09:40.65,0:09:43.90,Chinese,,0,0,0,,此时两方程两未知数
 Dialogue: 0,0:09:43.90,0:09:45.52,English,,0,0,0,,Solving the first equation for z
-Dialogue: 0,0:09:43.90,0:09:45.52,Chinese,,0,0,0,,
+Dialogue: 0,0:09:43.90,0:09:45.52,Chinese,,0,0,0,,解出第一个方程的z
 Dialogue: 0,0:09:45.52,0:09:47.14,English,,0,0,0,,and substituting into the second,
-Dialogue: 0,0:09:45.52,0:09:47.14,Chinese,,0,0,0,,
+Dialogue: 0,0:09:45.52,0:09:47.14,Chinese,,0,0,0,,把它带入第二个方程
 Dialogue: 0,0:09:47.14,0:09:51.83,English,,0,0,0,,we get y to the six plus 26 y cubed equals 27.
-Dialogue: 0,0:09:47.14,0:09:51.83,Chinese,,0,0,0,,
+Dialogue: 0,0:09:47.14,0:09:51.83,Chinese,,0,0,0,,我们得到y^6 + 26y^3 = 27
 Dialogue: 0,0:09:51.83,0:09:54.67,English,,0,0,0,,At first glance, it seems like we're now worse off
-Dialogue: 0,0:09:51.83,0:09:54.67,Chinese,,0,0,0,,
+Dialogue: 0,0:09:51.83,0:09:54.67,Chinese,,0,0,0,,乍一看，这似乎比原方程更复杂了
 Dialogue: 0,0:09:54.67,0:09:55.77,English,,0,0,0,,than when we started.
-Dialogue: 0,0:09:54.67,0:09:55.77,Chinese,,0,0,0,,
+Dialogue: 0,0:09:54.67,0:09:55.77,Chinese,,0,0,0,,乍一看，这似乎比原方程更复杂了
 Dialogue: 0,0:09:55.77,0:09:57.89,English,,0,0,0,,The variable is now raised to the power of six,
-Dialogue: 0,0:09:55.77,0:09:57.89,Chinese,,0,0,0,,
+Dialogue: 0,0:09:55.77,0:09:57.89,Chinese,,0,0,0,,现在都出现6次方的未知项了
 Dialogue: 0,0:09:57.89,0:09:59.49,English,,0,0,0,,instead of just three.
-Dialogue: 0,0:09:57.89,0:09:59.49,Chinese,,0,0,0,,
+Dialogue: 0,0:09:57.89,0:09:59.49,Chinese,,0,0,0,,而原方程只有3次方
 Dialogue: 0,0:09:59.49,0:10:02.99,English,,0,0,0,,However, if you think of y cubed as a new variable,
-Dialogue: 0,0:09:59.49,0:10:02.99,Chinese,,0,0,0,,
+Dialogue: 0,0:09:59.49,0:10:02.99,Chinese,,0,0,0,,不过，把y^3想成一个新的未知数
 Dialogue: 0,0:10:02.99,0:10:06.04,English,,0,0,0,,the equation is actually a quadratic,
-Dialogue: 0,0:10:02.99,0:10:06.04,Chinese,,0,0,0,,
+Dialogue: 0,0:10:02.99,0:10:06.04,Chinese,,0,0,0,,这个方程其实是个二次的方程
 Dialogue: 0,0:10:06.04,0:10:09.78,English,,0,0,0,,the same quadratic that we solved by completing the square.
-Dialogue: 0,0:10:06.04,0:10:09.78,Chinese,,0,0,0,,
+Dialogue: 0,0:10:06.04,0:10:09.78,Chinese,,0,0,0,,而且就是我们此前解出来的那个二次方程
 Dialogue: 0,0:10:09.78,0:10:12.33,English,,0,0,0,,So we know y cubed equals one,
-Dialogue: 0,0:10:09.78,0:10:12.33,Chinese,,0,0,0,,
+Dialogue: 0,0:10:09.78,0:10:12.33,Chinese,,0,0,0,,因此y^3 = 1
 Dialogue: 0,0:10:12.33,0:10:16.34,English,,0,0,0,,which means y equals one, and z equals three over y,
-Dialogue: 0,0:10:12.33,0:10:16.34,Chinese,,0,0,0,,
+Dialogue: 0,0:10:12.33,0:10:16.34,Chinese,,0,0,0,,所以y = 1，z = 3/y
 Dialogue: 0,0:10:16.34,0:10:17.90,English,,0,0,0,,so z is three.
-Dialogue: 0,0:10:16.34,0:10:17.90,Chinese,,0,0,0,,
+Dialogue: 0,0:10:16.34,0:10:17.90,Chinese,,0,0,0,,所以 z = 3
 Dialogue: 0,0:10:17.90,0:10:21.96,English,,0,0,0,,And since x plus y equals z, x must be equal to two,
-Dialogue: 0,0:10:17.90,0:10:21.96,Chinese,,0,0,0,,
+Dialogue: 0,0:10:17.90,0:10:21.96,Chinese,,0,0,0,,又因为x+y = z, 所以x = 2
 Dialogue: 0,0:10:22.84,0:10:26.44,English,,0,0,0,,which is indeed, a solution to the original equation.
-Dialogue: 0,0:10:22.84,0:10:26.44,Chinese,,0,0,0,,
+Dialogue: 0,0:10:22.84,0:10:26.44,Chinese,,0,0,0,,这就是原方程的一个解了
 Dialogue: 0,0:10:26.44,0:10:27.28,English,,0,0,0,,And with that,
-Dialogue: 0,0:10:26.44,0:10:27.28,Chinese,,0,0,0,,
+Dialogue: 0,0:10:26.44,0:10:27.28,Chinese,,0,0,0,,塔尔塔利亚也成为了史上第二个
 Dialogue: 0,0:10:27.28,0:10:30.03,English,,0,0,0,,Tartaglia becomes the second human on the planet
-Dialogue: 0,0:10:27.28,0:10:30.03,Chinese,,0,0,0,,
+Dialogue: 0,0:10:27.28,0:10:30.03,Chinese,,0,0,0,,塔尔塔利亚也成为了史上第二个
 Dialogue: 0,0:10:30.03,0:10:32.27,English,,0,0,0,,to solve the depressed cubic.
-Dialogue: 0,0:10:30.03,0:10:32.27,Chinese,,0,0,0,,
+Dialogue: 0,0:10:30.03,0:10:32.27,Chinese,,0,0,0,,解出弱三次方程的人
 Dialogue: 0,0:10:32.27,0:10:34.59,English,,0,0,0,,To save himself the work of going through the geometry
-Dialogue: 0,0:10:32.27,0:10:34.59,Chinese,,0,0,0,,
+Dialogue: 0,0:10:32.27,0:10:34.59,Chinese,,0,0,0,,为了避免为每个新的方程都推导一遍几何体体积
 Dialogue: 0,0:10:34.59,0:10:36.84,English,,0,0,0,,for each new cubic he encounters,
-Dialogue: 0,0:10:34.59,0:10:36.84,Chinese,,0,0,0,,
+Dialogue: 0,0:10:34.59,0:10:36.84,Chinese,,0,0,0,,为了避免为每个新的方程都推导一遍几何体体积
 Dialogue: 0,0:10:36.84,0:10:39.88,English,,0,0,0,,Tartaglia summarizes his method in an algorithm,
 Dialogue: 0,0:10:36.84,0:10:39.88,Chinese,,0,0,0,,塔尔塔利亚把他的方法总结成了一种算法
 Dialogue: 0,0:10:39.88,0:10:41.68,English,,0,0,0,,a set of instructions.
