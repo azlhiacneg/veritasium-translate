@@ -615,9 +615,10 @@ Dialogue: 0,0:13:54.90,0:13:59.54,Chinese,,0,0,0,,
 Dialogue: 0,0:13:59.54,0:14:01.01,English,,0,0,0,,Literally.
 Dialogue: 0,0:13:59.54,0:14:01.01,Chinese,,0,0,0,,
 Dialogue: 0,0:14:01.01,0:14:03.07,English,,0,0,0,,While Cardano is writing "Ars Magna"
+Dialogue: 0,0:14:01.01,0:14:03.07,Chinese,,0,0,0,,在卡尔达诺写 "Ars Magna" 这本书的时候，
 Dialogue: 0,0:14:03.07,0:14:05.17,English,,0,0,0,,he comes across some cubic equations
 Dialogue: 0,0:14:05.17,0:14:08.27,English,,0,0,0,,that can't easily be solved in the usual way,
-Dialogue: 0,0:14:01.01,0:14:08.27,Chinese,,0,0,0,,在卡尔达诺写 "Ars Magna" 这本书的时候，它发现了一些不能以正常方式解出答案的三次等式
+Dialogue: 0,0:14:03.07,0:14:08.27,Chinese,,0,0,0,,他发现了一些不能以正常方式解出答案的三次等式
 Dialogue: 0,0:14:08.27,0:14:11.91,English,,0,0,0,,like x cubed equals 15x plus four.
 Dialogue: 0,0:14:08.27,0:14:11.91,Chinese,,0,0,0,,比如 x³ = 15x + 4
 Dialogue: 0,0:14:11.91,0:14:14.58,English,,0,0,0,,Plugging this into the algorithm yields a solution
@@ -626,25 +627,31 @@ Dialogue: 0,0:14:11.91,0:14:17.89,Chinese,,0,0,0,,把这个放进算法里会算
 Dialogue: 0,0:14:17.89,0:14:20.22,English,,0,0,0,,Cardano asks Tartaglia about the case,
 Dialogue: 0,0:14:17.89,0:14:20.22,Chinese,,0,0,0,,卡尔达诺向塔尔塔利亚询问了这件事
 Dialogue: 0,0:14:20.22,0:14:22.27,English,,0,0,0,,but he evades and implies Cardano
+Dialogue: 0,0:14:20.22,0:14:22.27,Chinese,,0,0,0,,但塔尔塔利亚回避了这个问题
 Dialogue: 0,0:14:22.27,0:14:25.45,English,,0,0,0,,is just not clever enough to use his formula properly.
-Dialogue: 0,0:14:20.22,0:14:25.45,Chinese,,0,0,0,,但塔尔塔利亚回避了这个问题，并表示卡尔达诺只是并不够聪明去正确使用他的等式
+Dialogue: 0,0:14:22.27,0:14:25.45,Chinese,,0,0,0,,并表示卡尔达诺只是并不够聪明去正确使用他的等式
 Dialogue: 0,0:14:25.45,0:14:28.92,English,,0,0,0,,The reality is Tartaglia has no idea what to do either.
 Dialogue: 0,0:14:25.45,0:14:28.92,Chinese,,0,0,0,,真实的情况是，塔尔塔利亚也对这个问题一筹莫展
 Dialogue: 0,0:14:30.12,0:14:32.82,English,,0,0,0,,Cardano walks back through the geometric derivation
+Dialogue: 0,0:14:30.12,0:14:32.82,Chinese,,0,0,0,,卡尔达诺回头重新看了相似问题的几何推导过程
 Dialogue: 0,0:14:32.82,0:14:36.95,English,,0,0,0,,of a similar problem to see exactly what goes wrong.
-Dialogue: 0,0:14:30.12,0:14:36.95,Chinese,,0,0,0,,卡尔达诺回头重新看了相似问题的几何推导过程以求发现到底在哪里出现了问题
+Dialogue: 0,0:14:32.82,0:14:36.95,Chinese,,0,0,0,,以求发现到底在哪里出现了问题
 Dialogue: 0,0:14:36.95,0:14:40.69,English,,0,0,0,,While the 3D cube slicing and rearrangement works just fine,
 Dialogue: 0,0:14:36.95,0:14:40.69,Chinese,,0,0,0,,虽然用3D立方切片以及重新安排的方式正好能解决问题
 Dialogue: 0,0:14:40.69,0:14:43.36,English,,0,0,0,,the final quadratic completing the square step
+Dialogue: 0,0:14:40.69,0:14:43.36,Chinese,,0,0,0,,但在解最后的那一个填满正方形的二元方程式时
 Dialogue: 0,0:14:43.36,0:14:46.15,English,,0,0,0,,leads to a geometric paradox.
-Dialogue: 0,0:14:40.69,0:14:46.15,Chinese,,0,0,0,,但在解最后的那一个填满正方形的二元方程式时发生了一个几何上的矛盾
+Dialogue: 0,0:14:43.36,0:14:46.15,Chinese,,0,0,0,,发生了一个几何上的矛盾
 Dialogue: 0,0:14:46.15,0:14:50.53,English,,0,0,0,,Cardano finds part of a square that must have an area of 30,
+Dialogue: 0,0:14:46.15,0:14:50.53,Chinese,,0,0,0,,卡尔达诺发现，正方形的面积必须是30
 Dialogue: 0,0:14:50.53,0:14:53.66,English,,0,0,0,,but also sides of length five.
-Dialogue: 0,0:14:46.15,0:14:53.66,Chinese,,0,0,0,,卡尔达诺发现，正方形的面积必须是30，但它的变长同时也必须是5
+Dialogue: 0,0:14:50.53,0:14:53.66,Chinese,,0,0,0,,但它的边长同时也必须是5
 Dialogue: 0,0:14:53.66,0:14:56.60,English,,0,0,0,,Since the full square has an area of 25,
+Dialogue: 0,0:14:53.66,0:15:56.60,Chinese,,0,0,0,,因为这整个正方形的面积是25
 Dialogue: 0,0:14:56.60,0:14:57.94,English,,0,0,0,,to complete the square,
+Dialogue: 0,0:14:56.60,0:15:57.94,Chinese,,0,0,0,,要使这个正方形完整
 Dialogue: 0,0:14:57.94,0:15:02.46,English,,0,0,0,,Cardano has to somehow add negative area.
-Dialogue: 0,0:14:53.66,0:15:02.46,Chinese,,0,0,0,,因为这整个正方形的面积是25，要使这个正方形完整，卡尔达诺就必须用某种方式增加一些负面积
+Dialogue: 0,0:14:53.66,0:15:02.46,Chinese,,0,0,0,,卡尔达诺就必须用某种方式增加一些负面积
 Dialogue: 0,0:15:02.46,0:15:05.24,English,,0,0,0,,That is where the square roots of negatives come from,
 Dialogue: 0,0:15:05.24,0:15:08.52,English,,0,0,0,,the idea of negative area.
 Dialogue: 0,0:15:02.46,0:15:08.52,Chinese,,0,0,0,,这就是那个负平方根，亦即是负面积的概念出来的地方
@@ -692,11 +699,12 @@ Dialogue: 0,0:16:10.52,0:16:12.93,English,,0,0,0,,saying the idea of the square 
 Dialogue: 0,0:16:12.93,0:16:15.36,English,,0,0,0,,"is as subtle as it is useless".
 Dialogue: 0,0:16:10.52,0:16:15.36,Chinese,,0,0,0,,并表示负数平方根的概念 「是一种取巧且不必要」
 Dialogue: 0,0:16:16.91,0:16:19.35,English,,0,0,0,,But around 10 years later, the Italian engineer
+Dialogue: 0,0:16:16.91,0:16:19.35,Chinese,,0,0,0,,但10年之后，意大利的工程师拉斐尔.邦贝利
 Dialogue: 0,0:16:19.35,0:16:22.84,English,,0,0,0,,Rafael Bombelli picks up where Cardano left off.
-Dialogue: 0,0:16:16.91,0:16:22.84,Chinese,,0,0,0,,但10年之后，意大利的工程师拉斐尔.邦贝利在卡尔达诺停下的地方继续研究
+Dialogue: 0,0:16:19.35,0:16:22.84,Chinese,,0,0,0,,在卡尔达诺停下的地方继续研究
 Dialogue: 0,0:16:22.84,0:16:24.65,English,,0,0,0,,Undeterred by the square roots of negatives
 Dialogue: 0,0:16:24.65,0:16:26.87,English,,0,0,0,,and the impossible geometry they imply,
-Dialogue: 0,0:16:22.84,0:16:26.87,Chinese,,0,0,0,,因为对负数平方根与它们能表达的不可能几何的坚信，
+Dialogue: 0,0:16:22.84,0:16:26.87,Chinese,,0,0,0,,因为对负数平方根与它们能表达的不可能几何的坚信（？）
 Dialogue: 0,0:16:26.87,0:16:30.52,English,,0,0,0,,he wants to find a way through the mess to the solution.
 Dialogue: 0,0:16:26.87,0:16:30.52,Chinese,,0,0,0,,他想要找到到达题解中心的道路
 Dialogue: 0,0:16:30.52,0:16:32.36,English,,0,0,0,,Observing that the square root of a negative
@@ -713,8 +721,9 @@ Dialogue: 0,0:16:41.67,0:16:46.59,Chinese,,0,0,0,,能以某种组合普通数及
 Dialogue: 0,0:16:46.59,0:16:49.13,English,,0,0,0,,which involves the square root of negative one.
 Dialogue: 0,0:16:46.59,0:16:49.13,Chinese,,0,0,0,,这能将负数平方根包含在解里面
 Dialogue: 0,0:16:49.13,0:16:51.35,English,,0,0,0,,And this way, Bombelli figures out
+Dialogue: 0,0:16:49.13,0:16:51.35,Chinese,,0,0,0,,透过这种方式，邦贝利发现
 Dialogue: 0,0:16:51.35,0:16:53.90,English,,0,0,0,,that the two cube roots in Cardano's equation
-Dialogue: 0,0:16:49.13,0:16:53.90,Chinese,,0,0,0,,透过这种方式，邦贝利发现了这两个在卡尔达诺等式的立方根
+Dialogue: 0,0:16:51.35,0:16:53.90,Chinese,,0,0,0,,这两个在卡尔达诺等式的立方根
 Dialogue: 0,0:16:53.90,0:16:55.11,English,,0,0,0,,are equivalent to two
 Dialogue: 0,0:16:55.11,0:16:57.52,English,,0,0,0,,plus or minus the square root of negative one.
 Dialogue: 0,0:16:53.90,0:16:57.52,Chinese,,0,0,0,,等价于两个加或减那个负数平方根
@@ -744,8 +753,9 @@ Dialogue: 0,0:17:26.34,0:17:31.90,Chinese,,0,0,0,,{\pos(287,533)\fad(500,500)}�
 Dialogue: 0,0:17:27.20,0:17:30.44,English,,0,0,0,,introduces the modern symbolic notation for algebra,
 Dialogue: 0,0:17:27.20,0:17:30.44,Chinese,,0,0,0,,引入了代数的现代符号标记法
 Dialogue: 0,0:17:30.44,0:17:32.13,English,,0,0,0,,ending the millennia-long tradition
+Dialogue: 0,0:17:30.44,0:17:32.13,Chinese,,0,0,0,,结束了千年之久的将解决数学问题抽象成
 Dialogue: 0,0:17:32.13,0:17:35.45,English,,0,0,0,,of math problems as drawings and wordy descriptions.
-Dialogue: 0,0:17:30.44,0:17:35.45,Chinese,,0,0,0,,结束了千年之久的将解决数学问题抽象成既要画画又要很啰嗦描述问题的习惯（？）
+Dialogue: 0,0:17:32.13,0:17:35.45,Chinese,,0,0,0,,既要画画又要很啰嗦描述问题的习惯（？）
 Dialogue: 0,0:17:35.45,0:17:39.11,English,,0,0,0,,Geometry is no longer THE source of truth.
 Dialogue: 0,0:17:35.45,0:17:39.11,Chinese,,0,0,0,,几何学不再是真相的来源
 Dialogue: 0,0:17:39.20,0:17:44.75,Chinese,,0,0,0,,{\pos(287,533)\fad(500,500)}勒内·笛卡尔
