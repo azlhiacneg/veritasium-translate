@@ -10,7 +10,9 @@ PlayResY: 676
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: English,Inter,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,3,3,3,1
 Style: Chinese,MonyharOS Sans SC Medium,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,5,5,3,1
-Style: Poem,华文中宋,40,&H00000000,&H000000FF,&H00D7FAFD,&H00000000,0,-1,0,0,100,100,0,0,3,2,0,2,5,5,3,1
+Style: Poem,华文中楷-SC,41,&H00000000,&H000000FF,&H00D7FAFD,&H00000000,0,0,0,0,100,100,0,0,3,8,0,2,5,5,3,1
+Style: Quote,华文中楷-SC,54,&H00000000,&H000000FF,&H00D3DEEC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,5,5,3,1
+Style: Name,华文中宋-SC,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,3,2,5,5,3,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -162,10 +164,11 @@ Dialogue: 0,0:03:37.08,0:03:39.82,English,,0,0,0,,x equals one is a solution.
 Dialogue: 0,0:03:37.08,0:03:39.82,Chinese,,0,0,0,,x=1确实是一个解
 Dialogue: 0,0:03:39.82,0:03:42.96,English,,0,0,0,,But so is negative 27.
 Dialogue: 0,0:03:39.82,0:03:42.96,Chinese,,0,0,0,,但是还有另一个解是x=-27
-Dialogue: 0,0:03:42.96,0:03:46.62,English,,0,0,0,,For thousands of years, mathematicians were oblivious
-Dialogue: 0,0:03:42.96,0:03:46.62,Chinese,,0,0,0,,几千年来  数学家们都无视了
+Dialogue: 0,0:03:42.96,0:03:44.80,English,,0,0,0,,For thousands of years,
+Dialogue: 0,0:03:42.96,0:03:44.80,Chinese,,0,0,0,,几千年来
+Dialogue: 0,0:03:44.80,0:03:46.62,English,,0,0,0,,mathematicians were oblivious
 Dialogue: 0,0:03:46.62,0:03:49.43,English,,0,0,0,,to the negative solutions to their equations
-Dialogue: 0,0:03:46.62,0:03:49.43,Chinese,,0,0,0,,方程的负数解
+Dialogue: 0,0:03:44.80,0:03:49.43,Chinese,,0,0,0,,数学家们都无视了方程的负数解
 Dialogue: 0,0:03:49.43,0:03:52.02,English,,0,0,0,,because they were dealing with things in the real world,
 Dialogue: 0,0:03:49.43,0:03:52.02,Chinese,,0,0,0,,因为他们正尝试用数学解决实际问题
 Dialogue: 0,0:03:52.02,0:03:54.13,English,,0,0,0,,lengths and areas and volumes.
@@ -175,8 +178,10 @@ Dialogue: 0,0:03:56.65,0:03:59.59,English,,0,0,0,,with sides of length negative 
 Dialogue: 0,0:03:54.13,0:03:59.59,Chinese,,0,0,0,,边长为-27的正方形在现实中能表示什么呢
 Dialogue: 0,0:03:59.59,0:04:02.08,English,,0,0,0,,That just doesn't make any sense.
 Dialogue: 0,0:03:59.59,0:04:02.08,Chinese,,0,0,0,,这完全没有意义
-Dialogue: 0,0:04:02.08,0:04:06.36,English,,0,0,0,,So for those mathematicians, negative numbers didn't exist.
-Dialogue: 0,0:04:02.08,0:04:06.36,Chinese,,0,0,0,,因此对于当时的数学家来说  负数解并不存在
+Dialogue: 0,0:04:02.08,0:04:03.38,English,,0,0,0,,So for those mathematicians,
+Dialogue: 0,0:04:02.08,0:04:03.38,Chinese,,0,0,0,,因此对于当时的数学家来说
+Dialogue: 0,0:04:03.38,0:04:06.36,English,,0,0,0,,negative numbers didn't exist.
+Dialogue: 0,0:04:03.38,0:04:06.36,Chinese,,0,0,0,,负数并不存在
 Dialogue: 0,0:04:06.36,0:04:07.32,English,,0,0,0,,You could subtract,
 Dialogue: 0,0:04:06.36,0:04:07.32,Chinese,,0,0,0,,你可以做减法
 Dialogue: 0,0:04:07.32,0:04:09.93,English,,0,0,0,,that is find the difference between two positive quantities,
@@ -184,20 +189,20 @@ Dialogue: 0,0:04:07.32,0:04:09.93,Chinese,,0,0,0,,寻找两个正数之间的差
 Dialogue: 0,0:04:09.93,0:04:11.74,English,,0,0,0,,but you couldn't have a negative answer
 Dialogue: 0,0:04:09.93,0:04:11.74,Chinese,,0,0,0,,但你不能得到一个为负的答案
 Dialogue: 0,0:04:11.74,0:04:13.63,English,,0,0,0,,or negative coefficients.
-Dialogue: 0,0:04:11.74,0:04:13.63,Chinese,,0,0,0,,或者负系数
+Dialogue: 0,0:04:11.74,0:04:13.63,Chinese,,0,0,0,,或者负的系数
 Dialogue: 0,0:04:13.63,0:04:15.96,English,,0,0,0,,Mathematicians were so averse to negative numbers
 Dialogue: 0,0:04:13.63,0:04:15.96,Chinese,,0,0,0,,数学家们非常厌恶负数
 Dialogue: 0,0:04:15.96,0:04:19.54,English,,0,0,0,,that there was no single quadratic equation.
 Dialogue: 0,0:04:15.96,0:04:19.54,Chinese,,0,0,0,,以至于二次方程没有一般式
-Dialogue: 0,0:04:19.54,0:04:21.88,English,,0,0,0,,Instead, there were six different versions
-Dialogue: 0,0:04:19.54,0:04:21.88,Chinese,,0,0,0,,而是产生了6个不同的方程
-Dialogue: 0,0:04:21.88,0:04:25.82,English,,0,0,0,,arranged so that the coefficients were always positive.
-Dialogue: 0,0:04:21.88,0:04:25.82,Chinese,,0,0,0,,以保证所有的系数都为正
+Dialogue: 0,0:04:19.54,0:04:22.49,English,,0,0,0,,Instead, there were six different versions arranged
+Dialogue: 0,0:04:19.54,0:04:22.49,Chinese,,0,0,0,,而是产生了6个不同的方程
+Dialogue: 0,0:04:22.49,0:04:25.82,English,,0,0,0,,so that the coefficients were always positive.
+Dialogue: 0,0:04:22.49,0:04:25.82,Chinese,,0,0,0,,以保证所有的系数都为正
 Dialogue: 0,0:04:25.82,0:04:28.35,English,,0,0,0,,The same approach was taken with the cubic.
 Dialogue: 0,0:04:25.82,0:04:28.35,Chinese,,0,0,0,,三次方程也采用了相同的处理方法
 Dialogue: 0,0:04:28.35,0:04:30.66,English,,0,0,0,,In the 11th century, Persian mathematician
 Dialogue: 0,0:04:28.35,0:04:30.66,Chinese,,0,0,0,,11世纪中期  波斯数学家
-Dialogue: 0,0:04:30.66,0:04:36.61,Chinese,,0,0,0,,{\pos(290,563)\fad(500,500)}奥马尔·海亚姆
+Dialogue: 0,0:04:30.66,0:04:36.61,Name,,0,0,0,,{\pos(290,563)\fad(500,500)}奥马尔 · 海亚姆
 Dialogue: 0,0:04:31.75,0:04:34.80,English,,0,0,0,,{\an3}identified 19 different cubic equations,
 Dialogue: 0,0:04:31.75,0:04:34.80,Chinese,,0,0,0,,{\an3}确定了19种不同的三次方程
 Dialogue: 0,0:04:34.80,0:04:37.61,English,,0,0,0,,{\an3}again, keeping all coefficients positive.
@@ -220,7 +225,7 @@ Dialogue: 0,0:04:53.49,0:04:56.23,English,,0,0,0,,400 years later and 4,000 kilo
 Dialogue: 0,0:04:53.49,0:04:56.23,Chinese,,0,0,0,,400年之后  在4000公里之外
 Dialogue: 0,0:04:56.23,0:04:58.64,English,,0,0,0,,the solution begins to take shape.
 Dialogue: 0,0:04:56.23,0:04:58.64,Chinese,,0,0,0,,答案逐渐开始成型
-Dialogue: 0,0:05:00.32,0:05:05.15,Chinese,,0,0,0,,{\pos(320,563)\fad(500,500)}希皮奥内·德尔·费罗
+Dialogue: 0,0:05:00.32,0:05:05.15,Name,,0,0,0,,{\pos(320,563)\fad(500,500)}希皮奥内 · 德尔 · 费罗
 Dialogue: 0,0:05:01.75,0:05:04.65,English,,0,0,0,,{\an3}is a mathematics professor at the University of Bologna.
 Dialogue: 0,0:05:01.75,0:05:04.65,Chinese,,0,0,0,,{\an3}是博洛尼亚大学的一位数学教授
 Dialogue: 0,0:05:05.50,0:05:07.28,English,,0,0,0,,Sometime around 1510,
@@ -272,7 +277,7 @@ Dialogue: 0,0:06:06.58,0:06:09.05,English,,0,0,0,,Only on his deathbed in 1526
 Dialogue: 0,0:06:06.58,0:06:09.05,Chinese,,0,0,0,,直到1526年他临终前
 Dialogue: 0,0:06:09.05,0:06:11.05,English,,0,0,0,,does he let it slip to his student
 Dialogue: 0,0:06:09.05,0:06:11.05,Chinese,,0,0,0,,他才将解法透露给了他的学生
-Dialogue: 0,0:06:11.05,0:06:16.84,Chinese,,0,0,0,,{\pos(870,526)\fad(333,500)}安东尼奥·菲奥尔
+Dialogue: 0,0:06:11.05,0:06:16.84,Name,,0,0,0,,{\pos(870,526)\fad(333,500)}安东尼奥 · 菲奥尔
 Dialogue: 0,0:06:13.23,0:06:16.10,English,,0,0,0,,Fior is not as talented a mathematician as his mentor,
 Dialogue: 0,0:06:13.23,0:06:16.10,Chinese,,0,0,0,,菲奥尔并不像他的导师那样有才华
 Dialogue: 0,0:06:16.10,0:06:18.38,English,,0,0,0,,but he is young and ambitious.
@@ -284,110 +289,110 @@ Dialogue: 0,0:06:19.68,0:06:22.12,Chinese,,0,0,0,,他吹嘘自己的数学能力
 Dialogue: 0,0:06:22.12,0:06:26.19,English,,0,0,0,,and specifically, his ability to solve the depressed cubic.
 Dialogue: 0,0:06:22.12,0:06:26.19,Chinese,,0,0,0,,并且他大吹特吹  自己能解弱三次方程
 Dialogue: 0,0:06:26.19,0:06:28.48,English,,0,0,0,,On February 12, 1535,
-Dialogue: 0,0:06:26.19,0:06:28.48,Chinese,,0,0,0,,1535年2月12日，
-Dialogue: 0,0:06:28.48,0:06:30.33,English,,0,0,0,,Fior challenges mathematician Niccolo Fontana Tartaglia
-Dialogue: 0,0:06:28.48,0:06:30.33,Chinese,,0,0,0,,菲奥尔向刚搬到自己家乡威尼斯的
-Dialogue: 0,0:06:30.70,0:06:34.50,Chinese,,0,0,0,,{\pos(445,523)\fad(333,500)}尼科洛·丰坦纳·塔尔塔利亚
+Dialogue: 0,0:06:26.19,0:06:28.48,Chinese,,0,0,0,,1535年2月12日
+Dialogue: 0,0:06:28.48,0:06:30.33,English,,0,0,0,,Fior challenges mathematician
+Dialogue: 0,0:06:28.48,0:06:30.33,Chinese,,0,0,0,,菲奥尔发出了挑战
+Dialogue: 0,0:06:30.70,0:06:34.50,Name,,0,0,0,,{\pos(445,523)\fad(333,500)}尼科洛 · 丰坦纳 · 塔尔塔利亚
 Dialogue: 0,0:06:32.36,0:06:36.11,English,,0,0,0,,who has recently moved to Fior's hometown of Venice.
-Dialogue: 0,0:06:32.36,0:06:36.11,Chinese,,0,0,0,,尼科洛·丰坦纳·塔尔塔利亚发出挑战
+Dialogue: 0,0:06:32.36,0:06:36.11,Chinese,,0,0,0,,这位数学家刚搬到菲奥尔的家乡 威尼斯
 Dialogue: 0,0:06:36.11,0:06:39.58,English,,0,0,0,,Niccolo Fontana is no stranger to adversity.
-Dialogue: 0,0:06:36.11,0:06:39.58,Chinese,,0,0,0,,尼科洛·丰坦纳可以说是一生历经磨难
+Dialogue: 0,0:06:36.11,0:06:39.58,Chinese,,0,0,0,,尼科洛·丰坦纳的经历写满了“逆境”二字
 Dialogue: 0,0:06:39.58,0:06:42.87,English,,0,0,0,,As a kid, his face was cut open by a French soldier,
-Dialogue: 0,0:06:39.58,0:06:42.87,Chinese,,0,0,0,,小时候，他曾经被法国士兵用刀切开面部
+Dialogue: 0,0:06:39.58,0:06:42.87,Chinese,,0,0,0,,小时候  他的脸被法国士兵用刀划了一道
 Dialogue: 0,0:06:42.87,0:06:44.77,English,,0,0,0,,leaving him with a stutter.
-Dialogue: 0,0:06:42.87,0:06:44.77,Chinese,,0,0,0,,使得他变成了口吃
+Dialogue: 0,0:06:42.87,0:06:44.77,Chinese,,0,0,0,,导致他落下了口吃的毛病
 Dialogue: 0,0:06:44.77,0:06:46.69,English,,0,0,0,,That's why he's known as Tartaglia,
-Dialogue: 0,0:06:44.77,0:06:46.69,Chinese,,0,0,0,,这也是为什么他名字中有“塔尔塔利亚”
+Dialogue: 0,0:06:44.77,0:06:46.69,Chinese,,0,0,0,,他因此得名“塔尔塔利亚”
 Dialogue: 0,0:06:46.69,0:06:49.26,English,,0,0,0,,which means stutterer in Italian.
-Dialogue: 0,0:06:46.69,0:06:49.26,Chinese,,0,0,0,,因为那在意大利语意为口吃者
+Dialogue: 0,0:06:46.69,0:06:49.26,Chinese,,0,0,0,,这个词就是意大利语里的“口吃者”
 Dialogue: 0,0:06:49.26,0:06:52.63,English,,0,0,0,,Growing up in poverty, Tartaglia is largely self-taught.
-Dialogue: 0,0:06:49.26,0:06:52.63,Chinese,,0,0,0,,塔尔塔利亚出身贫困，几乎靠自学
+Dialogue: 0,0:06:49.26,0:06:52.63,Chinese,,0,0,0,,塔尔塔利亚出身贫困  几乎靠自学
 Dialogue: 0,0:06:52.63,0:06:54.91,English,,0,0,0,,He claws his way up through Italian society
-Dialogue: 0,0:06:52.63,0:06:54.91,Chinese,,0,0,0,,他在意大利阶层中拼死拼活的前行
+Dialogue: 0,0:06:52.63,0:06:54.91,Chinese,,0,0,0,,他在意大利社会中摸爬滚打
 Dialogue: 0,0:06:54.91,0:06:57.74,English,,0,0,0,,to become a respected mathematician.
-Dialogue: 0,0:06:54.91,0:06:57.74,Chinese,,0,0,0,,最终成为了一名备受尊敬的数学家
+Dialogue: 0,0:06:54.91,0:06:57.74,Chinese,,0,0,0,,希望能成为一名受人尊敬的数学家
 Dialogue: 0,0:06:57.74,0:07:00.98,English,,0,0,0,,Now, all of that is at stake.
-Dialogue: 0,0:06:57.74,0:07:00.98,Chinese,,0,0,0,,然而此刻，这一切可能又会化为虚无
-Dialogue: 0,0:07:00.98,0:07:03.45,English,,0,0,0,,As is the custom, in the challenge Tartaglia gives
-Dialogue: 0,0:07:00.98,0:07:03.45,Chinese,,0,0,0,,作为数学挑战的传统，
-Dialogue: 0,0:07:03.45,0:07:06.83,English,,0,0,0,,a very discernment of 30 problems to Fior.
-Dialogue: 0,0:07:03.45,0:07:06.83,Chinese,,0,0,0,,塔尔塔利亚给菲奥尔出30道难题
+Dialogue: 0,0:06:57.74,0:07:00.98,Chinese,,0,0,0,,现在  成败在此一举
+Dialogue: 0,0:07:00.98,0:07:03.15,English,,0,0,0,,As is the custom, in the challenge Tartaglia
+Dialogue: 0,0:07:00.98,0:07:03.15,Chinese,,0,0,0,,按照传统  塔尔塔利亚接受挑战后
+Dialogue: 0,0:07:03.15,0:07:06.83,English,,0,0,0,,gives a very discernment of 30 problems to Fior.
+Dialogue: 0,0:07:03.15,0:07:06.83,Chinese,,0,0,0,,会甄选出30道题目给菲奥尔
 Dialogue: 0,0:07:06.83,0:07:09.63,English,,0,0,0,,Fior gives 30 problems to Tartaglia,
-Dialogue: 0,0:07:06.83,0:07:09.63,Chinese,,0,0,0,,菲奥尔给塔尔塔利亚也出30道难题
+Dialogue: 0,0:07:06.83,0:07:09.63,Chinese,,0,0,0,,菲奥尔也会选30题给塔尔塔利亚
 Dialogue: 0,0:07:09.63,0:07:12.09,English,,0,0,0,,all of which are depressed cubics.
-Dialogue: 0,0:07:09.63,0:07:12.09,Chinese,,0,0,0,,这次的题型全是弱三次方程
+Dialogue: 0,0:07:09.63,0:07:12.09,Chinese,,0,0,0,,他选的全是弱三次方程
 Dialogue: 0,0:07:13.08,0:07:14.81,English,,0,0,0,,Each mathematician has 40 days
-Dialogue: 0,0:07:13.08,0:07:14.81,Chinese,,0,0,0,,他们每人有40天时间
+Dialogue: 0,0:07:13.08,0:07:14.81,Chinese,,0,0,0,,每人有40天时间
 Dialogue: 0,0:07:14.81,0:07:17.36,English,,0,0,0,,to solve the 30 problems they've been given.
-Dialogue: 0,0:07:14.81,0:07:17.36,Chinese,,0,0,0,,去解各自拿到的30道题
+Dialogue: 0,0:07:14.81,0:07:17.36,Chinese,,0,0,0,,来解答对方给的30道题
 Dialogue: 0,0:07:17.36,0:07:21.25,English,,0,0,0,,Fior can't solve a single problem.
 Dialogue: 0,0:07:17.36,0:07:21.25,Chinese,,0,0,0,,菲奥尔一题也做不出来
 Dialogue: 0,0:07:21.25,0:07:24.80,English,,0,0,0,,Tartaglia solves all 30 of Fior's depressed cubics
-Dialogue: 0,0:07:21.25,0:07:24.80,Chinese,,0,0,0,,然而塔尔塔利亚只用了2小时
+Dialogue: 0,0:07:21.25,0:07:24.80,Chinese,,0,0,0,,塔尔塔利亚解决了全部30道弱三次方程
 Dialogue: 0,0:07:24.80,0:07:26.80,English,,0,0,0,,in just two hours.
-Dialogue: 0,0:07:24.80,0:07:26.80,Chinese,,0,0,0,,就解完了30道弱三次方程
+Dialogue: 0,0:07:24.80,0:07:26.80,Chinese,,0,0,0,,且只用了2小时
 Dialogue: 0,0:07:26.80,0:07:30.36,English,,0,0,0,,It seems Fior's boastfulness was his undoing.
-Dialogue: 0,0:07:26.80,0:07:30.36,Chinese,,0,0,0,,看起来菲奥尔的浮夸风正是他凉凉的原因
-Dialogue: 0,0:07:30.36,0:07:32.82,English,,0,0,0,,Before the challenge came, Tartaglia learns
-Dialogue: 0,0:07:30.36,0:07:32.82,Chinese,,0,0,0,,在收到挑战之前，塔尔塔利亚就有所耳闻
-Dialogue: 0,0:07:32.82,0:07:35.13,English,,0,0,0,,that Fior's claimed to have solved the depressed cubic,
-Dialogue: 0,0:07:32.82,0:07:35.13,Chinese,,0,0,0,,菲奥尔解弱三次方程的能力
+Dialogue: 0,0:07:26.80,0:07:30.36,Chinese,,0,0,0,,看起来  菲奥尔是因为吹牛皮而凉凉的
+Dialogue: 0,0:07:30.36,0:07:31.80,English,,0,0,0,,Before the challenge came,
+Dialogue: 0,0:07:30.36,0:07:31.80,Chinese,,0,0,0,,收到挑战之前  塔尔塔利亚就有所耳闻
+Dialogue: 0,0:07:31.80,0:07:33.56,English,,0,0,0,,Tartaglia learns that Fior's claimed
+Dialogue: 0,0:07:33.56,0:07:35.13,English,,0,0,0,,to have solved the depressed cubic,
+Dialogue: 0,0:07:31.80,0:07:35.13,Chinese,,0,0,0,,塔尔塔利亚就听说了  菲奥尔会解弱三次方程
 Dialogue: 0,0:07:35.13,0:07:36.61,English,,0,0,0,,but he's skeptical.
 Dialogue: 0,0:07:35.13,0:07:36.61,Chinese,,0,0,0,,但他其实很怀疑
 Dialogue: 0,0:07:36.89,0:07:39.89,Chinese,,0,0,0,,依我之见  他的能力不足以独立解出这个问题
 Dialogue: 0,0:07:39.89,0:07:41.15,English,,0,0,0,,Tartaglia writes.
-Dialogue: 0,0:07:38.11,0:07:41.15,Chinese,,0,0,0,,塔尔塔利亚写到
-Dialogue: 0,0:07:41.15,0:07:43.02,English,,0,0,0,,But what was that a great mathematician
-Dialogue: 0,0:07:41.15,0:07:43.02,Chinese,,0,0,0,,很可能是某位厉害的数学家把方法
+Dialogue: 0,0:07:39.89,0:07:41.15,Chinese,,0,0,0,,塔尔塔利亚写道
+Dialogue: 0,0:07:41.15,0:07:43.02,English,,0,0,0,,But word was that a great mathematician
+Dialogue: 0,0:07:41.15,0:07:43.02,Chinese,,0,0,0,,但据说有位厉害的数学家
 Dialogue: 0,0:07:43.02,0:07:44.84,English,,0,0,0,,had revealed the secret to Fior,
-Dialogue: 0,0:07:43.02,0:07:44.84,Chinese,,0,0,0,,透露给了菲奥尔
+Dialogue: 0,0:07:43.02,0:07:44.84,Chinese,,0,0,0,,把方法透露给了菲奥尔
 Dialogue: 0,0:07:44.84,0:07:46.71,English,,0,0,0,,which seems more plausible.
-Dialogue: 0,0:07:44.84,0:07:46.71,Chinese,,0,0,0,,这才合理
+Dialogue: 0,0:07:44.84,0:07:46.71,Chinese,,0,0,0,,这合理多了
 Dialogue: 0,0:07:46.71,0:07:50.09,English,,0,0,0,,So with the knowledge that a solution to the cubic is possible,
-Dialogue: 0,0:07:46.71,0:07:50.09,Chinese,,0,0,0,,既然知道解出三次方程是有可能的
+Dialogue: 0,0:07:46.71,0:07:50.09,Chinese,,0,0,0,,知道了三次方程的通解是有希望的
 Dialogue: 0,0:07:50.09,0:07:52.17,English,,0,0,0,,and with his livelihood on the line,
-Dialogue: 0,0:07:50.09,0:07:52.17,Chinese,,0,0,0,,并且他本人的生计也即将受到挑战
+Dialogue: 0,0:07:50.09,0:07:52.17,Chinese,,0,0,0,,也因为他的生计岌岌可危
 Dialogue: 0,0:07:52.17,0:07:56.07,English,,0,0,0,,Tartaglia sets about solving the depressed cubic himself.
-Dialogue: 0,0:07:52.17,0:07:56.07,Chinese,,0,0,0,,塔尔塔利亚开始自己研究弱三次方程的解法
+Dialogue: 0,0:07:52.17,0:07:56.07,Chinese,,0,0,0,,塔尔塔利亚决意自己研究弱三次方程的解法
 Dialogue: 0,0:07:56.07,0:07:58.60,English,,0,0,0,,To do it, he extends the idea
 Dialogue: 0,0:07:58.60,0:08:02.61,English,,0,0,0,,of completing the square into three dimensions.
-Dialogue: 0,0:07:56.07,0:08:02.61,Chinese,,0,0,0,,他把用正方形面积法解二次方程的思路拓展到正方体
+Dialogue: 0,0:07:56.07,0:08:02.61,Chinese,,0,0,0,,他把补全正方形面积的思路  拓展到了立方体
 Dialogue: 0,0:08:02.61,0:08:07.09,English,,0,0,0,,Take the equation x cubed plus nine x equals 26.
-Dialogue: 0,0:08:02.61,0:08:07.09,Chinese,,0,0,0,,例如 x^3 + 9x = 26
+Dialogue: 0,0:08:02.61,0:08:07.09,Chinese,,0,0,0,,以方程 x³ + 9x = 26 为例
 Dialogue: 0,0:08:07.09,0:08:08.43,English,,0,0,0,,You can think of x cubed
-Dialogue: 0,0:08:07.09,0:08:08.43,Chinese,,0,0,0,,我们把x的立方
+Dialogue: 0,0:08:07.09,0:08:08.43,Chinese,,0,0,0,,你可以把 x³
 Dialogue: 0,0:08:08.43,0:08:11.86,English,,0,0,0,,as the volume of a cube with sides of length x.
-Dialogue: 0,0:08:08.43,0:08:11.86,Chinese,,0,0,0,,想成是一个边长为x的立方体的体积
+Dialogue: 0,0:08:08.43,0:08:11.86,Chinese,,0,0,0,,视为边长为x的立方体的体积
 Dialogue: 0,0:08:11.86,0:08:15.54,English,,0,0,0,,And if you add a volume of nine x, you get 26.
-Dialogue: 0,0:08:11.86,0:08:15.54,Chinese,,0,0,0,,再加上一个体积为9x的物体，最终体积为26
+Dialogue: 0,0:08:11.86,0:08:15.54,Chinese,,0,0,0,,若再加上9x的体积  结果就等于26
 Dialogue: 0,0:08:15.54,0:08:17.46,English,,0,0,0,,So just like with completing the square,
 Dialogue: 0,0:08:15.54,0:08:17.46,Chinese,,0,0,0,,类比我们是如何补齐一个正方形的
 Dialogue: 0,0:08:17.46,0:08:19.44,English,,0,0,0,,we need to add onto the cube
-Dialogue: 0,0:08:17.46,0:08:19.44,Chinese,,0,0,0,,我们需要使正方体x^3的体积增加9x
 Dialogue: 0,0:08:19.44,0:08:22.69,English,,0,0,0,,to increase its volume by nine x.
-Dialogue: 0,0:08:19.44,0:08:22.69,Chinese,,0,0,0,,我们需要使正方体x^3的体积增加9x
+Dialogue: 0,0:08:17.46,0:08:22.69,Chinese,,0,0,0,,我们需要使正方体x³的体积增加9x
 Dialogue: 0,0:08:22.69,0:08:27.27,English,,0,0,0,,Imagine extending three sides of this cube out a distance y,
-Dialogue: 0,0:08:22.69,0:08:27.27,Chinese,,0,0,0,,把正方体的长宽高分别扩大y
+Dialogue: 0,0:08:22.69,0:08:27.27,Chinese,,0,0,0,,想象把正方体的长宽高分别扩大y
 Dialogue: 0,0:08:27.27,0:08:31.92,English,,0,0,0,,creating a new, larger cube with sides of length, call it z.
-Dialogue: 0,0:08:27.27,0:08:31.92,Chinese,,0,0,0,,我们得到一个边长为z的大正方体
+Dialogue: 0,0:08:27.27,0:08:31.92,Chinese,,0,0,0,,得到一个新的大正方体  称其边长为z
 Dialogue: 0,0:08:31.92,0:08:34.68,English,,0,0,0,,z is just x plus y.
-Dialogue: 0,0:08:31.92,0:08:34.68,Chinese,,0,0,0,,z是x+y
+Dialogue: 0,0:08:31.92,0:08:34.68,Chinese,,0,0,0,,z等于x+y
 Dialogue: 0,0:08:34.68,0:08:36.90,English,,0,0,0,,The original cube has been padded out
 Dialogue: 0,0:08:34.68,0:08:36.90,Chinese,,0,0,0,,原正方体就增大了一圈
 Dialogue: 0,0:08:36.90,0:08:41.20,English,,0,0,0,,and we can break up the additional volume into seven shapes.
 Dialogue: 0,0:08:36.90,0:08:41.20,Chinese,,0,0,0,,我们可以把这增加的部分切成7块：
 Dialogue: 0,0:08:41.20,0:08:43.22,English,,0,0,0,,There are three rectangular prisms
-Dialogue: 0,0:08:41.20,0:08:43.22,Chinese,,0,0,0,,有三个长宽高为x,x,y的长方体
+Dialogue: 0,0:08:41.20,0:08:43.22,Chinese,,0,0,0,,有三个长方体棱柱
 Dialogue: 0,0:08:43.22,0:08:46.71,English,,0,0,0,,with dimensions of x by x by y,
-Dialogue: 0,0:08:43.22,0:08:46.71,Chinese,,0,0,0,,有三个长宽高为x,x,y的长方体
+Dialogue: 0,0:08:43.22,0:08:46.71,Chinese,,0,0,0,,长宽高分别为 x, x, y
 Dialogue: 0,0:08:46.71,0:08:48.70,English,,0,0,0,,and another three narrower prisms
-Dialogue: 0,0:08:46.71,0:08:48.70,Chinese,,0,0,0,,另有三个长宽高为x,y,y的小长方体
+Dialogue: 0,0:08:46.71,0:08:48.70,Chinese,,0,0,0,,还有三个略窄的长方体棱柱
 Dialogue: 0,0:08:48.70,0:08:51.82,English,,0,0,0,,with dimensions of x by y by y,
-Dialogue: 0,0:08:48.70,0:08:51.82,Chinese,,0,0,0,,另有三个长宽高为x,y,y的小长方体
+Dialogue: 0,0:08:48.70,0:08:51.82,Chinese,,0,0,0,,长宽高为 x, y, y
 Dialogue: 0,0:08:51.82,0:08:54.89,English,,0,0,0,,plus there's a cube with a volume y cubed.
-Dialogue: 0,0:08:51.82,0:08:54.89,Chinese,,0,0,0,,再加上一个体积为y^3的正方体
+Dialogue: 0,0:08:51.82,0:08:54.89,Chinese,,0,0,0,,再加上一个体积为 y³ 的立方体
 Dialogue: 0,0:08:54.89,0:08:59.72,English,,0,0,0,,Tartaglia rearranges the six rectangular prisms into one block.
-Dialogue: 0,0:08:54.89,0:08:59.72,Chinese,,0,0,0,,塔尔塔利亚把这6个长方体重组成一个新的长方体
+Dialogue: 0,0:08:54.89,0:08:59.72,Chinese,,0,0,0,,塔尔塔利亚  把这6个长方体拼成一整块
 Dialogue: 0,0:08:59.72,0:09:02.01,English,,0,0,0,,{\an3}One side has length three y,
 Dialogue: 0,0:08:59.72,0:09:02.01,Chinese,,0,0,0,,{\an3}一边长为3y
 Dialogue: 0,0:09:02.01,0:09:05.28,English,,0,0,0,,{\an3}the other has a length x plus y, which is z,
@@ -395,90 +400,91 @@ Dialogue: 0,0:09:02.01,0:09:05.28,Chinese,,0,0,0,,{\an3}另一边长为x+y，即
 Dialogue: 0,0:09:05.28,0:09:07.40,English,,0,0,0,,{\an3}and the height is x.
 Dialogue: 0,0:09:05.28,0:09:07.40,Chinese,,0,0,0,,{\an3}高为x
 Dialogue: 0,0:09:07.40,0:09:08.84,English,,0,0,0,,{\an3}So the volume of this shape
-Dialogue: 0,0:09:07.40,0:09:08.84,Chinese,,0,0,0,,{\an3}这个新长方体的体积为
+Dialogue: 0,0:09:07.40,0:09:08.84,Chinese,,0,0,0,,{\an3}因此  它的体积
 Dialogue: 0,0:09:08.84,0:09:12.49,English,,0,0,0,,{\an3}is its base, three yz times its height, x.
-Dialogue: 0,0:09:08.84,0:09:12.49,Chinese,,0,0,0,,{\an3}底面积3yz 乘以 高 x
-Dialogue: 0,0:09:12.49,0:09:16.01,English,,0,0,0,,And Tartaglia realizes this volume can perfectly represent
-Dialogue: 0,0:09:12.49,0:09:16.01,Chinese,,0,0,0,,观察发现，如果让3yx等于9的话
+Dialogue: 0,0:09:08.84,0:09:12.49,Chinese,,0,0,0,,{\an3}等于底面积3yz  乘以高x
+Dialogue: 0,0:09:12.49,0:09:14.15,English,,0,0,0,,And Tartaglia realizes
+Dialogue: 0,0:09:12.49,0:09:14.15,Chinese,,0,0,0,,塔尔塔利亚意识到
+Dialogue: 0,0:09:14.15,0:09:16.01,English,,0,0,0,,this volume can perfectly represent
+Dialogue: 0,0:09:14.15,0:09:16.01,Chinese,,0,0,0,,这个体积可以完美地对应
 Dialogue: 0,0:09:16.01,0:09:18.18,English,,0,0,0,,the nine x term in the equation,
-Dialogue: 0,0:09:16.01,0:09:18.18,Chinese,,0,0,0,,这个新的长方体体积3yzx
+Dialogue: 0,0:09:16.01,0:09:18.18,Chinese,,0,0,0,,公式中的9x那项
 Dialogue: 0,0:09:18.18,0:09:20.83,English,,0,0,0,,if its base is equal to nine.
-Dialogue: 0,0:09:18.18,0:09:20.83,Chinese,,0,0,0,,就变成了原方程中的9x
+Dialogue: 0,0:09:18.18,0:09:20.83,Chinese,,0,0,0,,前提是这个底面积等于9
 Dialogue: 0,0:09:20.83,0:09:24.05,English,,0,0,0,,So he sets three yz equals nine.
 Dialogue: 0,0:09:20.83,0:09:24.05,Chinese,,0,0,0,,于是他令3yz=9
 Dialogue: 0,0:09:24.05,0:09:26.23,English,,0,0,0,,Putting the cube back together,
 Dialogue: 0,0:09:24.05,0:09:26.23,Chinese,,0,0,0,,把小块拼回去之后
 Dialogue: 0,0:09:26.23,0:09:29.38,English,,0,0,0,,you find we're missing the one small y cubed block,
-Dialogue: 0,0:09:26.23,0:09:29.38,Chinese,,0,0,0,,我们还漏算了一个小正方体体积
-Dialogue: 0,0:09:29.38,0:09:32.09,English,,0,0,0,,so we can complete the cube
-Dialogue: 0,0:09:32.09,0:09:35.34,English,,0,0,0,,by adding y cubed to both sides of the equation.
-Dialogue: 0,0:09:29.38,0:09:35.34,Chinese,,0,0,0,,于是我们方程两边同时加上y^3
+Dialogue: 0,0:09:26.23,0:09:29.38,Chinese,,0,0,0,,会发现我们还漏算了小立方体y³
+Dialogue: 0,0:09:29.38,0:09:32.02,English,,0,0,0,,so we can complete the cube
+Dialogue: 0,0:09:29.38,0:09:32.02,Chinese,,0,0,0,,要想补齐大立方体
+Dialogue: 0,0:09:32.02,0:09:35.34,English,,0,0,0,,by adding y cubed to both sides of the equation.
+Dialogue: 0,0:09:32.02,0:09:35.34,Chinese,,0,0,0,,可在方程两边同时加上y³
 Dialogue: 0,0:09:35.34,0:09:38.32,English,,0,0,0,,Now we have z cubed, the complete larger cube,
-Dialogue: 0,0:09:35.34,0:09:38.32,Chinese,,0,0,0,,这时大正方体的体积就是z^3
+Dialogue: 0,0:09:35.34,0:09:38.32,Chinese,,0,0,0,,这时大正方体的体积就是z³
 Dialogue: 0,0:09:38.32,0:09:40.65,English,,0,0,0,,equals 26 plus y cubed.
-Dialogue: 0,0:09:38.32,0:09:40.65,Chinese,,0,0,0,,等于26+y^3
+Dialogue: 0,0:09:38.32,0:09:40.65,Chinese,,0,0,0,,等于26+y³
 Dialogue: 0,0:09:40.65,0:09:43.90,English,,0,0,0,,We have two equations and two unknowns.
-Dialogue: 0,0:09:40.65,0:09:43.90,Chinese,,0,0,0,,此时两方程两未知数
+Dialogue: 0,0:09:40.65,0:09:43.90,Chinese,,0,0,0,,我们有了两条方程  两个未知数
 Dialogue: 0,0:09:43.90,0:09:45.52,English,,0,0,0,,Solving the first equation for z
 Dialogue: 0,0:09:43.90,0:09:45.52,Chinese,,0,0,0,,解出第一个方程的z
 Dialogue: 0,0:09:45.52,0:09:47.14,English,,0,0,0,,and substituting into the second,
 Dialogue: 0,0:09:45.52,0:09:47.14,Chinese,,0,0,0,,把它带入第二个方程
 Dialogue: 0,0:09:47.14,0:09:51.83,English,,0,0,0,,we get y to the six plus 26 y cubed equals 27.
-Dialogue: 0,0:09:47.14,0:09:51.83,Chinese,,0,0,0,,我们得到y^6 + 26y^3 = 27
-Dialogue: 0,0:09:51.83,0:09:54.67,English,,0,0,0,,At first glance, it seems like we're now worse off
-Dialogue: 0,0:09:51.83,0:09:54.67,Chinese,,0,0,0,,乍一看，这似乎比原方程更复杂了
-Dialogue: 0,0:09:54.67,0:09:55.77,English,,0,0,0,,than when we started.
-Dialogue: 0,0:09:54.67,0:09:55.77,Chinese,,0,0,0,,乍一看，这似乎比原方程更复杂了
+Dialogue: 0,0:09:47.14,0:09:51.83,Chinese,,0,0,0,,我们就得到了 y⁶ + 26y³ = 27
+Dialogue: 0,0:09:51.83,0:09:52.76,English,,0,0,0,,At first glance,
+Dialogue: 0,0:09:51.83,0:09:52.76,Chinese,,0,0,0,,乍一看
+Dialogue: 0,0:09:52.76,0:09:55.77,English,,0,0,0,,it seems like we're now worse off than when we started.
+Dialogue: 0,0:09:52.76,0:09:55.77,Chinese,,0,0,0,,这似乎比原方程更复杂了
 Dialogue: 0,0:09:55.77,0:09:57.89,English,,0,0,0,,The variable is now raised to the power of six,
 Dialogue: 0,0:09:55.77,0:09:57.89,Chinese,,0,0,0,,现在都出现6次方的未知项了
 Dialogue: 0,0:09:57.89,0:09:59.49,English,,0,0,0,,instead of just three.
 Dialogue: 0,0:09:57.89,0:09:59.49,Chinese,,0,0,0,,而原方程只有3次方
-Dialogue: 0,0:09:59.49,0:10:02.99,English,,0,0,0,,However, if you think of y cubed as a new variable,
-Dialogue: 0,0:09:59.49,0:10:02.99,Chinese,,0,0,0,,不过，把y^3想成一个新的未知数
-Dialogue: 0,0:10:02.99,0:10:06.04,English,,0,0,0,,the equation is actually a quadratic,
-Dialogue: 0,0:10:02.99,0:10:06.04,Chinese,,0,0,0,,这个方程其实是个二次的方程
-Dialogue: 0,0:10:06.04,0:10:09.78,English,,0,0,0,,the same quadratic that we solved by completing the square.
-Dialogue: 0,0:10:06.04,0:10:09.78,Chinese,,0,0,0,,而且就是我们此前解出来的那个二次方程
-Dialogue: 0,0:10:09.78,0:10:12.33,English,,0,0,0,,So we know y cubed equals one,
-Dialogue: 0,0:10:09.78,0:10:12.33,Chinese,,0,0,0,,因此y^3 = 1
-Dialogue: 0,0:10:12.33,0:10:16.34,English,,0,0,0,,which means y equals one, and z equals three over y,
-Dialogue: 0,0:10:12.33,0:10:16.34,Chinese,,0,0,0,,所以y = 1，z = 3/y
-Dialogue: 0,0:10:16.34,0:10:17.90,English,,0,0,0,,so z is three.
-Dialogue: 0,0:10:16.34,0:10:17.90,Chinese,,0,0,0,,所以 z = 3
+Dialogue: 0,0:09:59.49,0:10:02.99,English,,0,0,0,,{\an8}However, if you think of y cubed as a new variable,
+Dialogue: 0,0:09:59.49,0:10:02.99,Chinese,,0,0,0,,{\an8}不过  如果把y³视为一个新的未知数
+Dialogue: 0,0:10:02.99,0:10:06.04,English,,0,0,0,,{\an8}the equation is actually a quadratic,
+Dialogue: 0,0:10:02.99,0:10:06.04,Chinese,,0,0,0,,{\an8}它就变成了二次方程
+Dialogue: 0,0:10:06.04,0:10:09.78,English,,0,0,0,,{\an8}the same quadratic that we solved by completing the square.
+Dialogue: 0,0:10:06.04,0:10:09.78,Chinese,,0,0,0,,{\an8}就是我们此前解出来的那个二次方程
+Dialogue: 0,0:10:08.85,0:10:11.15,Chinese,,0,0,0,,{\an7\fad(333,500)\fs36}最后一步总是把正方形补齐\N\N\N\N为节省篇幅\N本视频使用了前面解出来的那个方程
+Dialogue: 0,0:10:09.78,0:10:14.30,English,,0,0,0,,So we know y cubed equals one, which means y equals one,
+Dialogue: 0,0:10:09.78,0:10:14.30,Chinese,,0,0,0,,因此我们知道了y³ = 1
+Dialogue: 0,0:10:14.30,0:10:17.90,English,,0,0,0,,and z equals three over y, so z is three.
+Dialogue: 0,0:10:14.30,0:10:17.90,Chinese,,0,0,0,,又因为z = 3/y   所以 z = 3
 Dialogue: 0,0:10:17.90,0:10:21.96,English,,0,0,0,,And since x plus y equals z, x must be equal to two,
-Dialogue: 0,0:10:17.90,0:10:21.96,Chinese,,0,0,0,,又因为x+y = z, 所以x = 2
+Dialogue: 0,0:10:17.90,0:10:21.96,Chinese,,0,0,0,,因为x+y = z   所以x = 2
 Dialogue: 0,0:10:22.84,0:10:26.44,English,,0,0,0,,which is indeed, a solution to the original equation.
-Dialogue: 0,0:10:22.84,0:10:26.44,Chinese,,0,0,0,,这就是原方程的一个解了
+Dialogue: 0,0:10:22.84,0:10:26.44,Chinese,,0,0,0,,这就是原方程的一组解了
 Dialogue: 0,0:10:26.44,0:10:27.28,English,,0,0,0,,And with that,
-Dialogue: 0,0:10:26.44,0:10:27.28,Chinese,,0,0,0,,塔尔塔利亚也成为了史上第二个
+Dialogue: 0,0:10:26.44,0:10:27.28,Chinese,,0,0,0,,凭借这个方法
 Dialogue: 0,0:10:27.28,0:10:30.03,English,,0,0,0,,Tartaglia becomes the second human on the planet
-Dialogue: 0,0:10:27.28,0:10:30.03,Chinese,,0,0,0,,塔尔塔利亚也成为了史上第二个
+Dialogue: 0,0:10:27.28,0:10:30.03,Chinese,,0,0,0,,塔尔塔利亚成为了地球上第二个
 Dialogue: 0,0:10:30.03,0:10:32.27,English,,0,0,0,,to solve the depressed cubic.
-Dialogue: 0,0:10:30.03,0:10:32.27,Chinese,,0,0,0,,解出弱三次方程的人
+Dialogue: 0,0:10:30.03,0:10:32.27,Chinese,,0,0,0,,会解弱三次方程的人
 Dialogue: 0,0:10:32.27,0:10:34.59,English,,0,0,0,,To save himself the work of going through the geometry
-Dialogue: 0,0:10:32.27,0:10:34.59,Chinese,,0,0,0,,为了避免为每个新的方程都推导一遍几何体体积
+Dialogue: 0,0:10:32.27,0:10:34.59,Chinese,,0,0,0,,为了避免对每个新的三次方程
 Dialogue: 0,0:10:34.59,0:10:36.84,English,,0,0,0,,for each new cubic he encounters,
-Dialogue: 0,0:10:34.59,0:10:36.84,Chinese,,0,0,0,,为了避免为每个新的方程都推导一遍几何体体积
+Dialogue: 0,0:10:34.59,0:10:36.84,Chinese,,0,0,0,,都推导一遍几何体体积
 Dialogue: 0,0:10:36.84,0:10:39.88,English,,0,0,0,,Tartaglia summarizes his method in an algorithm,
-Dialogue: 0,0:10:36.84,0:10:39.88,Chinese,,0,0,0,,塔尔塔利亚把他的方法总结成了一种算法
+Dialogue: 0,0:10:36.84,0:10:39.88,Chinese,,0,0,0,,他把自己的方法总结成了一种算法
 Dialogue: 0,0:10:39.88,0:10:41.68,English,,0,0,0,,a set of instructions.
 Dialogue: 0,0:10:39.88,0:10:41.68,Chinese,,0,0,0,,即一系列计算步骤
-Dialogue: 0,0:10:41.68,0:10:44.35,English,,0,0,0,,He writes this down not as a set of equations
-Dialogue: 0,0:10:44.35,0:10:45.39,English,,0,0,0,,like we would today.
+Dialogue: 0,0:10:41.68,0:10:45.39,English,,0,0,0,,He writes this down not as a set of equations like we would today.
 Dialogue: 0,0:10:41.68,0:10:45.39,Chinese,,0,0,0,,他不像现代人那样  把算法写成若干公式
-Dialogue: 0,0:10:45.39,0:10:47.44,English,,0,0,0,,Modern algebraic notation wouldn't exist
-Dialogue: 0,0:10:47.44,0:10:48.93,English,,0,0,0,,for another hundred years,
+Dialogue: 0,0:10:45.39,0:10:48.93,English,,0,0,0,,Modern algebraic notation wouldn't exist for another hundred years,
 Dialogue: 0,0:10:45.39,0:10:48.93,Chinese,,0,0,0,,现代的代数符号还要等几百年才出现
-Dialogue: 0,0:10:50.15,0:10:53.60,Poem,,0,0,0,,{\an4\pos(68,350)\fad(333,0)\fn20}若三次项并其后的一次项\N等于某个自然数\N则以该数为差值  寻甲乙两数\N接着  按照惯例\N甲乙之积总是会等于\N一次项系数之少半  自再乘\N剩余的步骤就是\N甲乙开立方  得值相减\N即为汝方程之未知数\N\N\N在第二种情况中\N三次项独立放一边\N你可以走另一条路\N常数项可拆为甲乙两数之和\N而甲乙之积仍直接等于
-Dialogue: 0,0:10:50.15,0:10:53.60,Poem,,0,0,0,,{\an4\pos(660,350)\fad(333,0)\fn20}一次项系数之少半  自再乘\N接着  出于常识\N开立方除甲并开立方除乙\N得和乃汝之未知数\N\N\N至于第三类计算\N则与第二类联立\N你若细心斟酌\N可见两式之解正负相抵\N\N\N我找到的方法\N用起来可不慢\N在一千五百三十四年\N凭借无比坚实的基础\N于此环海之城
+Dialogue: 0,0:10:50.15,0:10:53.60,Poem,,0,0,0,,{\an4\pos(68,353)\fad(333,0)\fn华文中楷-SC}若三次项并其后的一次项\N等于某个自然数\N则以该数为差值  寻甲乙两数\N接着  按照惯例\N甲乙之积总是会等于\N一次项系数之少半  自再乘\N剩余的步骤就是\N甲乙开立方  得值相减\N即为汝方程之未知数\N\N\N在第二种情况中\N三次项独立放一边\N你可以走另一条路\N常数项可拆为甲乙两数之和\N而甲乙之积仍直接等于
+Dialogue: 0,0:10:50.15,0:10:53.60,Poem,,0,0,0,,{\an4\pos(660,353)\fad(333,0)\fn华文中楷-SC}一次项系数之少半  自再乘\N接着  出于常识\N开立方除甲并开立方除乙\N得和乃汝之未知数\N\N\N至于第三类计算\N则与第二类联立\N你若细心斟酌\N可见两式之解正负相抵\N\N\N我找到的方法\N用起来可不慢\N在一千五百三十四年\N凭借无比坚实的基础\N于此环海之城
 Dialogue: 0,0:10:48.93,0:10:50.91,English,,0,0,0,,but instead, as a poem.
 Dialogue: 0,0:10:48.93,0:10:50.91,Chinese,,0,0,0,,他反而写了一首诗
 Dialogue: 0,0:10:52.36,0:10:55.83,English,,0,0,0,,Tartaglia's victory makes him something of a celebrity.
 Dialogue: 0,0:10:52.36,0:10:55.83,Chinese,,0,0,0,,塔尔塔利亚的成功让他名声大噪
 Dialogue: 0,0:10:55.83,0:10:57.76,English,,0,0,0,,Mathematicians are desperate to learn
+Dialogue: 0,0:10:55.83,0:10:57.76,Chinese,,0,0,0,,数学家都想知道
 Dialogue: 0,0:10:57.76,0:11:00.03,English,,0,0,0,,how he solved the cubic, especially
-Dialogue: 0,0:10:55.83,0:11:00.03,Chinese,,0,0,0,,数学家都想知道他怎么解三次方程  尤其是
-Dialogue: 0,0:11:00.20,0:11:04.75,Chinese,,0,0,0,,{\pos(360,420)\fad(333,500)}吉罗拉莫·卡尔达诺
+Dialogue: 0,0:10:57.76,0:11:00.03,Chinese,,0,0,0,,他怎么解三次方程  尤其是
+Dialogue: 0,0:11:00.20,0:11:04.75,Name,,0,0,0,,{\pos(352,420)\fad(333,500)}吉罗拉莫 · 卡尔达诺
 Dialogue: 0,0:11:01.31,0:11:03.64,English,,0,0,0,,a polymath based in Milan.
 Dialogue: 0,0:11:01.31,0:11:03.64,Chinese,,0,0,0,,一位来自米兰的博学家
 Dialogue: 0,0:11:03.64,0:11:06.31,English,,0,0,0,,As you can guess, Tartaglia will have none of it.
@@ -493,11 +499,11 @@ Dialogue: 0,0:11:13.68,0:11:17.83,English,,0,0,0,,that alternate between flatter
 Dialogue: 0,0:11:13.68,0:11:17.83,Chinese,,0,0,0,,一些是阿谀奉承  另一些又咄咄逼人
 Dialogue: 0,0:11:17.83,0:11:20.11,English,,0,0,0,,Eventually with the promise of an introduction
 Dialogue: 0,0:11:20.11,0:11:21.80,English,,0,0,0,,to his wealthy benefactor,
-Dialogue: 0,0:11:17.83,0:11:21.80,Chinese,,0,0,0,,最终，在许诺给把他介绍给自己的金主之后
+Dialogue: 0,0:11:17.83,0:11:21.80,Chinese,,0,0,0,,最终  在许诺给把他介绍给自己的金主之后
 Dialogue: 0,0:11:21.80,0:11:25.49,English,,0,0,0,,Cardono manages to lure Tartaglia to Milan.
 Dialogue: 0,0:11:21.80,0:11:25.49,Chinese,,0,0,0,,卡尔达诺终于将塔尔塔利亚请到了米兰
 Dialogue: 0,0:11:25.49,0:11:28.09,English,,0,0,0,,And there on March 25, 1539
-Dialogue: 0,0:11:25.49,0:11:28.09,Chinese,,0,0,0,,1539年3月25日
+Dialogue: 0,0:11:25.49,0:11:28.09,Chinese,,0,0,0,,1539年3月25日，在米兰
 Dialogue: 0,0:11:28.09,0:11:30.30,English,,0,0,0,,Tartaglia reveals his method,
 Dialogue: 0,0:11:28.09,0:11:30.30,Chinese,,0,0,0,,塔尔塔利亚揭秘了他的算法
 Dialogue: 0,0:11:30.30,0:11:34.21,English,,0,0,0,,but only after forcing Cardono to swear a solemn oath
@@ -509,9 +515,9 @@ Dialogue: 0,0:11:35.94,0:11:37.14,Chinese,,0,0,0,,不能公开发表
 Dialogue: 0,0:11:37.14,0:11:39.67,English,,0,0,0,,and to write it only in cipher.
 Dialogue: 0,0:11:37.14,0:11:39.67,Chinese,,0,0,0,,并且记录时必须写成密文
 Dialogue: 0,0:11:39.67,0:11:42.24,English,,0,0,0,,Quote, "So that after my death,
-Dialogue: 0,0:11:39.67,0:11:42.24,Chinese,,0,0,0,,按照他的说法：“我去世之后
+Dialogue: 0,0:11:39.67,0:11:42.24,Chinese,,0,0,0,,他说「我去世之后
 Dialogue: 0,0:11:42.24,0:11:45.30,English,,0,0,0,,no one shall be able to understand it."
-Dialogue: 0,0:11:42.24,0:11:45.30,Chinese,,0,0,0,,世人将再也无从得知这个算法”
+Dialogue: 0,0:11:42.24,0:11:45.30,Chinese,,0,0,0,,世人将再也无从得知这个算法」
 Dialogue: 0,0:11:45.30,0:11:46.92,English,,0,0,0,,Cardono is delighted
 Dialogue: 0,0:11:45.30,0:11:46.92,Chinese,,0,0,0,,卡尔达诺十分高兴
 Dialogue: 0,0:11:46.92,0:11:50.47,English,,0,0,0,,and immediately starts playing around with Tartaglia's algorithm.
@@ -580,11 +586,13 @@ Dialogue: 0,0:13:11.96,0:13:15.50,English,,0,0,0,,without violating his oath to 
 Dialogue: 0,0:13:11.96,0:13:15.50,Chinese,,0,0,0,,同时还不违反他对塔尔塔利亚的宣誓
 Dialogue: 0,0:13:15.50,0:13:16.47,English,,0,0,0,,Three years later,
 Dialogue: 0,0:13:15.50,0:13:16.47,Chinese,,0,0,0,,三年后
-Dialogue: 0,0:13:16.47,0:13:19.43,English,,0,0,0,,Cardano publishes "Ars Magna," The Great Art,
-Dialogue: 0,0:13:16.47,0:13:19.43,Chinese,,0,0,0,,卡尔达诺出版了《大术》一书  意为“伟大的艺术”
+Dialogue: 0,0:13:16.47,0:13:18.38,English,,0,0,0,,Cardano publishes "Ars Magna,"
+Dialogue: 0,0:13:16.47,0:13:18.38,Chinese,,0,0,0,,卡尔达诺出版了《大术》一书
+Dialogue: 0,0:13:18.38,0:13:19.43,English,,0,0,0,,The Great Art,
+Dialogue: 0,0:13:18.38,0:13:19.43,Chinese,,0,0,0,,意为“伟大的艺术”
 Dialogue: 0,0:13:19.43,0:13:21.89,English,,0,0,0,,an updated compendium of mathematics.
 Dialogue: 0,0:13:19.43,0:13:21.89,Chinese,,0,0,0,,一部先进的数学总纲
-Dialogue: 0,0:13:21.89,0:13:27.32,Chinese,,0,0,0,,{\pos(640,490)\fad(1000,0)}写就凡五载  流芳愿千年
+Dialogue: 0,0:13:21.89,0:13:25.96,Quote,,0,0,0,,{\pos(640,640)\fad(500,0)\fn华文中楷-SC}写就凡五载  流芳愿千年
 Dialogue: 0,0:13:25.96,0:13:28.83,English,,0,0,0,,Cardano writes a chapter with a unique geometric proof
 Dialogue: 0,0:13:25.96,0:13:28.83,Chinese,,0,0,0,,卡尔纳诺用了一章的篇幅列举了十三种三次方程
 Dialogue: 0,0:13:28.83,0:13:32.25,English,,0,0,0,,for each of the 13 arrangements of the cubic equation.
@@ -597,7 +605,7 @@ Dialogue: 0,0:13:36.59,0:13:39.95,English,,0,0,0,,Tartaglia is displeased, to sa
 Dialogue: 0,0:13:36.59,0:13:39.95,Chinese,,0,0,0,,塔尔塔利亚依然十分不爽
 Dialogue: 0,0:13:39.95,0:13:41.83,English,,0,0,0,,He writes insulting letters to Cardano,
 Dialogue: 0,0:13:39.95,0:13:41.83,Chinese,,0,0,0,,他写了封言辞激烈的信给卡尔达诺
-Dialogue: 0,0:13:40.50,0:13:45.50,Chinese,,0,0,0,,{\an4\pos(60,360)}卑鄙  无权无势的男人\N愚蠢至极的人\N对数学一无所知
+Dialogue: 0,0:13:40.50,0:13:47.50,Chinese,,0,0,0,,{\an4\pos(60,360)}卑鄙  无权无势的男人\N愚蠢至极的人\N对数学一无所知
 Dialogue: 0,0:13:41.83,0:13:45.25,English,,0,0,0,,and CC's a good fraction of the mathematics community.
 Dialogue: 0,0:13:41.83,0:13:45.25,Chinese,,0,0,0,,并抄送给了数学界的好一部分人
 Dialogue: 0,0:13:45.25,0:13:46.32,English,,0,0,0,,And he has a point.
@@ -633,7 +641,7 @@ Dialogue: 0,0:14:25.45,0:14:28.92,English,,0,0,0,,The reality is Tartaglia has n
 Dialogue: 0,0:14:25.45,0:14:28.92,Chinese,,0,0,0,,其实  塔尔塔利亚也对这个问题没辙
 Dialogue: 0,0:14:30.12,0:14:31.53,English,,0,0,0,,Cardano walks back through
 Dialogue: 0,0:14:30.12,0:14:31.53,Chinese,,0,0,0,,卡尔达诺回顾了
-Dialogue: 0,0:14:31.53,0:14:33.95,English,,0,0,0,,the geometric derivation of a similar problem 
+Dialogue: 0,0:14:31.53,0:14:33.95,English,,0,0,0,,the geometric derivation of a similar problem
 Dialogue: 0,0:14:31.53,0:14:33.95,Chinese,,0,0,0,,相似问题的几何推导过程
 Dialogue: 0,0:14:33.95,0:14:36.95,English,,0,0,0,,to see exactly what goes wrong.
 Dialogue: 0,0:14:33.95,0:14:36.95,Chinese,,0,0,0,,来确定问题所在
@@ -753,7 +761,7 @@ Dialogue: 0,0:17:21.45,0:17:25.03,English,,0,0,0,,Over the next hundred years, m
 Dialogue: 0,0:17:21.45,0:17:25.03,Chinese,,0,0,0,,现代数学在下一个世纪开始成型
 Dialogue: 0,0:17:25.03,0:17:26.34,English,,0,0,0,,In the 1600s,
 Dialogue: 0,0:17:25.03,0:17:26.34,Chinese,,0,0,0,,在17世纪
-Dialogue: 0,0:17:26.34,0:17:31.90,Chinese,,0,0,0,,{\pos(287,533)\fad(500,500)}弗朗索瓦·韦达
+Dialogue: 0,0:17:26.34,0:17:31.90,Name,,0,0,0,,{\pos(287,533)\fad(500,500)}弗朗索瓦 · 韦达
 Dialogue: 0,0:17:27.20,0:17:30.44,English,,0,0,0,,introduces the modern symbolic notation for algebra,
 Dialogue: 0,0:17:27.20,0:17:30.44,Chinese,,0,0,0,,为代数引入了现代的符号标记
 Dialogue: 0,0:17:30.44,0:17:31.66,English,,0,0,0,,ending the millennia-long
@@ -762,7 +770,7 @@ Dialogue: 0,0:17:31.66,0:17:35.45,English,,0,0,0,,tradition of math problems as 
 Dialogue: 0,0:17:31.66,0:17:35.45,Chinese,,0,0,0,,“用图像与啰嗦的文字描述数学题”的陈规
 Dialogue: 0,0:17:35.45,0:17:39.11,English,,0,0,0,,Geometry is no longer THE source of truth.
 Dialogue: 0,0:17:35.45,0:17:39.11,Chinese,,0,0,0,,几何  不再是真理的唯一来源
-Dialogue: 0,0:17:39.20,0:17:44.75,Chinese,,0,0,0,,{\pos(287,533)\fad(500,500)}勒内·笛卡尔
+Dialogue: 0,0:17:39.20,0:17:44.75,Name,,0,0,0,,{\pos(287,533)\fad(500,500)}勒内 · 笛卡尔
 Dialogue: 0,0:17:40.00,0:17:42.41,English,,0,0,0,,makes heavy use of the square roots of negatives,
 Dialogue: 0,0:17:40.00,0:17:42.41,Chinese,,0,0,0,,经常使用负数平方根
 Dialogue: 0,0:17:42.41,0:17:44.70,English,,0,0,0,,popularizing them as a result.
@@ -795,7 +803,7 @@ Dialogue: 0,0:18:17.13,0:18:20.77,English,,0,0,0,,And it turns out the cubic is 
 Dialogue: 0,0:18:17.13,0:18:20.77,Chinese,,0,0,0,,实际上三次方程仅仅是一个开始
 Dialogue: 0,0:18:20.77,0:18:21.90,English,,0,0,0,,In 1925,
 Dialogue: 0,0:18:20.77,0:18:21.90,Chinese,,0,0,0,,在1925年
-Dialogue: 0,0:18:21.65,0:18:27.20,Chinese,,0,0,0,,{\pos(343,533)\fad(333,500)}埃尔文·薛定谔
+Dialogue: 0,0:18:21.65,0:18:27.20,Name,,0,0,0,,{\pos(343,533)\fad(333,500)}埃尔文 · 薛定谔
 Dialogue: 0,0:18:22.82,0:18:24.95,English,,0,0,0,,{\an3}is searching for a wave equation
 Dialogue: 0,0:18:22.82,0:18:24.95,Chinese,,0,0,0,,{\an3}正在寻找一个波动方程
 Dialogue: 0,0:18:24.95,0:18:27.41,English,,0,0,0,,{\an3}that governs the behavior of quantum particles
@@ -900,9 +908,8 @@ Dialogue: 0,0:20:42.67,0:20:45.44,Chinese,,0,0,0,,指数函数有些有用的性
 Dialogue: 0,0:20:45.44,0:20:48.89,English,,0,0,0,,If you take the derivative with respect to position or time,
 Dialogue: 0,0:20:45.44,0:20:48.89,Chinese,,0,0,0,,如果你对上式求关于位置或时间的导数
 Dialogue: 0,0:20:48.89,0:20:50.56,English,,0,0,0,,that derivative is proportional
-Dialogue: 0,0:20:48.89,0:20:50.56,Chinese,,0,0,0,,导函数将
 Dialogue: 0,0:20:50.56,0:20:52.79,English,,0,0,0,,to the original function itself.
-Dialogue: 0,0:20:50.56,0:20:52.79,Chinese,,0,0,0,,正比于原函数本身
+Dialogue: 0,0:20:48.89,0:20:52.79,Chinese,,0,0,0,,导函数将正比于原函数本身
 Dialogue: 0,0:20:52.79,0:20:55.61,English,,0,0,0,,And that's not true if you use the sine function
 Dialogue: 0,0:20:52.79,0:20:55.61,Chinese,,0,0,0,,这点对正弦函数并不成立
 Dialogue: 0,0:20:55.61,0:20:57.76,English,,0,0,0,,whose derivative is cosine.
@@ -915,15 +922,18 @@ Dialogue: 0,0:21:03.39,0:21:07.31,English,,0,0,0,,of this form, creating any sor
 Dialogue: 0,0:21:03.39,0:21:07.31,Chinese,,0,0,0,,得到任何你想要的波形
 Dialogue: 0,0:21:07.31,0:21:10.67,English,,0,0,0,,and it too, will be a solution to Schrodinger's equation.
 Dialogue: 0,0:21:07.31,0:21:10.67,Chinese,,0,0,0,,其结果也是薛定谔方程解
-Dialogue: 0,0:21:10.67,0:21:13.43,English,,0,0,0,,The physicist Freeman Dyson later writes,
-Dialogue: 0,0:21:10.67,0:21:13.43,Chinese,,0,0,0,,物理学家弗里曼·戴森随后写道
+Dialogue: 0,0:21:10.67,0:21:11.44,English,,0,0,0,,The physicist
+Dialogue: 0,0:21:10.67,0:21:11.44,Chinese,,0,0,0,,物理学家
+Dialogue: 0,0:21:11.44,0:21:13.55,Name,,0,0,0,,{\pos(297,533)\fad(333,500)}弗里曼 · 戴森
+Dialogue: 0,0:21:12.33,0:21:13.43,English,,0,0,0,,later writes,
+Dialogue: 0,0:21:12.33,0:21:13.43,Chinese,,0,0,0,,随后写道
 Dialogue: 0,0:21:13.43,0:21:16.64,Chinese,,0,0,0,,薛定谔将负一的平方根置入方程
 Dialogue: 0,0:21:16.64,0:21:18.81,Chinese,,0,0,0,,这一切突然有了意义
 Dialogue: 0,0:21:18.81,0:21:21.19,Chinese,,0,0,0,,它马上从一个热传导方程
 Dialogue: 0,0:21:21.19,0:21:23.34,Chinese,,0,0,0,,变成了一个波动方程
-Dialogue: 0,0:21:23.34,0:21:25.64,Chinese,,0,0,0,,{\an7}而薛定谔不无喜悦地发现
-Dialogue: 0,0:21:25.64,0:21:29.31,Chinese,,0,0,0,,{\an7}这个方程具有与玻尔原子模型中
-Dialogue: 0,0:21:29.31,0:21:31.56,Chinese,,0,0,0,,{\an7}量子化轨道相对应的解
+Dialogue: 0,0:21:23.34,0:21:25.64,Chinese,,0,0,0,,而薛定谔不无喜悦地发现
+Dialogue: 0,0:21:25.64,0:21:29.31,Chinese,,0,0,0,,这个方程具有与玻尔原子模型中
+Dialogue: 0,0:21:29.31,0:21:31.56,Chinese,,0,0,0,,量子化轨道相对应的解
 Dialogue: 0,0:21:31.56,0:21:34.92,Chinese,,0,0,0,,这说明薛定谔方程正确地描述了
 Dialogue: 0,0:21:34.92,0:21:38.29,Chinese,,0,0,0,,我们对原子的行为所知道的一切
 Dialogue: 0,0:21:38.29,0:21:42.60,Chinese,,0,0,0,,这是一切化学和许多物理学的根基
