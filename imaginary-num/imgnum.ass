@@ -17,143 +17,137 @@ Style: Name,华文中宋-SC,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.73,English,,0,0,0,,- Mathematics began as a way to quantify our world,
-Dialogue: 0,0:00:00.00,0:00:03.73,Chinese,,0,0,0,,
-Dialogue: 0,0:00:03.73,0:00:04.91,English,,0,0,0,,to measure land,
-Dialogue: 0,0:00:03.73,0:00:04.91,Chinese,,0,0,0,,
-Dialogue: 0,0:00:04.91,0:00:08.48,English,,0,0,0,,predict the motions of planets, and keep track of commerce.
-Dialogue: 0,0:00:04.91,0:00:08.48,Chinese,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:03.73,Chinese,,0,0,0,,数学  发源于人类对世界的量化
+Dialogue: 0,0:00:03.73,0:00:06.38,English,,0,0,0,,to measure land, predict the motions of planets,
+Dialogue: 0,0:00:03.73,0:00:06.38,Chinese,,0,0,0,,测量土地  预测行星的运动
+Dialogue: 0,0:00:06.38,0:00:08.48,English,,0,0,0,,and keep track of commerce.
+Dialogue: 0,0:00:06.38,0:00:08.48,Chinese,,0,0,0,,以及在贸易中获取信息
 Dialogue: 0,0:00:08.48,0:00:11.59,English,,0,0,0,,Then came a problem considered impossible.
-Dialogue: 0,0:00:08.48,0:00:11.59,Chinese,,0,0,0,,
-Dialogue: 0,0:00:11.59,0:00:14.45,English,,0,0,0,,The secret to solving it was to separate math
-Dialogue: 0,0:00:11.59,0:00:14.45,Chinese,,0,0,0,,
-Dialogue: 0,0:00:14.45,0:00:18.22,English,,0,0,0,,from the real world, to split algebra from geometry
-Dialogue: 0,0:00:14.45,0:00:18.22,Chinese,,0,0,0,,
+Dialogue: 0,0:00:08.48,0:00:11.59,Chinese,,0,0,0,,后来  一个看似无解的问题出现了
+Dialogue: 0,0:00:11.59,0:00:12.81,English,,0,0,0,,The secret to solving it
+Dialogue: 0,0:00:11.59,0:00:12.81,Chinese,,0,0,0,,而解决它的关键
+Dialogue: 0,0:00:12.81,0:00:15.70,English,,0,0,0,,was to separate math from the real world,
+Dialogue: 0,0:00:12.81,0:00:15.70,Chinese,,0,0,0,,在于把数学从真实世界中剥离出来
+Dialogue: 0,0:00:15.70,0:00:18.22,English,,0,0,0,,to split algebra from geometry
+Dialogue: 0,0:00:15.70,0:00:18.22,Chinese,,0,0,0,,把代数从几何中剥离出来
 Dialogue: 0,0:00:18.22,0:00:20.84,English,,0,0,0,,and to invent new numbers so fanciful
-Dialogue: 0,0:00:18.22,0:00:20.84,Chinese,,0,0,0,,
+Dialogue: 0,0:00:18.22,0:00:20.84,Chinese,,0,0,0,,然后整出一种奇妙的数
 Dialogue: 0,0:00:20.84,0:00:23.02,English,,0,0,0,,they are called imaginary.
-Dialogue: 0,0:00:20.84,0:00:23.02,Chinese,,0,0,0,,
-Dialogue: 0,0:00:23.02,0:00:26.75,English,,0,0,0,,Ironically, 400 years later, these very numbers turn up
-Dialogue: 0,0:00:23.02,0:00:26.75,Chinese,,0,0,0,,
-Dialogue: 0,0:00:26.75,0:00:30.40,English,,0,0,0,,in the heart of our best physical theory of the universe.
-Dialogue: 0,0:00:26.75,0:00:30.40,Chinese,,0,0,0,,
+Dialogue: 0,0:00:20.84,0:00:23.02,Chinese,,0,0,0,,名曰「幻想的数」即虚数
+Dialogue: 0,0:00:23.02,0:00:26.27,English,,0,0,0,,Ironically, 400 years later, these very numbers
+Dialogue: 0,0:00:23.02,0:00:26.27,Chinese,,0,0,0,,然而“虚数”并不“虚”，虚数在四百年后
+Dialogue: 0,0:00:26.27,0:00:30.40,English,,0,0,0,,turn up in the heart of our best physical theory of the universe.
+Dialogue: 0,0:00:26.27,0:00:30.40,Chinese,,0,0,0,,在宇宙最美妙的物理理论中  成为了核心
 Dialogue: 0,0:00:30.40,0:00:33.94,English,,0,0,0,,Only by abandoning math's connection to reality
-Dialogue: 0,0:00:30.40,0:00:33.94,Chinese,,0,0,0,,
+Dialogue: 0,0:00:30.40,0:00:33.94,Chinese,,0,0,0,,我们只有抛弃了数学和现实的联系
 Dialogue: 0,0:00:33.94,0:00:36.95,English,,0,0,0,,could we discover reality's true nature.
-Dialogue: 0,0:00:33.94,0:00:36.95,Chinese,,0,0,0,,
-Dialogue: 0,0:00:38.72,0:00:41.29,English,,0,0,0,,In 1494, Luca Pacioli
-Dialogue: 0,0:00:38.72,0:00:41.29,Chinese,,0,0,0,,
-Dialogue: 0,0:00:41.29,0:00:44.19,English,,0,0,0,,who is Leonardo da Vinci's math teacher publishes
-Dialogue: 0,0:00:41.29,0:00:44.19,Chinese,,0,0,0,,
-Dialogue: 0,0:00:44.19,0:00:47.56,English,,0,0,0,,"Summa de Arithmetica," a comprehensive summary
-Dialogue: 0,0:00:44.19,0:00:47.56,Chinese,,0,0,0,,
-Dialogue: 0,0:00:47.56,0:00:51.23,English,,0,0,0,,of all mathematics known in Renaissance Italy at the time.
-Dialogue: 0,0:00:47.56,0:00:51.23,Chinese,,0,0,0,,
+Dialogue: 0,0:00:33.94,0:00:36.95,Chinese,,0,0,0,,才能发现物理世界的这一本质
+Dialogue: 0,0:00:38.72,0:00:40.17,English,,0,0,0,,In 1494,
+Dialogue: 0,0:00:38.72,0:00:40.17,Chinese,,0,0,0,,1494年
+Dialogue: 0,0:00:40.09,0:00:44.33,Name,,0,0,0,,{\pos(225,580)\fad(500,0)}卢卡 · 帕丘利
+Dialogue: 0,0:00:41.29,0:00:43.70,English,,0,0,0,,who is Leonardo da Vinci's math teacher
+Dialogue: 0,0:00:41.29,0:00:43.70,Chinese,,0,0,0,,达芬奇的数学老师
+Dialogue: 0,0:00:43.70,0:00:46.11,English,,0,0,0,,publishes "Summa de Arithmetica,"
+Dialogue: 0,0:00:43.70,0:00:46.11,Chinese,,0,0,0,,出版了《算术、几何、比例总论》
+Dialogue: 0,0:00:46.11,0:00:48.56,English,,0,0,0,,a comprehensive summary of all mathematics
+Dialogue: 0,0:00:46.11,0:00:48.56,Chinese,,0,0,0,,详尽地总结了在意大利文艺复兴时期
+Dialogue: 0,0:00:48.56,0:00:51.23,English,,0,0,0,,known in Renaissance Italy at the time.
+Dialogue: 0,0:00:48.56,0:00:51.23,Chinese,,0,0,0,,为人所知的所有数学知识
 Dialogue: 0,0:00:51.23,0:00:53.38,English,,0,0,0,,In it, there's a section on the cubic,
-Dialogue: 0,0:00:51.23,0:00:53.38,Chinese,,0,0,0,,
-Dialogue: 0,0:00:53.38,0:00:56.37,English,,0,0,0,,any equation which today we would write as ax cubed
-Dialogue: 0,0:00:53.38,0:00:56.37,Chinese,,0,0,0,,
-Dialogue: 0,0:00:56.37,0:01:00.20,English,,0,0,0,,plus bx squared plus cx plus d equals zero.
-Dialogue: 0,0:00:56.37,0:01:00.20,Chinese,,0,0,0,,
+Dialogue: 0,0:00:51.23,0:00:53.38,Chinese,,0,0,0,,里面有一节讲三次方程
+Dialogue: 0,0:00:53.38,0:00:55.53,English,,0,0,0,,any equation which today we would write as
+Dialogue: 0,0:00:53.38,0:00:55.53,Chinese,,0,0,0,,我们如今会把这些方程写成
 Dialogue: 0,0:01:00.20,0:01:02.55,English,,0,0,0,,People have been trying to find a general solution
-Dialogue: 0,0:01:00.20,0:01:02.55,Chinese,,0,0,0,,
 Dialogue: 0,0:01:02.55,0:01:05.63,English,,0,0,0,,to the cubic for at least 4,000 years,
-Dialogue: 0,0:01:02.55,0:01:05.63,Chinese,,0,0,0,,
+Dialogue: 0,0:01:02.55,0:01:05.63,Chinese,,0,0,0,,四千年来  人们都尝试找到三次方程的通解
 Dialogue: 0,0:01:05.63,0:01:08.10,English,,0,0,0,,but each ancient civilization that encountered it,
-Dialogue: 0,0:01:05.63,0:01:08.10,Chinese,,0,0,0,,
+Dialogue: 0,0:01:05.63,0:01:08.10,Chinese,,0,0,0,,但任何一个碰到了三次方程的文明
 Dialogue: 0,0:01:08.10,0:01:10.43,English,,0,0,0,,the Babylonians, Greeks, Chinese,
-Dialogue: 0,0:01:08.10,0:01:10.43,Chinese,,0,0,0,,
+Dialogue: 0,0:01:08.10,0:01:10.43,Chinese,,0,0,0,,巴比伦、希腊、华夏
+Dialogue: 0,0:01:08.10,0:01:15.38,Chinese,,0,0,0,,{\an7\fs45}唐朝数学家王孝通\N在《缉古算经》中\N提出的是数值解法\N并没有涉及通式
 Dialogue: 0,0:01:10.43,0:01:12.74,English,,0,0,0,,Indians, Egyptians, and Persians,
-Dialogue: 0,0:01:10.43,0:01:12.74,Chinese,,0,0,0,,
+Dialogue: 0,0:01:10.43,0:01:12.74,Chinese,,0,0,0,,印度、希腊还是波斯文明
 Dialogue: 0,0:01:12.74,0:01:15.38,English,,0,0,0,,they all came up empty-handed.
-Dialogue: 0,0:01:12.74,0:01:15.38,Chinese,,0,0,0,,
+Dialogue: 0,0:01:12.74,0:01:15.38,Chinese,,0,0,0,,均无功而返
 Dialogue: 0,0:01:15.38,0:01:17.99,English,,0,0,0,,Pacioli's conclusion is that a solution
-Dialogue: 0,0:01:15.38,0:01:17.99,Chinese,,0,0,0,,
 Dialogue: 0,0:01:17.99,0:01:21.41,English,,0,0,0,,to the cubic equation is impossible.
-Dialogue: 0,0:01:17.99,0:01:21.41,Chinese,,0,0,0,,
+Dialogue: 0,0:01:15.38,0:01:21.41,Chinese,,0,0,0,,帕丘利下的结论是  三次方程没有通解
 Dialogue: 0,0:01:21.41,0:01:23.37,English,,0,0,0,,Now, this should be at least a little surprising,
-Dialogue: 0,0:01:21.41,0:01:23.37,Chinese,,0,0,0,,
+Dialogue: 0,0:01:21.41,0:01:23.37,Chinese,,0,0,0,,这种想法或许有些让人意外
 Dialogue: 0,0:01:23.37,0:01:25.13,English,,0,0,0,,since without the X cubed term,
-Dialogue: 0,0:01:23.37,0:01:25.13,Chinese,,0,0,0,,
+Dialogue: 0,0:01:23.37,0:01:25.13,Chinese,,0,0,0,,因为去掉三次项
 Dialogue: 0,0:01:25.13,0:01:27.20,English,,0,0,0,,the equation is simply a quadratic.
-Dialogue: 0,0:01:25.13,0:01:27.20,Chinese,,0,0,0,,
+Dialogue: 0,0:01:25.13,0:01:27.20,Chinese,,0,0,0,,这就只是个二次方程
 Dialogue: 0,0:01:27.20,0:01:29.31,English,,0,0,0,,And many ancient civilizations
-Dialogue: 0,0:01:27.20,0:01:29.31,Chinese,,0,0,0,,
+Dialogue: 0,0:01:27.20,0:01:29.31,Chinese,,0,0,0,,而许多古代文明
+Dialogue: 0,0:01:27.20,0:01:29.31,Chinese,,0,0,0,,{\an7\fs45}古巴比伦，约公元前2000年
 Dialogue: 0,0:01:29.31,0:01:32.62,English,,0,0,0,,had solved quadratics thousands of years earlier.
-Dialogue: 0,0:01:29.31,0:01:32.62,Chinese,,0,0,0,,
+Dialogue: 0,0:01:29.31,0:01:32.62,Chinese,,0,0,0,,几千年前就会解二次方程了
 Dialogue: 0,0:01:32.62,0:01:34.61,English,,0,0,0,,Today, anyone who's passed eighth grade
-Dialogue: 0,0:01:32.62,0:01:34.61,Chinese,,0,0,0,,
 Dialogue: 0,0:01:34.61,0:01:36.26,English,,0,0,0,,knows the general solution.
-Dialogue: 0,0:01:34.61,0:01:36.26,Chinese,,0,0,0,,
-Dialogue: 0,0:01:36.26,0:01:39.34,English,,0,0,0,,It's minus b plus minus root b squared minus four ac
-Dialogue: 0,0:01:36.26,0:01:39.34,Chinese,,0,0,0,,
-Dialogue: 0,0:01:39.34,0:01:41.17,English,,0,0,0,,all over two a.
-Dialogue: 0,0:01:39.34,0:01:41.17,Chinese,,0,0,0,,
+Dialogue: 0,0:01:32.62,0:01:36.26,Chinese,,0,0,0,,如今  任何一个上了初二的学生都知道通解
+Dialogue: 0,0:01:32.62,0:01:36.26,Chinese,,0,0,0,,{\an7\fs45}按照中国课标则是在初三
 Dialogue: 0,0:01:41.17,0:01:44.25,English,,0,0,0,,But most people just plug and chug into this formula
-Dialogue: 0,0:01:41.17,0:01:44.25,Chinese,,0,0,0,,
-Dialogue: 0,0:01:44.25,0:01:46.84,English,,0,0,0,,completely oblivious to the geometry
-Dialogue: 0,0:01:44.25,0:01:46.84,Chinese,,0,0,0,,
-Dialogue: 0,0:01:46.84,0:01:50.32,English,,0,0,0,,that ancient mathematicians used to derive it.
-Dialogue: 0,0:01:46.84,0:01:50.32,Chinese,,0,0,0,,
+Dialogue: 0,0:01:41.17,0:01:44.25,Chinese,,0,0,0,,但是许多人只是会套这个公式
+Dialogue: 0,0:01:44.25,0:01:45.87,English,,0,0,0,,completely oblivious 
+Dialogue: 0,0:01:44.25,0:01:45.87,Chinese,,0,0,0,,而完全不知道  
+Dialogue: 0,0:01:45.87,0:01:50.32,English,,0,0,0,,to the geometry that ancient mathematicians used to derive it.
+Dialogue: 0,0:01:45.87,0:01:50.32,Chinese,,0,0,0,,古代数学家推导时背后运用的几何
 Dialogue: 0,0:01:50.32,0:01:52.08,English,,0,0,0,,You know, back in those days,
-Dialogue: 0,0:01:50.32,0:01:52.08,Chinese,,0,0,0,,
 Dialogue: 0,0:01:52.08,0:01:54.81,English,,0,0,0,,mathematics wasn't written down in equations.
-Dialogue: 0,0:01:52.08,0:01:54.81,Chinese,,0,0,0,,
+Dialogue: 0,0:01:52.08,0:01:54.81,Chinese,,0,0,0,,古代的数学不是写成符号公式
 Dialogue: 0,0:01:54.81,0:01:58.22,English,,0,0,0,,It was written with words and pictures.
-Dialogue: 0,0:01:54.81,0:01:58.22,Chinese,,0,0,0,,
+Dialogue: 0,0:01:54.81,0:01:58.22,Chinese,,0,0,0,,而是用文字和图像描述
 Dialogue: 0,0:01:58.22,0:01:59.05,English,,0,0,0,,Take, for example,
-Dialogue: 0,0:01:58.22,0:01:59.05,Chinese,,0,0,0,,
 Dialogue: 0,0:01:59.05,0:02:03.05,English,,0,0,0,,the equation x squared plus 26x equals 27.
-Dialogue: 0,0:01:59.05,0:02:03.05,Chinese,,0,0,0,,
+Dialogue: 0,0:01:58.22,0:02:03.05,Chinese,,0,0,0,,例如 x²+26x=27
 Dialogue: 0,0:02:03.05,0:02:06.48,English,,0,0,0,,Ancient mathematicians would think of the x squared term
-Dialogue: 0,0:02:03.05,0:02:06.48,Chinese,,0,0,0,,
+Dialogue: 0,0:02:03.05,0:02:06.48,Chinese,,0,0,0,,古代的数学家会把 x²
 Dialogue: 0,0:02:06.48,0:02:10.98,English,,0,0,0,,like a literal square with sides of length x.
-Dialogue: 0,0:02:06.48,0:02:10.98,Chinese,,0,0,0,,
-Dialogue: 0,0:02:10.98,0:02:12.67,English,,0,0,0,,And then 26x,
-Dialogue: 0,0:02:10.98,0:02:12.67,Chinese,,0,0,0,,
-Dialogue: 0,0:02:12.67,0:02:17.01,English,,0,0,0,,well, that would be a rectangle with one side of length 26
-Dialogue: 0,0:02:12.67,0:02:17.01,Chinese,,0,0,0,,
+Dialogue: 0,0:02:06.48,0:02:10.98,Chinese,,0,0,0,,当作一个边长为 x 的正方形
+Dialogue: 0,0:02:10.98,0:02:13.48,English,,0,0,0,,And then 26x, well, that would be
+Dialogue: 0,0:02:10.98,0:02:13.48,Chinese,,0,0,0,,而 26x 则是
+Dialogue: 0,0:02:13.48,0:02:17.01,English,,0,0,0,,a rectangle with one side of length 26
 Dialogue: 0,0:02:17.01,0:02:19.78,English,,0,0,0,,and the other side of length x,
-Dialogue: 0,0:02:17.01,0:02:19.78,Chinese,,0,0,0,,
+Dialogue: 0,0:02:13.48,0:02:19.78,Chinese,,0,0,0,,长宽分别为 26 和 x 的一个长方形
 Dialogue: 0,0:02:19.78,0:02:24.43,English,,0,0,0,,and these two areas together add to 27.
-Dialogue: 0,0:02:19.78,0:02:24.43,Chinese,,0,0,0,,
+Dialogue: 0,0:02:19.78,0:02:24.43,Chinese,,0,0,0,,这俩的面积和为 27
 Dialogue: 0,0:02:24.43,0:02:26.88,English,,0,0,0,,So how do we figure out what x is?
-Dialogue: 0,0:02:24.43,0:02:26.88,Chinese,,0,0,0,,
+Dialogue: 0,0:02:24.43,0:02:26.88,Chinese,,0,0,0,,那怎么求出 x 呢
 Dialogue: 0,0:02:26.88,0:02:31.88,English,,0,0,0,,Well, we can take this 26x rectangle and cut it in half.
-Dialogue: 0,0:02:26.88,0:02:31.88,Chinese,,0,0,0,,
-Dialogue: 0,0:02:33.29,0:02:38.23,English,,0,0,0,,So now I have two 13x rectangles and I can position them
-Dialogue: 0,0:02:33.29,0:02:38.23,Chinese,,0,0,0,,
+Dialogue: 0,0:02:26.88,0:02:31.88,Chinese,,0,0,0,,我们把这个 26x 的矩形切成两半
+Dialogue: 0,0:02:33.29,0:02:36.83,English,,0,0,0,,So now I have two 13x rectangles and I can position them
+Dialogue: 0,0:02:33.29,0:02:36.83,Chinese,,0,0,0,,就得到了两个 13x 的矩形
+Dialogue: 0,0:02:36.83,0:02:38.23,English,,0,0,0,,and I can position them
+Dialogue: 0,0:02:36.83,0:02:38.23,Chinese,,0,0,0,,只要拼一下
 Dialogue: 0,0:02:38.23,0:02:41.42,English,,0,0,0,,so the new shape I create is almost a square,
-Dialogue: 0,0:02:38.23,0:02:41.42,Chinese,,0,0,0,,
+Dialogue: 0,0:02:38.23,0:02:41.42,Chinese,,0,0,0,,我得到的图形就非常接近正方形
 Dialogue: 0,0:02:41.42,0:02:44.25,English,,0,0,0,,It's just missing this section down here.
-Dialogue: 0,0:02:41.42,0:02:44.25,Chinese,,0,0,0,,
+Dialogue: 0,0:02:41.42,0:02:44.25,Chinese,,0,0,0,,只是少了右下角这部分
 Dialogue: 0,0:02:44.25,0:02:46.16,English,,0,0,0,,But I know the dimensions of this section.
-Dialogue: 0,0:02:44.25,0:02:46.16,Chinese,,0,0,0,,
+Dialogue: 0,0:02:44.25,0:02:46.16,Chinese,,0,0,0,,但是我知道少的这块的尺寸
 Dialogue: 0,0:02:46.16,0:02:48.45,English,,0,0,0,,It's just 13 by 13.
-Dialogue: 0,0:02:46.16,0:02:48.45,Chinese,,0,0,0,,
-Dialogue: 0,0:02:48.45,0:02:52.41,English,,0,0,0,,So I can complete the square by adding in
-Dialogue: 0,0:02:48.45,0:02:52.41,Chinese,,0,0,0,,
-Dialogue: 0,0:02:52.41,0:02:55.97,English,,0,0,0,,a 13 by 13 square.
-Dialogue: 0,0:02:52.41,0:02:55.97,Chinese,,0,0,0,,
+Dialogue: 0,0:02:46.16,0:02:48.45,Chinese,,0,0,0,,是13×13
+Dialogue: 0,0:02:48.45,0:02:55.97,English,,0,0,0,,So I can complete the square by adding in a 13 by 13 square.
+Dialogue: 0,0:02:48.45,0:02:55.97,Chinese,,0,0,0,,我可以给它补上一个 13×13 的正方形
 Dialogue: 0,0:02:55.97,0:02:57.86,English,,0,0,0,,Now, since I've added 13-squared
-Dialogue: 0,0:02:55.97,0:02:57.86,Chinese,,0,0,0,,
 Dialogue: 0,0:02:57.86,0:03:01.45,English,,0,0,0,,or 169 to the left-hand side of the equation,
-Dialogue: 0,0:02:57.86,0:03:01.45,Chinese,,0,0,0,,
+Dialogue: 0,0:02:57.86,0:03:01.45,Chinese,,0,0,0,,由于等号左边多了13²  即169
 Dialogue: 0,0:03:01.45,0:03:03.48,English,,0,0,0,,I also have to add 169
-Dialogue: 0,0:03:01.45,0:03:03.48,Chinese,,0,0,0,,
 Dialogue: 0,0:03:03.48,0:03:05.98,English,,0,0,0,,to the right-hand side of the equation
-Dialogue: 0,0:03:03.48,0:03:05.98,Chinese,,0,0,0,,
+Dialogue: 0,0:03:03.48,0:03:05.98,Chinese,,0,0,0,,我得在等号右边也加上169
 Dialogue: 0,0:03:05.98,0:03:07.67,English,,0,0,0,,to maintain the equality.
-Dialogue: 0,0:03:05.98,0:03:07.67,Chinese,,0,0,0,,
+Dialogue: 0,0:03:05.98,0:03:07.67,Chinese,,0,0,0,,来保证两边相等
 Dialogue: 0,0:03:07.67,0:03:09.64,English,,0,0,0,,So now I have this larger square
-Dialogue: 0,0:03:07.67,0:03:09.64,Chinese,,0,0,0,,
+Dialogue: 0,0:03:07.67,0:03:09.64,Chinese,,0,0,0,,现在  我有个大正方形
 Dialogue: 0,0:03:09.64,0:03:13.91,English,,0,0,0,,with sides of length X plus 13, and it is equal to 196.
-Dialogue: 0,0:03:09.64,0:03:13.91,Chinese,,0,0,0,,
+Dialogue: 0,0:03:09.64,0:03:13.91,Chinese,,0,0,0,,边长是 (13+x)，面积是 196
 Dialogue: 0,0:03:16.47,0:03:19.70,English,,0,0,0,,Now the square root of 196 is 14.
-Dialogue: 0,0:03:16.47,0:03:19.70,Chinese,,0,0,0,,
+Dialogue: 0,0:03:16.47,0:03:19.70,Chinese,,0,0,0,,196 开根号得 14
 Dialogue: 0,0:03:19.70,0:03:23.33,English,,0,0,0,,So I know that the sides of this square have length 14,
-Dialogue: 0,0:03:19.70,0:03:23.33,Chinese,,0,0,0,,
+Dialogue: 0,0:03:19.70,0:03:23.33,Chinese,,0,0,0,,所以大正方形的边长是 14
 Dialogue: 0,0:03:23.33,0:03:26.82,English,,0,0,0,,which means X is equal to one.
-Dialogue: 0,0:03:23.33,0:03:26.82,Chinese,,0,0,0,,
+Dialogue: 0,0:03:23.33,0:03:26.82,Chinese,,0,0,0,,也就意味着 x=1
 Dialogue: 0,0:03:26.82,0:03:32.67,English,,0,0,0,,Now this is a great visual way to solve a quadratic equation,
 Dialogue: 0,0:03:26.82,0:03:32.67,Chinese,,0,0,0,,这是一种非常直观的二次方程的解法
 Dialogue: 0,0:03:32.67,0:03:34.87,English,,0,0,0,,but it isn't complete.
