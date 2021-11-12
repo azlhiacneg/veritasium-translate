@@ -59,19 +59,20 @@ Dialogue: 0,0:00:53.38,0:00:55.53,English,,0,0,0,,any equation which today we wo
 Dialogue: 0,0:00:53.38,0:00:55.53,Chinese,,0,0,0,,我们如今会把这些方程写成
 Dialogue: 0,0:01:00.20,0:01:02.55,English,,0,0,0,,People have been trying to find a general solution
 Dialogue: 0,0:01:02.55,0:01:05.63,English,,0,0,0,,to the cubic for at least 4,000 years,
-Dialogue: 0,0:01:02.55,0:01:05.63,Chinese,,0,0,0,,四千年来  人们都尝试找到三次方程的通解
+Dialogue: 0,0:01:00.20,0:01:05.63,Chinese,,0,0,0,,四千年来  人们都尝试找到三次方程的通解
 Dialogue: 0,0:01:05.63,0:01:08.10,English,,0,0,0,,but each ancient civilization that encountered it,
 Dialogue: 0,0:01:05.63,0:01:08.10,Chinese,,0,0,0,,但任何一个碰到了三次方程的文明
 Dialogue: 0,0:01:08.10,0:01:10.43,English,,0,0,0,,the Babylonians, Greeks, Chinese,
 Dialogue: 0,0:01:08.10,0:01:10.43,Chinese,,0,0,0,,巴比伦、希腊、华夏
 Dialogue: 0,0:01:08.10,0:01:15.38,Chinese,,0,0,0,,{\an7\fs45}唐朝数学家王孝通\N在《缉古算经》中\N提出的是数值解法\N并没有涉及通式
 Dialogue: 0,0:01:10.43,0:01:12.74,English,,0,0,0,,Indians, Egyptians, and Persians,
-Dialogue: 0,0:01:10.43,0:01:12.74,Chinese,,0,0,0,,印度、希腊还是波斯文明
+Dialogue: 0,0:01:10.43,0:01:12.74,Chinese,,0,0,0,,印度、埃及还是波斯文明
 Dialogue: 0,0:01:12.74,0:01:15.38,English,,0,0,0,,they all came up empty-handed.
 Dialogue: 0,0:01:12.74,0:01:15.38,Chinese,,0,0,0,,均无功而返
-Dialogue: 0,0:01:15.38,0:01:17.99,English,,0,0,0,,Pacioli's conclusion is that a solution
-Dialogue: 0,0:01:17.99,0:01:21.41,English,,0,0,0,,to the cubic equation is impossible.
-Dialogue: 0,0:01:15.38,0:01:21.41,Chinese,,0,0,0,,帕丘利下的结论是  三次方程没有通解
+Dialogue: 0,0:01:15.38,0:01:17.14,English,,0,0,0,,Pacioli's conclusion is that
+Dialogue: 0,0:01:15.38,0:01:17.14,Chinese,,0,0,0,,帕丘利下的结论是
+Dialogue: 0,0:01:17.14,0:01:21.41,English,,0,0,0,,a solution to the cubic equation is impossible.
+Dialogue: 0,0:01:17.14,0:01:21.41,Chinese,,0,0,0,,三次方程没有通解
 Dialogue: 0,0:01:21.41,0:01:23.37,English,,0,0,0,,Now, this should be at least a little surprising,
 Dialogue: 0,0:01:21.41,0:01:23.37,Chinese,,0,0,0,,这种想法或许有些让人意外
 Dialogue: 0,0:01:23.37,0:01:25.13,English,,0,0,0,,since without the X cubed term,
@@ -89,13 +90,13 @@ Dialogue: 0,0:01:32.62,0:01:36.26,Chinese,,0,0,0,,如今  任何一个上了初�
 Dialogue: 0,0:01:32.62,0:01:36.26,Chinese,,0,0,0,,{\an7\fs45}按照中国课标则是在初三
 Dialogue: 0,0:01:41.17,0:01:44.25,English,,0,0,0,,But most people just plug and chug into this formula
 Dialogue: 0,0:01:41.17,0:01:44.25,Chinese,,0,0,0,,但是许多人只是会套这个公式
-Dialogue: 0,0:01:44.25,0:01:45.87,English,,0,0,0,,completely oblivious 
-Dialogue: 0,0:01:44.25,0:01:45.87,Chinese,,0,0,0,,而完全不知道  
+Dialogue: 0,0:01:44.25,0:01:45.87,English,,0,0,0,,completely oblivious
+Dialogue: 0,0:01:44.25,0:01:45.87,Chinese,,0,0,0,,而完全不知道
 Dialogue: 0,0:01:45.87,0:01:50.32,English,,0,0,0,,to the geometry that ancient mathematicians used to derive it.
 Dialogue: 0,0:01:45.87,0:01:50.32,Chinese,,0,0,0,,古代数学家推导时背后运用的几何
 Dialogue: 0,0:01:50.32,0:01:52.08,English,,0,0,0,,You know, back in those days,
 Dialogue: 0,0:01:52.08,0:01:54.81,English,,0,0,0,,mathematics wasn't written down in equations.
-Dialogue: 0,0:01:52.08,0:01:54.81,Chinese,,0,0,0,,古代的数学不是写成符号公式
+Dialogue: 0,0:01:50.32,0:01:54.81,Chinese,,0,0,0,,古代的数学不是写成符号公式
 Dialogue: 0,0:01:54.81,0:01:58.22,English,,0,0,0,,It was written with words and pictures.
 Dialogue: 0,0:01:54.81,0:01:58.22,Chinese,,0,0,0,,而是用文字和图像描述
 Dialogue: 0,0:01:58.22,0:01:59.05,English,,0,0,0,,Take, for example,
@@ -105,17 +106,16 @@ Dialogue: 0,0:02:03.05,0:02:06.48,English,,0,0,0,,Ancient mathematicians would t
 Dialogue: 0,0:02:03.05,0:02:06.48,Chinese,,0,0,0,,古代的数学家会把 x²
 Dialogue: 0,0:02:06.48,0:02:10.98,English,,0,0,0,,like a literal square with sides of length x.
 Dialogue: 0,0:02:06.48,0:02:10.98,Chinese,,0,0,0,,当作一个边长为 x 的正方形
-Dialogue: 0,0:02:10.98,0:02:13.48,English,,0,0,0,,And then 26x, well, that would be
-Dialogue: 0,0:02:10.98,0:02:13.48,Chinese,,0,0,0,,而 26x 则是
-Dialogue: 0,0:02:13.48,0:02:17.01,English,,0,0,0,,a rectangle with one side of length 26
-Dialogue: 0,0:02:17.01,0:02:19.78,English,,0,0,0,,and the other side of length x,
-Dialogue: 0,0:02:13.48,0:02:19.78,Chinese,,0,0,0,,长宽分别为 26 和 x 的一个长方形
+Dialogue: 0,0:02:10.98,0:02:14.67,English,,0,0,0,,And then 26x, well, that would be a rectangle
+Dialogue: 0,0:02:10.98,0:02:14.67,Chinese,,0,0,0,,而 26x 则是一个长方形
+Dialogue: 0,0:02:14.67,0:02:19.78,English,,0,0,0,,with one side of length 26 and the other side of length x,
+Dialogue: 0,0:02:14.67,0:02:19.78,Chinese,,0,0,0,,一边长为26  另一边的长度为x
 Dialogue: 0,0:02:19.78,0:02:24.43,English,,0,0,0,,and these two areas together add to 27.
 Dialogue: 0,0:02:19.78,0:02:24.43,Chinese,,0,0,0,,这俩的面积和为 27
 Dialogue: 0,0:02:24.43,0:02:26.88,English,,0,0,0,,So how do we figure out what x is?
 Dialogue: 0,0:02:24.43,0:02:26.88,Chinese,,0,0,0,,那怎么求出 x 呢
-Dialogue: 0,0:02:26.88,0:02:31.88,English,,0,0,0,,Well, we can take this 26x rectangle and cut it in half.
-Dialogue: 0,0:02:26.88,0:02:31.88,Chinese,,0,0,0,,我们把这个 26x 的矩形切成两半
+Dialogue: 0,0:02:26.88,0:02:33.29,English,,0,0,0,,Well, we can take this 26x rectangle and cut it in half.
+Dialogue: 0,0:02:26.88,0:02:33.29,Chinese,,0,0,0,,我们把这个 26x 的矩形切成两半
 Dialogue: 0,0:02:33.29,0:02:36.83,English,,0,0,0,,So now I have two 13x rectangles and I can position them
 Dialogue: 0,0:02:33.29,0:02:36.83,Chinese,,0,0,0,,就得到了两个 13x 的矩形
 Dialogue: 0,0:02:36.83,0:02:38.23,English,,0,0,0,,and I can position them
@@ -129,19 +129,19 @@ Dialogue: 0,0:02:44.25,0:02:46.16,Chinese,,0,0,0,,但是我知道少的这块的
 Dialogue: 0,0:02:46.16,0:02:48.45,English,,0,0,0,,It's just 13 by 13.
 Dialogue: 0,0:02:46.16,0:02:48.45,Chinese,,0,0,0,,是13×13
 Dialogue: 0,0:02:48.45,0:02:55.97,English,,0,0,0,,So I can complete the square by adding in a 13 by 13 square.
-Dialogue: 0,0:02:48.45,0:02:55.97,Chinese,,0,0,0,,我可以给它补上一个 13×13 的正方形
+Dialogue: 0,0:02:48.45,0:02:55.97,Chinese,,0,0,0,,我可以用13×13的小正方形  来补全大正方形
 Dialogue: 0,0:02:55.97,0:02:57.86,English,,0,0,0,,Now, since I've added 13-squared
 Dialogue: 0,0:02:57.86,0:03:01.45,English,,0,0,0,,or 169 to the left-hand side of the equation,
-Dialogue: 0,0:02:57.86,0:03:01.45,Chinese,,0,0,0,,由于等号左边多了13²  即169
+Dialogue: 0,0:02:55.97,0:03:01.45,Chinese,,0,0,0,,由于等号左边多了13²  即169
 Dialogue: 0,0:03:01.45,0:03:03.48,English,,0,0,0,,I also have to add 169
 Dialogue: 0,0:03:03.48,0:03:05.98,English,,0,0,0,,to the right-hand side of the equation
-Dialogue: 0,0:03:03.48,0:03:05.98,Chinese,,0,0,0,,我得在等号右边也加上169
+Dialogue: 0,0:03:01.45,0:03:05.98,Chinese,,0,0,0,,我得在等号右边也加上169
 Dialogue: 0,0:03:05.98,0:03:07.67,English,,0,0,0,,to maintain the equality.
 Dialogue: 0,0:03:05.98,0:03:07.67,Chinese,,0,0,0,,来保证两边相等
 Dialogue: 0,0:03:07.67,0:03:09.64,English,,0,0,0,,So now I have this larger square
 Dialogue: 0,0:03:07.67,0:03:09.64,Chinese,,0,0,0,,现在  我有个大正方形
-Dialogue: 0,0:03:09.64,0:03:13.91,English,,0,0,0,,with sides of length X plus 13, and it is equal to 196.
-Dialogue: 0,0:03:09.64,0:03:13.91,Chinese,,0,0,0,,边长是 (13+x)，面积是 196
+Dialogue: 0,0:03:09.64,0:03:15.87,English,,0,0,0,,with sides of length X plus 13, and it is equal to 196.
+Dialogue: 0,0:03:09.64,0:03:15.87,Chinese,,0,0,0,,边长是 (13+x)，面积是 196
 Dialogue: 0,0:03:16.47,0:03:19.70,English,,0,0,0,,Now the square root of 196 is 14.
 Dialogue: 0,0:03:16.47,0:03:19.70,Chinese,,0,0,0,,196 开根号得 14
 Dialogue: 0,0:03:19.70,0:03:23.33,English,,0,0,0,,So I know that the sides of this square have length 14,
@@ -179,7 +179,7 @@ Dialogue: 0,0:04:03.38,0:04:06.36,Chinese,,0,0,0,,负数并不存在
 Dialogue: 0,0:04:06.36,0:04:07.32,English,,0,0,0,,You could subtract,
 Dialogue: 0,0:04:06.36,0:04:07.32,Chinese,,0,0,0,,你可以做减法
 Dialogue: 0,0:04:07.32,0:04:09.93,English,,0,0,0,,that is find the difference between two positive quantities,
-Dialogue: 0,0:04:07.32,0:04:09.93,Chinese,,0,0,0,,寻找两个正数之间的差异
+Dialogue: 0,0:04:07.32,0:04:09.93,Chinese,,0,0,0,,求两个正数的差值
 Dialogue: 0,0:04:09.93,0:04:11.74,English,,0,0,0,,but you couldn't have a negative answer
 Dialogue: 0,0:04:09.93,0:04:11.74,Chinese,,0,0,0,,但你不能得到一个为负的答案
 Dialogue: 0,0:04:11.74,0:04:13.63,English,,0,0,0,,or negative coefficients.
@@ -189,7 +189,7 @@ Dialogue: 0,0:04:13.63,0:04:15.96,Chinese,,0,0,0,,数学家们非常厌恶负数
 Dialogue: 0,0:04:15.96,0:04:19.54,English,,0,0,0,,that there was no single quadratic equation.
 Dialogue: 0,0:04:15.96,0:04:19.54,Chinese,,0,0,0,,以至于二次方程没有一般式
 Dialogue: 0,0:04:19.54,0:04:22.49,English,,0,0,0,,Instead, there were six different versions arranged
-Dialogue: 0,0:04:19.54,0:04:22.49,Chinese,,0,0,0,,而是产生了6个不同的方程
+Dialogue: 0,0:04:19.54,0:04:22.49,Chinese,,0,0,0,,取而代之的  是6个不同的方程
 Dialogue: 0,0:04:22.49,0:04:25.82,English,,0,0,0,,so that the coefficients were always positive.
 Dialogue: 0,0:04:22.49,0:04:25.82,Chinese,,0,0,0,,以保证所有的系数都为正
 Dialogue: 0,0:04:25.82,0:04:28.35,English,,0,0,0,,The same approach was taken with the cubic.
@@ -328,7 +328,7 @@ Dialogue: 0,0:07:24.80,0:07:26.80,Chinese,,0,0,0,,且只用了2小时
 Dialogue: 0,0:07:26.80,0:07:30.36,English,,0,0,0,,It seems Fior's boastfulness was his undoing.
 Dialogue: 0,0:07:26.80,0:07:30.36,Chinese,,0,0,0,,看起来  菲奥尔是因为吹牛皮而凉凉的
 Dialogue: 0,0:07:30.36,0:07:31.80,English,,0,0,0,,Before the challenge came,
-Dialogue: 0,0:07:30.36,0:07:31.80,Chinese,,0,0,0,,收到挑战之前  塔尔塔利亚就有所耳闻
+Dialogue: 0,0:07:30.36,0:07:31.80,Chinese,,0,0,0,,收到挑战之前
 Dialogue: 0,0:07:31.80,0:07:33.56,English,,0,0,0,,Tartaglia learns that Fior's claimed
 Dialogue: 0,0:07:33.56,0:07:35.13,English,,0,0,0,,to have solved the depressed cubic,
 Dialogue: 0,0:07:31.80,0:07:35.13,Chinese,,0,0,0,,塔尔塔利亚就听说了  菲奥尔会解弱三次方程
@@ -439,11 +439,11 @@ Dialogue: 0,0:09:59.49,0:10:02.99,English,,0,0,0,,{\an8}However, if you think of
 Dialogue: 0,0:09:59.49,0:10:02.99,Chinese,,0,0,0,,{\an8}不过  如果把y³视为一个新的未知数
 Dialogue: 0,0:10:02.99,0:10:06.04,English,,0,0,0,,{\an8}the equation is actually a quadratic,
 Dialogue: 0,0:10:02.99,0:10:06.04,Chinese,,0,0,0,,{\an8}它就变成了二次方程
-Dialogue: 0,0:10:06.04,0:10:09.78,English,,0,0,0,,{\an8}the same quadratic that we solved by completing the square.
-Dialogue: 0,0:10:06.04,0:10:09.78,Chinese,,0,0,0,,{\an8}就是我们此前解出来的那个二次方程
+Dialogue: 0,0:10:06.04,0:10:09.78,English,,0,0,0,,the same quadratic that we solved by completing the square.
+Dialogue: 0,0:10:06.04,0:10:09.78,Chinese,,0,0,0,,就是我们此前解出来的那个二次方程
 Dialogue: 0,0:10:08.85,0:10:11.15,Chinese,,0,0,0,,{\an7\fad(333,500)\fs36}最后一步总是把正方形补齐\N\N\N\N为节省篇幅\N本视频使用了前面解出来的那个方程
 Dialogue: 0,0:10:09.78,0:10:14.30,English,,0,0,0,,So we know y cubed equals one, which means y equals one,
-Dialogue: 0,0:10:09.78,0:10:14.30,Chinese,,0,0,0,,因此我们知道了y³ = 1
+Dialogue: 0,0:10:09.78,0:10:14.30,Chinese,,0,0,0,,因此我们知道了y³=1  所以y=1
 Dialogue: 0,0:10:14.30,0:10:17.90,English,,0,0,0,,and z equals three over y, so z is three.
 Dialogue: 0,0:10:14.30,0:10:17.90,Chinese,,0,0,0,,又因为z = 3/y   所以 z = 3
 Dialogue: 0,0:10:17.90,0:10:21.96,English,,0,0,0,,And since x plus y equals z, x must be equal to two,
