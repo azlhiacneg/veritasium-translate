@@ -511,83 +511,83 @@ Dialogue: 0,0:09:56.13,0:09:58.04,Chinese,,0,0,0,,
 Dialogue: 0,0:09:58.04,0:10:01.42,English,,0,0,0,,that the energy flux is going in one direction.
 Dialogue: 0,0:09:58.04,0:10:01.42,Chinese,,0,0,0,,
 Dialogue: 0,0:10:02.26,0:10:05.54,English,,0,0,0,,You might think this is just an academic discussion
-Dialogue: 0,0:10:02.26,0:10:05.54,Chinese,,0,0,0,,
+Dialogue: 0,0:10:02.26,0:10:05.54,Chinese,,0,0,0,,你或许觉得  这只是一次学术讨论
 Dialogue: 0,0:10:05.54,0:10:07.89,English,,0,0,0,,that you could see the energy as transmitted
-Dialogue: 0,0:10:05.54,0:10:07.89,Chinese,,0,0,0,,
+Dialogue: 0,0:10:05.54,0:10:07.89,Chinese,,0,0,0,,并且认为  它的传输介质
 Dialogue: 0,0:10:07.89,0:10:11.40,English,,0,0,0,,either by fields or by the current in the wire.
-Dialogue: 0,0:10:07.89,0:10:11.40,Chinese,,0,0,0,,
+Dialogue: 0,0:10:07.89,0:10:11.40,Chinese,,0,0,0,,既可以是场  也可以是电线中的电流
 Dialogue: 0,0:10:11.40,0:10:13.58,English,,0,0,0,,But that is not the case,
-Dialogue: 0,0:10:11.40,0:10:13.58,Chinese,,0,0,0,,
+Dialogue: 0,0:10:11.40,0:10:13.58,Chinese,,0,0,0,,但事实并非如此
 Dialogue: 0,0:10:13.58,0:10:15.26,English,,0,0,0,,and people learned this the hard way
-Dialogue: 0,0:10:13.58,0:10:15.26,Chinese,,0,0,0,,
+Dialogue: 0,0:10:13.58,0:10:15.26,Chinese,,0,0,0,,人们是以艰难的方式明白这一点的
 Dialogue: 0,0:10:15.26,0:10:18.61,English,,0,0,0,,when they started laying undersea telegraph cables.
-Dialogue: 0,0:10:15.26,0:10:18.61,Chinese,,0,0,0,,
+Dialogue: 0,0:10:15.26,0:10:18.61,Chinese,,0,0,0,,那是在他们开始铺设海底电报电缆的时候
 Dialogue: 0,0:10:18.61,0:10:22.71,English,,0,0,0,,The first Trans Atlantic cable was laid in 1858.
-Dialogue: 0,0:10:18.61,0:10:22.71,Chinese,,0,0,0,,
+Dialogue: 0,0:10:18.61,0:10:22.71,Chinese,,0,0,0,,第一条跨大西洋海底电缆在1858年铺设
 Dialogue: 0,0:10:22.71,0:10:24.25,English,,0,0,0,,- It only worked for about a month,
-Dialogue: 0,0:10:22.71,0:10:24.25,Chinese,,0,0,0,,
+Dialogue: 0,0:10:22.71,0:10:24.25,Chinese,,0,0,0,,它只运行了大约一个星期
 Dialogue: 0,0:10:24.25,0:10:25.76,English,,0,0,0,,it never worked properly.
-Dialogue: 0,0:10:24.25,0:10:25.76,Chinese,,0,0,0,,
+Dialogue: 0,0:10:24.25,0:10:25.76,Chinese,,0,0,0,,而且从来没正常工作过
 Dialogue: 0,0:10:25.76,0:10:27.42,English,,0,0,0,,- There are all kinds of distortions
-Dialogue: 0,0:10:25.76,0:10:27.42,Chinese,,0,0,0,,
+Dialogue: 0,0:10:25.76,0:10:27.42,Chinese,,0,0,0,,在他们尝试发送信号的时候
 Dialogue: 0,0:10:27.42,0:10:28.33,English,,0,0,0,,when they try to send signals.
-Dialogue: 0,0:10:27.42,0:10:28.33,Chinese,,0,0,0,,
+Dialogue: 0,0:10:27.42,0:10:28.33,Chinese,,0,0,0,,会有各种各样的失真
 Dialogue: 0,0:10:28.33,0:10:30.49,English,,0,0,0,,- Enormous amounts of distortion.
-Dialogue: 0,0:10:28.33,0:10:30.49,Chinese,,0,0,0,,
+Dialogue: 0,0:10:28.33,0:10:30.49,Chinese,,0,0,0,,巨大多的失真
 Dialogue: 0,0:10:30.49,0:10:32.65,English,,0,0,0,,They could work it at a few words per minute.
-Dialogue: 0,0:10:30.49,0:10:32.65,Chinese,,0,0,0,,
+Dialogue: 0,0:10:30.49,0:10:32.65,Chinese,,0,0,0,,每分钟只能传几个词
 Dialogue: 0,0:10:32.65,0:10:34.84,English,,0,0,0,,- What they found was sending signals
-Dialogue: 0,0:10:32.65,0:10:34.84,Chinese,,0,0,0,,
+Dialogue: 0,0:10:32.65,0:10:34.84,Chinese,,0,0,0,,人们发现  在海底传送信号
 Dialogue: 0,0:10:34.84,0:10:37.22,English,,0,0,0,,over such a long distance under the sea,
-Dialogue: 0,0:10:34.84,0:10:37.22,Chinese,,0,0,0,,
+Dialogue: 0,0:10:34.84,0:10:37.22,Chinese,,0,0,0,,经过如此长的距离后
 Dialogue: 0,0:10:37.22,0:10:40.48,English,,0,0,0,,the pulses became distorted and lengthened.
-Dialogue: 0,0:10:37.22,0:10:40.48,Chinese,,0,0,0,,
+Dialogue: 0,0:10:37.22,0:10:40.48,Chinese,,0,0,0,,信号脉冲会失真并被拉长
 Dialogue: 0,0:10:40.48,0:10:43.57,English,,0,0,0,,It was hard to differentiate dots from dashes.
-Dialogue: 0,0:10:40.48,0:10:43.57,Chinese,,0,0,0,,
+Dialogue: 0,0:10:40.48,0:10:43.57,Chinese,,0,0,0,,难以辨别电码的点和横
 Dialogue: 0,0:10:43.57,0:10:45.51,English,,0,0,0,,To account for the failure,
-Dialogue: 0,0:10:43.57,0:10:45.51,Chinese,,0,0,0,,
+Dialogue: 0,0:10:43.57,0:10:45.51,Chinese,,0,0,0,,为了解释这个问题
 Dialogue: 0,0:10:45.51,0:10:47.92,English,,0,0,0,,there was a debate among scientists.
-Dialogue: 0,0:10:45.51,0:10:47.92,Chinese,,0,0,0,,
+Dialogue: 0,0:10:45.51,0:10:47.92,Chinese,,0,0,0,,科学家们展开了辩论
 Dialogue: 0,0:10:47.92,0:10:50.61,English,,0,0,0,,William Thomson, the future Lord Kelvin,
-Dialogue: 0,0:10:47.92,0:10:50.61,Chinese,,0,0,0,,
+Dialogue: 0,0:10:47.92,0:10:50.61,Chinese,,0,0,0,,威廉·汤姆森  也就是后来的卡尔文爵士
 Dialogue: 0,0:10:50.61,0:10:53.39,English,,0,0,0,,thought electrical signals moved through submarine cables
-Dialogue: 0,0:10:50.61,0:10:53.39,Chinese,,0,0,0,,
+Dialogue: 0,0:10:50.61,0:10:53.39,Chinese,,0,0,0,,认为电信号通过电缆传输
 Dialogue: 0,0:10:53.39,0:10:56.12,English,,0,0,0,,like water flowing through a rubber tube.
-Dialogue: 0,0:10:53.39,0:10:56.12,Chinese,,0,0,0,,
+Dialogue: 0,0:10:53.39,0:10:56.12,Chinese,,0,0,0,,就像水流过管子一样
 Dialogue: 0,0:10:56.12,0:10:58.66,English,,0,0,0,,But others like Heaviside and Fitzgerald,
-Dialogue: 0,0:10:56.12,0:10:58.66,Chinese,,0,0,0,,
+Dialogue: 0,0:10:56.12,0:10:58.66,Chinese,,0,0,0,,但其他人  比如黑维塞和菲茨杰拉德
 Dialogue: 0,0:10:58.66,0:11:01.24,English,,0,0,0,,argued it was the fields around the wires
-Dialogue: 0,0:10:58.66,0:11:01.24,Chinese,,0,0,0,,
+Dialogue: 0,0:10:58.66,0:11:01.24,Chinese,,0,0,0,,他们认为环绕在电缆外的场
 Dialogue: 0,0:11:01.24,0:11:03.72,English,,0,0,0,,that carried the energy and information.
-Dialogue: 0,0:11:01.24,0:11:03.72,Chinese,,0,0,0,,
+Dialogue: 0,0:11:01.24,0:11:03.72,Chinese,,0,0,0,,携带这些能量和信息
 Dialogue: 0,0:11:03.72,0:11:05.01,English,,0,0,0,,And ultimately,
-Dialogue: 0,0:11:03.72,0:11:05.01,Chinese,,0,0,0,,
+Dialogue: 0,0:11:03.72,0:11:05.01,Chinese,,0,0,0,,而最终
 Dialogue: 0,0:11:05.01,0:11:07.44,English,,0,0,0,,this view proved correct.
-Dialogue: 0,0:11:05.01,0:11:07.44,Chinese,,0,0,0,,
+Dialogue: 0,0:11:05.01,0:11:07.44,Chinese,,0,0,0,,后者被证明正确
 Dialogue: 0,0:11:07.44,0:11:10.34,English,,0,0,0,,To insulate and protect the submarine cable,
-Dialogue: 0,0:11:07.44,0:11:10.34,Chinese,,0,0,0,,
+Dialogue: 0,0:11:07.44,0:11:10.34,Chinese,,0,0,0,,为了使电缆绝缘并被保护
 Dialogue: 0,0:11:10.34,0:11:12.15,English,,0,0,0,,the central copper conductor
-Dialogue: 0,0:11:10.34,0:11:12.15,Chinese,,0,0,0,,
+Dialogue: 0,0:11:10.34,0:11:12.15,Chinese,,0,0,0,,电缆中部的铜导体
 Dialogue: 0,0:11:12.15,0:11:13.95,English,,0,0,0,,had been coated in an insulator
-Dialogue: 0,0:11:12.15,0:11:13.95,Chinese,,0,0,0,,
+Dialogue: 0,0:11:12.15,0:11:13.95,Chinese,,0,0,0,,被一层绝缘材料包裹
 Dialogue: 0,0:11:13.95,0:11:16.67,English,,0,0,0,,and then encased in an iron sheath.
-Dialogue: 0,0:11:13.95,0:11:16.67,Chinese,,0,0,0,,
+Dialogue: 0,0:11:13.95,0:11:16.67,Chinese,,0,0,0,,然后用铁质的护皮封住
 Dialogue: 0,0:11:16.67,0:11:19.40,English,,0,0,0,,The iron was only meant to strengthen the cable,
-Dialogue: 0,0:11:16.67,0:11:19.40,Chinese,,0,0,0,,
+Dialogue: 0,0:11:16.67,0:11:19.40,Chinese,,0,0,0,,这层铁本来只是加固电缆的
 Dialogue: 0,0:11:19.40,0:11:20.84,English,,0,0,0,,but as a good conductor,
-Dialogue: 0,0:11:19.40,0:11:20.84,Chinese,,0,0,0,,
+Dialogue: 0,0:11:19.40,0:11:20.84,Chinese,,0,0,0,,但它也是很好的导体
 Dialogue: 0,0:11:20.84,0:11:23.90,English,,0,0,0,,it interfered with a propagation of electromagnetic fields
-Dialogue: 0,0:11:20.84,0:11:23.90,Chinese,,0,0,0,,
+Dialogue: 0,0:11:20.84,0:11:23.90,Chinese,,0,0,0,,会干扰电磁场的传播
 Dialogue: 0,0:11:23.90,0:11:27.38,English,,0,0,0,,because it increased the capacitance of the line.
-Dialogue: 0,0:11:23.90,0:11:27.38,Chinese,,0,0,0,,
+Dialogue: 0,0:11:23.90,0:11:27.38,Chinese,,0,0,0,,因为它增大了电缆的电容
 Dialogue: 0,0:11:27.38,0:11:31.09,English,,0,0,0,,This is why today, most power lines are suspended high up.
-Dialogue: 0,0:11:27.38,0:11:31.09,Chinese,,0,0,0,,
+Dialogue: 0,0:11:27.38,0:11:31.09,Chinese,,0,0,0,,这也是如今多数的电线都高高挂起的原因
 Dialogue: 0,0:11:31.09,0:11:33.88,English,,0,0,0,,Even the damp earth acts as a conductor,
-Dialogue: 0,0:11:31.09,0:11:33.88,Chinese,,0,0,0,,
+Dialogue: 0,0:11:31.09,0:11:33.88,Chinese,,0,0,0,,哪怕是潮湿的地面也会成为导体
 Dialogue: 0,0:11:33.88,0:11:36.76,English,,0,0,0,,so you want a large insulating gap of air
-Dialogue: 0,0:11:33.88,0:11:36.76,Chinese,,0,0,0,,
+Dialogue: 0,0:11:33.88,0:11:36.76,Chinese,,0,0,0,,所以  你会希望有一大层绝缘的空气挡在中间
 Dialogue: 0,0:11:36.76,0:11:39.36,English,,0,0,0,,to separate the wires from the ground.
-Dialogue: 0,0:11:36.76,0:11:39.36,Chinese,,0,0,0,,
+Dialogue: 0,0:11:36.76,0:11:39.36,Chinese,,0,0,0,,把电线和地面分开
 Dialogue: 0,0:11:40.77,0:11:42.42,English,,0,0,0,,So, what is the answer
 Dialogue: 0,0:11:40.77,0:11:42.42,Chinese,,0,0,0,,
 Dialogue: 0,0:11:42.42,0:11:45.95,English,,0,0,0,,to our giant circuit light bulb question?
