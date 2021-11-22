@@ -305,123 +305,123 @@ Dialogue: 0,0:05:52.08,0:05:53.61,Chinese,,0,0,0,,
 Dialogue: 0,0:05:53.61,0:05:56.65,English,,0,0,0,,and you can calculate using Poynting's vector.
 Dialogue: 0,0:05:53.61,0:05:56.65,Chinese,,0,0,0,,
 Dialogue: 0,0:05:58.94,0:06:00.26,English,,0,0,0,,To illustrate this,
-Dialogue: 0,0:05:58.94,0:06:00.26,Chinese,,0,0,0,,
+Dialogue: 0,0:05:58.94,0:06:00.26,Chinese,,0,0,0,,为了说明这一点
 Dialogue: 0,0:06:00.26,0:06:01.91,English,,0,0,0,,let's consider a simple circuit
-Dialogue: 0,0:06:00.26,0:06:01.91,Chinese,,0,0,0,,
+Dialogue: 0,0:06:00.26,0:06:01.91,Chinese,,0,0,0,,让我们考虑一个
 Dialogue: 0,0:06:01.91,0:06:04.10,English,,0,0,0,,with a battery and a light bulb.
-Dialogue: 0,0:06:01.91,0:06:04.10,Chinese,,0,0,0,,
+Dialogue: 0,0:06:01.91,0:06:04.10,Chinese,,0,0,0,,含有电池和灯泡的简单电路
 Dialogue: 0,0:06:04.10,0:06:07.26,English,,0,0,0,,The battery by itself has an electric field
-Dialogue: 0,0:06:04.10,0:06:07.26,Chinese,,0,0,0,,
+Dialogue: 0,0:06:04.10,0:06:07.26,Chinese,,0,0,0,,电池自身激发了一个电场
 Dialogue: 0,0:06:07.26,0:06:09.30,English,,0,0,0,,but since no charges are moving,
-Dialogue: 0,0:06:07.26,0:06:09.30,Chinese,,0,0,0,,
+Dialogue: 0,0:06:07.26,0:06:09.30,Chinese,,0,0,0,,但是由于没有电荷移动
 Dialogue: 0,0:06:09.30,0:06:11.05,English,,0,0,0,,there is no magnetic field
-Dialogue: 0,0:06:09.30,0:06:11.05,Chinese,,0,0,0,,
+Dialogue: 0,0:06:09.30,0:06:11.05,Chinese,,0,0,0,,所以没有磁场
 Dialogue: 0,0:06:11.05,0:06:13.93,English,,0,0,0,,so the battery doesn't lose energy.
-Dialogue: 0,0:06:11.05,0:06:13.93,Chinese,,0,0,0,,
+Dialogue: 0,0:06:11.05,0:06:13.93,Chinese,,0,0,0,,于是这块电池不损失能量
 Dialogue: 0,0:06:13.93,0:06:16.13,English,,0,0,0,,When the battery is connected into the circuit,
-Dialogue: 0,0:06:13.93,0:06:16.13,Chinese,,0,0,0,,
+Dialogue: 0,0:06:13.93,0:06:16.13,Chinese,,0,0,0,,当电池接入电路
 Dialogue: 0,0:06:16.13,0:06:19.14,English,,0,0,0,,its electric field extends through the circuit
-Dialogue: 0,0:06:16.13,0:06:19.14,Chinese,,0,0,0,,
+Dialogue: 0,0:06:16.13,0:06:19.14,Chinese,,0,0,0,,其电场沿着电路
 Dialogue: 0,0:06:19.14,0:06:20.84,English,,0,0,0,,at the speed of light.
-Dialogue: 0,0:06:19.14,0:06:20.84,Chinese,,0,0,0,,
+Dialogue: 0,0:06:19.14,0:06:20.84,Chinese,,0,0,0,,以光速延伸
 Dialogue: 0,0:06:20.84,0:06:23.69,English,,0,0,0,,This electric field pushes electrons around
-Dialogue: 0,0:06:20.84,0:06:23.69,Chinese,,0,0,0,,
+Dialogue: 0,0:06:20.84,0:06:23.69,Chinese,,0,0,0,,电场推动周围的电子
 Dialogue: 0,0:06:23.69,0:06:27.32,English,,0,0,0,,so they accumulate on some of the surfaces of the conductors
-Dialogue: 0,0:06:23.69,0:06:27.32,Chinese,,0,0,0,,
+Dialogue: 0,0:06:23.69,0:06:27.32,Chinese,,0,0,0,,所以它们在导体的某些表面聚集
 Dialogue: 0,0:06:27.32,0:06:29.06,English,,0,0,0,,making them negatively charged,
-Dialogue: 0,0:06:27.32,0:06:29.06,Chinese,,0,0,0,,
+Dialogue: 0,0:06:27.32,0:06:29.06,Chinese,,0,0,0,,使导体带负电
 Dialogue: 0,0:06:29.06,0:06:30.97,English,,0,0,0,,and are depleted elsewhere
-Dialogue: 0,0:06:29.06,0:06:30.97,Chinese,,0,0,0,,
+Dialogue: 0,0:06:29.06,0:06:30.97,Chinese,,0,0,0,,电子在其他地方较少
 Dialogue: 0,0:06:30.97,0:06:33.48,English,,0,0,0,,leaving their surfaces positively charged.
-Dialogue: 0,0:06:30.97,0:06:33.48,Chinese,,0,0,0,,
+Dialogue: 0,0:06:30.97,0:06:33.48,Chinese,,0,0,0,,这些位置带正电
 Dialogue: 0,0:06:34.90,0:06:36.15,English,,0,0,0,,These surface charges
-Dialogue: 0,0:06:34.90,0:06:36.15,Chinese,,0,0,0,,
+Dialogue: 0,0:06:34.90,0:06:36.15,Chinese,,0,0,0,,这些表面电荷
 Dialogue: 0,0:06:36.15,0:06:39.55,English,,0,0,0,,create a small electric field inside the wires,
-Dialogue: 0,0:06:36.15,0:06:39.55,Chinese,,0,0,0,,
+Dialogue: 0,0:06:36.15,0:06:39.55,Chinese,,0,0,0,,在导线内部激发了微弱的电场
 Dialogue: 0,0:06:39.55,0:06:41.44,English,,0,0,0,,causing electrons to drift
-Dialogue: 0,0:06:39.55,0:06:41.44,Chinese,,0,0,0,,
+Dialogue: 0,0:06:39.55,0:06:41.44,Chinese,,0,0,0,,导致了电子的
 Dialogue: 0,0:06:41.44,0:06:43.84,English,,0,0,0,,preferentially in one direction.
-Dialogue: 0,0:06:41.44,0:06:43.84,Chinese,,0,0,0,,
+Dialogue: 0,0:06:41.44,0:06:43.84,Chinese,,0,0,0,,定向漂移运动
 Dialogue: 0,0:06:43.84,0:06:47.05,English,,0,0,0,,Note that this drift velocity is extremely slow
-Dialogue: 0,0:06:43.84,0:06:47.05,Chinese,,0,0,0,,
+Dialogue: 0,0:06:43.84,0:06:47.05,Chinese,,0,0,0,,注意这种漂移的速度极其缓慢
 Dialogue: 0,0:06:47.05,0:06:49.83,English,,0,0,0,,around a tenth of a millimeter per second.
-Dialogue: 0,0:06:47.05,0:06:49.83,Chinese,,0,0,0,,
+Dialogue: 0,0:06:47.05,0:06:49.83,Chinese,,0,0,0,,大约只有 0.1 mm/s
 Dialogue: 0,0:06:49.83,0:06:51.73,English,,0,0,0,,But this is current,
-Dialogue: 0,0:06:49.83,0:06:51.73,Chinese,,0,0,0,,
+Dialogue: 0,0:06:49.83,0:06:51.73,Chinese,,0,0,0,,但是这就是电流
 Dialogue: 0,0:06:51.73,0:06:52.85,English,,0,0,0,,well, conventional current
-Dialogue: 0,0:06:51.73,0:06:52.85,Chinese,,0,0,0,,
+Dialogue: 0,0:06:51.73,0:06:52.85,Chinese,,0,0,0,,呃 传统上电流方向
 Dialogue: 0,0:06:52.85,0:06:55.22,English,,0,0,0,,is defined to flow opposite the motion of electrons,
-Dialogue: 0,0:06:52.85,0:06:55.22,Chinese,,0,0,0,,
+Dialogue: 0,0:06:52.85,0:06:55.22,Chinese,,0,0,0,,定义为电子运动的相反方向
 Dialogue: 0,0:06:55.22,0:06:57.65,English,,0,0,0,,but this is what's making it happen.
-Dialogue: 0,0:06:55.22,0:06:57.65,Chinese,,0,0,0,,
+Dialogue: 0,0:06:55.22,0:06:57.65,Chinese,,0,0,0,,但是这就是电流产生的原理 （？）
 Dialogue: 0,0:06:58.73,0:07:01.65,English,,0,0,0,,The charge on the surfaces of the conductors
-Dialogue: 0,0:06:58.73,0:07:01.65,Chinese,,0,0,0,,
+Dialogue: 0,0:06:58.73,0:07:01.65,Chinese,,0,0,0,,导体表面的电荷
 Dialogue: 0,0:07:01.65,0:07:05.03,English,,0,0,0,,also creates an eclectic field outside the wires
-Dialogue: 0,0:07:01.65,0:07:05.03,Chinese,,0,0,0,,
+Dialogue: 0,0:07:01.65,0:07:05.03,Chinese,,0,0,0,,也在外部产生了电场
 Dialogue: 0,0:07:05.03,0:07:07.28,English,,0,0,0,,and the current inside the wires
-Dialogue: 0,0:07:05.03,0:07:07.28,Chinese,,0,0,0,,
+Dialogue: 0,0:07:05.03,0:07:07.28,Chinese,,0,0,0,,而导线中的电流
 Dialogue: 0,0:07:07.28,0:07:10.51,English,,0,0,0,,creates a magnetic field outside the wires.
-Dialogue: 0,0:07:07.28,0:07:10.51,Chinese,,0,0,0,,
+Dialogue: 0,0:07:07.28,0:07:10.51,Chinese,,0,0,0,,在导线外产生了磁场
 Dialogue: 0,0:07:10.51,0:07:12.81,English,,0,0,0,,So, now there is a combination
-Dialogue: 0,0:07:10.51,0:07:12.81,Chinese,,0,0,0,,
+Dialogue: 0,0:07:10.51,0:07:12.81,Chinese,,0,0,0,,所以 现在导线周围
 Dialogue: 0,0:07:12.81,0:07:14.98,English,,0,0,0,,of electric and magnetic fields
-Dialogue: 0,0:07:12.81,0:07:14.98,Chinese,,0,0,0,,
+Dialogue: 0,0:07:12.81,0:07:14.98,Chinese,,0,0,0,,的空间中
 Dialogue: 0,0:07:14.98,0:07:17.22,English,,0,0,0,,in this space around the circuit.
-Dialogue: 0,0:07:14.98,0:07:17.22,Chinese,,0,0,0,,
+Dialogue: 0,0:07:14.98,0:07:17.22,Chinese,,0,0,0,,既有电场也有磁场
 Dialogue: 0,0:07:17.22,0:07:19.41,English,,0,0,0,,So, according to Poynting's theory,
-Dialogue: 0,0:07:17.22,0:07:19.41,Chinese,,0,0,0,,
+Dialogue: 0,0:07:17.22,0:07:19.41,Chinese,,0,0,0,,于是按照波印廷的理论
 Dialogue: 0,0:07:19.41,0:07:21.58,English,,0,0,0,,energy should be flowing
-Dialogue: 0,0:07:19.41,0:07:21.58,Chinese,,0,0,0,,
+Dialogue: 0,0:07:19.41,0:07:21.58,Chinese,,0,0,0,,能量会（在其中）流动
 Dialogue: 0,0:07:21.58,0:07:24.12,English,,0,0,0,,and we can work out the direction of this energy flow
-Dialogue: 0,0:07:21.58,0:07:24.12,Chinese,,0,0,0,,
+Dialogue: 0,0:07:21.58,0:07:24.12,Chinese,,0,0,0,,利用右手定则
 Dialogue: 0,0:07:24.12,0:07:26.06,English,,0,0,0,,using the right hand rule.
-Dialogue: 0,0:07:24.12,0:07:26.06,Chinese,,0,0,0,,
+Dialogue: 0,0:07:24.12,0:07:26.06,Chinese,,0,0,0,,我们可以计算能流的方向
 Dialogue: 0,0:07:26.06,0:07:27.79,English,,0,0,0,,Around the battery for example,
-Dialogue: 0,0:07:26.06,0:07:27.79,Chinese,,0,0,0,,
+Dialogue: 0,0:07:26.06,0:07:27.79,Chinese,,0,0,0,,例如在电池周围
 Dialogue: 0,0:07:27.79,0:07:29.73,English,,0,0,0,,the electric field is down
-Dialogue: 0,0:07:27.79,0:07:29.73,Chinese,,0,0,0,,
+Dialogue: 0,0:07:27.79,0:07:29.73,Chinese,,0,0,0,,电矢量向下
 Dialogue: 0,0:07:29.73,0:07:32.53,English,,0,0,0,,and the magnetic field is into the screen.
-Dialogue: 0,0:07:29.73,0:07:32.53,Chinese,,0,0,0,,
+Dialogue: 0,0:07:29.73,0:07:32.53,Chinese,,0,0,0,,而磁矢量垂直屏幕向外
 Dialogue: 0,0:07:32.53,0:07:35.54,English,,0,0,0,,So, you find the energy flux is to the right
-Dialogue: 0,0:07:32.53,0:07:35.54,Chinese,,0,0,0,,
+Dialogue: 0,0:07:32.53,0:07:35.54,Chinese,,0,0,0,,所以你会发现能流是
 Dialogue: 0,0:07:35.54,0:07:37.74,English,,0,0,0,,away from the battery.
-Dialogue: 0,0:07:35.54,0:07:37.74,Chinese,,0,0,0,,
+Dialogue: 0,0:07:35.54,0:07:37.74,Chinese,,0,0,0,,向右离开电池的
 Dialogue: 0,0:07:37.74,0:07:39.81,English,,0,0,0,,In fact, all around the battery,
-Dialogue: 0,0:07:37.74,0:07:39.81,Chinese,,0,0,0,,
+Dialogue: 0,0:07:37.74,0:07:39.81,Chinese,,0,0,0,,事实上 在电池周围
 Dialogue: 0,0:07:39.81,0:07:43.56,English,,0,0,0,,you'll find the energy is radially outwards.
-Dialogue: 0,0:07:39.81,0:07:43.56,Chinese,,0,0,0,,
+Dialogue: 0,0:07:39.81,0:07:43.56,Chinese,,0,0,0,,你会发现每处能量都在径向外流
 Dialogue: 0,0:07:43.56,0:07:47.23,English,,0,0,0,,Energy is going out through the sides of the battery
-Dialogue: 0,0:07:43.56,0:07:47.23,Chinese,,0,0,0,,
+Dialogue: 0,0:07:43.56,0:07:47.23,Chinese,,0,0,0,,能量从电池侧面离开
 Dialogue: 0,0:07:47.23,0:07:48.12,English,,0,0,0,,into the fields.
-Dialogue: 0,0:07:47.23,0:07:48.12,Chinese,,0,0,0,,
+Dialogue: 0,0:07:47.23,0:07:48.12,Chinese,,0,0,0,,并进入电磁场中
 Dialogue: 0,0:07:49.24,0:07:50.98,English,,0,0,0,,Along the wires, again,
-Dialogue: 0,0:07:49.24,0:07:50.98,Chinese,,0,0,0,,
+Dialogue: 0,0:07:49.24,0:07:50.98,Chinese,,0,0,0,,沿着导线
 Dialogue: 0,0:07:50.98,0:07:52.25,English,,0,0,0,,you can use the right hand rule
-Dialogue: 0,0:07:50.98,0:07:52.25,Chinese,,0,0,0,,
+Dialogue: 0,0:07:50.98,0:07:52.25,Chinese,,0,0,0,,你可以再次应用右手定则
 Dialogue: 0,0:07:52.25,0:07:55.34,English,,0,0,0,,to find the energy is flowing to the right.
-Dialogue: 0,0:07:52.25,0:07:55.34,Chinese,,0,0,0,,
+Dialogue: 0,0:07:52.25,0:07:55.34,Chinese,,0,0,0,,得到能量向右流动
 Dialogue: 0,0:07:55.34,0:07:58.17,English,,0,0,0,,This is true for the fields along the top wire
-Dialogue: 0,0:07:55.34,0:07:58.17,Chinese,,0,0,0,,
+Dialogue: 0,0:07:55.34,0:07:58.17,Chinese,,0,0,0,,这对位于上侧的导线
 Dialogue: 0,0:07:58.17,0:08:00.05,English,,0,0,0,,and the bottom wire.
-Dialogue: 0,0:07:58.17,0:08:00.05,Chinese,,0,0,0,,
+Dialogue: 0,0:07:58.17,0:08:00.05,Chinese,,0,0,0,,和下侧的导线都成立
 Dialogue: 0,0:08:00.05,0:08:00.94,English,,0,0,0,,But at the filament,
-Dialogue: 0,0:08:00.05,0:08:00.94,Chinese,,0,0,0,,
+Dialogue: 0,0:08:00.05,0:08:00.94,Chinese,,0,0,0,,但在灯丝处
 Dialogue: 0,0:08:00.94,0:08:04.82,English,,0,0,0,,the Poynting vector is directed in toward the light bulb.
-Dialogue: 0,0:08:00.94,0:08:04.82,Chinese,,0,0,0,,
+Dialogue: 0,0:08:00.94,0:08:04.82,Chinese,,0,0,0,,波印廷矢量指向灯泡
 Dialogue: 0,0:08:04.82,0:08:08.20,English,,0,0,0,,So, the light bulb is getting energy from the field.
-Dialogue: 0,0:08:04.82,0:08:08.20,Chinese,,0,0,0,,
+Dialogue: 0,0:08:04.82,0:08:08.20,Chinese,,0,0,0,,故灯泡从电磁场中获得能量
 Dialogue: 0,0:08:08.20,0:08:09.33,English,,0,0,0,,If you do the cross product,
-Dialogue: 0,0:08:08.20,0:08:09.33,Chinese,,0,0,0,,
+Dialogue: 0,0:08:08.20,0:08:09.33,Chinese,,0,0,0,,如果你计算叉积
 Dialogue: 0,0:08:09.33,0:08:13.87,English,,0,0,0,,you find the energy is coming in from all around the bulb.
-Dialogue: 0,0:08:09.33,0:08:13.87,Chinese,,0,0,0,,
+Dialogue: 0,0:08:09.33,0:08:13.87,Chinese,,0,0,0,,你会发现能量从各个方向流向灯泡
 Dialogue: 0,0:08:13.87,0:08:16.44,English,,0,0,0,,It takes many paths from the battery to the bulb,
-Dialogue: 0,0:08:13.87,0:08:16.44,Chinese,,0,0,0,,
+Dialogue: 0,0:08:13.87,0:08:16.44,Chinese,,0,0,0,,从电池到灯泡的路线不尽相同
 Dialogue: 0,0:08:16.44,0:08:17.73,English,,0,0,0,,but in all cases,
-Dialogue: 0,0:08:16.44,0:08:17.73,Chinese,,0,0,0,,
+Dialogue: 0,0:08:16.44,0:08:17.73,Chinese,,0,0,0,,不论哪种情况
 Dialogue: 0,0:08:17.73,0:08:19.37,English,,0,0,0,,the energy is transmitted
-Dialogue: 0,0:08:17.73,0:08:19.37,Chinese,,0,0,0,,
+Dialogue: 0,0:08:17.73,0:08:19.37,Chinese,,0,0,0,,能量总是
 Dialogue: 0,0:08:19.37,0:08:21.87,English,,0,0,0,,by the electric and magnetic fields.
-Dialogue: 0,0:08:19.37,0:08:21.87,Chinese,,0,0,0,,
+Dialogue: 0,0:08:19.37,0:08:21.87,Chinese,,0,0,0,,经由电磁场传输
 Dialogue: 0,0:08:21.87,0:08:24.17,English,,0,0,0,,- People seem to think that you're pumping electrons
 Dialogue: 0,0:08:21.87,0:08:24.17,Chinese,,0,0,0,,
 Dialogue: 0,0:08:24.17,0:08:26.18,English,,0,0,0,,and that you're buying electrons or something,
