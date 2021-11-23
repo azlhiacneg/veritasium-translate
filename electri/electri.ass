@@ -327,7 +327,7 @@ Dialogue: 0,0:06:19.14,0:06:20.84,Chinese,,0,0,0,,以光速延伸
 Dialogue: 0,0:06:20.84,0:06:23.69,English,,0,0,0,,This electric field pushes electrons around
 Dialogue: 0,0:06:20.84,0:06:23.69,Chinese,,0,0,0,,电场推动周围的电子
 Dialogue: 0,0:06:23.69,0:06:27.32,English,,0,0,0,,so they accumulate on some of the surfaces of the conductors
-Dialogue: 0,0:06:23.69,0:06:27.32,Chinese,,0,0,0,,所以它们在导体的某些表面聚集
+Dialogue: 0,0:06:23.69,0:06:27.32,Chinese,,0,0,0,,在导体的某些表面聚集
 Dialogue: 0,0:06:27.32,0:06:29.06,English,,0,0,0,,making them negatively charged,
 Dialogue: 0,0:06:27.32,0:06:29.06,Chinese,,0,0,0,,使导体带负电
 Dialogue: 0,0:06:29.06,0:06:30.97,English,,0,0,0,,and are depleted elsewhere
@@ -381,7 +381,7 @@ Dialogue: 0,0:07:26.06,0:07:27.79,Chinese,,0,0,0,,例如在电池周围
 Dialogue: 0,0:07:27.79,0:07:29.73,English,,0,0,0,,the electric field is down
 Dialogue: 0,0:07:27.79,0:07:29.73,Chinese,,0,0,0,,电矢量向下
 Dialogue: 0,0:07:29.73,0:07:32.53,English,,0,0,0,,and the magnetic field is into the screen.
-Dialogue: 0,0:07:29.73,0:07:32.53,Chinese,,0,0,0,,而磁矢量垂直屏幕向外
+Dialogue: 0,0:07:29.73,0:07:32.53,Chinese,,0,0,0,,而磁矢量垂直屏幕向内
 Dialogue: 0,0:07:32.53,0:07:35.54,English,,0,0,0,,So, you find the energy flux is to the right
 Dialogue: 0,0:07:32.53,0:07:35.54,Chinese,,0,0,0,,所以你会发现能流是
 Dialogue: 0,0:07:35.54,0:07:37.74,English,,0,0,0,,away from the battery.
