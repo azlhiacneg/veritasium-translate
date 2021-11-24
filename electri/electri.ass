@@ -15,171 +15,171 @@ Style: Chinese,MonyharOS Sans SC Medium,54,&H00FFFFFF,&H000000FF,&H00000000,&H00
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.85,0:00:06.24,English,,0,0,0,,Imagine you have a giant circuit
-Dialogue: 0,0:00:03.85,0:00:06.24,Chinese,,0,0,0,,
+Dialogue: 0,0:00:03.85,0:00:06.24,Chinese,,0,0,0,,设想这样一个巨型电路
 Dialogue: 0,0:00:06.24,0:00:09.25,English,,0,0,0,,consisting of a battery, a switch, a light bulb,
-Dialogue: 0,0:00:06.24,0:00:09.25,Chinese,,0,0,0,,
+Dialogue: 0,0:00:06.24,0:00:09.25,Chinese,,0,0,0,,一个电源、一个开关、一个灯泡
 Dialogue: 0,0:00:09.25,0:00:13.96,English,,0,0,0,,and two wires which are each 300,000 kilometers long.
-Dialogue: 0,0:00:09.25,0:00:13.96,Chinese,,0,0,0,,
+Dialogue: 0,0:00:09.25,0:00:13.96,Chinese,,0,0,0,,通过两根30万公里长的导线连接
 Dialogue: 0,0:00:13.96,0:00:16.95,English,,0,0,0,,That is the distance light travels in one second.
-Dialogue: 0,0:00:13.96,0:00:16.95,Chinese,,0,0,0,,
+Dialogue: 0,0:00:13.96,0:00:16.95,Chinese,,0,0,0,,也就是光1秒内走过的距离
 Dialogue: 0,0:00:16.95,0:00:19.61,English,,0,0,0,,So, they would reach out half way to the moon
-Dialogue: 0,0:00:16.95,0:00:19.61,Chinese,,0,0,0,,
+Dialogue: 0,0:00:16.95,0:00:19.61,Chinese,,0,0,0,,导线最远能延伸到地球与月球的中点
 Dialogue: 0,0:00:19.61,0:00:22.11,English,,0,0,0,,and then come back to be connected to the light bulb,
-Dialogue: 0,0:00:19.61,0:00:22.11,Chinese,,0,0,0,,
+Dialogue: 0,0:00:19.61,0:00:22.11,Chinese,,0,0,0,,然后再连回灯泡
 Dialogue: 0,0:00:22.11,0:00:24.27,English,,0,0,0,,which is one meter away.
-Dialogue: 0,0:00:22.11,0:00:24.27,Chinese,,0,0,0,,
+Dialogue: 0,0:00:22.11,0:00:24.27,Chinese,,0,0,0,,灯泡距离电源只有1米远
 Dialogue: 0,0:00:24.27,0:00:25.31,English,,0,0,0,,Now, the question is,
-Dialogue: 0,0:00:24.27,0:00:25.31,Chinese,,0,0,0,,
+Dialogue: 0,0:00:24.27,0:00:25.31,Chinese,,0,0,0,,提问：
 Dialogue: 0,0:00:25.31,0:00:27.30,English,,0,0,0,,after I close this switch,
-Dialogue: 0,0:00:25.31,0:00:27.30,Chinese,,0,0,0,,
+Dialogue: 0,0:00:25.31,0:00:27.30,Chinese,,0,0,0,,闭合开关后
 Dialogue: 0,0:00:27.30,0:00:30.27,English,,0,0,0,,how long would it take for the bulb to light up.
-Dialogue: 0,0:00:27.30,0:00:30.27,Chinese,,0,0,0,,
+Dialogue: 0,0:00:27.30,0:00:30.27,Chinese,,0,0,0,,过多久灯泡会亮？
 Dialogue: 0,0:00:30.27,0:00:31.84,English,,0,0,0,,Is it half a second,
-Dialogue: 0,0:00:30.27,0:00:31.84,Chinese,,0,0,0,,
+Dialogue: 0,0:00:30.27,0:00:31.84,Chinese,,0,0,0,,半秒钟以后？
 Dialogue: 0,0:00:31.84,0:00:32.80,English,,0,0,0,,one second,
-Dialogue: 0,0:00:31.84,0:00:32.80,Chinese,,0,0,0,,
+Dialogue: 0,0:00:31.84,0:00:32.80,Chinese,,0,0,0,,1秒钟以后？
 Dialogue: 0,0:00:32.80,0:00:34.28,English,,0,0,0,,two seconds,
-Dialogue: 0,0:00:32.80,0:00:34.28,Chinese,,0,0,0,,
+Dialogue: 0,0:00:32.80,0:00:34.28,Chinese,,0,0,0,,2秒钟以后？
 Dialogue: 0,0:00:34.28,0:00:35.78,English,,0,0,0,,1/c seconds,
-Dialogue: 0,0:00:34.28,0:00:35.78,Chinese,,0,0,0,,
+Dialogue: 0,0:00:34.28,0:00:35.78,Chinese,,0,0,0,,c分之1 秒钟以后？
 Dialogue: 0,0:00:35.78,0:00:37.53,English,,0,0,0,,or none of the above.
-Dialogue: 0,0:00:35.78,0:00:37.53,Chinese,,0,0,0,,
+Dialogue: 0,0:00:35.78,0:00:37.53,Chinese,,0,0,0,,还是别的答案？
 Dialogue: 0,0:00:37.53,0:00:39.26,English,,0,0,0,,You have to make some simplifying assumptions
-Dialogue: 0,0:00:37.53,0:00:39.26,Chinese,,0,0,0,,
+Dialogue: 0,0:00:37.53,0:00:39.26,Chinese,,0,0,0,,关于这个电路我们先做一些理想化的假设
 Dialogue: 0,0:00:39.26,0:00:40.72,English,,0,0,0,,about this circuit,
-Dialogue: 0,0:00:39.26,0:00:40.72,Chinese,,0,0,0,,
+Dialogue: 0,0:00:39.26,0:00:40.72,Chinese,,0,0,0,,关于这个电路我们先做一些理想化的假设
 Dialogue: 0,0:00:40.72,0:00:42.63,English,,0,0,0,,like the wires have to have no resistance,
-Dialogue: 0,0:00:40.72,0:00:42.63,Chinese,,0,0,0,,
+Dialogue: 0,0:00:40.72,0:00:42.63,Chinese,,0,0,0,,首先，假设导线电阻为0
 Dialogue: 0,0:00:42.63,0:00:43.89,English,,0,0,0,,otherwise this wouldn't work
-Dialogue: 0,0:00:42.63,0:00:43.89,Chinese,,0,0,0,,
+Dialogue: 0,0:00:42.63,0:00:43.89,Chinese,,0,0,0,,否则答案就不一样了
 Dialogue: 0,0:00:43.89,0:00:46.29,English,,0,0,0,,and the light bulb has to turn on immediately
-Dialogue: 0,0:00:43.89,0:00:46.29,Chinese,,0,0,0,,
+Dialogue: 0,0:00:43.89,0:00:46.29,Chinese,,0,0,0,,其次，灯泡只要一有电流通过就会立刻点亮
 Dialogue: 0,0:00:46.29,0:00:48.37,English,,0,0,0,,when current passes through it.
-Dialogue: 0,0:00:46.29,0:00:48.37,Chinese,,0,0,0,,
+Dialogue: 0,0:00:46.29,0:00:48.37,Chinese,,0,0,0,,其次，灯泡只要一有电流通过就会立刻点亮
 Dialogue: 0,0:00:48.37,0:00:50.82,English,,0,0,0,,But I want you to commit to an answer
-Dialogue: 0,0:00:48.37,0:00:50.82,Chinese,,0,0,0,,
+Dialogue: 0,0:00:48.37,0:00:50.82,Chinese,,0,0,0,,欢迎在评论区留下你的答案
 Dialogue: 0,0:00:50.82,0:00:52.84,English,,0,0,0,,and put it down in the comments
-Dialogue: 0,0:00:50.82,0:00:52.84,Chinese,,0,0,0,,
+Dialogue: 0,0:00:50.82,0:00:52.84,Chinese,,0,0,0,,选定了就不要改哦
 Dialogue: 0,0:00:52.84,0:00:53.72,English,,0,0,0,,so you can't say,
-Dialogue: 0,0:00:52.84,0:00:53.72,Chinese,,0,0,0,,
+Dialogue: 0,0:00:52.84,0:00:53.72,Chinese,,0,0,0,,我知道有人会等我把答案告诉你了
 Dialogue: 0,0:00:53.72,0:00:55.71,English,,0,0,0,,oh yeah I knew that was the answer,
-Dialogue: 0,0:00:53.72,0:00:55.71,Chinese,,0,0,0,,
+Dialogue: 0,0:00:53.72,0:00:55.71,Chinese,,0,0,0,,我知道有人会等我把答案告诉你了
 Dialogue: 0,0:00:55.71,0:00:57.90,English,,0,0,0,,when I tell you the answer later on.
-Dialogue: 0,0:00:55.71,0:00:57.90,Chinese,,0,0,0,,
+Dialogue: 0,0:00:55.71,0:00:57.90,Chinese,,0,0,0,,再去说 哦我就知道该选它
 Dialogue: 0,0:00:59.34,0:01:02.66,English,,0,0,0,,This question actually relates to how electrical energy
-Dialogue: 0,0:00:59.34,0:01:02.66,Chinese,,0,0,0,,
+Dialogue: 0,0:00:59.34,0:01:02.66,Chinese,,0,0,0,,这个问题关涉到电能是如何
 Dialogue: 0,0:01:02.66,0:01:05.13,English,,0,0,0,,get from a power plant to your home.
-Dialogue: 0,0:01:02.66,0:01:05.13,Chinese,,0,0,0,,
+Dialogue: 0,0:01:02.66,0:01:05.13,Chinese,,0,0,0,,从发电厂输送到你家里的
 Dialogue: 0,0:01:05.13,0:01:07.28,English,,0,0,0,,Unlike a battery,
-Dialogue: 0,0:01:05.13,0:01:07.28,Chinese,,0,0,0,,
+Dialogue: 0,0:01:05.13,0:01:07.28,Chinese,,0,0,0,,跟电池不同，
 Dialogue: 0,0:01:07.28,0:01:08.70,English,,0,0,0,,the electricity in the grid
-Dialogue: 0,0:01:07.28,0:01:08.70,Chinese,,0,0,0,,
+Dialogue: 0,0:01:07.28,0:01:08.70,Chinese,,0,0,0,,电网中的电是以交流电的形式输送的
 Dialogue: 0,0:01:08.70,0:01:11.88,English,,0,0,0,,comes in the form of alternating current, or AC,
-Dialogue: 0,0:01:08.70,0:01:11.88,Chinese,,0,0,0,,
+Dialogue: 0,0:01:08.70,0:01:11.88,Chinese,,0,0,0,,电网中的电是以交流电的形式输送的
 Dialogue: 0,0:01:11.88,0:01:13.82,English,,0,0,0,,which means electrons in the power lines
-Dialogue: 0,0:01:11.88,0:01:13.82,Chinese,,0,0,0,,
+Dialogue: 0,0:01:11.88,0:01:13.82,Chinese,,0,0,0,,也就是说输电线中的电子
 Dialogue: 0,0:01:13.82,0:01:15.55,English,,0,0,0,,are just wiggling back and forth.
-Dialogue: 0,0:01:13.82,0:01:15.55,Chinese,,0,0,0,,
+Dialogue: 0,0:01:13.82,0:01:15.55,Chinese,,0,0,0,,只是在原地来回摆动
 Dialogue: 0,0:01:15.55,0:01:18.27,English,,0,0,0,,They never actually go anywhere.
-Dialogue: 0,0:01:15.55,0:01:18.27,Chinese,,0,0,0,,
+Dialogue: 0,0:01:15.55,0:01:18.27,Chinese,,0,0,0,,并不会一直朝着一个方向前进
 Dialogue: 0,0:01:18.27,0:01:21.34,English,,0,0,0,,So, if the charges don't come from the power plant
-Dialogue: 0,0:01:18.27,0:01:21.34,Chinese,,0,0,0,,
+Dialogue: 0,0:01:18.27,0:01:21.34,Chinese,,0,0,0,,既然电荷并不会从发电厂一路来到你家里
 Dialogue: 0,0:01:21.34,0:01:22.60,English,,0,0,0,,to your home,
-Dialogue: 0,0:01:21.34,0:01:22.60,Chinese,,0,0,0,,
+Dialogue: 0,0:01:21.34,0:01:22.60,Chinese,,0,0,0,,既然电荷并不会从发电厂一路来到你家里
 Dialogue: 0,0:01:22.60,0:01:26.03,English,,0,0,0,,how does the electrical energy actually reach you?
-Dialogue: 0,0:01:22.60,0:01:26.03,Chinese,,0,0,0,,
+Dialogue: 0,0:01:22.60,0:01:26.03,Chinese,,0,0,0,,电能是如何被传输过来的呢？
 Dialogue: 0,0:01:27.45,0:01:29.43,English,,0,0,0,,When I used to teach this subject,
-Dialogue: 0,0:01:27.45,0:01:29.43,Chinese,,0,0,0,,
+Dialogue: 0,0:01:27.45,0:01:29.43,Chinese,,0,0,0,,当年我教这部分内容的时候，
 Dialogue: 0,0:01:29.43,0:01:30.81,English,,0,0,0,,I would say that power lines
-Dialogue: 0,0:01:29.43,0:01:30.81,Chinese,,0,0,0,,
+Dialogue: 0,0:01:29.43,0:01:30.81,Chinese,,0,0,0,,我打了个比方说，输电线就好似这条有弹性的塑料管
 Dialogue: 0,0:01:30.81,0:01:33.41,English,,0,0,0,,are like this flexible plastic tubing
-Dialogue: 0,0:01:30.81,0:01:33.41,Chinese,,0,0,0,,
+Dialogue: 0,0:01:30.81,0:01:33.41,Chinese,,0,0,0,,我打了个比方说，输电线就好似这条有弹性的塑料管
 Dialogue: 0,0:01:33.41,0:01:36.74,English,,0,0,0,,and the electrons inside are like this chain.
-Dialogue: 0,0:01:33.41,0:01:36.74,Chinese,,0,0,0,,
+Dialogue: 0,0:01:33.41,0:01:36.74,Chinese,,0,0,0,,电子就好比管子里面这条铁链
 Dialogue: 0,0:01:36.74,0:01:38.56,English,,0,0,0,,So, what a power station does,
-Dialogue: 0,0:01:36.74,0:01:38.56,Chinese,,0,0,0,,
+Dialogue: 0,0:01:36.74,0:01:38.56,Chinese,,0,0,0,,发电厂的作用，
 Dialogue: 0,0:01:38.56,0:01:42.33,English,,0,0,0,,is it pushes and pulls the electrons back and forth
-Dialogue: 0,0:01:38.56,0:01:42.33,Chinese,,0,0,0,,
+Dialogue: 0,0:01:38.56,0:01:42.33,Chinese,,0,0,0,,就是来回拉扯这些电子
 Dialogue: 0,0:01:42.33,0:01:44.45,English,,0,0,0,,60 times a second.
-Dialogue: 0,0:01:42.33,0:01:44.45,Chinese,,0,0,0,,
+Dialogue: 0,0:01:42.33,0:01:44.45,Chinese,,0,0,0,,每秒反复60次
 Dialogue: 0,0:01:44.45,0:01:45.84,English,,0,0,0,,Now, at your house,
-Dialogue: 0,0:01:44.45,0:01:45.84,Chinese,,0,0,0,,
+Dialogue: 0,0:01:44.45,0:01:45.84,Chinese,,0,0,0,,那么你在家里，
 Dialogue: 0,0:01:45.84,0:01:48.23,English,,0,0,0,,you can plug in a device, like a toaster,
-Dialogue: 0,0:01:45.84,0:01:48.23,Chinese,,0,0,0,,
+Dialogue: 0,0:01:45.84,0:01:48.23,Chinese,,0,0,0,,比如说插上了一个吐司机
 Dialogue: 0,0:01:48.23,0:01:49.68,English,,0,0,0,,which essentially means
-Dialogue: 0,0:01:48.23,0:01:49.68,Chinese,,0,0,0,,
+Dialogue: 0,0:01:48.23,0:01:49.68,Chinese,,0,0,0,,也就是让电子得以流经这个吐司机
 Dialogue: 0,0:01:49.68,0:01:52.18,English,,0,0,0,,allowing the electrons to run through it.
-Dialogue: 0,0:01:49.68,0:01:52.18,Chinese,,0,0,0,,
+Dialogue: 0,0:01:49.68,0:01:52.18,Chinese,,0,0,0,,也就是让电子得以流经这个吐司机
 Dialogue: 0,0:01:52.18,0:01:55.53,English,,0,0,0,,So when the power station pushes and pulls the electrons,
-Dialogue: 0,0:01:52.18,0:01:55.53,Chinese,,0,0,0,,
+Dialogue: 0,0:01:52.18,0:01:55.53,Chinese,,0,0,0,,当发电厂来回拉扯电子的时候
 Dialogue: 0,0:01:55.53,0:01:59.77,English,,0,0,0,,well, they encounter resistance in the toaster element,
-Dialogue: 0,0:01:55.53,0:01:59.77,Chinese,,0,0,0,,
+Dialogue: 0,0:01:55.53,0:01:59.77,Chinese,,0,0,0,,电子在吐司机这里受到了阻力
 Dialogue: 0,0:01:59.77,0:02:03.13,English,,0,0,0,,and they dissipate their energy as heat,
-Dialogue: 0,0:01:59.77,0:02:03.13,Chinese,,0,0,0,,
+Dialogue: 0,0:01:59.77,0:02:03.13,Chinese,,0,0,0,,于是电子的部分能量以热的形式丧失了
 Dialogue: 0,0:02:03.13,0:02:05.22,English,,0,0,0,,and so you can toast your bread.
-Dialogue: 0,0:02:03.13,0:02:05.22,Chinese,,0,0,0,,
+Dialogue: 0,0:02:03.13,0:02:05.22,Chinese,,0,0,0,,这部分热就是用来烘烤面包的
 Dialogue: 0,0:02:05.22,0:02:06.61,English,,0,0,0,,Now, this is a great story,
-Dialogue: 0,0:02:05.22,0:02:06.61,Chinese,,0,0,0,,
+Dialogue: 0,0:02:05.22,0:02:06.61,Chinese,,0,0,0,,整个故事编的确实挺好
 Dialogue: 0,0:02:06.61,0:02:07.94,English,,0,0,0,,I think it's easy to visualize,
-Dialogue: 0,0:02:06.61,0:02:07.94,Chinese,,0,0,0,,
+Dialogue: 0,0:02:06.61,0:02:07.94,Chinese,,0,0,0,,很容易让人看明白
 Dialogue: 0,0:02:07.94,0:02:09.98,English,,0,0,0,,and I think my students understood it.
-Dialogue: 0,0:02:07.94,0:02:09.98,Chinese,,0,0,0,,
+Dialogue: 0,0:02:07.94,0:02:09.98,Chinese,,0,0,0,,我觉得我的学生们也是茅塞顿开
 Dialogue: 0,0:02:09.98,0:02:12.68,English,,0,0,0,,The only problem is, it's wrong.
-Dialogue: 0,0:02:09.98,0:02:12.68,Chinese,,0,0,0,,
+Dialogue: 0,0:02:09.98,0:02:12.68,Chinese,,0,0,0,,但美中不足的是，它是错的。
 Dialogue: 0,0:02:13.52,0:02:14.53,English,,0,0,0,,For one thing,
-Dialogue: 0,0:02:13.52,0:02:14.53,Chinese,,0,0,0,,
+Dialogue: 0,0:02:13.52,0:02:14.53,Chinese,,0,0,0,,其一，
 Dialogue: 0,0:02:14.53,0:02:16.89,English,,0,0,0,,there is no continuous conducting wire
-Dialogue: 0,0:02:14.53,0:02:16.89,Chinese,,0,0,0,,
+Dialogue: 0,0:02:14.53,0:02:16.89,Chinese,,0,0,0,,从发电厂到你家里，
 Dialogue: 0,0:02:16.89,0:02:20.09,English,,0,0,0,,that runs all the way from a power station to your house.
-Dialogue: 0,0:02:16.89,0:02:20.09,Chinese,,0,0,0,,
+Dialogue: 0,0:02:16.89,0:02:20.09,Chinese,,0,0,0,,并不是通过一根完整的输电线连接的
 Dialogue: 0,0:02:20.09,0:02:22.37,English,,0,0,0,,No, there are physical gaps,
-Dialogue: 0,0:02:20.09,0:02:22.37,Chinese,,0,0,0,,
+Dialogue: 0,0:02:20.09,0:02:22.37,Chinese,,0,0,0,,期间有很多物理上的隔断
 Dialogue: 0,0:02:22.37,0:02:24.45,English,,0,0,0,,there are breaks in the line,
-Dialogue: 0,0:02:22.37,0:02:24.45,Chinese,,0,0,0,,
+Dialogue: 0,0:02:22.37,0:02:24.45,Chinese,,0,0,0,,整条线路是有很多间隔的
 Dialogue: 0,0:02:24.45,0:02:25.61,English,,0,0,0,,like in transformers
-Dialogue: 0,0:02:24.45,0:02:25.61,Chinese,,0,0,0,,
+Dialogue: 0,0:02:24.45,0:02:25.61,Chinese,,0,0,0,,比如说在变压器里面，
 Dialogue: 0,0:02:25.61,0:02:28.00,English,,0,0,0,,where one coil of wire is wrapped on one side,
-Dialogue: 0,0:02:25.61,0:02:28.00,Chinese,,0,0,0,,
+Dialogue: 0,0:02:25.61,0:02:28.00,Chinese,,0,0,0,,一个线圈缠绕在这头
 Dialogue: 0,0:02:28.00,0:02:30.10,English,,0,0,0,,a different coil of wire is wrapped on the other side.
-Dialogue: 0,0:02:28.00,0:02:30.10,Chinese,,0,0,0,,
+Dialogue: 0,0:02:28.00,0:02:30.10,Chinese,,0,0,0,,另一个线圈绕在那头
 Dialogue: 0,0:02:30.10,0:02:32.72,English,,0,0,0,,So, electrons cannot possibly flow
-Dialogue: 0,0:02:30.10,0:02:32.72,Chinese,,0,0,0,,
+Dialogue: 0,0:02:30.10,0:02:32.72,Chinese,,0,0,0,,电子无法从一个线圈转移到另一个线圈
 Dialogue: 0,0:02:32.72,0:02:34.62,English,,0,0,0,,from one the other.
-Dialogue: 0,0:02:32.72,0:02:34.62,Chinese,,0,0,0,,
+Dialogue: 0,0:02:32.72,0:02:34.62,Chinese,,0,0,0,,电子无法从一个线圈转移到另一个线圈
 Dialogue: 0,0:02:34.62,0:02:36.92,English,,0,0,0,,Plus, if it's the electrons
-Dialogue: 0,0:02:34.62,0:02:36.92,Chinese,,0,0,0,,
+Dialogue: 0,0:02:34.62,0:02:36.92,Chinese,,0,0,0,,此外，如果说能量是由电子
 Dialogue: 0,0:02:36.92,0:02:38.46,English,,0,0,0,,that are carrying the energy
-Dialogue: 0,0:02:36.92,0:02:38.46,Chinese,,0,0,0,,
+Dialogue: 0,0:02:36.92,0:02:38.46,Chinese,,0,0,0,,从发电厂输送到你家电器的
 Dialogue: 0,0:02:38.46,0:02:41.12,English,,0,0,0,,from the power station to your device,
-Dialogue: 0,0:02:38.46,0:02:41.12,Chinese,,0,0,0,,
+Dialogue: 0,0:02:38.46,0:02:41.12,Chinese,,0,0,0,,从发电厂输送到你家电器的
 Dialogue: 0,0:02:41.12,0:02:42.63,English,,0,0,0,,then when those same electrons
-Dialogue: 0,0:02:41.12,0:02:42.63,Chinese,,0,0,0,,
+Dialogue: 0,0:02:41.12,0:02:42.63,Chinese,,0,0,0,,那么当这批电子返回发电厂的时候
 Dialogue: 0,0:02:42.63,0:02:44.44,English,,0,0,0,,flow back to the power station,
-Dialogue: 0,0:02:42.63,0:02:44.44,Chinese,,0,0,0,,
+Dialogue: 0,0:02:42.63,0:02:44.44,Chinese,,0,0,0,,那么当这批电子返回发电厂的时候
 Dialogue: 0,0:02:44.44,0:02:47.14,English,,0,0,0,,why are they not also carrying energy
-Dialogue: 0,0:02:44.44,0:02:47.14,Chinese,,0,0,0,,
+Dialogue: 0,0:02:44.44,0:02:47.14,Chinese,,0,0,0,,它们为什么没有把你家的能量带回发电厂呢
 Dialogue: 0,0:02:47.14,0:02:50.51,English,,0,0,0,,back from your house to the power station?
-Dialogue: 0,0:02:47.14,0:02:50.51,Chinese,,0,0,0,,
+Dialogue: 0,0:02:47.14,0:02:50.51,Chinese,,0,0,0,,它们为什么没有把你家的能量带回发电厂呢
 Dialogue: 0,0:02:50.51,0:02:53.68,English,,0,0,0,,If the flow of current is two ways,
-Dialogue: 0,0:02:50.51,0:02:53.68,Chinese,,0,0,0,,
+Dialogue: 0,0:02:50.51,0:02:53.68,Chinese,,0,0,0,,如果说电流是在两者之间循环流动
 Dialogue: 0,0:02:53.68,0:02:58.24,English,,0,0,0,,then why does energy only flow in one direction?
-Dialogue: 0,0:02:53.68,0:02:58.24,Chinese,,0,0,0,,
+Dialogue: 0,0:02:53.68,0:02:58.24,Chinese,,0,0,0,,那为什么能量的流向却是单向的呢？
 Dialogue: 0,0:02:58.24,0:03:01.78,English,,0,0,0,,These are the lies you were taught about electricity,
-Dialogue: 0,0:02:58.24,0:03:01.78,Chinese,,0,0,0,,
+Dialogue: 0,0:02:58.24,0:03:01.78,Chinese,,0,0,0,,你上课学到的关于电学的谎言就是：
 Dialogue: 0,0:03:01.78,0:03:05.32,English,,0,0,0,,that electrons themselves have potential energy,
-Dialogue: 0,0:03:01.78,0:03:05.32,Chinese,,0,0,0,,
+Dialogue: 0,0:03:01.78,0:03:05.32,Chinese,,0,0,0,,电子本身带有势能；
 Dialogue: 0,0:03:05.32,0:03:06.56,English,,0,0,0,,that they are pushed or pulled
-Dialogue: 0,0:03:05.32,0:03:06.56,Chinese,,0,0,0,,
+Dialogue: 0,0:03:05.32,0:03:06.56,Chinese,,0,0,0,,它们被推动或者拉着在闭合导体回路中移动；
 Dialogue: 0,0:03:06.56,0:03:08.97,English,,0,0,0,,through a continuous conducting loop
-Dialogue: 0,0:03:06.56,0:03:08.97,Chinese,,0,0,0,,
+Dialogue: 0,0:03:06.56,0:03:08.97,Chinese,,0,0,0,,它们被推动或者拉着在闭合导体回路中移动；
 Dialogue: 0,0:03:08.97,0:03:13.08,English,,0,0,0,,and that they dissipate their energy in the device.
-Dialogue: 0,0:03:08.97,0:03:13.08,Chinese,,0,0,0,,
+Dialogue: 0,0:03:08.97,0:03:13.08,Chinese,,0,0,0,,它们释放能量为设备供电。
 Dialogue: 0,0:03:13.08,0:03:14.42,English,,0,0,0,,My claim in this video
-Dialogue: 0,0:03:13.08,0:03:14.42,Chinese,,0,0,0,,
+Dialogue: 0,0:03:13.08,0:03:14.42,Chinese,,0,0,0,,我在此视频中的观点就是：
 Dialogue: 0,0:03:14.42,0:03:17.27,English,,0,0,0,,is that all of that is false.
-Dialogue: 0,0:03:14.42,0:03:17.27,Chinese,,0,0,0,,
+Dialogue: 0,0:03:14.42,0:03:17.27,Chinese,,0,0,0,,上述说法均是错的。
 Dialogue: 0,0:03:17.27,0:03:19.66,English,,0,0,0,,So, how does it actually work?
-Dialogue: 0,0:03:17.27,0:03:19.66,Chinese,,0,0,0,,
+Dialogue: 0,0:03:17.27,0:03:19.66,Chinese,,0,0,0,,那么，究竟该怎么解释呢？
 Dialogue: 0,0:03:22.60,0:03:24.33,English,,0,0,0,,In the 1860's and 70's,
 Dialogue: 0,0:03:22.60,0:03:24.33,Chinese,,0,0,0,,
 Dialogue: 0,0:03:24.33,0:03:26.16,English,,0,0,0,,there was a huge breakthrough
