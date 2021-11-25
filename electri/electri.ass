@@ -589,96 +589,92 @@ Dialogue: 0,0:11:33.88,0:11:36.76,Chinese,,0,0,0,,
 Dialogue: 0,0:11:36.76,0:11:39.36,English,,0,0,0,,to separate the wires from the ground.
 Dialogue: 0,0:11:36.76,0:11:39.36,Chinese,,0,0,0,,
 Dialogue: 0,0:11:40.77,0:11:42.42,English,,0,0,0,,So, what is the answer
-Dialogue: 0,0:11:40.77,0:11:42.42,Chinese,,0,0,0,,
+Dialogue: 0,0:11:40.77,0:11:42.42,Chinese,,0,0,0,,那么这个巨大的灯泡电路问题
 Dialogue: 0,0:11:42.42,0:11:45.95,English,,0,0,0,,to our giant circuit light bulb question?
-Dialogue: 0,0:11:42.42,0:11:45.95,Chinese,,0,0,0,,
+Dialogue: 0,0:11:42.42,0:11:45.95,Chinese,,0,0,0,,的答案是什么呢？
 Dialogue: 0,0:11:45.95,0:11:47.68,English,,0,0,0,,Well, after I close the switch,
-Dialogue: 0,0:11:45.95,0:11:47.68,Chinese,,0,0,0,,
+Dialogue: 0,0:11:45.95,0:11:47.68,Chinese,,0,0,0,,我们闭合开关之后
 Dialogue: 0,0:11:47.68,0:11:51.80,English,,0,0,0,,the light bulb will turn on almost instantaneously,
-Dialogue: 0,0:11:47.68,0:11:51.80,Chinese,,0,0,0,,
+Dialogue: 0,0:11:47.68,0:11:51.80,Chinese,,0,0,0,,灯泡会在大概1/C秒内亮起来
 Dialogue: 0,0:11:51.80,0:11:54.09,English,,0,0,0,,in roughly 1/C seconds.
-Dialogue: 0,0:11:51.80,0:11:54.09,Chinese,,0,0,0,,
+Dialogue: 0,0:11:51.80,0:11:54.09,Chinese,,0,0,0,,几乎就在一瞬间
 Dialogue: 0,0:11:54.09,0:11:57.05,English,,0,0,0,,So, the correct answer is D.
-Dialogue: 0,0:11:54.09,0:11:57.05,Chinese,,0,0,0,,
+Dialogue: 0,0:11:54.09,0:11:57.05,Chinese,,0,0,0,,所以正确答案是D
 Dialogue: 0,0:11:57.05,0:11:58.58,English,,0,0,0,,I think a lot of people imagine
-Dialogue: 0,0:11:57.05,0:11:58.58,Chinese,,0,0,0,,
-Dialogue: 0,0:11:58.58,0:12:00.76,English,,0,0,0,,that the electric field needs to travel
-Dialogue: 0,0:11:58.58,0:12:00.76,Chinese,,0,0,0,,
-Dialogue: 0,0:12:00.76,0:12:01.84,English,,0,0,0,,from the battery,
-Dialogue: 0,0:12:00.76,0:12:01.84,Chinese,,0,0,0,,
+Dialogue: 0,0:11:57.05,0:11:58.58,Chinese,,0,0,0,,我猜很多人会觉得
+Dialogue: 0,0:11:58.58,0:12:00.76,English,,0,0,0,,that the electric field needs to travel from the battery,
+Dialogue: 0,0:11:58.58,0:12:00.76,Chinese,,0,0,0,,电场需要从电池出发
 Dialogue: 0,0:12:01.84,0:12:03.16,English,,0,0,0,,all the way down the wire
-Dialogue: 0,0:12:01.84,0:12:03.16,Chinese,,0,0,0,,
+Dialogue: 0,0:12:01.84,0:12:03.16,Chinese,,0,0,0,,沿着整根导线
 Dialogue: 0,0:12:03.16,0:12:04.98,English,,0,0,0,,which is a light second long,
-Dialogue: 0,0:12:03.16,0:12:04.98,Chinese,,0,0,0,,
+Dialogue: 0,0:12:03.16,0:12:04.98,Chinese,,0,0,0,,这个长度有一光秒
 Dialogue: 0,0:12:04.98,0:12:07.88,English,,0,0,0,,so it should take a second for the bulb to light up.
-Dialogue: 0,0:12:04.98,0:12:07.88,Chinese,,0,0,0,,
-Dialogue: 0,0:12:07.88,0:12:09.74,English,,0,0,0,,But what we've learned in this video
-Dialogue: 0,0:12:07.88,0:12:09.74,Chinese,,0,0,0,,
-Dialogue: 0,0:12:09.74,0:12:12.60,English,,0,0,0,,is it's not really what's happening in the wires
-Dialogue: 0,0:12:09.74,0:12:12.60,Chinese,,0,0,0,,
+Dialogue: 0,0:12:04.98,0:12:07.88,Chinese,,0,0,0,,所以从闭合开关到灯泡亮起来需要一秒
+Dialogue: 0,0:12:07.88,0:12:09.74,English,,0,0,0,,But what we've learned in this video is
+Dialogue: 0,0:12:07.88,0:12:09.74,Chinese,,0,0,0,,但是我们从这个视频得知
+Dialogue: 0,0:12:09.74,0:12:12.60,English,,0,0,0,,it's not really what's happening in the wires
+Dialogue: 0,0:12:09.74,0:12:12.60,Chinese,,0,0,0,,真正起作用的并不是
 Dialogue: 0,0:12:12.60,0:12:13.55,English,,0,0,0,,that matters,
-Dialogue: 0,0:12:12.60,0:12:13.55,Chinese,,0,0,0,,
+Dialogue: 0,0:12:12.60,0:12:13.55,Chinese,,0,0,0,,导线中发生的事情
 Dialogue: 0,0:12:13.55,0:12:16.06,English,,0,0,0,,it's what happens around the wires.
-Dialogue: 0,0:12:13.55,0:12:16.06,Chinese,,0,0,0,,
+Dialogue: 0,0:12:13.55,0:12:16.06,Chinese,,0,0,0,,而是导线周围发生的事情
 Dialogue: 0,0:12:16.06,0:12:17.47,English,,0,0,0,,And the electric and magnetic fields
-Dialogue: 0,0:12:16.06,0:12:17.47,Chinese,,0,0,0,,
-Dialogue: 0,0:12:17.47,0:12:19.68,English,,0,0,0,,can propagate out through space
-Dialogue: 0,0:12:17.47,0:12:19.68,Chinese,,0,0,0,,
-Dialogue: 0,0:12:19.68,0:12:20.67,English,,0,0,0,,to this light bulb,
-Dialogue: 0,0:12:19.68,0:12:20.67,Chinese,,0,0,0,,
+Dialogue: 0,0:12:16.06,0:12:17.47,Chinese,,0,0,0,,电场和磁场可以
+Dialogue: 0,0:12:17.47,0:12:19.68,English,,0,0,0,,can propagate out through space to this light bulb
+Dialogue: 0,0:12:17.47,0:12:19.68,Chinese,,0,0,0,,在真空中传播到灯泡处
 Dialogue: 0,0:12:20.67,0:12:24.87,English,,0,0,0,,which is only one meter away in a few nanoseconds.
-Dialogue: 0,0:12:20.67,0:12:24.87,Chinese,,0,0,0,,
+Dialogue: 0,0:12:20.67,0:12:24.87,Chinese,,0,0,0,,这个距离只有1米，只需要几纳秒即可
 Dialogue: 0,0:12:24.87,0:12:27.66,English,,0,0,0,,And so, that is the limiting factor
-Dialogue: 0,0:12:24.87,0:12:27.66,Chinese,,0,0,0,,
+Dialogue: 0,0:12:24.87,0:12:27.66,Chinese,,0,0,0,,因此 这是灯泡亮起来的
 Dialogue: 0,0:12:27.66,0:12:29.11,English,,0,0,0,,for the light bulb turning on.
-Dialogue: 0,0:12:27.66,0:12:29.11,Chinese,,0,0,0,,
+Dialogue: 0,0:12:27.66,0:12:29.11,Chinese,,0,0,0,,限制原因
 Dialogue: 0,0:12:29.11,0:12:30.55,English,,0,0,0,,Now, the bulb won't receive
-Dialogue: 0,0:12:29.11,0:12:30.55,Chinese,,0,0,0,,
+Dialogue: 0,0:12:29.11,0:12:30.55,Chinese,,0,0,0,,灯泡并不会马上接收到
 Dialogue: 0,0:12:30.55,0:12:33.46,English,,0,0,0,,the entire voltage of the battery immediately,
-Dialogue: 0,0:12:30.55,0:12:33.46,Chinese,,0,0,0,,
+Dialogue: 0,0:12:30.55,0:12:33.46,Chinese,,0,0,0,,电池的完整电压
 Dialogue: 0,0:12:33.46,0:12:34.77,English,,0,0,0,,it'll be some fraction,
-Dialogue: 0,0:12:33.46,0:12:34.77,Chinese,,0,0,0,,
+Dialogue: 0,0:12:33.46,0:12:34.77,Chinese,,0,0,0,,而是一些跟导线阻抗
 Dialogue: 0,0:12:34.77,0:12:37.86,English,,0,0,0,,which depends on the impedance of these lines
-Dialogue: 0,0:12:34.77,0:12:37.86,Chinese,,0,0,0,,
+Dialogue: 0,0:12:34.77,0:12:37.86,Chinese,,0,0,0,,以及灯泡阻抗
 Dialogue: 0,0:12:37.86,0:12:39.91,English,,0,0,0,,and the impedance of the bulb.
-Dialogue: 0,0:12:37.86,0:12:39.91,Chinese,,0,0,0,,
+Dialogue: 0,0:12:37.86,0:12:39.91,Chinese,,0,0,0,,相关的部分电压
 Dialogue: 0,0:12:39.91,0:12:42.24,English,,0,0,0,,Now, I asked several experts about this question,
-Dialogue: 0,0:12:39.91,0:12:42.24,Chinese,,0,0,0,,
+Dialogue: 0,0:12:39.91,0:12:42.24,Chinese,,0,0,0,,我向几位专家问了这些问题
 Dialogue: 0,0:12:42.24,0:12:44.10,English,,0,0,0,,and got kind of different answers,
-Dialogue: 0,0:12:42.24,0:12:44.10,Chinese,,0,0,0,,
+Dialogue: 0,0:12:42.24,0:12:44.10,Chinese,,0,0,0,,得到了一些不同的答复
 Dialogue: 0,0:12:44.10,0:12:46.78,English,,0,0,0,,but we all agreed on these main points.
-Dialogue: 0,0:12:44.10,0:12:46.78,Chinese,,0,0,0,,
+Dialogue: 0,0:12:44.10,0:12:46.78,Chinese,,0,0,0,,但是我们都一致同意这几点
 Dialogue: 0,0:12:46.78,0:12:48.76,English,,0,0,0,,So, I'm gonna put their analysis in the description
-Dialogue: 0,0:12:46.78,0:12:48.76,Chinese,,0,0,0,,
+Dialogue: 0,0:12:46.78,0:12:48.76,Chinese,,0,0,0,,我会把他们的分析写在描述中
 Dialogue: 0,0:12:48.76,0:12:52.69,English,,0,0,0,,in case you want to learn more about this particular setup.
-Dialogue: 0,0:12:48.76,0:12:52.69,Chinese,,0,0,0,,
+Dialogue: 0,0:12:48.76,0:12:52.69,Chinese,,0,0,0,,以便你们想了解相关内容
 Dialogue: 0,0:12:52.69,0:12:53.79,English,,0,0,0,,If I get called out on it
-Dialogue: 0,0:12:52.69,0:12:53.79,Chinese,,0,0,0,,
+Dialogue: 0,0:12:52.69,0:12:53.79,Chinese,,0,0,0,,如果有人把我叫出来
 Dialogue: 0,0:12:53.79,0:12:55.45,English,,0,0,0,,and people don't think it's real,
-Dialogue: 0,0:12:53.79,0:12:55.45,Chinese,,0,0,0,,
+Dialogue: 0,0:12:53.79,0:12:55.45,Chinese,,0,0,0,,否认我的观点
 Dialogue: 0,0:12:55.45,0:12:58.31,English,,0,0,0,,we can definitely invest the resources
-Dialogue: 0,0:12:55.45,0:12:58.31,Chinese,,0,0,0,,
+Dialogue: 0,0:12:55.45,0:12:58.31,Chinese,,0,0,0,,我们可以投入资源
 Dialogue: 0,0:12:58.31,0:12:59.90,English,,0,0,0,,and string up some lines,
-Dialogue: 0,0:12:58.31,0:12:59.90,Chinese,,0,0,0,,
+Dialogue: 0,0:12:58.31,0:12:59.90,Chinese,,0,0,0,,来安排几根导线
 Dialogue: 0,0:12:59.90,0:13:01.18,English,,0,0,0,,and make our own power lines in the desert.
-Dialogue: 0,0:12:59.90,0:13:01.18,Chinese,,0,0,0,,
+Dialogue: 0,0:12:59.90,0:13:01.18,Chinese,,0,0,0,,并在沙漠中制作我们的电路
 Dialogue: 0,0:13:01.18,0:13:03.36,English,,0,0,0,,- I think you're gonna get called out on it.
-Dialogue: 0,0:13:01.18,0:13:03.36,Chinese,,0,0,0,,
+Dialogue: 0,0:13:01.18,0:13:03.36,Chinese,,0,0,0,,- 我觉得你会被叫出来的
 Dialogue: 0,0:13:03.36,0:13:06.28,English,,0,0,0,,- I agree, I think you're gonna get called out.
-Dialogue: 0,0:13:03.36,0:13:06.28,Chinese,,0,0,0,,
+Dialogue: 0,0:13:03.36,0:13:06.28,Chinese,,0,0,0,,- 我也觉得你会被叫出来
 Dialogue: 0,0:13:09.09,0:13:10.97,English,,0,0,0,,I think that's right.
-Dialogue: 0,0:13:09.09,0:13:10.97,Chinese,,0,0,0,,
+Dialogue: 0,0:13:09.09,0:13:10.97,Chinese,,0,0,0,,我觉得这是对的
 Dialogue: 0,0:13:10.97,0:13:12.59,English,,0,0,0,,- I think it's just kinda wild
-Dialogue: 0,0:13:10.97,0:13:12.59,Chinese,,0,0,0,,
+Dialogue: 0,0:13:10.97,0:13:12.59,Chinese,,0,0,0,,我觉得这真是不可思议
 Dialogue: 0,0:13:12.59,0:13:14.53,English,,0,0,0,,that this is one of those things
-Dialogue: 0,0:13:12.59,0:13:14.53,Chinese,,0,0,0,,
+Dialogue: 0,0:13:12.59,0:13:14.53,Chinese,,0,0,0,,虽然每天都能接触到
 Dialogue: 0,0:13:14.53,0:13:16.07,English,,0,0,0,,that we use everyday,
-Dialogue: 0,0:13:14.53,0:13:16.07,Chinese,,0,0,0,,
+Dialogue: 0,0:13:14.53,0:13:16.07,Chinese,,0,0,0,,但几乎没有人
 Dialogue: 0,0:13:16.07,0:13:18.44,English,,0,0,0,,that almost nobody thinks about
-Dialogue: 0,0:13:16.07,0:13:18.44,Chinese,,0,0,0,,
+Dialogue: 0,0:13:16.07,0:13:18.44,Chinese,,0,0,0,,对此产生思考
 Dialogue: 0,0:13:18.44,0:13:20.65,English,,0,0,0,,or knows the right answer to.
-Dialogue: 0,0:13:18.44,0:13:20.65,Chinese,,0,0,0,,
+Dialogue: 0,0:13:18.44,0:13:20.65,Chinese,,0,0,0,,以及几乎没有人知道正确答案
 Dialogue: 0,0:13:20.65,0:13:23.42,English,,0,0,0,,These traveling electromagnetic waves around power lines
-Dialogue: 0,0:13:20.65,0:13:23.42,Chinese,,0,0,0,,
+Dialogue: 0,0:13:20.65,0:13:23.42,Chinese,,0,0,0,,这些围绕着导线传播的电磁波
 Dialogue: 0,0:13:23.42,0:13:25.86,English,,0,0,0,,are really what's delivering your power.
-Dialogue: 0,0:13:23.42,0:13:25.86,Chinese,,0,0,0,,
+Dialogue: 0,0:13:23.42,0:13:25.86,Chinese,,0,0,0,,才是真正为大家提供电力的原因
