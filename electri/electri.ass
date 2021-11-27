@@ -519,19 +519,17 @@ Dialogue: 0,0:10:07.89,0:10:11.40,Chinese,,0,0,0,,既可以是场  也可以是�
 Dialogue: 0,0:10:11.40,0:10:13.58,English,,0,0,0,,But that is not the case,
 Dialogue: 0,0:10:11.40,0:10:13.58,Chinese,,0,0,0,,但事实并非如此
 Dialogue: 0,0:10:13.58,0:10:15.26,English,,0,0,0,,and people learned this the hard way
-Dialogue: 0,0:10:13.58,0:10:15.26,Chinese,,0,0,0,,人们是以艰难的方式明白这一点的
+Dialogue: 0,0:10:13.58,0:10:15.26,Chinese,,0,0,0,,人们在海底开始铺设电报电缆的时候
 Dialogue: 0,0:10:15.26,0:10:18.61,English,,0,0,0,,when they started laying undersea telegraph cables.
-Dialogue: 0,0:10:15.26,0:10:18.61,Chinese,,0,0,0,,那是在他们开始铺设海底电报电缆的时候
+Dialogue: 0,0:10:15.26,0:10:18.61,Chinese,,0,0,0,,才艰难地得到了这个问题的答案
 Dialogue: 0,0:10:18.61,0:10:22.71,English,,0,0,0,,The first Trans Atlantic cable was laid in 1858.
-Dialogue: 0,0:10:18.61,0:10:22.71,Chinese,,0,0,0,,第一条跨大西洋海底电缆在1858年铺设
+Dialogue: 0,0:10:18.61,0:10:22.71,Chinese,,0,0,0,,第一条跨大西洋海底电缆  在1858年铺设
 Dialogue: 0,0:10:22.71,0:10:24.25,English,,0,0,0,,- It only worked for about a month,
-Dialogue: 0,0:10:22.71,0:10:24.25,Chinese,,0,0,0,,它只运行了大约一个月
 Dialogue: 0,0:10:24.25,0:10:25.76,English,,0,0,0,,it never worked properly.
-Dialogue: 0,0:10:24.25,0:10:25.76,Chinese,,0,0,0,,而且从来没正常工作过
+Dialogue: 0,0:10:22.71,0:10:25.76,Chinese,,0,0,0,,它运行了一个月（并且状态不佳）后就毁坏了
 Dialogue: 0,0:10:25.76,0:10:27.42,English,,0,0,0,,- There are all kinds of distortions
-Dialogue: 0,0:10:25.76,0:10:27.42,Chinese,,0,0,0,,在他们尝试发送信号的时候
 Dialogue: 0,0:10:27.42,0:10:28.33,English,,0,0,0,,when they try to send signals.
-Dialogue: 0,0:10:27.42,0:10:28.33,Chinese,,0,0,0,,会有各种各样的失真
+Dialogue: 0,0:10:25.76,0:10:28.33,Chinese,,0,0,0,,人们尝试发送信号时  发现有各种各样的失真
 Dialogue: 0,0:10:28.33,0:10:30.49,English,,0,0,0,,- Enormous amounts of distortion.
 Dialogue: 0,0:10:28.33,0:10:30.49,Chinese,,0,0,0,,巨大多的失真
 Dialogue: 0,0:10:30.49,0:10:32.65,English,,0,0,0,,They could work it at a few words per minute.
