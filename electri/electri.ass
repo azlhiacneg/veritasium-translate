@@ -414,93 +414,82 @@ Dialogue: 0,0:08:16.44,0:08:17.73,Chinese,,0,0,0,,不论哪种情况
 Dialogue: 0,0:08:17.73,0:08:21.87,English,,0,0,0,,the energy is transmitted by the electric and magnetic fields.
 Dialogue: 0,0:08:17.73,0:08:21.87,Chinese,,0,0,0,,能量总是经由电磁场传输
 Dialogue: 0,0:08:21.87,0:08:24.17,English,,0,0,0,,- People seem to think that you're pumping electrons
-Dialogue: 0,0:08:21.87,0:08:24.17,Chinese,,0,0,0,,
+Dialogue: 0,0:08:21.87,0:08:24.17,Chinese,,0,0,0,,人们似乎总是会以为你在“输送”电子
 Dialogue: 0,0:08:24.17,0:08:26.18,English,,0,0,0,,and that you're buying electrons or something,
-Dialogue: 0,0:08:24.17,0:08:26.18,Chinese,,0,0,0,,
+Dialogue: 0,0:08:24.17,0:08:26.18,Chinese,,0,0,0,,或者“买”电子之类的
 Dialogue: 0,0:08:26.18,0:08:29.25,English,,0,0,0,,which is just so wrong.
-Dialogue: 0,0:08:26.18,0:08:29.25,Chinese,,0,0,0,,
-Dialogue: 0,0:08:29.25,0:08:30.08,English,,0,0,0,,For most people,
-Dialogue: 0,0:08:29.25,0:08:30.08,Chinese,,0,0,0,,
-Dialogue: 0,0:08:30.08,0:08:32.39,English,,0,0,0,,and I think to this day, it's quite counterintuitive
-Dialogue: 0,0:08:30.08,0:08:32.39,Chinese,,0,0,0,,
-Dialogue: 0,0:08:32.39,0:08:35.28,English,,0,0,0,,to think that the energy is flowing through the space
-Dialogue: 0,0:08:32.39,0:08:35.28,Chinese,,0,0,0,,
-Dialogue: 0,0:08:35.28,0:08:36.84,English,,0,0,0,,around the conductor,
-Dialogue: 0,0:08:35.28,0:08:36.84,Chinese,,0,0,0,,
-Dialogue: 0,0:08:36.84,0:08:38.27,English,,0,0,0,,but the energy is,
-Dialogue: 0,0:08:36.84,0:08:38.27,Chinese,,0,0,0,,
-Dialogue: 0,0:08:38.27,0:08:39.49,English,,0,0,0,,which is traveling through the field,
-Dialogue: 0,0:08:38.27,0:08:39.49,Chinese,,0,0,0,,
+Dialogue: 0,0:08:26.18,0:08:29.25,Chinese,,0,0,0,,实在是离谱
+Dialogue: 0,0:08:29.25,0:08:31.13,English,,0,0,0,,For most people, and I think to this day,
+Dialogue: 0,0:08:29.25,0:08:31.13,Chinese,,0,0,0,,我怀疑对当今的大多数人来说
+Dialogue: 0,0:08:31.13,0:08:32.83,English,,0,0,0,,it's quite counterintuitive to think that
+Dialogue: 0,0:08:31.13,0:08:32.83,Chinese,,0,0,0,,正确答案会大大违反他们的直觉
+Dialogue: 0,0:08:32.83,0:08:36.84,English,,0,0,0,,the energy is flowing through the space around the conductor,
+Dialogue: 0,0:08:32.83,0:08:36.84,Chinese,,0,0,0,,能量是沿着导体周围的空间流动的
+Dialogue: 0,0:08:36.84,0:08:39.49,English,,0,0,0,,but the energy is, which is traveling through the field,
+Dialogue: 0,0:08:36.84,0:08:39.49,Chinese,,0,0,0,,但在空间里穿梭的能量
 Dialogue: 0,0:08:39.49,0:08:42.21,English,,0,0,0,,yeah, is going quite fast.
-Dialogue: 0,0:08:39.49,0:08:42.21,Chinese,,0,0,0,,
+Dialogue: 0,0:08:39.49,0:08:42.21,Chinese,,0,0,0,,跑得非常快
 Dialogue: 0,0:08:42.21,0:08:45.11,English,,0,0,0,,- So, there are a few things to notice here.
-Dialogue: 0,0:08:42.21,0:08:45.11,Chinese,,0,0,0,,
+Dialogue: 0,0:08:42.21,0:08:45.11,Chinese,,0,0,0,,所以这里有几点值得一提
 Dialogue: 0,0:08:45.11,0:08:47.21,English,,0,0,0,,Even though the electrons go two ways
-Dialogue: 0,0:08:45.11,0:08:47.21,Chinese,,0,0,0,,
 Dialogue: 0,0:08:47.21,0:08:49.40,English,,0,0,0,,away from the battery and towards it,
-Dialogue: 0,0:08:47.21,0:08:49.40,Chinese,,0,0,0,,
-Dialogue: 0,0:08:49.40,0:08:51.14,English,,0,0,0,,by using the Poynting vector,
-Dialogue: 0,0:08:49.40,0:08:51.14,Chinese,,0,0,0,,
-Dialogue: 0,0:08:51.14,0:08:54.45,English,,0,0,0,,you find that the energy flux only goes one way
-Dialogue: 0,0:08:51.14,0:08:54.45,Chinese,,0,0,0,,
+Dialogue: 0,0:08:47.21,0:08:49.40,Chinese,,0,0,0,,尽管电子会从电池流出又流入
+Dialogue: 0,0:08:49.40,0:08:51.80,English,,0,0,0,,by using the Poynting vector, you find that
+Dialogue: 0,0:08:49.40,0:08:51.80,Chinese,,0,0,0,,但用波印廷矢量  可以发现
+Dialogue: 0,0:08:51.80,0:08:54.45,English,,0,0,0,,the energy flux only goes one way
 Dialogue: 0,0:08:54.45,0:08:56.72,English,,0,0,0,,from the battery to the bulb.
-Dialogue: 0,0:08:54.45,0:08:56.72,Chinese,,0,0,0,,
-Dialogue: 0,0:08:56.72,0:08:58.70,English,,0,0,0,,This also shows it's the fields
-Dialogue: 0,0:08:56.72,0:08:58.70,Chinese,,0,0,0,,
-Dialogue: 0,0:08:58.70,0:09:01.12,English,,0,0,0,,and not the electrons that carry the energy.
-Dialogue: 0,0:08:58.70,0:09:01.12,Chinese,,0,0,0,,
+Dialogue: 0,0:08:51.80,0:08:56.72,Chinese,,0,0,0,,能流只存在“从电池传输到灯泡”这一个方向
+Dialogue: 0,0:08:56.72,0:08:57.65,English,,0,0,0,,This also shows
+Dialogue: 0,0:08:56.72,0:08:57.65,Chinese,,0,0,0,,这也显示了
+Dialogue: 0,0:08:57.65,0:09:01.12,English,,0,0,0,,it's the fields and not the electrons that carry the energy.
+Dialogue: 0,0:08:57.65,0:09:01.12,Chinese,,0,0,0,,携带能量的是场  而非电子
 Dialogue: 0,0:09:01.12,0:09:03.74,English,,0,0,0,,- How far do the electrons go
-Dialogue: 0,0:09:01.12,0:09:03.74,Chinese,,0,0,0,,
 Dialogue: 0,0:09:03.74,0:09:05.13,English,,0,0,0,,in this little thing you're talking about,
-Dialogue: 0,0:09:03.74,0:09:05.13,Chinese,,0,0,0,,
+Dialogue: 0,0:09:01.12,0:09:05.13,Chinese,,0,0,0,,你知道在这个小电路里  电子能走多远吗
 Dialogue: 0,0:09:05.13,0:09:06.54,English,,0,0,0,,they barely move,
-Dialogue: 0,0:09:05.13,0:09:06.54,Chinese,,0,0,0,,
 Dialogue: 0,0:09:06.54,0:09:08.33,English,,0,0,0,,they probably don't move at all.
-Dialogue: 0,0:09:06.54,0:09:08.33,Chinese,,0,0,0,,
+Dialogue: 0,0:09:05.13,0:09:08.33,Chinese,,0,0,0,,它们基本没走…… 可能完全没走
 Dialogue: 0,0:09:08.33,0:09:10.78,English,,0,0,0,,- Now, what happens if in place of a battery,
-Dialogue: 0,0:09:08.33,0:09:10.78,Chinese,,0,0,0,,
+Dialogue: 0,0:09:08.33,0:09:10.78,Chinese,,0,0,0,,如果我们把电池换掉
 Dialogue: 0,0:09:10.78,0:09:13.58,English,,0,0,0,,we use an alternating current source?
-Dialogue: 0,0:09:10.78,0:09:13.58,Chinese,,0,0,0,,
-Dialogue: 0,0:09:13.58,0:09:15.18,English,,0,0,0,,Well then, the direction of current
-Dialogue: 0,0:09:13.58,0:09:15.18,Chinese,,0,0,0,,
-Dialogue: 0,0:09:15.18,0:09:17.49,English,,0,0,0,,reverses every half cycle.
-Dialogue: 0,0:09:15.18,0:09:17.49,Chinese,,0,0,0,,
+Dialogue: 0,0:09:10.78,0:09:13.58,Chinese,,0,0,0,,换成交流电源  会怎样呢
+Dialogue: 0,0:09:13.58,0:09:17.49,English,,0,0,0,,Well then, the direction of current reverses every half cycle.
+Dialogue: 0,0:09:13.58,0:09:17.49,Chinese,,0,0,0,,此时  每半个周期就会让电流方向翻转一次
 Dialogue: 0,0:09:17.49,0:09:20.52,English,,0,0,0,,But this means that both the electric and magnetic fields
-Dialogue: 0,0:09:17.49,0:09:20.52,Chinese,,0,0,0,,
 Dialogue: 0,0:09:20.52,0:09:22.84,English,,0,0,0,,flip at the same time,
-Dialogue: 0,0:09:20.52,0:09:22.84,Chinese,,0,0,0,,
+Dialogue: 0,0:09:20.52,0:09:22.84,Chinese,,0,0,0,,但这意味着电磁场同时翻转
 Dialogue: 0,0:09:22.84,0:09:24.28,English,,0,0,0,,so at any instant,
-Dialogue: 0,0:09:22.84,0:09:24.28,Chinese,,0,0,0,,
+Dialogue: 0,0:09:22.84,0:09:24.28,Chinese,,0,0,0,,所以在任意时刻
 Dialogue: 0,0:09:24.28,0:09:27.61,English,,0,0,0,,the Poynting vector still points in the same direction,
-Dialogue: 0,0:09:24.28,0:09:27.61,Chinese,,0,0,0,,
+Dialogue: 0,0:09:24.28,0:09:27.61,Chinese,,0,0,0,,波印廷矢量始终指向相同方向
 Dialogue: 0,0:09:27.61,0:09:29.57,English,,0,0,0,,from the source to the bulb.
-Dialogue: 0,0:09:27.61,0:09:29.57,Chinese,,0,0,0,,
+Dialogue: 0,0:09:27.61,0:09:29.57,Chinese,,0,0,0,,从电源到灯泡
 Dialogue: 0,0:09:29.57,0:09:32.55,English,,0,0,0,,So the exact same analysis we used for DC
-Dialogue: 0,0:09:29.57,0:09:32.55,Chinese,,0,0,0,,
+Dialogue: 0,0:09:29.57,0:09:32.55,Chinese,,0,0,0,,所以我们对直流电的分析
 Dialogue: 0,0:09:32.55,0:09:35.00,English,,0,0,0,,still works for AC.
-Dialogue: 0,0:09:32.55,0:09:35.00,Chinese,,0,0,0,,
-Dialogue: 0,0:09:35.00,0:09:37.49,English,,0,0,0,,And this explains how energy is able to flow
-Dialogue: 0,0:09:35.00,0:09:37.49,Chinese,,0,0,0,,
-Dialogue: 0,0:09:37.49,0:09:40.70,English,,0,0,0,,from power plants to home in power lines.
-Dialogue: 0,0:09:37.49,0:09:40.70,Chinese,,0,0,0,,
+Dialogue: 0,0:09:32.55,0:09:35.00,Chinese,,0,0,0,,可以直接照搬到交流电上
+Dialogue: 0,0:09:35.00,0:09:36.02,English,,0,0,0,,And this explains
+Dialogue: 0,0:09:35.00,0:09:36.02,Chinese,,0,0,0,,这就解释了
+Dialogue: 0,0:09:36.02,0:09:40.70,English,,0,0,0,,how energy is able to flow from power plants to home in power lines.
+Dialogue: 0,0:09:36.02,0:09:40.70,Chinese,,0,0,0,,能量为何可以从发电厂通过输电线送到家里
 Dialogue: 0,0:09:40.70,0:09:41.77,English,,0,0,0,,Inside the wires,
-Dialogue: 0,0:09:40.70,0:09:41.77,Chinese,,0,0,0,,
+Dialogue: 0,0:09:40.70,0:09:41.77,Chinese,,0,0,0,,在电线里
 Dialogue: 0,0:09:41.77,0:09:44.32,English,,0,0,0,,electrons just oscillate back and forth.
-Dialogue: 0,0:09:41.77,0:09:44.32,Chinese,,0,0,0,,
+Dialogue: 0,0:09:41.77,0:09:44.32,Chinese,,0,0,0,,电子只是在往复震荡
 Dialogue: 0,0:09:44.32,0:09:47.09,English,,0,0,0,,Their motion is greatly exaggerated here.
-Dialogue: 0,0:09:44.32,0:09:47.09,Chinese,,0,0,0,,
+Dialogue: 0,0:09:44.32,0:09:47.09,Chinese,,0,0,0,,图示作了夸张
 Dialogue: 0,0:09:47.09,0:09:49.73,English,,0,0,0,,But they do not carry the energy.
-Dialogue: 0,0:09:47.09,0:09:49.73,Chinese,,0,0,0,,
+Dialogue: 0,0:09:47.09,0:09:49.73,Chinese,,0,0,0,,但他们本身并不会携带能量
 Dialogue: 0,0:09:49.73,0:09:50.90,English,,0,0,0,,Outside the wires,
-Dialogue: 0,0:09:49.73,0:09:50.90,Chinese,,0,0,0,,
+Dialogue: 0,0:09:49.73,0:09:50.90,Chinese,,0,0,0,,在电线外面
 Dialogue: 0,0:09:50.90,0:09:53.15,English,,0,0,0,,oscillating eclectic and magnetic fields
-Dialogue: 0,0:09:50.90,0:09:53.15,Chinese,,0,0,0,,
+Dialogue: 0,0:09:50.90,0:09:53.15,Chinese,,0,0,0,,会有震荡的电场和磁场
 Dialogue: 0,0:09:53.15,0:09:56.13,English,,0,0,0,,travel from the power station to your home.
-Dialogue: 0,0:09:53.15,0:09:56.13,Chinese,,0,0,0,,
+Dialogue: 0,0:09:53.15,0:09:56.13,Chinese,,0,0,0,,从发电厂一路传播到你家
 Dialogue: 0,0:09:56.13,0:09:58.04,English,,0,0,0,,You can use the Poynting vector to check
-Dialogue: 0,0:09:56.13,0:09:58.04,Chinese,,0,0,0,,
+Dialogue: 0,0:09:56.13,0:09:58.04,Chinese,,0,0,0,,你可以用波印廷矢量来验证
 Dialogue: 0,0:09:58.04,0:10:01.42,English,,0,0,0,,that the energy flux is going in one direction.
-Dialogue: 0,0:09:58.04,0:10:01.42,Chinese,,0,0,0,,
+Dialogue: 0,0:09:58.04,0:10:01.42,Chinese,,0,0,0,,能流朝的是一个方向
 Dialogue: 0,0:10:02.26,0:10:05.54,English,,0,0,0,,You might think this is just an academic discussion
 Dialogue: 0,0:10:02.26,0:10:05.54,Chinese,,0,0,0,,你或许觉得  这只是一场学术讨论
 Dialogue: 0,0:10:05.54,0:10:07.89,English,,0,0,0,,that you could see the energy as transmitted
