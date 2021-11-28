@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.85,0:00:06.24,English,,0,0,0,,Imagine you have a giant circuit
 Dialogue: 0,0:00:03.85,0:00:06.24,Chinese,,0,0,0,,设想这样一个巨型电路
 Dialogue: 0,0:00:06.24,0:00:09.25,English,,0,0,0,,consisting of a battery, a switch, a light bulb,
-Dialogue: 0,0:00:06.24,0:00:09.25,Chinese,,0,0,0,,一个电源、一个开关、一个灯泡
+Dialogue: 0,0:00:06.24,0:00:09.25,Chinese,,0,0,0,,一个电源  一个开关  一个灯泡
 Dialogue: 0,0:00:09.25,0:00:13.96,English,,0,0,0,,and two wires which are each 300,000 kilometers long.
 Dialogue: 0,0:00:09.25,0:00:13.96,Chinese,,0,0,0,,通过两根30万公里长的导线连接
 Dialogue: 0,0:00:13.96,0:00:16.95,English,,0,0,0,,That is the distance light travels in one second.
