@@ -65,7 +65,7 @@ Dialogue: 0,0:00:52.84,0:00:53.72,Chinese,,0,0,0,,我知道有人会等我把答
 Dialogue: 0,0:00:53.72,0:00:55.71,English,,0,0,0,,oh yeah I knew that was the answer,
 Dialogue: 0,0:00:53.72,0:00:55.71,Chinese,,0,0,0,,我知道有人会等我把答案告诉你了
 Dialogue: 0,0:00:55.71,0:00:57.90,English,,0,0,0,,when I tell you the answer later on.
-Dialogue: 0,0:00:55.71,0:00:57.90,Chinese,,0,0,0,,再去说 哦我就知道该选它
+Dialogue: 0,0:00:55.71,0:00:57.90,Chinese,,0,0,0,,再去说  哦我就知道该选它
 Dialogue: 0,0:00:59.34,0:01:02.66,English,,0,0,0,,This question actually relates to how electrical energy
 Dialogue: 0,0:00:59.34,0:01:02.66,Chinese,,0,0,0,,这个问题关涉到电能是如何
 Dialogue: 0,0:01:02.66,0:01:05.13,English,,0,0,0,,get from a power plant to your home.
@@ -207,13 +207,13 @@ Dialogue: 0,0:03:52.37,0:03:55.38,Chinese,,0,0,0,,这组方程式  如今被称�
 Dialogue: 0,0:03:55.38,0:03:57.27,English,,0,0,0,,But in 1883,
 Dialogue: 0,0:03:55.38,0:03:57.27,Chinese,,0,0,0,,但是在1883年
 Dialogue: 0,0:03:57.27,0:04:00.31,English,,0,0,0,,one of Maxwell's former students, John Henry Poynting,
-Dialogue: 0,0:03:57.27,0:04:00.31,Chinese,,0,0,0,,曾经师从麦克斯韦的 约翰·亨利·坡印亭
+Dialogue: 0,0:03:57.27,0:04:00.31,Chinese,,0,0,0,,曾经师从麦克斯韦的  约翰·亨利·坡印亭
 Dialogue: 0,0:04:00.31,0:04:02.91,English,,0,0,0,,is thinking about conversation of energy.
 Dialogue: 0,0:04:00.31,0:04:02.91,Chinese,,0,0,0,,正在思考能量守恒的问题
 Dialogue: 0,0:04:02.91,0:04:07.40,English,,0,0,0,,If energy is conserved locally in every tiny bit of space,
 Dialogue: 0,0:04:02.91,0:04:07.40,Chinese,,0,0,0,,如果能量在每一微小空间中都局部守恒
 Dialogue: 0,0:04:07.40,0:04:10.17,English,,0,0,0,,well, then you should be able to trace the path
-Dialogue: 0,0:04:07.40,0:04:10.17,Chinese,,0,0,0,,那么 我们应该能够追踪能量
+Dialogue: 0,0:04:07.40,0:04:10.17,Chinese,,0,0,0,,那么  我们应该能够追踪能量
 Dialogue: 0,0:04:10.17,0:04:13.09,English,,0,0,0,,that energy flows from one place to another.
 Dialogue: 0,0:04:10.17,0:04:13.09,Chinese,,0,0,0,,从一个地方流向另一个方向的踪迹
 Dialogue: 0,0:04:13.09,0:04:16.62,English,,0,0,0,,So, think about the energy that comes to us from the sun,
@@ -222,7 +222,7 @@ Dialogue: 0,0:04:16.62,0:04:19.77,English,,0,0,0,,during those eight minutes whe
 Dialogue: 0,0:04:16.62,0:04:19.77,Chinese,,0,0,0,,在光传播的那八分钟里
 Dialogue: 0,0:04:19.77,0:04:22.92,English,,0,0,0,,the energy is stored and being transmitted
 Dialogue: 0,0:04:22.92,0:04:26.85,English,,0,0,0,,in the electric and magnetic fields of the light.
-Dialogue: 0,0:04:19.77,0:04:26.85,Chinese,,0,0,0,,能量存储在光的电场和磁场中 且通过其传输
+Dialogue: 0,0:04:19.77,0:04:26.85,Chinese,,0,0,0,,能量存储在光的电场和磁场中  且通过其传输
 Dialogue: 0,0:04:26.85,0:04:29.66,English,,0,0,0,,Now, Poynting works out an equation
 Dialogue: 0,0:04:29.66,0:04:32.09,English,,0,0,0,,to describe energy flux,
 Dialogue: 0,0:04:26.85,0:04:32.09,Chinese,,0,0,0,,坡印亭提出了一个能够描述能量通量的方程式
@@ -243,7 +243,7 @@ Dialogue: 0,0:04:48.23,0:04:50.35,English,,0,0,0,,times E X B.
 Dialogue: 0,0:04:48.23,0:04:50.35,Chinese,,0,0,0,,再乘以 E × B
 Dialogue: 0,0:04:50.35,0:04:52.26,English,,0,0,0,,Now, E X B, is the cross product
 Dialogue: 0,0:04:52.26,0:04:54.81,English,,0,0,0,,of the electric and magnetic fields.
-Dialogue: 0,0:04:50.35,0:04:54.81,Chinese,,0,0,0,,E × B表示磁场和电场的叉乘
+Dialogue: 0,0:04:50.35,0:04:54.81,Chinese,,0,0,0,,E × B 表示磁场和电场的叉乘
 Dialogue: 0,0:04:54.81,0:04:57.20,English,,0,0,0,,Now, the cross product is just a particular way
 Dialogue: 0,0:04:57.20,0:04:59.27,English,,0,0,0,,of multiplying two vectors together,
 Dialogue: 0,0:04:54.81,0:04:59.27,Chinese,,0,0,0,,叉乘是一种将两个向量相乘的特殊方式
@@ -265,7 +265,7 @@ Dialogue: 0,0:05:13.76,0:05:15.60,English,,0,0,0,,in the direction of the result
 Dialogue: 0,0:05:15.60,0:05:17.42,English,,0,0,0,,the energy flux.
 Dialogue: 0,0:05:13.76,0:05:17.42,Chinese,,0,0,0,,就是叉乘的结果——能量通量的方向
 Dialogue: 0,0:05:17.42,0:05:19.55,English,,0,0,0,,So, what this shows us about light
-Dialogue: 0,0:05:17.42,0:05:19.55,Chinese,,0,0,0,,这公式表明 对于光来说
+Dialogue: 0,0:05:17.42,0:05:19.55,Chinese,,0,0,0,,这公式表明  对于光来说
 Dialogue: 0,0:05:19.55,0:05:22.18,English,,0,0,0,,is that the energy is flowing
 Dialogue: 0,0:05:19.55,0:05:22.18,Chinese,,0,0,0,,其能量流动的方向
 Dialogue: 0,0:05:22.18,0:05:25.66,English,,0,0,0,,perpendicular to both the electronic an the magnetic fields.
@@ -282,7 +282,7 @@ Dialogue: 0,0:05:39.87,0:05:43.46,English,,0,0,0,,Poynting's equation doesn't ju
 Dialogue: 0,0:05:39.87,0:05:43.46,Chinese,,0,0,0,,坡印亭方程不仅仅适用于光
 Dialogue: 0,0:05:43.46,0:05:46.75,English,,0,0,0,,it works anytime there are electric
 Dialogue: 0,0:05:46.75,0:05:49.24,English,,0,0,0,,and magnetic fields coinciding.
-Dialogue: 0,0:05:43.46,0:05:49.24,Chinese,,0,0,0,,只要同时存在电场和磁场 就适用坡印亭方程
+Dialogue: 0,0:05:43.46,0:05:49.24,Chinese,,0,0,0,,只要同时存在电场和磁场  就适用坡印亭方程
 Dialogue: 0,0:05:49.24,0:05:52.08,English,,0,0,0,,Anytime you have electric and magnetic fields together,
 Dialogue: 0,0:05:49.24,0:05:52.08,Chinese,,0,0,0,,只要同时具备电场和磁场
 Dialogue: 0,0:05:52.08,0:05:53.61,English,,0,0,0,,there is a flow of energy
@@ -335,7 +335,7 @@ Dialogue: 0,0:06:51.73,0:06:52.85,English,,0,0,0,,well, conventional current
 Dialogue: 0,0:06:52.85,0:06:55.22,English,,0,0,0,,is defined to flow opposite the motion of electrons,
 Dialogue: 0,0:06:51.73,0:06:55.22,Chinese,,0,0,0,,习惯上  电流的方向与电子运动的方向相反
 Dialogue: 0,0:06:55.22,0:06:57.65,English,,0,0,0,,but this is what's making it happen.
-Dialogue: 0,0:06:55.22,0:06:57.65,Chinese,,0,0,0,,但是这就是电流产生的原理 （？）
+Dialogue: 0,0:06:55.22,0:06:57.65,Chinese,,0,0,0,,但是这就是电流产生的原理
 Dialogue: 0,0:06:58.73,0:07:01.65,English,,0,0,0,,The charge on the surfaces of the conductors
 Dialogue: 0,0:06:58.73,0:07:01.65,Chinese,,0,0,0,,导体表面的电荷
 Dialogue: 0,0:07:01.65,0:07:05.03,English,,0,0,0,,also creates an eclectic field outside the wires
@@ -345,13 +345,13 @@ Dialogue: 0,0:07:05.03,0:07:07.28,Chinese,,0,0,0,,而导线中的电流
 Dialogue: 0,0:07:07.28,0:07:10.51,English,,0,0,0,,creates a magnetic field outside the wires.
 Dialogue: 0,0:07:07.28,0:07:10.51,Chinese,,0,0,0,,在导线外产生了磁场
 Dialogue: 0,0:07:10.51,0:07:14.98,English,,0,0,0,,So, now there is a combination of electric and magnetic fields
-Dialogue: 0,0:07:10.51,0:07:14.98,Chinese,,0,0,0,,所以 现在导线周围的空间中
+Dialogue: 0,0:07:10.51,0:07:14.98,Chinese,,0,0,0,,所以  现在导线周围的空间中
 Dialogue: 0,0:07:14.98,0:07:17.22,English,,0,0,0,,in this space around the circuit.
 Dialogue: 0,0:07:14.98,0:07:17.22,Chinese,,0,0,0,,既有电场也有磁场
 Dialogue: 0,0:07:17.22,0:07:19.41,English,,0,0,0,,So, according to Poynting's theory,
 Dialogue: 0,0:07:17.22,0:07:19.41,Chinese,,0,0,0,,于是按照波印廷的理论
 Dialogue: 0,0:07:19.41,0:07:21.58,English,,0,0,0,,energy should be flowing
-Dialogue: 0,0:07:19.41,0:07:21.58,Chinese,,0,0,0,,能量会（在其中）流动
+Dialogue: 0,0:07:19.41,0:07:21.58,Chinese,,0,0,0,,能量会在其中流动
 Dialogue: 0,0:07:21.58,0:07:24.12,English,,0,0,0,,and we can work out the direction of this energy flow
 Dialogue: 0,0:07:24.12,0:07:26.06,English,,0,0,0,,using the right hand rule.
 Dialogue: 0,0:07:21.58,0:07:26.06,Chinese,,0,0,0,,我们可以用右手定则来判断能流的方向
@@ -365,7 +365,7 @@ Dialogue: 0,0:07:32.53,0:07:35.54,English,,0,0,0,,So, you find the energy flux i
 Dialogue: 0,0:07:35.54,0:07:37.74,English,,0,0,0,,away from the battery.
 Dialogue: 0,0:07:32.53,0:07:37.74,Chinese,,0,0,0,,因此  能流是向右离开电池的
 Dialogue: 0,0:07:37.74,0:07:39.81,English,,0,0,0,,In fact, all around the battery,
-Dialogue: 0,0:07:37.74,0:07:39.81,Chinese,,0,0,0,,事实上 在电池周围
+Dialogue: 0,0:07:37.74,0:07:39.81,Chinese,,0,0,0,,事实上  在电池周围
 Dialogue: 0,0:07:39.81,0:07:43.56,English,,0,0,0,,you'll find the energy is radially outwards.
 Dialogue: 0,0:07:39.81,0:07:43.56,Chinese,,0,0,0,,你会发现每处能量都在径向外流
 Dialogue: 0,0:07:43.56,0:07:47.23,English,,0,0,0,,Energy is going out through the sides of the battery
@@ -418,7 +418,7 @@ Dialogue: 0,0:08:42.21,0:08:45.11,English,,0,0,0,,- So, there are a few things t
 Dialogue: 0,0:08:42.21,0:08:45.11,Chinese,,0,0,0,,所以这里有几点值得一提
 Dialogue: 0,0:08:45.11,0:08:47.21,English,,0,0,0,,Even though the electrons go two ways
 Dialogue: 0,0:08:47.21,0:08:49.40,English,,0,0,0,,away from the battery and towards it,
-Dialogue: 0,0:08:47.21,0:08:49.40,Chinese,,0,0,0,,尽管电子会从电池流出又流入
+Dialogue: 0,0:08:45.11,0:08:49.40,Chinese,,0,0,0,,尽管电子会从电池流出又流入
 Dialogue: 0,0:08:49.40,0:08:51.80,English,,0,0,0,,by using the Poynting vector, you find that
 Dialogue: 0,0:08:49.40,0:08:51.80,Chinese,,0,0,0,,但用波印廷矢量  可以发现
 Dialogue: 0,0:08:51.80,0:08:54.45,English,,0,0,0,,the energy flux only goes one way
@@ -433,7 +433,7 @@ Dialogue: 0,0:09:03.74,0:09:05.13,English,,0,0,0,,in this little thing you're ta
 Dialogue: 0,0:09:01.12,0:09:05.13,Chinese,,0,0,0,,你知道在这个小电路里  电子能走多远吗
 Dialogue: 0,0:09:05.13,0:09:06.54,English,,0,0,0,,they barely move,
 Dialogue: 0,0:09:06.54,0:09:08.33,English,,0,0,0,,they probably don't move at all.
-Dialogue: 0,0:09:05.13,0:09:08.33,Chinese,,0,0,0,,它们基本没走…… 可能完全没走
+Dialogue: 0,0:09:05.13,0:09:08.33,Chinese,,0,0,0,,它们基本没走……  可能完全没走
 Dialogue: 0,0:09:08.33,0:09:10.78,English,,0,0,0,,- Now, what happens if in place of a battery,
 Dialogue: 0,0:09:08.33,0:09:10.78,Chinese,,0,0,0,,如果我们把电池换掉
 Dialogue: 0,0:09:10.78,0:09:13.58,English,,0,0,0,,we use an alternating current source?
@@ -442,7 +442,7 @@ Dialogue: 0,0:09:13.58,0:09:17.49,English,,0,0,0,,Well then, the direction of cu
 Dialogue: 0,0:09:13.58,0:09:17.49,Chinese,,0,0,0,,此时  每半个周期就会让电流方向翻转一次
 Dialogue: 0,0:09:17.49,0:09:20.52,English,,0,0,0,,But this means that both the electric and magnetic fields
 Dialogue: 0,0:09:20.52,0:09:22.84,English,,0,0,0,,flip at the same time,
-Dialogue: 0,0:09:20.52,0:09:22.84,Chinese,,0,0,0,,但这意味着电磁场同时翻转
+Dialogue: 0,0:09:17.49,0:09:22.84,Chinese,,0,0,0,,但这意味着电磁场同时翻转
 Dialogue: 0,0:09:22.84,0:09:24.28,English,,0,0,0,,so at any instant,
 Dialogue: 0,0:09:22.84,0:09:24.28,Chinese,,0,0,0,,所以在任意时刻
 Dialogue: 0,0:09:24.28,0:09:27.61,English,,0,0,0,,the Poynting vector still points in the same direction,
@@ -538,9 +538,9 @@ Dialogue: 0,0:11:13.95,0:11:16.67,Chinese,,0,0,0,,然后用铁质的护皮封住
 Dialogue: 0,0:11:16.67,0:11:19.40,English,,0,0,0,,The iron was only meant to strengthen the cable,
 Dialogue: 0,0:11:16.67,0:11:19.40,Chinese,,0,0,0,,这层铁本来只是加固电缆的
 Dialogue: 0,0:11:19.40,0:11:20.84,English,,0,0,0,,but as a good conductor,
-Dialogue: 0,0:11:19.40,0:11:20.84,Chinese,,0,0,0,,但它也是很好的导体
+Dialogue: 0,0:11:19.40,0:11:20.84,Chinese,,0,0,0,,但由于它是很好的导体
 Dialogue: 0,0:11:20.84,0:11:23.90,English,,0,0,0,,it interfered with a propagation of electromagnetic fields
-Dialogue: 0,0:11:20.84,0:11:23.90,Chinese,,0,0,0,,会干扰电磁场的传播
+Dialogue: 0,0:11:20.84,0:11:23.90,Chinese,,0,0,0,,导致会电磁场的传播产生干扰
 Dialogue: 0,0:11:23.90,0:11:27.38,English,,0,0,0,,because it increased the capacitance of the line.
 Dialogue: 0,0:11:23.90,0:11:27.38,Chinese,,0,0,0,,因为它增大了电缆的电容
 Dialogue: 0,0:11:27.38,0:11:31.09,English,,0,0,0,,This is why today, most power lines are suspended high up.
@@ -558,9 +558,9 @@ Dialogue: 0,0:11:42.42,0:11:45.95,Chinese,,0,0,0,,的答案是什么呢？
 Dialogue: 0,0:11:45.95,0:11:47.68,English,,0,0,0,,Well, after I close the switch,
 Dialogue: 0,0:11:45.95,0:11:47.68,Chinese,,0,0,0,,我们闭合开关之后
 Dialogue: 0,0:11:47.68,0:11:51.80,English,,0,0,0,,the light bulb will turn on almost instantaneously,
-Dialogue: 0,0:11:47.68,0:11:51.80,Chinese,,0,0,0,,灯泡会在大概1/C秒内亮起来
+Dialogue: 0,0:11:47.68,0:11:51.80,Chinese,,0,0,0,,灯泡会在几乎一瞬间亮起来
 Dialogue: 0,0:11:51.80,0:11:54.09,English,,0,0,0,,in roughly 1/C seconds.
-Dialogue: 0,0:11:51.80,0:11:54.09,Chinese,,0,0,0,,几乎就在一瞬间
+Dialogue: 0,0:11:51.80,0:11:54.09,Chinese,,0,0,0,,大概1/C秒吧
 Dialogue: 0,0:11:54.09,0:11:57.05,English,,0,0,0,,So, the correct answer is D.
 Dialogue: 0,0:11:54.09,0:11:57.05,Chinese,,0,0,0,,所以正确答案是D
 Dialogue: 0,0:11:57.05,0:11:58.58,English,,0,0,0,,I think a lot of people imagine
@@ -586,9 +586,9 @@ Dialogue: 0,0:12:16.06,0:12:17.47,Chinese,,0,0,0,,电场和磁场可以
 Dialogue: 0,0:12:17.47,0:12:20.67,English,,0,0,0,,can propagate out through space to this light bulb
 Dialogue: 0,0:12:17.47,0:12:20.67,Chinese,,0,0,0,,在真空中传播到灯泡处
 Dialogue: 0,0:12:20.67,0:12:24.87,English,,0,0,0,,which is only one meter away in a few nanoseconds.
-Dialogue: 0,0:12:20.67,0:12:24.87,Chinese,,0,0,0,,这个距离只有1米 只需要几纳秒即可
+Dialogue: 0,0:12:20.67,0:12:24.87,Chinese,,0,0,0,,这个距离只有1米  只需要几纳秒即可
 Dialogue: 0,0:12:24.87,0:12:27.66,English,,0,0,0,,And so, that is the limiting factor
-Dialogue: 0,0:12:24.87,0:12:27.66,Chinese,,0,0,0,,因此 这才是真正的
+Dialogue: 0,0:12:24.87,0:12:27.66,Chinese,,0,0,0,,因此  这才是真正的
 Dialogue: 0,0:12:27.66,0:12:29.11,English,,0,0,0,,for the light bulb turning on.
 Dialogue: 0,0:12:27.66,0:12:29.11,Chinese,,0,0,0,,限制性因素
 Dialogue: 0,0:12:29.11,0:12:30.55,English,,0,0,0,,Now, the bulb won't receive
