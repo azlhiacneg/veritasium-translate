@@ -181,129 +181,114 @@ Dialogue: 0,0:03:14.42,0:03:17.27,Chinese,,0,0,0,,
 Dialogue: 0,0:03:17.27,0:03:19.66,English,,0,0,0,,So, how does it actually work?
 Dialogue: 0,0:03:17.27,0:03:19.66,Chinese,,0,0,0,,
 Dialogue: 0,0:03:22.60,0:03:24.33,English,,0,0,0,,In the 1860's and 70's,
-Dialogue: 0,0:03:22.60,0:03:24.33,Chinese,,0,0,0,,
+Dialogue: 0,0:03:22.60,0:03:24.33,Chinese,,0,0,0,,在19世纪六七十年代
 Dialogue: 0,0:03:24.33,0:03:26.16,English,,0,0,0,,there was a huge breakthrough
-Dialogue: 0,0:03:24.33,0:03:26.16,Chinese,,0,0,0,,
 Dialogue: 0,0:03:26.16,0:03:27.95,English,,0,0,0,,in our understanding of the universe
-Dialogue: 0,0:03:26.16,0:03:27.95,Chinese,,0,0,0,,
+Dialogue: 0,0:03:24.33,0:03:27.95,Chinese,,0,0,0,,我们对宇宙的理解有了重大的突破
 Dialogue: 0,0:03:27.95,0:03:30.73,English,,0,0,0,,when Scottish physicist, James Clerk Maxwell,
-Dialogue: 0,0:03:27.95,0:03:30.73,Chinese,,0,0,0,,
+Dialogue: 0,0:03:27.95,0:03:30.73,Chinese,,0,0,0,,苏格兰物理学家  詹姆斯·克拉克·麦克斯韦
 Dialogue: 0,0:03:30.73,0:03:33.40,English,,0,0,0,,realized that light is made up
-Dialogue: 0,0:03:30.73,0:03:33.40,Chinese,,0,0,0,,
 Dialogue: 0,0:03:33.40,0:03:36.72,English,,0,0,0,,of oscillating electric and magnetic fields.
-Dialogue: 0,0:03:33.40,0:03:36.72,Chinese,,0,0,0,,
+Dialogue: 0,0:03:30.73,0:03:36.72,Chinese,,0,0,0,,发现  光由振荡的电场和磁场组成
 Dialogue: 0,0:03:36.72,0:03:39.82,English,,0,0,0,,The fields are oscillating perpendicular to each other
-Dialogue: 0,0:03:36.72,0:03:39.82,Chinese,,0,0,0,,
 Dialogue: 0,0:03:39.82,0:03:41.23,English,,0,0,0,,and they are in phase,
-Dialogue: 0,0:03:39.82,0:03:41.23,Chinese,,0,0,0,,
+Dialogue: 0,0:03:36.72,0:03:41.23,Chinese,,0,0,0,,两个场的振荡方向相互垂直  且二者同相
 Dialogue: 0,0:03:41.23,0:03:43.18,English,,0,0,0,,meaning when one is at its maximum,
-Dialogue: 0,0:03:41.23,0:03:43.18,Chinese,,0,0,0,,
+Dialogue: 0,0:03:41.23,0:03:43.18,Chinese,,0,0,0,,这意味着  当一个波处于最大值时 
 Dialogue: 0,0:03:43.18,0:03:45.75,English,,0,0,0,,so is the other wave.
-Dialogue: 0,0:03:43.18,0:03:45.75,Chinese,,0,0,0,,
+Dialogue: 0,0:03:43.18,0:03:45.75,Chinese,,0,0,0,,另一个波也是如此 
 Dialogue: 0,0:03:45.75,0:03:47.67,English,,0,0,0,,Now, he works out the equations
-Dialogue: 0,0:03:45.75,0:03:47.67,Chinese,,0,0,0,,
+Dialogue: 0,0:03:45.75,0:03:47.67,Chinese,,0,0,0,,他计算出了一组方程式
 Dialogue: 0,0:03:47.67,0:03:50.57,English,,0,0,0,,that govern the behavior of electric and magnetic fields
-Dialogue: 0,0:03:47.67,0:03:50.57,Chinese,,0,0,0,,
 Dialogue: 0,0:03:50.57,0:03:52.37,English,,0,0,0,,and hence, these waves,
-Dialogue: 0,0:03:50.57,0:03:52.37,Chinese,,0,0,0,,
+Dialogue: 0,0:03:47.67,0:03:52.37,Chinese,,0,0,0,,能够描述电场、磁场以及它们产生的波的行为
 Dialogue: 0,0:03:52.37,0:03:55.38,English,,0,0,0,,those are now called Maxwell's equations.
-Dialogue: 0,0:03:52.37,0:03:55.38,Chinese,,0,0,0,,
+Dialogue: 0,0:03:52.37,0:03:55.38,Chinese,,0,0,0,,这组方程式  如今被称作麦克斯韦方程组
 Dialogue: 0,0:03:55.38,0:03:57.27,English,,0,0,0,,But in 1883,
-Dialogue: 0,0:03:55.38,0:03:57.27,Chinese,,0,0,0,,
+Dialogue: 0,0:03:55.38,0:03:57.27,Chinese,,0,0,0,,但是在1883年
 Dialogue: 0,0:03:57.27,0:04:00.31,English,,0,0,0,,one of Maxwell's former students, John Henry Poynting,
-Dialogue: 0,0:03:57.27,0:04:00.31,Chinese,,0,0,0,,
+Dialogue: 0,0:03:57.27,0:04:00.31,Chinese,,0,0,0,,曾经师从麦克斯韦的 约翰·亨利·坡印亭
 Dialogue: 0,0:04:00.31,0:04:02.91,English,,0,0,0,,is thinking about conversation of energy.
-Dialogue: 0,0:04:00.31,0:04:02.91,Chinese,,0,0,0,,
+Dialogue: 0,0:04:00.31,0:04:02.91,Chinese,,0,0,0,,正在思考能量守恒的问题
 Dialogue: 0,0:04:02.91,0:04:07.40,English,,0,0,0,,If energy is conserved locally in every tiny bit of space,
-Dialogue: 0,0:04:02.91,0:04:07.40,Chinese,,0,0,0,,
+Dialogue: 0,0:04:02.91,0:04:07.40,Chinese,,0,0,0,,如果能量在每一微小空间中都局部守恒
 Dialogue: 0,0:04:07.40,0:04:10.17,English,,0,0,0,,well, then you should be able to trace the path
-Dialogue: 0,0:04:07.40,0:04:10.17,Chinese,,0,0,0,,
+Dialogue: 0,0:04:07.40,0:04:10.17,Chinese,,0,0,0,,那么 我们应该能够追踪能量
 Dialogue: 0,0:04:10.17,0:04:13.09,English,,0,0,0,,that energy flows from one place to another.
-Dialogue: 0,0:04:10.17,0:04:13.09,Chinese,,0,0,0,,
+Dialogue: 0,0:04:10.17,0:04:13.09,Chinese,,0,0,0,,从一个地方流向另一个方向的踪迹
 Dialogue: 0,0:04:13.09,0:04:16.62,English,,0,0,0,,So, think about the energy that comes to us from the sun,
-Dialogue: 0,0:04:13.09,0:04:16.62,Chinese,,0,0,0,,
+Dialogue: 0,0:04:13.09,0:04:16.62,Chinese,,0,0,0,,想想从太阳传给我们的能量
 Dialogue: 0,0:04:16.62,0:04:19.77,English,,0,0,0,,during those eight minutes when the light is traveling,
-Dialogue: 0,0:04:16.62,0:04:19.77,Chinese,,0,0,0,,
+Dialogue: 0,0:04:16.62,0:04:19.77,Chinese,,0,0,0,,在光传播的那八分钟里
 Dialogue: 0,0:04:19.77,0:04:22.92,English,,0,0,0,,the energy is stored and being transmitted
-Dialogue: 0,0:04:19.77,0:04:22.92,Chinese,,0,0,0,,
 Dialogue: 0,0:04:22.92,0:04:26.85,English,,0,0,0,,in the electric and magnetic fields of the light.
-Dialogue: 0,0:04:22.92,0:04:26.85,Chinese,,0,0,0,,
+Dialogue: 0,0:04:19.77,0:04:26.85,Chinese,,0,0,0,,能量存储在光的电场和磁场中 且通过其传输
 Dialogue: 0,0:04:26.85,0:04:29.66,English,,0,0,0,,Now, Poynting works out an equation
-Dialogue: 0,0:04:26.85,0:04:29.66,Chinese,,0,0,0,,
 Dialogue: 0,0:04:29.66,0:04:32.09,English,,0,0,0,,to describe energy flux,
-Dialogue: 0,0:04:29.66,0:04:32.09,Chinese,,0,0,0,,
+Dialogue: 0,0:04:26.85,0:04:32.09,Chinese,,0,0,0,,坡印亭提出了一个能够描述能量通量的方程式
 Dialogue: 0,0:04:32.09,0:04:34.62,English,,0,0,0,,that is, how much electromagnetic energy
-Dialogue: 0,0:04:32.09,0:04:34.62,Chinese,,0,0,0,,
 Dialogue: 0,0:04:34.62,0:04:37.68,English,,0,0,0,,is passing through an area per second.
-Dialogue: 0,0:04:34.62,0:04:37.68,Chinese,,0,0,0,,
+Dialogue: 0,0:04:32.09,0:04:37.68,Chinese,,0,0,0,,它表示能量传递通过某一表面的时变率
 Dialogue: 0,0:04:37.68,0:04:39.65,English,,0,0,0,,This is known as the Poynting vector
-Dialogue: 0,0:04:37.68,0:04:39.65,Chinese,,0,0,0,,
+Dialogue: 0,0:04:37.68,0:04:39.65,Chinese,,0,0,0,,这被称作坡印亭矢量
 Dialogue: 0,0:04:39.65,0:04:41.75,English,,0,0,0,,and it's given the symbol S.
-Dialogue: 0,0:04:39.65,0:04:41.75,Chinese,,0,0,0,,
+Dialogue: 0,0:04:39.65,0:04:41.75,Chinese,,0,0,0,,它的符号是S
 Dialogue: 0,0:04:41.75,0:04:43.68,English,,0,0,0,,And the formula is really pretty simple,
-Dialogue: 0,0:04:41.75,0:04:43.68,Chinese,,0,0,0,,
+Dialogue: 0,0:04:41.75,0:04:43.68,Chinese,,0,0,0,,该公式非常简单  
 Dialogue: 0,0:04:43.68,0:04:46.10,English,,0,0,0,,it's just a constant one over mu naught,
-Dialogue: 0,0:04:43.68,0:04:46.10,Chinese,,0,0,0,,
+Dialogue: 0,0:04:43.68,0:04:46.10,Chinese,,0,0,0,,它是一个常数即μ0的倒数
 Dialogue: 0,0:04:46.10,0:04:48.23,English,,0,0,0,,which is the permeability of free space
-Dialogue: 0,0:04:46.10,0:04:48.23,Chinese,,0,0,0,,
+Dialogue: 0,0:04:46.10,0:04:48.23,Chinese,,0,0,0,,其中μ0表示真空磁导率
 Dialogue: 0,0:04:48.23,0:04:50.35,English,,0,0,0,,times E X B.
-Dialogue: 0,0:04:48.23,0:04:50.35,Chinese,,0,0,0,,
-Dialogue: 0,0:04:50.35,0:04:51.18,English,,0,0,0,,Now, E X B,
-Dialogue: 0,0:04:50.35,0:04:51.18,Chinese,,0,0,0,,
-Dialogue: 0,0:04:51.18,0:04:52.26,English,,0,0,0,,is the cross product
-Dialogue: 0,0:04:51.18,0:04:52.26,Chinese,,0,0,0,,
+Dialogue: 0,0:04:48.23,0:04:50.35,Chinese,,0,0,0,,再乘以 E × B
+Dialogue: 0,0:04:50.35,0:04:52.26,English,,0,0,0,,Now, E X B, is the cross product
 Dialogue: 0,0:04:52.26,0:04:54.81,English,,0,0,0,,of the electric and magnetic fields.
-Dialogue: 0,0:04:52.26,0:04:54.81,Chinese,,0,0,0,,
+Dialogue: 0,0:04:50.35,0:04:54.81,Chinese,,0,0,0,,E × B表示磁场和电场的叉乘
 Dialogue: 0,0:04:54.81,0:04:57.20,English,,0,0,0,,Now, the cross product is just a particular way
-Dialogue: 0,0:04:54.81,0:04:57.20,Chinese,,0,0,0,,
 Dialogue: 0,0:04:57.20,0:04:59.27,English,,0,0,0,,of multiplying two vectors together,
-Dialogue: 0,0:04:57.20,0:04:59.27,Chinese,,0,0,0,,
+Dialogue: 0,0:04:54.81,0:04:59.27,Chinese,,0,0,0,,叉乘是一种将两个向量相乘的特殊方式
 Dialogue: 0,0:04:59.27,0:05:01.80,English,,0,0,0,,where you multiply their perpendicular magnitudes
-Dialogue: 0,0:04:59.27,0:05:01.80,Chinese,,0,0,0,,
+Dialogue: 0,0:04:59.27,0:05:01.80,Chinese,,0,0,0,,将两个向量的垂直模长相乘
 Dialogue: 0,0:05:01.80,0:05:04.12,English,,0,0,0,,and to find the direction,
-Dialogue: 0,0:05:01.80,0:05:04.12,Chinese,,0,0,0,,
+Dialogue: 0,0:05:01.80,0:05:04.12,Chinese,,0,0,0,,即可得到叉乘的方向 
 Dialogue: 0,0:05:04.12,0:05:06.56,English,,0,0,0,,you put your fingers in the direction of the first vector,
-Dialogue: 0,0:05:04.12,0:05:06.56,Chinese,,0,0,0,,
+Dialogue: 0,0:05:04.12,0:05:06.56,Chinese,,0,0,0,,将右手四指放在第一个向量的方向
 Dialogue: 0,0:05:06.56,0:05:08.43,English,,0,0,0,,which in this case is the electric field,
-Dialogue: 0,0:05:06.56,0:05:08.43,Chinese,,0,0,0,,
+Dialogue: 0,0:05:06.56,0:05:08.43,Chinese,,0,0,0,,在这里是电场方向
 Dialogue: 0,0:05:08.43,0:05:11.08,English,,0,0,0,,and curl them in the direction of the second vector,
-Dialogue: 0,0:05:08.43,0:05:11.08,Chinese,,0,0,0,,
+Dialogue: 0,0:05:08.43,0:05:11.08,Chinese,,0,0,0,,然后将它们转向第二个向量的方向
 Dialogue: 0,0:05:11.08,0:05:11.93,English,,0,0,0,,the magnetic fields,
-Dialogue: 0,0:05:11.08,0:05:11.93,Chinese,,0,0,0,,
+Dialogue: 0,0:05:11.08,0:05:11.93,Chinese,,0,0,0,,即磁场方向
 Dialogue: 0,0:05:11.93,0:05:13.76,English,,0,0,0,,then your thumb points
-Dialogue: 0,0:05:11.93,0:05:13.76,Chinese,,0,0,0,,
+Dialogue: 0,0:05:11.93,0:05:13.76,Chinese,,0,0,0,,此时  大拇指的指向
 Dialogue: 0,0:05:13.76,0:05:15.60,English,,0,0,0,,in the direction of the resulting vector,
-Dialogue: 0,0:05:13.76,0:05:15.60,Chinese,,0,0,0,,
 Dialogue: 0,0:05:15.60,0:05:17.42,English,,0,0,0,,the energy flux.
-Dialogue: 0,0:05:15.60,0:05:17.42,Chinese,,0,0,0,,
+Dialogue: 0,0:05:13.76,0:05:17.42,Chinese,,0,0,0,,就是叉乘的结果——能量通量的方向
 Dialogue: 0,0:05:17.42,0:05:19.55,English,,0,0,0,,So, what this shows us about light
-Dialogue: 0,0:05:17.42,0:05:19.55,Chinese,,0,0,0,,
-Dialogue: 0,0:05:19.55,0:05:22.68,English,,0,0,0,,is that the energy is flowing perpendicular
-Dialogue: 0,0:05:19.55,0:05:22.68,Chinese,,0,0,0,,
-Dialogue: 0,0:05:22.68,0:05:25.66,English,,0,0,0,,to both the electronic an the magnetic fields.
-Dialogue: 0,0:05:22.68,0:05:25.66,Chinese,,0,0,0,,
+Dialogue: 0,0:05:17.42,0:05:19.55,Chinese,,0,0,0,,这公式表明 对于光来说
+Dialogue: 0,0:05:19.55,0:05:22.18,English,,0,0,0,,is that the energy is flowing
+Dialogue: 0,0:05:19.55,0:05:22.18,Chinese,,0,0,0,,其能量流动的方向
+Dialogue: 0,0:05:22.18,0:05:25.66,English,,0,0,0,,perpendicular to both the electronic an the magnetic fields.
+Dialogue: 0,0:05:22.18,0:05:25.66,Chinese,,0,0,0,,会同时垂直于电场和磁场方向
 Dialogue: 0,0:05:25.66,0:05:29.16,English,,0,0,0,,And it's in the same direction as the light is traveling,
-Dialogue: 0,0:05:25.66,0:05:29.16,Chinese,,0,0,0,,
+Dialogue: 0,0:05:25.66,0:05:29.16,Chinese,,0,0,0,,它与光的传播方向是相同的
 Dialogue: 0,0:05:29.16,0:05:30.76,English,,0,0,0,,so this makes a lot of sense.
-Dialogue: 0,0:05:29.16,0:05:30.76,Chinese,,0,0,0,,
-Dialogue: 0,0:05:30.76,0:05:33.61,English,,0,0,0,,Light carries energy from its source
-Dialogue: 0,0:05:30.76,0:05:33.61,Chinese,,0,0,0,,
-Dialogue: 0,0:05:33.61,0:05:35.79,English,,0,0,0,,out to its destination.
-Dialogue: 0,0:05:33.61,0:05:35.79,Chinese,,0,0,0,,
+Dialogue: 0,0:05:29.16,0:05:30.76,Chinese,,0,0,0,,这非常有意义
+Dialogue: 0,0:05:30.76,0:05:35.79,English,,0,0,0,,Light carries energy from its source out to its destination.
+Dialogue: 0,0:05:30.76,0:05:35.79,Chinese,,0,0,0,,光将能量从源头送到目的地
 Dialogue: 0,0:05:37.46,0:05:39.87,English,,0,0,0,,But the kicker is this,
-Dialogue: 0,0:05:37.46,0:05:39.87,Chinese,,0,0,0,,
+Dialogue: 0,0:05:37.46,0:05:39.87,Chinese,,0,0,0,,最妙的是
 Dialogue: 0,0:05:39.87,0:05:43.46,English,,0,0,0,,Poynting's equation doesn't just work for light,
-Dialogue: 0,0:05:39.87,0:05:43.46,Chinese,,0,0,0,,
+Dialogue: 0,0:05:39.87,0:05:43.46,Chinese,,0,0,0,,坡印亭方程不仅仅适用于光
 Dialogue: 0,0:05:43.46,0:05:46.75,English,,0,0,0,,it works anytime there are electric
-Dialogue: 0,0:05:43.46,0:05:46.75,Chinese,,0,0,0,,
 Dialogue: 0,0:05:46.75,0:05:49.24,English,,0,0,0,,and magnetic fields coinciding.
-Dialogue: 0,0:05:46.75,0:05:49.24,Chinese,,0,0,0,,
+Dialogue: 0,0:05:43.46,0:05:49.24,Chinese,,0,0,0,,只要同时存在电场和磁场 就适用坡印亭方程
 Dialogue: 0,0:05:49.24,0:05:52.08,English,,0,0,0,,Anytime you have electric and magnetic fields together,
-Dialogue: 0,0:05:49.24,0:05:52.08,Chinese,,0,0,0,,
+Dialogue: 0,0:05:49.24,0:05:52.08,Chinese,,0,0,0,,只要同时具备电场和磁场
 Dialogue: 0,0:05:52.08,0:05:53.61,English,,0,0,0,,there is a flow of energy
-Dialogue: 0,0:05:52.08,0:05:53.61,Chinese,,0,0,0,,
+Dialogue: 0,0:05:52.08,0:05:53.61,Chinese,,0,0,0,,就会有能量流动
 Dialogue: 0,0:05:53.61,0:05:56.65,English,,0,0,0,,and you can calculate using Poynting's vector.
-Dialogue: 0,0:05:53.61,0:05:56.65,Chinese,,0,0,0,,
+Dialogue: 0,0:05:53.61,0:05:56.65,Chinese,,0,0,0,,你就可以通过坡印亭矢量计算出能量通量
 Dialogue: 0,0:05:58.94,0:06:00.26,English,,0,0,0,,To illustrate this,
 Dialogue: 0,0:05:58.94,0:06:00.26,Chinese,,0,0,0,,为了说明这一点
 Dialogue: 0,0:06:00.26,0:06:01.91,English,,0,0,0,,let's consider a simple circuit
