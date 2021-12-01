@@ -15,171 +15,170 @@ Style: Chinese,MonyharOS Sans SC Medium,54,&H00FFFFFF,&H000000FF,&H00000000,&H00
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.92,English,,0,0,0,,Most people don't know how bicycles actually work.
-Dialogue: 0,0:00:00.00,0:00:03.92,Chinese,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:03.92,Chinese,,0,0,0,,人们大多不清楚  自行车是如何保持稳定的
 Dialogue: 0,0:00:03.92,0:00:04.64,English,,0,0,0,,- Let's try it again.
-Dialogue: 0,0:00:03.92,0:00:04.64,Chinese,,0,0,0,,
+Dialogue: 0,0:00:03.92,0:00:04.64,Chinese,,0,0,0,,-我们再试一次
 Dialogue: 0,0:00:04.64,0:00:07.61,English,,0,0,0,,So we modified this bike to prove it.
-Dialogue: 0,0:00:04.64,0:00:07.61,Chinese,,0,0,0,,
+Dialogue: 0,0:00:04.64,0:00:07.61,Chinese,,0,0,0,,所以我们改装出这辆自行车来证实它
 Dialogue: 0,0:00:11.85,0:00:14.10,English,,0,0,0,,This video was sponsored by KiwiCo.
 Dialogue: 0,0:00:11.85,0:00:14.10,Chinese,,0,0,0,,（广告不翻译）
 Dialogue: 0,0:00:14.10,0:00:16.05,English,,0,0,0,,More about them at the end of the show.
 Dialogue: 0,0:00:14.10,0:00:16.05,Chinese,,0,0,0,,（广告不翻译）
 Dialogue: 0,0:00:17.63,0:00:20.12,English,,0,0,0,,- When you're riding a bike and you want to turn left,
-Dialogue: 0,0:00:17.63,0:00:20.12,Chinese,,0,0,0,,
+Dialogue: 0,0:00:17.63,0:00:20.12,Chinese,,0,0,0,,当你在骑行时  如果你想左转
 Dialogue: 0,0:00:20.12,0:00:21.61,English,,0,0,0,,I think most people just imagine
-Dialogue: 0,0:00:20.12,0:00:21.61,Chinese,,0,0,0,,
+Dialogue: 0,0:00:20.12,0:00:21.61,Chinese,,0,0,0,,我猜大多数人都以为
 Dialogue: 0,0:00:21.61,0:00:23.84,English,,0,0,0,,you turn the handlebars to the left.
-Dialogue: 0,0:00:21.61,0:00:23.84,Chinese,,0,0,0,,
+Dialogue: 0,0:00:21.61,0:00:23.84,Chinese,,0,0,0,,将车把向左转就可以了
 Dialogue: 0,0:00:23.84,0:00:26.49,English,,0,0,0,,This is a bike to test whether that is true.
-Dialogue: 0,0:00:23.84,0:00:26.49,Chinese,,0,0,0,,
+Dialogue: 0,0:00:23.84,0:00:26.49,Chinese,,0,0,0,,我们要用这辆单车  来检验这一想法是否正确
 Dialogue: 0,0:00:26.49,0:00:29.02,English,,0,0,0,,And it's made by my friend Rick here.
-Dialogue: 0,0:00:26.49,0:00:29.02,Chinese,,0,0,0,,
-Dialogue: 0,0:00:29.02,0:00:31.49,English,,0,0,0,,and he's got a radio controller that allows him
-Dialogue: 0,0:00:29.02,0:00:31.49,Chinese,,0,0,0,,
-Dialogue: 0,0:00:31.49,0:00:35.04,English,,0,0,0,,to lock out the steering to one side.
-Dialogue: 0,0:00:31.49,0:00:35.04,Chinese,,0,0,0,,
+Dialogue: 0,0:00:26.49,0:00:29.02,Chinese,,0,0,0,,这是由我的朋友Rick制作的
+Dialogue: 0,0:00:29.02,0:00:30.80,English,,0,0,0,,and he's got a radio controller that
+Dialogue: 0,0:00:29.02,0:00:30.80,Chinese,,0,0,0,,他手里拿的这个遥控器
+Dialogue: 0,0:00:30.80,0:00:35.04,English,,0,0,0,,allows him to lock out the steering to one side.
+Dialogue: 0,0:00:30.80,0:00:35.04,Chinese,,0,0,0,,可以锁住车把只能朝一个方向转
 Dialogue: 0,0:00:35.04,0:00:36.73,English,,0,0,0,,So, what he's gonna do is as I'm biking,
-Dialogue: 0,0:00:35.04,0:00:36.73,Chinese,,0,0,0,,
+Dialogue: 0,0:00:35.04,0:00:36.73,Chinese,,0,0,0,,当我骑这辆车的时候 Rick要做的是
 Dialogue: 0,0:00:36.73,0:00:38.90,English,,0,0,0,,he's gonna pick whether I can turn
-Dialogue: 0,0:00:36.73,0:00:38.90,Chinese,,0,0,0,,
+Dialogue: 0,0:00:36.73,0:00:38.90,Chinese,,0,0,0,,决定我可以往哪儿转
 Dialogue: 0,0:00:38.90,0:00:40.67,English,,0,0,0,,either to the left or to the right.
-Dialogue: 0,0:00:38.90,0:00:40.67,Chinese,,0,0,0,,
+Dialogue: 0,0:00:38.90,0:00:40.67,Chinese,,0,0,0,,是往左转  还是往右转
 Dialogue: 0,0:00:40.67,0:00:42.21,English,,0,0,0,,So, go for it.
-Dialogue: 0,0:00:40.67,0:00:42.21,Chinese,,0,0,0,,
+Dialogue: 0,0:00:40.67,0:00:42.21,Chinese,,0,0,0,,开始吧
 Dialogue: 0,0:00:42.21,0:00:43.80,English,,0,0,0,,- I'm giving it a left turn.
-Dialogue: 0,0:00:42.21,0:00:43.80,Chinese,,0,0,0,,
+Dialogue: 0,0:00:42.21,0:00:43.80,Chinese,,0,0,0,,-现在我给他一个可以左转的命令
 Dialogue: 0,0:00:43.80,0:00:45.14,English,,0,0,0,,It pulls the pin out,
-Dialogue: 0,0:00:43.80,0:00:45.14,Chinese,,0,0,0,,
+Dialogue: 0,0:00:43.80,0:00:45.14,Chinese,,0,0,0,,栓被拉出
 Dialogue: 0,0:00:45.14,0:00:48.20,English,,0,0,0,,but you can see that you can still fully steer
-Dialogue: 0,0:00:45.14,0:00:48.20,Chinese,,0,0,0,,
+Dialogue: 0,0:00:45.14,0:00:48.20,Chinese,,0,0,0,,但你现在仍可以随意转动车把
 Dialogue: 0,0:00:48.20,0:00:49.08,English,,0,0,0,,after I've pulled the pin out.
-Dialogue: 0,0:00:48.20,0:00:49.08,Chinese,,0,0,0,,
+Dialogue: 0,0:00:48.20,0:00:49.08,Chinese,,0,0,0,,当我将栓完全拉出
 Dialogue: 0,0:00:49.08,0:00:50.47,English,,0,0,0,,I've armed it.
-Dialogue: 0,0:00:49.08,0:00:50.47,Chinese,,0,0,0,,
+Dialogue: 0,0:00:49.08,0:00:50.47,Chinese,,0,0,0,,我打开了它的保险
 Dialogue: 0,0:00:51.48,0:00:52.39,English,,0,0,0,,There's where it locks. - OK
-Dialogue: 0,0:00:51.48,0:00:52.39,Chinese,,0,0,0,,
+Dialogue: 0,0:00:51.48,0:00:52.39,Chinese,,0,0,0,,这就意味着它锁上了  -好的
 Dialogue: 0,0:00:52.39,0:00:55.11,English,,0,0,0,,Now, that that's when your LED comes on
-Dialogue: 0,0:00:52.39,0:00:55.11,Chinese,,0,0,0,,
+Dialogue: 0,0:00:52.39,0:00:55.11,Chinese,,0,0,0,,现在LED亮了
 Dialogue: 0,0:00:55.11,0:00:56.38,English,,0,0,0,,and that just says turn that way.
-Dialogue: 0,0:00:55.11,0:00:56.38,Chinese,,0,0,0,,
+Dialogue: 0,0:00:55.11,0:00:56.38,Chinese,,0,0,0,,意味着朝这个方向转弯
 Dialogue: 0,0:00:56.38,0:00:57.65,English,,0,0,0,,- Turn left. - Yeah
-Dialogue: 0,0:00:56.38,0:00:57.65,Chinese,,0,0,0,,
+Dialogue: 0,0:00:56.38,0:00:57.65,Chinese,,0,0,0,,-左转  -没错
 Dialogue: 0,0:00:57.65,0:01:00.07,English,,0,0,0,,And if I try to turn right, I can't.
-Dialogue: 0,0:00:57.65,0:01:00.07,Chinese,,0,0,0,,
+Dialogue: 0,0:00:57.65,0:01:00.07,Chinese,,0,0,0,,如果我尝试右转的话 我做不到
 Dialogue: 0,0:01:00.07,0:01:01.28,English,,0,0,0,,And if I try to turn left-
-Dialogue: 0,0:01:00.07,0:01:01.28,Chinese,,0,0,0,,
+Dialogue: 0,0:01:00.07,0:01:01.28,Chinese,,0,0,0,,如果我尝试左转的话
 Dialogue: 0,0:01:01.28,0:01:02.11,English,,0,0,0,,- You can.
-Dialogue: 0,0:01:01.28,0:01:02.11,Chinese,,0,0,0,,
+Dialogue: 0,0:01:01.28,0:01:02.11,Chinese,,0,0,0,,-你可以
 Dialogue: 0,0:01:02.11,0:01:02.94,English,,0,0,0,,- I can.
-Dialogue: 0,0:01:02.11,0:01:02.94,Chinese,,0,0,0,,
+Dialogue: 0,0:01:02.11,0:01:02.94,Chinese,,0,0,0,,-我可以
 Dialogue: 0,0:01:02.94,0:01:03.92,English,,0,0,0,,So the question is
-Dialogue: 0,0:01:02.94,0:01:03.92,Chinese,,0,0,0,,
+Dialogue: 0,0:01:02.94,0:01:03.92,Chinese,,0,0,0,,问题在于
 Dialogue: 0,0:01:03.92,0:01:07.43,English,,0,0,0,,can I successfully execute this left-hand turn?
-Dialogue: 0,0:01:03.92,0:01:07.43,Chinese,,0,0,0,,
+Dialogue: 0,0:01:03.92,0:01:07.43,Chinese,,0,0,0,,我能否成功地执行左转的命令
 Dialogue: 0,0:01:07.43,0:01:08.26,English,,0,0,0,,Should we give it a shot?
-Dialogue: 0,0:01:07.43,0:01:08.26,Chinese,,0,0,0,,
+Dialogue: 0,0:01:07.43,0:01:08.26,Chinese,,0,0,0,,我们要试试吗
 Dialogue: 0,0:01:08.26,0:01:09.91,English,,0,0,0,,I mean, he's not gonna tell me whether it's left or right,
-Dialogue: 0,0:01:08.26,0:01:09.91,Chinese,,0,0,0,,
+Dialogue: 0,0:01:08.26,0:01:09.91,Chinese,,0,0,0,,Rick不会直接告诉我左转还是右转
 Dialogue: 0,0:01:09.91,0:01:11.71,English,,0,0,0,,so I have to look at the LED to know
-Dialogue: 0,0:01:09.91,0:01:11.71,Chinese,,0,0,0,,
+Dialogue: 0,0:01:09.91,0:01:11.71,Chinese,,0,0,0,,所以我只能通过看灯来确认
 Dialogue: 0,0:01:11.71,0:01:13.77,English,,0,0,0,,which way I can still turn.
-Dialogue: 0,0:01:11.71,0:01:13.77,Chinese,,0,0,0,,
+Dialogue: 0,0:01:11.71,0:01:13.77,Chinese,,0,0,0,,我可以朝哪个方向转弯
 Dialogue: 0,0:01:13.77,0:01:15.42,English,,0,0,0,,- You let me know when you're ready.
-Dialogue: 0,0:01:13.77,0:01:15.42,Chinese,,0,0,0,,
+Dialogue: 0,0:01:13.77,0:01:15.42,Chinese,,0,0,0,,-你准备好了示意我
 Dialogue: 0,0:01:16.88,0:01:17.71,English,,0,0,0,,- Okay.
-Dialogue: 0,0:01:16.88,0:01:17.71,Chinese,,0,0,0,,
+Dialogue: 0,0:01:16.88,0:01:17.71,Chinese,,0,0,0,,-好的。
 Dialogue: 0,0:01:20.25,0:01:22.17,English,,0,0,0,,No!
-Dialogue: 0,0:01:20.25,0:01:22.17,Chinese,,0,0,0,,
+Dialogue: 0,0:01:20.25,0:01:22.17,Chinese,,0,0,0,,不
 Dialogue: 0,0:01:22.17,0:01:23.75,English,,0,0,0,,That was meant to be a turn to the right
-Dialogue: 0,0:01:22.17,0:01:23.75,Chinese,,0,0,0,,
+Dialogue: 0,0:01:22.17,0:01:23.75,Chinese,,0,0,0,,刚才那应该是一个右转
 Dialogue: 0,0:01:23.75,0:01:25.50,English,,0,0,0,,but there was no chance in hell.
-Dialogue: 0,0:01:23.75,0:01:25.50,Chinese,,0,0,0,,
+Dialogue: 0,0:01:23.75,0:01:25.50,Chinese,,0,0,0,,但没有机会了
 Dialogue: 0,0:01:25.50,0:01:26.55,English,,0,0,0,,Left.
-Dialogue: 0,0:01:25.50,0:01:26.55,Chinese,,0,0,0,,
+Dialogue: 0,0:01:25.50,0:01:26.55,Chinese,,0,0,0,,左转
 Dialogue: 0,0:01:27.83,0:01:28.66,English,,0,0,0,,Right.
-Dialogue: 0,0:01:27.83,0:01:28.66,Chinese,,0,0,0,,
+Dialogue: 0,0:01:27.83,0:01:28.66,Chinese,,0,0,0,,右转
 Dialogue: 0,0:01:32.30,0:01:33.18,English,,0,0,0,,All right.
-Dialogue: 0,0:01:32.30,0:01:33.18,Chinese,,0,0,0,,
+Dialogue: 0,0:01:32.30,0:01:33.18,Chinese,,0,0,0,,好吧
 Dialogue: 0,0:01:35.46,0:01:37.58,English,,0,0,0,,Right, right, right!
-Dialogue: 0,0:01:35.46,0:01:37.58,Chinese,,0,0,0,,
+Dialogue: 0,0:01:35.46,0:01:37.58,Chinese,,0,0,0,,右转 右转 右转
 Dialogue: 0,0:01:37.58,0:01:39.10,English,,0,0,0,,God!
-Dialogue: 0,0:01:37.58,0:01:39.10,Chinese,,0,0,0,,
+Dialogue: 0,0:01:37.58,0:01:39.10,Chinese,,0,0,0,,淦
 Dialogue: 0,0:01:39.10,0:01:41.90,English,,0,0,0,,- If you look closely, you can see the problem.
-Dialogue: 0,0:01:39.10,0:01:41.90,Chinese,,0,0,0,,
+Dialogue: 0,0:01:39.10,0:01:41.90,Chinese,,0,0,0,,仔细看的话可以发现问题所在
 Dialogue: 0,0:01:41.90,0:01:44.15,English,,0,0,0,,Here, I'm trying to turn right
-Dialogue: 0,0:01:41.90,0:01:44.15,Chinese,,0,0,0,,
+Dialogue: 0,0:01:41.90,0:01:44.15,Chinese,,0,0,0,,我现在打算右转
 Dialogue: 0,0:01:44.15,0:01:47.93,English,,0,0,0,,but steering that way puts me off balance.
-Dialogue: 0,0:01:44.15,0:01:47.93,Chinese,,0,0,0,,
+Dialogue: 0,0:01:44.15,0:01:47.93,Chinese,,0,0,0,,但把车头往右转过去  会让我失去平衡
 Dialogue: 0,0:01:47.93,0:01:49.69,English,,0,0,0,,If you could ride this bicycle,
-Dialogue: 0,0:01:47.93,0:01:49.69,Chinese,,0,0,0,,
+Dialogue: 0,0:01:47.93,0:01:49.69,Chinese,,0,0,0,,当你骑上这辆车时
 Dialogue: 0,0:01:49.69,0:01:51.95,English,,0,0,0,,you would find it's impossible to turn left
-Dialogue: 0,0:01:49.69,0:01:51.95,Chinese,,0,0,0,,
+Dialogue: 0,0:01:49.69,0:01:51.95,Chinese,,0,0,0,,你就会发现  要想左转
 Dialogue: 0,0:01:51.95,0:01:53.68,English,,0,0,0,,without first steering right
-Dialogue: 0,0:01:51.95,0:01:53.68,Chinese,,0,0,0,,
+Dialogue: 0,0:01:51.95,0:01:53.68,Chinese,,0,0,0,,就不得不先往右摆
 Dialogue: 0,0:01:53.68,0:01:55.24,English,,0,0,0,,and it's impossible to turn right
-Dialogue: 0,0:01:53.68,0:01:55.24,Chinese,,0,0,0,,
+Dialogue: 0,0:01:53.68,0:01:55.24,Chinese,,0,0,0,,同样  如果想右转
 Dialogue: 0,0:01:55.24,0:01:57.56,English,,0,0,0,,without first steering left.
-Dialogue: 0,0:01:55.24,0:01:57.56,Chinese,,0,0,0,,
+Dialogue: 0,0:01:55.24,0:01:57.56,Chinese,,0,0,0,,就一定要先往左摆
 Dialogue: 0,0:01:58.41,0:02:00.41,English,,0,0,0,,This seems wrong.
-Dialogue: 0,0:01:58.41,0:02:00.41,Chinese,,0,0,0,,
+Dialogue: 0,0:01:58.41,0:02:00.41,Chinese,,0,0,0,,这看起来很离谱
 Dialogue: 0,0:02:00.41,0:02:02.00,English,,0,0,0,,I think most people believe you turn a bike
-Dialogue: 0,0:02:00.41,0:02:02.00,Chinese,,0,0,0,,
+Dialogue: 0,0:02:00.41,0:02:02.00,Chinese,,0,0,0,,我想  大多数人都相信转弯时
 Dialogue: 0,0:02:02.00,0:02:03.79,English,,0,0,0,,simply by pointing the handlebars
-Dialogue: 0,0:02:02.00,0:02:03.79,Chinese,,0,0,0,,
+Dialogue: 0,0:02:02.00,0:02:03.79,Chinese,,0,0,0,,只需要简单的将把手
 Dialogue: 0,0:02:03.79,0:02:05.50,English,,0,0,0,,in the direction you want to go.
-Dialogue: 0,0:02:03.79,0:02:05.50,Chinese,,0,0,0,,
+Dialogue: 0,0:02:03.79,0:02:05.50,Chinese,,0,0,0,,转到想要前进的方向就可以
 Dialogue: 0,0:02:05.50,0:02:08.55,English,,0,0,0,,After all, this is how you drive a car.
-Dialogue: 0,0:02:05.50,0:02:08.55,Chinese,,0,0,0,,
+Dialogue: 0,0:02:05.50,0:02:08.55,Chinese,,0,0,0,,毕竟 我们是这样开车的
 Dialogue: 0,0:02:08.55,0:02:10.95,English,,0,0,0,,Point the front wheels any direction you like
-Dialogue: 0,0:02:08.55,0:02:10.95,Chinese,,0,0,0,,
+Dialogue: 0,0:02:08.55,0:02:10.95,Chinese,,0,0,0,,将前轮朝向任何你想前进的方向
 Dialogue: 0,0:02:10.95,0:02:13.35,English,,0,0,0,,and the car just goes that way.
-Dialogue: 0,0:02:10.95,0:02:13.35,Chinese,,0,0,0,,
+Dialogue: 0,0:02:10.95,0:02:13.35,Chinese,,0,0,0,,车就会朝那个方向行驶
 Dialogue: 0,0:02:13.35,0:02:14.82,English,,0,0,0,,But the difference with a bicycle
-Dialogue: 0,0:02:13.35,0:02:14.82,Chinese,,0,0,0,,
+Dialogue: 0,0:02:13.35,0:02:14.82,Chinese,,0,0,0,,而自行车与之不同
 Dialogue: 0,0:02:14.82,0:02:18.50,English,,0,0,0,,is steering doesn't just affect the direction you're headed;
-Dialogue: 0,0:02:14.82,0:02:18.50,Chinese,,0,0,0,,
+Dialogue: 0,0:02:14.82,0:02:18.50,Chinese,,0,0,0,,不能做到车把朝哪转 车就往哪拐
 Dialogue: 0,0:02:18.50,0:02:21.69,English,,0,0,0,,it also affects your balance.
-Dialogue: 0,0:02:18.50,0:02:21.69,Chinese,,0,0,0,,
+Dialogue: 0,0:02:18.50,0:02:21.69,Chinese,,0,0,0,,转动车把也会影响你的平衡
 Dialogue: 0,0:02:21.69,0:02:24.03,English,,0,0,0,,Imagine you want to make a right turn
-Dialogue: 0,0:02:21.69,0:02:24.03,Chinese,,0,0,0,,
+Dialogue: 0,0:02:21.69,0:02:24.03,Chinese,,0,0,0,,想象一下你要右转弯
 Dialogue: 0,0:02:24.03,0:02:26.60,English,,0,0,0,,so you steer the handlebars to the right.
-Dialogue: 0,0:02:24.03,0:02:26.60,Chinese,,0,0,0,,
+Dialogue: 0,0:02:24.03,0:02:26.60,Chinese,,0,0,0,,所以你将车把朝右转
 Dialogue: 0,0:02:26.60,0:02:28.63,English,,0,0,0,,What you've done is effectively
-Dialogue: 0,0:02:26.60,0:02:28.63,Chinese,,0,0,0,,
 Dialogue: 0,0:02:28.63,0:02:31.18,English,,0,0,0,,steered the bike out from under you.
-Dialogue: 0,0:02:28.63,0:02:31.18,Chinese,,0,0,0,,
+Dialogue: 0,0:02:26.60,0:02:31.18,Chinese,,0,0,0,,这样做会立即使你失去平衡
 Dialogue: 0,0:02:31.18,0:02:33.86,English,,0,0,0,,So now you're leaning to the left
-Dialogue: 0,0:02:31.18,0:02:33.86,Chinese,,0,0,0,,
+Dialogue: 0,0:02:31.18,0:02:33.86,Chinese,,0,0,0,,所以你现在朝左倾斜
 Dialogue: 0,0:02:33.86,0:02:36.20,English,,0,0,0,,and the ground puts a force on the bike to the left
-Dialogue: 0,0:02:33.86,0:02:36.20,Chinese,,0,0,0,,
+Dialogue: 0,0:02:33.86,0:02:36.20,Chinese,,0,0,0,,同时地面会给车子向左的支撑力
 Dialogue: 0,0:02:36.20,0:02:38.04,English,,0,0,0,,so the only way not to fall
-Dialogue: 0,0:02:36.20,0:02:38.04,Chinese,,0,0,0,,
+Dialogue: 0,0:02:36.20,0:02:38.04,Chinese,,0,0,0,,避免摔倒的唯一方式
 Dialogue: 0,0:02:38.04,0:02:40.31,English,,0,0,0,,is to steer the bike to the left.
-Dialogue: 0,0:02:38.04,0:02:40.31,Chinese,,0,0,0,,
+Dialogue: 0,0:02:38.04,0:02:40.31,Chinese,,0,0,0,,就是向左转
 Dialogue: 0,0:02:40.31,0:02:42.86,English,,0,0,0,,You have made a left turn.
-Dialogue: 0,0:02:40.31,0:02:42.86,Chinese,,0,0,0,,
+Dialogue: 0,0:02:40.31,0:02:42.86,Chinese,,0,0,0,,你完成了一次左转
 Dialogue: 0,0:02:42.86,0:02:44.81,English,,0,0,0,,If you really wanted to turn right,
-Dialogue: 0,0:02:42.86,0:02:44.81,Chinese,,0,0,0,,
+Dialogue: 0,0:02:42.86,0:02:44.81,Chinese,,0,0,0,,如果你真的要右转
 Dialogue: 0,0:02:44.81,0:02:47.31,English,,0,0,0,,you first have to counter-steer to the left
-Dialogue: 0,0:02:44.81,0:02:47.31,Chinese,,0,0,0,,
+Dialogue: 0,0:02:44.81,0:02:47.31,Chinese,,0,0,0,,你反而先要左转
 Dialogue: 0,0:02:47.31,0:02:50.89,English,,0,0,0,,so you can lean right into the turn.
-Dialogue: 0,0:02:47.31,0:02:50.89,Chinese,,0,0,0,,
+Dialogue: 0,0:02:47.31,0:02:50.89,Chinese,,0,0,0,,才可以向右倾斜  从而完成右转
 Dialogue: 0,0:02:50.89,0:02:54.32,English,,0,0,0,,This is something anyone who rides a bike knows intuitively
-Dialogue: 0,0:02:50.89,0:02:54.32,Chinese,,0,0,0,,
+Dialogue: 0,0:02:50.89,0:02:54.32,Chinese,,0,0,0,,所有人在骑车时都会靠直觉做到这点
 Dialogue: 0,0:02:54.32,0:02:55.97,English,,0,0,0,,but not explicitly.
-Dialogue: 0,0:02:54.32,0:02:55.97,Chinese,,0,0,0,,
+Dialogue: 0,0:02:54.32,0:02:55.97,Chinese,,0,0,0,,但自己意识不到
 Dialogue: 0,0:02:55.97,0:02:57.25,English,,0,0,0,,- Turn left!
-Dialogue: 0,0:02:55.97,0:02:57.25,Chinese,,0,0,0,,
+Dialogue: 0,0:02:55.97,0:02:57.25,Chinese,,0,0,0,,-左转
 Dialogue: 0,0:02:57.25,0:02:59.43,English,,0,0,0,,- Film someone riding a bike towards you and
-Dialogue: 0,0:02:57.25,0:02:59.43,Chinese,,0,0,0,,
+Dialogue: 0,0:02:57.25,0:02:59.43,Chinese,,0,0,0,,-拍摄他人朝你骑行的镜头
 Dialogue: 0,0:02:59.44,0:03:01.29,English,,0,0,0,,tell them which direction to turn
-Dialogue: 0,0:02:59.44,0:03:01.29,Chinese,,0,0,0,,
+Dialogue: 0,0:02:59.44,0:03:01.29,Chinese,,0,0,0,,并告诉他们朝哪个方向转向
 Dialogue: 0,0:03:01.29,0:03:02.11,English,,0,0,0,,and you will find that
-Dialogue: 0,0:03:01.29,0:03:02.11,Chinese,,0,0,0,,
+Dialogue: 0,0:03:01.29,0:03:02.11,Chinese,,0,0,0,,你就会发现
 Dialogue: 0,0:03:02.11,0:03:04.57,English,,0,0,0,,they counter-steer without even thinking about it.
-Dialogue: 0,0:03:02.11,0:03:04.57,Chinese,,0,0,0,,
+Dialogue: 0,0:03:02.11,0:03:04.57,Chinese,,0,0,0,,他们不假思索地就会先将车把朝反方向转
 Dialogue: 0,0:03:04.57,0:03:05.78,English,,0,0,0,,- Hard left!
-Dialogue: 0,0:03:04.57,0:03:05.78,Chinese,,0,0,0,,
+Dialogue: 0,0:03:04.57,0:03:05.78,Chinese,,0,0,0,,-向左急转弯
 Dialogue: 0,0:03:08.97,0:03:10.64,English,,0,0,0,,When you're riding a bike,
 Dialogue: 0,0:03:08.97,0:03:10.64,Chinese,,0,0,0,,你骑单车的时候
 Dialogue: 0,0:03:10.64,0:03:13.46,English,,0,0,0,,it's exactly the same as what we call an inverted pendulum
