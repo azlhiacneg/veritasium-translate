@@ -270,7 +270,7 @@ Dialogue: 0,0:04:45.97,0:04:48.73,Chinese,,0,0,0,,只是没法转左
 Dialogue: 0,0:04:48.73,0:04:52.21,English,,0,0,0,,The funny thing is that you couldn't initiate the turn.
 Dialogue: 0,0:04:48.73,0:04:52.21,Chinese,,0,0,0,,好玩的是  你自己是没法转弯的
 Dialogue: 0,0:04:52.21,0:04:54.70,English,,0,0,0,,I mean, the wild takeaway is that
-Dialogue: 0,0:04:52.21,0:04:54.70,Chinese,,0,0,0,,
+Dialogue: 0,0:04:52.21,0:04:54.70,Chinese,,0,0,0,,你肯定想不到
 Dialogue: 0,0:04:54.70,0:04:57.68,English,,0,0,0,,steering is not just for turning the bike;
 Dialogue: 0,0:04:54.70,0:04:57.68,Chinese,,0,0,0,,转向装置不只是用来转弯的
 Dialogue: 0,0:04:57.68,0:04:58.89,English,,0,0,0,,steering is for balancing.
@@ -288,246 +288,237 @@ Dialogue: 0,0:05:06.69,0:05:09.06,Chinese,,0,0,0,,因而没有陀螺仪效应
 Dialogue: 0,0:05:09.06,0:05:10.89,English,,0,0,0,,but that's not it.
 Dialogue: 0,0:05:09.06,0:05:10.89,Chinese,,0,0,0,,事实并非如此
 Dialogue: 0,0:05:10.89,0:05:12.76,English,,0,0,0,,The truth is you use steering
-Dialogue: 0,0:05:10.89,0:05:12.76,Chinese,,0,0,0,,
+Dialogue: 0,0:05:10.89,0:05:12.76,Chinese,,0,0,0,,实际上  你是在用转向装置
 Dialogue: 0,0:05:12.76,0:05:14.83,English,,0,0,0,,to keep the bike underneath you
-Dialogue: 0,0:05:12.76,0:05:14.83,Chinese,,0,0,0,,
+Dialogue: 0,0:05:12.76,0:05:14.83,Chinese,,0,0,0,,来稳住胯下的自行车
 Dialogue: 0,0:05:14.83,0:05:17.82,English,,0,0,0,,but steering doesn't work when you're stationary.
-Dialogue: 0,0:05:14.83,0:05:17.82,Chinese,,0,0,0,,
+Dialogue: 0,0:05:14.83,0:05:17.82,Chinese,,0,0,0,,但转向装置在车子静止时  无法起稳定作用
 Dialogue: 0,0:05:17.82,0:05:19.14,English,,0,0,0,,Your balance comes not so much
-Dialogue: 0,0:05:17.82,0:05:19.14,Chinese,,0,0,0,,
+Dialogue: 0,0:05:17.82,0:05:19.14,Chinese,,0,0,0,,自行车保持平衡的关键
 Dialogue: 0,0:05:19.14,0:05:21.61,English,,0,0,0,,from how you position your body over the bike,
-Dialogue: 0,0:05:19.14,0:05:21.61,Chinese,,0,0,0,,
+Dialogue: 0,0:05:19.14,0:05:21.61,Chinese,,0,0,0,,不是你怎样把身体在自行车上面稳住
 Dialogue: 0,0:05:21.61,0:05:25.27,English,,0,0,0,,but by how you steer the bike to keep it underneath you.
-Dialogue: 0,0:05:21.61,0:05:25.27,Chinese,,0,0,0,,
+Dialogue: 0,0:05:21.61,0:05:25.27,Chinese,,0,0,0,,而是你怎样控制自行车  让它一直在你的下方
 Dialogue: 0,0:05:25.27,0:05:26.62,English,,0,0,0,,Even when going straight,
-Dialogue: 0,0:05:25.27,0:05:26.62,Chinese,,0,0,0,,
+Dialogue: 0,0:05:25.27,0:05:26.62,Chinese,,0,0,0,,即使是向前直线行驶
 Dialogue: 0,0:05:26.62,0:05:29.33,English,,0,0,0,,you're constantly making small steering adjustments
-Dialogue: 0,0:05:26.62,0:05:29.33,Chinese,,0,0,0,,
+Dialogue: 0,0:05:26.62,0:05:29.33,Chinese,,0,0,0,,你也在不断对车头方向  进行微小的调整
 Dialogue: 0,0:05:29.33,0:05:31.20,English,,0,0,0,,to maintain balance.
-Dialogue: 0,0:05:29.33,0:05:31.20,Chinese,,0,0,0,,
+Dialogue: 0,0:05:29.33,0:05:31.20,Chinese,,0,0,0,,来维持平衡
 Dialogue: 0,0:05:31.20,0:05:32.65,English,,0,0,0,,- You're moving the contact patch
-Dialogue: 0,0:05:31.20,0:05:32.65,Chinese,,0,0,0,,
 Dialogue: 0,0:05:32.65,0:05:33.77,English,,0,0,0,,of the front wheel under you.
-Dialogue: 0,0:05:32.65,0:05:33.77,Chinese,,0,0,0,,
+Dialogue: 0,0:05:31.20,0:05:33.77,Chinese,,0,0,0,,你要把前轮的接触面移到你下方
 Dialogue: 0,0:05:33.77,0:05:34.81,English,,0,0,0,,You're doing exactly what you do
-Dialogue: 0,0:05:33.77,0:05:34.81,Chinese,,0,0,0,,
 Dialogue: 0,0:05:34.81,0:05:36.96,English,,0,0,0,,when you balance a broomstick on your hand.
-Dialogue: 0,0:05:34.81,0:05:36.96,Chinese,,0,0,0,,
+Dialogue: 0,0:05:33.77,0:05:36.96,Chinese,,0,0,0,,这跟你平衡手里的扫帚  是一个道理
 Dialogue: 0,0:05:37.99,0:05:39.84,English,,0,0,0,,- So, if the rider is responsible
-Dialogue: 0,0:05:37.99,0:05:39.84,Chinese,,0,0,0,,
 Dialogue: 0,0:05:39.84,0:05:41.89,English,,0,0,0,,for steering the bike to keep it balanced,
-Dialogue: 0,0:05:39.84,0:05:41.89,Chinese,,0,0,0,,
+Dialogue: 0,0:05:37.99,0:05:41.89,Chinese,,0,0,0,,既然骑手得控制自行车、维持其平衡
 Dialogue: 0,0:05:41.89,0:05:45.21,English,,0,0,0,,how do bikes without riders stay upright?
-Dialogue: 0,0:05:41.89,0:05:45.21,Chinese,,0,0,0,,
+Dialogue: 0,0:05:41.89,0:05:45.21,Chinese,,0,0,0,,为什么自行车没了骑手  还能“自行”呢
 Dialogue: 0,0:05:45.21,0:05:47.74,English,,0,0,0,,As long as a bike is moving with sufficient speed,
-Dialogue: 0,0:05:45.21,0:05:47.74,Chinese,,0,0,0,,
+Dialogue: 0,0:05:45.21,0:05:47.74,Chinese,,0,0,0,,只要自行车跑得够快
 Dialogue: 0,0:05:47.74,0:05:50.55,English,,0,0,0,,it can keep coasting indefinitely.
-Dialogue: 0,0:05:47.74,0:05:50.55,Chinese,,0,0,0,,
+Dialogue: 0,0:05:47.74,0:05:50.55,Chinese,,0,0,0,,它就能沿着坡一直滑行下去
 Dialogue: 0,0:05:50.55,0:05:52.56,English,,0,0,0,,I first became aware of this phenomenon
-Dialogue: 0,0:05:50.55,0:05:52.56,Chinese,,0,0,0,,
+Dialogue: 0,0:05:50.55,0:05:52.56,Chinese,,0,0,0,,我第一次留意这个现象
 Dialogue: 0,0:05:52.56,0:05:54.61,English,,0,0,0,,through the great videos by MinutePhysics,
-Dialogue: 0,0:05:52.56,0:05:54.61,Chinese,,0,0,0,,
+Dialogue: 0,0:05:52.56,0:05:54.61,Chinese,,0,0,0,,是在“分钟物理”的视频里  整挺好
 Dialogue: 0,0:05:54.61,0:05:56.65,English,,0,0,0,,which inspired me to make this video.
-Dialogue: 0,0:05:54.61,0:05:56.65,Chinese,,0,0,0,,
+Dialogue: 0,0:05:54.61,0:05:56.65,Chinese,,0,0,0,,这也是我做这个视频的灵感来源
 Dialogue: 0,0:05:56.65,0:05:58.75,English,,0,0,0,,You should definitely check them out.
-Dialogue: 0,0:05:56.65,0:05:58.75,Chinese,,0,0,0,,
-Dialogue: 0,0:05:58.75,0:06:00.21,English,,0,0,0,,But it turned out the ground
-Dialogue: 0,0:05:58.75,0:06:00.21,Chinese,,0,0,0,,
-Dialogue: 0,0:06:00.21,0:06:03.60,English,,0,0,0,,where we went to test this effect was really bumpy,
-Dialogue: 0,0:06:00.21,0:06:03.60,Chinese,,0,0,0,,
+Dialogue: 0,0:05:56.65,0:05:58.75,Chinese,,0,0,0,,你值得去看看
+Dialogue: 0,0:05:52.56,0:05:58.75,Chinese,,0,0,0,,{\an7\fs36}【分钟物理】自行车是怎么保持平衡的[中英字幕] \N靛蓝字幕组\NBV13s411m7C6
+Dialogue: 0,0:05:58.75,0:06:00.21,English,,0,0,0,,But it turned out the ground where we went to test this effect
+Dialogue: 0,0:05:58.75,0:06:00.21,Chinese,,0,0,0,,但是  我们测试这个效应的场地
+Dialogue: 0,0:06:00.21,0:06:03.60,English,,0,0,0,,was really bumpy,
+Dialogue: 0,0:06:00.21,0:06:03.60,Chinese,,0,0,0,,实在是太颠簸了
 Dialogue: 0,0:06:03.60,0:06:06.94,English,,0,0,0,,but the bike still manages to absorb all these perturbations
-Dialogue: 0,0:06:03.60,0:06:06.94,Chinese,,0,0,0,,
+Dialogue: 0,0:06:03.60,0:06:06.94,Chinese,,0,0,0,,但单车依然能吸收这所有的扰动
 Dialogue: 0,0:06:06.94,0:06:08.88,English,,0,0,0,,and remain stable.
-Dialogue: 0,0:06:06.94,0:06:08.88,Chinese,,0,0,0,,
+Dialogue: 0,0:06:06.94,0:06:08.88,Chinese,,0,0,0,,保持平衡
 Dialogue: 0,0:06:08.88,0:06:10.99,English,,0,0,0,,So, how does it do this?
-Dialogue: 0,0:06:08.88,0:06:10.99,Chinese,,0,0,0,,
+Dialogue: 0,0:06:08.88,0:06:10.99,Chinese,,0,0,0,,这是怎么做到的
 Dialogue: 0,0:06:10.99,0:06:13.31,English,,0,0,0,,I think most people believe it's the wheels spinning
-Dialogue: 0,0:06:10.99,0:06:13.31,Chinese,,0,0,0,,
+Dialogue: 0,0:06:10.99,0:06:13.31,Chinese,,0,0,0,,大多数人会以为  是因为轮子的转动
 Dialogue: 0,0:06:13.31,0:06:15.81,English,,0,0,0,,that creates some sort of gyroscopic effect
-Dialogue: 0,0:06:13.31,0:06:15.81,Chinese,,0,0,0,,
+Dialogue: 0,0:06:13.31,0:06:15.81,Chinese,,0,0,0,,产生了某种陀螺仪效应
 Dialogue: 0,0:06:15.81,0:06:17.92,English,,0,0,0,,that resists falling over
-Dialogue: 0,0:06:15.81,0:06:17.92,Chinese,,0,0,0,,
+Dialogue: 0,0:06:15.81,0:06:17.92,Chinese,,0,0,0,,使得它能抵抗倾倒
 Dialogue: 0,0:06:17.92,0:06:21.30,English,,0,0,0,,just like in this demonstration of gyroscopic precession.
-Dialogue: 0,0:06:17.92,0:06:21.30,Chinese,,0,0,0,,
-Dialogue: 0,0:06:21.30,0:06:22.53,English,,0,0,0,,Yhe wheel stays upright
-Dialogue: 0,0:06:21.30,0:06:22.53,Chinese,,0,0,0,,
+Dialogue: 0,0:06:17.92,0:06:21.30,Chinese,,0,0,0,,就像陀螺仪进动效应的这个示意片段一样
+Dialogue: 0,0:06:21.30,0:06:22.53,English,,0,0,0,,The wheel stays upright
+Dialogue: 0,0:06:21.30,0:06:22.53,Chinese,,0,0,0,,轮子会保持直立
 Dialogue: 0,0:06:22.53,0:06:25.34,English,,0,0,0,,even though gravity is pulling it down.
-Dialogue: 0,0:06:22.53,0:06:25.34,Chinese,,0,0,0,,
+Dialogue: 0,0:06:22.53,0:06:25.34,Chinese,,0,0,0,,克服了把它拉趴下来的重力
 Dialogue: 0,0:06:25.34,0:06:28.32,English,,0,0,0,,But this is not why bikes are stable.
-Dialogue: 0,0:06:25.34,0:06:28.32,Chinese,,0,0,0,,
+Dialogue: 0,0:06:25.34,0:06:28.32,Chinese,,0,0,0,,但这并非自行车能稳定的原因
 Dialogue: 0,0:06:28.32,0:06:29.29,English,,0,0,0,,Just watch what happens
-Dialogue: 0,0:06:28.32,0:06:29.29,Chinese,,0,0,0,,
+Dialogue: 0,0:06:28.32,0:06:29.29,Chinese,,0,0,0,,请看下例
 Dialogue: 0,0:06:29.29,0:06:31.39,English,,0,0,0,,when we lock the handlebars completely
-Dialogue: 0,0:06:29.29,0:06:31.39,Chinese,,0,0,0,,
+Dialogue: 0,0:06:29.29,0:06:31.39,Chinese,,0,0,0,,当车头方向完全锁死的时候
 Dialogue: 0,0:06:31.39,0:06:33.43,English,,0,0,0,,so you can only go straight ahead.
-Dialogue: 0,0:06:31.39,0:06:33.43,Chinese,,0,0,0,,
+Dialogue: 0,0:06:31.39,0:06:33.43,Chinese,,0,0,0,,你只能笔直地往前走
 Dialogue: 0,0:06:33.43,0:06:34.88,English,,0,0,0,,- Locked out, locked out.
-Dialogue: 0,0:06:33.43,0:06:34.88,Chinese,,0,0,0,,
+Dialogue: 0,0:06:33.43,0:06:34.88,Chinese,,0,0,0,,要锁了  要锁了
 Dialogue: 0,0:06:34.88,0:06:35.71,English,,0,0,0,,Whoa!
-Dialogue: 0,0:06:34.88,0:06:35.71,Chinese,,0,0,0,,
+Dialogue: 0,0:06:34.88,0:06:35.71,Chinese,,0,0,0,,哇
 Dialogue: 0,0:06:37.57,0:06:40.20,English,,0,0,0,,- All that is happening is the steering is locked.
-Dialogue: 0,0:06:37.57,0:06:40.20,Chinese,,0,0,0,,
+Dialogue: 0,0:06:37.57,0:06:40.20,Chinese,,0,0,0,,现在我们只是锁住了转向机构
 Dialogue: 0,0:06:40.20,0:06:41.12,English,,0,0,0,,You just got to ride it.
-Dialogue: 0,0:06:40.20,0:06:41.12,Chinese,,0,0,0,,
+Dialogue: 0,0:06:40.20,0:06:41.12,Chinese,,0,0,0,,你只需要骑在上面
 Dialogue: 0,0:06:41.12,0:06:41.95,English,,0,0,0,,You don't have to turn.
-Dialogue: 0,0:06:41.12,0:06:41.95,Chinese,,0,0,0,,
+Dialogue: 0,0:06:41.12,0:06:41.95,Chinese,,0,0,0,,不需要转弯
 Dialogue: 0,0:06:41.95,0:06:43.36,English,,0,0,0,,You just ride.
-Dialogue: 0,0:06:41.95,0:06:43.36,Chinese,,0,0,0,,
+Dialogue: 0,0:06:41.95,0:06:43.36,Chinese,,0,0,0,,只需要骑
 Dialogue: 0,0:06:43.36,0:06:44.19,English,,0,0,0,,Letting go.
-Dialogue: 0,0:06:43.36,0:06:44.19,Chinese,,0,0,0,,
+Dialogue: 0,0:06:43.36,0:06:44.19,Chinese,,0,0,0,,走起
 Dialogue: 0,0:06:44.19,0:06:46.40,English,,0,0,0,,- Some people tried going really fast.
-Dialogue: 0,0:06:44.19,0:06:46.40,Chinese,,0,0,0,,
+Dialogue: 0,0:06:44.19,0:06:46.40,Chinese,,0,0,0,,有些人尝试跑得非常快
 Dialogue: 0,0:06:52.20,0:06:55.80,English,,0,0,0,,Others experimented with extreme balancing techniques.
-Dialogue: 0,0:06:52.20,0:06:55.80,Chinese,,0,0,0,,
+Dialogue: 0,0:06:52.20,0:06:55.80,Chinese,,0,0,0,,其他人表现出精湛的平衡技巧
 Dialogue: 0,0:06:55.80,0:06:57.50,English,,0,0,0,,- He's leaning. Don't go too fast!
-Dialogue: 0,0:06:55.80,0:06:57.50,Chinese,,0,0,0,,
+Dialogue: 0,0:06:55.80,0:06:57.50,Chinese,,0,0,0,,要倒了  别跑太快
 Dialogue: 0,0:07:02.95,0:07:04.38,English,,0,0,0,,- But even with the gyroscopic
-Dialogue: 0,0:07:02.95,0:07:04.38,Chinese,,0,0,0,,
 Dialogue: 0,0:07:04.38,0:07:05.53,English,,0,0,0,,effect of the wheels,
-Dialogue: 0,0:07:04.38,0:07:05.53,Chinese,,0,0,0,,
+Dialogue: 0,0:07:02.95,0:07:05.53,Chinese,,0,0,0,,但即使车轮有陀螺仪效应
 Dialogue: 0,0:07:05.53,0:07:07.47,English,,0,0,0,,no one was able to keep the bike upright
-Dialogue: 0,0:07:05.53,0:07:07.47,Chinese,,0,0,0,,
 Dialogue: 0,0:07:07.47,0:07:09.07,English,,0,0,0,,for more than a few seconds.
-Dialogue: 0,0:07:07.47,0:07:09.07,Chinese,,0,0,0,,
+Dialogue: 0,0:07:05.53,0:07:09.07,Chinese,,0,0,0,,大家最多也只能让车子保持几秒钟不倒
 Dialogue: 0,0:07:11.54,0:07:13.37,English,,0,0,0,,- This is not safe for a second.
-Dialogue: 0,0:07:11.54,0:07:13.37,Chinese,,0,0,0,,
-Dialogue: 0,0:07:13.37,0:07:15.04,English,,0,0,0,,- It is just as hard to balance
-Dialogue: 0,0:07:13.37,0:07:15.04,Chinese,,0,0,0,,
-Dialogue: 0,0:07:15.04,0:07:16.98,English,,0,0,0,,on a bike with locked steering
-Dialogue: 0,0:07:15.04,0:07:16.98,Chinese,,0,0,0,,
+Dialogue: 0,0:07:11.54,0:07:13.37,Chinese,,0,0,0,,一秒钟都稳不住
+Dialogue: 0,0:07:13.37,0:07:16.98,English,,0,0,0,,- It is just as hard to balance on a bike with locked steering
+Dialogue: 0,0:07:13.37,0:07:16.98,Chinese,,0,0,0,,在不能转向的自行车上保持平衡
 Dialogue: 0,0:07:16.98,0:07:19.00,English,,0,0,0,,as it is to balance on a stationary bike.
-Dialogue: 0,0:07:16.98,0:07:19.00,Chinese,,0,0,0,,
+Dialogue: 0,0:07:16.98,0:07:19.00,Chinese,,0,0,0,,就跟立在静止的单车上一样难
 Dialogue: 0,0:07:19.00,0:07:21.27,English,,0,0,0,,- No, this one is impossible.
-Dialogue: 0,0:07:19.00,0:07:21.27,Chinese,,0,0,0,,
-Dialogue: 0,0:07:21.27,0:07:23.26,English,,0,0,0,,- Because you can't steer the bike
-Dialogue: 0,0:07:21.27,0:07:23.26,Chinese,,0,0,0,,
-Dialogue: 0,0:07:23.26,0:07:24.77,English,,0,0,0,,back under you.
-Dialogue: 0,0:07:23.26,0:07:24.77,Chinese,,0,0,0,,
+Dialogue: 0,0:07:19.00,0:07:21.27,Chinese,,0,0,0,,根本不可能啦
+Dialogue: 0,0:07:21.27,0:07:24.77,English,,0,0,0,,- Because you can't steer the bike back under you.
+Dialogue: 0,0:07:21.27,0:07:24.77,Chinese,,0,0,0,,因为你没法把车子的中心转到另一边
 Dialogue: 0,0:07:24.77,0:07:27.17,English,,0,0,0,,The real reason bicycles are stable without riders
-Dialogue: 0,0:07:24.77,0:07:27.17,Chinese,,0,0,0,,
+Dialogue: 0,0:07:24.77,0:07:27.17,Chinese,,0,0,0,,无人自行车能保持稳定的真正原因
 Dialogue: 0,0:07:27.17,0:07:31.42,English,,0,0,0,,is because they're cleverly designed to steer themselves.
-Dialogue: 0,0:07:27.17,0:07:31.42,Chinese,,0,0,0,,
+Dialogue: 0,0:07:27.17,0:07:31.42,Chinese,,0,0,0,,是因为其巧妙的设计  让车子能控制住自己
 Dialogue: 0,0:07:31.42,0:07:33.35,English,,0,0,0,,If they start falling to one side,
-Dialogue: 0,0:07:31.42,0:07:33.35,Chinese,,0,0,0,,
+Dialogue: 0,0:07:31.42,0:07:33.35,Chinese,,0,0,0,,如果车有迹象往某一边倒
 Dialogue: 0,0:07:33.35,0:07:35.68,English,,0,0,0,,the handlebars turn in that direction
-Dialogue: 0,0:07:33.35,0:07:35.68,Chinese,,0,0,0,,
+Dialogue: 0,0:07:33.35,0:07:35.68,Chinese,,0,0,0,,车把就会往那边转
 Dialogue: 0,0:07:35.68,0:07:38.60,English,,0,0,0,,to steer the wheels back underneath them.
-Dialogue: 0,0:07:35.68,0:07:38.60,Chinese,,0,0,0,,
+Dialogue: 0,0:07:35.68,0:07:38.60,Chinese,,0,0,0,,带着下面的轮子一起转过去
 Dialogue: 0,0:07:38.60,0:07:40.20,English,,0,0,0,,At least three mechanisms
-Dialogue: 0,0:07:38.60,0:07:40.20,Chinese,,0,0,0,,
+Dialogue: 0,0:07:38.60,0:07:40.20,Chinese,,0,0,0,,至少有三种机制
 Dialogue: 0,0:07:40.20,0:07:43.14,English,,0,0,0,,are responsible for a bike's corrective steering.
-Dialogue: 0,0:07:40.20,0:07:43.14,Chinese,,0,0,0,,
+Dialogue: 0,0:07:40.20,0:07:43.14,Chinese,,0,0,0,,共同对自行车的纠偏起作用
 Dialogue: 0,0:07:43.14,0:07:45.96,English,,0,0,0,,The first is that due to the angle of the front fork,
-Dialogue: 0,0:07:43.14,0:07:45.96,Chinese,,0,0,0,,
+Dialogue: 0,0:07:43.14,0:07:45.96,Chinese,,0,0,0,,第一点  由于前叉的这个角度
 Dialogue: 0,0:07:45.96,0:07:48.82,English,,0,0,0,,the steering axis intersects the ground
-Dialogue: 0,0:07:45.96,0:07:48.82,Chinese,,0,0,0,,
+Dialogue: 0,0:07:45.96,0:07:48.82,Chinese,,0,0,0,,转动轴与地面的交点
 Dialogue: 0,0:07:48.82,0:07:52.06,English,,0,0,0,,in front of where the wheel touches the ground.
-Dialogue: 0,0:07:48.82,0:07:52.06,Chinese,,0,0,0,,
+Dialogue: 0,0:07:48.82,0:07:52.06,Chinese,,0,0,0,,会落在轮子触地处的前方
 Dialogue: 0,0:07:52.06,0:07:54.05,English,,0,0,0,,So, if the bike starts leaning to the left,
-Dialogue: 0,0:07:52.06,0:07:54.05,Chinese,,0,0,0,,
+Dialogue: 0,0:07:52.06,0:07:54.05,Chinese,,0,0,0,,因此  当车子往左倾的时候
 Dialogue: 0,0:07:54.05,0:07:55.78,English,,0,0,0,,the force from the ground on the tire
-Dialogue: 0,0:07:54.05,0:07:55.78,Chinese,,0,0,0,,
+Dialogue: 0,0:07:54.05,0:07:55.78,Chinese,,0,0,0,,地面对轮胎的力
 Dialogue: 0,0:07:55.78,0:07:58.33,English,,0,0,0,,turns the wheel to the left.
-Dialogue: 0,0:07:55.78,0:07:58.33,Chinese,,0,0,0,,
+Dialogue: 0,0:07:55.78,0:07:58.33,Chinese,,0,0,0,,会让前轮往左转
 Dialogue: 0,0:07:58.33,0:07:59.73,English,,0,0,0,,If the bike starts leaning right,
-Dialogue: 0,0:07:58.33,0:07:59.73,Chinese,,0,0,0,,
+Dialogue: 0,0:07:58.33,0:07:59.73,Chinese,,0,0,0,,而车子右倾的时候
 Dialogue: 0,0:07:59.73,0:08:02.76,English,,0,0,0,,the force from the ground pushes the wheel to the right.
-Dialogue: 0,0:07:59.73,0:08:02.76,Chinese,,0,0,0,,
+Dialogue: 0,0:07:59.73,0:08:02.76,Chinese,,0,0,0,,地面对轮胎的力会推着前轮往右转
 Dialogue: 0,0:08:02.76,0:08:06.24,English,,0,0,0,,The front wheel of a bicycle is essentially a caster wheel,
-Dialogue: 0,0:08:02.76,0:08:06.24,Chinese,,0,0,0,,
+Dialogue: 0,0:08:02.76,0:08:06.24,Chinese,,0,0,0,,自行车的前轮属于“脚轮”
 Dialogue: 0,0:08:06.24,0:08:09.48,English,,0,0,0,,like those you find on strollers or shopping carts.
-Dialogue: 0,0:08:06.24,0:08:09.48,Chinese,,0,0,0,,
+Dialogue: 0,0:08:06.24,0:08:09.48,Chinese,,0,0,0,,类似婴儿车、购物车下面的轮子
 Dialogue: 0,0:08:09.48,0:08:10.93,English,,0,0,0,,Whichever way you drive them,
-Dialogue: 0,0:08:09.48,0:08:10.93,Chinese,,0,0,0,,
+Dialogue: 0,0:08:09.48,0:08:10.93,Chinese,,0,0,0,,不管你往哪个方向前进
 Dialogue: 0,0:08:10.93,0:08:14.74,English,,0,0,0,,the wheel falls in line and rolls in the same direction.
-Dialogue: 0,0:08:10.93,0:08:14.74,Chinese,,0,0,0,,
+Dialogue: 0,0:08:10.93,0:08:14.74,Chinese,,0,0,0,,脚轮都始终跟你的前进方向保持一致
 Dialogue: 0,0:08:14.74,0:08:17.38,English,,0,0,0,,The second reason for a bike's corrective steering
-Dialogue: 0,0:08:14.74,0:08:17.38,Chinese,,0,0,0,,
-Dialogue: 0,0:08:17.38,0:08:18.55,English,,0,0,0,,is that the center of mass
-Dialogue: 0,0:08:17.38,0:08:18.55,Chinese,,0,0,0,,
-Dialogue: 0,0:08:18.55,0:08:20.49,English,,0,0,0,,of the handlebars and front wheel
-Dialogue: 0,0:08:18.55,0:08:20.49,Chinese,,0,0,0,,
+Dialogue: 0,0:08:14.74,0:08:17.38,Chinese,,0,0,0,,自行车纠偏的第二个机制
+Dialogue: 0,0:08:17.38,0:08:20.49,English,,0,0,0,,is that the center of mass of the handlebars and front wheel
+Dialogue: 0,0:08:17.38,0:08:20.49,Chinese,,0,0,0,,是车把和前轮的质心
 Dialogue: 0,0:08:20.49,0:08:23.81,English,,0,0,0,,are located slightly in front of the steering axis.
-Dialogue: 0,0:08:20.49,0:08:23.81,Chinese,,0,0,0,,
+Dialogue: 0,0:08:20.49,0:08:23.81,Chinese,,0,0,0,,略前于转动轴
 Dialogue: 0,0:08:23.81,0:08:25.58,English,,0,0,0,,So, when the bike leans left,
-Dialogue: 0,0:08:23.81,0:08:25.58,Chinese,,0,0,0,,
+Dialogue: 0,0:08:23.81,0:08:25.58,Chinese,,0,0,0,,所以  车子左倾时
 Dialogue: 0,0:08:25.58,0:08:28.24,English,,0,0,0,,their weight pushes the front wheel to the left.
-Dialogue: 0,0:08:25.58,0:08:28.24,Chinese,,0,0,0,,
+Dialogue: 0,0:08:25.58,0:08:28.24,Chinese,,0,0,0,,车把和前轮的重量  会推着前轮往左转
 Dialogue: 0,0:08:28.24,0:08:31.20,English,,0,0,0,,If the bike leans right, their weight steers to the right.
-Dialogue: 0,0:08:28.24,0:08:31.20,Chinese,,0,0,0,,
+Dialogue: 0,0:08:28.24,0:08:31.20,Chinese,,0,0,0,,若车子右倾  则会推着往右转
 Dialogue: 0,0:08:32.31,0:08:35.22,English,,0,0,0,,And the third mechanism is a gyroscopic effect
-Dialogue: 0,0:08:32.31,0:08:35.22,Chinese,,0,0,0,,
+Dialogue: 0,0:08:32.31,0:08:35.22,Chinese,,0,0,0,,第三个机制是“陀螺仪效应”
 Dialogue: 0,0:08:35.22,0:08:38.04,English,,0,0,0,,but it doesn't keep the bike upright directly;
-Dialogue: 0,0:08:35.22,0:08:38.04,Chinese,,0,0,0,,
+Dialogue: 0,0:08:35.22,0:08:38.04,Chinese,,0,0,0,,但这不会直接对车子直立起作用
 Dialogue: 0,0:08:38.04,0:08:40.02,English,,0,0,0,,it just helps steer.
-Dialogue: 0,0:08:38.04,0:08:40.02,Chinese,,0,0,0,,
+Dialogue: 0,0:08:38.04,0:08:40.02,Chinese,,0,0,0,,这只是能辅助转向
 Dialogue: 0,0:08:40.02,0:08:41.18,English,,0,0,0,,If you have a gyroscope
-Dialogue: 0,0:08:40.02,0:08:41.18,Chinese,,0,0,0,,
+Dialogue: 0,0:08:40.02,0:08:41.18,Chinese,,0,0,0,,如果你有个陀螺仪
 Dialogue: 0,0:08:41.18,0:08:43.47,English,,0,0,0,,and you push down on the left-hand side,
-Dialogue: 0,0:08:41.18,0:08:43.47,Chinese,,0,0,0,,
+Dialogue: 0,0:08:41.18,0:08:43.47,Chinese,,0,0,0,,将其左端往下推
 Dialogue: 0,0:08:43.47,0:08:45.70,English,,0,0,0,,the gyro will turn left.
-Dialogue: 0,0:08:43.47,0:08:45.70,Chinese,,0,0,0,,
+Dialogue: 0,0:08:43.47,0:08:45.70,Chinese,,0,0,0,,陀螺仪（的前端）会往左转
 Dialogue: 0,0:08:45.70,0:08:49.40,English,,0,0,0,,If you push down on the right side, it will turn right.
-Dialogue: 0,0:08:45.70,0:08:49.40,Chinese,,0,0,0,,
+Dialogue: 0,0:08:45.70,0:08:49.40,Chinese,,0,0,0,,若从右端将其往下推 则会往右转
 Dialogue: 0,0:08:49.40,0:08:52.12,English,,0,0,0,,This is known as gyroscopic precession.
-Dialogue: 0,0:08:49.40,0:08:52.12,Chinese,,0,0,0,,
+Dialogue: 0,0:08:49.40,0:08:52.12,Chinese,,0,0,0,,这被称为陀螺仪的“进动”
 Dialogue: 0,0:08:52.12,0:08:54.17,English,,0,0,0,,It seems as though the force you apply
-Dialogue: 0,0:08:52.12,0:08:54.17,Chinese,,0,0,0,,
+Dialogue: 0,0:08:52.12,0:08:54.17,Chinese,,0,0,0,,看起来  你所施加的力
 Dialogue: 0,0:08:54.17,0:08:57.91,English,,0,0,0,,takes effect 90 degrees from where you applied it.
-Dialogue: 0,0:08:54.17,0:08:57.91,Chinese,,0,0,0,,
+Dialogue: 0,0:08:54.17,0:08:57.91,Chinese,,0,0,0,,所导致的运动  其方向与施力方向垂直
 Dialogue: 0,0:08:57.91,0:09:01.72,English,,0,0,0,,So, bikes are stable primarily because of steering.
-Dialogue: 0,0:08:57.91,0:09:01.72,Chinese,,0,0,0,,
+Dialogue: 0,0:08:57.91,0:09:01.72,Chinese,,0,0,0,,因此  自行车能稳定的主要原因是转向系统
 Dialogue: 0,0:09:01.72,0:09:05.30,English,,0,0,0,,They have built-in mechanisms for steering themselves.
-Dialogue: 0,0:09:01.72,0:09:05.30,Chinese,,0,0,0,,
+Dialogue: 0,0:09:01.72,0:09:05.30,Chinese,,0,0,0,,它们有内在的机制来自己控制转向
 Dialogue: 0,0:09:05.30,0:09:07.81,English,,0,0,0,,In fact, you don't need all three mechanisms
-Dialogue: 0,0:09:05.30,0:09:07.81,Chinese,,0,0,0,,
+Dialogue: 0,0:09:05.30,0:09:07.81,Chinese,,0,0,0,,事实上  这三种机制即使没有全部做到
 Dialogue: 0,0:09:07.81,0:09:09.69,English,,0,0,0,,to create a stable bike.
-Dialogue: 0,0:09:07.81,0:09:09.69,Chinese,,0,0,0,,
+Dialogue: 0,0:09:07.81,0:09:09.69,Chinese,,0,0,0,,依然能搞出一辆稳定的自行车
 Dialogue: 0,0:09:09.69,0:09:12.52,English,,0,0,0,,Researchers created this weird-looking bicycle
-Dialogue: 0,0:09:09.69,0:09:12.52,Chinese,,0,0,0,,
+Dialogue: 0,0:09:09.69,0:09:12.52,Chinese,,0,0,0,,研究人员造了这台古怪的两轮车
 Dialogue: 0,0:09:12.52,0:09:13.88,English,,0,0,0,,to prove a point.
-Dialogue: 0,0:09:12.52,0:09:13.88,Chinese,,0,0,0,,
+Dialogue: 0,0:09:12.52,0:09:13.88,Chinese,,0,0,0,,来证明这一点
 Dialogue: 0,0:09:13.88,0:09:15.78,English,,0,0,0,,It has no gyroscopic effect
-Dialogue: 0,0:09:13.88,0:09:15.78,Chinese,,0,0,0,,
+Dialogue: 0,0:09:13.88,0:09:15.78,Chinese,,0,0,0,,它没有陀螺仪效应
 Dialogue: 0,0:09:15.78,0:09:17.70,English,,0,0,0,,thanks to counter-rotating wheels
-Dialogue: 0,0:09:15.78,0:09:17.70,Chinese,,0,0,0,,
+Dialogue: 0,0:09:15.78,0:09:17.70,Chinese,,0,0,0,,因为有个逆向旋转的轮子
 Dialogue: 0,0:09:17.70,0:09:19.75,English,,0,0,0,,above the wheels that touch the floor.
-Dialogue: 0,0:09:17.70,0:09:19.75,Chinese,,0,0,0,,
+Dialogue: 0,0:09:17.70,0:09:19.75,Chinese,,0,0,0,,处于接触地面的轮子之上
 Dialogue: 0,0:09:19.75,0:09:22.08,English,,0,0,0,,Plus, there is no caster effect
-Dialogue: 0,0:09:19.75,0:09:22.08,Chinese,,0,0,0,,
+Dialogue: 0,0:09:19.75,0:09:22.08,Chinese,,0,0,0,,它亦无脚轮的机制
 Dialogue: 0,0:09:22.08,0:09:23.92,English,,0,0,0,,because the front wheel touches the floor
-Dialogue: 0,0:09:22.08,0:09:23.92,Chinese,,0,0,0,,
+Dialogue: 0,0:09:22.08,0:09:23.92,Chinese,,0,0,0,,因为前轮与地面的接触位置
 Dialogue: 0,0:09:23.92,0:09:26.35,English,,0,0,0,,in front of the steering axis.
-Dialogue: 0,0:09:23.92,0:09:26.35,Chinese,,0,0,0,,
+Dialogue: 0,0:09:23.92,0:09:26.35,Chinese,,0,0,0,,在转动轴的前面
 Dialogue: 0,0:09:26.35,0:09:30.08,English,,0,0,0,,But this bike is made stable by its mass distribution,
-Dialogue: 0,0:09:26.35,0:09:30.08,Chinese,,0,0,0,,
+Dialogue: 0,0:09:26.35,0:09:30.08,Chinese,,0,0,0,,但是这车子可以靠其质量分布来维持稳定
 Dialogue: 0,0:09:30.08,0:09:31.61,English,,0,0,0,,the force of gravity on which
-Dialogue: 0,0:09:30.08,0:09:31.61,Chinese,,0,0,0,,
 Dialogue: 0,0:09:31.61,0:09:34.43,English,,0,0,0,,steers it in the direction of any lean.
-Dialogue: 0,0:09:31.61,0:09:34.43,Chinese,,0,0,0,,
+Dialogue: 0,0:09:30.08,0:09:34.43,Chinese,,0,0,0,,其上的重力就会使它 转向它倾斜的方向
 Dialogue: 0,0:09:35.35,0:09:37.34,English,,0,0,0,,Understanding how bicycles work
-Dialogue: 0,0:09:35.35,0:09:37.34,Chinese,,0,0,0,,
+Dialogue: 0,0:09:35.35,0:09:37.34,Chinese,,0,0,0,,自行车维持平衡的原理
 Dialogue: 0,0:09:37.34,0:09:40.08,English,,0,0,0,,is still an active area of research.
-Dialogue: 0,0:09:37.34,0:09:40.08,Chinese,,0,0,0,,
+Dialogue: 0,0:09:37.34,0:09:40.08,Chinese,,0,0,0,,仍处于活跃的研究中
 Dialogue: 0,0:09:40.08,0:09:42.10,English,,0,0,0,,There is a program you can use to input
-Dialogue: 0,0:09:40.08,0:09:42.10,Chinese,,0,0,0,,
 Dialogue: 0,0:09:42.10,0:09:43.77,English,,0,0,0,,all the different bicycle parameters
-Dialogue: 0,0:09:42.10,0:09:43.77,Chinese,,0,0,0,,
+Dialogue: 0,0:09:40.08,0:09:43.77,Chinese,,0,0,0,,这个程序可以输入自行车的各式参数
 Dialogue: 0,0:09:43.77,0:09:47.65,English,,0,0,0,,and see the range of speeds over which it is self-stable.
-Dialogue: 0,0:09:43.77,0:09:47.65,Chinese,,0,0,0,,
-Dialogue: 0,0:09:47.65,0:09:50.58,English,,0,0,0,,And this research is leading to better bikes.
-Dialogue: 0,0:09:47.65,0:09:50.58,Chinese,,0,0,0,,
-Dialogue: 0,0:09:50.58,0:09:53.30,English,,0,0,0,,This prototype has a smart motor in the handlebars
-Dialogue: 0,0:09:50.58,0:09:53.30,Chinese,,0,0,0,,
-Dialogue: 0,0:09:53.30,0:09:55.30,English,,0,0,0,,to actively help steer,
-Dialogue: 0,0:09:53.30,0:09:55.30,Chinese,,0,0,0,,
-Dialogue: 0,0:09:55.30,0:09:58.55,English,,0,0,0,,keeping the bike upright even at low speeds.
-Dialogue: 0,0:09:55.30,0:09:58.55,Chinese,,0,0,0,,
-Dialogue: 0,0:09:58.55,0:10:00.65,English,,0,0,0,,I guess it's fitting that we are still
-Dialogue: 0,0:09:58.55,0:10:00.65,Chinese,,0,0,0,,
-Dialogue: 0,0:10:00.65,0:10:02.63,English,,0,0,0,,learning new things about bicycles
-Dialogue: 0,0:10:00.65,0:10:02.63,Chinese,,0,0,0,,
+Dialogue: 0,0:09:43.77,0:09:47.65,Chinese,,0,0,0,,来模拟自行车在何种速度下能自己保持稳定
+Dialogue: 0,0:09:47.65,0:09:50.58,English,,0,0,0,,{\an8}And this research is leading to better bikes.
+Dialogue: 0,0:09:47.65,0:09:50.58,Chinese,,0,0,0,,{\an8}另一项研究旨在设计更优的自行车
+Dialogue: 0,0:09:48.93,0:09:53.10,Chinese,,0,0,0,,为了让骑行更安全  代尔夫特理工大学\N与自行车制造商  荷兰皇家自行车展开合作
+Dialogue: 0,0:09:53.26,0:09:56.78,Chinese,,0,0,0,,开发了一台可以智能辅助转向的原型自行车
+Dialogue: 0,0:09:50.58,0:09:53.30,English,,0,0,0,,{\an8}This prototype has a smart motor in the handlebars
+Dialogue: 0,0:09:50.58,0:09:53.30,Chinese,,0,0,0,,{\an8}这个原型车  在车把手下面有个智能马达
+Dialogue: 0,0:09:53.30,0:09:55.30,English,,0,0,0,,{\an8}to actively help steer,
+Dialogue: 0,0:09:53.30,0:09:55.30,Chinese,,0,0,0,,{\an8}来主动帮助转向
+Dialogue: 0,0:09:55.30,0:09:58.00,English,,0,0,0,,{\an8}keeping the bike upright even at low speeds.
+Dialogue: 0,0:09:55.30,0:09:58.00,Chinese,,0,0,0,,{\an8}让车子即使走得很慢  依然能保持直立
+Dialogue: 0,0:09:56.90,0:09:58.00,Chinese,,0,0,0,,未来  这种电单车应能帮助减少事故
+Dialogue: 0,0:09:58.44,0:09:59.95,English,,0,0,0,,I guess it's fitting that
+Dialogue: 0,0:09:58.44,0:09:59.95,Chinese,,0,0,0,,可以说
+Dialogue: 0,0:09:59.95,0:10:02.63,English,,0,0,0,,we are still learning new things about bicycles
+Dialogue: 0,0:09:59.95,0:10:02.63,Chinese,,0,0,0,,自行车还有很多奥秘等待我们去研究
 Dialogue: 0,0:10:02.63,0:10:04.76,English,,0,0,0,,since most of us are able to ride one
-Dialogue: 0,0:10:02.63,0:10:04.76,Chinese,,0,0,0,,
+Dialogue: 0,0:10:02.63,0:10:04.76,Chinese,,0,0,0,,大多数人尽管会骑车
 Dialogue: 0,0:10:04.76,0:10:08.93,English,,0,0,0,,without any knowledge of how we're actually doing it.
-Dialogue: 0,0:10:04.76,0:10:08.93,Chinese,,0,0,0,,
+Dialogue: 0,0:10:04.76,0:10:08.93,Chinese,,0,0,0,,却完全不知道  自己为何能稳定地骑行
