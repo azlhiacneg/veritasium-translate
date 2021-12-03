@@ -288,19 +288,19 @@ Dialogue: 0,0:05:06.69,0:05:09.06,Chinese,,0,0,0,,因而没有陀螺仪效应
 Dialogue: 0,0:05:09.06,0:05:10.89,English,,0,0,0,,but that's not it.
 Dialogue: 0,0:05:09.06,0:05:10.89,Chinese,,0,0,0,,事实并非如此
 Dialogue: 0,0:05:10.89,0:05:12.76,English,,0,0,0,,The truth is you use steering
-Dialogue: 0,0:05:10.89,0:05:12.76,Chinese,,0,0,0,,真相是  你在用转向装置
+Dialogue: 0,0:05:10.89,0:05:12.76,Chinese,,0,0,0,,实际上  你是在用转向装置
 Dialogue: 0,0:05:12.76,0:05:14.83,English,,0,0,0,,to keep the bike underneath you
 Dialogue: 0,0:05:12.76,0:05:14.83,Chinese,,0,0,0,,来稳住胯下的自行车
 Dialogue: 0,0:05:14.83,0:05:17.82,English,,0,0,0,,but steering doesn't work when you're stationary.
-Dialogue: 0,0:05:14.83,0:05:17.82,Chinese,,0,0,0,,但在车子静止时  转向装置没法起稳定作用
+Dialogue: 0,0:05:14.83,0:05:17.82,Chinese,,0,0,0,,但转向装置在车子静止时  无法起稳定作用
 Dialogue: 0,0:05:17.82,0:05:19.14,English,,0,0,0,,Your balance comes not so much
-Dialogue: 0,0:05:17.82,0:05:19.14,Chinese,,0,0,0,,维持平衡的主要来源
+Dialogue: 0,0:05:17.82,0:05:19.14,Chinese,,0,0,0,,自行车保持平衡的关键
 Dialogue: 0,0:05:19.14,0:05:21.61,English,,0,0,0,,from how you position your body over the bike,
 Dialogue: 0,0:05:19.14,0:05:21.61,Chinese,,0,0,0,,不是你怎样把身体在自行车上面稳住
 Dialogue: 0,0:05:21.61,0:05:25.27,English,,0,0,0,,but by how you steer the bike to keep it underneath you.
 Dialogue: 0,0:05:21.61,0:05:25.27,Chinese,,0,0,0,,而是你怎样控制自行车  让它一直在你的下方
 Dialogue: 0,0:05:25.27,0:05:26.62,English,,0,0,0,,Even when going straight,
-Dialogue: 0,0:05:25.27,0:05:26.62,Chinese,,0,0,0,,即使是骑自行车走直线
+Dialogue: 0,0:05:25.27,0:05:26.62,Chinese,,0,0,0,,即使是向前直线行驶
 Dialogue: 0,0:05:26.62,0:05:29.33,English,,0,0,0,,you're constantly making small steering adjustments
 Dialogue: 0,0:05:26.62,0:05:29.33,Chinese,,0,0,0,,你也在不断对车头方向  进行微小的调整
 Dialogue: 0,0:05:29.33,0:05:31.20,English,,0,0,0,,to maintain balance.
@@ -330,7 +330,7 @@ Dialogue: 0,0:05:56.65,0:05:58.75,English,,0,0,0,,You should definitely check th
 Dialogue: 0,0:05:56.65,0:05:58.75,Chinese,,0,0,0,,你值得去看看
 Dialogue: 0,0:05:52.56,0:05:58.75,Chinese,,0,0,0,,{\an7\fs36}【分钟物理】自行车是怎么保持平衡的[中英字幕] \N靛蓝字幕组\NBV13s411m7C6
 Dialogue: 0,0:05:58.75,0:06:00.21,English,,0,0,0,,But it turned out the ground where we went to test this effect
-Dialogue: 0,0:05:58.75,0:06:00.21,Chinese,,0,0,0,,我们用来测试这个效应的场地
+Dialogue: 0,0:05:58.75,0:06:00.21,Chinese,,0,0,0,,但是  我们测试这个效应的场地
 Dialogue: 0,0:06:00.21,0:06:03.60,English,,0,0,0,,was really bumpy,
 Dialogue: 0,0:06:00.21,0:06:03.60,Chinese,,0,0,0,,实在是太颠簸了
 Dialogue: 0,0:06:03.60,0:06:06.94,English,,0,0,0,,but the bike still manages to absorb all these perturbations
@@ -356,7 +356,7 @@ Dialogue: 0,0:06:25.34,0:06:28.32,Chinese,,0,0,0,,但这并非自行车能稳定
 Dialogue: 0,0:06:28.32,0:06:29.29,English,,0,0,0,,Just watch what happens
 Dialogue: 0,0:06:28.32,0:06:29.29,Chinese,,0,0,0,,请看下例
 Dialogue: 0,0:06:29.29,0:06:31.39,English,,0,0,0,,when we lock the handlebars completely
-Dialogue: 0,0:06:29.29,0:06:31.39,Chinese,,0,0,0,,如果我们完全锁死车头方向
+Dialogue: 0,0:06:29.29,0:06:31.39,Chinese,,0,0,0,,当车头方向完全锁死的时候
 Dialogue: 0,0:06:31.39,0:06:33.43,English,,0,0,0,,so you can only go straight ahead.
 Dialogue: 0,0:06:31.39,0:06:33.43,Chinese,,0,0,0,,你只能笔直地往前走
 Dialogue: 0,0:06:33.43,0:06:34.88,English,,0,0,0,,- Locked out, locked out.
@@ -392,7 +392,7 @@ Dialogue: 0,0:07:13.37,0:07:16.98,Chinese,,0,0,0,,在不能转向的自行车上
 Dialogue: 0,0:07:16.98,0:07:19.00,English,,0,0,0,,as it is to balance on a stationary bike.
 Dialogue: 0,0:07:16.98,0:07:19.00,Chinese,,0,0,0,,就跟立在静止的单车上一样难
 Dialogue: 0,0:07:19.00,0:07:21.27,English,,0,0,0,,- No, this one is impossible.
-Dialogue: 0,0:07:19.00,0:07:21.27,Chinese,,0,0,0,,ありえない
+Dialogue: 0,0:07:19.00,0:07:21.27,Chinese,,0,0,0,,根本不可能啦
 Dialogue: 0,0:07:21.27,0:07:24.77,English,,0,0,0,,- Because you can't steer the bike back under you.
 Dialogue: 0,0:07:21.27,0:07:24.77,Chinese,,0,0,0,,因为你没法把车子的中心转到另一边
 Dialogue: 0,0:07:24.77,0:07:27.17,English,,0,0,0,,The real reason bicycles are stable without riders
@@ -492,9 +492,8 @@ Dialogue: 0,0:09:23.92,0:09:26.35,Chinese,,0,0,0,,在转动轴的前面
 Dialogue: 0,0:09:26.35,0:09:30.08,English,,0,0,0,,But this bike is made stable by its mass distribution,
 Dialogue: 0,0:09:26.35,0:09:30.08,Chinese,,0,0,0,,但是这车子可以靠其质量分布来维持稳定
 Dialogue: 0,0:09:30.08,0:09:31.61,English,,0,0,0,,the force of gravity on which
-Dialogue: 0,0:09:30.08,0:09:31.61,Chinese,,0,0,0,,它往哪边倾斜
 Dialogue: 0,0:09:31.61,0:09:34.43,English,,0,0,0,,steers it in the direction of any lean.
-Dialogue: 0,0:09:31.61,0:09:34.43,Chinese,,0,0,0,,其上的重力就会使它往那边转向
+Dialogue: 0,0:09:30.08,0:09:34.43,Chinese,,0,0,0,,其上的重力就会使它 转向它倾斜的方向
 Dialogue: 0,0:09:35.35,0:09:37.34,English,,0,0,0,,Understanding how bicycles work
 Dialogue: 0,0:09:35.35,0:09:37.34,Chinese,,0,0,0,,自行车维持平衡的原理
 Dialogue: 0,0:09:37.34,0:09:40.08,English,,0,0,0,,is still an active area of research.
