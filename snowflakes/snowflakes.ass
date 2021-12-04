@@ -268,9 +268,9 @@ Dialogue: 0,0:05:48.80,0:05:52.46,Chinese,,0,0,0,,
 Dialogue: 0,0:05:52.46,0:05:54.95,English,,0,0,0,,and I found 108 was too many.
 Dialogue: 0,0:05:52.46,0:05:54.95,Chinese,,0,0,0,,
 Dialogue: 0,0:05:57.50,0:06:01.44,English,,0,0,0,,- [Derek] How does simple ice create so many distinct forms?
-Dialogue: 0,0:05:57.50,0:06:01.44,Chinese,,0,0,0,,组成简单的冰是如何创造出这般参差多态的呢
+Dialogue: 0,0:05:57.50,0:06:01.44,Chinese,,0,0,0,,平平无奇的冰为何能产生变化万千的形态呢
 Dialogue: 0,0:06:04.51,0:06:07.67,English,,0,0,0,,All snowflakes form in much the same way.
-Dialogue: 0,0:06:04.51,0:06:07.67,Chinese,,0,0,0,,各种雪花生成的方式大体相同
+Dialogue: 0,0:06:04.51,0:06:07.67,Chinese,,0,0,0,,各种雪花生成的方式基本相同
 Dialogue: 0,0:06:07.67,0:06:10.03,English,,0,0,0,,Water evaporates into water vapor,
 Dialogue: 0,0:06:07.67,0:06:10.03,Chinese,,0,0,0,,水蒸发形成水蒸气
 Dialogue: 0,0:06:10.03,0:06:13.04,English,,0,0,0,,individual molecules bouncing around in the atmosphere,
@@ -288,35 +288,33 @@ Dialogue: 0,0:06:23.64,0:06:26.24,Chinese,,0,0,0,,水分子在尘埃颗粒上凝
 Dialogue: 0,0:06:26.24,0:06:28.26,English,,0,0,0,,to form tiny droplets.
 Dialogue: 0,0:06:26.24,0:06:28.26,Chinese,,0,0,0,,产生微小的水滴
 Dialogue: 0,0:06:28.26,0:06:30.85,English,,0,0,0,,And although the temperature may be below freezing,
-Dialogue: 0,0:06:28.26,0:06:30.85,Chinese,,0,0,0,,尽管环境温度可能低于水的熔点
+Dialogue: 0,0:06:28.26,0:06:30.85,Chinese,,0,0,0,,尽管环境温度可能低于水的凝固点
 Dialogue: 0,0:06:30.85,0:06:33.83,English,,0,0,0,,the droplets don't immediately freeze,
 Dialogue: 0,0:06:30.85,0:06:33.83,Chinese,,0,0,0,,这些水滴不会立即冻结
 Dialogue: 0,0:06:33.83,0:06:37.90,English,,0,0,0,,but at some point, one droplet will freeze.
-Dialogue: 0,0:06:33.83,0:06:37.90,Chinese,,0,0,0,,但是在某个位置 一滴水可能会冷凝
+Dialogue: 0,0:06:33.83,0:06:37.90,Chinese,,0,0,0,,但是在某个位置  一滴水可能会冷凝
 Dialogue: 0,0:06:37.90,0:06:41.38,English,,0,0,0,,Inside, the water molecules lock into place,
-Dialogue: 0,0:06:37.90,0:06:41.38,Chinese,,0,0,0,,微观上 其中的水分子被固定在位置上
+Dialogue: 0,0:06:37.90,0:06:41.38,Chinese,,0,0,0,,微观上  其中的水分子被固定在位置上
 Dialogue: 0,0:06:41.38,0:06:44.46,English,,0,0,0,,forming a hexagonal crystal.
 Dialogue: 0,0:06:41.38,0:06:44.46,Chinese,,0,0,0,,形成一个六方晶体
-Dialogue: 0,0:06:44.46,0:06:47.27,English,,0,0,0,,This structure results from the peculiarities
-Dialogue: 0,0:06:44.46,0:06:47.27,Chinese,,0,0,0,,这种结构源自水分子的特性
-Dialogue: 0,0:06:47.27,0:06:48.58,English,,0,0,0,,of water molecules.
-Dialogue: 0,0:06:47.27,0:06:48.58,Chinese,,0,0,0,,这种结构源自水分子的特性
+Dialogue: 0,0:06:44.46,0:06:48.58,English,,0,0,0,,This structure results from the peculiarities of water molecules.
+Dialogue: 0,0:06:44.46,0:06:48.58,Chinese,,0,0,0,,这种结构源自水分子的特性
 Dialogue: 0,0:06:48.58,0:06:51.95,English,,0,0,0,,Oxygen atoms attract electrons more than hydrogen.
-Dialogue: 0,0:06:48.58,0:06:51.95,Chinese,,0,0,0,,氧原子吸引电子的能力强于氢原子
+Dialogue: 0,0:06:48.58,0:06:51.95,Chinese,,0,0,0,,氧原子吸引电子的能力比氢原子强
 Dialogue: 0,0:06:51.95,0:06:54.47,English,,0,0,0,,And since the molecule has a bent shape,
-Dialogue: 0,0:06:51.95,0:06:54.47,Chinese,,0,0,0,,同时水分子本身具有弯折的形状
+Dialogue: 0,0:06:51.95,0:06:54.47,Chinese,,0,0,0,,又因为水分子本身成V形
 Dialogue: 0,0:06:54.47,0:06:57.60,English,,0,0,0,,it's polar with oxygen being slightly negative,
-Dialogue: 0,0:06:54.47,0:06:57.60,Chinese,,0,0,0,,在氧原子一端 分子极化而略带负电
+Dialogue: 0,0:06:54.47,0:06:57.60,Chinese,,0,0,0,,所以会极化  在氧原子一端略带负电
 Dialogue: 0,0:06:57.60,0:07:00.22,English,,0,0,0,,and the hydrogens, slightly positive.
 Dialogue: 0,0:06:57.60,0:07:00.22,Chinese,,0,0,0,,氢原子一端则略带正电
 Dialogue: 0,0:07:00.22,0:07:04.03,English,,0,0,0,,Since unlike charges attract, hydrogen from one molecule
-Dialogue: 0,0:07:00.22,0:07:04.03,Chinese,,0,0,0,,由于异号电荷相吸引 一个水分子中的氢原子
+Dialogue: 0,0:07:00.22,0:07:04.03,Chinese,,0,0,0,,由于异号电荷相吸引  一个水分子中的氢原子
 Dialogue: 0,0:07:04.03,0:07:07.00,English,,0,0,0,,will sit next to an oxygen from another molecule,
 Dialogue: 0,0:07:04.03,0:07:07.00,Chinese,,0,0,0,,会靠近另一个水分子中的氧原子
 Dialogue: 0,0:07:07.00,0:07:09.77,English,,0,0,0,,forming a so-called hydrogen bond,
 Dialogue: 0,0:07:07.00,0:07:09.77,Chinese,,0,0,0,,产生所谓的氢键
 Dialogue: 0,0:07:09.77,0:07:13.33,English,,0,0,0,,and this is what creates the hexagonal molecular lattice.
-Dialogue: 0,0:07:09.77,0:07:13.33,Chinese,,0,0,0,,正是这种相互作用产生了分子的六边形点阵
+Dialogue: 0,0:07:09.77,0:07:13.33,Chinese,,0,0,0,,正是这种相互作用  让分子形成了六边形的晶格
 Dialogue: 0,0:07:14.40,0:07:16.50,English,,0,0,0,,But how does this microscopic lattice
 Dialogue: 0,0:07:14.40,0:07:16.50,Chinese,,0,0,0,,但是这样的微观晶格
 Dialogue: 0,0:07:16.50,0:07:20.15,English,,0,0,0,,grow into a hexagonal crystal that we can see?
@@ -326,18 +324,19 @@ Dialogue: 0,0:07:21.27,0:07:23.46,Chinese,,0,0,0,,假定起初有一小块冰晶
 Dialogue: 0,0:07:23.46,0:07:26.63,English,,0,0,0,,and these little guys are meant to be water molecules.
 Dialogue: 0,0:07:23.46,0:07:26.63,Chinese,,0,0,0,,这些小家伙就代表水分子
 Dialogue: 0,0:07:26.63,0:07:29.37,English,,0,0,0,,And what happens is there are these flat surfaces,
-Dialogue: 0,0:07:26.63,0:07:29.37,Chinese,,0,0,0,,这里发生的事情是 在这些平坦界面
 Dialogue: 0,0:07:29.37,0:07:30.76,English,,0,0,0,,which are the facet surfaces,
-Dialogue: 0,0:07:29.37,0:07:30.76,Chinese,,0,0,0,,也即侧边的小平面上
+Dialogue: 0,0:07:26.63,0:07:30.76,Chinese,,0,0,0,,现在  看这些平坦的界面（即晶体的刻面）
 Dialogue: 0,0:07:30.76,0:07:34.56,English,,0,0,0,,and at a molecular scale, they're very smooth and flat.
-Dialogue: 0,0:07:30.76,0:07:34.56,Chinese,,0,0,0,,在分子尺度上 它们非常光滑
+Dialogue: 0,0:07:30.76,0:07:34.56,Chinese,,0,0,0,,在分子尺度上  它们非常光滑、平整
 Dialogue: 0,0:07:34.56,0:07:36.68,English,,0,0,0,,And so when a molecule hits,
-Dialogue: 0,0:07:34.56,0:07:36.68,Chinese,,0,0,0,,所以当有分子撞击
+Dialogue: 0,0:07:34.56,0:07:36.68,Chinese,,0,0,0,,当一个分子撞上去
 Dialogue: 0,0:07:36.68,0:07:39.73,English,,0,0,0,,a water vapor molecule hits that smooth and flat surface,
-Dialogue: 0,0:07:36.68,0:07:39.73,Chinese,,0,0,0,,当水蒸气分子撞击这个平整而光滑的界面时
-Dialogue: 0,0:07:39.73,0:07:43.07,English,,0,0,0,,it tends to bounce off, whereas here, it's rough.
-Dialogue: 0,0:07:39.73,0:07:43.07,Chinese,,0,0,0,,它会被反弹 而在此处 这些地方较为粗糙
-Dialogue: 0,0:07:43.07,0:07:45.77,English,,0,0,0,,There are a lot of dangling molecular bonds over here.
+Dialogue: 0,0:07:36.68,0:07:39.73,Chinese,,0,0,0,,一个水蒸气分子  撞击这个平整而光滑的界面时
+Dialogue: 0,0:07:39.73,0:07:41.00,English,,0,0,0,,it tends to bounce off.
+Dialogue: 0,0:07:39.73,0:07:41.00,English,,0,0,0,,它会被反弹
+Dialogue: 0,0:07:41.00,0:07:43.07,English,,0,0,0,,Whereas here, it's rough,
+Dialogue: 0,0:07:41.00,0:07:43.07,Chinese,,0,0,0,,而这些地方较为粗糙
+Dialogue: 0,0:07:43.07,0:07:45.77,English,,0,0,0,,there are a lot of dangling molecular bonds over here.
 Dialogue: 0,0:07:43.07,0:07:45.77,Chinese,,0,0,0,,所以会有很多自由分子在那里成键
 Dialogue: 0,0:07:45.77,0:07:46.71,English,,0,0,0,,That's a rough surface.
 Dialogue: 0,0:07:45.77,0:07:46.71,Chinese,,0,0,0,,这是个粗糙的界面
@@ -350,49 +349,49 @@ Dialogue: 0,0:07:51.96,0:07:54.38,Chinese,,0,0,0,,但分子固定在这里的概
 Dialogue: 0,0:07:54.38,0:07:56.14,English,,0,0,0,,and low that they stick here.
 Dialogue: 0,0:07:54.38,0:07:56.14,Chinese,,0,0,0,,而固定在这里的概率较低
 Dialogue: 0,0:07:56.14,0:07:58.77,English,,0,0,0,,So if you take any shape, and you just let it grow
-Dialogue: 0,0:07:56.14,0:07:58.77,Chinese,,0,0,0,,所以如果你取任何形状的冰晶 任其生长
+Dialogue: 0,0:07:56.14,0:07:58.77,Chinese,,0,0,0,,所以  如果随便选一种形状的冰晶  任其生长
 Dialogue: 0,0:07:58.77,0:08:02.09,English,,0,0,0,,for a little while, the rough areas fill in,
-Dialogue: 0,0:07:58.77,0:08:02.09,Chinese,,0,0,0,,只要一小会儿 这些崎岖的位置就会被填满
+Dialogue: 0,0:07:58.77,0:08:02.09,Chinese,,0,0,0,,只要一小会儿  这些崎岖的位置就会被填满
 Dialogue: 0,0:08:02.09,0:08:04.55,English,,0,0,0,,and the flat areas don't grow very fast,
 Dialogue: 0,0:08:02.09,0:08:04.55,Chinese,,0,0,0,,而平坦的位置不会生长太快
 Dialogue: 0,0:08:04.55,0:08:06.42,English,,0,0,0,,and you end up with a faceted shape.
 Dialogue: 0,0:08:04.55,0:08:06.42,Chinese,,0,0,0,,这样最终就得到了一个多面体的形状
 Dialogue: 0,0:08:07.58,0:08:10.09,English,,0,0,0,,- [Derek] And that's how we get from the quantum mechanics
-Dialogue: 0,0:08:07.58,0:08:10.09,Chinese,,0,0,0,,这就是我们如何从描述水分子的量子力学
+Dialogue: 0,0:08:07.58,0:08:10.09,Chinese,,0,0,0,,我们根据量子力学推演出了
 Dialogue: 0,0:08:10.09,0:08:15.09,English,,0,0,0,,that governs a water molecule, to a hexagonal prism of ice.
-Dialogue: 0,0:08:10.09,0:08:15.09,Chinese,,0,0,0,,得到冰的六棱形状的
+Dialogue: 0,0:08:10.09,0:08:15.09,Chinese,,0,0,0,,一个水分子如何变为六棱柱形状的冰
 Dialogue: 0,0:08:15.24,0:08:20.08,English,,0,0,0,,This prism has two basal facets and six prism facets,
-Dialogue: 0,0:08:15.24,0:08:20.08,Chinese,,0,0,0,,六棱晶体有两个底面和六个侧面
+Dialogue: 0,0:08:15.24,0:08:20.08,Chinese,,0,0,0,,六棱柱有两个底面和六个侧面
 Dialogue: 0,0:08:20.08,0:08:21.73,English,,0,0,0,,which is important.
 Dialogue: 0,0:08:20.08,0:08:21.73,Chinese,,0,0,0,,这很重要
 Dialogue: 0,0:08:21.73,0:08:24.96,English,,0,0,0,,If the basal facets grow fast, you get a column.
-Dialogue: 0,0:08:21.73,0:08:24.96,Chinese,,0,0,0,,如果侧面生长更快
+Dialogue: 0,0:08:21.73,0:08:24.96,Chinese,,0,0,0,,如果底面长得快  就会得到柱状的雪花
 Dialogue: 0,0:08:24.96,0:08:28.93,English,,0,0,0,,If the prism facets grow faster, you get a flat snowflake.
-Dialogue: 0,0:08:24.96,0:08:28.93,Chinese,,0,0,0,,你将得到片状的雪花
+Dialogue: 0,0:08:24.96,0:08:28.93,Chinese,,0,0,0,,如果棱柱的侧面生长更快  则会得到片状的雪花
 Dialogue: 0,0:08:30.06,0:08:31.93,English,,0,0,0,,Once there is a seed crystal,
 Dialogue: 0,0:08:30.06,0:08:31.93,Chinese,,0,0,0,,一旦某处有一个晶种
 Dialogue: 0,0:08:31.93,0:08:34.43,English,,0,0,0,,nearby water droplets evaporate
 Dialogue: 0,0:08:31.93,0:08:34.43,Chinese,,0,0,0,,附近的液滴将蒸发产生水蒸气分子
 Dialogue: 0,0:08:34.43,0:08:38.77,English,,0,0,0,,and deposit water molecules onto the growing snowflake.
 Dialogue: 0,0:08:34.43,0:08:38.77,Chinese,,0,0,0,,这些分子会再度凝结在生长中的雪花上
-Dialogue: 0,0:08:38.77,0:08:42.27,English,,0,0,0,,Since the corners of the hexagonal prism stick out farther
-Dialogue: 0,0:08:38.77,0:08:42.27,Chinese,,0,0,0,,由于六方晶体的棱角与潮湿空气接触更充分
-Dialogue: 0,0:08:42.27,0:08:45.31,English,,0,0,0,,into humid air, they grow faster,
-Dialogue: 0,0:08:42.27,0:08:45.31,Chinese,,0,0,0,,它们生长得更快
+Dialogue: 0,0:08:38.77,0:08:43.77,English,,0,0,0,,Since the corners of the hexagonal prism stick out farther into humid air,
+Dialogue: 0,0:08:38.77,0:08:43.77,Chinese,,0,0,0,,由于六方晶体的棱角与潮湿空气接触更充分
+Dialogue: 0,0:08:43.77,0:08:45.31,English,,0,0,0,,they grow faster,
+Dialogue: 0,0:08:43.77,0:08:45.31,Chinese,,0,0,0,,它们生长得更快
 Dialogue: 0,0:08:45.31,0:08:48.31,English,,0,0,0,,and now they extend even farther,
 Dialogue: 0,0:08:45.31,0:08:48.31,Chinese,,0,0,0,,现在它们以伸展到更远处
 Dialogue: 0,0:08:48.31,0:08:52.27,English,,0,0,0,,so they grow even faster in a positive feedback loop.
 Dialogue: 0,0:08:48.31,0:08:52.27,Chinese,,0,0,0,,这种正反馈机制使得它们生长得更快
 Dialogue: 0,0:08:52.27,0:08:55.99,English,,0,0,0,,This gives rise to six radial branches.
-Dialogue: 0,0:08:52.27,0:08:55.99,Chinese,,0,0,0,,由此就产生了六簇径向的分支
+Dialogue: 0,0:08:52.27,0:08:55.99,Chinese,,0,0,0,,由此就产生了辐射状的六簇分支
 Dialogue: 0,0:08:55.99,0:08:58.31,English,,0,0,0,,At the corners of these branches,
 Dialogue: 0,0:08:55.99,0:08:58.31,Chinese,,0,0,0,,在这些分支的棱角上
 Dialogue: 0,0:08:58.31,0:09:01.60,English,,0,0,0,,additional branches can form for the same reason.
-Dialogue: 0,0:08:58.31,0:09:01.60,Chinese,,0,0,0,,新的分支也会基于相同的理由生成
-Dialogue: 0,0:09:01.60,0:09:04.12,English,,0,0,0,,Around a hundred thousand droplets
-Dialogue: 0,0:09:01.60,0:09:04.12,Chinese,,0,0,0,,由此产生的一片雪花
-Dialogue: 0,0:09:04.12,0:09:07.05,English,,0,0,0,,are required to make a single snowflake,
-Dialogue: 0,0:09:04.12,0:09:07.05,Chinese,,0,0,0,,需要大约十万滴水
+Dialogue: 0,0:08:58.31,0:09:01.60,Chinese,,0,0,0,,新的分支也会基于相同的原理生成
+Dialogue: 0,0:09:01.60,0:09:05.12,English,,0,0,0,,Around a hundred thousand droplets are required
+Dialogue: 0,0:09:01.60,0:09:05.12,Chinese,,0,0,0,,大约需要十万滴水
+Dialogue: 0,0:09:05.12,0:09:07.05,English,,0,0,0,,to make a single snowflake,
+Dialogue: 0,0:09:05.12,0:09:07.05,Chinese,,0,0,0,,才能产生一片雪花
 Dialogue: 0,0:09:07.05,0:09:10.45,English,,0,0,0,,and the process usually takes 30 to 45 minutes.
 Dialogue: 0,0:09:07.05,0:09:10.45,Chinese,,0,0,0,,整个过程会经过大约 30 到 45 分钟
 Dialogue: 0,0:09:11.93,0:09:14.17,English,,0,0,0,,In the 1930s, Ukichiro Nakaya
