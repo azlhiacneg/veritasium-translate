@@ -14,125 +14,125 @@ Style: CHN,MonyharOS Sans SC Medium,41,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:02.32,English,,0,0,0,,- [Ken] Now, I'm gonna turn on 2000 volts.
-Dialogue: 0,0:00:00.00,0:00:02.32,Chinese,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:02.32,Chinese,,0,0,0,,-「Ken」现在我要接通2000伏的电压
 Dialogue: 0,0:00:02.32,0:00:03.15,English,,0,0,0,,- [Derek] What?
-Dialogue: 0,0:00:02.32,0:00:03.15,Chinese,,0,0,0,,
+Dialogue: 0,0:00:02.32,0:00:03.15,Chinese,,0,0,0,,-「Derek」你说什么
 Dialogue: 0,0:00:03.15,0:00:04.75,English,,0,0,0,,And this is the first step
-Dialogue: 0,0:00:03.15,0:00:04.75,Chinese,,0,0,0,,
+Dialogue: 0,0:00:03.15,0:00:04.75,Chinese,,0,0,0,,这是在实验室里
 Dialogue: 0,0:00:04.75,0:00:06.98,English,,0,0,0,,in creating snowflakes in the lab.
-Dialogue: 0,0:00:04.75,0:00:06.98,Chinese,,0,0,0,,
+Dialogue: 0,0:00:04.75,0:00:06.98,Chinese,,0,0,0,,制作雪花的第一步
 Dialogue: 0,0:00:06.98,0:00:08.61,English,,0,0,0,,This is totally wild.
-Dialogue: 0,0:00:06.98,0:00:08.61,Chinese,,0,0,0,,
+Dialogue: 0,0:00:06.98,0:00:08.61,Chinese,,0,0,0,,这太疯狂了
 Dialogue: 0,0:00:08.61,0:00:09.90,English,,0,0,0,,What? - Crazy, huh?
-Dialogue: 0,0:00:08.61,0:00:09.90,Chinese,,0,0,0,,
+Dialogue: 0,0:00:08.61,0:00:09.90,Chinese,,0,0,0,,天呐  -很疯狂 不是吗
 Dialogue: 0,0:00:09.90,0:00:11.34,English,,0,0,0,,The tips of those needles are
-Dialogue: 0,0:00:09.90,0:00:11.34,Chinese,,0,0,0,,
+Dialogue: 0,0:00:09.90,0:00:11.34,Chinese,,0,0,0,,那些针尖的直径
 Dialogue: 0,0:00:11.34,0:00:13.53,English,,0,0,0,,like a hundred nanometers in diameter.
-Dialogue: 0,0:00:11.34,0:00:13.53,Chinese,,0,0,0,,
+Dialogue: 0,0:00:11.34,0:00:13.53,Chinese,,0,0,0,,大概有一百纳米
 Dialogue: 0,0:00:13.53,0:00:15.76,English,,0,0,0,,- [Derek] That is so wild.
-Dialogue: 0,0:00:13.53,0:00:15.76,Chinese,,0,0,0,,
+Dialogue: 0,0:00:13.53,0:00:15.76,Chinese,,0,0,0,,-「Derek」那太疯狂了
 Dialogue: 0,0:00:15.76,0:00:19.00,English,,0,0,0,,Dr. Ken Libbrecht is the snowflake guy.
-Dialogue: 0,0:00:15.76,0:00:19.00,Chinese,,0,0,0,,
+Dialogue: 0,0:00:15.76,0:00:19.00,Chinese,,0,0,0,,Ken Libbrecht博士是一位雪花狂人
 Dialogue: 0,0:00:19.00,0:00:21.93,English,,0,0,0,,- I was the snowflake consultant for the movie, "Frozen."
-Dialogue: 0,0:00:19.00,0:00:21.93,Chinese,,0,0,0,,
+Dialogue: 0,0:00:19.00,0:00:21.93,Chinese,,0,0,0,,-我曾担任电影「冰雪奇缘」的雪花顾问
 Dialogue: 0,0:00:21.93,0:00:25.55,English,,0,0,0,,It's okay to conjure snowflakes out of your fingertips,
-Dialogue: 0,0:00:21.93,0:00:25.55,Chinese,,0,0,0,,
+Dialogue: 0,0:00:21.93,0:00:25.55,Chinese,,0,0,0,,生成雪花的指尖魔法是存在的
 Dialogue: 0,0:00:25.55,0:00:27.42,English,,0,0,0,,but they have to be real snowflakes,
-Dialogue: 0,0:00:25.55,0:00:27.42,Chinese,,0,0,0,,
+Dialogue: 0,0:00:25.55,0:00:27.42,Chinese,,0,0,0,,但也必须得是真正的雪花
 Dialogue: 0,0:00:27.42,0:00:28.85,English,,0,0,0,,or people aren't buying it.
-Dialogue: 0,0:00:27.42,0:00:28.85,Chinese,,0,0,0,,
+Dialogue: 0,0:00:27.42,0:00:28.85,Chinese,,0,0,0,,不然人们不会买账
 Dialogue: 0,0:00:30.37,0:00:34.47,English,,0,0,0,,The US Post Office made snowflake stamps using my pictures.
-Dialogue: 0,0:00:30.37,0:00:34.47,Chinese,,0,0,0,,
+Dialogue: 0,0:00:30.37,0:00:34.47,Chinese,,0,0,0,,美国邮政局用我的雪花印了雪花邮票
 Dialogue: 0,0:00:34.47,0:00:36.39,English,,0,0,0,,It's not the kind of thing you normally think of
-Dialogue: 0,0:00:34.47,0:00:36.39,Chinese,,0,0,0,,
+Dialogue: 0,0:00:34.47,0:00:36.39,Chinese,,0,0,0,,这并不和人们常常设想的一样
 Dialogue: 0,0:00:36.39,0:00:37.96,English,,0,0,0,,when you start doing physics,
-Dialogue: 0,0:00:36.39,0:00:37.96,Chinese,,0,0,0,,
+Dialogue: 0,0:00:36.39,0:00:37.96,Chinese,,0,0,0,,从事物理行业
 Dialogue: 0,0:00:37.96,0:00:39.67,English,,0,0,0,,that you'd be on a postage stamp.
-Dialogue: 0,0:00:37.96,0:00:39.67,Chinese,,0,0,0,,
+Dialogue: 0,0:00:37.96,0:00:39.67,Chinese,,0,0,0,,最后竟会和邮票扯上关系
 Dialogue: 0,0:00:39.67,0:00:42.36,English,,0,0,0,,- [Derek] You've written the book on snowflakes, literally.
-Dialogue: 0,0:00:39.67,0:00:42.36,Chinese,,0,0,0,,
+Dialogue: 0,0:00:39.67,0:00:42.36,Chinese,,0,0,0,,-「Derek」您真正写了一本关于雪花的著作
 Dialogue: 0,0:00:42.36,0:00:45.04,English,,0,0,0,,- So I had like two successful books in a row,
-Dialogue: 0,0:00:42.36,0:00:45.04,Chinese,,0,0,0,,
+Dialogue: 0,0:00:42.36,0:00:45.04,Chinese,,0,0,0,,-我曾连续写出两本成功的书
 Dialogue: 0,0:00:45.04,0:00:47.07,English,,0,0,0,,so we just kept making books,
-Dialogue: 0,0:00:45.04,0:00:47.07,Chinese,,0,0,0,,
+Dialogue: 0,0:00:45.04,0:00:47.07,Chinese,,0,0,0,,之后我们就一直写书
 Dialogue: 0,0:00:47.07,0:00:50.26,English,,0,0,0,,until finally  they sold zero copies,
-Dialogue: 0,0:00:47.07,0:00:50.26,Chinese,,0,0,0,,
+Dialogue: 0,0:00:47.07,0:00:50.26,Chinese,,0,0,0,,直到一本也卖不出去
 Dialogue: 0,0:00:50.26,0:00:51.26,English,,0,0,0,,and then we stopped.
-Dialogue: 0,0:00:50.26,0:00:51.26,Chinese,,0,0,0,,
+Dialogue: 0,0:00:50.26,0:00:51.26,Chinese,,0,0,0,,我们才停止
 Dialogue: 0,0:00:54.87,0:00:57.23,English,,0,0,0,,- So, are you kind of like a snowflake artist?
-Dialogue: 0,0:00:54.87,0:00:57.23,Chinese,,0,0,0,,
+Dialogue: 0,0:00:54.87,0:00:57.23,Chinese,,0,0,0,,-那可不可以称您为雪花艺术家
 Dialogue: 0,0:00:59.95,0:01:01.52,English,,0,0,0,,- I call it a designer snowflake.
-Dialogue: 0,0:00:59.95,0:01:01.52,Chinese,,0,0,0,,
+Dialogue: 0,0:00:59.95,0:01:01.52,Chinese,,0,0,0,,-我叫我雪花设计师
 Dialogue: 0,0:01:06.60,0:01:09.04,English,,0,0,0,,Because yes, I am designing this on the fly.
-Dialogue: 0,0:01:06.60,0:01:09.04,Chinese,,0,0,0,,
+Dialogue: 0,0:01:06.60,0:01:09.04,Chinese,,0,0,0,,因为我在设计雪花的未来
 Dialogue: 0,0:01:09.04,0:01:11.49,English,,0,0,0,,I don't have a computer that does all this for me.
-Dialogue: 0,0:01:09.04,0:01:11.49,Chinese,,0,0,0,,
+Dialogue: 0,0:01:09.04,0:01:11.49,Chinese,,0,0,0,,我不能靠一台电脑完成所有工作
 Dialogue: 0,0:01:11.49,0:01:13.95,English,,0,0,0,,I just do it by hand, so every one's a little different.
-Dialogue: 0,0:01:11.49,0:01:13.95,Chinese,,0,0,0,,
+Dialogue: 0,0:01:11.49,0:01:13.95,Chinese,,0,0,0,,我用双手来做 这就导致了雪花之间都会有些小差别
 Dialogue: 0,0:01:26.87,0:01:29.09,English,,0,0,0,,- [Derek] Ken knows so much about snowflakes,
-Dialogue: 0,0:01:26.87,0:01:29.09,Chinese,,0,0,0,,
+Dialogue: 0,0:01:26.87,0:01:29.09,Chinese,,0,0,0,,-「Derek」Ken对雪花了解很深
 Dialogue: 0,0:01:29.09,0:01:33.37,English,,0,0,0,,he can design and construct them to his own specifications.
-Dialogue: 0,0:01:29.09,0:01:33.37,Chinese,,0,0,0,,
+Dialogue: 0,0:01:29.09,0:01:33.37,Chinese,,0,0,0,,他可以按自己的构想设计和制造雪花
 Dialogue: 0,0:01:33.37,0:01:35.27,English,,0,0,0,,- [Ken] So what's happening now is it's growing
-Dialogue: 0,0:01:33.37,0:01:35.27,Chinese,,0,0,0,,
+Dialogue: 0,0:01:33.37,0:01:35.27,Chinese,,0,0,0,,-「Ken」它现在正在生长延伸
 Dialogue: 0,0:01:35.27,0:01:37.56,English,,0,0,0,,and doing its thing at some...
-Dialogue: 0,0:01:35.27,0:01:37.56,Chinese,,0,0,0,,
+Dialogue: 0,0:01:35.27,0:01:37.56,Chinese,,0,0,0,,并有一些它自己的想法
 Dialogue: 0,0:01:37.56,0:01:41.66,English,,0,0,0,,It's at -13 Celsius now, but I want to make some branches.
-Dialogue: 0,0:01:37.56,0:01:41.66,Chinese,,0,0,0,,
+Dialogue: 0,0:01:37.56,0:01:41.66,Chinese,,0,0,0,,现在是零下13摄氏度 但我想让它延伸出主干
 Dialogue: 0,0:01:41.66,0:01:43.76,English,,0,0,0,,I'll just turn this down to -15.
-Dialogue: 0,0:01:41.66,0:01:43.76,Chinese,,0,0,0,,
+Dialogue: 0,0:01:41.66,0:01:43.76,Chinese,,0,0,0,,我将温度调至零下15度
 Dialogue: 0,0:01:43.76,0:01:46.13,English,,0,0,0,,And then I'm gonna increase the humidity a little bit,
-Dialogue: 0,0:01:43.76,0:01:46.13,Chinese,,0,0,0,,
+Dialogue: 0,0:01:43.76,0:01:46.13,Chinese,,0,0,0,,接下来我提高一点湿度
 Dialogue: 0,0:01:46.13,0:01:47.61,English,,0,0,0,,the super saturation,
-Dialogue: 0,0:01:46.13,0:01:47.61,Chinese,,0,0,0,,
+Dialogue: 0,0:01:46.13,0:01:47.61,Chinese,,0,0,0,,超饱和状态
 Dialogue: 0,0:01:47.61,0:01:50.39,English,,0,0,0,,and you'll start to see branches come out there.
-Dialogue: 0,0:01:47.61,0:01:50.39,Chinese,,0,0,0,,
+Dialogue: 0,0:01:47.61,0:01:50.39,Chinese,,0,0,0,,这样你就可以看到6个主干从那里延伸出来
 Dialogue: 0,0:01:50.39,0:01:52.70,English,,0,0,0,,- [Derek] See you changing those conditions,
-Dialogue: 0,0:01:50.39,0:01:52.70,Chinese,,0,0,0,,
+Dialogue: 0,0:01:50.39,0:01:52.70,Chinese,,0,0,0,,-「Derek」你改变的这些环境条件
 Dialogue: 0,0:01:52.70,0:01:56.27,English,,0,0,0,,just caused the plate to kind of stop and become really--
-Dialogue: 0,0:01:52.70,0:01:56.27,Chinese,,0,0,0,,
+Dialogue: 0,0:01:52.70,0:01:56.27,Chinese,,0,0,0,,使它从原来的盘子形变成雪花
 Dialogue: 0,0:01:56.27,0:02:00.21,English,,0,0,0,,- I changed the growth conditions to prefer branches.
-Dialogue: 0,0:01:56.27,0:02:00.21,Chinese,,0,0,0,,
+Dialogue: 0,0:01:56.27,0:02:00.21,Chinese,,0,0,0,,我改变了它的生长条件促进其生成主干
 Dialogue: 0,0:02:00.21,0:02:02.43,English,,0,0,0,,This little thing right there, that little nub,
-Dialogue: 0,0:02:00.21,0:02:02.43,Chinese,,0,0,0,,
+Dialogue: 0,0:02:00.21,0:02:02.43,Chinese,,0,0,0,,那里那个小小的 那个小点
 Dialogue: 0,0:02:02.43,0:02:05.84,English,,0,0,0,,that's the only thing that touches the sapphire substrate.
-Dialogue: 0,0:02:02.43,0:02:05.84,Chinese,,0,0,0,,
+Dialogue: 0,0:02:02.43,0:02:05.84,Chinese,,0,0,0,,那才是唯一跟下面基柱连通的地方（这里可以注释成 “看1:19”  不然不好理解）
 Dialogue: 0,0:02:05.84,0:02:08.20,English,,0,0,0,,The rest of this is all growing above.
-Dialogue: 0,0:02:05.84,0:02:08.20,Chinese,,0,0,0,,
+Dialogue: 0,0:02:05.84,0:02:08.20,Chinese,,0,0,0,,其他部分是在基柱顶端生成的
 Dialogue: 0,0:02:08.20,0:02:10.68,English,,0,0,0,,This increases the air flow.
-Dialogue: 0,0:02:08.20,0:02:10.68,Chinese,,0,0,0,,
+Dialogue: 0,0:02:08.20,0:02:10.68,Chinese,,0,0,0,,这会增强气流
 Dialogue: 0,0:02:10.68,0:02:12.02,English,,0,0,0,,Those are droplets forming,
-Dialogue: 0,0:02:10.68,0:02:12.02,Chinese,,0,0,0,,
+Dialogue: 0,0:02:10.68,0:02:12.02,Chinese,,0,0,0,,雪花周围这些是正在形成的水滴
 Dialogue: 0,0:02:12.02,0:02:14.02,English,,0,0,0,,and now I'm really kicking it into gear.
-Dialogue: 0,0:02:12.02,0:02:14.02,Chinese,,0,0,0,,
+Dialogue: 0,0:02:12.02,0:02:14.02,Chinese,,0,0,0,,现在我必须去除这些水滴
 Dialogue: 0,0:02:16.61,0:02:17.44,English,,0,0,0,,Now, what I'm gonna do
-Dialogue: 0,0:02:16.61,0:02:17.44,Chinese,,0,0,0,,
+Dialogue: 0,0:02:16.61,0:02:17.44,Chinese,,0,0,0,,我需要将湿度
 Dialogue: 0,0:02:17.44,0:02:19.62,English,,0,0,0,,is I'm gonna turn that humidity down to zero,
-Dialogue: 0,0:02:17.44,0:02:19.62,Chinese,,0,0,0,,
+Dialogue: 0,0:02:17.44,0:02:19.62,Chinese,,0,0,0,,调成0
 Dialogue: 0,0:02:19.62,0:02:22.77,English,,0,0,0,,so the droplets are starting to recede,
-Dialogue: 0,0:02:19.62,0:02:22.77,Chinese,,0,0,0,,
+Dialogue: 0,0:02:19.62,0:02:22.77,Chinese,,0,0,0,,这样水滴就会消散了
 Dialogue: 0,0:02:22.77,0:02:24.38,English,,0,0,0,,and this will stop growing
-Dialogue: 0,0:02:22.77,0:02:24.38,Chinese,,0,0,0,,
+Dialogue: 0,0:02:22.77,0:02:24.38,Chinese,,0,0,0,,但同样会导致雪花停止生长
 Dialogue: 0,0:02:24.38,0:02:27.72,English,,0,0,0,,and kind of start to facet a little bit.
-Dialogue: 0,0:02:24.38,0:02:27.72,Chinese,,0,0,0,,
+Dialogue: 0,0:02:24.38,0:02:27.72,Chinese,,0,0,0,,并开始变地平整
 Dialogue: 0,0:02:27.72,0:02:29.15,English,,0,0,0,,Let's say I want branches again,
-Dialogue: 0,0:02:27.72,0:02:29.15,Chinese,,0,0,0,,
+Dialogue: 0,0:02:27.72,0:02:29.15,Chinese,,0,0,0,,如果我想让它继续延伸主干
 Dialogue: 0,0:02:29.15,0:02:31.83,English,,0,0,0,,now I'm gonna really hammer on it.
-Dialogue: 0,0:02:29.15,0:02:31.83,Chinese,,0,0,0,,
+Dialogue: 0,0:02:29.15,0:02:31.83,Chinese,,0,0,0,,那我现在要动真格了
 Dialogue: 0,0:02:31.83,0:02:33.18,English,,0,0,0,,- [Derek] So you're giving it a lot of moisture.
-Dialogue: 0,0:02:31.83,0:02:33.18,Chinese,,0,0,0,,
+Dialogue: 0,0:02:31.83,0:02:33.18,Chinese,,0,0,0,,-「Derek」所以你要给它添加很多水汽
 Dialogue: 0,0:02:33.18,0:02:36.22,English,,0,0,0,,- A lot of moisture now, but you'll see side branches.
-Dialogue: 0,0:02:33.18,0:02:36.22,Chinese,,0,0,0,,
+Dialogue: 0,0:02:33.18,0:02:36.22,Chinese,,0,0,0,,-现在水汽很多 但你将看到的是枝干
 Dialogue: 0,0:02:39.98,0:02:42.23,English,,0,0,0,,You really start to feel you understand what's going on,
-Dialogue: 0,0:02:39.98,0:02:42.23,Chinese,,0,0,0,,
+Dialogue: 0,0:02:39.98,0:02:42.23,Chinese,,0,0,0,,你真的开始觉得你明白发生了什么
 Dialogue: 0,0:02:42.23,0:02:44.54,English,,0,0,0,,when you can say, "Now I'm gonna do this,"
-Dialogue: 0,0:02:42.23,0:02:44.54,Chinese,,0,0,0,,
+Dialogue: 0,0:02:42.23,0:02:44.54,Chinese,,0,0,0,,当你说 现在我要这样做
 Dialogue: 0,0:02:44.54,0:02:46.15,English,,0,0,0,,and then it happens.
-Dialogue: 0,0:02:44.54,0:02:46.15,Chinese,,0,0,0,,
+Dialogue: 0,0:02:44.54,0:02:46.15,Chinese,,0,0,0,,然后就如你所言一样发生了
 Dialogue: 0,0:02:46.15,0:02:48.27,English,,0,0,0,,It's fun. I can predict the future.
-Dialogue: 0,0:02:46.15,0:02:48.27,Chinese,,0,0,0,,
+Dialogue: 0,0:02:46.15,0:02:48.27,Chinese,,0,0,0,,这很有意思 我可以预测未来
 Dialogue: 0,0:02:49.72,0:02:53.04,English,,0,0,0,,I like to think they're better than nature,
-Dialogue: 0,0:02:49.72,0:02:53.04,Chinese,,0,0,0,,
+Dialogue: 0,0:02:49.72,0:02:53.04,Chinese,,0,0,0,,我认为它们比自然形成的雪花还要美
 Dialogue: 0,0:02:53.04,0:02:56.72,English,,0,0,0,,and the reason is that the facets of just sharp.
 Dialogue: 0,0:02:53.04,0:02:56.72,Chinese,,0,0,0,,
 Dialogue: 0,0:02:56.72,0:02:59.44,English,,0,0,0,,All the edges on these things are just sharp and crisp,
