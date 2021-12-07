@@ -613,26 +613,25 @@ Dialogue: 0,0:14:05.82,0:14:07.00,Chinese,,0,0,0,,
 Dialogue: 0,0:14:07.00,0:14:09.61,English,,0,0,0,,and you end up with column-like structures.
 Dialogue: 0,0:14:07.00,0:14:09.61,Chinese,,0,0,0,,
 Dialogue: 0,0:14:09.61,0:14:11.69,English,,0,0,0,,Now, the nucleation barriers of ice
-Dialogue: 0,0:14:09.61,0:14:11.69,Chinese,,0,0,0,,科学家如今知道  冰的成核位垒
 Dialogue: 0,0:14:11.69,0:14:14.24,English,,0,0,0,,are known as a function of temperature,
-Dialogue: 0,0:14:11.69,0:14:14.24,Chinese,,0,0,0,,是关于温度的函数
+Dialogue: 0,0:14:09.61,0:14:14.24,Chinese,,0,0,0,,如今认为  冰的成核位垒是关于温度的函数
 Dialogue: 0,0:14:14.24,0:14:17.43,English,,0,0,0,,and this explains why around -2,
-Dialogue: 0,0:14:14.24,0:14:17.43,Chinese,,0,0,0,,这解释了为什么在-2摄氏度左右
+Dialogue: 0,0:14:14.24,0:14:17.43,Chinese,,0,0,0,,这解释了为什么在-2°C左右
 Dialogue: 0,0:14:17.43,0:14:20.16,English,,0,0,0,,the prism facets grow faster, and you get plates,
 Dialogue: 0,0:14:17.43,0:14:20.16,Chinese,,0,0,0,,棱柱的侧面生长得更快  因而雪花会呈板状
 Dialogue: 0,0:14:20.16,0:14:23.24,English,,0,0,0,,because their nucleation barrier is lower.
 Dialogue: 0,0:14:20.16,0:14:23.24,Chinese,,0,0,0,,因为侧面的成核位垒更低
 Dialogue: 0,0:14:23.24,0:14:26.06,English,,0,0,0,,You can also see why below -20 or so,
-Dialogue: 0,0:14:23.24,0:14:26.06,Chinese,,0,0,0,,你也可以看到在-20摄氏度以下
+Dialogue: 0,0:14:23.24,0:14:26.06,Chinese,,0,0,0,,你也可以看到在-20°C以下
 Dialogue: 0,0:14:26.06,0:14:27.79,English,,0,0,0,,well then you get columns,
 Dialogue: 0,0:14:26.06,0:14:27.79,Chinese,,0,0,0,,会形成柱状雪花
 Dialogue: 0,0:14:27.79,0:14:30.73,English,,0,0,0,,because the basal facet nucleation barrier is lower
 Dialogue: 0,0:14:30.73,0:14:32.33,English,,0,0,0,,at those temperatures.
 Dialogue: 0,0:14:27.79,0:14:32.33,Chinese,,0,0,0,,因为此时  底面的成核位垒更低
 Dialogue: 0,0:14:32.33,0:14:35.37,English,,0,0,0,,But what doesn't make sense is why we should get columns
-Dialogue: 0,0:14:32.33,0:14:35.37,Chinese,,0,0,0,,但这并不能解释为什么在-5摄氏度会形成柱状雪花
+Dialogue: 0,0:14:32.33,0:14:35.37,Chinese,,0,0,0,,但这并不能解释  为什么雪花在-5°C会形成柱状
 Dialogue: 0,0:14:35.37,0:14:39.67,English,,0,0,0,,at around -5 Celsius and then plates again at -15.
-Dialogue: 0,0:14:35.37,0:14:39.67,Chinese,,0,0,0,,而到了-15摄氏度又会生成板状雪花
+Dialogue: 0,0:14:35.37,0:14:39.67,Chinese,,0,0,0,,而到了-15°C又会板状
 Dialogue: 0,0:14:40.50,0:14:42.56,English,,0,0,0,,So what is happening?
 Dialogue: 0,0:14:40.50,0:14:42.56,Chinese,,0,0,0,,所以  到底咋回事呢
 Dialogue: 0,0:14:42.56,0:14:45.58,English,,0,0,0,,Well Ken's hypothesis is that these nucleation barriers
@@ -646,27 +645,25 @@ Dialogue: 0,0:14:50.64,0:14:53.05,Chinese,,0,0,0,,成核位垒会有所不同
 Dialogue: 0,0:14:53.05,0:14:55.81,English,,0,0,0,,So Ken proposes that narrow basal facets
 Dialogue: 0,0:14:53.05,0:14:55.81,Chinese,,0,0,0,,因此Ken提出  窄基面的成核位垒
 Dialogue: 0,0:14:55.81,0:14:59.69,English,,0,0,0,,have a dip in their nucleation barrier around -4 Celsius,
-Dialogue: 0,0:14:55.81,0:14:59.69,Chinese,,0,0,0,,会在-4摄氏度左右下降
+Dialogue: 0,0:14:55.81,0:14:59.69,Chinese,,0,0,0,,会在-4°C左右下降
 Dialogue: 0,0:14:59.69,0:15:03.15,English,,0,0,0,,and narrow prism facets have a dip at -15,
-Dialogue: 0,0:14:59.69,0:15:03.15,Chinese,,0,0,0,,而窄棱面的成核位垒则会在-15摄氏度时下降
+Dialogue: 0,0:14:59.69,0:15:03.15,Chinese,,0,0,0,,而窄棱面的成核位垒则会在-15°C时下降
 Dialogue: 0,0:15:03.15,0:15:06.99,English,,0,0,0,,so his hypothesis is that the graph should look like this.
 Dialogue: 0,0:15:03.15,0:15:06.99,Chinese,,0,0,0,,因此按照他的假设  就应该是这张图
 Dialogue: 0,0:15:06.99,0:15:09.64,English,,0,0,0,,This then is consistent with all the different forms
-Dialogue: 0,0:15:06.99,0:15:09.64,Chinese,,0,0,0,,这与在所有不同温度下产生的雪花类型
 Dialogue: 0,0:15:09.64,0:15:12.38,English,,0,0,0,,of snowflakes that grow at different temperatures.
-Dialogue: 0,0:15:09.64,0:15:12.38,Chinese,,0,0,0,,都是一致的
+Dialogue: 0,0:15:06.99,0:15:12.38,Chinese,,0,0,0,,这完全符合不同温度下产生的各种雪花类型
 Dialogue: 0,0:15:12.38,0:15:14.99,English,,0,0,0,,But what accounts for these dips?
-Dialogue: 0,0:15:12.38,0:15:14.99,Chinese,,0,0,0,,但是究竟是什么导致了这些拐点呢
+Dialogue: 0,0:15:12.38,0:15:14.99,Chinese,,0,0,0,,但为什么会有这两个凹陷呢
 Dialogue: 0,0:15:14.99,0:15:17.70,English,,0,0,0,,Well, let's say we have a narrow prism facet,
-Dialogue: 0,0:15:14.99,0:15:17.70,Chinese,,0,0,0,,假设我们有个非常窄的棱面
+Dialogue: 0,0:15:14.99,0:15:17.70,Chinese,,0,0,0,,假设我们的侧面非常窄
 Dialogue: 0,0:15:17.70,0:15:20.34,English,,0,0,0,,so we're growing a plate snowflake.
-Dialogue: 0,0:15:17.70,0:15:20.34,Chinese,,0,0,0,,在一片正在生长的雪花上
+Dialogue: 0,0:15:17.70,0:15:20.34,Chinese,,0,0,0,,这就会产生板状雪花
 Dialogue: 0,0:15:20.34,0:15:22.96,English,,0,0,0,,Water molecules that hit the basal facets
-Dialogue: 0,0:15:20.34,0:15:22.96,Chinese,,0,0,0,,撞击到基面的水分子
+Dialogue: 0,0:15:20.34,0:15:22.66,Chinese,,0,0,0,,撞击到基面的水分子
 Dialogue: 0,0:15:22.96,0:15:25.28,English,,0,0,0,,are unlikely to reach the critical density required
-Dialogue: 0,0:15:22.96,0:15:25.28,Chinese,,0,0,0,,不太可能达到
 Dialogue: 0,0:15:25.28,0:15:27.36,English,,0,0,0,,to overcome the nucleation barrier,
-Dialogue: 0,0:15:25.28,0:15:27.36,Chinese,,0,0,0,,突破成核位垒的临界密度
+Dialogue: 0,0:15:22.96,0:15:27.36,Chinese,,0,0,0,,不太可能达到  突破成核位垒的临界密度
 Dialogue: 0,0:15:27.36,0:15:30.14,English,,0,0,0,,so that surface grows only slowly.
 Dialogue: 0,0:15:27.36,0:15:30.14,Chinese,,0,0,0,,因此表面只会缓慢增长
 Dialogue: 0,0:15:30.14,0:15:33.27,English,,0,0,0,,But on either side of this narrow prism facet,
@@ -676,7 +673,7 @@ Dialogue: 0,0:15:33.27,0:15:36.40,Chinese,,0,0,0,,水分子可以吸附在粗糙
 Dialogue: 0,0:15:36.40,0:15:38.15,English,,0,0,0,,and to minimize surface energy,
 Dialogue: 0,0:15:36.40,0:15:38.15,Chinese,,0,0,0,,为了最大限度地减小表面能
 Dialogue: 0,0:15:38.15,0:15:41.98,English,,0,0,0,,the ideal shape of this face would be semicircular.
-Dialogue: 0,0:15:38.15,0:15:41.98,Chinese,,0,0,0,,这个面的理想形状应该是半圆形
+Dialogue: 0,0:15:38.15,0:15:41.98,Chinese,,0,0,0,,理想情况下  这个面应该呈半圆形
 Dialogue: 0,0:15:41.98,0:15:45.59,English,,0,0,0,,But if only the top few layers of water molecules are mobile
 Dialogue: 0,0:15:41.98,0:15:45.59,Chinese,,0,0,0,,但是如果只有顶部的几层水分子
 Dialogue: 0,0:15:45.59,0:15:47.48,English,,0,0,0,,to try to lower the surface energy,
@@ -691,10 +688,10 @@ Dialogue: 0,0:15:53.36,0:15:55.37,English,,0,0,0,,to overcome the nucleation bar
 Dialogue: 0,0:15:53.36,0:15:55.37,Chinese,,0,0,0,,从而突破成核位垒
 Dialogue: 0,0:15:55.37,0:15:58.89,English,,0,0,0,,and so they can grow the crystal on the prism facet.
 Dialogue: 0,0:15:55.37,0:15:58.89,Chinese,,0,0,0,,因此冰晶可以在棱面上生长
-Dialogue: 0,0:15:58.89,0:16:01.60,English,,0,0,0,,So due to this narrow edge, the nucleation barrier
-Dialogue: 0,0:15:58.89,0:16:01.60,Chinese,,0,0,0,,所以由于这种窄边的存在
-Dialogue: 0,0:16:01.60,0:16:03.77,English,,0,0,0,,is effectively lower than it would be
-Dialogue: 0,0:16:01.60,0:16:03.77,Chinese,,0,0,0,,窄棱面的成核位垒
+Dialogue: 0,0:15:58.89,0:16:00.20,English,,0,0,0,,So due to this narrow edge,
+Dialogue: 0,0:15:58.89,0:16:00.20,Chinese,,0,0,0,,所以由于这种窄边的存在
+Dialogue: 0,0:16:00.20,0:16:03.77,English,,0,0,0,,the nucleation barrier is effectively lower than it would be
+Dialogue: 0,0:16:00.20,0:16:03.77,Chinese,,0,0,0,,窄棱面的成核位垒
 Dialogue: 0,0:16:03.77,0:16:06.35,English,,0,0,0,,for a large prism facet.
 Dialogue: 0,0:16:03.77,0:16:06.35,Chinese,,0,0,0,,比大棱面的低
 Dialogue: 0,0:16:06.35,0:16:08.70,English,,0,0,0,,A similar effect happens for the basal facets,
