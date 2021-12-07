@@ -613,23 +613,22 @@ Dialogue: 0,0:14:05.82,0:14:07.00,Chinese,,0,0,0,,
 Dialogue: 0,0:14:07.00,0:14:09.61,English,,0,0,0,,and you end up with column-like structures.
 Dialogue: 0,0:14:07.00,0:14:09.61,Chinese,,0,0,0,,
 Dialogue: 0,0:14:09.61,0:14:11.69,English,,0,0,0,,Now, the nucleation barriers of ice
-Dialogue: 0,0:14:09.61,0:14:11.69,Chinese,,0,0,0,,现在  冰的成核位垒
+Dialogue: 0,0:14:09.61,0:14:11.69,Chinese,,0,0,0,,科学家如今知道  冰的成核位垒
 Dialogue: 0,0:14:11.69,0:14:14.24,English,,0,0,0,,are known as a function of temperature,
-Dialogue: 0,0:14:11.69,0:14:14.24,Chinese,,0,0,0,,被发现是关于温度的函数
+Dialogue: 0,0:14:11.69,0:14:14.24,Chinese,,0,0,0,,是关于温度的函数
 Dialogue: 0,0:14:14.24,0:14:17.43,English,,0,0,0,,and this explains why around -2,
 Dialogue: 0,0:14:14.24,0:14:17.43,Chinese,,0,0,0,,这解释了为什么在-2摄氏度左右
 Dialogue: 0,0:14:17.43,0:14:20.16,English,,0,0,0,,the prism facets grow faster, and you get plates,
-Dialogue: 0,0:14:17.43,0:14:20.16,Chinese,,0,0,0,,棱柱面生长得更快  从而形成一个板状雪花
+Dialogue: 0,0:14:17.43,0:14:20.16,Chinese,,0,0,0,,棱柱的侧面生长得更快  因而雪花会呈板状
 Dialogue: 0,0:14:20.16,0:14:23.24,English,,0,0,0,,because their nucleation barrier is lower.
-Dialogue: 0,0:14:20.16,0:14:23.24,Chinese,,0,0,0,,因为他们的成核位垒更低
+Dialogue: 0,0:14:20.16,0:14:23.24,Chinese,,0,0,0,,因为侧面的成核位垒更低
 Dialogue: 0,0:14:23.24,0:14:26.06,English,,0,0,0,,You can also see why below -20 or so,
 Dialogue: 0,0:14:23.24,0:14:26.06,Chinese,,0,0,0,,你也可以看到在-20摄氏度以下
 Dialogue: 0,0:14:26.06,0:14:27.79,English,,0,0,0,,well then you get columns,
 Dialogue: 0,0:14:26.06,0:14:27.79,Chinese,,0,0,0,,会形成柱状雪花
 Dialogue: 0,0:14:27.79,0:14:30.73,English,,0,0,0,,because the basal facet nucleation barrier is lower
-Dialogue: 0,0:14:27.79,0:14:30.73,Chinese,,0,0,0,,因为底面的成核位垒
 Dialogue: 0,0:14:30.73,0:14:32.33,English,,0,0,0,,at those temperatures.
-Dialogue: 0,0:14:30.73,0:14:32.33,Chinese,,0,0,0,,在这时候更低
+Dialogue: 0,0:14:27.79,0:14:32.33,Chinese,,0,0,0,,因为此时  底面的成核位垒更低
 Dialogue: 0,0:14:32.33,0:14:35.37,English,,0,0,0,,But what doesn't make sense is why we should get columns
 Dialogue: 0,0:14:32.33,0:14:35.37,Chinese,,0,0,0,,但这并不能解释为什么在-5摄氏度会形成柱状雪花
 Dialogue: 0,0:14:35.37,0:14:39.67,English,,0,0,0,,at around -5 Celsius and then plates again at -15.
@@ -637,13 +636,13 @@ Dialogue: 0,0:14:35.37,0:14:39.67,Chinese,,0,0,0,,而到了-15摄氏度又会生
 Dialogue: 0,0:14:40.50,0:14:42.56,English,,0,0,0,,So what is happening?
 Dialogue: 0,0:14:40.50,0:14:42.56,Chinese,,0,0,0,,所以  到底咋回事呢
 Dialogue: 0,0:14:42.56,0:14:45.58,English,,0,0,0,,Well Ken's hypothesis is that these nucleation barriers
-Dialogue: 0,0:14:42.56,0:14:45.58,Chinese,,0,0,0,,Ken的假设是成核位垒
+Dialogue: 0,0:14:42.56,0:14:45.58,Chinese,,0,0,0,,Ken的假设是，成核位垒
 Dialogue: 0,0:14:45.58,0:14:48.44,English,,0,0,0,,are valid only for large flat facets,
-Dialogue: 0,0:14:45.58,0:14:48.44,Chinese,,0,0,0,,只适用于大平面
+Dialogue: 0,0:14:45.58,0:14:48.44,Chinese,,0,0,0,,只适用于大而平整的面
 Dialogue: 0,0:14:48.44,0:14:50.64,English,,0,0,0,,but if you had really narrow facets,
-Dialogue: 0,0:14:48.44,0:14:50.64,Chinese,,0,0,0,,但对于非常窄的平面来说
+Dialogue: 0,0:14:48.44,0:14:50.64,Chinese,,0,0,0,,但对于非常狭窄的面来说
 Dialogue: 0,0:14:50.64,0:14:53.05,English,,0,0,0,,well, the nucleation barriers would be different.
-Dialogue: 0,0:14:50.64,0:14:53.05,Chinese,,0,0,0,,那么成核位垒会有所不同
+Dialogue: 0,0:14:50.64,0:14:53.05,Chinese,,0,0,0,,成核位垒会有所不同
 Dialogue: 0,0:14:53.05,0:14:55.81,English,,0,0,0,,So Ken proposes that narrow basal facets
 Dialogue: 0,0:14:53.05,0:14:55.81,Chinese,,0,0,0,,因此Ken提出  窄基面的成核位垒
 Dialogue: 0,0:14:55.81,0:14:59.69,English,,0,0,0,,have a dip in their nucleation barrier around -4 Celsius,
@@ -764,7 +763,7 @@ Dialogue: 0,0:17:25.56,0:17:27.90,English,,0,0,0,,Well, that doesn't work.
 Dialogue: 0,0:17:25.56,0:17:27.90,Chinese,,0,0,0,,那可不行
 Dialogue: 0,0:17:27.90,0:17:29.86,English,,0,0,0,,We have to know how that works, dammit!
 Dialogue: 0,0:17:27.90,0:17:29.86,Chinese,,0,0,0,,我们必须知道它到底是怎么形成的  该死
-Dialogue: 0,0:17:29.86,0:17:33.07,English,,0,0,0,,Well, I want to be the guy\Nthat figures out how snowflakes work.
+Dialogue: 0,0:17:29.86,0:17:33.07,English,,0,0,0,,Well, I want to be the guy that figures out how snowflakes work.
 Dialogue: 0,0:17:29.86,0:17:33.07,Chinese,,0,0,0,,好吧  我想成为那个研究出雪花到底是怎么形成的人
 Dialogue: 0,0:17:33.07,0:17:34.41,English,,0,0,0,,That's always been a driver.
 Dialogue: 0,0:17:33.07,0:17:34.41,Chinese,,0,0,0,,总得有人带头
