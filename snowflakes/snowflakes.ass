@@ -63,7 +63,6 @@ Dialogue: 0,0:00:45.04,0:00:47.07,Chinese,,0,0,0,,之后我们就一直写书
 Dialogue: 0,0:00:47.07,0:00:50.26,English,,0,0,0,,until finally  they sold zero copies,
 Dialogue: 0,0:00:47.07,0:00:50.26,Chinese,,0,0,0,,直到一本也卖不出去
 Dialogue: 0,0:00:50.26,0:00:51.26,English,,0,0,0,,and then we stopped.
-Dialogue: 0,0:00:50.26,0:00:51.26,Chinese,,0,0,0,,我们才停止
 Dialogue: 0,0:00:54.87,0:00:57.23,English,,0,0,0,,- So, are you kind of like a snowflake artist?
 Dialogue: 0,0:00:54.87,0:00:57.23,Chinese,,0,0,0,,- 那可不可以称您为雪花艺术家
 
@@ -85,21 +84,25 @@ Dialogue: 0,0:01:33.37,0:01:35.27,Chinese,,0,0,0,,-「Ken」它现在正在生�
 Dialogue: 0,0:01:35.27,0:01:37.56,English,,0,0,0,,and doing its thing at some...
 Dialogue: 0,0:01:35.27,0:01:37.56,Chinese,,0,0,0,,并有一些它自己的想法
 Dialogue: 0,0:01:37.56,0:01:41.66,English,,0,0,0,,It's at -13 Celsius now, but I want to make some branches.
-Dialogue: 0,0:01:37.56,0:01:41.66,Chinese,,0,0,0,,现在是零下13摄氏度 但我想让它延伸出主干
+Dialogue: 0,0:01:37.56,0:01:41.66,Chinese,,0,0,0,,现在是零下13摄氏度  但我想让它长出主干
+
 Dialogue: 0,0:01:41.66,0:01:43.76,English,,0,0,0,,I'll just turn this down to -15.
 Dialogue: 0,0:01:41.66,0:01:43.76,Chinese,,0,0,0,,我将温度调至零下15度
 Dialogue: 0,0:01:43.76,0:01:46.13,English,,0,0,0,,And then I'm gonna increase the humidity a little bit,
-Dialogue: 0,0:01:43.76,0:01:46.13,Chinese,,0,0,0,,接下来我提高一点湿度
+Dialogue: 0,0:01:43.76,0:01:46.13,Chinese,,0,0,0,,然后提高一点湿度
+
 Dialogue: 0,0:01:46.13,0:01:47.61,English,,0,0,0,,the super saturation,
 Dialogue: 0,0:01:46.13,0:01:47.61,Chinese,,0,0,0,,超饱和状态
 Dialogue: 0,0:01:47.61,0:01:50.39,English,,0,0,0,,and you'll start to see branches come out there.
-Dialogue: 0,0:01:47.61,0:01:50.39,Chinese,,0,0,0,,这样你就可以看到6个主干从那里延伸出来
+Dialogue: 0,0:01:47.61,0:01:50.39,Chinese,,0,0,0,,这样你就可以看到雪花的主干从那里延伸出来
+
 Dialogue: 0,0:01:50.39,0:01:52.70,English,,0,0,0,,- [Derek] See you changing those conditions,
 Dialogue: 0,0:01:50.39,0:01:52.70,Chinese,,0,0,0,,-「Derek」你改变的这些环境条件
 Dialogue: 0,0:01:52.70,0:01:56.27,English,,0,0,0,,just caused the plate to kind of stop and become really--
 Dialogue: 0,0:01:52.70,0:01:56.27,Chinese,,0,0,0,,使它从原来的盘子形变成雪花
 Dialogue: 0,0:01:56.27,0:02:00.21,English,,0,0,0,,- I changed the growth conditions to prefer branches.
-Dialogue: 0,0:01:56.27,0:02:00.21,Chinese,,0,0,0,,我改变了它的生长条件促进其生成主干
+Dialogue: 0,0:01:56.27,0:02:00.21,Chinese,,0,0,0,,我改变了它的生长条件  促进其生成主干
+
 Dialogue: 0,0:02:00.21,0:02:02.43,English,,0,0,0,,This little thing right there, that little nub,
 Dialogue: 0,0:02:00.21,0:02:02.43,Chinese,,0,0,0,,那里那个小小的  那个小点
 
@@ -108,11 +111,14 @@ Dialogue: 0,0:02:02.43,0:02:05.84,Chinese,,0,0,0,,那才是唯一跟下面基柱
 Dialogue: 0,0:02:05.84,0:02:08.20,English,,0,0,0,,The rest of this is all growing above.
 Dialogue: 0,0:02:05.84,0:02:08.20,Chinese,,0,0,0,,其他部分是在基柱顶端生成的
 Dialogue: 0,0:02:08.20,0:02:10.68,English,,0,0,0,,This increases the air flow.
-Dialogue: 0,0:02:08.20,0:02:10.68,Chinese,,0,0,0,,这会增强气流
+Dialogue: 0,0:02:08.20,0:02:10.68,Chinese,,0,0,0,,这个可以增强气流
+
 Dialogue: 0,0:02:10.68,0:02:12.02,English,,0,0,0,,Those are droplets forming,
-Dialogue: 0,0:02:10.68,0:02:12.02,Chinese,,0,0,0,,雪花周围这些是正在形成的水滴
+Dialogue: 0,0:02:10.68,0:02:12.02,Chinese,,0,0,0,,这些是正在凝聚的小水滴
+
 Dialogue: 0,0:02:12.02,0:02:14.02,English,,0,0,0,,and now I'm really kicking it into gear.
-Dialogue: 0,0:02:12.02,0:02:14.02,Chinese,,0,0,0,,现在我必须去除这些水滴
+Dialogue: 0,0:02:12.02,0:02:14.02,Chinese,,0,0,0,,我超想去掉它们
+
 Dialogue: 0,0:02:16.61,0:02:17.44,English,,0,0,0,,Now, what I'm gonna do
 Dialogue: 0,0:02:16.61,0:02:17.44,Chinese,,0,0,0,,我需要将湿度
 Dialogue: 0,0:02:17.44,0:02:19.62,English,,0,0,0,,is I'm gonna turn that humidity down to zero,
@@ -138,7 +144,8 @@ Dialogue: 0,0:02:42.23,0:02:44.54,English,,0,0,0,,when you can say, "Now I'm gon
 Dialogue: 0,0:02:42.23,0:02:44.54,Chinese,,0,0,0,,当你说  现在我要这样做  的时候
 
 Dialogue: 0,0:02:44.54,0:02:46.15,English,,0,0,0,,and then it happens.
-Dialogue: 0,0:02:44.54,0:02:46.15,Chinese,,0,0,0,,然后就如你所言一样发生了
+Dialogue: 0,0:02:44.54,0:02:46.15,Chinese,,0,0,0,,然后它就发生了
+
 Dialogue: 0,0:02:46.15,0:02:48.27,English,,0,0,0,,It's fun. I can predict the future.
 Dialogue: 0,0:02:46.15,0:02:48.27,Chinese,,0,0,0,,这很有意思  我可以预测未来
 
