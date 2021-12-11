@@ -16,13 +16,15 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:02.32,English,,0,0,0,,- [Ken] Now, I'm gonna turn on 2000 volts.
 Dialogue: 0,0:00:00.00,0:00:02.32,Chinese,,0,0,0,,-「Ken」现在我要接通2000伏的电压
 Dialogue: 0,0:00:02.32,0:00:03.15,English,,0,0,0,,- [Derek] What?
-Dialogue: 0,0:00:02.32,0:00:03.15,Chinese,,0,0,0,,-「Derek」你说什么
+Dialogue: 0,0:00:02.32,0:00:03.15,Chinese,,0,0,0,,-「Derek」你说什么？
+
 Dialogue: 0,0:00:03.15,0:00:04.75,English,,0,0,0,,And this is the first step
 Dialogue: 0,0:00:03.15,0:00:04.75,Chinese,,0,0,0,,这是在实验室里
 Dialogue: 0,0:00:04.75,0:00:06.98,English,,0,0,0,,in creating snowflakes in the lab.
 Dialogue: 0,0:00:04.75,0:00:06.98,Chinese,,0,0,0,,制作雪花的第一步
 Dialogue: 0,0:00:06.98,0:00:08.61,English,,0,0,0,,This is totally wild.
-Dialogue: 0,0:00:06.98,0:00:08.61,Chinese,,0,0,0,,这太疯狂了
+Dialogue: 0,0:00:06.98,0:00:08.61,Chinese,,0,0,0,,实在是疯了
+
 Dialogue: 0,0:00:08.61,0:00:09.90,English,,0,0,0,,What? - Crazy, huh?
 Dialogue: 0,0:00:08.61,0:00:09.90,Chinese,,0,0,0,,天呐  -很疯狂 不是吗
 Dialogue: 0,0:00:09.90,0:00:11.34,English,,0,0,0,,The tips of those needles are
@@ -61,7 +63,8 @@ Dialogue: 0,0:00:42.36,0:00:45.04,Chinese,,0,0,0,,- 我曾经连续写出两本�
 Dialogue: 0,0:00:45.04,0:00:47.07,English,,0,0,0,,so we just kept making books,
 Dialogue: 0,0:00:45.04,0:00:47.07,Chinese,,0,0,0,,之后我们就一直写书
 Dialogue: 0,0:00:47.07,0:00:50.26,English,,0,0,0,,until finally  they sold zero copies,
-Dialogue: 0,0:00:47.07,0:00:50.26,Chinese,,0,0,0,,直到一本也卖不出去
+Dialogue: 0,0:00:47.07,0:00:51.26,Chinese,,0,0,0,,直到一本也卖不出去为止
+
 Dialogue: 0,0:00:50.26,0:00:51.26,English,,0,0,0,,and then we stopped.
 Dialogue: 0,0:00:54.87,0:00:57.23,English,,0,0,0,,- So, are you kind of like a snowflake artist?
 Dialogue: 0,0:00:54.87,0:00:57.23,Chinese,,0,0,0,,- 那可不可以称您为雪花艺术家
@@ -72,9 +75,9 @@ Dialogue: 0,0:00:59.95,0:01:01.52,Chinese,,0,0,0,,- 请叫我雪花设计师
 Dialogue: 0,0:01:06.60,0:01:09.04,English,,0,0,0,,Because yes, I am designing this on the fly.
 Dialogue: 0,0:01:06.60,0:01:09.04,Chinese,,0,0,0,,因为我在设计雪花的未来
 Dialogue: 0,0:01:09.04,0:01:11.49,English,,0,0,0,,I don't have a computer that does all this for me.
-Dialogue: 0,0:01:09.04,0:01:11.49,Chinese,,0,0,0,,我不能靠一台电脑完成所有工作
+Dialogue: 0,0:01:09.04,0:01:11.49,Chinese,,0,0,0,,我并没有一台帮我搞定全部东西的电脑
 Dialogue: 0,0:01:11.49,0:01:13.95,English,,0,0,0,,I just do it by hand, so every one's a little different.
-Dialogue: 0,0:01:11.49,0:01:13.95,Chinese,,0,0,0,,我用双手来做 这就导致了雪花之间都会有些小差别
+Dialogue: 0,0:01:11.49,0:01:13.95,Chinese,,0,0,0,,我只能手工制作  所以雪花之间会有些小差别
 Dialogue: 0,0:01:26.87,0:01:29.09,English,,0,0,0,,- [Derek] Ken knows so much about snowflakes,
 Dialogue: 0,0:01:26.87,0:01:29.09,Chinese,,0,0,0,,-「Derek」Ken对雪花了解很深
 Dialogue: 0,0:01:29.09,0:01:33.37,English,,0,0,0,,he can design and construct them to his own specifications.
@@ -122,13 +125,14 @@ Dialogue: 0,0:02:12.02,0:02:14.02,Chinese,,0,0,0,,我超想去掉它们
 Dialogue: 0,0:02:16.61,0:02:17.44,English,,0,0,0,,Now, what I'm gonna do
 Dialogue: 0,0:02:16.61,0:02:17.44,Chinese,,0,0,0,,我需要将湿度
 Dialogue: 0,0:02:17.44,0:02:19.62,English,,0,0,0,,is I'm gonna turn that humidity down to zero,
-Dialogue: 0,0:02:17.44,0:02:19.62,Chinese,,0,0,0,,调成0
+Dialogue: 0,0:02:16.61,0:02:19.62,Chinese,,0,0,0,,现在我准备把湿度调成0
 Dialogue: 0,0:02:19.62,0:02:22.77,English,,0,0,0,,so the droplets are starting to recede,
 Dialogue: 0,0:02:19.62,0:02:22.77,Chinese,,0,0,0,,这样水滴就会消散了
 Dialogue: 0,0:02:22.77,0:02:24.38,English,,0,0,0,,and this will stop growing
 Dialogue: 0,0:02:22.77,0:02:24.38,Chinese,,0,0,0,,但同样会导致雪花停止生长
 Dialogue: 0,0:02:24.38,0:02:27.72,English,,0,0,0,,and kind of start to facet a little bit.
-Dialogue: 0,0:02:24.38,0:02:27.72,Chinese,,0,0,0,,并开始变地平整
+Dialogue: 0,0:02:24.38,0:02:27.72,Chinese,,0,0,0,,并开始变得平整
+
 Dialogue: 0,0:02:27.72,0:02:29.15,English,,0,0,0,,Let's say I want branches again,
 Dialogue: 0,0:02:27.72,0:02:29.15,Chinese,,0,0,0,,如果我想让它继续延伸主干
 Dialogue: 0,0:02:29.15,0:02:31.83,English,,0,0,0,,now I'm gonna really hammer on it.
