@@ -393,97 +393,101 @@ Dialogue: 0,0:09:01.60,0:09:05.12,Chinese,,0,0,0,,大约需要十万滴水
 Dialogue: 0,0:09:05.12,0:09:07.05,English,,0,0,0,,to make a single snowflake,
 Dialogue: 0,0:09:05.12,0:09:07.05,Chinese,,0,0,0,,才能产生一片雪花
 Dialogue: 0,0:09:07.05,0:09:10.45,English,,0,0,0,,and the process usually takes 30 to 45 minutes.
-Dialogue: 0,0:09:07.05,0:09:10.45,Chinese,,0,0,0,,整个过程会经过大约 30 到 45 分钟
+Dialogue: 0,0:09:07.05,0:09:10.45,Chinese,,0,0,0,,整个过程大约历时 30 到 45 分钟
+
 Dialogue: 0,0:09:11.93,0:09:14.17,English,,0,0,0,,In the 1930s, Ukichiro Nakaya
-Dialogue: 0,0:09:11.93,0:09:14.17,Chinese,,0,0,0,,
+Dialogue: 0,0:09:11.93,0:09:14.17,Chinese,,0,0,0,,20世纪30年代，中谷 宇吉郎教授
 Dialogue: 0,0:09:14.17,0:09:16.27,English,,0,0,0,,was systematically studying snowflakes
-Dialogue: 0,0:09:14.17,0:09:16.27,Chinese,,0,0,0,,
 Dialogue: 0,0:09:16.27,0:09:18.91,English,,0,0,0,,at the University of Hokkaido in Japan.
-Dialogue: 0,0:09:16.27,0:09:18.91,Chinese,,0,0,0,,
+Dialogue: 0,0:09:14.17,0:09:18.91,Chinese,,0,0,0,,在北海道大学对雪花进行了系统性研究
 Dialogue: 0,0:09:18.91,0:09:21.79,English,,0,0,0,,He discovered that the different types of snowflakes
-Dialogue: 0,0:09:18.91,0:09:21.79,Chinese,,0,0,0,,
+Dialogue: 0,0:09:18.91,0:09:21.79,Chinese,,0,0,0,,他发现  雪花有多种形态
 Dialogue: 0,0:09:21.79,0:09:25.52,English,,0,0,0,,don't all occur under the same conditions.
-Dialogue: 0,0:09:21.79,0:09:25.52,Chinese,,0,0,0,,
+Dialogue: 0,0:09:21.79,0:09:25.52,Chinese,,0,0,0,,但同种形态的雪花  诞生的条件也不一定相同
 Dialogue: 0,0:09:25.52,0:09:27.32,English,,0,0,0,,Instead, two factors,
-Dialogue: 0,0:09:25.52,0:09:27.32,Chinese,,0,0,0,,
 Dialogue: 0,0:09:27.32,0:09:30.38,English,,0,0,0,,the temperature and level of super saturation
-Dialogue: 0,0:09:27.32,0:09:30.38,Chinese,,0,0,0,,
+Dialogue: 0,0:09:25.52,0:09:30.38,Chinese,,0,0,0,,而是「温度」和「过饱和程度」这两个因素
 Dialogue: 0,0:09:30.38,0:09:33.40,English,,0,0,0,,determine what type of snowflake grows.
-Dialogue: 0,0:09:30.38,0:09:33.40,Chinese,,0,0,0,,
+Dialogue: 0,0:09:30.38,0:09:33.40,Chinese,,0,0,0,,共同决定了雪花生长的形状
 Dialogue: 0,0:09:33.40,0:09:37.46,English,,0,0,0,,His findings are summarized in the Nakaya Diagram,
-Dialogue: 0,0:09:33.40,0:09:37.46,Chinese,,0,0,0,,
+Dialogue: 0,0:09:33.40,0:09:37.46,Chinese,,0,0,0,,他的发现经整理后  就得到了这张「中谷图表」
 Dialogue: 0,0:09:37.46,0:09:40.07,English,,0,0,0,,but it's not a simple pattern.
-Dialogue: 0,0:09:37.46,0:09:40.07,Chinese,,0,0,0,,
+Dialogue: 0,0:09:37.46,0:09:40.07,Chinese,,0,0,0,,这张表可不简单
 Dialogue: 0,0:09:40.07,0:09:43.39,English,,0,0,0,,Around -2 Celsius, you get plates.
-Dialogue: 0,0:09:40.07,0:09:43.39,Chinese,,0,0,0,,
+Dialogue: 0,0:09:40.07,0:09:43.39,Chinese,,0,0,0,,在零下2摄氏度左右  形成片状雪花
+
 Dialogue: 0,0:09:43.39,0:09:47.26,English,,0,0,0,,At -5 Celsius, columns and needles form.
-Dialogue: 0,0:09:43.39,0:09:47.26,Chinese,,0,0,0,,
+Dialogue: 0,0:09:43.39,0:09:47.26,Chinese,,0,0,0,,零下5摄氏度时  形成柱状和针状雪花
+
 Dialogue: 0,0:09:47.26,0:09:50.44,English,,0,0,0,,At -15 Celsius, it's plates again,
-Dialogue: 0,0:09:47.26,0:09:50.44,Chinese,,0,0,0,,
+Dialogue: 0,0:09:47.26,0:09:50.44,Chinese,,0,0,0,,到零下15摄氏度  又变回片状雪花了
+
 Dialogue: 0,0:09:50.44,0:09:54.69,English,,0,0,0,,and then below -20, you get columns and plates.
-Dialogue: 0,0:09:50.44,0:09:54.69,Chinese,,0,0,0,,
+Dialogue: 0,0:09:50.44,0:09:54.69,Chinese,,0,0,0,,温度低于零下20度之后  则是柱状和片状雪花
+
 Dialogue: 0,0:09:54.69,0:09:56.69,English,,0,0,0,,The Nakaya Diagram allows us
-Dialogue: 0,0:09:54.69,0:09:56.69,Chinese,,0,0,0,,
+Dialogue: 0,0:09:54.69,0:09:56.69,Chinese,,0,0,0,,中谷图表让我们得以
 Dialogue: 0,0:09:56.69,0:10:00.36,English,,0,0,0,,to understand a rough history of any snowflake.
-Dialogue: 0,0:09:56.69,0:10:00.36,Chinese,,0,0,0,,
+Dialogue: 0,0:09:56.69,0:10:00.36,Chinese,,0,0,0,,粗浅的了解雪花形成的历史
 Dialogue: 0,0:10:00.36,0:10:05.36,English,,0,0,0,,Does each snowflake in essence reveal its history
-Dialogue: 0,0:10:00.36,0:10:05.36,Chinese,,0,0,0,,
+Dialogue: 0,0:10:00.36,0:10:05.36,Chinese,,0,0,0,,能不能说 我们本质上可以通过雪花的形状
 Dialogue: 0,0:10:06.52,0:10:07.90,English,,0,0,0,,through its shape?
-Dialogue: 0,0:10:06.52,0:10:07.90,Chinese,,0,0,0,,
+Dialogue: 0,0:10:06.52,0:10:07.90,Chinese,,0,0,0,,来复述它的形成过程？
 Dialogue: 0,0:10:07.90,0:10:10.27,English,,0,0,0,,- Yeah, absolutely, to some degree.
-Dialogue: 0,0:10:07.90,0:10:10.27,Chinese,,0,0,0,,
+Dialogue: 0,0:10:07.90,0:10:10.27,Chinese,,0,0,0,,嗯，当然了，某种程度上是可以的
+
 Dialogue: 0,0:10:10.27,0:10:12.11,English,,0,0,0,,You can definitely look at a snowflake and say,
-Dialogue: 0,0:10:10.27,0:10:12.11,Chinese,,0,0,0,,
+Dialogue: 0,0:10:10.27,0:10:12.11,Chinese,,0,0,0,,你当然可以通过观察一片雪花，然后说
 Dialogue: 0,0:10:12.11,0:10:13.94,English,,0,0,0,,"Yeah, I know what conditions
-Dialogue: 0,0:10:12.11,0:10:13.94,Chinese,,0,0,0,,
+Dialogue: 0,0:10:12.11,0:10:13.94,Chinese,,0,0,0,,啊 我多多少少能说出来
 Dialogue: 0,0:10:13.94,0:10:16.56,English,,0,0,0,,"that crystal grew under, more or less."
-Dialogue: 0,0:10:13.94,0:10:16.56,Chinese,,0,0,0,,
+Dialogue: 0,0:10:13.94,0:10:16.56,Chinese,,0,0,0,,这个雪花晶体是在什么条件下形成的
 Dialogue: 0,0:10:16.56,0:10:19.39,English,,0,0,0,,Your typical weather patterns, fronts, cold front,
-Dialogue: 0,0:10:16.56,0:10:19.39,Chinese,,0,0,0,,
+Dialogue: 0,0:10:16.56,0:10:19.39,Chinese,,0,0,0,,比如当时的天气状况，锋，冷锋之类的
 Dialogue: 0,0:10:19.39,0:10:20.87,English,,0,0,0,,that produces a lot of capped columns,
-Dialogue: 0,0:10:19.39,0:10:20.87,Chinese,,0,0,0,,
+Dialogue: 0,0:10:19.39,0:10:20.87,Chinese,,0,0,0,,就容易形成很多冠柱状雪花
 Dialogue: 0,0:10:20.87,0:10:23.35,English,,0,0,0,,because as the cloud moves up, it starts to get colder
-Dialogue: 0,0:10:20.87,0:10:23.35,Chinese,,0,0,0,,
+Dialogue: 0,0:10:20.87,0:10:23.35,Chinese,,0,0,0,,因为当云层向上移动，温度逐渐降低
 Dialogue: 0,0:10:23.35,0:10:28.35,English,,0,0,0,,and initially start to freeze at around -6, -10.
-Dialogue: 0,0:10:23.35,0:10:28.35,Chinese,,0,0,0,,
+Dialogue: 0,0:10:23.35,0:10:28.35,Chinese,,0,0,0,,在差不多零下6度，零下10度时开始形成柱状雪花
 Dialogue: 0,0:10:28.49,0:10:30.82,English,,0,0,0,,That makes columns, and as it gets colder,
-Dialogue: 0,0:10:28.49,0:10:30.82,Chinese,,0,0,0,,
+Dialogue: 0,0:10:28.49,0:10:30.82,Chinese,,0,0,0,,之后温度持续降低
 Dialogue: 0,0:10:30.82,0:10:33.16,English,,0,0,0,,then it makes branches and plates,
-Dialogue: 0,0:10:30.82,0:10:33.16,Chinese,,0,0,0,,
+Dialogue: 0,0:10:30.82,0:10:33.16,Chinese,,0,0,0,,雪花开始出现分支形成片状
 Dialogue: 0,0:10:33.16,0:10:35.61,English,,0,0,0,,and so you get capped columns.
-Dialogue: 0,0:10:33.16,0:10:35.61,Chinese,,0,0,0,,
+Dialogue: 0,0:10:33.16,0:10:35.61,Chinese,,0,0,0,,最终得到的就是冠柱状雪花
 Dialogue: 0,0:10:35.61,0:10:36.89,English,,0,0,0,,- [Derek] This also explains
-Dialogue: 0,0:10:35.61,0:10:36.89,Chinese,,0,0,0,,
+Dialogue: 0,0:10:35.61,0:10:36.89,Chinese,,0,0,0,,这也能解释为何雪花如此复杂
 Dialogue: 0,0:10:36.89,0:10:39.12,English,,0,0,0,,why snowflakes are so intricate.
-Dialogue: 0,0:10:36.89,0:10:39.12,Chinese,,0,0,0,,
+Dialogue: 0,0:10:36.89,0:10:39.12,Chinese,,0,0,0,,这也能解释为何雪花如此复杂
 Dialogue: 0,0:10:39.12,0:10:42.31,English,,0,0,0,,The temperature and humidity at each moment of growth
-Dialogue: 0,0:10:39.12,0:10:42.31,Chinese,,0,0,0,,
+Dialogue: 0,0:10:39.12,0:10:42.31,Chinese,,0,0,0,,每个生长阶段的温度和湿度决定了
 Dialogue: 0,0:10:42.31,0:10:45.35,English,,0,0,0,,determines the structures formed in that moment.
-Dialogue: 0,0:10:42.31,0:10:45.35,Chinese,,0,0,0,,
+Dialogue: 0,0:10:42.31,0:10:45.35,Chinese,,0,0,0,,雪花在当时那个阶段形成的形状
 Dialogue: 0,0:10:45.35,0:10:48.58,English,,0,0,0,,The symmetry you see is not because one side
-Dialogue: 0,0:10:45.35,0:10:48.58,Chinese,,0,0,0,,
+Dialogue: 0,0:10:45.35,0:10:48.58,Chinese,,0,0,0,,我们所看到的雪花的对称性
 Dialogue: 0,0:10:48.58,0:10:51.28,English,,0,0,0,,somehow knows what the other side is doing,
-Dialogue: 0,0:10:48.58,0:10:51.28,Chinese,,0,0,0,,
+Dialogue: 0,0:10:48.58,0:10:51.28,Chinese,,0,0,0,,并不是因为雪花的两头有心灵感应
 Dialogue: 0,0:10:51.28,0:10:53.97,English,,0,0,0,,but because both sides of a single snowflake grow
-Dialogue: 0,0:10:51.28,0:10:53.97,Chinese,,0,0,0,,
 Dialogue: 0,0:10:53.97,0:10:56.30,English,,0,0,0,,in the exact same conditions.
-Dialogue: 0,0:10:53.97,0:10:56.30,Chinese,,0,0,0,,
+Dialogue: 0,0:10:51.28,0:10:56.30,Chinese,,0,0,0,,而是因为它们两边所处的环境完全一致
+
 Dialogue: 0,0:10:56.30,0:10:59.30,English,,0,0,0,,- When the crystal changes its position,
-Dialogue: 0,0:10:56.30,0:10:59.30,Chinese,,0,0,0,,
+Dialogue: 0,0:10:56.30,0:10:59.30,Chinese,,0,0,0,,当雪花晶体的位置发生改变时
 Dialogue: 0,0:10:59.30,0:11:00.83,English,,0,0,0,,the temperature will change, say,
-Dialogue: 0,0:10:59.30,0:11:00.83,Chinese,,0,0,0,,
+Dialogue: 0,0:10:59.30,0:11:00.83,Chinese,,0,0,0,,温度等条件会发生变化
 Dialogue: 0,0:11:00.83,0:11:04.48,English,,0,0,0,,and all six branches will see the same temperature change,
-Dialogue: 0,0:11:00.83,0:11:04.48,Chinese,,0,0,0,,
+Dialogue: 0,0:11:00.83,0:11:04.48,Chinese,,0,0,0,,而雪花的6个分支受到了相同的温度变化
 Dialogue: 0,0:11:04.48,0:11:06.60,English,,0,0,0,,and so they'll all respond the same way.
-Dialogue: 0,0:11:04.48,0:11:06.60,Chinese,,0,0,0,,
+Dialogue: 0,0:11:04.48,0:11:06.60,Chinese,,0,0,0,,因此它们继续一致地生长
 Dialogue: 0,0:11:08.18,0:11:10.38,English,,0,0,0,,- [Derek] Different snowflakes, on the other hand,
-Dialogue: 0,0:11:08.18,0:11:10.38,Chinese,,0,0,0,,
+Dialogue: 0,0:11:08.18,0:11:10.38,Chinese,,0,0,0,,另一方面，不同的雪花呢
 Dialogue: 0,0:11:10.38,0:11:12.37,English,,0,0,0,,each take a unique path,
-Dialogue: 0,0:11:10.38,0:11:12.37,Chinese,,0,0,0,,
+Dialogue: 0,0:11:10.38,0:11:12.37,Chinese,,0,0,0,,走着各自独一无二的路
 Dialogue: 0,0:11:12.37,0:11:15.65,English,,0,0,0,,and therefore they experience a unique set of conditions,
-Dialogue: 0,0:11:12.37,0:11:15.65,Chinese,,0,0,0,,
+Dialogue: 0,0:11:12.37,0:11:15.65,Chinese,,0,0,0,,它们一路经历的条件各不相同
 Dialogue: 0,0:11:15.65,0:11:18.52,English,,0,0,0,,which is why no two snowflakes are alike.
-Dialogue: 0,0:11:15.65,0:11:18.52,Chinese,,0,0,0,,
+Dialogue: 0,0:11:15.65,0:11:18.52,Chinese,,0,0,0,,这就是为什么 没有两片完全相同的雪花
 Dialogue: 0,0:11:19.89,0:11:23.33,English,,0,0,0,,But in the lab, you can carefully control the conditions,
 Dialogue: 0,0:11:19.89,0:11:23.33,Chinese,,0,0,0,,但在这个实验中  你可以精细地控制条件
 Dialogue: 0,0:11:23.33,0:11:25.41,English,,0,0,0,,so theoretically it should be possible
