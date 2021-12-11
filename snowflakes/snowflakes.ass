@@ -614,7 +614,8 @@ Dialogue: 0,0:14:07.00,0:14:09.61,English,,0,0,0,,and you end up with column-lik
 Dialogue: 0,0:14:07.00,0:14:09.61,Chinese,,0,0,0,,
 Dialogue: 0,0:14:09.61,0:14:11.69,English,,0,0,0,,Now, the nucleation barriers of ice
 Dialogue: 0,0:14:11.69,0:14:14.24,English,,0,0,0,,are known as a function of temperature,
-Dialogue: 0,0:14:09.61,0:14:14.24,Chinese,,0,0,0,,如今认为  冰的成核位垒是关于温度的函数
+Dialogue: 0,0:14:09.61,0:14:14.24,Chinese,,0,0,0,,如今人们认为  冰的成核位垒是关于温度的函数
+
 Dialogue: 0,0:14:14.24,0:14:17.43,English,,0,0,0,,and this explains why around -2,
 Dialogue: 0,0:14:14.24,0:14:17.43,Chinese,,0,0,0,,这解释了为什么在-2°C左右
 Dialogue: 0,0:14:17.43,0:14:20.16,English,,0,0,0,,the prism facets grow faster, and you get plates,
@@ -631,11 +632,13 @@ Dialogue: 0,0:14:27.79,0:14:32.33,Chinese,,0,0,0,,因为此时  底面的成核�
 Dialogue: 0,0:14:32.33,0:14:35.37,English,,0,0,0,,But what doesn't make sense is why we should get columns
 Dialogue: 0,0:14:32.33,0:14:35.37,Chinese,,0,0,0,,但这并不能解释  为什么雪花在-5°C会形成柱状
 Dialogue: 0,0:14:35.37,0:14:39.67,English,,0,0,0,,at around -5 Celsius and then plates again at -15.
-Dialogue: 0,0:14:35.37,0:14:39.67,Chinese,,0,0,0,,而到了-15°C又会板状
+Dialogue: 0,0:14:35.37,0:14:39.67,Chinese,,0,0,0,,而到了-15°C又会变成板状
+
 Dialogue: 0,0:14:40.50,0:14:42.56,English,,0,0,0,,So what is happening?
 Dialogue: 0,0:14:40.50,0:14:42.56,Chinese,,0,0,0,,所以  到底咋回事呢
 Dialogue: 0,0:14:42.56,0:14:45.58,English,,0,0,0,,Well Ken's hypothesis is that these nucleation barriers
-Dialogue: 0,0:14:42.56,0:14:45.58,Chinese,,0,0,0,,Ken的假设是，成核位垒
+Dialogue: 0,0:14:42.56,0:14:45.58,Chinese,,0,0,0,,Ken的假设是  成核位垒
+
 Dialogue: 0,0:14:45.58,0:14:48.44,English,,0,0,0,,are valid only for large flat facets,
 Dialogue: 0,0:14:45.58,0:14:48.44,Chinese,,0,0,0,,只适用于大而平整的面
 Dialogue: 0,0:14:48.44,0:14:50.64,English,,0,0,0,,but if you had really narrow facets,
@@ -721,7 +724,8 @@ Dialogue: 0,0:16:37.38,0:16:40.78,Chinese,,0,0,0,,在85年以后  也许我们�
 Dialogue: 0,0:16:40.78,0:16:42.82,English,,0,0,0,,the molecular physics of ice well enough
 Dialogue: 0,0:16:40.78,0:16:42.82,Chinese,,0,0,0,,对水分子的物理特性有了足够的了解
 Dialogue: 0,0:16:42.82,0:16:45.54,English,,0,0,0,,to finally explain why snowflakes grow
-Dialogue: 0,0:16:42.82,0:16:45.54,Chinese,,0,0,0,,最终能够解释
+Dialogue: 0,0:16:42.82,0:16:45.54,Chinese,,0,0,0,,最终得以解释
+
 Dialogue: 0,0:16:45.54,0:16:47.28,English,,0,0,0,,into such a diverse collection
 Dialogue: 0,0:16:45.54,0:16:47.28,Chinese,,0,0,0,,为什么雪花会长成
 Dialogue: 0,0:16:47.28,0:16:50.65,English,,0,0,0,,of columnar and plate-like forms.
