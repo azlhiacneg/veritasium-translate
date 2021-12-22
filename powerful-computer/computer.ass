@@ -1,0 +1,895 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ENG,Inter,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,6,6,5,1
+Style: CHN,MonyharOS Sans SC Medium,41,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.78,English,,0,0,0,,In 1901, this ancient Greek artifact was discovered
+Dialogue: 0,0:00:00.00,0:00:03.78,Chinese,,0,0,0,,
+Dialogue: 0,0:00:03.78,0:00:06.72,English,,0,0,0,,in a shipwreck off the island of Antikythera.
+Dialogue: 0,0:00:03.78,0:00:06.72,Chinese,,0,0,0,,
+Dialogue: 0,0:00:06.72,0:00:08.67,English,,0,0,0,,3D X-ray scans have revealed
+Dialogue: 0,0:00:06.72,0:00:08.67,Chinese,,0,0,0,,
+Dialogue: 0,0:00:08.67,0:00:12.23,English,,0,0,0,,it contains 37 interlocking bronze gears,
+Dialogue: 0,0:00:08.67,0:00:12.23,Chinese,,0,0,0,,
+Dialogue: 0,0:00:12.23,0:00:15.67,English,,0,0,0,,allowing it to model the motions of the Sun and Moon
+Dialogue: 0,0:00:12.23,0:00:15.67,Chinese,,0,0,0,,
+Dialogue: 0,0:00:15.67,0:00:18.92,English,,0,0,0,,and predict eclipses decades in advance.
+Dialogue: 0,0:00:15.67,0:00:18.92,Chinese,,0,0,0,,
+Dialogue: 0,0:00:18.92,0:00:22.14,English,,0,0,0,,Constructed around 100 or 200 BC,
+Dialogue: 0,0:00:18.92,0:00:22.14,Chinese,,0,0,0,,
+Dialogue: 0,0:00:22.14,0:00:24.16,English,,0,0,0,,the Antikythera mechanism represents
+Dialogue: 0,0:00:22.14,0:00:24.16,Chinese,,0,0,0,,
+Dialogue: 0,0:00:24.16,0:00:27.36,English,,0,0,0,,a sophisticated early computer, the likes of which
+Dialogue: 0,0:00:24.16,0:00:27.36,Chinese,,0,0,0,,
+Dialogue: 0,0:00:27.36,0:00:31.17,English,,0,0,0,,would not be seen again for at least 1,000 years.
+Dialogue: 0,0:00:27.36,0:00:31.17,Chinese,,0,0,0,,
+Dialogue: 0,0:00:31.17,0:00:32.96,English,,0,0,0,,Now, of course, this computer didn't work
+Dialogue: 0,0:00:31.17,0:00:32.96,Chinese,,0,0,0,,
+Dialogue: 0,0:00:32.96,0:00:35.06,English,,0,0,0,,like modern digital computers.
+Dialogue: 0,0:00:32.96,0:00:35.06,Chinese,,0,0,0,,
+Dialogue: 0,0:00:35.06,0:00:37.41,English,,0,0,0,,It works by analogy.
+Dialogue: 0,0:00:35.06,0:00:37.41,Chinese,,0,0,0,,
+Dialogue: 0,0:00:37.41,0:00:40.30,English,,0,0,0,,The gears were constructed in such a way that the motions
+Dialogue: 0,0:00:37.41,0:00:40.30,Chinese,,0,0,0,,
+Dialogue: 0,0:00:40.30,0:00:42.50,English,,0,0,0,,of certain dials are analogous
+Dialogue: 0,0:00:40.30,0:00:42.50,Chinese,,0,0,0,,
+Dialogue: 0,0:00:42.50,0:00:45.18,English,,0,0,0,,to the motion of the Sun and Moon.
+Dialogue: 0,0:00:42.50,0:00:45.18,Chinese,,0,0,0,,
+Dialogue: 0,0:00:45.18,0:00:47.80,English,,0,0,0,,It is an analog computer.
+Dialogue: 0,0:00:45.18,0:00:47.80,Chinese,,0,0,0,,
+Dialogue: 0,0:00:49.64,0:00:51.65,English,,0,0,0,,Here is a simple analog computer
+Dialogue: 0,0:00:49.64,0:00:51.65,Chinese,,0,0,0,,
+Dialogue: 0,0:00:51.65,0:00:53.64,English,,0,0,0,,for adding two numbers together.
+Dialogue: 0,0:00:51.65,0:00:53.64,Chinese,,0,0,0,,
+Dialogue: 0,0:00:53.64,0:00:55.98,English,,0,0,0,,If you turn the black wheel some amount
+Dialogue: 0,0:00:53.64,0:00:55.98,Chinese,,0,0,0,,
+Dialogue: 0,0:00:55.98,0:00:59.11,English,,0,0,0,,and then turn this white wheel a different amount,
+Dialogue: 0,0:00:55.98,0:00:59.11,Chinese,,0,0,0,,
+Dialogue: 0,0:00:59.11,0:01:02.68,English,,0,0,0,,the gray wheel shows the sum of the two rotations.
+Dialogue: 0,0:00:59.11,0:01:02.68,Chinese,,0,0,0,,
+Dialogue: 0,0:01:03.60,0:01:06.90,English,,0,0,0,,In contrast, this is a digital mechanical computer
+Dialogue: 0,0:01:03.60,0:01:06.90,Chinese,,0,0,0,,
+Dialogue: 0,0:01:06.90,0:01:10.04,English,,0,0,0,,where you can add two single bit numbers.
+Dialogue: 0,0:01:06.90,0:01:10.04,Chinese,,0,0,0,,
+Dialogue: 0,0:01:10.04,0:01:13.09,English,,0,0,0,,So zero plus zero equals zero,
+Dialogue: 0,0:01:10.04,0:01:13.09,Chinese,,0,0,0,,
+Dialogue: 0,0:01:13.09,0:01:18.09,English,,0,0,0,,zero plus one equals one, and one plus one equals two.
+Dialogue: 0,0:01:13.09,0:01:18.09,Chinese,,0,0,0,,
+Dialogue: 0,0:01:19.17,0:01:21.69,English,,0,0,0,,These two devices illustrate the differences
+Dialogue: 0,0:01:19.17,0:01:21.69,Chinese,,0,0,0,,
+Dialogue: 0,0:01:21.69,0:01:24.56,English,,0,0,0,,between analog and digital computers.
+Dialogue: 0,0:01:21.69,0:01:24.56,Chinese,,0,0,0,,
+Dialogue: 0,0:01:24.56,0:01:27.13,English,,0,0,0,,Analog computers have a continuous range
+Dialogue: 0,0:01:24.56,0:01:27.13,Chinese,,0,0,0,,
+Dialogue: 0,0:01:27.13,0:01:28.93,English,,0,0,0,,of inputs and outputs,
+Dialogue: 0,0:01:27.13,0:01:28.93,Chinese,,0,0,0,,
+Dialogue: 0,0:01:28.93,0:01:32.66,English,,0,0,0,,whereas digital only works with discrete values.
+Dialogue: 0,0:01:28.93,0:01:32.66,Chinese,,0,0,0,,
+Dialogue: 0,0:01:32.66,0:01:35.02,English,,0,0,0,,With analog computers, the quantities of interest
+Dialogue: 0,0:01:32.66,0:01:35.02,Chinese,,0,0,0,,
+Dialogue: 0,0:01:35.02,0:01:37.31,English,,0,0,0,,are actually represented by something physical
+Dialogue: 0,0:01:35.02,0:01:37.31,Chinese,,0,0,0,,
+Dialogue: 0,0:01:37.31,0:01:40.06,English,,0,0,0,,like the amount a wheel has turned,
+Dialogue: 0,0:01:37.31,0:01:40.06,Chinese,,0,0,0,,
+Dialogue: 0,0:01:40.06,0:01:42.66,English,,0,0,0,,whereas digital computers work on symbols
+Dialogue: 0,0:01:40.06,0:01:42.66,Chinese,,0,0,0,,
+Dialogue: 0,0:01:42.66,0:01:44.78,English,,0,0,0,,like zeros and ones.
+Dialogue: 0,0:01:42.66,0:01:44.78,Chinese,,0,0,0,,
+Dialogue: 0,0:01:44.78,0:01:48.28,English,,0,0,0,,If the answer is, say, two, there is nothing in the computer
+Dialogue: 0,0:01:44.78,0:01:48.28,Chinese,,0,0,0,,
+Dialogue: 0,0:01:48.28,0:01:51.15,English,,0,0,0,,that is twice as much as a one.
+Dialogue: 0,0:01:48.28,0:01:51.15,Chinese,,0,0,0,,
+Dialogue: 0,0:01:51.15,0:01:53.89,English,,0,0,0,,In analog computers, there is.
+Dialogue: 0,0:01:51.15,0:01:53.89,Chinese,,0,0,0,,
+Dialogue: 0,0:01:53.89,0:01:57.21,English,,0,0,0,,For thousands of years, people used analog devices
+Dialogue: 0,0:01:53.89,0:01:57.21,Chinese,,0,0,0,,
+Dialogue: 0,0:01:57.21,0:02:00.35,English,,0,0,0,,like the Antikythera mechanism or slide rules
+Dialogue: 0,0:01:57.21,0:02:00.35,Chinese,,0,0,0,,
+Dialogue: 0,0:02:00.35,0:02:03.14,English,,0,0,0,,alongside digital devices like abacuses.
+Dialogue: 0,0:02:00.35,0:02:03.14,Chinese,,0,0,0,,
+Dialogue: 0,0:02:03.14,0:02:06.45,English,,0,0,0,,And up until the 1960s, the most powerful computers
+Dialogue: 0,0:02:03.14,0:02:06.45,Chinese,,0,0,0,,
+Dialogue: 0,0:02:06.45,0:02:09.48,English,,0,0,0,,on the planet were actually analog.
+Dialogue: 0,0:02:06.45,0:02:09.48,Chinese,,0,0,0,,
+Dialogue: 0,0:02:09.48,0:02:11.64,English,,0,0,0,,Digital computers exploded onto the scene
+Dialogue: 0,0:02:09.48,0:02:11.64,Chinese,,0,0,0,,
+Dialogue: 0,0:02:11.64,0:02:14.27,English,,0,0,0,,with the advent of solid state transistors,
+Dialogue: 0,0:02:11.64,0:02:14.27,Chinese,,0,0,0,,
+Dialogue: 0,0:02:14.27,0:02:17.03,English,,0,0,0,,and now almost everything is digital.
+Dialogue: 0,0:02:14.27,0:02:17.03,Chinese,,0,0,0,,
+Dialogue: 0,0:02:17.03,0:02:20.82,English,,0,0,0,,Most people have never even heard of analog computers,
+Dialogue: 0,0:02:17.03,0:02:20.82,Chinese,,0,0,0,,
+Dialogue: 0,0:02:20.82,0:02:23.79,English,,0,0,0,,but today that may all be changing.
+Dialogue: 0,0:02:20.82,0:02:23.79,Chinese,,0,0,0,,
+Dialogue: 0,0:02:23.79,0:02:26.16,English,,0,0,0,,Moore's Law, the idea that you can double the number
+Dialogue: 0,0:02:23.79,0:02:26.16,Chinese,,0,0,0,,
+Dialogue: 0,0:02:26.16,0:02:28.57,English,,0,0,0,,of transistors on a chip every two years,
+Dialogue: 0,0:02:26.16,0:02:28.57,Chinese,,0,0,0,,
+Dialogue: 0,0:02:28.57,0:02:30.93,English,,0,0,0,,it's reaching its limit because transistors
+Dialogue: 0,0:02:28.57,0:02:30.93,Chinese,,0,0,0,,
+Dialogue: 0,0:02:30.93,0:02:33.46,English,,0,0,0,,are nearly the same size as atoms.
+Dialogue: 0,0:02:30.93,0:02:33.46,Chinese,,0,0,0,,
+Dialogue: 0,0:02:33.46,0:02:36.22,English,,0,0,0,,Simultaneously, advancements in machine learning
+Dialogue: 0,0:02:33.46,0:02:36.22,Chinese,,0,0,0,,
+Dialogue: 0,0:02:36.22,0:02:39.44,English,,0,0,0,,are straining the capabilities of digital computers.
+Dialogue: 0,0:02:36.22,0:02:39.44,Chinese,,0,0,0,,
+Dialogue: 0,0:02:39.44,0:02:41.57,English,,0,0,0,,The solution to these challenges
+Dialogue: 0,0:02:39.44,0:02:41.57,Chinese,,0,0,0,,
+Dialogue: 0,0:02:41.57,0:02:46.57,English,,0,0,0,,may well be a new generation of analog computers.
+Dialogue: 0,0:02:41.57,0:02:46.57,Chinese,,0,0,0,,
+Dialogue: 0,0:02:46.62,0:02:47.45,English,,0,0,0,,(soft instrumental music)
+Dialogue: 0,0:02:46.62,0:02:47.45,Chinese,,0,0,0,,
+Dialogue: 0,0:02:47.45,0:02:50.40,English,,0,0,0,,One of the most important problems humans have faced
+Dialogue: 0,0:02:47.45,0:02:50.40,Chinese,,0,0,0,,
+Dialogue: 0,0:02:50.40,0:02:53.73,English,,0,0,0,,for millennia is predicting the tides.
+Dialogue: 0,0:02:50.40,0:02:53.73,Chinese,,0,0,0,,
+Dialogue: 0,0:02:53.73,0:02:57.56,English,,0,0,0,,Napoleon and his men nearly died crossing the Red Sea
+Dialogue: 0,0:02:53.73,0:02:57.56,Chinese,,0,0,0,,
+Dialogue: 0,0:02:57.56,0:03:00.94,English,,0,0,0,,due to a miscalculation of the rising tide,
+Dialogue: 0,0:02:57.56,0:03:00.94,Chinese,,0,0,0,,
+Dialogue: 0,0:03:00.94,0:03:03.82,English,,0,0,0,,and sailors routinely needed to know the tides
+Dialogue: 0,0:03:00.94,0:03:03.82,Chinese,,0,0,0,,
+Dialogue: 0,0:03:03.82,0:03:07.17,English,,0,0,0,,to bring their ships into port without running aground.
+Dialogue: 0,0:03:03.82,0:03:07.17,Chinese,,0,0,0,,
+Dialogue: 0,0:03:07.17,0:03:09.15,English,,0,0,0,,Most coastal locations on Earth
+Dialogue: 0,0:03:07.17,0:03:09.15,Chinese,,0,0,0,,
+Dialogue: 0,0:03:09.15,0:03:12.93,English,,0,0,0,,experience two high and two low tides per day,
+Dialogue: 0,0:03:09.15,0:03:12.93,Chinese,,0,0,0,,
+Dialogue: 0,0:03:12.93,0:03:16.90,English,,0,0,0,,but their exact timing varies as does their magnitude,
+Dialogue: 0,0:03:12.93,0:03:16.90,Chinese,,0,0,0,,
+Dialogue: 0,0:03:16.90,0:03:19.05,English,,0,0,0,,and this is partly caused by local factors
+Dialogue: 0,0:03:16.90,0:03:19.05,Chinese,,0,0,0,,
+Dialogue: 0,0:03:19.05,0:03:22.32,English,,0,0,0,,like the depth of the seabed and the shape of the shoreline.
+Dialogue: 0,0:03:19.05,0:03:22.32,Chinese,,0,0,0,,
+Dialogue: 0,0:03:23.49,0:03:27.51,English,,0,0,0,,In the late 1700s, to describe the tidal flow of the oceans
+Dialogue: 0,0:03:23.49,0:03:27.51,Chinese,,0,0,0,,
+Dialogue: 0,0:03:27.51,0:03:29.44,English,,0,0,0,,Pierre-Simon Laplace derived a set
+Dialogue: 0,0:03:27.51,0:03:29.44,Chinese,,0,0,0,,
+Dialogue: 0,0:03:29.44,0:03:31.68,English,,0,0,0,,of complicated differential equations.
+Dialogue: 0,0:03:29.44,0:03:31.68,Chinese,,0,0,0,,
+Dialogue: 0,0:03:31.68,0:03:34.42,English,,0,0,0,,They had no analytical solutions
+Dialogue: 0,0:03:31.68,0:03:34.42,Chinese,,0,0,0,,
+Dialogue: 0,0:03:34.42,0:03:37.01,English,,0,0,0,,so at the time they were basically useless,
+Dialogue: 0,0:03:34.42,0:03:37.01,Chinese,,0,0,0,,
+Dialogue: 0,0:03:37.01,0:03:39.93,English,,0,0,0,,but in the process of deriving his equations,
+Dialogue: 0,0:03:37.01,0:03:39.93,Chinese,,0,0,0,,
+Dialogue: 0,0:03:39.93,0:03:42.32,English,,0,0,0,,Laplace made a key finding.
+Dialogue: 0,0:03:39.93,0:03:42.32,Chinese,,0,0,0,,
+Dialogue: 0,0:03:42.32,0:03:43.91,English,,0,0,0,,Tides are driven at only
+Dialogue: 0,0:03:42.32,0:03:43.91,Chinese,,0,0,0,,
+Dialogue: 0,0:03:43.91,0:03:48.69,English,,0,0,0,,a few specific astronomical frequencies, including the Moon,
+Dialogue: 0,0:03:43.91,0:03:48.69,Chinese,,0,0,0,,
+Dialogue: 0,0:03:48.69,0:03:53.25,English,,0,0,0,,the Sun, and the eccentricity of the lunar orbit.
+Dialogue: 0,0:03:48.69,0:03:53.25,Chinese,,0,0,0,,
+Dialogue: 0,0:03:53.25,0:03:56.25,English,,0,0,0,,Each one of these factors contributes a sine wave
+Dialogue: 0,0:03:53.25,0:03:56.25,Chinese,,0,0,0,,
+Dialogue: 0,0:03:56.25,0:04:01.09,English,,0,0,0,,of a particular amplitude and phase to the total tide curve.
+Dialogue: 0,0:03:56.25,0:04:01.09,Chinese,,0,0,0,,
+Dialogue: 0,0:04:01.09,0:04:02.16,English,,0,0,0,,If someone could figure out
+Dialogue: 0,0:04:01.09,0:04:02.16,Chinese,,0,0,0,,
+Dialogue: 0,0:04:02.16,0:04:05.06,English,,0,0,0,,how to correctly combine these frequency components,
+Dialogue: 0,0:04:02.16,0:04:05.06,Chinese,,0,0,0,,
+Dialogue: 0,0:04:05.06,0:04:07.68,English,,0,0,0,,well, the tides could finally be predicted.
+Dialogue: 0,0:04:05.06,0:04:07.68,Chinese,,0,0,0,,
+Dialogue: 0,0:04:08.90,0:04:12.51,English,,0,0,0,,It took nearly a century, but in the 1860s,
+Dialogue: 0,0:04:08.90,0:04:12.51,Chinese,,0,0,0,,
+Dialogue: 0,0:04:12.51,0:04:16.68,English,,0,0,0,,William Thomson, later Lord Kelvin, took up the challenge.
+Dialogue: 0,0:04:12.51,0:04:16.68,Chinese,,0,0,0,,
+Dialogue: 0,0:04:16.68,0:04:18.42,English,,0,0,0,,Having completed several voyages
+Dialogue: 0,0:04:16.68,0:04:18.42,Chinese,,0,0,0,,
+Dialogue: 0,0:04:18.42,0:04:21.21,English,,0,0,0,,to lay the first transatlantic Telegraph cable,
+Dialogue: 0,0:04:18.42,0:04:21.21,Chinese,,0,0,0,,
+Dialogue: 0,0:04:21.21,0:04:23.78,English,,0,0,0,,he developed a fascination with the sea
+Dialogue: 0,0:04:21.21,0:04:23.78,Chinese,,0,0,0,,
+Dialogue: 0,0:04:23.78,0:04:26.78,English,,0,0,0,,and subsequently he threw his full scientific effort
+Dialogue: 0,0:04:23.78,0:04:26.78,Chinese,,0,0,0,,
+Dialogue: 0,0:04:26.78,0:04:29.78,English,,0,0,0,,into measuring and predicting the tides.
+Dialogue: 0,0:04:26.78,0:04:29.78,Chinese,,0,0,0,,
+Dialogue: 0,0:04:29.78,0:04:32.31,English,,0,0,0,,Tide gauges at the time used a buoy
+Dialogue: 0,0:04:29.78,0:04:32.31,Chinese,,0,0,0,,
+Dialogue: 0,0:04:32.31,0:04:35.74,English,,0,0,0,,to record the height of the sea onto a paper roll.
+Dialogue: 0,0:04:32.31,0:04:35.74,Chinese,,0,0,0,,
+Dialogue: 0,0:04:35.74,0:04:38.28,English,,0,0,0,,Kelvin set out to determine how sine waves
+Dialogue: 0,0:04:35.74,0:04:38.28,Chinese,,0,0,0,,
+Dialogue: 0,0:04:38.28,0:04:40.68,English,,0,0,0,,with the frequencies identified by Laplace
+Dialogue: 0,0:04:38.28,0:04:40.68,Chinese,,0,0,0,,
+Dialogue: 0,0:04:40.68,0:04:44.63,English,,0,0,0,,could add together to produce the observed tidal curve.
+Dialogue: 0,0:04:40.68,0:04:44.63,Chinese,,0,0,0,,
+Dialogue: 0,0:04:44.63,0:04:47.94,English,,0,0,0,,The key was to apply the work of French mathematician
+Dialogue: 0,0:04:44.63,0:04:47.94,Chinese,,0,0,0,,
+Dialogue: 0,0:04:47.94,0:04:51.72,English,,0,0,0,,Joseph Fourier who had shown how to decompose any function
+Dialogue: 0,0:04:47.94,0:04:51.72,Chinese,,0,0,0,,
+Dialogue: 0,0:04:51.72,0:04:54.00,English,,0,0,0,,into a sum of sine waves.
+Dialogue: 0,0:04:51.72,0:04:54.00,Chinese,,0,0,0,,
+Dialogue: 0,0:04:54.00,0:04:56.69,English,,0,0,0,,Most English scientists were skeptical of the work,
+Dialogue: 0,0:04:54.00,0:04:56.69,Chinese,,0,0,0,,
+Dialogue: 0,0:04:56.69,0:04:59.23,English,,0,0,0,,but Thomson was enthralled by it.
+Dialogue: 0,0:04:56.69,0:04:59.23,Chinese,,0,0,0,,
+Dialogue: 0,0:04:59.23,0:05:03.89,English,,0,0,0,,His first paper published at 17 was a defense of Fourier.
+Dialogue: 0,0:04:59.23,0:05:03.89,Chinese,,0,0,0,,
+Dialogue: 0,0:05:03.89,0:05:07.13,English,,0,0,0,,While it was straightforward to apply Fourier's analysis
+Dialogue: 0,0:05:03.89,0:05:07.13,Chinese,,0,0,0,,
+Dialogue: 0,0:05:07.13,0:05:11.39,English,,0,0,0,,to tidal curves, the computation required was enormous.
+Dialogue: 0,0:05:07.13,0:05:11.39,Chinese,,0,0,0,,
+Dialogue: 0,0:05:11.39,0:05:15.93,English,,0,0,0,,First, divide the tide curve up into short time intervals
+Dialogue: 0,0:05:11.39,0:05:15.93,Chinese,,0,0,0,,
+Dialogue: 0,0:05:15.93,0:05:18.50,English,,0,0,0,,and for each interval multiply the tide level
+Dialogue: 0,0:05:15.93,0:05:18.50,Chinese,,0,0,0,,
+Dialogue: 0,0:05:18.50,0:05:21.59,English,,0,0,0,,by a sine wave with the frequency of interest.
+Dialogue: 0,0:05:18.50,0:05:21.59,Chinese,,0,0,0,,
+Dialogue: 0,0:05:21.59,0:05:23.86,English,,0,0,0,,Add up the area of all these rectangles
+Dialogue: 0,0:05:21.59,0:05:23.86,Chinese,,0,0,0,,
+Dialogue: 0,0:05:23.86,0:05:26.24,English,,0,0,0,,and divide by the total time
+Dialogue: 0,0:05:23.86,0:05:26.24,Chinese,,0,0,0,,
+Dialogue: 0,0:05:26.24,0:05:28.70,English,,0,0,0,,and this gives you a single coefficient,
+Dialogue: 0,0:05:26.24,0:05:28.70,Chinese,,0,0,0,,
+Dialogue: 0,0:05:28.70,0:05:32.35,English,,0,0,0,,the amplitude of the sine wave with this frequency.
+Dialogue: 0,0:05:28.70,0:05:32.35,Chinese,,0,0,0,,
+Dialogue: 0,0:05:32.35,0:05:33.94,English,,0,0,0,,Then you have to repeat the process
+Dialogue: 0,0:05:32.35,0:05:33.94,Chinese,,0,0,0,,
+Dialogue: 0,0:05:33.94,0:05:36.84,English,,0,0,0,,for a cosine function with the same frequency.
+Dialogue: 0,0:05:33.94,0:05:36.84,Chinese,,0,0,0,,
+Dialogue: 0,0:05:37.83,0:05:40.11,English,,0,0,0,,Kelvin found that to make accurate predictions,
+Dialogue: 0,0:05:37.83,0:05:40.11,Chinese,,0,0,0,,
+Dialogue: 0,0:05:40.11,0:05:43.70,English,,0,0,0,,he actually needed 10 different frequency components
+Dialogue: 0,0:05:40.11,0:05:43.70,Chinese,,0,0,0,,
+Dialogue: 0,0:05:43.70,0:05:46.68,English,,0,0,0,,so that is a lot of multiplication and addition
+Dialogue: 0,0:05:43.70,0:05:46.68,Chinese,,0,0,0,,
+Dialogue: 0,0:05:46.68,0:05:50.19,English,,0,0,0,,to characterize the tides at just one location.
+Dialogue: 0,0:05:46.68,0:05:50.19,Chinese,,0,0,0,,
+Dialogue: 0,0:05:50.19,0:05:52.01,English,,0,0,0,,For each additional location,
+Dialogue: 0,0:05:50.19,0:05:52.01,Chinese,,0,0,0,,
+Dialogue: 0,0:05:52.01,0:05:55.87,English,,0,0,0,,you have to perform this analysis all over again.
+Dialogue: 0,0:05:52.01,0:05:55.87,Chinese,,0,0,0,,
+Dialogue: 0,0:05:55.87,0:05:58.49,English,,0,0,0,,And this is only half the problem.
+Dialogue: 0,0:05:55.87,0:05:58.49,Chinese,,0,0,0,,
+Dialogue: 0,0:05:58.49,0:06:00.63,English,,0,0,0,,Once you have the amplitudes and phases
+Dialogue: 0,0:05:58.49,0:06:00.63,Chinese,,0,0,0,,
+Dialogue: 0,0:06:00.63,0:06:02.95,English,,0,0,0,,of the sine functions, you have to add them up
+Dialogue: 0,0:06:00.63,0:06:02.95,Chinese,,0,0,0,,
+Dialogue: 0,0:06:02.95,0:06:05.42,English,,0,0,0,,to predict future tides.
+Dialogue: 0,0:06:02.95,0:06:05.42,Chinese,,0,0,0,,
+Dialogue: 0,0:06:05.42,0:06:07.90,English,,0,0,0,,Lord Kelvin spent years analyzing
+Dialogue: 0,0:06:05.42,0:06:07.90,Chinese,,0,0,0,,
+Dialogue: 0,0:06:07.90,0:06:10.16,English,,0,0,0,,and predicting tides by hand.
+Dialogue: 0,0:06:07.90,0:06:10.16,Chinese,,0,0,0,,
+Dialogue: 0,0:06:10.16,0:06:12.74,English,,0,0,0,,Then he had a stroke of inspiration.
+Dialogue: 0,0:06:10.16,0:06:12.74,Chinese,,0,0,0,,
+Dialogue: 0,0:06:12.74,0:06:13.98,English,,0,0,0,,Could you design a machine
+Dialogue: 0,0:06:12.74,0:06:13.98,Chinese,,0,0,0,,
+Dialogue: 0,0:06:13.98,0:06:16.55,English,,0,0,0,,to carry out these calculations automatically?
+Dialogue: 0,0:06:13.98,0:06:16.55,Chinese,,0,0,0,,
+Dialogue: 0,0:06:16.55,0:06:20.24,English,,0,0,0,,In Kelvin's words, to substitute brass for brains.
+Dialogue: 0,0:06:16.55,0:06:20.24,Chinese,,0,0,0,,
+Dialogue: 0,0:06:20.24,0:06:21.98,English,,0,0,0,,The resulting analog computers
+Dialogue: 0,0:06:20.24,0:06:21.98,Chinese,,0,0,0,,
+Dialogue: 0,0:06:21.98,0:06:24.60,English,,0,0,0,,were in use for nearly a century.
+Dialogue: 0,0:06:21.98,0:06:24.60,Chinese,,0,0,0,,
+Dialogue: 0,0:06:24.60,0:06:26.10,English,,0,0,0,,They even played a critical role
+Dialogue: 0,0:06:24.60,0:06:26.10,Chinese,,0,0,0,,
+Dialogue: 0,0:06:26.10,0:06:27.95,English,,0,0,0,,in the outcome of World War II.
+Dialogue: 0,0:06:26.10,0:06:27.95,Chinese,,0,0,0,,
+Dialogue: 0,0:06:29.42,0:06:32.13,English,,0,0,0,,Kelvin started with the problem of prediction.
+Dialogue: 0,0:06:29.42,0:06:32.13,Chinese,,0,0,0,,
+Dialogue: 0,0:06:32.13,0:06:33.72,English,,0,0,0,,Adding the sine waves together,
+Dialogue: 0,0:06:32.13,0:06:33.72,Chinese,,0,0,0,,
+Dialogue: 0,0:06:33.72,0:06:36.25,English,,0,0,0,,given you know their amplitudes and phases,
+Dialogue: 0,0:06:33.72,0:06:36.25,Chinese,,0,0,0,,
+Dialogue: 0,0:06:36.25,0:06:39.20,English,,0,0,0,,he knew he could create sinusoidal motion
+Dialogue: 0,0:06:36.25,0:06:39.20,Chinese,,0,0,0,,
+Dialogue: 0,0:06:39.20,0:06:41.62,English,,0,0,0,,with a device called a Scotch Yoke.
+Dialogue: 0,0:06:39.20,0:06:41.62,Chinese,,0,0,0,,
+Dialogue: 0,0:06:41.62,0:06:45.39,English,,0,0,0,,It extracts one dimension from uniform circular motion.
+Dialogue: 0,0:06:41.62,0:06:45.39,Chinese,,0,0,0,,
+Dialogue: 0,0:06:45.39,0:06:47.24,English,,0,0,0,,But to make a tide prediction,
+Dialogue: 0,0:06:45.39,0:06:47.24,Chinese,,0,0,0,,
+Dialogue: 0,0:06:47.24,0:06:50.53,English,,0,0,0,,he needed a way to combine 10 sine waves together.
+Dialogue: 0,0:06:47.24,0:06:50.53,Chinese,,0,0,0,,
+Dialogue: 0,0:06:50.53,0:06:54.07,English,,0,0,0,,He needed a mechanical analog for addition.
+Dialogue: 0,0:06:50.53,0:06:54.07,Chinese,,0,0,0,,
+Dialogue: 0,0:06:54.07,0:06:58.01,English,,0,0,0,,Stuck on this problem in 1872, Kelvin boarded a train
+Dialogue: 0,0:06:54.07,0:06:58.01,Chinese,,0,0,0,,
+Dialogue: 0,0:06:58.01,0:07:00.57,English,,0,0,0,,for a meeting with the main sponsor of his tidal research,
+Dialogue: 0,0:06:58.01,0:07:00.57,Chinese,,0,0,0,,
+Dialogue: 0,0:07:00.57,0:07:02.61,English,,0,0,0,,the British Association.
+Dialogue: 0,0:07:00.57,0:07:02.61,Chinese,,0,0,0,,
+Dialogue: 0,0:07:02.61,0:07:04.95,English,,0,0,0,,On the train, Kelvin bumped into a friend,
+Dialogue: 0,0:07:02.61,0:07:04.95,Chinese,,0,0,0,,
+Dialogue: 0,0:07:04.95,0:07:09.37,English,,0,0,0,,inventor Beauchamp Tower to whom he explained his dilemma.
+Dialogue: 0,0:07:04.95,0:07:09.37,Chinese,,0,0,0,,
+Dialogue: 0,0:07:09.37,0:07:11.76,English,,0,0,0,,Tower suggested he use Wheatstone's plan
+Dialogue: 0,0:07:09.37,0:07:11.76,Chinese,,0,0,0,,
+Dialogue: 0,0:07:11.76,0:07:14.52,English,,0,0,0,,of a chain passing round a number of pulleys.
+Dialogue: 0,0:07:11.76,0:07:14.52,Chinese,,0,0,0,,
+Dialogue: 0,0:07:14.52,0:07:17.04,English,,0,0,0,,And this was exactly the addition mechanism
+Dialogue: 0,0:07:14.52,0:07:17.04,Chinese,,0,0,0,,
+Dialogue: 0,0:07:17.04,0:07:18.79,English,,0,0,0,,Kelvin was looking for.
+Dialogue: 0,0:07:17.04,0:07:18.79,Chinese,,0,0,0,,
+Dialogue: 0,0:07:18.79,0:07:21.33,English,,0,0,0,,By attaching a pulley to each Scotch yoke
+Dialogue: 0,0:07:18.79,0:07:21.33,Chinese,,0,0,0,,
+Dialogue: 0,0:07:21.33,0:07:23.43,English,,0,0,0,,and running a weighted cord around them,
+Dialogue: 0,0:07:21.33,0:07:23.43,Chinese,,0,0,0,,
+Dialogue: 0,0:07:23.43,0:07:25.15,English,,0,0,0,,he could mechanically add
+Dialogue: 0,0:07:23.43,0:07:25.15,Chinese,,0,0,0,,
+Dialogue: 0,0:07:25.15,0:07:27.71,English,,0,0,0,,all of their contributions at once.
+Dialogue: 0,0:07:25.15,0:07:27.71,Chinese,,0,0,0,,
+Dialogue: 0,0:07:27.71,0:07:29.34,English,,0,0,0,,He scribbled down the entire plan
+Dialogue: 0,0:07:27.71,0:07:29.34,Chinese,,0,0,0,,
+Dialogue: 0,0:07:29.34,0:07:32.33,English,,0,0,0,,for this predictor machine by the end of the train ride.
+Dialogue: 0,0:07:29.34,0:07:32.33,Chinese,,0,0,0,,
+Dialogue: 0,0:07:32.33,0:07:34.36,English,,0,0,0,,He pitched it to the British Association
+Dialogue: 0,0:07:32.33,0:07:34.36,Chinese,,0,0,0,,
+Dialogue: 0,0:07:34.36,0:07:38.08,English,,0,0,0,,and secured funding to build it all before he returned home.
+Dialogue: 0,0:07:34.36,0:07:38.08,Chinese,,0,0,0,,
+Dialogue: 0,0:07:39.54,0:07:41.55,English,,0,0,0,,If you knew the relative contributions
+Dialogue: 0,0:07:39.54,0:07:41.55,Chinese,,0,0,0,,
+Dialogue: 0,0:07:41.55,0:07:43.41,English,,0,0,0,,of different frequency components,
+Dialogue: 0,0:07:41.55,0:07:43.41,Chinese,,0,0,0,,
+Dialogue: 0,0:07:43.41,0:07:47.05,English,,0,0,0,,Kelvin now had a machine to automate the tedious task
+Dialogue: 0,0:07:43.41,0:07:47.05,Chinese,,0,0,0,,
+Dialogue: 0,0:07:47.05,0:07:49.10,English,,0,0,0,,of predicting future tides.
+Dialogue: 0,0:07:47.05,0:07:49.10,Chinese,,0,0,0,,
+Dialogue: 0,0:07:49.10,0:07:51.84,English,,0,0,0,,This was a great leap forward.
+Dialogue: 0,0:07:49.10,0:07:51.84,Chinese,,0,0,0,,
+Dialogue: 0,0:07:51.84,0:07:54.34,English,,0,0,0,,Four hours of cranking the handle
+Dialogue: 0,0:07:51.84,0:07:54.34,Chinese,,0,0,0,,
+Dialogue: 0,0:07:54.34,0:07:57.64,English,,0,0,0,,yielded a full year of tidal predictions.
+Dialogue: 0,0:07:54.34,0:07:57.64,Chinese,,0,0,0,,
+Dialogue: 0,0:07:57.64,0:08:00.19,English,,0,0,0,,But for many years, the harder half of the problem
+Dialogue: 0,0:07:57.64,0:08:00.19,Chinese,,0,0,0,,
+Dialogue: 0,0:08:00.19,0:08:02.85,English,,0,0,0,,was still done by hand, breaking apart
+Dialogue: 0,0:08:00.19,0:08:02.85,Chinese,,0,0,0,,
+Dialogue: 0,0:08:02.85,0:08:06.40,English,,0,0,0,,an existing tide curve into its component frequencies.
+Dialogue: 0,0:08:02.85,0:08:06.40,Chinese,,0,0,0,,
+Dialogue: 0,0:08:06.40,0:08:08.89,English,,0,0,0,,To automate this step, Kelvin needed a machine
+Dialogue: 0,0:08:06.40,0:08:08.89,Chinese,,0,0,0,,
+Dialogue: 0,0:08:08.89,0:08:12.56,English,,0,0,0,,capable of multiplying the tide curve times a sine wave
+Dialogue: 0,0:08:08.89,0:08:12.56,Chinese,,0,0,0,,
+Dialogue: 0,0:08:12.56,0:08:14.79,English,,0,0,0,,and then taking its integral.
+Dialogue: 0,0:08:12.56,0:08:14.79,Chinese,,0,0,0,,
+Dialogue: 0,0:08:14.79,0:08:18.40,English,,0,0,0,,What would such a device even look like?
+Dialogue: 0,0:08:14.79,0:08:18.40,Chinese,,0,0,0,,
+Dialogue: 0,0:08:18.40,0:08:20.51,English,,0,0,0,,With his older brother, James Thomson,
+Dialogue: 0,0:08:18.40,0:08:20.51,Chinese,,0,0,0,,
+Dialogue: 0,0:08:20.51,0:08:23.28,English,,0,0,0,,Kelvin came up with a mechanical integrator.
+Dialogue: 0,0:08:20.51,0:08:23.28,Chinese,,0,0,0,,
+Dialogue: 0,0:08:23.28,0:08:26.72,English,,0,0,0,,It consists of a ball on a rotating disc.
+Dialogue: 0,0:08:23.28,0:08:26.72,Chinese,,0,0,0,,
+Dialogue: 0,0:08:26.72,0:08:29.56,English,,0,0,0,,Due to the rotation of the disc, the further the ball
+Dialogue: 0,0:08:26.72,0:08:29.56,Chinese,,0,0,0,,
+Dialogue: 0,0:08:29.56,0:08:32.83,English,,0,0,0,,is from the center, the faster it spins.
+Dialogue: 0,0:08:29.56,0:08:32.83,Chinese,,0,0,0,,
+Dialogue: 0,0:08:32.83,0:08:35.27,English,,0,0,0,,If the ball is at the very center of the disc.
+Dialogue: 0,0:08:32.83,0:08:35.27,Chinese,,0,0,0,,
+Dialogue: 0,0:08:35.27,0:08:37.05,English,,0,0,0,,It doesn't turn at all.
+Dialogue: 0,0:08:35.27,0:08:37.05,Chinese,,0,0,0,,
+Dialogue: 0,0:08:37.05,0:08:38.41,English,,0,0,0,,And if it's on the left side,
+Dialogue: 0,0:08:37.05,0:08:38.41,Chinese,,0,0,0,,
+Dialogue: 0,0:08:38.41,0:08:40.97,English,,0,0,0,,it turns in the opposite direction.
+Dialogue: 0,0:08:38.41,0:08:40.97,Chinese,,0,0,0,,
+Dialogue: 0,0:08:40.97,0:08:44.16,English,,0,0,0,,Now, the motion of the ball is converted into an output
+Dialogue: 0,0:08:40.97,0:08:44.16,Chinese,,0,0,0,,
+Dialogue: 0,0:08:44.16,0:08:48.06,English,,0,0,0,,via a roller, which moves a pen up or down
+Dialogue: 0,0:08:44.16,0:08:48.06,Chinese,,0,0,0,,
+Dialogue: 0,0:08:48.06,0:08:50.34,English,,0,0,0,,on the output graph paper.
+Dialogue: 0,0:08:48.06,0:08:50.34,Chinese,,0,0,0,,
+Dialogue: 0,0:08:50.34,0:08:53.16,English,,0,0,0,,So the way it works is you trace the function
+Dialogue: 0,0:08:50.34,0:08:53.16,Chinese,,0,0,0,,
+Dialogue: 0,0:08:53.16,0:08:55.07,English,,0,0,0,,you want to integrate with a stylus,
+Dialogue: 0,0:08:53.16,0:08:55.07,Chinese,,0,0,0,,
+Dialogue: 0,0:08:55.07,0:08:57.10,English,,0,0,0,,and the stylus controls the position
+Dialogue: 0,0:08:55.07,0:08:57.10,Chinese,,0,0,0,,
+Dialogue: 0,0:08:57.10,0:09:01.15,English,,0,0,0,,of the ball on the disc and hence its speed of rotation.
+Dialogue: 0,0:08:57.10,0:09:01.15,Chinese,,0,0,0,,
+Dialogue: 0,0:09:01.15,0:09:04.13,English,,0,0,0,,This is transferred through the roller to the output,
+Dialogue: 0,0:09:01.15,0:09:04.13,Chinese,,0,0,0,,
+Dialogue: 0,0:09:04.13,0:09:07.06,English,,0,0,0,,which plots the integral of the original function.
+Dialogue: 0,0:09:04.13,0:09:07.06,Chinese,,0,0,0,,
+Dialogue: 0,0:09:08.20,0:09:10.26,English,,0,0,0,,Now, to decompose a tide curve,
+Dialogue: 0,0:09:08.20,0:09:10.26,Chinese,,0,0,0,,
+Dialogue: 0,0:09:10.26,0:09:12.39,English,,0,0,0,,we don't just want to integrate the function.
+Dialogue: 0,0:09:10.26,0:09:12.39,Chinese,,0,0,0,,
+Dialogue: 0,0:09:12.39,0:09:14.88,English,,0,0,0,,We first want to multiply it by a sine wave
+Dialogue: 0,0:09:12.39,0:09:14.88,Chinese,,0,0,0,,
+Dialogue: 0,0:09:14.88,0:09:17.75,English,,0,0,0,,of a particular frequency, and the way to do this
+Dialogue: 0,0:09:14.88,0:09:17.75,Chinese,,0,0,0,,
+Dialogue: 0,0:09:17.75,0:09:21.08,English,,0,0,0,,is to make the disc rotate back and forth
+Dialogue: 0,0:09:17.75,0:09:21.08,Chinese,,0,0,0,,
+Dialogue: 0,0:09:21.08,0:09:23.04,English,,0,0,0,,at that specific frequency.
+Dialogue: 0,0:09:21.08,0:09:23.04,Chinese,,0,0,0,,
+Dialogue: 0,0:09:23.04,0:09:26.41,English,,0,0,0,,Now the rotation of the ball depends not only on where it is
+Dialogue: 0,0:09:23.04,0:09:26.41,Chinese,,0,0,0,,
+Dialogue: 0,0:09:26.41,0:09:28.79,English,,0,0,0,,on the disc, but also on how the disc
+Dialogue: 0,0:09:26.41,0:09:28.79,Chinese,,0,0,0,,
+Dialogue: 0,0:09:28.79,0:09:31.00,English,,0,0,0,,is turning at that instant.
+Dialogue: 0,0:09:28.79,0:09:31.00,Chinese,,0,0,0,,
+Dialogue: 0,0:09:31.00,0:09:33.30,English,,0,0,0,,You trace the tide curve with the stylus,
+Dialogue: 0,0:09:31.00,0:09:33.30,Chinese,,0,0,0,,
+Dialogue: 0,0:09:33.30,0:09:36.70,English,,0,0,0,,which moves the ball back and forth on the oscillating disc,
+Dialogue: 0,0:09:33.30,0:09:36.70,Chinese,,0,0,0,,
+Dialogue: 0,0:09:36.70,0:09:38.97,English,,0,0,0,,and the roller sums up the integral
+Dialogue: 0,0:09:36.70,0:09:38.97,Chinese,,0,0,0,,
+Dialogue: 0,0:09:38.97,0:09:41.99,English,,0,0,0,,of the tide curve times the sine wave.
+Dialogue: 0,0:09:38.97,0:09:41.99,Chinese,,0,0,0,,
+Dialogue: 0,0:09:41.99,0:09:45.92,English,,0,0,0,,Simply divide by the total time to get the coefficient.
+Dialogue: 0,0:09:41.99,0:09:45.92,Chinese,,0,0,0,,
+Dialogue: 0,0:09:45.92,0:09:48.61,English,,0,0,0,,Several of these ball and disc integrators can be connected
+Dialogue: 0,0:09:45.92,0:09:48.61,Chinese,,0,0,0,,
+Dialogue: 0,0:09:48.61,0:09:51.45,English,,0,0,0,,in parallel with each disc oscillating
+Dialogue: 0,0:09:48.61,0:09:51.45,Chinese,,0,0,0,,
+Dialogue: 0,0:09:51.45,0:09:54.57,English,,0,0,0,,at a different frequency to calculate the coefficients
+Dialogue: 0,0:09:51.45,0:09:54.57,Chinese,,0,0,0,,
+Dialogue: 0,0:09:54.57,0:09:58.72,English,,0,0,0,,for multiple frequency components at the same time,
+Dialogue: 0,0:09:54.57,0:09:58.72,Chinese,,0,0,0,,
+Dialogue: 0,0:09:58.72,0:10:00.62,English,,0,0,0,,Kelvin's analog computers
+Dialogue: 0,0:09:58.72,0:10:00.62,Chinese,,0,0,0,,
+Dialogue: 0,0:10:00.62,0:10:03.71,English,,0,0,0,,revolutionized our ability to predict tides.
+Dialogue: 0,0:10:00.62,0:10:03.71,Chinese,,0,0,0,,
+Dialogue: 0,0:10:03.71,0:10:06.58,English,,0,0,0,,Tidal curves from anywhere in the world could be turned
+Dialogue: 0,0:10:03.71,0:10:06.58,Chinese,,0,0,0,,
+Dialogue: 0,0:10:06.58,0:10:08.81,English,,0,0,0,,into a set of sinusoidal coefficients
+Dialogue: 0,0:10:06.58,0:10:08.81,Chinese,,0,0,0,,
+Dialogue: 0,0:10:08.81,0:10:11.84,English,,0,0,0,,using the ball and disc harmonic analyzer,
+Dialogue: 0,0:10:08.81,0:10:11.84,Chinese,,0,0,0,,
+Dialogue: 0,0:10:11.84,0:10:14.32,English,,0,0,0,,and the resulting sinusoids could be added together
+Dialogue: 0,0:10:11.84,0:10:14.32,Chinese,,0,0,0,,
+Dialogue: 0,0:10:14.32,0:10:15.89,English,,0,0,0,,to predict future tides
+Dialogue: 0,0:10:14.32,0:10:15.89,Chinese,,0,0,0,,
+Dialogue: 0,0:10:15.89,0:10:18.57,English,,0,0,0,,using his Scotch yoke pulley machine.
+Dialogue: 0,0:10:15.89,0:10:18.57,Chinese,,0,0,0,,
+Dialogue: 0,0:10:19.83,0:10:22.23,English,,0,0,0,,Kelvin's harmonic analyzers were the basis
+Dialogue: 0,0:10:19.83,0:10:22.23,Chinese,,0,0,0,,
+Dialogue: 0,0:10:22.23,0:10:23.94,English,,0,0,0,,for a landmark analog computer
+Dialogue: 0,0:10:22.23,0:10:23.94,Chinese,,0,0,0,,
+Dialogue: 0,0:10:23.94,0:10:25.94,English,,0,0,0,,called the differential analyzer,
+Dialogue: 0,0:10:23.94,0:10:25.94,Chinese,,0,0,0,,
+Dialogue: 0,0:10:25.94,0:10:27.82,English,,0,0,0,,and his tide predicting machines
+Dialogue: 0,0:10:25.94,0:10:27.82,Chinese,,0,0,0,,
+Dialogue: 0,0:10:27.82,0:10:30.56,English,,0,0,0,,were used well into the 1960s.
+Dialogue: 0,0:10:27.82,0:10:30.56,Chinese,,0,0,0,,
+Dialogue: 0,0:10:30.56,0:10:32.41,English,,0,0,0,,In fact, they were later overhauled
+Dialogue: 0,0:10:30.56,0:10:32.41,Chinese,,0,0,0,,
+Dialogue: 0,0:10:32.41,0:10:35.03,English,,0,0,0,,to include 26 frequency components
+Dialogue: 0,0:10:32.41,0:10:35.03,Chinese,,0,0,0,,
+Dialogue: 0,0:10:35.03,0:10:39.20,English,,0,0,0,,and used to plan the allied invasion on D-Day.
+Dialogue: 0,0:10:35.03,0:10:39.20,Chinese,,0,0,0,,
+Dialogue: 0,0:10:39.20,0:10:42.27,English,,0,0,0,,The Germans expected any invasion to come at high tide
+Dialogue: 0,0:10:39.20,0:10:42.27,Chinese,,0,0,0,,
+Dialogue: 0,0:10:42.27,0:10:44.24,English,,0,0,0,,to minimize the time Allied soldiers
+Dialogue: 0,0:10:42.27,0:10:44.24,Chinese,,0,0,0,,
+Dialogue: 0,0:10:44.24,0:10:46.23,English,,0,0,0,,would be exposed on the beaches
+Dialogue: 0,0:10:44.24,0:10:46.23,Chinese,,0,0,0,,
+Dialogue: 0,0:10:46.23,0:10:48.34,English,,0,0,0,,so they installed millions of obstacles
+Dialogue: 0,0:10:46.23,0:10:48.34,Chinese,,0,0,0,,
+Dialogue: 0,0:10:48.34,0:10:50.92,English,,0,0,0,,that would be underwater by mid tide,
+Dialogue: 0,0:10:48.34,0:10:50.92,Chinese,,0,0,0,,
+Dialogue: 0,0:10:50.92,0:10:53.93,English,,0,0,0,,many with explosive mines attached,
+Dialogue: 0,0:10:50.92,0:10:53.93,Chinese,,0,0,0,,
+Dialogue: 0,0:10:53.93,0:10:57.43,English,,0,0,0,,but the Allies spotted the obstacles and changed tack.
+Dialogue: 0,0:10:53.93,0:10:57.43,Chinese,,0,0,0,,
+Dialogue: 0,0:10:57.43,0:11:00.39,English,,0,0,0,,Instead they plan to begin the invasion at low tide.
+Dialogue: 0,0:10:57.43,0:11:00.39,Chinese,,0,0,0,,
+Dialogue: 0,0:11:00.39,0:11:02.50,English,,0,0,0,,This would allow demolition teams
+Dialogue: 0,0:11:00.39,0:11:02.50,Chinese,,0,0,0,,
+Dialogue: 0,0:11:02.50,0:11:05.36,English,,0,0,0,,to first clear channels through the obstacles.
+Dialogue: 0,0:11:02.50,0:11:05.36,Chinese,,0,0,0,,
+Dialogue: 0,0:11:05.36,0:11:06.47,English,,0,0,0,,Then the main forces
+Dialogue: 0,0:11:05.36,0:11:06.47,Chinese,,0,0,0,,
+Dialogue: 0,0:11:06.47,0:11:09.40,English,,0,0,0,,could come through those gaps as the water rose.
+Dialogue: 0,0:11:06.47,0:11:09.40,Chinese,,0,0,0,,
+Dialogue: 0,0:11:09.40,0:11:11.35,English,,0,0,0,,This would also give landing craft enough time
+Dialogue: 0,0:11:09.40,0:11:11.35,Chinese,,0,0,0,,
+Dialogue: 0,0:11:11.35,0:11:13.62,English,,0,0,0,,to depart without getting beached.
+Dialogue: 0,0:11:11.35,0:11:13.62,Chinese,,0,0,0,,
+Dialogue: 0,0:11:13.62,0:11:15.55,English,,0,0,0,,The low water times were different
+Dialogue: 0,0:11:13.62,0:11:15.55,Chinese,,0,0,0,,
+Dialogue: 0,0:11:15.55,0:11:18.38,English,,0,0,0,,at the five landing beaches by over an hour
+Dialogue: 0,0:11:15.55,0:11:18.38,Chinese,,0,0,0,,
+Dialogue: 0,0:11:18.38,0:11:20.61,English,,0,0,0,,so the invasion times were staggered
+Dialogue: 0,0:11:18.38,0:11:20.61,Chinese,,0,0,0,,
+Dialogue: 0,0:11:20.61,0:11:23.09,English,,0,0,0,,according to the tide predictions.
+Dialogue: 0,0:11:20.61,0:11:23.09,Chinese,,0,0,0,,
+Dialogue: 0,0:11:23.09,0:11:24.49,English,,0,0,0,,- This wasn't the only use
+Dialogue: 0,0:11:23.09,0:11:24.49,Chinese,,0,0,0,,
+Dialogue: 0,0:11:24.49,0:11:26.72,English,,0,0,0,,of analog computers in World War II.
+Dialogue: 0,0:11:24.49,0:11:26.72,Chinese,,0,0,0,,
+Dialogue: 0,0:11:26.72,0:11:29.42,English,,0,0,0,,Dive bomber aircraft would plummet out of the sky
+Dialogue: 0,0:11:26.72,0:11:29.42,Chinese,,0,0,0,,
+Dialogue: 0,0:11:29.42,0:11:33.11,English,,0,0,0,,directly toward their targets at up to an 80 degree angle,
+Dialogue: 0,0:11:29.42,0:11:33.11,Chinese,,0,0,0,,
+Dialogue: 0,0:11:33.11,0:11:34.61,English,,0,0,0,,and their rapid descents
+Dialogue: 0,0:11:33.11,0:11:34.61,Chinese,,0,0,0,,
+Dialogue: 0,0:11:34.61,0:11:37.13,English,,0,0,0,,made them very difficult to shoot down.
+Dialogue: 0,0:11:34.61,0:11:37.13,Chinese,,0,0,0,,
+Dialogue: 0,0:11:37.13,0:11:39.33,English,,0,0,0,,So the US began searching for devices
+Dialogue: 0,0:11:37.13,0:11:39.33,Chinese,,0,0,0,,
+Dialogue: 0,0:11:39.33,0:11:42.89,English,,0,0,0,,to automatically aim guns at dive bombers.
+Dialogue: 0,0:11:39.33,0:11:42.89,Chinese,,0,0,0,,
+Dialogue: 0,0:11:42.89,0:11:44.03,English,,0,0,0,,Most of the proposed solutions
+Dialogue: 0,0:11:42.89,0:11:44.03,Chinese,,0,0,0,,
+Dialogue: 0,0:11:44.03,0:11:46.63,English,,0,0,0,,fell into one of two categories.
+Dialogue: 0,0:11:44.03,0:11:46.63,Chinese,,0,0,0,,
+Dialogue: 0,0:11:46.63,0:11:49.18,English,,0,0,0,,Some were analog machines like Lord Kelvin's.
+Dialogue: 0,0:11:46.63,0:11:49.18,Chinese,,0,0,0,,
+Dialogue: 0,0:11:49.18,0:11:52.10,English,,0,0,0,,Others were essentially fast calculators.
+Dialogue: 0,0:11:49.18,0:11:52.10,Chinese,,0,0,0,,
+Dialogue: 0,0:11:52.10,0:11:54.81,English,,0,0,0,,Mechanical calculating machines like the abacus
+Dialogue: 0,0:11:52.10,0:11:54.81,Chinese,,0,0,0,,
+Dialogue: 0,0:11:54.81,0:11:56.28,English,,0,0,0,,had been around for millennia,
+Dialogue: 0,0:11:54.81,0:11:56.28,Chinese,,0,0,0,,
+Dialogue: 0,0:11:56.28,0:11:59.64,English,,0,0,0,,but they were far too slow to respond to dive bombers.
+Dialogue: 0,0:11:56.28,0:11:59.64,Chinese,,0,0,0,,
+Dialogue: 0,0:11:59.64,0:12:02.04,English,,0,0,0,,These new calculating machines sped things up
+Dialogue: 0,0:11:59.64,0:12:02.04,Chinese,,0,0,0,,
+Dialogue: 0,0:12:02.04,0:12:04.40,English,,0,0,0,,by using electrical pulses.
+Dialogue: 0,0:12:02.04,0:12:04.40,Chinese,,0,0,0,,
+Dialogue: 0,0:12:04.40,0:12:06.47,English,,0,0,0,,The committee considered naming these devices
+Dialogue: 0,0:12:04.40,0:12:06.47,Chinese,,0,0,0,,
+Dialogue: 0,0:12:06.47,0:12:08.33,English,,0,0,0,,after the pulses they used,
+Dialogue: 0,0:12:06.47,0:12:08.33,Chinese,,0,0,0,,
+Dialogue: 0,0:12:08.33,0:12:12.02,English,,0,0,0,,but member George Stibitz proposed a more general name,
+Dialogue: 0,0:12:08.33,0:12:12.02,Chinese,,0,0,0,,
+Dialogue: 0,0:12:12.02,0:12:14.78,English,,0,0,0,,digital because these machines operated
+Dialogue: 0,0:12:12.02,0:12:14.78,Chinese,,0,0,0,,
+Dialogue: 0,0:12:14.78,0:12:17.47,English,,0,0,0,,on numbers themselves or digits.
+Dialogue: 0,0:12:14.78,0:12:17.47,Chinese,,0,0,0,,
+Dialogue: 0,0:12:17.47,0:12:21.71,English,,0,0,0,,And this is the origin of the term digital computer,
+Dialogue: 0,0:12:17.47,0:12:21.71,Chinese,,0,0,0,,
+Dialogue: 0,0:12:21.71,0:12:23.97,English,,0,0,0,,but digital would have to wait.
+Dialogue: 0,0:12:21.71,0:12:23.97,Chinese,,0,0,0,,
+Dialogue: 0,0:12:23.97,0:12:26.49,English,,0,0,0,,Of all the proposals, an innovative analog machine
+Dialogue: 0,0:12:23.97,0:12:26.49,Chinese,,0,0,0,,
+Dialogue: 0,0:12:26.49,0:12:28.35,English,,0,0,0,,from David Parkinson went out.
+Dialogue: 0,0:12:26.49,0:12:28.35,Chinese,,0,0,0,,
+Dialogue: 0,0:12:29.85,0:12:31.41,English,,0,0,0,,At Bell Labs in New York,
+Dialogue: 0,0:12:29.85,0:12:31.41,Chinese,,0,0,0,,
+Dialogue: 0,0:12:31.41,0:12:33.27,English,,0,0,0,,Parkinson had been working on a device
+Dialogue: 0,0:12:31.41,0:12:33.27,Chinese,,0,0,0,,
+Dialogue: 0,0:12:33.27,0:12:37.40,English,,0,0,0,,to chart telephone data called an automatic level recorder.
+Dialogue: 0,0:12:33.27,0:12:37.40,Chinese,,0,0,0,,
+Dialogue: 0,0:12:37.40,0:12:40.15,English,,0,0,0,,It used a variable resistor called a potentiometer
+Dialogue: 0,0:12:37.40,0:12:40.15,Chinese,,0,0,0,,
+Dialogue: 0,0:12:40.15,0:12:42.79,English,,0,0,0,,to control the motion of a pen.
+Dialogue: 0,0:12:40.15,0:12:42.79,Chinese,,0,0,0,,
+Dialogue: 0,0:12:42.79,0:12:44.53,English,,0,0,0,,One night after hearing reports
+Dialogue: 0,0:12:42.79,0:12:44.53,Chinese,,0,0,0,,
+Dialogue: 0,0:12:44.53,0:12:47.22,English,,0,0,0,,of the harrowing Allied evacuation of Dunkirk,
+Dialogue: 0,0:12:44.53,0:12:47.22,Chinese,,0,0,0,,
+Dialogue: 0,0:12:47.22,0:12:50.69,English,,0,0,0,,Parkinson had a dream that he was on the front lines.
+Dialogue: 0,0:12:47.22,0:12:50.69,Chinese,,0,0,0,,
+Dialogue: 0,0:12:50.69,0:12:55.22,English,,0,0,0,,I found myself in a gun pit with an anti aircraft gun crew.
+Dialogue: 0,0:12:50.69,0:12:55.22,Chinese,,0,0,0,,
+Dialogue: 0,0:12:55.22,0:12:57.19,English,,0,0,0,,A gun there was firing occasionally,
+Dialogue: 0,0:12:55.22,0:12:57.19,Chinese,,0,0,0,,
+Dialogue: 0,0:12:57.19,0:12:59.04,English,,0,0,0,,and the impressive thing was
+Dialogue: 0,0:12:57.19,0:12:59.04,Chinese,,0,0,0,,
+Dialogue: 0,0:12:59.04,0:13:01.96,English,,0,0,0,,that every shot brought down an airplane.
+Dialogue: 0,0:12:59.04,0:13:01.96,Chinese,,0,0,0,,
+Dialogue: 0,0:13:01.96,0:13:04.31,English,,0,0,0,,After three or four shots one of the men in the crew
+Dialogue: 0,0:13:01.96,0:13:04.31,Chinese,,0,0,0,,
+Dialogue: 0,0:13:04.31,0:13:07.50,English,,0,0,0,,smiled at me and beckoned me to come closer to the gun.
+Dialogue: 0,0:13:04.31,0:13:07.50,Chinese,,0,0,0,,
+Dialogue: 0,0:13:07.50,0:13:08.36,English,,0,0,0,,When I drew near,
+Dialogue: 0,0:13:07.50,0:13:08.36,Chinese,,0,0,0,,
+Dialogue: 0,0:13:08.36,0:13:11.60,English,,0,0,0,,he pointed to the exposed end of the left trunnion.
+Dialogue: 0,0:13:08.36,0:13:11.60,Chinese,,0,0,0,,
+Dialogue: 0,0:13:11.60,0:13:14.39,English,,0,0,0,,Mounted there was the control potentiometer
+Dialogue: 0,0:13:11.60,0:13:14.39,Chinese,,0,0,0,,
+Dialogue: 0,0:13:14.39,0:13:16.85,English,,0,0,0,,of my level recorder.
+Dialogue: 0,0:13:14.39,0:13:16.85,Chinese,,0,0,0,,
+Dialogue: 0,0:13:16.85,0:13:19.61,English,,0,0,0,,When he woke up, Parkinson realized the device
+Dialogue: 0,0:13:16.85,0:13:19.61,Chinese,,0,0,0,,
+Dialogue: 0,0:13:19.61,0:13:21.42,English,,0,0,0,,he was building to control a pen
+Dialogue: 0,0:13:19.61,0:13:21.42,Chinese,,0,0,0,,
+Dialogue: 0,0:13:21.42,0:13:25.31,English,,0,0,0,,could be scaled up to control an anti-aircraft gun.
+Dialogue: 0,0:13:21.42,0:13:25.31,Chinese,,0,0,0,,
+Dialogue: 0,0:13:25.31,0:13:27.30,English,,0,0,0,,- He shared this idea with his supervisor
+Dialogue: 0,0:13:25.31,0:13:27.30,Chinese,,0,0,0,,
+Dialogue: 0,0:13:27.30,0:13:29.73,English,,0,0,0,,and after receiving approval from the military,
+Dialogue: 0,0:13:27.30,0:13:29.73,Chinese,,0,0,0,,
+Dialogue: 0,0:13:29.73,0:13:33.58,English,,0,0,0,,they set out to make Parkinson's dream a reality.
+Dialogue: 0,0:13:29.73,0:13:33.58,Chinese,,0,0,0,,
+Dialogue: 0,0:13:33.58,0:13:35.93,English,,0,0,0,,Researchers at Bell Labs had recently invented
+Dialogue: 0,0:13:33.58,0:13:35.93,Chinese,,0,0,0,,
+Dialogue: 0,0:13:35.93,0:13:37.75,English,,0,0,0,,an analog electrical device
+Dialogue: 0,0:13:35.93,0:13:37.75,Chinese,,0,0,0,,
+Dialogue: 0,0:13:37.75,0:13:40.74,English,,0,0,0,,called an operational amplifier or op-amp.
+Dialogue: 0,0:13:37.75,0:13:40.74,Chinese,,0,0,0,,
+Dialogue: 0,0:13:40.74,0:13:43.65,English,,0,0,0,,It could perform mathematical operations with voltages,
+Dialogue: 0,0:13:40.74,0:13:43.65,Chinese,,0,0,0,,
+Dialogue: 0,0:13:43.65,0:13:45.80,English,,0,0,0,,like addition and multiplication.
+Dialogue: 0,0:13:43.65,0:13:45.80,Chinese,,0,0,0,,
+Dialogue: 0,0:13:45.80,0:13:48.84,English,,0,0,0,,They used these op-amps to create an analog computer
+Dialogue: 0,0:13:45.80,0:13:48.84,Chinese,,0,0,0,,
+Dialogue: 0,0:13:48.84,0:13:50.63,English,,0,0,0,,that could solve the ballistics equations
+Dialogue: 0,0:13:48.84,0:13:50.63,Chinese,,0,0,0,,
+Dialogue: 0,0:13:50.63,0:13:52.58,English,,0,0,0,,for anti-aircraft guns.
+Dialogue: 0,0:13:50.63,0:13:52.58,Chinese,,0,0,0,,
+Dialogue: 0,0:13:52.58,0:13:56.12,English,,0,0,0,,Using radar and optical sights to obtain the speed, altitude
+Dialogue: 0,0:13:52.58,0:13:56.12,Chinese,,0,0,0,,
+Dialogue: 0,0:13:56.12,0:13:57.90,English,,0,0,0,,and direction of enemy planes,
+Dialogue: 0,0:13:56.12,0:13:57.90,Chinese,,0,0,0,,
+Dialogue: 0,0:13:57.90,0:14:01.00,English,,0,0,0,,the M9 Gun Director, as the computer was called,
+Dialogue: 0,0:13:57.90,0:14:01.00,Chinese,,0,0,0,,
+Dialogue: 0,0:14:01.00,0:14:02.73,English,,0,0,0,,could rapidly calculate
+Dialogue: 0,0:14:01.00,0:14:02.73,Chinese,,0,0,0,,
+Dialogue: 0,0:14:02.73,0:14:05.50,English,,0,0,0,,the correct trajectory and fuse setting.
+Dialogue: 0,0:14:02.73,0:14:05.50,Chinese,,0,0,0,,
+Dialogue: 0,0:14:05.50,0:14:06.92,English,,0,0,0,,Potentiometers were used
+Dialogue: 0,0:14:05.50,0:14:06.92,Chinese,,0,0,0,,
+Dialogue: 0,0:14:06.92,0:14:10.15,English,,0,0,0,,to ascertain the direction the gun was pointing.
+Dialogue: 0,0:14:06.92,0:14:10.15,Chinese,,0,0,0,,
+Dialogue: 0,0:14:10.15,0:14:13.21,English,,0,0,0,,This was not the first electric analog computer,
+Dialogue: 0,0:14:10.15,0:14:13.21,Chinese,,0,0,0,,
+Dialogue: 0,0:14:13.21,0:14:15.38,English,,0,0,0,,but it was an important one.
+Dialogue: 0,0:14:13.21,0:14:15.38,Chinese,,0,0,0,,
+Dialogue: 0,0:14:15.38,0:14:18.97,English,,0,0,0,,In World War I, it took an average of 17,000 rounds
+Dialogue: 0,0:14:15.38,0:14:18.97,Chinese,,0,0,0,,
+Dialogue: 0,0:14:18.97,0:14:21.35,English,,0,0,0,,to take down a single airplane.
+Dialogue: 0,0:14:18.97,0:14:21.35,Chinese,,0,0,0,,
+Dialogue: 0,0:14:21.35,0:14:24.09,English,,0,0,0,,In 1943, after the invention of the M9,
+Dialogue: 0,0:14:21.35,0:14:24.09,Chinese,,0,0,0,,
+Dialogue: 0,0:14:24.09,0:14:26.60,English,,0,0,0,,it took an average of only 90.
+Dialogue: 0,0:14:24.09,0:14:26.60,Chinese,,0,0,0,,
+Dialogue: 0,0:14:26.60,0:14:30.86,English,,0,0,0,,During the war, the US invested big in analog computers.
+Dialogue: 0,0:14:26.60,0:14:30.86,Chinese,,0,0,0,,
+Dialogue: 0,0:14:30.86,0:14:32.94,English,,0,0,0,,If you break down their total military budget,
+Dialogue: 0,0:14:30.86,0:14:32.94,Chinese,,0,0,0,,
+Dialogue: 0,0:14:32.94,0:14:36.04,English,,0,0,0,,the third largest single expense was the development
+Dialogue: 0,0:14:32.94,0:14:36.04,Chinese,,0,0,0,,
+Dialogue: 0,0:14:36.04,0:14:38.43,English,,0,0,0,,and production of an incredibly complex
+Dialogue: 0,0:14:36.04,0:14:38.43,Chinese,,0,0,0,,
+Dialogue: 0,0:14:38.43,0:14:42.53,English,,0,0,0,,mechanical analog computer called The Norden Bombsight.
+Dialogue: 0,0:14:38.43,0:14:42.53,Chinese,,0,0,0,,
+Dialogue: 0,0:14:42.53,0:14:45.91,English,,0,0,0,,Unfortunately, they didn't get their money's worth.
+Dialogue: 0,0:14:42.53,0:14:45.91,Chinese,,0,0,0,,
+Dialogue: 0,0:14:45.91,0:14:49.20,English,,0,0,0,,Designed by the eccentric Dutch engineer Carl Norden,
+Dialogue: 0,0:14:45.91,0:14:49.20,Chinese,,0,0,0,,
+Dialogue: 0,0:14:49.20,0:14:50.79,English,,0,0,0,,the Norden Bombsight was built
+Dialogue: 0,0:14:49.20,0:14:50.79,Chinese,,0,0,0,,
+Dialogue: 0,0:14:50.79,0:14:53.52,English,,0,0,0,,to enable high-precision airborne bombing.
+Dialogue: 0,0:14:50.79,0:14:53.52,Chinese,,0,0,0,,
+Dialogue: 0,0:14:53.52,0:14:57.35,English,,0,0,0,,It implemented 64 different simultaneous algorithms,
+Dialogue: 0,0:14:53.52,0:14:57.35,Chinese,,0,0,0,,
+Dialogue: 0,0:14:57.35,0:14:59.04,English,,0,0,0,,including one that compensated
+Dialogue: 0,0:14:57.35,0:14:59.04,Chinese,,0,0,0,,
+Dialogue: 0,0:14:59.04,0:15:02.21,English,,0,0,0,,for the rotation of the Earth as the bomb fell.
+Dialogue: 0,0:14:59.04,0:15:02.21,Chinese,,0,0,0,,
+Dialogue: 0,0:15:02.21,0:15:04.04,English,,0,0,0,,(explosion resounds) The Norden was one
+Dialogue: 0,0:15:02.21,0:15:04.04,Chinese,,0,0,0,,
+Dialogue: 0,0:15:04.04,0:15:07.00,English,,0,0,0,,of the most closely guarded secrets of the war.
+Dialogue: 0,0:15:04.04,0:15:07.00,Chinese,,0,0,0,,
+Dialogue: 0,0:15:07.00,0:15:10.09,English,,0,0,0,,To prevent the technology from falling into enemy hands,
+Dialogue: 0,0:15:07.00,0:15:10.09,Chinese,,0,0,0,,
+Dialogue: 0,0:15:10.09,0:15:12.78,English,,0,0,0,,American bombardiers carried handguns
+Dialogue: 0,0:15:10.09,0:15:12.78,Chinese,,0,0,0,,
+Dialogue: 0,0:15:12.78,0:15:16.89,English,,0,0,0,,specifically to destroy it in the event of a crash.
+Dialogue: 0,0:15:12.78,0:15:16.89,Chinese,,0,0,0,,
+Dialogue: 0,0:15:16.89,0:15:19.20,English,,0,0,0,,But despite its hype and funding,
+Dialogue: 0,0:15:16.89,0:15:19.20,Chinese,,0,0,0,,
+Dialogue: 0,0:15:19.20,0:15:21.85,English,,0,0,0,,the Norden didn't work as advertised.
+Dialogue: 0,0:15:19.20,0:15:21.85,Chinese,,0,0,0,,
+Dialogue: 0,0:15:21.85,0:15:24.20,English,,0,0,0,,With over 2,000 fine parts,
+Dialogue: 0,0:15:21.85,0:15:24.20,Chinese,,0,0,0,,
+Dialogue: 0,0:15:24.20,0:15:27.71,English,,0,0,0,,it required extreme precision to manufacture.
+Dialogue: 0,0:15:24.20,0:15:27.71,Chinese,,0,0,0,,
+Dialogue: 0,0:15:27.71,0:15:29.78,English,,0,0,0,,The problem with analog computers
+Dialogue: 0,0:15:27.71,0:15:29.78,Chinese,,0,0,0,,
+Dialogue: 0,0:15:29.78,0:15:33.07,English,,0,0,0,,is that the physical device is a model for the real world.
+Dialogue: 0,0:15:29.78,0:15:33.07,Chinese,,0,0,0,,
+Dialogue: 0,0:15:33.07,0:15:35.51,English,,0,0,0,,So any inaccuracy in the components
+Dialogue: 0,0:15:33.07,0:15:35.51,Chinese,,0,0,0,,
+Dialogue: 0,0:15:35.51,0:15:39.13,English,,0,0,0,,translates into inaccuracy of the computation.
+Dialogue: 0,0:15:35.51,0:15:39.13,Chinese,,0,0,0,,
+Dialogue: 0,0:15:39.13,0:15:41.16,English,,0,0,0,,And since there will always be some slop
+Dialogue: 0,0:15:39.13,0:15:41.16,Chinese,,0,0,0,,
+Dialogue: 0,0:15:41.16,0:15:43.09,English,,0,0,0,,in the connections between parts,
+Dialogue: 0,0:15:41.16,0:15:43.09,Chinese,,0,0,0,,
+Dialogue: 0,0:15:43.09,0:15:45.36,English,,0,0,0,,if you run the same calculation twice,
+Dialogue: 0,0:15:43.09,0:15:45.36,Chinese,,0,0,0,,
+Dialogue: 0,0:15:45.36,0:15:48.39,English,,0,0,0,,you won't get the exact same answer.
+Dialogue: 0,0:15:45.36,0:15:48.39,Chinese,,0,0,0,,
+Dialogue: 0,0:15:48.39,0:15:50.97,English,,0,0,0,,In the American campaign against Japan,
+Dialogue: 0,0:15:48.39,0:15:50.97,Chinese,,0,0,0,,
+Dialogue: 0,0:15:50.97,0:15:53.46,English,,0,0,0,,bomber crews using the Bombsight were unable
+Dialogue: 0,0:15:50.97,0:15:53.46,Chinese,,0,0,0,,
+Dialogue: 0,0:15:53.46,0:15:56.58,English,,0,0,0,,to destroy critical Japanese war infrastructure,
+Dialogue: 0,0:15:53.46,0:15:56.58,Chinese,,0,0,0,,
+Dialogue: 0,0:15:56.58,0:15:58.55,English,,0,0,0,,and ultimately the US abandoned
+Dialogue: 0,0:15:56.58,0:15:58.55,Chinese,,0,0,0,,
+Dialogue: 0,0:15:58.55,0:16:00.57,English,,0,0,0,,its precision bombing approach
+Dialogue: 0,0:15:58.55,0:16:00.57,Chinese,,0,0,0,,
+Dialogue: 0,0:16:00.57,0:16:04.24,English,,0,0,0,,and instead blanketed whole Japanese cities in napalm.
+Dialogue: 0,0:16:00.57,0:16:04.24,Chinese,,0,0,0,,
+Dialogue: 0,0:16:06.11,0:16:09.98,English,,0,0,0,,As the war progressed, digital computers gained traction.
+Dialogue: 0,0:16:06.11,0:16:09.98,Chinese,,0,0,0,,
+Dialogue: 0,0:16:09.98,0:16:12.68,English,,0,0,0,,The digital and electronic Colossus machines
+Dialogue: 0,0:16:09.98,0:16:12.68,Chinese,,0,0,0,,
+Dialogue: 0,0:16:12.68,0:16:14.44,English,,0,0,0,,of Bletchley Park in the UK
+Dialogue: 0,0:16:12.68,0:16:14.44,Chinese,,0,0,0,,
+Dialogue: 0,0:16:14.44,0:16:16.78,English,,0,0,0,,were critical to breaking German codes.
+Dialogue: 0,0:16:14.44,0:16:16.78,Chinese,,0,0,0,,
+Dialogue: 0,0:16:16.78,0:16:19.24,English,,0,0,0,,In the United States, the military invested
+Dialogue: 0,0:16:16.78,0:16:19.24,Chinese,,0,0,0,,
+Dialogue: 0,0:16:19.24,0:16:20.73,English,,0,0,0,,in an enormously complex
+Dialogue: 0,0:16:19.24,0:16:20.73,Chinese,,0,0,0,,
+Dialogue: 0,0:16:20.73,0:16:23.94,English,,0,0,0,,and expensive digital machine known as ENIAC.
+Dialogue: 0,0:16:20.73,0:16:23.94,Chinese,,0,0,0,,
+Dialogue: 0,0:16:23.94,0:16:26.21,English,,0,0,0,,It was designed to speed up the calculation
+Dialogue: 0,0:16:23.94,0:16:26.21,Chinese,,0,0,0,,
+Dialogue: 0,0:16:26.21,0:16:28.81,English,,0,0,0,,of land artillery firing tables.
+Dialogue: 0,0:16:26.21,0:16:28.81,Chinese,,0,0,0,,
+Dialogue: 0,0:16:28.81,0:16:30.25,English,,0,0,0,,At the time, these were computed
+Dialogue: 0,0:16:28.81,0:16:30.25,Chinese,,0,0,0,,
+Dialogue: 0,0:16:30.25,0:16:32.04,English,,0,0,0,,using differential analyzers,
+Dialogue: 0,0:16:30.25,0:16:32.04,Chinese,,0,0,0,,
+Dialogue: 0,0:16:32.04,0:16:34.16,English,,0,0,0,,the analog mechanical computers
+Dialogue: 0,0:16:32.04,0:16:34.16,Chinese,,0,0,0,,
+Dialogue: 0,0:16:34.16,0:16:37.08,English,,0,0,0,,based on Kelvin's harmonic analyzer.
+Dialogue: 0,0:16:34.16,0:16:37.08,Chinese,,0,0,0,,
+Dialogue: 0,0:16:37.08,0:16:39.51,English,,0,0,0,,Although not finished until after the war,
+Dialogue: 0,0:16:37.08,0:16:39.51,Chinese,,0,0,0,,
+Dialogue: 0,0:16:39.51,0:16:43.07,English,,0,0,0,,ENIAC demonstrated the power of digital computers.
+Dialogue: 0,0:16:39.51,0:16:43.07,Chinese,,0,0,0,,
+Dialogue: 0,0:16:43.07,0:16:46.56,English,,0,0,0,,It's considered by many to be the first modern computer.
+Dialogue: 0,0:16:43.07,0:16:46.56,Chinese,,0,0,0,,
+Dialogue: 0,0:16:47.68,0:16:50.18,English,,0,0,0,,What really opened the door to this digital revolution
+Dialogue: 0,0:16:47.68,0:16:50.18,Chinese,,0,0,0,,
+Dialogue: 0,0:16:50.18,0:16:52.11,English,,0,0,0,,was the discovery made by Claude Shannon
+Dialogue: 0,0:16:50.18,0:16:52.11,Chinese,,0,0,0,,
+Dialogue: 0,0:16:52.11,0:16:54.70,English,,0,0,0,,in his 1936 Master's thesis.
+Dialogue: 0,0:16:52.11,0:16:54.70,Chinese,,0,0,0,,
+Dialogue: 0,0:16:54.70,0:16:57.94,English,,0,0,0,,He showed that any numerical operation can be carried out
+Dialogue: 0,0:16:54.70,0:16:57.94,Chinese,,0,0,0,,
+Dialogue: 0,0:16:57.94,0:17:01.12,English,,0,0,0,,using the basic building blocks of Boolean algebra.
+Dialogue: 0,0:16:57.94,0:17:01.12,Chinese,,0,0,0,,
+Dialogue: 0,0:17:01.12,0:17:05.30,English,,0,0,0,,Two values, true or false, also notated as one or zero,
+Dialogue: 0,0:17:01.12,0:17:05.30,Chinese,,0,0,0,,
+Dialogue: 0,0:17:05.30,0:17:09.34,English,,0,0,0,,and three operations, and, or, and not.
+Dialogue: 0,0:17:05.30,0:17:09.34,Chinese,,0,0,0,,
+Dialogue: 0,0:17:09.34,0:17:10.95,English,,0,0,0,,This makes digital computers
+Dialogue: 0,0:17:09.34,0:17:10.95,Chinese,,0,0,0,,
+Dialogue: 0,0:17:10.95,0:17:13.95,English,,0,0,0,,the ideal versatile computing machines.
+Dialogue: 0,0:17:10.95,0:17:13.95,Chinese,,0,0,0,,
+Dialogue: 0,0:17:13.95,0:17:16.06,English,,0,0,0,,In contrast, each analog computer
+Dialogue: 0,0:17:13.95,0:17:16.06,Chinese,,0,0,0,,
+Dialogue: 0,0:17:16.06,0:17:19.64,English,,0,0,0,,is an analog for only one type of problem.
+Dialogue: 0,0:17:16.06,0:17:19.64,Chinese,,0,0,0,,
+Dialogue: 0,0:17:19.64,0:17:21.27,English,,0,0,0,,Furthermore, since digital computers
+Dialogue: 0,0:17:19.64,0:17:21.27,Chinese,,0,0,0,,
+Dialogue: 0,0:17:21.27,0:17:23.00,English,,0,0,0,,operate on ones and zeros,
+Dialogue: 0,0:17:21.27,0:17:23.00,Chinese,,0,0,0,,
+Dialogue: 0,0:17:23.00,0:17:25.72,English,,0,0,0,,they're more resilient in the face of noise.
+Dialogue: 0,0:17:23.00,0:17:25.72,Chinese,,0,0,0,,
+Dialogue: 0,0:17:25.72,0:17:28.90,English,,0,0,0,,It would take a large error to mistake a one for a zero
+Dialogue: 0,0:17:25.72,0:17:28.90,Chinese,,0,0,0,,
+Dialogue: 0,0:17:28.90,0:17:32.99,English,,0,0,0,,or vice versa, whereas even small errors in analog computers
+Dialogue: 0,0:17:28.90,0:17:32.99,Chinese,,0,0,0,,
+Dialogue: 0,0:17:32.99,0:17:36.57,English,,0,0,0,,can grow and ultimately swamp the signal.
+Dialogue: 0,0:17:32.99,0:17:36.57,Chinese,,0,0,0,,
+Dialogue: 0,0:17:36.57,0:17:39.36,English,,0,0,0,,So these days, everything is digital.
+Dialogue: 0,0:17:36.57,0:17:39.36,Chinese,,0,0,0,,
+Dialogue: 0,0:17:39.36,0:17:42.58,English,,0,0,0,,Our phones, computers, and internet data centers,
+Dialogue: 0,0:17:39.36,0:17:42.58,Chinese,,0,0,0,,
+Dialogue: 0,0:17:42.58,0:17:46.19,English,,0,0,0,,even TV and radio is now being broadcast as digital.
+Dialogue: 0,0:17:42.58,0:17:46.19,Chinese,,0,0,0,,
+Dialogue: 0,0:17:46.19,0:17:48.20,English,,0,0,0,,And the advantages are obvious.
+Dialogue: 0,0:17:46.19,0:17:48.20,Chinese,,0,0,0,,
+Dialogue: 0,0:17:48.20,0:17:50.61,English,,0,0,0,,Since digital devices operate on symbols,
+Dialogue: 0,0:17:48.20,0:17:50.61,Chinese,,0,0,0,,
+Dialogue: 0,0:17:50.61,0:17:54.07,English,,0,0,0,,usually zeros and ones, they provide exact answers
+Dialogue: 0,0:17:50.61,0:17:54.07,Chinese,,0,0,0,,
+Dialogue: 0,0:17:54.07,0:17:57.95,English,,0,0,0,,and repeat the calculation and you get the same result.
+Dialogue: 0,0:17:54.07,0:17:57.95,Chinese,,0,0,0,,
+Dialogue: 0,0:17:57.95,0:18:00.35,English,,0,0,0,,They are robust to noise.
+Dialogue: 0,0:17:57.95,0:18:00.35,Chinese,,0,0,0,,
+Dialogue: 0,0:18:00.35,0:18:02.30,English,,0,0,0,,Plus since only a few components
+Dialogue: 0,0:18:00.35,0:18:02.30,Chinese,,0,0,0,,
+Dialogue: 0,0:18:02.30,0:18:05.04,English,,0,0,0,,are required to perform virtually any computation,
+Dialogue: 0,0:18:02.30,0:18:05.04,Chinese,,0,0,0,,
+Dialogue: 0,0:18:05.04,0:18:08.49,English,,0,0,0,,those components have been miniaturized and optimized,
+Dialogue: 0,0:18:05.04,0:18:08.49,Chinese,,0,0,0,,
+Dialogue: 0,0:18:08.49,0:18:09.76,English,,0,0,0,,making digital computers
+Dialogue: 0,0:18:08.49,0:18:09.76,Chinese,,0,0,0,,
+Dialogue: 0,0:18:09.76,0:18:13.16,English,,0,0,0,,the ideal universal computing machines.
+Dialogue: 0,0:18:09.76,0:18:13.16,Chinese,,0,0,0,,
+Dialogue: 0,0:18:13.16,0:18:16.70,English,,0,0,0,,So you would think analog computers would be long gone,
+Dialogue: 0,0:18:13.16,0:18:16.70,Chinese,,0,0,0,,
+Dialogue: 0,0:18:16.70,0:18:18.55,English,,0,0,0,,a relic of the distant past,
+Dialogue: 0,0:18:16.70,0:18:18.55,Chinese,,0,0,0,,
+Dialogue: 0,0:18:18.55,0:18:22.29,English,,0,0,0,,but analog may now be making a comeback.
+Dialogue: 0,0:18:18.55,0:18:22.29,Chinese,,0,0,0,,
+Dialogue: 0,0:18:22.29,0:18:26.43,English,,0,0,0,,There are startups actively working on analog computers.
+Dialogue: 0,0:18:22.29,0:18:26.43,Chinese,,0,0,0,,
+Dialogue: 0,0:18:26.43,0:18:30.93,English,,0,0,0,,Why is this happening? What could be the benefit of analog?
+Dialogue: 0,0:18:26.43,0:18:30.93,Chinese,,0,0,0,,
+Dialogue: 0,0:18:30.93,0:18:34.10,English,,0,0,0,,I wanted to put all of this into one video,
+Dialogue: 0,0:18:30.93,0:18:34.10,Chinese,,0,0,0,,
+Dialogue: 0,0:18:34.10,0:18:37.23,English,,0,0,0,,but the story is too good to bury 20 minutes in
+Dialogue: 0,0:18:34.10,0:18:37.23,Chinese,,0,0,0,,
+Dialogue: 0,0:18:37.23,0:18:40.21,English,,0,0,0,,so that is coming up in part two.
+Dialogue: 0,0:18:37.23,0:18:40.21,Chinese,,0,0,0,,
+Dialogue: 0,0:18:40.21,0:18:41.54,English,,0,0,0,,Be sure you're subscribed to the channel
+Dialogue: 0,0:18:40.21,0:18:41.54,Chinese,,0,0,0,,
+Dialogue: 0,0:18:41.54,0:18:44.15,English,,0,0,0,,to be notified when that comes out.
+Dialogue: 0,0:18:41.54,0:18:44.15,Chinese,,0,0,0,,
+Dialogue: 0,0:18:44.15,0:18:47.48,English,,0,0,0,,(radio tuning chirping)
+Dialogue: 0,0:18:44.15,0:18:47.48,Chinese,,0,0,0,,
+Dialogue: 0,0:18:48.43,0:18:50.33,English,,0,0,0,,I'll give you a hint about the sequel
+Dialogue: 0,0:18:48.43,0:18:50.33,Chinese,,0,0,0,,
+Dialogue: 0,0:18:50.33,0:18:51.72,English,,0,0,0,,in this section of the video,
+Dialogue: 0,0:18:50.33,0:18:51.72,Chinese,,0,0,0,,
+Dialogue: 0,0:18:51.72,0:18:53.82,English,,0,0,0,,which is sponsored by brilliant.
+Dialogue: 0,0:18:51.72,0:18:53.82,Chinese,,0,0,0,,
+Dialogue: 0,0:18:53.82,0:18:56.84,English,,0,0,0,,Brilliant is a website and app that uses interactivity
+Dialogue: 0,0:18:53.82,0:18:56.84,Chinese,,0,0,0,,
+Dialogue: 0,0:18:56.84,0:18:59.13,English,,0,0,0,,to help you learn STEM concepts.
+Dialogue: 0,0:18:56.84,0:18:59.13,Chinese,,0,0,0,,
+Dialogue: 0,0:18:59.13,0:19:01.93,English,,0,0,0,,For the sequel to this video, it would be a good idea
+Dialogue: 0,0:18:59.13,0:19:01.93,Chinese,,0,0,0,,
+Dialogue: 0,0:19:01.93,0:19:02.76,English,,0,0,0,,to brush up on artificial intelligence, which you can do
+Dialogue: 0,0:19:01.93,0:19:02.76,Chinese,,0,0,0,,
+Dialogue: 0,0:19:02.76,0:19:07.76,English,,0,0,0,,with Brilliant's courses on neural networks.
+Dialogue: 0,0:19:02.76,0:19:07.76,Chinese,,0,0,0,,
+Dialogue: 0,0:19:08.00,0:19:08.98,English,,0,0,0,,Here, you can analyze
+Dialogue: 0,0:19:08.00,0:19:08.98,Chinese,,0,0,0,,
+Dialogue: 0,0:19:08.98,0:19:12.27,English,,0,0,0,,how a neural network decodes your handwriting.
+Dialogue: 0,0:19:08.98,0:19:12.27,Chinese,,0,0,0,,
+Dialogue: 0,0:19:12.27,0:19:14.02,English,,0,0,0,,I also recommend their calculus courses,
+Dialogue: 0,0:19:12.27,0:19:14.02,Chinese,,0,0,0,,
+Dialogue: 0,0:19:14.02,0:19:16.26,English,,0,0,0,,which are highly interactive.
+Dialogue: 0,0:19:14.02,0:19:16.26,Chinese,,0,0,0,,
+Dialogue: 0,0:19:16.26,0:19:17.53,English,,0,0,0,,What's great about Brilliant
+Dialogue: 0,0:19:16.26,0:19:17.53,Chinese,,0,0,0,,
+Dialogue: 0,0:19:17.53,0:19:19.47,English,,0,0,0,,is how it gets you to step through topics,
+Dialogue: 0,0:19:17.53,0:19:19.47,Chinese,,0,0,0,,
+Dialogue: 0,0:19:19.47,0:19:21.14,English,,0,0,0,,answering questions as you go.
+Dialogue: 0,0:19:19.47,0:19:21.14,Chinese,,0,0,0,,
+Dialogue: 0,0:19:21.14,0:19:23.23,English,,0,0,0,,And that way you can't trick yourself into thinking
+Dialogue: 0,0:19:21.14,0:19:23.23,Chinese,,0,0,0,,
+Dialogue: 0,0:19:23.23,0:19:26.17,English,,0,0,0,,you already understand everything because you're constantly
+Dialogue: 0,0:19:23.23,0:19:26.17,Chinese,,0,0,0,,
+Dialogue: 0,0:19:26.17,0:19:27.96,English,,0,0,0,,putting your knowledge to the test.
+Dialogue: 0,0:19:26.17,0:19:27.96,Chinese,,0,0,0,,
+Dialogue: 0,0:19:27.96,0:19:30.26,English,,0,0,0,,Personally, I find their courses challenging,
+Dialogue: 0,0:19:27.96,0:19:30.26,Chinese,,0,0,0,,
+Dialogue: 0,0:19:30.26,0:19:33.42,English,,0,0,0,,which they should be in order for you to learn anything.
+Dialogue: 0,0:19:30.26,0:19:33.42,Chinese,,0,0,0,,
+Dialogue: 0,0:19:33.42,0:19:34.90,English,,0,0,0,,But if you ever get stuck,
+Dialogue: 0,0:19:33.42,0:19:34.90,Chinese,,0,0,0,,
+Dialogue: 0,0:19:34.90,0:19:37.67,English,,0,0,0,,there's always a helpful hint close at hand
+Dialogue: 0,0:19:34.90,0:19:37.67,Chinese,,0,0,0,,
+Dialogue: 0,0:19:37.67,0:19:39.17,English,,0,0,0,,and more in-depth explanations
+Dialogue: 0,0:19:37.67,0:19:39.17,Chinese,,0,0,0,,
+Dialogue: 0,0:19:39.17,0:19:41.26,English,,0,0,0,,are available if you want them.
+Dialogue: 0,0:19:39.17,0:19:41.26,Chinese,,0,0,0,,
+Dialogue: 0,0:19:41.26,0:19:42.91,English,,0,0,0,,As the holiday season is upon us,
+Dialogue: 0,0:19:41.26,0:19:42.91,Chinese,,0,0,0,,
+Dialogue: 0,0:19:42.91,0:19:45.57,English,,0,0,0,,an annual subscription to Brilliant makes an awesome gift
+Dialogue: 0,0:19:42.91,0:19:45.57,Chinese,,0,0,0,,
+Dialogue: 0,0:19:45.57,0:19:47.81,English,,0,0,0,,for any curious learners in your life.
+Dialogue: 0,0:19:45.57,0:19:47.81,Chinese,,0,0,0,,
+Dialogue: 0,0:19:47.81,0:19:49.83,English,,0,0,0,,And whether it's for you or someone else,
+Dialogue: 0,0:19:47.81,0:19:49.83,Chinese,,0,0,0,,
+Dialogue: 0,0:19:49.83,0:19:52.76,English,,0,0,0,,Brilliant is offering 20% off an annual subscription
+Dialogue: 0,0:19:49.83,0:19:52.76,Chinese,,0,0,0,,
+Dialogue: 0,0:19:52.76,0:19:54.71,English,,0,0,0,,to the first 200 people to sign up.
+Dialogue: 0,0:19:52.76,0:19:54.71,Chinese,,0,0,0,,
+Dialogue: 0,0:19:54.71,0:19:57.63,English,,0,0,0,,Just go to brilliant.org/veritasium.
+Dialogue: 0,0:19:54.71,0:19:57.63,Chinese,,0,0,0,,
+Dialogue: 0,0:19:57.63,0:19:59.98,English,,0,0,0,,I'll put that link down in the description.
+Dialogue: 0,0:19:57.63,0:19:59.98,Chinese,,0,0,0,,
+Dialogue: 0,0:19:59.98,0:20:02.23,English,,0,0,0,,So I want to thank Brilliant for supporting Veritasium,
+Dialogue: 0,0:19:59.98,0:20:02.23,Chinese,,0,0,0,,
+Dialogue: 0,0:20:02.23,0:20:04.16,English,,0,0,0,,and I want to thank you for watching.
+Dialogue: 0,0:20:02.23,0:20:04.16,Chinese,,0,0,0,,
