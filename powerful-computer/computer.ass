@@ -5,17 +5,6 @@ Title: subtitles
 ScriptType: v4.00+
 PlayDepth: 0
 YCbCr Matrix: TV.601
-PlayResX: 1280
-PlayResY: 720
-
-[Aegisub Project Garbage]
-Audio File: G:/课程杂项/翻译/The Most Powerful Computers You've Never Heard Of [IgF3OX8nT0w].mp4
-Video File: G:/课程杂项/翻译/The Most Powerful Computers You've Never Heard Of [IgF3OX8nT0w].mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Scroll Position: 613
-Active Line: 675
-Video Position: 23416
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -656,18 +645,18 @@ Dialogue: 0,0:14:33.28,0:14:37.54,English,,0,0,0,,During the war, the US investe
 Dialogue: 0,0:14:33.28,0:14:37.54,Chinese,,0,0,0,,战争期间 美国在模拟计算机上下了血本
 Dialogue: 0,0:14:37.54,0:14:39.67,English,,0,0,0,,If you break down their total military budget,
 Dialogue: 0,0:14:37.54,0:14:39.67,Chinese,,0,0,0,,如果把他们的军事支出分开来看
-Dialogue: 0,0:14:39.67,0:14:42.77,English,,0,0,0,,the third largest single expense was the development
-Dialogue: 0,0:14:39.67,0:14:42.77,Chinese,,0,0,0,,单项支出第三大的是
-Dialogue: 0,0:14:42.77,0:14:45.16,English,,0,0,0,,and production of an incredibly complex
-Dialogue: 0,0:14:42.77,0:14:45.16,Chinese,,0,0,0,,诺顿轰炸机瞄准器的开发和生产
+Dialogue: 0,0:14:39.67,0:14:42.15,English,,0,0,0,,the third largest single expense was
+Dialogue: 0,0:14:39.67,0:14:42.15,Chinese,,0,0,0,,单项支出第三大的是
+Dialogue: 0,0:14:42.15,0:14:45.16,English,,0,0,0,,the development and production of an incredibly complex
+Dialogue: 0,0:14:42.15,0:14:45.16,Chinese,,0,0,0,,诺顿轰炸机瞄准器的开发和生产
 Dialogue: 0,0:14:45.16,0:14:48.88,English,,0,0,0,,mechanical analog computer called The Norden Bombsight.
 Dialogue: 0,0:14:45.16,0:14:48.88,Chinese,,0,0,0,,一种复杂得不可思议的机械模拟计算机
 Dialogue: 0,0:14:48.96,0:14:52.34,English,,0,0,0,,Unfortunately, they didn't get their money's worth.
 Dialogue: 0,0:14:48.96,0:14:52.34,Chinese,,0,0,0,,不幸的是 他们这笔钱花得不值
 Dialogue: 0,0:14:53.34,0:14:56.63,English,,0,0,0,,Designed by the eccentric Dutch engineer Carl Norden,
-Dialogue: 0,0:14:53.34,0:14:56.63,Chinese,,0,0,0,,这种瞄准器出自
+Dialogue: 0,0:14:53.34,0:14:56.63,Chinese,,0,0,0,,这台瞄准器出自离经叛道的荷兰工程师卡尔 诺顿之手
 Dialogue: 0,0:14:56.63,0:14:58.22,English,,0,0,0,,the Norden Bombsight was built
-Dialogue: 0,0:14:56.63,0:14:58.22,Chinese,,0,0,0,,离经叛道的荷兰工程师卡尔 诺顿之手
+Dialogue: 0,0:14:56.63,0:14:58.22,Chinese,,0,0,0,,用于高精度空中轰炸
 Dialogue: 0,0:14:58.22,0:15:00.95,English,,0,0,0,,to enable high-precision airborne bombing.
 Dialogue: 0,0:14:58.22,0:15:00.95,Chinese,,0,0,0,,用于高精度空中轰炸
 Dialogue: 0,0:15:00.95,0:15:04.78,English,,0,0,0,,It implemented 64 different simultaneous algorithms,
@@ -703,9 +692,9 @@ Dialogue: 0,0:15:40.50,0:15:42.94,Chinese,,0,0,0,,所以源自任何部件的不
 Dialogue: 0,0:15:42.94,0:15:46.56,English,,0,0,0,,translates into inaccuracy of the computation.
 Dialogue: 0,0:15:42.94,0:15:46.56,Chinese,,0,0,0,,都会转换成计算的误差
 Dialogue: 0,0:15:46.56,0:15:48.59,English,,0,0,0,,And since there will always be some slop
-Dialogue: 0,0:15:46.56,0:15:48.59,Chinese,,0,0,0,,同时由于在部件的链接处总存在起伏 （？？？）
+Dialogue: 0,0:15:46.56,0:15:48.59,Chinese,,0,0,0,,同时  由于部件的连接存在偏差
 Dialogue: 0,0:15:48.59,0:15:50.52,English,,0,0,0,,in the connections between parts,
-Dialogue: 0,0:15:48.59,0:15:50.52,Chinese,,0,0,0,,同时由于在部件的链接处总存在起伏 （？？？）
+Dialogue: 0,0:15:48.59,0:15:50.52,Chinese,,0,0,0,,同时  由于部件的连接存在偏差
 Dialogue: 0,0:15:50.52,0:15:52.79,English,,0,0,0,,if you run the same calculation twice,
 Dialogue: 0,0:15:50.52,0:15:52.79,Chinese,,0,0,0,,如果运行相同的计算两次
 Dialogue: 0,0:15:52.79,0:15:55.82,English,,0,0,0,,you won't get the exact same answer.
