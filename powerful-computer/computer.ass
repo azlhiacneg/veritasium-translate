@@ -14,173 +14,173 @@ Style: CHN,MonyharOS Sans SC Medium,41,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.78,English,,0,0,0,,In 1901, this ancient Greek artifact was discovered
-Dialogue: 0,0:00:00.00,0:00:03.78,Chinese,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:03.78,Chinese,,0,0,0,,这个古希腊的文物
 Dialogue: 0,0:00:03.78,0:00:06.72,English,,0,0,0,,in a shipwreck off the island of Antikythera.
-Dialogue: 0,0:00:03.78,0:00:06.72,Chinese,,0,0,0,,
+Dialogue: 0,0:00:03.78,0:00:06.72,Chinese,,0,0,0,,于 1901 年从安提基特拉岛的沉船中发掘出来
 Dialogue: 0,0:00:06.72,0:00:08.67,English,,0,0,0,,3D X-ray scans have revealed
-Dialogue: 0,0:00:06.72,0:00:08.67,Chinese,,0,0,0,,
+Dialogue: 0,0:00:06.72,0:00:08.67,Chinese,,0,0,0,,对它进行的三维 X 光扫描
 Dialogue: 0,0:00:08.67,0:00:12.23,English,,0,0,0,,it contains 37 interlocking bronze gears,
-Dialogue: 0,0:00:08.67,0:00:12.23,Chinese,,0,0,0,,
+Dialogue: 0,0:00:08.67,0:00:12.23,Chinese,,0,0,0,,发现它有 37 个相互连接的铜质齿轮
 Dialogue: 0,0:00:12.23,0:00:15.67,English,,0,0,0,,allowing it to model the motions of the Sun and Moon
-Dialogue: 0,0:00:12.23,0:00:15.67,Chinese,,0,0,0,,
+Dialogue: 0,0:00:12.23,0:00:15.67,Chinese,,0,0,0,,用来建模日月的运动
 Dialogue: 0,0:00:15.67,0:00:18.92,English,,0,0,0,,and predict eclipses decades in advance.
-Dialogue: 0,0:00:15.67,0:00:18.92,Chinese,,0,0,0,,
+Dialogue: 0,0:00:15.67,0:00:18.92,Chinese,,0,0,0,,以及预知日食
 Dialogue: 0,0:00:18.92,0:00:22.14,English,,0,0,0,,Constructed around 100 or 200 BC,
-Dialogue: 0,0:00:18.92,0:00:22.14,Chinese,,0,0,0,,
+Dialogue: 0,0:00:18.92,0:00:22.14,Chinese,,0,0,0,,这架公元前 100 ~ 200 年的
 Dialogue: 0,0:00:22.14,0:00:24.16,English,,0,0,0,,the Antikythera mechanism represents
-Dialogue: 0,0:00:22.14,0:00:24.16,Chinese,,0,0,0,,
+Dialogue: 0,0:00:22.14,0:00:24.16,Chinese,,0,0,0,,安提基特拉机械
 Dialogue: 0,0:00:24.16,0:00:27.36,English,,0,0,0,,a sophisticated early computer, the likes of which
-Dialogue: 0,0:00:24.16,0:00:27.36,Chinese,,0,0,0,,
+Dialogue: 0,0:00:24.16,0:00:27.36,Chinese,,0,0,0,,代表了复杂的早期计算机
 Dialogue: 0,0:00:27.36,0:00:31.17,English,,0,0,0,,would not be seen again for at least 1,000 years.
-Dialogue: 0,0:00:27.36,0:00:31.17,Chinese,,0,0,0,,
+Dialogue: 0,0:00:27.36,0:00:31.17,Chinese,,0,0,0,,在往后的至少一千年里不复存在
 Dialogue: 0,0:00:31.17,0:00:32.96,English,,0,0,0,,Now, of course, this computer didn't work
-Dialogue: 0,0:00:31.17,0:00:32.96,Chinese,,0,0,0,,
+Dialogue: 0,0:00:31.17,0:00:32.96,Chinese,,0,0,0,,显然 这台计算机的工作原理
 Dialogue: 0,0:00:32.96,0:00:35.06,English,,0,0,0,,like modern digital computers.
-Dialogue: 0,0:00:32.96,0:00:35.06,Chinese,,0,0,0,,
+Dialogue: 0,0:00:32.96,0:00:35.06,Chinese,,0,0,0,,不同于现代的电子计算机
 Dialogue: 0,0:00:35.06,0:00:37.41,English,,0,0,0,,It works by analogy.
-Dialogue: 0,0:00:35.06,0:00:37.41,Chinese,,0,0,0,,
+Dialogue: 0,0:00:35.06,0:00:37.41,Chinese,,0,0,0,,它通过模拟来工作
 Dialogue: 0,0:00:37.41,0:00:40.30,English,,0,0,0,,The gears were constructed in such a way that the motions
-Dialogue: 0,0:00:37.41,0:00:40.30,Chinese,,0,0,0,,
+Dialogue: 0,0:00:37.41,0:00:40.30,Chinese,,0,0,0,,这些齿轮的构造
 Dialogue: 0,0:00:40.30,0:00:42.50,English,,0,0,0,,of certain dials are analogous
-Dialogue: 0,0:00:40.30,0:00:42.50,Chinese,,0,0,0,,
+Dialogue: 0,0:00:40.30,0:00:42.50,Chinese,,0,0,0,,使得拨动这些齿轮
 Dialogue: 0,0:00:42.50,0:00:45.18,English,,0,0,0,,to the motion of the Sun and Moon.
-Dialogue: 0,0:00:42.50,0:00:45.18,Chinese,,0,0,0,,
+Dialogue: 0,0:00:42.50,0:00:45.18,Chinese,,0,0,0,,可以模拟日月的运动
 Dialogue: 0,0:00:45.18,0:00:47.80,English,,0,0,0,,It is an analog computer.
-Dialogue: 0,0:00:45.18,0:00:47.80,Chinese,,0,0,0,,
+Dialogue: 0,0:00:45.18,0:00:47.80,Chinese,,0,0,0,,它是一台模拟计算机
 Dialogue: 0,0:00:49.64,0:00:51.65,English,,0,0,0,,Here is a simple analog computer
-Dialogue: 0,0:00:49.64,0:00:51.65,Chinese,,0,0,0,,
+Dialogue: 0,0:00:49.64,0:00:51.65,Chinese,,0,0,0,,这是一台把两个数加和的
 Dialogue: 0,0:00:51.65,0:00:53.64,English,,0,0,0,,for adding two numbers together.
-Dialogue: 0,0:00:51.65,0:00:53.64,Chinese,,0,0,0,,
+Dialogue: 0,0:00:51.65,0:00:53.64,Chinese,,0,0,0,,简单的模拟计算机
 Dialogue: 0,0:00:53.64,0:00:55.98,English,,0,0,0,,If you turn the black wheel some amount
-Dialogue: 0,0:00:53.64,0:00:55.98,Chinese,,0,0,0,,
+Dialogue: 0,0:00:53.64,0:00:55.98,Chinese,,0,0,0,,当你把黑色的齿轮转一下
 Dialogue: 0,0:00:55.98,0:00:59.11,English,,0,0,0,,and then turn this white wheel a different amount,
-Dialogue: 0,0:00:55.98,0:00:59.11,Chinese,,0,0,0,,
+Dialogue: 0,0:00:55.98,0:00:59.11,Chinese,,0,0,0,,白色的齿轮也转一下
 Dialogue: 0,0:00:59.11,0:01:02.68,English,,0,0,0,,the gray wheel shows the sum of the two rotations.
-Dialogue: 0,0:00:59.11,0:01:02.68,Chinese,,0,0,0,,
+Dialogue: 0,0:00:59.11,0:01:02.68,Chinese,,0,0,0,,灰色的齿轮就会显示出两个转动的和
 Dialogue: 0,0:01:03.60,0:01:06.90,English,,0,0,0,,In contrast, this is a digital mechanical computer
-Dialogue: 0,0:01:03.60,0:01:06.90,Chinese,,0,0,0,,
+Dialogue: 0,0:01:03.60,0:01:06.90,Chinese,,0,0,0,,而在一台数字计算机上
 Dialogue: 0,0:01:06.90,0:01:10.04,English,,0,0,0,,where you can add two single bit numbers.
-Dialogue: 0,0:01:06.90,0:01:10.04,Chinese,,0,0,0,,
+Dialogue: 0,0:01:06.90,0:01:10.04,Chinese,,0,0,0,,则是对两个一位的数加和
 Dialogue: 0,0:01:10.04,0:01:13.09,English,,0,0,0,,So zero plus zero equals zero,
-Dialogue: 0,0:01:10.04,0:01:13.09,Chinese,,0,0,0,,
+Dialogue: 0,0:01:10.04,0:01:13.09,Chinese,,0,0,0,,因此 0+0=0
 Dialogue: 0,0:01:13.09,0:01:18.09,English,,0,0,0,,zero plus one equals one, and one plus one equals two.
-Dialogue: 0,0:01:13.09,0:01:18.09,Chinese,,0,0,0,,
+Dialogue: 0,0:01:13.09,0:01:18.09,Chinese,,0,0,0,,0+1=1, 1+1=2
 Dialogue: 0,0:01:19.17,0:01:21.69,English,,0,0,0,,These two devices illustrate the differences
-Dialogue: 0,0:01:19.17,0:01:21.69,Chinese,,0,0,0,,
+Dialogue: 0,0:01:19.17,0:01:21.69,Chinese,,0,0,0,,这两个设备展现了
 Dialogue: 0,0:01:21.69,0:01:24.56,English,,0,0,0,,between analog and digital computers.
-Dialogue: 0,0:01:21.69,0:01:24.56,Chinese,,0,0,0,,
+Dialogue: 0,0:01:21.69,0:01:24.56,Chinese,,0,0,0,,数字计算机和模拟计算机的不同
 Dialogue: 0,0:01:24.56,0:01:27.13,English,,0,0,0,,Analog computers have a continuous range
-Dialogue: 0,0:01:24.56,0:01:27.13,Chinese,,0,0,0,,
+Dialogue: 0,0:01:24.56,0:01:27.13,Chinese,,0,0,0,,模拟计算机的输入和输出
 Dialogue: 0,0:01:27.13,0:01:28.93,English,,0,0,0,,of inputs and outputs,
-Dialogue: 0,0:01:27.13,0:01:28.93,Chinese,,0,0,0,,
+Dialogue: 0,0:01:27.13,0:01:28.93,Chinese,,0,0,0,,是连续的
 Dialogue: 0,0:01:28.93,0:01:32.66,English,,0,0,0,,whereas digital only works with discrete values.
-Dialogue: 0,0:01:28.93,0:01:32.66,Chinese,,0,0,0,,
+Dialogue: 0,0:01:28.93,0:01:32.66,Chinese,,0,0,0,,而数字计算机只对离散的值进行运算
 Dialogue: 0,0:01:32.66,0:01:35.02,English,,0,0,0,,With analog computers, the quantities of interest
-Dialogue: 0,0:01:32.66,0:01:35.02,Chinese,,0,0,0,,
+Dialogue: 0,0:01:32.66,0:01:35.02,Chinese,,0,0,0,,在模拟计算机上
 Dialogue: 0,0:01:35.02,0:01:37.31,English,,0,0,0,,are actually represented by something physical
-Dialogue: 0,0:01:35.02,0:01:37.31,Chinese,,0,0,0,,
+Dialogue: 0,0:01:35.02,0:01:37.31,Chinese,,0,0,0,,计算量通过诸如轮子转动了多少
 Dialogue: 0,0:01:37.31,0:01:40.06,English,,0,0,0,,like the amount a wheel has turned,
-Dialogue: 0,0:01:37.31,0:01:40.06,Chinese,,0,0,0,,
+Dialogue: 0,0:01:37.31,0:01:40.06,Chinese,,0,0,0,,这些物理量来表达
 Dialogue: 0,0:01:40.06,0:01:42.66,English,,0,0,0,,whereas digital computers work on symbols
-Dialogue: 0,0:01:40.06,0:01:42.66,Chinese,,0,0,0,,
+Dialogue: 0,0:01:40.06,0:01:42.66,Chinese,,0,0,0,,而在数字计算机上
 Dialogue: 0,0:01:42.66,0:01:44.78,English,,0,0,0,,like zeros and ones.
-Dialogue: 0,0:01:42.66,0:01:44.78,Chinese,,0,0,0,,
+Dialogue: 0,0:01:42.66,0:01:44.78,Chinese,,0,0,0,,则用 0 1 这样的符号来表达
 Dialogue: 0,0:01:44.78,0:01:48.28,English,,0,0,0,,If the answer is, say, two, there is nothing in the computer
-Dialogue: 0,0:01:44.78,0:01:48.28,Chinese,,0,0,0,,
+Dialogue: 0,0:01:44.78,0:01:48.28,Chinese,,0,0,0,,如果算出来的结果是 2
 Dialogue: 0,0:01:48.28,0:01:51.15,English,,0,0,0,,that is twice as much as a one.
-Dialogue: 0,0:01:48.28,0:01:51.15,Chinese,,0,0,0,,
+Dialogue: 0,0:01:48.28,0:01:51.15,Chinese,,0,0,0,,数字计算机并不会呈现出来 1 的两倍
 Dialogue: 0,0:01:51.15,0:01:53.89,English,,0,0,0,,In analog computers, there is.
-Dialogue: 0,0:01:51.15,0:01:53.89,Chinese,,0,0,0,,
+Dialogue: 0,0:01:51.15,0:01:53.89,Chinese,,0,0,0,,而模拟计算机则可以
 Dialogue: 0,0:01:53.89,0:01:57.21,English,,0,0,0,,For thousands of years, people used analog devices
-Dialogue: 0,0:01:53.89,0:01:57.21,Chinese,,0,0,0,,
+Dialogue: 0,0:01:53.89,0:01:57.21,Chinese,,0,0,0,,数千年来，人门使用类似
 Dialogue: 0,0:01:57.21,0:02:00.35,English,,0,0,0,,like the Antikythera mechanism or slide rules
-Dialogue: 0,0:01:57.21,0:02:00.35,Chinese,,0,0,0,,
+Dialogue: 0,0:01:57.21,0:02:00.35,Chinese,,0,0,0,,安提基特拉机械或是计算尺这些模拟计算设备
 Dialogue: 0,0:02:00.35,0:02:03.14,English,,0,0,0,,alongside digital devices like abacuses.
-Dialogue: 0,0:02:00.35,0:02:03.14,Chinese,,0,0,0,,
+Dialogue: 0,0:02:00.35,0:02:03.14,Chinese,,0,0,0,,也使用算盘这些数字计算设备
 Dialogue: 0,0:02:03.14,0:02:06.45,English,,0,0,0,,And up until the 1960s, the most powerful computers
-Dialogue: 0,0:02:03.14,0:02:06.45,Chinese,,0,0,0,,
+Dialogue: 0,0:02:03.14,0:02:06.45,Chinese,,0,0,0,,一直到 20 世纪 60 年代
 Dialogue: 0,0:02:06.45,0:02:09.48,English,,0,0,0,,on the planet were actually analog.
-Dialogue: 0,0:02:06.45,0:02:09.48,Chinese,,0,0,0,,
+Dialogue: 0,0:02:06.45,0:02:09.48,Chinese,,0,0,0,,世界上最强大的计算机都还是模拟计算机
 Dialogue: 0,0:02:09.48,0:02:11.64,English,,0,0,0,,Digital computers exploded onto the scene
-Dialogue: 0,0:02:09.48,0:02:11.64,Chinese,,0,0,0,,
+Dialogue: 0,0:02:09.48,0:02:11.64,Chinese,,0,0,0,,固态晶体管的到来
 Dialogue: 0,0:02:11.64,0:02:14.27,English,,0,0,0,,with the advent of solid state transistors,
-Dialogue: 0,0:02:11.64,0:02:14.27,Chinese,,0,0,0,,
+Dialogue: 0,0:02:11.64,0:02:14.27,Chinese,,0,0,0,,使得电子计算机能够大显身手
 Dialogue: 0,0:02:14.27,0:02:17.03,English,,0,0,0,,and now almost everything is digital.
-Dialogue: 0,0:02:14.27,0:02:17.03,Chinese,,0,0,0,,
+Dialogue: 0,0:02:14.27,0:02:17.03,Chinese,,0,0,0,,现在几乎所有计算机都是电子计算机
 Dialogue: 0,0:02:17.03,0:02:20.82,English,,0,0,0,,Most people have never even heard of analog computers,
-Dialogue: 0,0:02:17.03,0:02:20.82,Chinese,,0,0,0,,
+Dialogue: 0,0:02:17.03,0:02:20.82,Chinese,,0,0,0,,人们几乎没有听过模拟计算机的存在
 Dialogue: 0,0:02:20.82,0:02:23.79,English,,0,0,0,,but today that may all be changing.
-Dialogue: 0,0:02:20.82,0:02:23.79,Chinese,,0,0,0,,
+Dialogue: 0,0:02:20.82,0:02:23.79,Chinese,,0,0,0,,但是这一现象可能正在发生改变
 Dialogue: 0,0:02:23.79,0:02:26.16,English,,0,0,0,,Moore's Law, the idea that you can double the number
-Dialogue: 0,0:02:23.79,0:02:26.16,Chinese,,0,0,0,,
+Dialogue: 0,0:02:23.79,0:02:26.16,Chinese,,0,0,0,,摩尔定律指出
 Dialogue: 0,0:02:26.16,0:02:28.57,English,,0,0,0,,of transistors on a chip every two years,
-Dialogue: 0,0:02:26.16,0:02:28.57,Chinese,,0,0,0,,
+Dialogue: 0,0:02:26.16,0:02:28.57,Chinese,,0,0,0,,晶体管的数目每两年翻一番
 Dialogue: 0,0:02:28.57,0:02:30.93,English,,0,0,0,,it's reaching its limit because transistors
-Dialogue: 0,0:02:28.57,0:02:30.93,Chinese,,0,0,0,,
+Dialogue: 0,0:02:28.57,0:02:30.93,Chinese,,0,0,0,,而因为晶体管的体积已经差不多和原子一样小了
 Dialogue: 0,0:02:30.93,0:02:33.46,English,,0,0,0,,are nearly the same size as atoms.
-Dialogue: 0,0:02:30.93,0:02:33.46,Chinese,,0,0,0,,
+Dialogue: 0,0:02:30.93,0:02:33.46,Chinese,,0,0,0,,这一定律正在接近极限
 Dialogue: 0,0:02:33.46,0:02:36.22,English,,0,0,0,,Simultaneously, advancements in machine learning
-Dialogue: 0,0:02:33.46,0:02:36.22,Chinese,,0,0,0,,
+Dialogue: 0,0:02:33.46,0:02:36.22,Chinese,,0,0,0,,同时，机器学习的发展
 Dialogue: 0,0:02:36.22,0:02:39.44,English,,0,0,0,,are straining the capabilities of digital computers.
-Dialogue: 0,0:02:36.22,0:02:39.44,Chinese,,0,0,0,,
+Dialogue: 0,0:02:36.22,0:02:39.44,Chinese,,0,0,0,,对电子计算机的性能提出了更高的要求
 Dialogue: 0,0:02:39.44,0:02:41.57,English,,0,0,0,,The solution to these challenges
-Dialogue: 0,0:02:39.44,0:02:41.57,Chinese,,0,0,0,,
+Dialogue: 0,0:02:39.44,0:02:41.57,Chinese,,0,0,0,,而这些困难的解决
 Dialogue: 0,0:02:41.57,0:02:46.57,English,,0,0,0,,may well be a new generation of analog computers.
-Dialogue: 0,0:02:41.57,0:02:46.57,Chinese,,0,0,0,,
-Dialogue: 0,0:02:46.62,0:02:47.45,English,,0,0,0,,
+Dialogue: 0,0:02:41.57,0:02:46.57,Chinese,,0,0,0,,可能需要依赖新一代的模拟计算机
+Dialogue: 0,0:02:46.62,0:02:47.45,English,,0,0,0,,(soft instrumental music)
 Dialogue: 0,0:02:46.62,0:02:47.45,Chinese,,0,0,0,,
 Dialogue: 0,0:02:48.15,0:02:51.10,English,,0,0,0,,One of the most important problems humans have faced
-Dialogue: 0,0:02:48.15,0:02:51.10,Chinese,,0,0,0,,
+Dialogue: 0,0:02:48.15,0:02:51.10,Chinese,,0,0,0,,预测潮汐这一重大问题
 Dialogue: 0,0:02:51.10,0:02:54.43,English,,0,0,0,,for millennia is predicting the tides.
-Dialogue: 0,0:02:51.10,0:02:54.43,Chinese,,0,0,0,,
+Dialogue: 0,0:02:51.10,0:02:54.43,Chinese,,0,0,0,,曾困扰了人们近千年
 Dialogue: 0,0:02:54.43,0:02:58.26,English,,0,0,0,,Napoleon and his men nearly died crossing the Red Sea
-Dialogue: 0,0:02:54.43,0:02:58.26,Chinese,,0,0,0,,
+Dialogue: 0,0:02:54.43,0:02:58.26,Chinese,,0,0,0,,拿破仑的军队在穿过红海时
 Dialogue: 0,0:02:58.26,0:03:01.64,English,,0,0,0,,due to a miscalculation of the rising tide,
-Dialogue: 0,0:02:58.26,0:03:01.64,Chinese,,0,0,0,,
+Dialogue: 0,0:02:58.26,0:03:01.64,Chinese,,0,0,0,,因为计算涨潮时间的失误近乎丧命
 Dialogue: 0,0:03:01.64,0:03:04.52,English,,0,0,0,,and sailors routinely needed to know the tides
-Dialogue: 0,0:03:01.64,0:03:04.52,Chinese,,0,0,0,,
+Dialogue: 0,0:03:01.64,0:03:04.52,Chinese,,0,0,0,,而海员需要知道潮汐
 Dialogue: 0,0:03:04.52,0:03:07.67,English,,0,0,0,,to bring their ships into port without running aground.
-Dialogue: 0,0:03:04.52,0:03:07.67,Chinese,,0,0,0,,
+Dialogue: 0,0:03:04.52,0:03:07.67,Chinese,,0,0,0,,以避免船只靠岸时搁浅
 Dialogue: 0,0:03:07.87,0:03:09.85,English,,0,0,0,,Most coastal locations on Earth
-Dialogue: 0,0:03:07.87,0:03:09.85,Chinese,,0,0,0,,
+Dialogue: 0,0:03:07.87,0:03:09.85,Chinese,,0,0,0,,地球上许多海岸
 Dialogue: 0,0:03:09.85,0:03:13.63,English,,0,0,0,,experience two high and two low tides per day,
-Dialogue: 0,0:03:09.85,0:03:13.63,Chinese,,0,0,0,,
+Dialogue: 0,0:03:09.85,0:03:13.63,Chinese,,0,0,0,,一天涨潮两次退潮两次
 Dialogue: 0,0:03:13.63,0:03:17.60,English,,0,0,0,,but their exact timing varies as does their magnitude,
-Dialogue: 0,0:03:13.63,0:03:17.60,Chinese,,0,0,0,,
+Dialogue: 0,0:03:13.63,0:03:17.60,Chinese,,0,0,0,,但是涨潮退潮的时间和程度各不相同
 Dialogue: 0,0:03:17.60,0:03:19.75,English,,0,0,0,,and this is partly caused by local factors
-Dialogue: 0,0:03:17.60,0:03:19.75,Chinese,,0,0,0,,
+Dialogue: 0,0:03:17.60,0:03:19.75,Chinese,,0,0,0,,这一部分取决于当地的地理因素
 Dialogue: 0,0:03:19.75,0:03:23.02,English,,0,0,0,,like the depth of the seabed and the shape of the shoreline.
-Dialogue: 0,0:03:19.75,0:03:23.02,Chinese,,0,0,0,,
+Dialogue: 0,0:03:19.75,0:03:23.02,Chinese,,0,0,0,,例如海船深度以及海岸线的形状
 Dialogue: 0,0:03:24.19,0:03:28.21,English,,0,0,0,,In the late 1700s, to describe the tidal flow of the oceans
-Dialogue: 0,0:03:24.19,0:03:28.21,Chinese,,0,0,0,,
+Dialogue: 0,0:03:24.19,0:03:28.21,Chinese,,0,0,0,,在 18 世纪末，皮埃尔-西蒙·拉普拉斯
 Dialogue: 0,0:03:28.21,0:03:30.14,English,,0,0,0,,Pierre-Simon Laplace derived a set
-Dialogue: 0,0:03:28.21,0:03:30.14,Chinese,,0,0,0,,
+Dialogue: 0,0:03:28.21,0:03:30.14,Chinese,,0,0,0,,指出了一套复杂到没有解析解的
 Dialogue: 0,0:03:30.14,0:03:32.38,English,,0,0,0,,of complicated differential equations.
-Dialogue: 0,0:03:30.14,0:03:32.38,Chinese,,0,0,0,,
+Dialogue: 0,0:03:30.14,0:03:32.38,Chinese,,0,0,0,,复杂的差分方程
 Dialogue: 0,0:03:32.38,0:03:35.12,English,,0,0,0,,They had no analytical solutions
-Dialogue: 0,0:03:32.38,0:03:35.12,Chinese,,0,0,0,,
+Dialogue: 0,0:03:32.38,0:03:35.12,Chinese,,0,0,0,,来描述海洋的潮汐流动
 Dialogue: 0,0:03:35.12,0:03:37.60,English,,0,0,0,,so at the time they were basically useless,
-Dialogue: 0,0:03:35.12,0:03:37.60,Chinese,,0,0,0,,
+Dialogue: 0,0:03:35.12,0:03:37.60,Chinese,,0,0,0,,所以在当时来说这近乎没用
 Dialogue: 0,0:03:37.71,0:03:40.63,English,,0,0,0,,but in the process of deriving his equations,
-Dialogue: 0,0:03:37.71,0:03:40.63,Chinese,,0,0,0,,
+Dialogue: 0,0:03:37.71,0:03:40.63,Chinese,,0,0,0,,但是在推导式子的时候
 Dialogue: 0,0:03:40.63,0:03:43.02,English,,0,0,0,,Laplace made a key finding.
-Dialogue: 0,0:03:40.63,0:03:43.02,Chinese,,0,0,0,,
+Dialogue: 0,0:03:40.63,0:03:43.02,Chinese,,0,0,0,,拉普拉斯有了一个重要发现
 Dialogue: 0,0:03:43.02,0:03:44.61,English,,0,0,0,,Tides are driven at only
-Dialogue: 0,0:03:43.02,0:03:44.61,Chinese,,0,0,0,,
+Dialogue: 0,0:03:43.02,0:03:44.61,Chinese,,0,0,0,,潮汐只由几个天文频率影响
 Dialogue: 0,0:03:44.61,0:03:49.39,English,,0,0,0,,a few specific astronomical frequencies, including the Moon,
-Dialogue: 0,0:03:44.61,0:03:49.39,Chinese,,0,0,0,,
+Dialogue: 0,0:03:44.61,0:03:49.39,Chinese,,0,0,0,,例如日月以及月轨道的离心率
 Dialogue: 0,0:03:49.39,0:03:53.95,English,,0,0,0,,the Sun, and the eccentricity of the lunar orbit.
 Dialogue: 0,0:03:49.39,0:03:53.95,Chinese,,0,0,0,,
 Dialogue: 0,0:03:53.95,0:03:56.95,English,,0,0,0,,Each one of these factors contributes a sine wave
-Dialogue: 0,0:03:53.95,0:03:56.95,Chinese,,0,0,0,,
+Dialogue: 0,0:03:53.95,0:03:56.95,Chinese,,0,0,0,,这些因素各自形成一个正弦波
 Dialogue: 0,0:03:56.95,0:04:01.79,English,,0,0,0,,of a particular amplitude and phase to the total tide curve.
-Dialogue: 0,0:03:56.95,0:04:01.79,Chinese,,0,0,0,,
+Dialogue: 0,0:03:56.95,0:04:01.79,Chinese,,0,0,0,,以特定振幅和相位差贡献到潮汐的波形里
 Dialogue: 0,0:04:01.79,0:04:02.86,English,,0,0,0,,If someone could figure out
-Dialogue: 0,0:04:01.79,0:04:02.86,Chinese,,0,0,0,,
+Dialogue: 0,0:04:01.79,0:04:02.86,Chinese,,0,0,0,,如果有人能够想出来
 Dialogue: 0,0:04:02.86,0:04:05.76,English,,0,0,0,,how to correctly combine these frequency components,
-Dialogue: 0,0:04:02.86,0:04:05.76,Chinese,,0,0,0,,
+Dialogue: 0,0:04:02.86,0:04:05.76,Chinese,,0,0,0,,怎么能正确地组合这几个频率
 Dialogue: 0,0:04:05.76,0:04:08.38,English,,0,0,0,,well, the tides could finally be predicted.
-Dialogue: 0,0:04:05.76,0:04:08.38,Chinese,,0,0,0,,
+Dialogue: 0,0:04:05.76,0:04:08.38,Chinese,,0,0,0,,那么潮汐就能够被预测出来
 Dialogue: 0,0:04:09.60,0:04:13.21,English,,0,0,0,,It took nearly a century, but in the 1860s,
 Dialogue: 0,0:04:09.60,0:04:13.21,Chinese,,0,0,0,,
 Dialogue: 0,0:04:13.21,0:04:17.38,English,,0,0,0,,William Thomson, later Lord Kelvin, took up the challenge.
@@ -665,7 +665,7 @@ Dialogue: 0,0:15:04.78,0:15:06.47,English,,0,0,0,,including one that compensated
 Dialogue: 0,0:15:04.78,0:15:06.47,Chinese,,0,0,0,,
 Dialogue: 0,0:15:06.47,0:15:09.64,English,,0,0,0,,for the rotation of the Earth as the bomb fell.
 Dialogue: 0,0:15:06.47,0:15:09.64,Chinese,,0,0,0,,
-Dialogue: 0,0:15:09.64,0:15:11.47,English,,0,0,0,,The Norden was one
+Dialogue: 0,0:15:09.64,0:15:11.47,English,,0,0,0,,(explosion resounds) The Norden was one
 Dialogue: 0,0:15:09.64,0:15:11.47,Chinese,,0,0,0,,
 Dialogue: 0,0:15:11.47,0:15:14.43,English,,0,0,0,,of the most closely guarded secrets of the war.
 Dialogue: 0,0:15:11.47,0:15:14.43,Chinese,,0,0,0,,
