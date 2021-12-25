@@ -14,17 +14,17 @@ Style: CHN,MonyharOS Sans SC Medium,41,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.78,English,,0,0,0,,In 1901, this ancient Greek artifact was discovered
-Dialogue: 0,0:00:00.00,0:00:03.78,Chinese,,0,0,0,,这个古希腊的文物
+Dialogue: 0,0:00:00.00,0:00:03.78,Chinese,,0,0,0,,1901年  人们发现了一件古希腊的文物
 Dialogue: 0,0:00:03.78,0:00:06.72,English,,0,0,0,,in a shipwreck off the island of Antikythera.
-Dialogue: 0,0:00:03.78,0:00:06.72,Chinese,,0,0,0,,于 1901 年从安提基特拉岛的沉船中发掘出来
+Dialogue: 0,0:00:03.78,0:00:06.72,Chinese,,0,0,0,,发现于安提基特拉岛的沉船中
 Dialogue: 0,0:00:06.72,0:00:08.67,English,,0,0,0,,3D X-ray scans have revealed
-Dialogue: 0,0:00:06.72,0:00:08.67,Chinese,,0,0,0,,对它进行的三维 X 光扫描
+Dialogue: 0,0:00:06.72,0:00:08.67,Chinese,,0,0,0,,三维 X 光扫描显示
 Dialogue: 0,0:00:08.67,0:00:12.23,English,,0,0,0,,it contains 37 interlocking bronze gears,
-Dialogue: 0,0:00:08.67,0:00:12.23,Chinese,,0,0,0,,发现它有 37 个相互连接的铜质齿轮
+Dialogue: 0,0:00:08.67,0:00:12.23,Chinese,,0,0,0,,它由 37 个相互连接的铜质齿轮组成
 Dialogue: 0,0:00:12.23,0:00:15.67,English,,0,0,0,,allowing it to model the motions of the Sun and Moon
 Dialogue: 0,0:00:12.23,0:00:15.67,Chinese,,0,0,0,,用来建模日月的运动
 Dialogue: 0,0:00:15.67,0:00:18.92,English,,0,0,0,,and predict eclipses decades in advance.
-Dialogue: 0,0:00:15.67,0:00:18.92,Chinese,,0,0,0,,以及预知日食
+Dialogue: 0,0:00:15.67,0:00:18.92,Chinese,,0,0,0,,以及推算几十年后的日食
 Dialogue: 0,0:00:18.92,0:00:22.14,English,,0,0,0,,Constructed around 100 or 200 BC,
 Dialogue: 0,0:00:18.92,0:00:22.14,Chinese,,0,0,0,,这架公元前 100 ~ 200 年的
 Dialogue: 0,0:00:22.14,0:00:24.16,English,,0,0,0,,the Antikythera mechanism represents
@@ -48,9 +48,9 @@ Dialogue: 0,0:00:42.50,0:00:45.18,Chinese,,0,0,0,,可以模拟日月的运动
 Dialogue: 0,0:00:45.18,0:00:47.80,English,,0,0,0,,It is an analog computer.
 Dialogue: 0,0:00:45.18,0:00:47.80,Chinese,,0,0,0,,它是一台模拟计算机
 Dialogue: 0,0:00:49.64,0:00:51.65,English,,0,0,0,,Here is a simple analog computer
-Dialogue: 0,0:00:49.64,0:00:51.65,Chinese,,0,0,0,,这是一台把两个数加和的
+Dialogue: 0,0:00:49.64,0:00:51.65,Chinese,,0,0,0,,这是一台简单的模拟计算机
 Dialogue: 0,0:00:51.65,0:00:53.64,English,,0,0,0,,for adding two numbers together.
-Dialogue: 0,0:00:51.65,0:00:53.64,Chinese,,0,0,0,,简单的模拟计算机
+Dialogue: 0,0:00:51.65,0:00:53.64,Chinese,,0,0,0,,可以求两数之和
 Dialogue: 0,0:00:53.64,0:00:55.98,English,,0,0,0,,If you turn the black wheel some amount
 Dialogue: 0,0:00:53.64,0:00:55.98,Chinese,,0,0,0,,当你把黑色的齿轮转一下
 Dialogue: 0,0:00:55.98,0:00:59.11,English,,0,0,0,,and then turn this white wheel a different amount,
@@ -69,10 +69,8 @@ Dialogue: 0,0:01:19.17,0:01:21.69,English,,0,0,0,,These two devices illustrate t
 Dialogue: 0,0:01:19.17,0:01:21.69,Chinese,,0,0,0,,这两个设备展现了
 Dialogue: 0,0:01:21.69,0:01:24.56,English,,0,0,0,,between analog and digital computers.
 Dialogue: 0,0:01:21.69,0:01:24.56,Chinese,,0,0,0,,数字计算机和模拟计算机的不同
-Dialogue: 0,0:01:24.56,0:01:27.13,English,,0,0,0,,Analog computers have a continuous range
-Dialogue: 0,0:01:24.56,0:01:27.13,Chinese,,0,0,0,,模拟计算机的输入和输出
-Dialogue: 0,0:01:27.13,0:01:28.93,English,,0,0,0,,of inputs and outputs,
-Dialogue: 0,0:01:27.13,0:01:28.93,Chinese,,0,0,0,,是连续的
+Dialogue: 0,0:01:24.56,0:01:28.93,English,,0,0,0,,Analog computers have a continuous range of inputs and outputs,
+Dialogue: 0,0:01:24.56,0:01:28.93,Chinese,,0,0,0,,模拟计算机的输入和输出是连续的
 Dialogue: 0,0:01:28.93,0:01:32.66,English,,0,0,0,,whereas digital only works with discrete values.
 Dialogue: 0,0:01:28.93,0:01:32.66,Chinese,,0,0,0,,而数字计算机只对离散的值进行运算
 Dialogue: 0,0:01:32.66,0:01:35.02,English,,0,0,0,,With analog computers, the quantities of interest
@@ -127,8 +125,6 @@ Dialogue: 0,0:02:39.44,0:02:41.57,English,,0,0,0,,The solution to these challeng
 Dialogue: 0,0:02:39.44,0:02:41.57,Chinese,,0,0,0,,而这些困难的解决
 Dialogue: 0,0:02:41.57,0:02:46.57,English,,0,0,0,,may well be a new generation of analog computers.
 Dialogue: 0,0:02:41.57,0:02:46.57,Chinese,,0,0,0,,可能需要依赖新一代的模拟计算机
-Dialogue: 0,0:02:46.62,0:02:47.45,English,,0,0,0,,(soft instrumental music)
-Dialogue: 0,0:02:46.62,0:02:47.45,Chinese,,0,0,0,,
 Dialogue: 0,0:02:48.15,0:02:51.10,English,,0,0,0,,One of the most important problems humans have faced
 Dialogue: 0,0:02:48.15,0:02:51.10,Chinese,,0,0,0,,预测潮汐这一重大问题
 Dialogue: 0,0:02:51.10,0:02:54.43,English,,0,0,0,,for millennia is predicting the tides.
@@ -165,12 +161,10 @@ Dialogue: 0,0:03:37.71,0:03:40.63,English,,0,0,0,,but in the process of deriving
 Dialogue: 0,0:03:37.71,0:03:40.63,Chinese,,0,0,0,,但是在推导式子的时候
 Dialogue: 0,0:03:40.63,0:03:43.02,English,,0,0,0,,Laplace made a key finding.
 Dialogue: 0,0:03:40.63,0:03:43.02,Chinese,,0,0,0,,拉普拉斯有了一个重要发现
-Dialogue: 0,0:03:43.02,0:03:44.61,English,,0,0,0,,Tides are driven at only
-Dialogue: 0,0:03:43.02,0:03:44.61,Chinese,,0,0,0,,潮汐只由几个天文频率影响
-Dialogue: 0,0:03:44.61,0:03:49.39,English,,0,0,0,,a few specific astronomical frequencies, including the Moon,
-Dialogue: 0,0:03:44.61,0:03:49.39,Chinese,,0,0,0,,例如日月以及月轨道的离心率
-Dialogue: 0,0:03:49.39,0:03:53.95,English,,0,0,0,,the Sun, and the eccentricity of the lunar orbit.
-Dialogue: 0,0:03:49.39,0:03:53.95,Chinese,,0,0,0,,
+Dialogue: 0,0:03:43.02,0:03:48.09,English,,0,0,0,,Tides are driven at only a few specific astronomical frequencies,
+Dialogue: 0,0:03:43.02,0:03:48.09,Chinese,,0,0,0,,潮汐只取决于少数几个天文频率
+Dialogue: 0,0:03:48.09,0:03:53.95,English,,0,0,0,,including the Moon, the Sun, and the eccentricity of the lunar orbit.
+Dialogue: 0,0:03:48.09,0:03:53.95,Chinese,,0,0,0,,例如日月以及月轨道的离心率
 Dialogue: 0,0:03:53.95,0:03:56.95,English,,0,0,0,,Each one of these factors contributes a sine wave
 Dialogue: 0,0:03:53.95,0:03:56.95,Chinese,,0,0,0,,这些因素各自形成一个正弦波
 Dialogue: 0,0:03:56.95,0:04:01.79,English,,0,0,0,,of a particular amplitude and phase to the total tide curve.
