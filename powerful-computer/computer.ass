@@ -254,203 +254,181 @@ Dialogue: 0,0:06:00.92,0:06:03.30,Chinese,,0,0,0,,
 Dialogue: 0,0:06:03.30,0:06:05.77,English,,0,0,0,,to predict future tides.
 Dialogue: 0,0:06:03.30,0:06:05.77,Chinese,,0,0,0,,
 Dialogue: 0,0:06:05.77,0:06:08.25,English,,0,0,0,,Lord Kelvin spent years analyzing
-Dialogue: 0,0:06:05.77,0:06:08.25,Chinese,,0,0,0,,
 Dialogue: 0,0:06:08.25,0:06:10.51,English,,0,0,0,,and predicting tides by hand.
-Dialogue: 0,0:06:08.25,0:06:10.51,Chinese,,0,0,0,,
+Dialogue: 0,0:06:05.77,0:06:10.51,Chinese,,0,0,0,,凯文爵士投入了数年时间分析并手动预测了浪潮
 Dialogue: 0,0:06:10.51,0:06:13.09,English,,0,0,0,,Then he had a stroke of inspiration.
-Dialogue: 0,0:06:10.51,0:06:13.09,Chinese,,0,0,0,,
+Dialogue: 0,0:06:10.51,0:06:13.09,Chinese,,0,0,0,,然后他突然有了灵感
 Dialogue: 0,0:06:13.09,0:06:14.33,English,,0,0,0,,Could you design a machine
-Dialogue: 0,0:06:13.09,0:06:14.33,Chinese,,0,0,0,,
 Dialogue: 0,0:06:14.33,0:06:16.90,English,,0,0,0,,to carry out these calculations automatically?
-Dialogue: 0,0:06:14.33,0:06:16.90,Chinese,,0,0,0,,
+Dialogue: 0,0:06:13.09,0:06:16.90,Chinese,,0,0,0,,你可以设计一种能够自动完成这些计算的机器吗
 Dialogue: 0,0:06:16.90,0:06:20.59,English,,0,0,0,,In Kelvin's words, to substitute brass for brains.
-Dialogue: 0,0:06:16.90,0:06:20.59,Chinese,,0,0,0,,
+Dialogue: 0,0:06:16.90,0:06:20.59,Chinese,,0,0,0,,用凯文的话来说，这是「用黄铜来代替人脑」
 Dialogue: 0,0:06:20.59,0:06:22.33,English,,0,0,0,,The resulting analog computers
-Dialogue: 0,0:06:20.59,0:06:22.33,Chinese,,0,0,0,,
 Dialogue: 0,0:06:22.33,0:06:24.95,English,,0,0,0,,were in use for nearly a century.
-Dialogue: 0,0:06:22.33,0:06:24.95,Chinese,,0,0,0,,
+Dialogue: 0,0:06:20.59,0:06:24.95,Chinese,,0,0,0,,他造出来的模拟计算机 在随后的近一个世纪内一直在使用
 Dialogue: 0,0:06:24.95,0:06:26.45,English,,0,0,0,,They even played a critical role
-Dialogue: 0,0:06:24.95,0:06:26.45,Chinese,,0,0,0,,
 Dialogue: 0,0:06:26.45,0:06:28.30,English,,0,0,0,,in the outcome of World War II.
-Dialogue: 0,0:06:26.45,0:06:28.30,Chinese,,0,0,0,,
+Dialogue: 0,0:06:24.95,0:06:28.30,Chinese,,0,0,0,,它们甚至在第二次世界大战中 扮演了至关重要的角色
 Dialogue: 0,0:06:29.77,0:06:32.48,English,,0,0,0,,Kelvin started with the problem of prediction.
-Dialogue: 0,0:06:29.77,0:06:32.48,Chinese,,0,0,0,,
+Dialogue: 0,0:06:29.77,0:06:32.48,Chinese,,0,0,0,,凯文从预测的问题出发
 Dialogue: 0,0:06:32.48,0:06:34.07,English,,0,0,0,,Adding the sine waves together,
-Dialogue: 0,0:06:32.48,0:06:34.07,Chinese,,0,0,0,,
 Dialogue: 0,0:06:34.07,0:06:36.60,English,,0,0,0,,given you know their amplitudes and phases,
-Dialogue: 0,0:06:34.07,0:06:36.60,Chinese,,0,0,0,,
+Dialogue: 0,0:06:32.48,0:06:36.60,Chinese,,0,0,0,,如果你知道它们的振幅和周期，并将这些正弦波加在一起
 Dialogue: 0,0:06:36.60,0:06:39.50,English,,0,0,0,,he knew he could create sinusoidal motion
-Dialogue: 0,0:06:36.60,0:06:39.50,Chinese,,0,0,0,,
 Dialogue: 0,0:06:39.50,0:06:41.97,English,,0,0,0,,with a device called a Scotch Yoke.
-Dialogue: 0,0:06:39.50,0:06:41.97,Chinese,,0,0,0,,
+Dialogue: 0,0:06:36.60,0:06:41.97,Chinese,,0,0,0,,他就能用一个叫做「苏格兰轭」的装置 作出正弦运动的图像
 Dialogue: 0,0:06:41.97,0:06:45.74,English,,0,0,0,,It extracts one dimension from uniform circular motion.
-Dialogue: 0,0:06:41.97,0:06:45.74,Chinese,,0,0,0,,
+Dialogue: 0,0:06:41.97,0:06:45.74,Chinese,,0,0,0,,它将圆周运动提取成一维运动
 Dialogue: 0,0:06:45.76,0:06:47.56,English,,0,0,0,,But to make a tide prediction,
-Dialogue: 0,0:06:45.76,0:06:47.56,Chinese,,0,0,0,,
+Dialogue: 0,0:06:45.76,0:06:47.56,Chinese,,0,0,0,,但要做潮汐预测的话
 Dialogue: 0,0:06:47.56,0:06:50.85,English,,0,0,0,,he needed a way to combine 10 sine waves together.
-Dialogue: 0,0:06:47.56,0:06:50.85,Chinese,,0,0,0,,
+Dialogue: 0,0:06:47.56,0:06:50.85,Chinese,,0,0,0,,他就需要有一种方式能将10个正弦波混合在一起
 Dialogue: 0,0:06:50.85,0:06:54.39,English,,0,0,0,,He needed a mechanical analog for addition.
-Dialogue: 0,0:06:50.85,0:06:54.39,Chinese,,0,0,0,,
+Dialogue: 0,0:06:50.85,0:06:54.39,Chinese,,0,0,0,,他需要一个机械来模拟加法运算
 Dialogue: 0,0:06:54.39,0:06:58.33,English,,0,0,0,,Stuck on this problem in 1872, Kelvin boarded a train
-Dialogue: 0,0:06:54.39,0:06:58.33,Chinese,,0,0,0,,
+Dialogue: 0,0:06:54.39,0:06:58.33,Chinese,,0,0,0,,在1872年 在他停滞于这个问题的时候 凯文登上了一辆火车
 Dialogue: 0,0:06:58.33,0:07:00.89,English,,0,0,0,,for a meeting with the main sponsor of his tidal research,
-Dialogue: 0,0:06:58.33,0:07:00.89,Chinese,,0,0,0,,
 Dialogue: 0,0:07:00.89,0:07:02.93,English,,0,0,0,,the British Association.
-Dialogue: 0,0:07:00.89,0:07:02.93,Chinese,,0,0,0,,
+Dialogue: 0,0:06:58.33,0:07:02.93,Chinese,,0,0,0,,去和一个他的潮汐研究的主要赞助者，大不列颠协会会面
 Dialogue: 0,0:07:02.93,0:07:05.27,English,,0,0,0,,On the train, Kelvin bumped into a friend,
-Dialogue: 0,0:07:02.93,0:07:05.27,Chinese,,0,0,0,,
+Dialogue: 0,0:07:02.93,0:07:05.27,Chinese,,0,0,0,,在火车上，凯文遇见了一位朋友，发明家Beauchamp Tower
 Dialogue: 0,0:07:05.27,0:07:09.69,English,,0,0,0,,inventor Beauchamp Tower to whom he explained his dilemma.
-Dialogue: 0,0:07:05.27,0:07:09.69,Chinese,,0,0,0,,
+Dialogue: 0,0:07:05.27,0:07:09.69,Chinese,,0,0,0,,他向这位朋友说明了他现在的窘境
 Dialogue: 0,0:07:09.69,0:07:12.08,English,,0,0,0,,Tower suggested he use Wheatstone's plan
-Dialogue: 0,0:07:09.69,0:07:12.08,Chinese,,0,0,0,,
+Dialogue: 0,0:07:09.69,0:07:12.08,Chinese,,0,0,0,,Tower 建议他使用 Wheatstone 的
 Dialogue: 0,0:07:12.08,0:07:14.84,English,,0,0,0,,of a chain passing round a number of pulleys.
-Dialogue: 0,0:07:12.08,0:07:14.84,Chinese,,0,0,0,,
+Dialogue: 0,0:07:12.08,0:07:14.84,Chinese,,0,0,0,,用一个绕过一些滑轮形成的链的方案
 Dialogue: 0,0:07:14.84,0:07:17.36,English,,0,0,0,,And this was exactly the addition mechanism
-Dialogue: 0,0:07:14.84,0:07:17.36,Chinese,,0,0,0,,
 Dialogue: 0,0:07:17.36,0:07:19.11,English,,0,0,0,,Kelvin was looking for.
-Dialogue: 0,0:07:17.36,0:07:19.11,Chinese,,0,0,0,,
+Dialogue: 0,0:07:14.84,0:07:19.11,Chinese,,0,0,0,,而这个就是凯文一直在寻找的加法装置
 Dialogue: 0,0:07:19.11,0:07:21.65,English,,0,0,0,,By attaching a pulley to each Scotch yoke
-Dialogue: 0,0:07:19.11,0:07:21.65,Chinese,,0,0,0,,
+Dialogue: 0,0:07:19.11,0:07:21.65,Chinese,,0,0,0,,通过在每个苏格兰轭上安装一个滑轮
 Dialogue: 0,0:07:21.65,0:07:23.75,English,,0,0,0,,and running a weighted cord around them,
-Dialogue: 0,0:07:21.65,0:07:23.75,Chinese,,0,0,0,,
+Dialogue: 0,0:07:21.65,0:07:23.75,Chinese,,0,0,0,,并在他们周围拉上一条加重的绳子
 Dialogue: 0,0:07:23.75,0:07:25.47,English,,0,0,0,,he could mechanically add
-Dialogue: 0,0:07:23.75,0:07:25.47,Chinese,,0,0,0,,
 Dialogue: 0,0:07:25.47,0:07:28.03,English,,0,0,0,,all of their contributions at once.
-Dialogue: 0,0:07:25.47,0:07:28.03,Chinese,,0,0,0,,
+Dialogue: 0,0:07:23.75,0:07:28.03,Chinese,,0,0,0,,他可以机械性地一次增加它们所有的贡献
 Dialogue: 0,0:07:28.03,0:07:29.66,English,,0,0,0,,He scribbled down the entire plan
-Dialogue: 0,0:07:28.03,0:07:29.66,Chinese,,0,0,0,,
 Dialogue: 0,0:07:29.66,0:07:32.65,English,,0,0,0,,for this predictor machine by the end of the train ride.
-Dialogue: 0,0:07:29.66,0:07:32.65,Chinese,,0,0,0,,
+Dialogue: 0,0:07:28.03,0:07:32.65,Chinese,,0,0,0,,他将整个预测机器的方案在他下火车前潦草地画了下来
 Dialogue: 0,0:07:32.65,0:07:34.68,English,,0,0,0,,He pitched it to the British Association
-Dialogue: 0,0:07:32.65,0:07:34.68,Chinese,,0,0,0,,
+Dialogue: 0,0:07:32.65,0:07:34.68,Chinese,,0,0,0,,他向英国协会提出了这一建议
 Dialogue: 0,0:07:34.68,0:07:38.40,English,,0,0,0,,and secured funding to build it all before he returned home.
-Dialogue: 0,0:07:34.68,0:07:38.40,Chinese,,0,0,0,,
+Dialogue: 0,0:07:34.68,0:07:38.40,Chinese,,0,0,0,,并在回家前获得了建造这一切的资金
 Dialogue: 0,0:07:39.86,0:07:41.87,English,,0,0,0,,If you knew the relative contributions
-Dialogue: 0,0:07:39.86,0:07:41.87,Chinese,,0,0,0,,
-Dialogue: 0,0:07:41.87,0:07:43.73,English,,0,0,0,,of different frequency components,
-Dialogue: 0,0:07:41.87,0:07:43.73,Chinese,,0,0,0,,
+Dialogue: 0,0:07:39.86,0:07:43.73,English,,0,0,0,,of different frequency components,
+Dialogue: 0,0:07:39.86,0:07:43.73,Chinese,,0,0,0,,如果你知道不同频率成分的相对贡献
 Dialogue: 0,0:07:43.73,0:07:47.37,English,,0,0,0,,Kelvin now had a machine to automate the tedious task
-Dialogue: 0,0:07:43.73,0:07:47.37,Chinese,,0,0,0,,
+Dialogue: 0,0:07:43.73,0:07:47.37,Chinese,,0,0,0,,开尔文现在有了一台机器，可以自动完成繁琐的
 Dialogue: 0,0:07:47.37,0:07:49.42,English,,0,0,0,,of predicting future tides.
-Dialogue: 0,0:07:47.37,0:07:49.42,Chinese,,0,0,0,,
+Dialogue: 0,0:07:47.37,0:07:49.42,Chinese,,0,0,0,,预测潮汐未来的工作
 Dialogue: 0,0:07:49.42,0:07:52.16,English,,0,0,0,,This was a great leap forward.
-Dialogue: 0,0:07:49.42,0:07:52.16,Chinese,,0,0,0,,
+Dialogue: 0,0:07:49.42,0:07:52.16,Chinese,,0,0,0,,这是一个巨大的飞跃
 Dialogue: 0,0:07:52.16,0:07:54.66,English,,0,0,0,,Four hours of cranking the handle
-Dialogue: 0,0:07:52.16,0:07:54.66,Chinese,,0,0,0,,
+Dialogue: 0,0:07:52.16,0:07:54.66,Chinese,,0,0,0,,摇动手柄四个小时
 Dialogue: 0,0:07:54.66,0:07:57.96,English,,0,0,0,,yielded a full year of tidal predictions.
-Dialogue: 0,0:07:54.66,0:07:57.96,Chinese,,0,0,0,,
+Dialogue: 0,0:07:54.66,0:07:57.96,Chinese,,0,0,0,,就能获得一整年的潮汐预测结果
 Dialogue: 0,0:07:57.96,0:08:00.51,English,,0,0,0,,But for many years, the harder half of the problem
-Dialogue: 0,0:07:57.96,0:08:00.51,Chinese,,0,0,0,,
+Dialogue: 0,0:07:57.96,0:08:00.51,Chinese,,0,0,0,,但多年来 这个问题中较难解决
 Dialogue: 0,0:08:00.51,0:08:03.17,English,,0,0,0,,was still done by hand, breaking apart
-Dialogue: 0,0:08:00.51,0:08:03.17,Chinese,,0,0,0,,
+Dialogue: 0,0:08:00.51,0:08:03.17,Chinese,,0,0,0,,即把现有的潮汐曲线 分解成其组成频率的工作
 Dialogue: 0,0:08:03.17,0:08:06.72,English,,0,0,0,,an existing tide curve into its component frequencies.
-Dialogue: 0,0:08:03.17,0:08:06.72,Chinese,,0,0,0,,
+Dialogue: 0,0:08:03.17,0:08:06.72,Chinese,,0,0,0,,仍然是由手工完成的
 Dialogue: 0,0:08:06.72,0:08:09.21,English,,0,0,0,,To automate this step, Kelvin needed a machine
-Dialogue: 0,0:08:06.72,0:08:09.21,Chinese,,0,0,0,,
+Dialogue: 0,0:08:06.72,0:08:09.21,Chinese,,0,0,0,,为了实现这一步骤的自动化，凯文需要一台机器
 Dialogue: 0,0:08:09.21,0:08:12.88,English,,0,0,0,,capable of multiplying the tide curve times a sine wave
-Dialogue: 0,0:08:09.21,0:08:12.88,Chinese,,0,0,0,,
+Dialogue: 0,0:08:09.21,0:08:12.88,Chinese,,0,0,0,,能够将潮汐曲线乘以一个正弦波
 Dialogue: 0,0:08:12.88,0:08:15.11,English,,0,0,0,,and then taking its integral.
-Dialogue: 0,0:08:12.88,0:08:15.11,Chinese,,0,0,0,,
+Dialogue: 0,0:08:12.88,0:08:15.11,Chinese,,0,0,0,,然后再取其积分
 Dialogue: 0,0:08:15.11,0:08:18.72,English,,0,0,0,,What would such a device even look like?
-Dialogue: 0,0:08:15.11,0:08:18.72,Chinese,,0,0,0,,
+Dialogue: 0,0:08:15.11,0:08:18.72,Chinese,,0,0,0,,这样的设备到底是什么样子的呢
 Dialogue: 0,0:08:18.72,0:08:20.83,English,,0,0,0,,With his older brother, James Thomson,
-Dialogue: 0,0:08:18.72,0:08:20.83,Chinese,,0,0,0,,
 Dialogue: 0,0:08:20.83,0:08:23.60,English,,0,0,0,,Kelvin came up with a mechanical integrator.
-Dialogue: 0,0:08:20.83,0:08:23.60,Chinese,,0,0,0,,
+Dialogue: 0,0:08:18.72,0:08:23.60,Chinese,,0,0,0,,与他的哥哥詹姆斯-汤姆森一起 凯文想出了一个机械积分器
 Dialogue: 0,0:08:23.60,0:08:27.04,English,,0,0,0,,It consists of a ball on a rotating disc.
-Dialogue: 0,0:08:23.60,0:08:27.04,Chinese,,0,0,0,,
+Dialogue: 0,0:08:23.60,0:08:27.04,Chinese,,0,0,0,,它由一个旋转盘上的球组成
 Dialogue: 0,0:08:27.04,0:08:29.88,English,,0,0,0,,Due to the rotation of the disc, the further the ball
-Dialogue: 0,0:08:27.04,0:08:29.88,Chinese,,0,0,0,,
+Dialogue: 0,0:08:27.04,0:08:29.88,Chinese,,0,0,0,,由于圆盘的旋转
 Dialogue: 0,0:08:29.88,0:08:33.15,English,,0,0,0,,is from the center, the faster it spins.
-Dialogue: 0,0:08:29.88,0:08:33.15,Chinese,,0,0,0,,
+Dialogue: 0,0:08:29.88,0:08:33.15,Chinese,,0,0,0,,球离中心越远 它的旋转速度就越快
 Dialogue: 0,0:08:33.15,0:08:35.59,English,,0,0,0,,If the ball is at the very center of the disc.
-Dialogue: 0,0:08:33.15,0:08:35.59,Chinese,,0,0,0,,
+Dialogue: 0,0:08:33.15,0:08:35.59,Chinese,,0,0,0,,如果球在圆盘的最中心
 Dialogue: 0,0:08:35.59,0:08:37.37,English,,0,0,0,,It doesn't turn at all.
-Dialogue: 0,0:08:35.59,0:08:37.37,Chinese,,0,0,0,,
+Dialogue: 0,0:08:35.59,0:08:37.37,Chinese,,0,0,0,,它根本就不转
 Dialogue: 0,0:08:37.37,0:08:38.73,English,,0,0,0,,And if it's on the left side,
-Dialogue: 0,0:08:37.37,0:08:38.73,Chinese,,0,0,0,,
+Dialogue: 0,0:08:37.37,0:08:38.73,Chinese,,0,0,0,,而如果它在左边
 Dialogue: 0,0:08:38.73,0:08:41.29,English,,0,0,0,,it turns in the opposite direction.
-Dialogue: 0,0:08:38.73,0:08:41.29,Chinese,,0,0,0,,
+Dialogue: 0,0:08:38.73,0:08:41.29,Chinese,,0,0,0,,它就往相反的方向转动
 Dialogue: 0,0:08:41.29,0:08:44.48,English,,0,0,0,,Now, the motion of the ball is converted into an output
-Dialogue: 0,0:08:41.29,0:08:44.48,Chinese,,0,0,0,,
+Dialogue: 0,0:08:41.29,0:08:44.48,Chinese,,0,0,0,,现在 球的运动被转换成一个经由滚轮做出来的输出
 Dialogue: 0,0:08:44.48,0:08:47.88,English,,0,0,0,,via a roller, which moves a pen up or down
-Dialogue: 0,0:08:44.48,0:08:47.88,Chinese,,0,0,0,,
 Dialogue: 0,0:08:47.88,0:08:49.90,English,,0,0,0,,on the output graph paper.
-Dialogue: 0,0:08:47.88,0:08:49.90,Chinese,,0,0,0,,
+Dialogue: 0,0:08:44.48,0:08:49.90,Chinese,,0,0,0,,而这个滚轮在作为输出的图画纸上 上下地移动着笔
 Dialogue: 0,0:08:50.62,0:08:53.44,English,,0,0,0,,So the way it works is you trace the function
-Dialogue: 0,0:08:50.62,0:08:53.44,Chinese,,0,0,0,,
 Dialogue: 0,0:08:53.44,0:08:55.35,English,,0,0,0,,you want to integrate with a stylus,
-Dialogue: 0,0:08:53.44,0:08:55.35,Chinese,,0,0,0,,
+Dialogue: 0,0:08:50.62,0:08:55.35,Chinese,,0,0,0,,因此 它的工作方式是用测针来追踪你想描绘的函数
 Dialogue: 0,0:08:55.35,0:08:57.38,English,,0,0,0,,and the stylus controls the position
-Dialogue: 0,0:08:55.35,0:08:57.38,Chinese,,0,0,0,,
+Dialogue: 0,0:08:55.35,0:08:57.38,Chinese,,0,0,0,,测针控制球在圆盘上的位置
 Dialogue: 0,0:08:57.38,0:09:01.43,English,,0,0,0,,of the ball on the disc and hence its speed of rotation.
-Dialogue: 0,0:08:57.38,0:09:01.43,Chinese,,0,0,0,,
+Dialogue: 0,0:08:57.38,0:09:01.43,Chinese,,0,0,0,,从而控制其旋转的速度
 Dialogue: 0,0:09:01.43,0:09:04.13,English,,0,0,0,,This is transferred through the roller to the output,
-Dialogue: 0,0:09:01.43,0:09:04.13,Chinese,,0,0,0,,
+Dialogue: 0,0:09:01.43,0:09:04.13,Chinese,,0,0,0,,这将通过滚轴传递到输出端
 Dialogue: 0,0:09:04.43,0:09:07.36,English,,0,0,0,,which plots the integral of the original function.
-Dialogue: 0,0:09:04.43,0:09:07.36,Chinese,,0,0,0,,
+Dialogue: 0,0:09:04.43,0:09:07.36,Chinese,,0,0,0,,绘制出原始函数的积分
 Dialogue: 0,0:09:08.50,0:09:10.56,English,,0,0,0,,Now, to decompose a tide curve,
-Dialogue: 0,0:09:08.50,0:09:10.56,Chinese,,0,0,0,,
+Dialogue: 0,0:09:08.50,0:09:10.56,Chinese,,0,0,0,,现在 要分解一条潮汐曲线
 Dialogue: 0,0:09:10.56,0:09:12.69,English,,0,0,0,,we don't just want to integrate the function.
-Dialogue: 0,0:09:10.56,0:09:12.69,Chinese,,0,0,0,,
+Dialogue: 0,0:09:10.56,0:09:12.69,Chinese,,0,0,0,,我们不只是想对函数进行积分
 Dialogue: 0,0:09:12.69,0:09:15.18,English,,0,0,0,,We first want to multiply it by a sine wave
-Dialogue: 0,0:09:12.69,0:09:15.18,Chinese,,0,0,0,,
+Dialogue: 0,0:09:12.69,0:09:15.18,Chinese,,0,0,0,,我们首先要把它与一个特定频率的正弦波相乘
 Dialogue: 0,0:09:15.18,0:09:18.25,English,,0,0,0,,of a particular frequency, and the way to do this
-Dialogue: 0,0:09:15.18,0:09:18.25,Chinese,,0,0,0,,
+Dialogue: 0,0:09:15.18,0:09:18.25,Chinese,,0,0,0,,而做到这一点的方法是
 Dialogue: 0,0:09:18.25,0:09:21.38,English,,0,0,0,,is to make the disc rotate back and forth
-Dialogue: 0,0:09:18.25,0:09:21.38,Chinese,,0,0,0,,
 Dialogue: 0,0:09:21.38,0:09:23.34,English,,0,0,0,,at that specific frequency.
-Dialogue: 0,0:09:21.38,0:09:23.34,Chinese,,0,0,0,,
+Dialogue: 0,0:09:18.25,0:09:23.34,Chinese,,0,0,0,,让圆盘以该频率来回旋转
 Dialogue: 0,0:09:24.01,0:09:27.38,English,,0,0,0,,Now the rotation of the ball depends not only on where it is
-Dialogue: 0,0:09:24.01,0:09:27.38,Chinese,,0,0,0,,
+Dialogue: 0,0:09:24.01,0:09:27.38,Chinese,,0,0,0,,现在 球的旋转不仅取决于它在圆盘上的位置
 Dialogue: 0,0:09:27.38,0:09:29.76,English,,0,0,0,,on the disc, but also on how the disc
-Dialogue: 0,0:09:27.38,0:09:29.76,Chinese,,0,0,0,,
 Dialogue: 0,0:09:29.76,0:09:31.97,English,,0,0,0,,is turning at that instant.
-Dialogue: 0,0:09:29.76,0:09:31.97,Chinese,,0,0,0,,
+Dialogue: 0,0:09:27.38,0:09:31.97,Chinese,,0,0,0,,而且还取决于圆盘在那一刻是如何转动的
 Dialogue: 0,0:09:31.97,0:09:34.27,English,,0,0,0,,You trace the tide curve with the stylus,
-Dialogue: 0,0:09:31.97,0:09:34.27,Chinese,,0,0,0,,
+Dialogue: 0,0:09:31.97,0:09:34.27,Chinese,,0,0,0,,你用测针描画出潮汐曲线
 Dialogue: 0,0:09:34.27,0:09:37.67,English,,0,0,0,,which moves the ball back and forth on the oscillating disc,
-Dialogue: 0,0:09:34.27,0:09:37.67,Chinese,,0,0,0,,
+Dialogue: 0,0:09:34.27,0:09:37.67,Chinese,,0,0,0,,它使球在振动盘上来回移动
 Dialogue: 0,0:09:37.67,0:09:39.94,English,,0,0,0,,and the roller sums up the integral
-Dialogue: 0,0:09:37.67,0:09:39.94,Chinese,,0,0,0,,
 Dialogue: 0,0:09:39.94,0:09:42.96,English,,0,0,0,,of the tide curve times the sine wave.
-Dialogue: 0,0:09:39.94,0:09:42.96,Chinese,,0,0,0,,
+Dialogue: 0,0:09:37.67,0:09:42.96,Chinese,,0,0,0,,滚筒将潮汐曲线与正弦波的积分相加
 Dialogue: 0,0:09:42.96,0:09:46.89,English,,0,0,0,,Simply divide by the total time to get the coefficient.
-Dialogue: 0,0:09:42.96,0:09:46.89,Chinese,,0,0,0,,
+Dialogue: 0,0:09:42.96,0:09:46.89,Chinese,,0,0,0,,只要除以总时间就可以得到系数
 Dialogue: 0,0:09:46.90,0:09:49.59,English,,0,0,0,,Several of these ball and disc integrators can be connected
-Dialogue: 0,0:09:46.90,0:09:49.59,Chinese,,0,0,0,,
+Dialogue: 0,0:09:46.90,0:09:49.59,Chinese,,0,0,0,,几个这样的球和盘的积分器可以并接起来
 Dialogue: 0,0:09:49.59,0:09:52.43,English,,0,0,0,,in parallel with each disc oscillating
-Dialogue: 0,0:09:49.59,0:09:52.43,Chinese,,0,0,0,,
 Dialogue: 0,0:09:52.43,0:09:55.55,English,,0,0,0,,at a different frequency to calculate the coefficients
-Dialogue: 0,0:09:52.43,0:09:55.55,Chinese,,0,0,0,,
+Dialogue: 0,0:09:49.59,0:09:55.55,Chinese,,0,0,0,,所有圆盘都以不同的频率振荡
 Dialogue: 0,0:09:55.55,0:09:59.70,English,,0,0,0,,for multiple frequency components at the same time,
-Dialogue: 0,0:09:55.55,0:09:59.70,Chinese,,0,0,0,,
+Dialogue: 0,0:09:55.55,0:09:59.70,Chinese,,0,0,0,,来同时计算多个频率成分的系数
 Dialogue: 0,0:10:00.44,0:10:02.26,English,,0,0,0,,Kelvin's analog computers
-Dialogue: 0,0:10:00.44,0:10:02.26,Chinese,,0,0,0,,
+Dialogue: 0,0:10:00.44,0:10:02.26,Chinese,,0,0,0,,凯文的模拟计算机
 Dialogue: 0,0:10:02.26,0:10:05.35,English,,0,0,0,,revolutionized our ability to predict tides.
-Dialogue: 0,0:10:02.26,0:10:05.35,Chinese,,0,0,0,,
+Dialogue: 0,0:10:02.26,0:10:05.35,Chinese,,0,0,0,,彻底改变了我们预测潮汐的能力
 Dialogue: 0,0:10:05.47,0:10:08.34,English,,0,0,0,,Tidal curves from anywhere in the world could be turned
-Dialogue: 0,0:10:05.47,0:10:08.34,Chinese,,0,0,0,,
 Dialogue: 0,0:10:08.34,0:10:10.57,English,,0,0,0,,into a set of sinusoidal coefficients
-Dialogue: 0,0:10:08.34,0:10:10.57,Chinese,,0,0,0,,
+Dialogue: 0,0:10:05.47,0:10:10.57,Chinese,,0,0,0,,世界上任何地方的潮汐曲线都可以透过
 Dialogue: 0,0:10:10.57,0:10:13.60,English,,0,0,0,,using the ball and disc harmonic analyzer,
-Dialogue: 0,0:10:10.57,0:10:13.60,Chinese,,0,0,0,,
+Dialogue: 0,0:10:10.57,0:10:13.60,Chinese,,0,0,0,,使用球和盘谐波分析器 将由此产生的正弦波加在一起的方式
 Dialogue: 0,0:10:13.60,0:10:16.08,English,,0,0,0,,and the resulting sinusoids could be added together
-Dialogue: 0,0:10:13.60,0:10:16.08,Chinese,,0,0,0,,
 Dialogue: 0,0:10:16.08,0:10:17.65,English,,0,0,0,,to predict future tides
-Dialogue: 0,0:10:16.08,0:10:17.65,Chinese,,0,0,0,,
+Dialogue: 0,0:10:13.60,0:10:17.65,Chinese,,0,0,0,,被转化为一组正弦曲线
 Dialogue: 0,0:10:17.65,0:10:20.33,English,,0,0,0,,using his Scotch yoke pulley machine.
-Dialogue: 0,0:10:17.65,0:10:20.33,Chinese,,0,0,0,,
+Dialogue: 0,0:10:17.65,0:10:20.33,Chinese,,0,0,0,,并使用他的苏格兰轭形滑轮机 预测未来的潮汐
 Dialogue: 0,0:10:21.59,0:10:23.99,English,,0,0,0,,Kelvin's harmonic analyzers were the basis
-Dialogue: 0,0:10:21.59,0:10:23.99,Chinese,,0,0,0,,
 Dialogue: 0,0:10:23.99,0:10:25.70,English,,0,0,0,,for a landmark analog computer
-Dialogue: 0,0:10:23.99,0:10:25.70,Chinese,,0,0,0,,
+Dialogue: 0,0:10:21.59,0:10:25.70,Chinese,,0,0,0,,凯文的谐波分析器 是具有里程碑意义的模拟计算机的基础
 Dialogue: 0,0:10:25.70,0:10:27.70,English,,0,0,0,,called the differential analyzer,
-Dialogue: 0,0:10:25.70,0:10:27.70,Chinese,,0,0,0,,
+Dialogue: 0,0:10:25.70,0:10:27.70,Chinese,,0,0,0,,它被称为「微分分析器」
 Dialogue: 0,0:10:27.70,0:10:29.58,English,,0,0,0,,and his tide predicting machines
-Dialogue: 0,0:10:27.70,0:10:29.58,Chinese,,0,0,0,,
 Dialogue: 0,0:10:29.58,0:10:32.32,English,,0,0,0,,were used well into the 1960s.
-Dialogue: 0,0:10:29.58,0:10:32.32,Chinese,,0,0,0,,
+Dialogue: 0,0:10:27.70,0:10:32.32,Chinese,,0,0,0,,而他的潮汐预测机 在19世纪被广泛使用
 Dialogue: 0,0:10:32.32,0:10:34.17,English,,0,0,0,,In fact, they were later overhauled
 Dialogue: 0,0:10:32.32,0:10:34.17,Chinese,,0,0,0,,
 Dialogue: 0,0:10:34.17,0:10:36.79,English,,0,0,0,,to include 26 frequency components
