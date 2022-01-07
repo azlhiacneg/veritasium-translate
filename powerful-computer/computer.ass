@@ -684,65 +684,58 @@ Dialogue: 0,0:16:06.02,0:16:08.00,Chinese,,0,0,0,,这种精准轰炸的途径
 Dialogue: 0,0:16:08.00,0:16:11.67,English,,0,0,0,,and instead blanketed whole Japanese cities in napalm.
 Dialogue: 0,0:16:08.00,0:16:11.67,Chinese,,0,0,0,,转而使用凝固汽油弹对日本城市进行地毯式轰炸
 Dialogue: 0,0:16:13.54,0:16:17.41,English,,0,0,0,,As the war progressed, digital computers gained traction.
-Dialogue: 0,0:16:13.54,0:16:17.41,Chinese,,0,0,0,,
+Dialogue: 0,0:16:13.54,0:16:17.41,Chinese,,0,0,0,,随着战争的推进，数字计算机获得了大家的关注
 Dialogue: 0,0:16:17.41,0:16:20.11,English,,0,0,0,,The digital and electronic Colossus machines
-Dialogue: 0,0:16:17.41,0:16:20.11,Chinese,,0,0,0,,
 Dialogue: 0,0:16:20.11,0:16:21.87,English,,0,0,0,,of Bletchley Park in the UK
-Dialogue: 0,0:16:20.11,0:16:21.87,Chinese,,0,0,0,,
+Dialogue: 0,0:16:17.41,0:16:21.87,Chinese,,0,0,0,,在英国布莱切利园中巨大的数字电子机器
 Dialogue: 0,0:16:21.87,0:16:24.21,English,,0,0,0,,were critical to breaking German codes.
-Dialogue: 0,0:16:21.87,0:16:24.21,Chinese,,0,0,0,,
+Dialogue: 0,0:16:21.87,0:16:24.21,Chinese,,0,0,0,,在破解德军密信中发挥了巨大作用
 Dialogue: 0,0:16:24.22,0:16:26.68,English,,0,0,0,,In the United States, the military invested
-Dialogue: 0,0:16:24.22,0:16:26.68,Chinese,,0,0,0,,
 Dialogue: 0,0:16:26.68,0:16:28.17,English,,0,0,0,,in an enormously complex
-Dialogue: 0,0:16:26.68,0:16:28.17,Chinese,,0,0,0,,
+Dialogue: 0,0:16:24.22,0:16:28.17,Chinese,,0,0,0,,在美国 军方投资了一个极其复杂且昂贵的数字机器
 Dialogue: 0,0:16:28.17,0:16:31.38,English,,0,0,0,,and expensive digital machine known as ENIAC.
-Dialogue: 0,0:16:28.17,0:16:31.38,Chinese,,0,0,0,,
+Dialogue: 0,0:16:28.17,0:16:31.38,Chinese,,0,0,0,,名叫ENIAC（电子数值积分计算机）
 Dialogue: 0,0:16:31.37,0:16:33.64,English,,0,0,0,,It was designed to speed up the calculation
-Dialogue: 0,0:16:31.37,0:16:33.64,Chinese,,0,0,0,,
 Dialogue: 0,0:16:33.64,0:16:36.24,English,,0,0,0,,of land artillery firing tables.
-Dialogue: 0,0:16:33.64,0:16:36.24,Chinese,,0,0,0,,
+Dialogue: 0,0:16:31.37,0:16:36.24,Chinese,,0,0,0,,它被设计用于加速陆地炮弹射表的计算
 Dialogue: 0,0:16:36.24,0:16:37.68,English,,0,0,0,,At the time, these were computed
-Dialogue: 0,0:16:36.24,0:16:37.68,Chinese,,0,0,0,,
 Dialogue: 0,0:16:37.68,0:16:39.47,English,,0,0,0,,using differential analyzers,
-Dialogue: 0,0:16:37.68,0:16:39.47,Chinese,,0,0,0,,
+Dialogue: 0,0:16:36.24,0:16:39.47,Chinese,,0,0,0,,在当时 这些计算是用积分分析器
 Dialogue: 0,0:16:39.47,0:16:41.59,English,,0,0,0,,the analog mechanical computers
-Dialogue: 0,0:16:39.47,0:16:41.59,Chinese,,0,0,0,,
+Dialogue: 0,0:16:39.47,0:16:41.59,Chinese,,0,0,0,,那个基于开尔文的和弦分析器制成的
 Dialogue: 0,0:16:41.59,0:16:44.51,English,,0,0,0,,based on Kelvin's harmonic analyzer.
-Dialogue: 0,0:16:41.59,0:16:44.51,Chinese,,0,0,0,,
+Dialogue: 0,0:16:41.59,0:16:44.51,Chinese,,0,0,0,,模拟机械式计算机完成计算的
 Dialogue: 0,0:16:44.51,0:16:46.94,English,,0,0,0,,Although not finished until after the war,
-Dialogue: 0,0:16:44.51,0:16:46.94,Chinese,,0,0,0,,
+Dialogue: 0,0:16:44.51,0:16:46.94,Chinese,,0,0,0,,虽然这个电子计算机直到战争完成后也没有完成
 Dialogue: 0,0:16:46.94,0:16:50.50,English,,0,0,0,,ENIAC demonstrated the power of digital computers.
-Dialogue: 0,0:16:46.94,0:16:50.50,Chinese,,0,0,0,,
+Dialogue: 0,0:16:46.94,0:16:50.50,Chinese,,0,0,0,,ENIAC展现了电子计算机的力量
 Dialogue: 0,0:16:50.50,0:16:53.99,English,,0,0,0,,It's considered by many to be the first modern computer.
-Dialogue: 0,0:16:50.50,0:16:53.99,Chinese,,0,0,0,,
+Dialogue: 0,0:16:50.50,0:16:53.99,Chinese,,0,0,0,,它被大多数人认为是第一台现代定义的电脑
 Dialogue: 0,0:16:55.11,0:16:57.61,English,,0,0,0,,What really opened the door to this digital revolution
-Dialogue: 0,0:16:55.11,0:16:57.61,Chinese,,0,0,0,,
 Dialogue: 0,0:16:57.61,0:16:59.54,English,,0,0,0,,was the discovery made by Claude Shannon
-Dialogue: 0,0:16:57.61,0:16:59.54,Chinese,,0,0,0,,
+Dialogue: 0,0:16:55.11,0:16:59.54,Chinese,,0,0,0,,真正打开电子革命大门的 是克劳德·香农
 Dialogue: 0,0:16:59.54,0:17:02.13,English,,0,0,0,,in his 1936 Master's thesis.
-Dialogue: 0,0:16:59.54,0:17:02.13,Chinese,,0,0,0,,
+Dialogue: 0,0:16:59.54,0:17:02.13,Chinese,,0,0,0,,在1936年其在研究生时的发现
 Dialogue: 0,0:17:02.13,0:17:05.37,English,,0,0,0,,He showed that any numerical operation can be carried out
-Dialogue: 0,0:17:02.13,0:17:05.37,Chinese,,0,0,0,,
+Dialogue: 0,0:17:02.13,0:17:05.37,Chinese,,0,0,0,,他发现任何的数字运算可以透过
 Dialogue: 0,0:17:05.37,0:17:08.55,English,,0,0,0,,using the basic building blocks of Boolean algebra.
-Dialogue: 0,0:17:05.37,0:17:08.55,Chinese,,0,0,0,,
+Dialogue: 0,0:17:05.37,0:17:08.55,Chinese,,0,0,0,,基础的构建布尔运算区块来执行
 Dialogue: 0,0:17:08.55,0:17:12.73,English,,0,0,0,,Two values, true or false, also notated as one or zero,
-Dialogue: 0,0:17:08.55,0:17:12.73,Chinese,,0,0,0,,
+Dialogue: 0,0:17:08.55,0:17:12.73,Chinese,,0,0,0,,真或假这两个数值 也可以记为0或1
 Dialogue: 0,0:17:12.73,0:17:16.77,English,,0,0,0,,and three operations, and, or, and not.
-Dialogue: 0,0:17:12.73,0:17:16.77,Chinese,,0,0,0,,
+Dialogue: 0,0:17:12.73,0:17:16.77,Chinese,,0,0,0,,以及与、并及否 三种运算
 Dialogue: 0,0:17:16.77,0:17:18.38,English,,0,0,0,,This makes digital computers
-Dialogue: 0,0:17:16.77,0:17:18.38,Chinese,,0,0,0,,
 Dialogue: 0,0:17:18.38,0:17:21.38,English,,0,0,0,,the ideal versatile computing machines.
-Dialogue: 0,0:17:18.38,0:17:21.38,Chinese,,0,0,0,,
+Dialogue: 0,0:17:16.77,0:17:21.38,Chinese,,0,0,0,,这让数字计算机成为了理想的万能计算机器
 Dialogue: 0,0:17:21.38,0:17:23.50,English,,0,0,0,,In contrast, each analog computer
-Dialogue: 0,0:17:21.38,0:17:23.50,Chinese,,0,0,0,,
+Dialogue: 0,0:17:21.38,0:17:23.50,Chinese,,0,0,0,,与之对比的是 每一个模拟计算机
 Dialogue: 0,0:17:23.50,0:17:27.07,English,,0,0,0,,is an analog for only one type of problem.
-Dialogue: 0,0:17:23.50,0:17:27.07,Chinese,,0,0,0,,
+Dialogue: 0,0:17:23.50,0:17:27.07,Chinese,,0,0,0,,只能是对一种问题的模拟计算
 Dialogue: 0,0:17:27.07,0:17:28.70,English,,0,0,0,,Furthermore, since digital computers
-Dialogue: 0,0:17:27.07,0:17:28.70,Chinese,,0,0,0,,
 Dialogue: 0,0:17:28.70,0:17:30.43,English,,0,0,0,,operate on ones and zeros,
-Dialogue: 0,0:17:28.70,0:17:30.43,Chinese,,0,0,0,,
+Dialogue: 0,0:17:27.07,0:17:30.43,Chinese,,0,0,0,,更重要的是 因为数字计算机能以0和1进行运算
 Dialogue: 0,0:17:30.43,0:17:33.15,English,,0,0,0,,they're more resilient in the face of noise.
-Dialogue: 0,0:17:30.43,0:17:33.15,Chinese,,0,0,0,,
+Dialogue: 0,0:17:30.43,0:17:33.15,Chinese,,0,0,0,,它们在面对噪音（计算）的时候能具有更好的适应性
 Dialogue: 0,0:17:33.15,0:17:36.33,English,,0,0,0,,It would take a large error to mistake a one for a zero
 Dialogue: 0,0:17:33.15,0:17:36.33,Chinese,,0,0,0,,
 Dialogue: 0,0:17:36.33,0:17:40.42,English,,0,0,0,,or vice versa, whereas even small errors in analog computers
