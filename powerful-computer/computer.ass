@@ -170,89 +170,87 @@ Dialogue: 0,0:03:53.95,0:03:56.95,Chinese,,0,0,0,,这些因素各自形成一个
 Dialogue: 0,0:03:56.95,0:04:01.79,English,,0,0,0,,of a particular amplitude and phase to the total tide curve.
 Dialogue: 0,0:03:56.95,0:04:01.79,Chinese,,0,0,0,,以特定振幅和相位差贡献到潮汐的波形里
 Dialogue: 0,0:04:01.79,0:04:02.86,English,,0,0,0,,If someone could figure out
-Dialogue: 0,0:04:01.79,0:04:02.86,Chinese,,0,0,0,,如果有人能够想出来
 Dialogue: 0,0:04:02.86,0:04:05.76,English,,0,0,0,,how to correctly combine these frequency components,
-Dialogue: 0,0:04:02.86,0:04:05.76,Chinese,,0,0,0,,怎么能正确地组合这几个频率
+Dialogue: 0,0:04:01.79,0:04:05.76,Chinese,,0,0,0,,只要有人能把这几个频率正确地组合起来
 Dialogue: 0,0:04:05.76,0:04:08.38,English,,0,0,0,,well, the tides could finally be predicted.
-Dialogue: 0,0:04:05.76,0:04:08.38,Chinese,,0,0,0,,那么潮汐就能够被预测出来
+Dialogue: 0,0:04:05.76,0:04:08.38,Chinese,,0,0,0,,预测潮汐就再也不是难题了
 Dialogue: 0,0:04:09.60,0:04:13.21,English,,0,0,0,,It took nearly a century, but in the 1860s,
-Dialogue: 0,0:04:09.60,0:04:13.21,Chinese,,0,0,0,,
+Dialogue: 0,0:04:09.60,0:04:13.21,Chinese,,0,0,0,,在将近一个世纪以后的 19 世纪 60 年代
 Dialogue: 0,0:04:13.21,0:04:17.38,English,,0,0,0,,William Thomson, later Lord Kelvin, took up the challenge.
-Dialogue: 0,0:04:13.21,0:04:17.38,Chinese,,0,0,0,,
+Dialogue: 0,0:04:13.21,0:04:17.38,Chinese,,0,0,0,,威廉·汤姆森（未来的开尔文勋爵）接受了这项挑战
 Dialogue: 0,0:04:17.38,0:04:19.12,English,,0,0,0,,Having completed several voyages
-Dialogue: 0,0:04:17.38,0:04:19.12,Chinese,,0,0,0,,
+Dialogue: 0,0:04:17.38,0:04:19.12,Chinese,,0,0,0,,他经过了数次航行
 Dialogue: 0,0:04:19.12,0:04:21.91,English,,0,0,0,,to lay the first transatlantic Telegraph cable,
-Dialogue: 0,0:04:19.12,0:04:21.91,Chinese,,0,0,0,,
+Dialogue: 0,0:04:19.12,0:04:21.91,Chinese,,0,0,0,,铺设了第一条跨大西洋电报电缆后
 Dialogue: 0,0:04:21.91,0:04:24.48,English,,0,0,0,,he developed a fascination with the sea
-Dialogue: 0,0:04:21.91,0:04:24.48,Chinese,,0,0,0,,
+Dialogue: 0,0:04:21.91,0:04:24.48,Chinese,,0,0,0,,他逐渐着迷于大海
 Dialogue: 0,0:04:24.48,0:04:27.48,English,,0,0,0,,and subsequently he threw his full scientific effort
-Dialogue: 0,0:04:24.48,0:04:27.48,Chinese,,0,0,0,,
+Dialogue: 0,0:04:24.48,0:04:27.48,Chinese,,0,0,0,,并把自己的全部科研精力投入到
 Dialogue: 0,0:04:27.48,0:04:30.48,English,,0,0,0,,into measuring and predicting the tides.
-Dialogue: 0,0:04:27.48,0:04:30.48,Chinese,,0,0,0,,
+Dialogue: 0,0:04:27.48,0:04:30.48,Chinese,,0,0,0,,对潮汐的研究、测量和预测中
 Dialogue: 0,0:04:30.48,0:04:33.01,English,,0,0,0,,Tide gauges at the time used a buoy
-Dialogue: 0,0:04:30.48,0:04:33.01,Chinese,,0,0,0,,
+Dialogue: 0,0:04:30.48,0:04:33.01,Chinese,,0,0,0,,当时的验潮仪用浮标
 Dialogue: 0,0:04:33.01,0:04:36.44,English,,0,0,0,,to record the height of the sea onto a paper roll.
-Dialogue: 0,0:04:33.01,0:04:36.44,Chinese,,0,0,0,,
+Dialogue: 0,0:04:33.01,0:04:36.44,Chinese,,0,0,0,,把海平面的高度记录到纸卷上
 Dialogue: 0,0:04:36.44,0:04:38.98,English,,0,0,0,,Kelvin set out to determine how sine waves
-Dialogue: 0,0:04:36.44,0:04:38.98,Chinese,,0,0,0,,
+Dialogue: 0,0:04:36.44,0:04:38.98,Chinese,,0,0,0,,开尔文着手研究如何把
 Dialogue: 0,0:04:38.98,0:04:41.38,English,,0,0,0,,with the frequencies identified by Laplace
-Dialogue: 0,0:04:38.98,0:04:41.38,Chinese,,0,0,0,,
+Dialogue: 0,0:04:38.98,0:04:41.38,Chinese,,0,0,0,,拉普拉斯给出的那些频率的正弦波
 Dialogue: 0,0:04:41.38,0:04:45.33,English,,0,0,0,,could add together to produce the observed tidal curve.
-Dialogue: 0,0:04:41.38,0:04:45.33,Chinese,,0,0,0,,
+Dialogue: 0,0:04:41.38,0:04:45.33,Chinese,,0,0,0,,叠加成观测到的潮汐曲线
 Dialogue: 0,0:04:45.33,0:04:48.52,English,,0,0,0,,The key was to apply the work of French mathematician
-Dialogue: 0,0:04:45.33,0:04:48.52,Chinese,,0,0,0,,
+Dialogue: 0,0:04:45.33,0:04:48.52,Chinese,,0,0,0,,其关键是应用了  法国数学家约瑟夫·傅里叶的贡献
 Dialogue: 0,0:04:48.52,0:04:51.88,English,,0,0,0,,Joseph Fourier who had shown how to decompose any function
-Dialogue: 0,0:04:48.52,0:04:51.88,Chinese,,0,0,0,,
 Dialogue: 0,0:04:51.88,0:04:54.10,English,,0,0,0,,into a sum of sine waves.
-Dialogue: 0,0:04:51.88,0:04:54.10,Chinese,,0,0,0,,
+Dialogue: 0,0:04:48.52,0:04:54.10,Chinese,,0,0,0,,他的方法可将任何函数  分解成若干正弦函数之和
 Dialogue: 0,0:04:54.30,0:04:56.99,English,,0,0,0,,Most English scientists were skeptical of the work,
-Dialogue: 0,0:04:54.30,0:04:56.99,Chinese,,0,0,0,,
+Dialogue: 0,0:04:54.30,0:04:56.99,Chinese,,0,0,0,,大多数英国科学家对这项工作持怀疑态度
 Dialogue: 0,0:04:56.99,0:04:59.53,English,,0,0,0,,but Thomson was enthralled by it.
-Dialogue: 0,0:04:56.99,0:04:59.53,Chinese,,0,0,0,,
+Dialogue: 0,0:04:56.99,0:04:59.53,Chinese,,0,0,0,,但汤姆森却被它迷住了
 Dialogue: 0,0:04:59.53,0:05:04.19,English,,0,0,0,,His first paper published at 17 was a defense of Fourier.
-Dialogue: 0,0:04:59.53,0:05:04.19,Chinese,,0,0,0,,
+Dialogue: 0,0:04:59.53,0:05:04.19,Chinese,,0,0,0,,以至于他17岁发表的第一篇论文  就是为傅立叶辩护
 Dialogue: 0,0:05:04.59,0:05:07.44,English,,0,0,0,,While it was straightforward to apply Fourier's analysis
-Dialogue: 0,0:05:04.59,0:05:07.44,Chinese,,0,0,0,,
+Dialogue: 0,0:05:04.59,0:05:07.44,Chinese,,0,0,0,,虽然对潮汐曲线做傅里叶分析很简单
 Dialogue: 0,0:05:07.44,0:05:12.09,English,,0,0,0,,to tidal curves, the computation required was enormous.
-Dialogue: 0,0:05:07.44,0:05:12.09,Chinese,,0,0,0,,
+Dialogue: 0,0:05:07.44,0:05:12.09,Chinese,,0,0,0,,但需要巨大的计算量
 Dialogue: 0,0:05:12.09,0:05:16.02,English,,0,0,0,,First, divide the tide curve up into short time intervals
-Dialogue: 0,0:05:12.09,0:05:16.02,Chinese,,0,0,0,,
+Dialogue: 0,0:05:12.09,0:05:16.02,Chinese,,0,0,0,,首先，将潮汐曲线分成短时间间隔
 Dialogue: 0,0:05:16.23,0:05:18.80,English,,0,0,0,,and for each interval multiply the tide level
-Dialogue: 0,0:05:16.23,0:05:18.80,Chinese,,0,0,0,,
+Dialogue: 0,0:05:16.23,0:05:18.80,Chinese,,0,0,0,,对于每个时间间隔 用潮位乘以
 Dialogue: 0,0:05:18.80,0:05:21.89,English,,0,0,0,,by a sine wave with the frequency of interest.
-Dialogue: 0,0:05:18.80,0:05:21.89,Chinese,,0,0,0,,
+Dialogue: 0,0:05:18.80,0:05:21.89,Chinese,,0,0,0,,所需频率的正弦波
 Dialogue: 0,0:05:22.29,0:05:24.56,English,,0,0,0,,Add up the area of all these rectangles
-Dialogue: 0,0:05:22.29,0:05:24.56,Chinese,,0,0,0,,
+Dialogue: 0,0:05:22.29,0:05:24.56,Chinese,,0,0,0,,把所有这些矩形的面积加起来
 Dialogue: 0,0:05:24.56,0:05:26.38,English,,0,0,0,,and divide by the total time
-Dialogue: 0,0:05:24.56,0:05:26.38,Chinese,,0,0,0,,
+Dialogue: 0,0:05:24.56,0:05:26.38,Chinese,,0,0,0,,除以总时间
 Dialogue: 0,0:05:26.54,0:05:29.00,English,,0,0,0,,and this gives you a single coefficient,
-Dialogue: 0,0:05:26.54,0:05:29.00,Chinese,,0,0,0,,
+Dialogue: 0,0:05:26.54,0:05:29.00,Chinese,,0,0,0,,就得到了一个单一的系数
 Dialogue: 0,0:05:29.00,0:05:32.65,English,,0,0,0,,the amplitude of the sine wave with this frequency.
-Dialogue: 0,0:05:29.00,0:05:32.65,Chinese,,0,0,0,,
+Dialogue: 0,0:05:29.00,0:05:32.65,Chinese,,0,0,0,,即这个频率的正弦波的振幅
 Dialogue: 0,0:05:32.65,0:05:34.24,English,,0,0,0,,Then you have to repeat the process
-Dialogue: 0,0:05:32.65,0:05:34.24,Chinese,,0,0,0,,
+Dialogue: 0,0:05:32.65,0:05:34.24,Chinese,,0,0,0,,然后你还必须在一个具有相同频率的余弦函数上
 Dialogue: 0,0:05:34.24,0:05:37.14,English,,0,0,0,,for a cosine function with the same frequency.
-Dialogue: 0,0:05:34.24,0:05:37.14,Chinese,,0,0,0,,
+Dialogue: 0,0:05:34.24,0:05:37.14,Chinese,,0,0,0,,重复这个过程
 Dialogue: 0,0:05:38.18,0:05:40.46,English,,0,0,0,,Kelvin found that to make accurate predictions,
-Dialogue: 0,0:05:38.18,0:05:40.46,Chinese,,0,0,0,,
+Dialogue: 0,0:05:38.18,0:05:40.46,Chinese,,0,0,0,,开尔文发现 要做出准确的预测
 Dialogue: 0,0:05:40.46,0:05:44.05,English,,0,0,0,,he actually needed 10 different frequency components
-Dialogue: 0,0:05:40.46,0:05:44.05,Chinese,,0,0,0,,
+Dialogue: 0,0:05:40.46,0:05:44.05,Chinese,,0,0,0,,他实际上需要10个不同的频率分量
 Dialogue: 0,0:05:44.05,0:05:47.03,English,,0,0,0,,so that is a lot of multiplication and addition
-Dialogue: 0,0:05:44.05,0:05:47.03,Chinese,,0,0,0,,
+Dialogue: 0,0:05:44.05,0:05:47.03,Chinese,,0,0,0,,所以仅仅在一个位置
 Dialogue: 0,0:05:47.03,0:05:50.54,English,,0,0,0,,to characterize the tides at just one location.
-Dialogue: 0,0:05:47.03,0:05:50.54,Chinese,,0,0,0,,
+Dialogue: 0,0:05:47.03,0:05:50.54,Chinese,,0,0,0,,就需要大量的乘法和加法运算来描述潮汐
 Dialogue: 0,0:05:50.54,0:05:52.36,English,,0,0,0,,For each additional location,
-Dialogue: 0,0:05:50.54,0:05:52.36,Chinese,,0,0,0,,
+Dialogue: 0,0:05:50.54,0:05:52.36,Chinese,,0,0,0,,每换一个位置
 Dialogue: 0,0:05:52.36,0:05:56.22,English,,0,0,0,,you have to perform this analysis all over again.
-Dialogue: 0,0:05:52.36,0:05:56.22,Chinese,,0,0,0,,
+Dialogue: 0,0:05:52.36,0:05:56.22,Chinese,,0,0,0,,你都必须全部重新执行此分析
 Dialogue: 0,0:05:56.22,0:05:58.84,English,,0,0,0,,And this is only half the problem.
-Dialogue: 0,0:05:56.22,0:05:58.84,Chinese,,0,0,0,,
+Dialogue: 0,0:05:56.22,0:05:58.84,Chinese,,0,0,0,,并且这还只解决了一半的问题
 Dialogue: 0,0:05:58.84,0:06:00.92,English,,0,0,0,,Once you have the amplitudes and phases
-Dialogue: 0,0:05:58.84,0:06:00.92,Chinese,,0,0,0,,
+Dialogue: 0,0:05:58.84,0:06:00.92,Chinese,,0,0,0,,有了这个正弦函数的频率和相位之后
 Dialogue: 0,0:06:00.92,0:06:03.30,English,,0,0,0,,of the sine functions, you have to add them up
-Dialogue: 0,0:06:00.92,0:06:03.30,Chinese,,0,0,0,,
+Dialogue: 0,0:06:00.92,0:06:03.30,Chinese,,0,0,0,,你还必须把他们叠加在一起
 Dialogue: 0,0:06:03.30,0:06:05.77,English,,0,0,0,,to predict future tides.
-Dialogue: 0,0:06:03.30,0:06:05.77,Chinese,,0,0,0,,
+Dialogue: 0,0:06:03.30,0:06:05.77,Chinese,,0,0,0,,才能预测未来的潮汐
 Dialogue: 0,0:06:05.77,0:06:08.25,English,,0,0,0,,Lord Kelvin spent years analyzing
 Dialogue: 0,0:06:08.25,0:06:10.51,English,,0,0,0,,and predicting tides by hand.
 Dialogue: 0,0:06:05.77,0:06:10.51,Chinese,,0,0,0,,开尔文勋爵投入了数年时间分析和手动预测浪潮
