@@ -746,54 +746,50 @@ Dialogue: 0,0:17:28.70,0:17:30.43,Chinese,,0,0,0,,
 Dialogue: 0,0:17:30.43,0:17:33.15,English,,0,0,0,,they're more resilient in the face of noise.
 Dialogue: 0,0:17:30.43,0:17:33.15,Chinese,,0,0,0,,
 Dialogue: 0,0:17:33.15,0:17:36.33,English,,0,0,0,,It would take a large error to mistake a one for a zero
-Dialogue: 0,0:17:33.15,0:17:36.33,Chinese,,0,0,0,,
+Dialogue: 0,0:17:33.15,0:17:36.33,Chinese,,0,0,0,,一般的误差不会使电子计算机混淆0和1，或反之
 Dialogue: 0,0:17:36.33,0:17:40.42,English,,0,0,0,,or vice versa, whereas even small errors in analog computers
-Dialogue: 0,0:17:36.33,0:17:40.42,Chinese,,0,0,0,,
 Dialogue: 0,0:17:40.42,0:17:44.00,English,,0,0,0,,can grow and ultimately swamp the signal.
-Dialogue: 0,0:17:40.42,0:17:44.00,Chinese,,0,0,0,,
+Dialogue: 0,0:17:36.33,0:17:44.00,Chinese,,0,0,0,,但在模拟计算机中，小误差却会累积并最终淹没信号
 Dialogue: 0,0:17:44.00,0:17:46.79,English,,0,0,0,,So these days, everything is digital.
-Dialogue: 0,0:17:44.00,0:17:46.79,Chinese,,0,0,0,,
+Dialogue: 0,0:17:44.00,0:17:46.79,Chinese,,0,0,0,,所以时至今日，一切都是数字的
 Dialogue: 0,0:17:46.79,0:17:50.01,English,,0,0,0,,Our phones, computers, and internet data centers,
-Dialogue: 0,0:17:46.79,0:17:50.01,Chinese,,0,0,0,,
+Dialogue: 0,0:17:46.79,0:17:50.01,Chinese,,0,0,0,,我们的手机、计算机、互联网数据中心
 Dialogue: 0,0:17:50.01,0:17:53.62,English,,0,0,0,,even TV and radio is now being broadcast as digital.
-Dialogue: 0,0:17:50.01,0:17:53.62,Chinese,,0,0,0,,
+Dialogue: 0,0:17:50.01,0:17:53.62,Chinese,,0,0,0,,甚至电视和收音机，都是以数字方式广播信号的
 Dialogue: 0,0:17:53.62,0:17:55.63,English,,0,0,0,,And the advantages are obvious.
-Dialogue: 0,0:17:53.62,0:17:55.63,Chinese,,0,0,0,,
+Dialogue: 0,0:17:53.62,0:17:55.63,Chinese,,0,0,0,,这样做的优势显而易见
 Dialogue: 0,0:17:55.63,0:17:58.04,English,,0,0,0,,Since digital devices operate on symbols,
-Dialogue: 0,0:17:55.63,0:17:58.04,Chinese,,0,0,0,,
+Dialogue: 0,0:17:55.63,0:17:58.04,Chinese,,0,0,0,,由于数字设备对符号进行操作
 Dialogue: 0,0:17:58.04,0:18:01.82,English,,0,0,0,,usually zeros and ones, they provide exact answers
-Dialogue: 0,0:17:58.04,0:18:01.82,Chinese,,0,0,0,,
+Dialogue: 0,0:17:58.04,0:18:01.82,Chinese,,0,0,0,,通常是0和1，这为计算提供了确切的答案
 Dialogue: 0,0:18:01.82,0:18:05.38,English,,0,0,0,,and repeat the calculation and you get the same result.
-Dialogue: 0,0:18:01.82,0:18:05.38,Chinese,,0,0,0,,
+Dialogue: 0,0:18:01.82,0:18:05.38,Chinese,,0,0,0,,重复进行计算也会得到相同的结果
 Dialogue: 0,0:18:05.38,0:18:07.78,English,,0,0,0,,They are robust to noise.
-Dialogue: 0,0:18:05.38,0:18:07.78,Chinese,,0,0,0,,
+Dialogue: 0,0:18:05.38,0:18:07.78,Chinese,,0,0,0,,也就是说可以抵抗噪声
 Dialogue: 0,0:18:07.78,0:18:09.76,English,,0,0,0,,Plus since only a few components
-Dialogue: 0,0:18:07.78,0:18:09.76,Chinese,,0,0,0,,
 Dialogue: 0,0:18:09.76,0:18:12.47,English,,0,0,0,,are required to perform virtually any computation,
-Dialogue: 0,0:18:09.76,0:18:12.47,Chinese,,0,0,0,,
+Dialogue: 0,0:18:07.78,0:18:12.47,Chinese,,0,0,0,,此外，由于几乎执行任何计算都只需要很少的元件
 Dialogue: 0,0:18:12.47,0:18:15.92,English,,0,0,0,,those components have been miniaturized and optimized,
-Dialogue: 0,0:18:12.47,0:18:15.92,Chinese,,0,0,0,,
+Dialogue: 0,0:18:12.47,0:18:15.92,Chinese,,0,0,0,,且这些元件已经小型化并被优化过
 Dialogue: 0,0:18:15.92,0:18:17.19,English,,0,0,0,,making digital computers
-Dialogue: 0,0:18:15.92,0:18:17.19,Chinese,,0,0,0,,
 Dialogue: 0,0:18:17.19,0:18:20.59,English,,0,0,0,,the ideal universal computing machines.
-Dialogue: 0,0:18:17.19,0:18:20.59,Chinese,,0,0,0,,
+Dialogue: 0,0:18:15.92,0:18:20.59,Chinese,,0,0,0,,使得数字计算机成为理想的通用计算机
 Dialogue: 0,0:18:20.59,0:18:24.10,English,,0,0,0,,So you would think analog computers would be long gone,
-Dialogue: 0,0:18:20.59,0:18:24.10,Chinese,,0,0,0,,
+Dialogue: 0,0:18:20.59,0:18:24.10,Chinese,,0,0,0,,所以，你可能会认为模拟计算机早已退出历史舞台
 Dialogue: 0,0:18:24.10,0:18:26.14,English,,0,0,0,,a relic of the distant past,
-Dialogue: 0,0:18:24.10,0:18:26.14,Chinese,,0,0,0,,
+Dialogue: 0,0:18:24.10,0:18:26.14,Chinese,,0,0,0,,成为遥远过去的遗迹
 Dialogue: 0,0:18:26.14,0:18:29.72,English,,0,0,0,,but analog may now be making a comeback.
-Dialogue: 0,0:18:26.14,0:18:29.72,Chinese,,0,0,0,,
+Dialogue: 0,0:18:26.14,0:18:29.72,Chinese,,0,0,0,,但实际上，模拟计算机可能正卷土重来
 Dialogue: 0,0:18:29.72,0:18:33.86,English,,0,0,0,,There are startups actively working on analog computers.
-Dialogue: 0,0:18:29.72,0:18:33.86,Chinese,,0,0,0,,
+Dialogue: 0,0:18:29.72,0:18:33.86,Chinese,,0,0,0,,一些初创公司正积极研究模拟计算机
 Dialogue: 0,0:18:33.86,0:18:38.36,English,,0,0,0,,Why is this happening? What could be the benefit of analog?
-Dialogue: 0,0:18:33.86,0:18:38.36,Chinese,,0,0,0,,
+Dialogue: 0,0:18:33.86,0:18:38.36,Chinese,,0,0,0,,这是为什么？模拟的优势在哪？
 Dialogue: 0,0:18:38.36,0:18:41.53,English,,0,0,0,,I wanted to put all of this into one video,
-Dialogue: 0,0:18:38.36,0:18:41.53,Chinese,,0,0,0,,
+Dialogue: 0,0:18:38.36,0:18:41.53,Chinese,,0,0,0,,我想把全部这些内容放进一个视频
 Dialogue: 0,0:18:41.53,0:18:44.66,English,,0,0,0,,but the story is too good to bury 20 minutes in
-Dialogue: 0,0:18:41.53,0:18:44.66,Chinese,,0,0,0,,
+Dialogue: 0,0:18:41.53,0:18:44.66,Chinese,,0,0,0,,但这个故事太棒了，不该在 20 分钟里草草讲完
 Dialogue: 0,0:18:44.66,0:18:47.64,English,,0,0,0,,so that is coming up in part two.
-Dialogue: 0,0:18:44.66,0:18:47.64,Chinese,,0,0,0,,
+Dialogue: 0,0:18:44.66,0:18:47.64,Chinese,,0,0,0,,因此将在第二部分中继续
 Dialogue: 0,0:18:47.64,0:18:48.97,English,,0,0,0,,Be sure you're subscribed to the channel
-Dialogue: 0,0:18:47.64,0:18:48.97,Chinese,,0,0,0,,
 Dialogue: 0,0:18:48.97,0:18:51.58,English,,0,0,0,,to be notified when that comes out.
-Dialogue: 0,0:18:48.97,0:18:51.58,Chinese,,0,0,0,,
+Dialogue: 0,0:18:47.64,0:18:51.58,Chinese,,0,0,0,,请关注我们的频道，不要错过第二部分的精彩
