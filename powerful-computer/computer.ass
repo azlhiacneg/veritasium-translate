@@ -743,7 +743,7 @@ Dialogue: 0,0:17:27.07,0:17:28.70,Chinese,,0,0,0,,
 Dialogue: 0,0:17:28.70,0:17:30.43,English,,0,0,0,,operate on ones and zeros,
 Dialogue: 0,0:17:28.70,0:17:30.43,Chinese,,0,0,0,,
 Dialogue: 0,0:17:30.43,0:17:33.15,English,,0,0,0,,they're more resilient in the face of noise.
-Dialogue: 0,0:17:30.43,0:17:33.15,Chinese,,0,0,0,,
+Dialogue: 0,0:17:30.43,0:17:33.15,Chinese,,0,0,0,,它们对噪声的抵抗能力更强
 Dialogue: 0,0:17:33.15,0:17:36.90,English,,0,0,0,,It would take a large error to mistake a one for a zero or vice versa,
 Dialogue: 0,0:17:33.15,0:17:36.90,Chinese,,0,0,0,,一般的误差不会使电子计算机混淆0和1
 Dialogue: 0,0:17:36.90,0:17:40.42,English,,0,0,0,,whereas even small errors in analog computers
