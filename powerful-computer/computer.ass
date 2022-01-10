@@ -666,9 +666,8 @@ Dialogue: 0,0:15:40.50,0:15:42.94,Chinese,,0,0,0,,所以源自任何部件的不
 Dialogue: 0,0:15:42.94,0:15:46.56,English,,0,0,0,,translates into inaccuracy of the computation.
 Dialogue: 0,0:15:42.94,0:15:46.56,Chinese,,0,0,0,,都会转换成计算的误差
 Dialogue: 0,0:15:46.56,0:15:48.59,English,,0,0,0,,And since there will always be some slop
-Dialogue: 0,0:15:46.56,0:15:48.59,Chinese,,0,0,0,,同时  由于部件的连接存在偏差
 Dialogue: 0,0:15:48.59,0:15:50.52,English,,0,0,0,,in the connections between parts,
-Dialogue: 0,0:15:48.59,0:15:50.52,Chinese,,0,0,0,,同时  由于部件的连接存在偏差
+Dialogue: 0,0:15:46.56,0:15:50.52,Chinese,,0,0,0,,同时  由于部件的连接存在偏差
 Dialogue: 0,0:15:50.52,0:15:52.79,English,,0,0,0,,if you run the same calculation twice,
 Dialogue: 0,0:15:50.52,0:15:52.79,Chinese,,0,0,0,,如果运行相同的计算两次
 Dialogue: 0,0:15:52.79,0:15:55.82,English,,0,0,0,,you won't get the exact same answer.
@@ -745,11 +744,11 @@ Dialogue: 0,0:17:28.70,0:17:30.43,English,,0,0,0,,operate on ones and zeros,
 Dialogue: 0,0:17:28.70,0:17:30.43,Chinese,,0,0,0,,
 Dialogue: 0,0:17:30.43,0:17:33.15,English,,0,0,0,,they're more resilient in the face of noise.
 Dialogue: 0,0:17:30.43,0:17:33.15,Chinese,,0,0,0,,
-Dialogue: 0,0:17:33.15,0:17:36.33,English,,0,0,0,,It would take a large error to mistake a one for a zero
-Dialogue: 0,0:17:33.15,0:17:36.33,Chinese,,0,0,0,,一般的误差不会使电子计算机混淆0和1，或反之
-Dialogue: 0,0:17:36.33,0:17:40.42,English,,0,0,0,,or vice versa, whereas even small errors in analog computers
+Dialogue: 0,0:17:33.15,0:17:36.90,English,,0,0,0,,It would take a large error to mistake a one for a zero or vice versa,
+Dialogue: 0,0:17:33.15,0:17:36.90,Chinese,,0,0,0,,一般的误差不会使电子计算机混淆0和1
+Dialogue: 0,0:17:36.90,0:17:40.42,English,,0,0,0,,whereas even small errors in analog computers
 Dialogue: 0,0:17:40.42,0:17:44.00,English,,0,0,0,,can grow and ultimately swamp the signal.
-Dialogue: 0,0:17:36.33,0:17:44.00,Chinese,,0,0,0,,但在模拟计算机中，小误差却会累积并最终淹没信号
+Dialogue: 0,0:17:36.90,0:17:44.00,Chinese,,0,0,0,,但在模拟计算机中，小误差却会累积并最终淹没信号
 Dialogue: 0,0:17:44.00,0:17:46.79,English,,0,0,0,,So these days, everything is digital.
 Dialogue: 0,0:17:44.00,0:17:46.79,Chinese,,0,0,0,,所以时至今日，一切都是数字的
 Dialogue: 0,0:17:46.79,0:17:50.01,English,,0,0,0,,Our phones, computers, and internet data centers,
@@ -771,8 +770,7 @@ Dialogue: 0,0:18:09.76,0:18:12.47,English,,0,0,0,,are required to perform virtua
 Dialogue: 0,0:18:07.78,0:18:12.47,Chinese,,0,0,0,,此外，由于几乎执行任何计算都只需要很少的元件
 Dialogue: 0,0:18:12.47,0:18:15.92,English,,0,0,0,,those components have been miniaturized and optimized,
 Dialogue: 0,0:18:12.47,0:18:15.92,Chinese,,0,0,0,,且这些元件已经小型化并被优化过
-Dialogue: 0,0:18:15.92,0:18:17.19,English,,0,0,0,,making digital computers
-Dialogue: 0,0:18:17.19,0:18:20.59,English,,0,0,0,,the ideal universal computing machines.
+Dialogue: 0,0:18:15.92,0:18:20.59,English,,0,0,0,,making digital computers the ideal universal computing machines.
 Dialogue: 0,0:18:15.92,0:18:20.59,Chinese,,0,0,0,,使得数字计算机成为理想的通用计算机
 Dialogue: 0,0:18:20.59,0:18:24.10,English,,0,0,0,,So you would think analog computers would be long gone,
 Dialogue: 0,0:18:20.59,0:18:24.10,Chinese,,0,0,0,,所以，你可能会认为模拟计算机早已退出历史舞台
