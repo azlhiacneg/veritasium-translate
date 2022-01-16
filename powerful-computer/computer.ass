@@ -90,7 +90,7 @@ Dialogue: 0,0:01:48.28,0:01:51.15,Chinese,,0,0,0,,数字计算机并不会呈现
 Dialogue: 0,0:01:51.15,0:01:53.89,English,,0,0,0,,In analog computers, there is.
 Dialogue: 0,0:01:51.15,0:01:53.89,Chinese,,0,0,0,,而模拟计算机则可以
 Dialogue: 0,0:01:53.89,0:01:57.21,English,,0,0,0,,For thousands of years, people used analog devices
-Dialogue: 0,0:01:53.89,0:01:57.21,Chinese,,0,0,0,,数千年来，人门使用类似
+Dialogue: 0,0:01:53.89,0:01:57.21,Chinese,,0,0,0,,数千年来，人们使用类似
 Dialogue: 0,0:01:57.21,0:02:00.35,English,,0,0,0,,like the Antikythera mechanism or slide rules
 Dialogue: 0,0:01:57.21,0:02:00.35,Chinese,,0,0,0,,安提基特拉机械或是计算尺这些模拟计算设备
 Dialogue: 0,0:02:00.35,0:02:03.14,English,,0,0,0,,alongside digital devices like abacuses.
@@ -140,9 +140,9 @@ Dialogue: 0,0:03:04.52,0:03:07.67,Chinese,,0,0,0,,以避免船只靠岸时搁浅
 Dialogue: 0,0:03:07.87,0:03:09.85,English,,0,0,0,,Most coastal locations on Earth
 Dialogue: 0,0:03:07.87,0:03:09.85,Chinese,,0,0,0,,地球上许多海岸
 Dialogue: 0,0:03:09.85,0:03:13.63,English,,0,0,0,,experience two high and two low tides per day,
-Dialogue: 0,0:03:09.85,0:03:13.63,Chinese,,0,0,0,,一天涨潮两次退潮两次
+Dialogue: 0,0:03:09.85,0:03:13.63,Chinese,,0,0,0,,一天满潮两次干潮两次
 Dialogue: 0,0:03:13.63,0:03:17.60,English,,0,0,0,,but their exact timing varies as does their magnitude,
-Dialogue: 0,0:03:13.63,0:03:17.60,Chinese,,0,0,0,,但是涨潮退潮的时间和程度各不相同
+Dialogue: 0,0:03:13.63,0:03:17.60,Chinese,,0,0,0,,但是满潮干潮的时间和程度各不相同
 Dialogue: 0,0:03:17.60,0:03:19.75,English,,0,0,0,,and this is partly caused by local factors
 Dialogue: 0,0:03:17.60,0:03:19.75,Chinese,,0,0,0,,这一部分取决于当地的地理因素
 Dialogue: 0,0:03:19.75,0:03:23.02,English,,0,0,0,,like the depth of the seabed and the shape of the shoreline.
@@ -152,7 +152,7 @@ Dialogue: 0,0:03:24.19,0:03:28.21,Chinese,,0,0,0,,在 18 世纪末，皮埃尔-�
 Dialogue: 0,0:03:28.21,0:03:30.14,English,,0,0,0,,Pierre-Simon Laplace derived a set
 Dialogue: 0,0:03:28.21,0:03:30.14,Chinese,,0,0,0,,指出了一套复杂到没有解析解的
 Dialogue: 0,0:03:30.14,0:03:32.38,English,,0,0,0,,of complicated differential equations.
-Dialogue: 0,0:03:30.14,0:03:32.38,Chinese,,0,0,0,,复杂的差分方程
+Dialogue: 0,0:03:30.14,0:03:32.38,Chinese,,0,0,0,,复杂的微分方程
 Dialogue: 0,0:03:32.38,0:03:35.12,English,,0,0,0,,They had no analytical solutions
 Dialogue: 0,0:03:32.38,0:03:35.12,Chinese,,0,0,0,,来描述海洋的潮汐流动
 Dialogue: 0,0:03:35.12,0:03:37.60,English,,0,0,0,,so at the time they were basically useless,
@@ -260,7 +260,7 @@ Dialogue: 0,0:06:13.09,0:06:14.33,English,,0,0,0,,Could you design a machine
 Dialogue: 0,0:06:14.33,0:06:16.90,English,,0,0,0,,to carry out these calculations automatically?
 Dialogue: 0,0:06:13.09,0:06:16.90,Chinese,,0,0,0,,能不能设计出一种 自动完成这些计算的机器
 Dialogue: 0,0:06:16.90,0:06:20.59,English,,0,0,0,,In Kelvin's words, to substitute brass for brains.
-Dialogue: 0,0:06:16.90,0:06:20.59,Chinese,,0,0,0,,用凯文的话来说，这是「用黄铜代替人脑」
+Dialogue: 0,0:06:16.90,0:06:20.59,Chinese,,0,0,0,,用开尔文的话来说，这是「用黄铜代替人脑」
 Dialogue: 0,0:06:20.59,0:06:22.33,English,,0,0,0,,The resulting analog computers
 Dialogue: 0,0:06:22.33,0:06:24.95,English,,0,0,0,,were in use for nearly a century.
 Dialogue: 0,0:06:20.59,0:06:24.95,Chinese,,0,0,0,,他造出来的模拟计算机 在随后的近一个世纪内一直在使用
@@ -268,7 +268,7 @@ Dialogue: 0,0:06:24.95,0:06:26.45,English,,0,0,0,,They even played a critical ro
 Dialogue: 0,0:06:26.45,0:06:28.30,English,,0,0,0,,in the outcome of World War II.
 Dialogue: 0,0:06:24.95,0:06:28.30,Chinese,,0,0,0,,它们甚至在第二次世界大战中 扮演了至关重要的角色
 Dialogue: 0,0:06:29.77,0:06:32.48,English,,0,0,0,,Kelvin started with the problem of prediction.
-Dialogue: 0,0:06:29.77,0:06:32.48,Chinese,,0,0,0,,凯文从预测的问题出发
+Dialogue: 0,0:06:29.77,0:06:32.48,Chinese,,0,0,0,,开尔文从预测的问题出发
 Dialogue: 0,0:06:32.48,0:06:34.07,English,,0,0,0,,Adding the sine waves together,
 Dialogue: 0,0:06:34.07,0:06:36.60,English,,0,0,0,,given you know their amplitudes and phases,
 Dialogue: 0,0:06:32.48,0:06:36.60,Chinese,,0,0,0,,如果你知道它们的振幅和周期，并将这些正弦波加在一起
@@ -289,16 +289,16 @@ Dialogue: 0,0:06:58.33,0:07:00.89,English,,0,0,0,,for a meeting with the main sp
 Dialogue: 0,0:07:00.89,0:07:02.93,English,,0,0,0,,the British Association.
 Dialogue: 0,0:06:58.33,0:07:02.93,Chinese,,0,0,0,,去和一个他的潮汐研究的主要赞助者，大不列颠协会会面
 Dialogue: 0,0:07:02.93,0:07:05.27,English,,0,0,0,,On the train, Kelvin bumped into a friend,
-Dialogue: 0,0:07:02.93,0:07:05.27,Chinese,,0,0,0,,在火车上，凯文遇见了一位朋友，发明家Beauchamp Tower
+Dialogue: 0,0:07:02.93,0:07:05.27,Chinese,,0,0,0,,在火车上，开尔文遇见了一位朋友，发明家Beauchamp Tower
 Dialogue: 0,0:07:05.27,0:07:09.69,English,,0,0,0,,inventor Beauchamp Tower to whom he explained his dilemma.
 Dialogue: 0,0:07:05.27,0:07:09.69,Chinese,,0,0,0,,他向这位朋友说明了他现在的窘境
 Dialogue: 0,0:07:09.69,0:07:12.08,English,,0,0,0,,Tower suggested he use Wheatstone's plan
-Dialogue: 0,0:07:09.69,0:07:12.08,Chinese,,0,0,0,,Tower 建议他使用 Wheatstone 的
+Dialogue: 0,0:07:09.69,0:07:12.08,Chinese,,0,0,0,,Tower 建议他使用 惠斯通 的
 Dialogue: 0,0:07:12.08,0:07:14.84,English,,0,0,0,,of a chain passing round a number of pulleys.
 Dialogue: 0,0:07:12.08,0:07:14.84,Chinese,,0,0,0,,将一条链子绕过几个滑轮的方案
 Dialogue: 0,0:07:14.84,0:07:17.36,English,,0,0,0,,And this was exactly the addition mechanism
 Dialogue: 0,0:07:17.36,0:07:19.11,English,,0,0,0,,Kelvin was looking for.
-Dialogue: 0,0:07:14.84,0:07:19.11,Chinese,,0,0,0,,这正是凯文一直在寻找的加法装置
+Dialogue: 0,0:07:14.84,0:07:19.11,Chinese,,0,0,0,,这正是开尔文一直在寻找的加法装置
 Dialogue: 0,0:07:19.11,0:07:21.65,English,,0,0,0,,By attaching a pulley to each Scotch yoke
 Dialogue: 0,0:07:19.11,0:07:21.65,Chinese,,0,0,0,,通过在每个苏格兰轭上安装一个滑轮
 Dialogue: 0,0:07:21.65,0:07:23.75,English,,0,0,0,,and running a weighted cord around them,
@@ -333,7 +333,7 @@ Dialogue: 0,0:08:00.51,0:08:03.17,Chinese,,0,0,0,,即把现有的潮汐曲线 �
 Dialogue: 0,0:08:03.17,0:08:06.72,English,,0,0,0,,an existing tide curve into its component frequencies.
 Dialogue: 0,0:08:03.17,0:08:06.72,Chinese,,0,0,0,,仍然是由手工完成的
 Dialogue: 0,0:08:06.72,0:08:09.21,English,,0,0,0,,To automate this step, Kelvin needed a machine
-Dialogue: 0,0:08:06.72,0:08:09.21,Chinese,,0,0,0,,为了实现这一步骤的自动化，凯文需要一台机器
+Dialogue: 0,0:08:06.72,0:08:09.21,Chinese,,0,0,0,,为了实现这一步骤的自动化，开尔文需要一台机器
 Dialogue: 0,0:08:09.21,0:08:12.88,English,,0,0,0,,capable of multiplying the tide curve times a sine wave
 Dialogue: 0,0:08:09.21,0:08:12.88,Chinese,,0,0,0,,能够将潮汐曲线乘以一个正弦波
 Dialogue: 0,0:08:12.88,0:08:15.11,English,,0,0,0,,and then taking its integral.
@@ -342,7 +342,7 @@ Dialogue: 0,0:08:15.11,0:08:18.72,English,,0,0,0,,What would such a device even 
 Dialogue: 0,0:08:15.11,0:08:18.72,Chinese,,0,0,0,,这样的设备到底是什么样子的呢
 Dialogue: 0,0:08:18.72,0:08:20.83,English,,0,0,0,,With his older brother, James Thomson,
 Dialogue: 0,0:08:20.83,0:08:23.60,English,,0,0,0,,Kelvin came up with a mechanical integrator.
-Dialogue: 0,0:08:18.72,0:08:23.60,Chinese,,0,0,0,,与他的哥哥詹姆斯-汤姆森一起 凯文想出了一个机械积分器
+Dialogue: 0,0:08:18.72,0:08:23.60,Chinese,,0,0,0,,与他的哥哥詹姆斯-汤姆森一起 开尔文想出了一个机械积分器
 Dialogue: 0,0:08:23.60,0:08:27.04,English,,0,0,0,,It consists of a ball on a rotating disc.
 Dialogue: 0,0:08:23.60,0:08:27.04,Chinese,,0,0,0,,它由一个旋转盘上的球组成
 Dialogue: 0,0:08:27.04,0:08:29.88,English,,0,0,0,,Due to the rotation of the disc, the further the ball
@@ -406,7 +406,7 @@ Dialogue: 0,0:09:49.59,0:09:55.55,Chinese,,0,0,0,,所有圆盘都以不同的频
 Dialogue: 0,0:09:55.55,0:09:59.70,English,,0,0,0,,for multiple frequency components at the same time,
 Dialogue: 0,0:09:55.55,0:09:59.70,Chinese,,0,0,0,,来同时计算多个频率成分的系数
 Dialogue: 0,0:10:00.44,0:10:02.26,English,,0,0,0,,Kelvin's analog computers
-Dialogue: 0,0:10:00.44,0:10:02.26,Chinese,,0,0,0,,凯文的模拟计算机
+Dialogue: 0,0:10:00.44,0:10:02.26,Chinese,,0,0,0,,开尔文的模拟计算机
 Dialogue: 0,0:10:02.26,0:10:05.35,English,,0,0,0,,revolutionized our ability to predict tides.
 Dialogue: 0,0:10:02.26,0:10:05.35,Chinese,,0,0,0,,彻底改变了我们预测潮汐的能力
 Dialogue: 0,0:10:05.47,0:10:08.34,English,,0,0,0,,Tidal curves from anywhere in the world could be turned
@@ -421,7 +421,7 @@ Dialogue: 0,0:10:17.65,0:10:20.33,English,,0,0,0,,using his Scotch yoke pulley m
 Dialogue: 0,0:10:17.65,0:10:20.33,Chinese,,0,0,0,,并使用他的苏格兰轭形滑轮机 预测未来的潮汐
 Dialogue: 0,0:10:21.59,0:10:23.99,English,,0,0,0,,Kelvin's harmonic analyzers were the basis
 Dialogue: 0,0:10:23.99,0:10:25.70,English,,0,0,0,,for a landmark analog computer
-Dialogue: 0,0:10:21.59,0:10:25.70,Chinese,,0,0,0,,凯文的谐波分析器 是具有里程碑意义的模拟计算机的基础
+Dialogue: 0,0:10:21.59,0:10:25.70,Chinese,,0,0,0,,开尔文的谐波分析器 是具有里程碑意义的模拟计算机的基础
 Dialogue: 0,0:10:25.70,0:10:27.70,English,,0,0,0,,called the differential analyzer,
 Dialogue: 0,0:10:25.70,0:10:27.70,Chinese,,0,0,0,,它被称为「微分分析器」
 Dialogue: 0,0:10:27.70,0:10:29.58,English,,0,0,0,,and his tide predicting machines
@@ -528,7 +528,7 @@ Dialogue: 0,0:12:33.68,0:12:35.24,Chinese,,0,0,0,,在纽约的贝尔实验室
 Dialogue: 0,0:12:35.24,0:12:37.10,English,,0,0,0,,Parkinson had been working on a device
 Dialogue: 0,0:12:35.24,0:12:37.10,Chinese,,0,0,0,,帕金森一直在研究
 Dialogue: 0,0:12:37.10,0:12:41.23,English,,0,0,0,,to chart telephone data called an automatic level recorder.
-Dialogue: 0,0:12:37.10,0:12:41.23,Chinese,,0,0,0,,一种用于绘制电话数据图标的机器  叫做自动电平记录器
+Dialogue: 0,0:12:37.10,0:12:41.23,Chinese,,0,0,0,,一种用于绘制电话数据图表的机器  叫做自动电平记录器
 Dialogue: 0,0:12:41.23,0:12:43.98,English,,0,0,0,,It used a variable resistor called a potentiometer
 Dialogue: 0,0:12:41.23,0:12:43.98,Chinese,,0,0,0,,它用了一个叫做电位器的滑动电阻
 Dialogue: 0,0:12:43.98,0:12:46.62,English,,0,0,0,,to control the motion of a pen.
@@ -594,11 +594,11 @@ Dialogue: 0,0:13:59.01,0:14:02.54,Chinese,,0,0,0,,用雷达和光学瞄准器
 Dialogue: 0,0:14:02.54,0:14:04.33,English,,0,0,0,,and direction of enemy planes,
 Dialogue: 0,0:14:02.54,0:14:04.33,Chinese,,0,0,0,,来获取敌机的速度  海拔和方向信息
 Dialogue: 0,0:14:04.33,0:14:07.58,English,,0,0,0,,the M9 Gun Director, as the computer was called,
-Dialogue: 0,0:14:04.33,0:14:07.58,Chinese,,0,0,0,,M9 机枪向导  就像它的名字一样
+Dialogue: 0,0:14:04.33,0:14:07.58,Chinese,,0,0,0,,M9 射击指挥仪    就像它的名字一样
 Dialogue: 0,0:14:07.76,0:14:09.16,English,,0,0,0,,could rapidly calculate
 Dialogue: 0,0:14:07.76,0:14:09.16,Chinese,,0,0,0,,能够快速计算出弹道
 Dialogue: 0,0:14:09.16,0:14:11.93,English,,0,0,0,,the correct trajectory and fuse setting.
-Dialogue: 0,0:14:09.16,0:14:11.93,Chinese,,0,0,0,,和保险的配置
+Dialogue: 0,0:14:09.16,0:14:11.93,Chinese,,0,0,0,,和引信的配置
 Dialogue: 0,0:14:11.93,0:14:13.35,English,,0,0,0,,Potentiometers were used
 Dialogue: 0,0:14:11.93,0:14:13.35,Chinese,,0,0,0,,电位器则被用于
 Dialogue: 0,0:14:13.35,0:14:16.58,English,,0,0,0,,to ascertain the direction the gun was pointing.
@@ -648,7 +648,7 @@ Dialogue: 0,0:15:14.43,0:15:17.52,Chinese,,0,0,0,,为了防止它落入敌手
 Dialogue: 0,0:15:17.52,0:15:20.21,English,,0,0,0,,American bombardiers carried handguns
 Dialogue: 0,0:15:17.52,0:15:20.21,Chinese,,0,0,0,,美国轰炸员配备了专门的手枪
 Dialogue: 0,0:15:20.21,0:15:24.32,English,,0,0,0,,specifically to destroy it in the event of a crash.
-Dialogue: 0,0:15:20.21,0:15:24.32,Chinese,,0,0,0,,用于在坠机时破环它
+Dialogue: 0,0:15:20.21,0:15:24.32,Chinese,,0,0,0,,用于在坠机时破坏它
 Dialogue: 0,0:15:24.32,0:15:26.63,English,,0,0,0,,But despite its hype and funding,
 Dialogue: 0,0:15:24.32,0:15:26.63,Chinese,,0,0,0,,尽管它来头不小且耗资甚巨
 Dialogue: 0,0:15:26.63,0:15:29.28,English,,0,0,0,,the Norden didn't work as advertised.
@@ -656,7 +656,7 @@ Dialogue: 0,0:15:26.63,0:15:29.28,Chinese,,0,0,0,,诺顿瞄准具的表现不如
 Dialogue: 0,0:15:29.28,0:15:31.63,English,,0,0,0,,With over 2,000 fine parts,
 Dialogue: 0,0:15:29.28,0:15:31.63,Chinese,,0,0,0,,它由 2000 个以上精细部件组成
 Dialogue: 0,0:15:31.63,0:15:35.14,English,,0,0,0,,it required extreme precision to manufacture.
-Dialogue: 0,0:15:31.63,0:15:35.14,Chinese,,0,0,0,,需要极高的精准度来操作
+Dialogue: 0,0:15:31.63,0:15:35.14,Chinese,,0,0,0,,需要极高的精准度来生产
 Dialogue: 0,0:15:35.14,0:15:37.21,English,,0,0,0,,The problem with analog computers
 Dialogue: 0,0:15:35.14,0:15:37.21,Chinese,,0,0,0,,模拟计算机的问题在于
 Dialogue: 0,0:15:37.21,0:15:40.50,English,,0,0,0,,is that the physical device is a model for the real world.
@@ -701,7 +701,7 @@ Dialogue: 0,0:16:33.64,0:16:36.24,English,,0,0,0,,of land artillery firing table
 Dialogue: 0,0:16:31.37,0:16:36.24,Chinese,,0,0,0,,它被设计用于加速陆地炮弹射表的计算
 Dialogue: 0,0:16:36.24,0:16:37.68,English,,0,0,0,,At the time, these were computed
 Dialogue: 0,0:16:37.68,0:16:39.47,English,,0,0,0,,using differential analyzers,
-Dialogue: 0,0:16:36.24,0:16:39.47,Chinese,,0,0,0,,在当时 这些计算是用积分分析器来算的
+Dialogue: 0,0:16:36.24,0:16:39.47,Chinese,,0,0,0,,在当时 这些计算是用微分分析器来算的
 Dialogue: 0,0:16:39.47,0:16:41.59,English,,0,0,0,,the analog mechanical computers
 Dialogue: 0,0:16:39.47,0:16:41.59,Chinese,,0,0,0,,这是机械的模拟计算机
 Dialogue: 0,0:16:41.59,0:16:44.51,English,,0,0,0,,based on Kelvin's harmonic analyzer.
@@ -718,9 +718,8 @@ Dialogue: 0,0:16:55.11,0:16:59.54,Chinese,,0,0,0,,真正打开电子革命大门
 Dialogue: 0,0:16:59.54,0:17:02.13,English,,0,0,0,,in his 1936 Master's thesis.
 Dialogue: 0,0:16:59.54,0:17:02.13,Chinese,,0,0,0,,在1936年其在研究生时的发现
 Dialogue: 0,0:17:02.13,0:17:05.37,English,,0,0,0,,He showed that any numerical operation can be carried out
-Dialogue: 0,0:17:02.13,0:17:05.37,Chinese,,0,0,0,,他发现任何的数字运算可以透过
 Dialogue: 0,0:17:05.37,0:17:08.55,English,,0,0,0,,using the basic building blocks of Boolean algebra.
-Dialogue: 0,0:17:05.37,0:17:08.55,Chinese,,0,0,0,,基础的构建布尔运算区块来执行
+Dialogue: 0,0:17:02.13,0:17:08.55,Chinese,,0,0,0,,他证明  任意的数值运算都可以用基本的布尔代数来完成
 Dialogue: 0,0:17:08.55,0:17:12.73,English,,0,0,0,,Two values, true or false, also notated as one or zero,
 Dialogue: 0,0:17:08.55,0:17:12.73,Chinese,,0,0,0,,真或假这两个数值 也可以记为0或1
 Dialogue: 0,0:17:12.73,0:17:16.77,English,,0,0,0,,and three operations, and, or, and not.
