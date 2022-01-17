@@ -594,7 +594,7 @@ Dialogue: 0,0:13:59.01,0:14:02.54,Chinese,,0,0,0,,用雷达和光学瞄准器
 Dialogue: 0,0:14:02.54,0:14:04.33,English,,0,0,0,,and direction of enemy planes,
 Dialogue: 0,0:14:02.54,0:14:04.33,Chinese,,0,0,0,,来获取敌机的速度  海拔和方向信息
 Dialogue: 0,0:14:04.33,0:14:07.58,English,,0,0,0,,the M9 Gun Director, as the computer was called,
-Dialogue: 0,0:14:04.33,0:14:07.58,Chinese,,0,0,0,,M9 射击指挥仪    就像它的名字一样
+Dialogue: 0,0:14:04.33,0:14:07.58,Chinese,,0,0,0,,M9 射击指挥仪  就像它的名字一样
 Dialogue: 0,0:14:07.76,0:14:09.16,English,,0,0,0,,could rapidly calculate
 Dialogue: 0,0:14:07.76,0:14:09.16,Chinese,,0,0,0,,能够快速计算出弹道
 Dialogue: 0,0:14:09.16,0:14:11.93,English,,0,0,0,,the correct trajectory and fuse setting.
@@ -688,7 +688,7 @@ Dialogue: 0,0:16:13.54,0:16:17.41,English,,0,0,0,,As the war progressed, digital
 Dialogue: 0,0:16:13.54,0:16:17.41,Chinese,,0,0,0,,随着战争的推进，数字计算机获得了大家的关注
 Dialogue: 0,0:16:17.41,0:16:20.11,English,,0,0,0,,The digital and electronic Colossus machines
 Dialogue: 0,0:16:20.11,0:16:21.87,English,,0,0,0,,of Bletchley Park in the UK
-Dialogue: 0,0:16:17.41,0:16:21.87,Chinese,,0,0,0,,在英国  布莱切利园中巨大的数字电子机器
+Dialogue: 0,0:16:17.41,0:16:21.87,Chinese,,0,0,0,,位于英国布莱切利园的数字电子计算机“巨人”
 Dialogue: 0,0:16:21.87,0:16:24.21,English,,0,0,0,,were critical to breaking German codes.
 Dialogue: 0,0:16:21.87,0:16:24.21,Chinese,,0,0,0,,在破解德军密信中发挥了巨大作用
 Dialogue: 0,0:16:24.22,0:16:26.68,English,,0,0,0,,In the United States, the military invested
@@ -713,10 +713,10 @@ Dialogue: 0,0:16:46.94,0:16:50.50,Chinese,,0,0,0,,但它证明了电子计算机
 Dialogue: 0,0:16:50.50,0:16:53.99,English,,0,0,0,,It's considered by many to be the first modern computer.
 Dialogue: 0,0:16:50.50,0:16:53.99,Chinese,,0,0,0,,它被大多数人认为是第一台现代定义的电脑
 Dialogue: 0,0:16:55.11,0:16:57.61,English,,0,0,0,,What really opened the door to this digital revolution
+Dialogue: 0,0:16:55.11,0:16:57.61,Chinese,,0,0,0,,真正打开电子革命大门的
 Dialogue: 0,0:16:57.61,0:16:59.54,English,,0,0,0,,was the discovery made by Claude Shannon
-Dialogue: 0,0:16:55.11,0:16:59.54,Chinese,,0,0,0,,真正打开电子革命大门的 是克劳德·香农
 Dialogue: 0,0:16:59.54,0:17:02.13,English,,0,0,0,,in his 1936 Master's thesis.
-Dialogue: 0,0:16:59.54,0:17:02.13,Chinese,,0,0,0,,在1936年其在研究生时的发现
+Dialogue: 0,0:16:57.61,0:17:02.13,Chinese,,0,0,0,,是1936年  克劳德·香农发表的硕士论文
 Dialogue: 0,0:17:02.13,0:17:05.37,English,,0,0,0,,He showed that any numerical operation can be carried out
 Dialogue: 0,0:17:05.37,0:17:08.55,English,,0,0,0,,using the basic building blocks of Boolean algebra.
 Dialogue: 0,0:17:02.13,0:17:08.55,Chinese,,0,0,0,,他证明  任意的数值运算都可以用基本的布尔代数来完成
@@ -725,8 +725,9 @@ Dialogue: 0,0:17:08.55,0:17:12.73,Chinese,,0,0,0,,真或假这两个数值 也�
 Dialogue: 0,0:17:12.73,0:17:16.77,English,,0,0,0,,and three operations, and, or, and not.
 Dialogue: 0,0:17:12.73,0:17:16.77,Chinese,,0,0,0,,以及与、并及否 三种运算
 Dialogue: 0,0:17:16.77,0:17:18.38,English,,0,0,0,,This makes digital computers
+Dialogue: 0,0:17:16.77,0:17:18.38,Chinese,,0,0,0,,这让数字计算机
 Dialogue: 0,0:17:18.38,0:17:21.38,English,,0,0,0,,the ideal versatile computing machines.
-Dialogue: 0,0:17:16.77,0:17:21.38,Chinese,,0,0,0,,这让数字计算机成为了理想的万能计算机器
+Dialogue: 0,0:17:18.38,0:17:21.38,Chinese,,0,0,0,,成为了理想的通用计算机器
 Dialogue: 0,0:17:21.38,0:17:23.50,English,,0,0,0,,In contrast, each analog computer
 Dialogue: 0,0:17:21.38,0:17:23.50,Chinese,,0,0,0,,与之对比的是 每一个模拟计算机
 Dialogue: 0,0:17:23.50,0:17:27.07,English,,0,0,0,,is an analog for only one type of problem.
