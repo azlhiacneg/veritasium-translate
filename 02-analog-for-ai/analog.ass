@@ -179,207 +179,207 @@ Dialogue: 0,0:03:33.61,0:03:36.90,CHN,,0,0,0,,
 Dialogue: 0,0:03:36.90,0:03:41.31,ENG,,0,0,0,,Now, here's why analog computers may be making a comeback.
 Dialogue: 0,0:03:36.90,0:03:41.31,CHN,,0,0,0,,
 Dialogue: 0,0:03:43.80,0:03:46.50,ENG,,0,0,0,,It all starts with artificial intelligence.
-Dialogue: 0,0:03:43.80,0:03:46.50,CHN,,0,0,0,,
+Dialogue: 0,0:03:43.80,0:03:46.50,CHN,,0,0,0,,这一切都源于人工智能的出现
 Dialogue: 0,0:03:46.50,0:03:48.71,ENG,,0,0,0,,- A machine has been programmed to see
-Dialogue: 0,0:03:46.50,0:03:48.71,CHN,,0,0,0,,
+Dialogue: 0,0:03:46.50,0:03:48.71,CHN,,0,0,0,,通过执行编写好的代码
 Dialogue: 0,0:03:48.71,0:03:50.04,ENG,,0,0,0,,and to move objects.
-Dialogue: 0,0:03:48.71,0:03:50.04,CHN,,0,0,0,,
+Dialogue: 0,0:03:48.71,0:03:50.04,CHN,,0,0,0,,这台机器可以检测并移动物体
 Dialogue: 0,0:03:51.33,0:03:52.94,ENG,,0,0,0,,- AI isn't new.
-Dialogue: 0,0:03:51.33,0:03:52.94,CHN,,0,0,0,,
+Dialogue: 0,0:03:51.33,0:03:52.94,CHN,,0,0,0,,人工智能不是新鲜事物了
 Dialogue: 0,0:03:52.94,0:03:55.69,ENG,,0,0,0,,The term was coined back in 1956.
-Dialogue: 0,0:03:52.94,0:03:55.69,CHN,,0,0,0,,
+Dialogue: 0,0:03:52.94,0:03:55.69,CHN,,0,0,0,,这个词早在 1956 年就被创造出来了
 Dialogue: 0,0:03:55.69,0:03:58.76,ENG,,0,0,0,,In 1958, Cornell University psychologist,
-Dialogue: 0,0:03:55.69,0:03:58.76,CHN,,0,0,0,,
+Dialogue: 0,0:03:55.69,0:03:58.76,CHN,,0,0,0,,1958年 康奈尔大学的心理学家
 Dialogue: 0,0:03:58.76,0:04:01.29,ENG,,0,0,0,,Frank Rosenblatt, built the perceptron,
-Dialogue: 0,0:03:58.76,0:04:01.29,CHN,,0,0,0,,
+Dialogue: 0,0:03:58.76,0:04:01.29,CHN,,0,0,0,,弗兰克·罗森布拉特提出了感知机
 Dialogue: 0,0:04:01.29,0:04:05.15,ENG,,0,0,0,,designed to mimic how neurons fire in our brains.
-Dialogue: 0,0:04:01.29,0:04:05.15,CHN,,0,0,0,,
+Dialogue: 0,0:04:01.29,0:04:05.15,CHN,,0,0,0,,来模仿人脑中的神经元发射信号的方式
 Dialogue: 0,0:04:05.15,0:04:08.93,ENG,,0,0,0,,So here's a basic model of how neurons in our brains work.
-Dialogue: 0,0:04:05.15,0:04:08.93,CHN,,0,0,0,,
+Dialogue: 0,0:04:05.15,0:04:08.93,CHN,,0,0,0,,这是一个基本模型 展示了我们大脑中的神经元如何工作
 Dialogue: 0,0:04:08.93,0:04:12.16,ENG,,0,0,0,,An individual neuron can either fire or not,
-Dialogue: 0,0:04:08.93,0:04:12.16,CHN,,0,0,0,,
+Dialogue: 0,0:04:08.93,0:04:12.16,CHN,,0,0,0,,一个独立的神经元可以发射也可以不发射信号
 Dialogue: 0,0:04:12.16,0:04:14.38,ENG,,0,0,0,,so its level of activation can be represented
-Dialogue: 0,0:04:12.16,0:04:14.38,CHN,,0,0,0,,
+Dialogue: 0,0:04:12.16,0:04:14.38,CHN,,0,0,0,,因此它的激活水平
 Dialogue: 0,0:04:14.38,0:04:16.48,ENG,,0,0,0,,as a one or a zero.
-Dialogue: 0,0:04:14.38,0:04:16.48,CHN,,0,0,0,,
+Dialogue: 0,0:04:14.38,0:04:16.48,CHN,,0,0,0,,就可以表示为 0 或者 1
 Dialogue: 0,0:04:16.48,0:04:18.37,ENG,,0,0,0,,The input to one neuron
-Dialogue: 0,0:04:16.48,0:04:18.37,CHN,,0,0,0,,
-Dialogue: 0,0:04:18.37,0:04:21.13,ENG,,0,0,0,,is the output from a bunch other neurons,
-Dialogue: 0,0:04:18.37,0:04:21.13,CHN,,0,0,0,,
+Dialogue: 0,0:04:16.48,0:04:18.37,CHN,,0,0,0,,一个神经元的输入
+Dialogue: 0,0:04:18.37,0:04:21.13,ENG,,0,0,0,,is the output from a bunch of other neurons,
+Dialogue: 0,0:04:18.37,0:04:21.13,CHN,,0,0,0,,是其他一堆神经元的输出
 Dialogue: 0,0:04:21.13,0:04:24.41,ENG,,0,0,0,,but the strength of these connections between neurons varies,
-Dialogue: 0,0:04:21.13,0:04:24.41,CHN,,0,0,0,,
+Dialogue: 0,0:04:21.13,0:04:24.41,CHN,,0,0,0,,但因为这些神经元之间的连接强度不同
 Dialogue: 0,0:04:24.41,0:04:27.42,ENG,,0,0,0,,so each one can be given a different weight.
-Dialogue: 0,0:04:24.41,0:04:27.42,CHN,,0,0,0,,
+Dialogue: 0,0:04:24.41,0:04:27.42,CHN,,0,0,0,,所以每一个连接都有不同的权重
 Dialogue: 0,0:04:27.42,0:04:29.41,ENG,,0,0,0,,Some connections are excitatory,
-Dialogue: 0,0:04:27.42,0:04:29.41,CHN,,0,0,0,,
+Dialogue: 0,0:04:27.42,0:04:29.41,CHN,,0,0,0,,有些连接起到刺激作用
 Dialogue: 0,0:04:29.41,0:04:30.91,ENG,,0,0,0,,so they have positive weights,
-Dialogue: 0,0:04:29.41,0:04:30.91,CHN,,0,0,0,,
+Dialogue: 0,0:04:29.41,0:04:30.91,CHN,,0,0,0,,因此它们的权重是正的
 Dialogue: 0,0:04:30.91,0:04:32.84,ENG,,0,0,0,,while others are inhibitory,
-Dialogue: 0,0:04:30.91,0:04:32.84,CHN,,0,0,0,,
+Dialogue: 0,0:04:30.91,0:04:32.84,CHN,,0,0,0,,另外一些连接起到抑制作用
 Dialogue: 0,0:04:32.84,0:04:34.55,ENG,,0,0,0,,so they have negative weights.
-Dialogue: 0,0:04:32.84,0:04:34.55,CHN,,0,0,0,,
+Dialogue: 0,0:04:32.84,0:04:34.55,CHN,,0,0,0,,因此它们的权重是负的
 Dialogue: 0,0:04:34.55,0:04:37.67,ENG,,0,0,0,,And the way to figure out whether a particular neuron fires,
-Dialogue: 0,0:04:34.55,0:04:37.67,CHN,,0,0,0,,
+Dialogue: 0,0:04:34.55,0:04:37.67,CHN,,0,0,0,,要判断某个神经元是否发射信号
 Dialogue: 0,0:04:37.67,0:04:40.38,ENG,,0,0,0,,is to take the activation of each input neuron
-Dialogue: 0,0:04:37.67,0:04:40.38,CHN,,0,0,0,,
+Dialogue: 0,0:04:37.67,0:04:40.38,CHN,,0,0,0,,可以将它的每个输入神经元的激活水平
 Dialogue: 0,0:04:40.38,0:04:42.60,ENG,,0,0,0,,and multiply by its weight,
-Dialogue: 0,0:04:40.38,0:04:42.60,CHN,,0,0,0,,
+Dialogue: 0,0:04:40.38,0:04:42.60,CHN,,0,0,0,,乘以它们的权重
 Dialogue: 0,0:04:42.60,0:04:44.37,ENG,,0,0,0,,and then add these all together.
-Dialogue: 0,0:04:42.60,0:04:44.37,CHN,,0,0,0,,
+Dialogue: 0,0:04:42.60,0:04:44.37,CHN,,0,0,0,,再累加起来
 Dialogue: 0,0:04:44.37,0:04:47.49,ENG,,0,0,0,,If their sum is greater than some number called the bias,
-Dialogue: 0,0:04:44.37,0:04:47.49,CHN,,0,0,0,,
+Dialogue: 0,0:04:44.37,0:04:47.49,CHN,,0,0,0,,如果它们的和大于某个数字（偏差）
 Dialogue: 0,0:04:47.49,0:04:49.05,ENG,,0,0,0,,then the neuron fires,
-Dialogue: 0,0:04:47.49,0:04:49.05,CHN,,0,0,0,,
+Dialogue: 0,0:04:47.49,0:04:49.05,CHN,,0,0,0,,那么这个神经元就发射信号
 Dialogue: 0,0:04:49.05,0:04:51.96,ENG,,0,0,0,,but if it's less than that, the neuron doesn't fire.
-Dialogue: 0,0:04:49.05,0:04:51.96,CHN,,0,0,0,,
+Dialogue: 0,0:04:49.05,0:04:51.96,CHN,,0,0,0,,如果小于偏差 那么就不发射
 Dialogue: 0,0:04:53.46,0:04:57.19,ENG,,0,0,0,,As input, Rosenblatt's perceptron had 400 photocells
-Dialogue: 0,0:04:53.46,0:04:57.19,CHN,,0,0,0,,
+Dialogue: 0,0:04:53.46,0:04:57.19,CHN,,0,0,0,,罗森布拉特的感知机把 400 个感光器放进一个正方形网格中
 Dialogue: 0,0:04:57.19,0:04:59.08,ENG,,0,0,0,,arranged in a square grid,
-Dialogue: 0,0:04:57.19,0:04:59.08,CHN,,0,0,0,,
+Dialogue: 0,0:04:57.19,0:04:59.08,CHN,,0,0,0,,来捕捉 20*20 像素的图像
 Dialogue: 0,0:04:59.08,0:05:02.16,ENG,,0,0,0,,to capture a 20 by 20-pixel image.
-Dialogue: 0,0:04:59.08,0:05:02.16,CHN,,0,0,0,,
+Dialogue: 0,0:04:59.08,0:05:02.16,CHN,,0,0,0,,以此作为输入
 Dialogue: 0,0:05:02.16,0:05:04.67,ENG,,0,0,0,,You can think of each pixel as an input neuron,
-Dialogue: 0,0:05:02.16,0:05:04.67,CHN,,0,0,0,,
+Dialogue: 0,0:05:02.16,0:05:04.67,CHN,,0,0,0,,你可以认为每一个像素都是一个输入神经元
 Dialogue: 0,0:05:04.67,0:05:07.78,ENG,,0,0,0,,with its activation being the brightness of the pixel.
-Dialogue: 0,0:05:04.67,0:05:07.78,CHN,,0,0,0,,
+Dialogue: 0,0:05:04.67,0:05:07.78,CHN,,0,0,0,,它的激活水平就是这个像素的亮度
 Dialogue: 0,0:05:07.78,0:05:09.02,ENG,,0,0,0,,Although strictly speaking,
-Dialogue: 0,0:05:07.78,0:05:09.02,CHN,,0,0,0,,
+Dialogue: 0,0:05:07.78,0:05:09.02,CHN,,0,0,0,,严格来说
 Dialogue: 0,0:05:09.02,0:05:11.91,ENG,,0,0,0,,the activation should be either zero or one,
-Dialogue: 0,0:05:09.02,0:05:11.91,CHN,,0,0,0,,
+Dialogue: 0,0:05:09.02,0:05:11.91,CHN,,0,0,0,,激活水平必须是 0 或 1
 Dialogue: 0,0:05:11.91,0:05:15.96,ENG,,0,0,0,,we can let it take any value between zero and one.
-Dialogue: 0,0:05:11.91,0:05:15.96,CHN,,0,0,0,,
+Dialogue: 0,0:05:11.91,0:05:15.96,CHN,,0,0,0,,但我们可以让它取 0 到 1 之间的任何一个值
 Dialogue: 0,0:05:15.96,0:05:20.13,ENG,,0,0,0,,All of these neurons are connected to a single output neuron,
-Dialogue: 0,0:05:15.96,0:05:20.13,CHN,,0,0,0,,
+Dialogue: 0,0:05:15.96,0:05:20.13,CHN,,0,0,0,,所有这些神经元都会连向一个输出神经元
 Dialogue: 0,0:05:20.13,0:05:23.14,ENG,,0,0,0,,each via its own adjustable weight.
-Dialogue: 0,0:05:20.13,0:05:23.14,CHN,,0,0,0,,
+Dialogue: 0,0:05:20.13,0:05:23.14,CHN,,0,0,0,,每条连接都有一个可调节的权重
 Dialogue: 0,0:05:23.14,0:05:25.37,ENG,,0,0,0,,So to see if the output neuron will fire,
-Dialogue: 0,0:05:23.14,0:05:25.37,CHN,,0,0,0,,
+Dialogue: 0,0:05:23.14,0:05:25.37,CHN,,0,0,0,,所以 要知道输出神经元是否发射信号
 Dialogue: 0,0:05:25.37,0:05:28.84,ENG,,0,0,0,,you multiply the activation of each neuron by its weight,
-Dialogue: 0,0:05:25.37,0:05:28.84,CHN,,0,0,0,,
+Dialogue: 0,0:05:25.37,0:05:28.84,CHN,,0,0,0,,你可以将每个神经元的激活水平乘以它们的权重
 Dialogue: 0,0:05:28.84,0:05:30.44,ENG,,0,0,0,,and add them together.
-Dialogue: 0,0:05:28.84,0:05:30.44,CHN,,0,0,0,,
+Dialogue: 0,0:05:28.84,0:05:30.44,CHN,,0,0,0,,再相加
 Dialogue: 0,0:05:30.44,0:05:33.26,ENG,,0,0,0,,This is essentially a vector dot product.
-Dialogue: 0,0:05:30.44,0:05:33.26,CHN,,0,0,0,,
+Dialogue: 0,0:05:30.44,0:05:33.26,CHN,,0,0,0,,这个过程本质上是求向量点积
 Dialogue: 0,0:05:33.26,0:05:36.60,ENG,,0,0,0,,If the answer is larger than the bias, the neuron fires,
-Dialogue: 0,0:05:33.26,0:05:36.60,CHN,,0,0,0,,
+Dialogue: 0,0:05:33.26,0:05:36.60,CHN,,0,0,0,,如果结果大于偏差 那么输出神经元发射信号
 Dialogue: 0,0:05:36.60,0:05:38.89,ENG,,0,0,0,,and if not, it doesn't.
-Dialogue: 0,0:05:36.60,0:05:38.89,CHN,,0,0,0,,
+Dialogue: 0,0:05:36.60,0:05:38.89,CHN,,0,0,0,,反之不发射
 Dialogue: 0,0:05:38.89,0:05:40.59,ENG,,0,0,0,,Now the goal of the perceptron
-Dialogue: 0,0:05:38.89,0:05:40.59,CHN,,0,0,0,,
+Dialogue: 0,0:05:38.89,0:05:40.59,CHN,,0,0,0,,现在 感知机的目标
 Dialogue: 0,0:05:40.59,0:05:43.69,ENG,,0,0,0,,was to reliably distinguish between two images,
-Dialogue: 0,0:05:40.59,0:05:43.69,CHN,,0,0,0,,
+Dialogue: 0,0:05:40.59,0:05:43.69,CHN,,0,0,0,,是准确地分辨两张图片
 Dialogue: 0,0:05:43.69,0:05:45.97,ENG,,0,0,0,,like a rectangle and a circle.
-Dialogue: 0,0:05:43.69,0:05:45.97,CHN,,0,0,0,,
+Dialogue: 0,0:05:43.69,0:05:45.97,CHN,,0,0,0,,比如分辨长方形和圆形
 Dialogue: 0,0:05:45.97,0:05:46.80,ENG,,0,0,0,,For example,
-Dialogue: 0,0:05:45.97,0:05:46.80,CHN,,0,0,0,,
+Dialogue: 0,0:05:45.97,0:05:46.80,CHN,,0,0,0,,举个例子
 Dialogue: 0,0:05:46.80,0:05:49.95,ENG,,0,0,0,,the output neuron could always fire when presented with a circle,
-Dialogue: 0,0:05:46.80,0:05:49.95,CHN,,0,0,0,,
+Dialogue: 0,0:05:46.80,0:05:49.95,CHN,,0,0,0,,当出现圆形时 输出神经元就会发射信号
 Dialogue: 0,0:05:49.95,0:05:52.93,ENG,,0,0,0,,but never when presented with a rectangle.
-Dialogue: 0,0:05:49.95,0:05:52.93,CHN,,0,0,0,,
+Dialogue: 0,0:05:49.95,0:05:52.93,CHN,,0,0,0,,如果是长方形 那么它永远也不会发射信号
 Dialogue: 0,0:05:52.93,0:05:55.89,ENG,,0,0,0,,To achieve this, the perception had to be trained,
-Dialogue: 0,0:05:52.93,0:05:55.89,CHN,,0,0,0,,
+Dialogue: 0,0:05:52.93,0:05:55.89,CHN,,0,0,0,,为了达到这个目的 我们需要训练感知机
 Dialogue: 0,0:05:55.89,0:05:58.41,ENG,,0,0,0,,that is, shown a series of different circles
-Dialogue: 0,0:05:55.89,0:05:58.41,CHN,,0,0,0,,
+Dialogue: 0,0:05:55.89,0:05:58.41,CHN,,0,0,0,,也就是给它看一系列不同的圆形和长方形
 Dialogue: 0,0:05:58.41,0:06:02.49,ENG,,0,0,0,,and rectangles, and have its weights adjusted accordingly.
-Dialogue: 0,0:05:58.41,0:06:02.49,CHN,,0,0,0,,
+Dialogue: 0,0:05:58.41,0:06:02.49,CHN,,0,0,0,,从而改变它的神经元连接权重
 Dialogue: 0,0:06:02.49,0:06:05.35,ENG,,0,0,0,,We can visualize the weights as an image,
-Dialogue: 0,0:06:02.49,0:06:05.35,CHN,,0,0,0,,
+Dialogue: 0,0:06:02.49,0:06:05.35,CHN,,0,0,0,,因为图片的每个像素都有一个唯一的权重
 Dialogue: 0,0:06:05.35,0:06:09.44,ENG,,0,0,0,,since there's a unique weight for each pixel of the image.
-Dialogue: 0,0:06:05.35,0:06:09.44,CHN,,0,0,0,,
+Dialogue: 0,0:06:05.35,0:06:09.44,CHN,,0,0,0,,所以我们可以把所有权重可视化为一张图像
 Dialogue: 0,0:06:09.44,0:06:12.47,ENG,,0,0,0,,Initially, Rosenblatt set all the weights to zero.
-Dialogue: 0,0:06:09.44,0:06:12.47,CHN,,0,0,0,,
+Dialogue: 0,0:06:09.44,0:06:12.47,CHN,,0,0,0,,开始时 罗森布拉特把所有权重设置为 0
 Dialogue: 0,0:06:12.47,0:06:14.53,ENG,,0,0,0,,If the perceptron's output is correct,
-Dialogue: 0,0:06:12.47,0:06:14.53,CHN,,0,0,0,,
+Dialogue: 0,0:06:12.47,0:06:14.53,CHN,,0,0,0,,如果感知机的输出正确
 Dialogue: 0,0:06:14.53,0:06:16.82,ENG,,0,0,0,,for example, here it's shown a rectangle
-Dialogue: 0,0:06:14.53,0:06:16.82,CHN,,0,0,0,,
+Dialogue: 0,0:06:14.53,0:06:16.82,CHN,,0,0,0,,比如说 现在出现的是一个长方形
 Dialogue: 0,0:06:16.82,0:06:19.00,ENG,,0,0,0,,and the output neuron doesn't fire,
-Dialogue: 0,0:06:16.82,0:06:19.00,CHN,,0,0,0,,
+Dialogue: 0,0:06:16.82,0:06:19.00,CHN,,0,0,0,,而且输出神经元没有发射信号
 Dialogue: 0,0:06:19.00,0:06:21.26,ENG,,0,0,0,,no change is made to the weights.
-Dialogue: 0,0:06:19.00,0:06:21.26,CHN,,0,0,0,,
+Dialogue: 0,0:06:19.00,0:06:21.26,CHN,,0,0,0,,那么权重不会发生变化
 Dialogue: 0,0:06:21.26,0:06:23.91,ENG,,0,0,0,,But if it's wrong, then the weights are adjusted.
-Dialogue: 0,0:06:21.26,0:06:23.91,CHN,,0,0,0,,
+Dialogue: 0,0:06:21.26,0:06:23.91,CHN,,0,0,0,,但如果感知机的输出是错的 就会调整权重
 Dialogue: 0,0:06:23.91,0:06:25.92,ENG,,0,0,0,,The algorithm for updating the weights
-Dialogue: 0,0:06:23.91,0:06:25.92,CHN,,0,0,0,,
+Dialogue: 0,0:06:23.91,0:06:25.92,CHN,,0,0,0,,更新权重的算法非常简单
 Dialogue: 0,0:06:25.92,0:06:27.64,ENG,,0,0,0,,is remarkably simple.
-Dialogue: 0,0:06:25.92,0:06:27.64,CHN,,0,0,0,,
+Dialogue: 0,0:06:25.92,0:06:27.64,CHN,,0,0,0,,更新权重的算法非常简单
 Dialogue: 0,0:06:27.64,0:06:29.78,ENG,,0,0,0,,Here, the output neuron didn't fire
-Dialogue: 0,0:06:27.64,0:06:29.78,CHN,,0,0,0,,
+Dialogue: 0,0:06:27.64,0:06:29.78,CHN,,0,0,0,,现在给感知机展示的是一个圆形
 Dialogue: 0,0:06:29.78,0:06:32.37,ENG,,0,0,0,,when it was supposed to because it was shown a circle.
-Dialogue: 0,0:06:29.78,0:06:32.37,CHN,,0,0,0,,
+Dialogue: 0,0:06:29.78,0:06:32.37,CHN,,0,0,0,,输出神经元应该发射信号 但它没有
 Dialogue: 0,0:06:32.37,0:06:33.89,ENG,,0,0,0,,So to modify the weights,
-Dialogue: 0,0:06:32.37,0:06:33.89,CHN,,0,0,0,,
+Dialogue: 0,0:06:32.37,0:06:33.89,CHN,,0,0,0,,所以要修改权重
 Dialogue: 0,0:06:33.89,0:06:38.21,ENG,,0,0,0,,you simply add the input activations to the weights.
-Dialogue: 0,0:06:33.89,0:06:38.21,CHN,,0,0,0,,
+Dialogue: 0,0:06:33.89,0:06:38.21,CHN,,0,0,0,,你可以简单地把输入激活水平加到权重上
 Dialogue: 0,0:06:38.21,0:06:40.54,ENG,,0,0,0,,If the output neuron fires when it shouldn't,
-Dialogue: 0,0:06:38.21,0:06:40.54,CHN,,0,0,0,,
+Dialogue: 0,0:06:38.21,0:06:40.54,CHN,,0,0,0,,如果输出神经元在它不该发射信号时 发射了信号
 Dialogue: 0,0:06:40.54,0:06:42.89,ENG,,0,0,0,,like here, when shown a rectangle,
-Dialogue: 0,0:06:40.54,0:06:42.89,CHN,,0,0,0,,
+Dialogue: 0,0:06:40.54,0:06:42.89,CHN,,0,0,0,,比如现在给它展示了一个长方形 但它发射了信号
 Dialogue: 0,0:06:42.89,0:06:46.74,ENG,,0,0,0,,well, then you subtract the input activations from the weights,
-Dialogue: 0,0:06:42.89,0:06:46.74,CHN,,0,0,0,,
+Dialogue: 0,0:06:42.89,0:06:46.74,CHN,,0,0,0,,你就要从权重上减去输入激活水平
 Dialogue: 0,0:06:46.74,0:06:48.28,ENG,,0,0,0,,and you keep doing this
-Dialogue: 0,0:06:46.74,0:06:48.28,CHN,,0,0,0,,
+Dialogue: 0,0:06:46.74,0:06:48.28,CHN,,0,0,0,,一直重复进行这些操作
 Dialogue: 0,0:06:48.28,0:06:52.63,ENG,,0,0,0,,until the perceptron correctly identifies all the training images.
-Dialogue: 0,0:06:48.28,0:06:52.63,CHN,,0,0,0,,
+Dialogue: 0,0:06:48.28,0:06:52.63,CHN,,0,0,0,,直到感知机能正确辨识所有用于训练的图片为止
 Dialogue: 0,0:06:52.63,0:06:55.52,ENG,,0,0,0,,It was shown that this algorithm will always converge,
-Dialogue: 0,0:06:52.63,0:06:55.52,CHN,,0,0,0,,
+Dialogue: 0,0:06:52.63,0:06:55.52,CHN,,0,0,0,,事实表明
 Dialogue: 0,0:06:55.52,0:06:58.18,ENG,,0,0,0,,so long as it's possible to map the two categories
-Dialogue: 0,0:06:55.52,0:06:58.18,CHN,,0,0,0,,
+Dialogue: 0,0:06:55.52,0:06:58.18,CHN,,0,0,0,,只要能把这两类图片映射到不同的组中
 Dialogue: 0,0:06:58.18,0:07:00.03,ENG,,0,0,0,,into distinct groups.
-Dialogue: 0,0:06:58.18,0:07:00.03,CHN,,0,0,0,,
+Dialogue: 0,0:06:58.18,0:07:00.03,CHN,,0,0,0,,那么这个算法就一定会收敛
 Dialogue: 0,0:07:02.24,0:07:04.13,ENG,,0,0,0,,The perceptron was capable
-Dialogue: 0,0:07:02.24,0:07:04.13,CHN,,0,0,0,,
+Dialogue: 0,0:07:02.24,0:07:04.13,CHN,,0,0,0,,感知机能够区分不同的形状
 Dialogue: 0,0:07:04.13,0:07:06.03,ENG,,0,0,0,,of distinguishing between different shapes
-Dialogue: 0,0:07:04.13,0:07:06.03,CHN,,0,0,0,,
+Dialogue: 0,0:07:04.13,0:07:06.03,CHN,,0,0,0,,比如长方形和三角形
 Dialogue: 0,0:07:06.03,0:07:09.22,ENG,,0,0,0,,like rectangles and triangles, or between different letters.
-Dialogue: 0,0:07:06.03,0:07:09.22,CHN,,0,0,0,,
+Dialogue: 0,0:07:06.03,0:07:09.22,CHN,,0,0,0,,它也可以区分不同的字母
 Dialogue: 0,0:07:09.22,0:07:10.65,ENG,,0,0,0,,And according to Rosenblatt,
-Dialogue: 0,0:07:09.22,0:07:10.65,CHN,,0,0,0,,
+Dialogue: 0,0:07:09.22,0:07:10.65,CHN,,0,0,0,,据罗森布拉特所说
 Dialogue: 0,0:07:10.65,0:07:14.02,ENG,,0,0,0,,it could even tell the difference between cats and dogs.
-Dialogue: 0,0:07:10.65,0:07:14.02,CHN,,0,0,0,,
+Dialogue: 0,0:07:10.65,0:07:14.02,CHN,,0,0,0,,它甚至还能区分猫和狗
 Dialogue: 0,0:07:14.02,0:07:15.91,ENG,,0,0,0,,He said the machine was capable
-Dialogue: 0,0:07:14.02,0:07:15.91,CHN,,0,0,0,,
+Dialogue: 0,0:07:14.02,0:07:15.91,CHN,,0,0,0,,他说感知机能够提出
 Dialogue: 0,0:07:15.91,0:07:18.94,ENG,,0,0,0,,of what amounts to original thought,
-Dialogue: 0,0:07:15.91,0:07:18.94,CHN,,0,0,0,,
+Dialogue: 0,0:07:15.91,0:07:18.94,CHN,,0,0,0,,相当于是原创的想法
 Dialogue: 0,0:07:18.94,0:07:20.88,ENG,,0,0,0,,and the media lapped it up.
-Dialogue: 0,0:07:18.94,0:07:20.88,CHN,,0,0,0,,
+Dialogue: 0,0:07:18.94,0:07:20.88,CHN,,0,0,0,,媒体也大力赞扬感知机
 Dialogue: 0,0:07:20.88,0:07:22.88,ENG,,0,0,0,,The "New York Times" called the perceptron
-Dialogue: 0,0:07:20.88,0:07:22.88,CHN,,0,0,0,,
+Dialogue: 0,0:07:20.88,0:07:22.88,CHN,,0,0,0,,纽约时报是这样评价感知机的：
 Dialogue: 0,0:07:22.88,0:07:25.28,ENG,,0,0,0,,"the embryo of an electronic computer
-Dialogue: 0,0:07:22.88,0:07:25.28,CHN,,0,0,0,,
+Dialogue: 0,0:07:22.88,0:07:25.28,CHN,,0,0,0,,它是电子计算机的雏形
 Dialogue: 0,0:07:25.28,0:07:28.35,ENG,,0,0,0,,that the Navy expects will be able to walk, talk,
-Dialogue: 0,0:07:25.28,0:07:28.35,CHN,,0,0,0,,
+Dialogue: 0,0:07:25.28,0:07:28.35,CHN,,0,0,0,,海军希望它未来能走路 能说话
 Dialogue: 0,0:07:28.35,0:07:30.89,ENG,,0,0,0,,see, write, reproduce itself,
-Dialogue: 0,0:07:28.35,0:07:30.89,CHN,,0,0,0,,
+Dialogue: 0,0:07:28.35,0:07:30.89,CHN,,0,0,0,,能看东西 能写字 能自我复制
 Dialogue: 0,0:07:30.89,0:07:33.64,ENG,,0,0,0,,and be conscious of its existence."
-Dialogue: 0,0:07:30.89,0:07:33.64,CHN,,0,0,0,,
+Dialogue: 0,0:07:30.89,0:07:33.64,CHN,,0,0,0,,甚至能意识到自己的存在
 Dialogue: 0,0:07:34.75,0:07:36.95,ENG,,0,0,0,,- After training on lots of examples,
-Dialogue: 0,0:07:34.75,0:07:36.95,CHN,,0,0,0,,
+Dialogue: 0,0:07:34.75,0:07:36.95,CHN,,0,0,0,,- 在经过大量训练后
 Dialogue: 0,0:07:36.95,0:07:39.53,ENG,,0,0,0,,it's given new faces it has never seen,
-Dialogue: 0,0:07:36.95,0:07:39.53,CHN,,0,0,0,,
+Dialogue: 0,0:07:36.95,0:07:39.53,CHN,,0,0,0,,感知机会收到它从未见过的人脸图片
 Dialogue: 0,0:07:39.53,0:07:43.48,ENG,,0,0,0,,and is able to successfully distinguish male from female.
-Dialogue: 0,0:07:39.53,0:07:43.48,CHN,,0,0,0,,
+Dialogue: 0,0:07:39.53,0:07:43.48,CHN,,0,0,0,,并且能够正确分辨这个人是男性还是女性
 Dialogue: 0,0:07:43.48,0:07:45.02,ENG,,0,0,0,,It has learned.
-Dialogue: 0,0:07:43.48,0:07:45.02,CHN,,0,0,0,,
+Dialogue: 0,0:07:43.48,0:07:45.02,CHN,,0,0,0,,它已经学会了
 Dialogue: 0,0:07:45.02,0:07:48.73,ENG,,0,0,0,,- In reality, the perceptron was pretty limited in what it could do.
-Dialogue: 0,0:07:45.02,0:07:48.73,CHN,,0,0,0,,
+Dialogue: 0,0:07:45.02,0:07:48.73,CHN,,0,0,0,,实际上 感知机能做的事相当有限
 Dialogue: 0,0:07:48.73,0:07:52.05,ENG,,0,0,0,,It could not, in fact, tell apart dogs from cats.
-Dialogue: 0,0:07:48.73,0:07:52.05,CHN,,0,0,0,,
+Dialogue: 0,0:07:48.73,0:07:52.05,CHN,,0,0,0,,其实它并不能区分猫和狗
 Dialogue: 0,0:07:52.05,0:07:53.95,ENG,,0,0,0,,This and other critiques were raised
-Dialogue: 0,0:07:52.05,0:07:53.95,CHN,,0,0,0,,
+Dialogue: 0,0:07:52.05,0:07:53.95,CHN,,0,0,0,,1969年 麻省理工学院的巨头明斯基和帕珀特
 Dialogue: 0,0:07:53.95,0:07:58.18,ENG,,0,0,0,,in a book by MIT giants, Minsky and Papert, in 1969.
-Dialogue: 0,0:07:53.95,0:07:58.18,CHN,,0,0,0,,
+Dialogue: 0,0:07:53.95,0:07:58.18,CHN,,0,0,0,,在书中指出了这一点 并给出了其他批评意见
 Dialogue: 0,0:07:58.18,0:08:00.33,ENG,,0,0,0,,And that led to a bust period
-Dialogue: 0,0:07:58.18,0:08:00.33,CHN,,0,0,0,,
+Dialogue: 0,0:07:58.18,0:08:00.33,CHN,,0,0,0,,人工神经网络和整个人工智能
 Dialogue: 0,0:08:00.33,0:08:03.53,ENG,,0,0,0,,for artificial neural networks and AI in general.
-Dialogue: 0,0:08:00.33,0:08:03.53,CHN,,0,0,0,,
+Dialogue: 0,0:08:00.33,0:08:03.53,CHN,,0,0,0,,因此陷入了萧条期
 Dialogue: 0,0:08:03.53,0:08:06.72,ENG,,0,0,0,,It's known as the first AI winter.
-Dialogue: 0,0:08:03.53,0:08:06.72,CHN,,0,0,0,,
+Dialogue: 0,0:08:03.53,0:08:06.72,CHN,,0,0,0,,这被称为人工智能的第一个冬天
 Dialogue: 0,0:08:06.72,0:08:09.37,ENG,,0,0,0,,Rosenblatt did not survive this winter.
-Dialogue: 0,0:08:06.72,0:08:09.37,CHN,,0,0,0,,
+Dialogue: 0,0:08:06.72,0:08:09.37,CHN,,0,0,0,,罗森布拉特没能熬过这个冬天
 Dialogue: 0,0:08:09.37,0:08:12.20,ENG,,0,0,0,,He drowned while sailing in Chesapeake Bay
-Dialogue: 0,0:08:09.37,0:08:12.20,CHN,,0,0,0,,
+Dialogue: 0,0:08:09.37,0:08:12.20,CHN,,0,0,0,,43 岁生日那天
 Dialogue: 0,0:08:12.20,0:08:14.11,ENG,,0,0,0,,on his 43rd birthday.
-Dialogue: 0,0:08:12.20,0:08:14.11,CHN,,0,0,0,,
+Dialogue: 0,0:08:12.20,0:08:14.11,CHN,,0,0,0,,他在切萨皮克湾航行时溺水身亡
 Dialogue: 0,0:08:17.33,0:08:19.66,ENG,,0,0,0,,- The NAV Lab is a road-worthy truck,
 Dialogue: 0,0:08:17.33,0:08:19.66,CHN,,0,0,0,,
 Dialogue: 0,0:08:19.66,0:08:22.29,ENG,,0,0,0,,modified so that researchers or computers
