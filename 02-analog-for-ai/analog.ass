@@ -17,167 +17,167 @@ Style: CHN,MonyharOS Sans SC Medium,42,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:01.35,ENG,,0,0,0,,- For hundreds of years,
-Dialogue: 0,0:00:00.00,0:00:01.35,CHN,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:01.35,CHN,,0,0,0,,几百年来
 Dialogue: 0,0:00:01.35,0:00:05.10,ENG,,0,0,0,,analog computers were the most powerful computers on Earth,
-Dialogue: 0,0:00:01.35,0:00:05.10,CHN,,0,0,0,,
+Dialogue: 0,0:00:01.35,0:00:05.10,CHN,,0,0,0,,模拟计算机是世界上最强大的计算机
 Dialogue: 0,0:00:05.10,0:00:09.72,ENG,,0,0,0,,predicting eclipses, tides, and guiding anti-aircraft guns.
-Dialogue: 0,0:00:05.10,0:00:09.72,CHN,,0,0,0,,
+Dialogue: 0,0:00:05.10,0:00:09.72,CHN,,0,0,0,,被用来预测月食、潮汐和引导防空武器
 Dialogue: 0,0:00:09.72,0:00:12.65,ENG,,0,0,0,,Then, with the advent of solid-state transistors,
-Dialogue: 0,0:00:09.72,0:00:12.65,CHN,,0,0,0,,
+Dialogue: 0,0:00:09.72,0:00:12.65,CHN,,0,0,0,,随着固态晶体管的出现
 Dialogue: 0,0:00:12.65,0:00:14.50,ENG,,0,0,0,,digital computers took off.
-Dialogue: 0,0:00:12.65,0:00:14.50,CHN,,0,0,0,,
+Dialogue: 0,0:00:12.65,0:00:14.50,CHN,,0,0,0,,电子计算机蓬勃发展
 Dialogue: 0,0:00:14.50,0:00:18.08,ENG,,0,0,0,,Now, virtually every computer we use is digital.
-Dialogue: 0,0:00:14.50,0:00:18.08,CHN,,0,0,0,,
+Dialogue: 0,0:00:14.50,0:00:18.08,CHN,,0,0,0,,现如今，几乎所有计算机都是电子的
 Dialogue: 0,0:00:18.08,0:00:21.73,ENG,,0,0,0,,But today, a perfect storm of factors is setting the scene
-Dialogue: 0,0:00:18.08,0:00:21.73,CHN,,0,0,0,,
+Dialogue: 0,0:00:18.08,0:00:21.73,CHN,,0,0,0,,但是现在又有一波新趋势
 Dialogue: 0,0:00:21.73,0:00:24.90,ENG,,0,0,0,,for a resurgence of analog technology.
-Dialogue: 0,0:00:21.73,0:00:24.90,CHN,,0,0,0,,
+Dialogue: 0,0:00:21.73,0:00:24.90,CHN,,0,0,0,,推动着模拟技术的复苏
 Dialogue: 0,0:00:24.90,0:00:27.53,ENG,,0,0,0,,This is an analog computer,
-Dialogue: 0,0:00:24.90,0:00:27.53,CHN,,0,0,0,,
+Dialogue: 0,0:00:24.90,0:00:27.53,CHN,,0,0,0,,这是一台模拟计算机
 Dialogue: 0,0:00:27.53,0:00:30.43,ENG,,0,0,0,,and by connecting these wires in particular ways,
-Dialogue: 0,0:00:27.53,0:00:30.43,CHN,,0,0,0,,
+Dialogue: 0,0:00:27.53,0:00:30.43,CHN,,0,0,0,,我可以通过特定的接线方式
 Dialogue: 0,0:00:30.43,0:00:32.67,ENG,,0,0,0,,I can program it to solve a whole range
-Dialogue: 0,0:00:30.43,0:00:32.67,CHN,,0,0,0,,
+Dialogue: 0,0:00:30.43,0:00:32.67,CHN,,0,0,0,,给它编写程序
 Dialogue: 0,0:00:32.67,0:00:34.87,ENG,,0,0,0,,of differential equations.
-Dialogue: 0,0:00:32.67,0:00:34.87,CHN,,0,0,0,,
+Dialogue: 0,0:00:32.67,0:00:34.87,CHN,,0,0,0,,让它解不同的微分方程
 Dialogue: 0,0:00:34.87,0:00:37.74,ENG,,0,0,0,,For example, this setup allows me to simulate
-Dialogue: 0,0:00:34.87,0:00:37.74,CHN,,0,0,0,,
+Dialogue: 0,0:00:34.87,0:00:37.74,CHN,,0,0,0,,例如 我这样接线
 Dialogue: 0,0:00:37.74,0:00:40.80,ENG,,0,0,0,,a damped mass oscillating on a spring.
-Dialogue: 0,0:00:37.74,0:00:40.80,CHN,,0,0,0,,
+Dialogue: 0,0:00:37.74,0:00:40.80,CHN,,0,0,0,,就可以模拟一个带阻尼的重物在弹簧上振动
 Dialogue: 0,0:00:40.80,0:00:43.06,ENG,,0,0,0,,So on the oscilloscope you can actually see
-Dialogue: 0,0:00:40.80,0:00:43.06,CHN,,0,0,0,,
+Dialogue: 0,0:00:40.80,0:00:43.06,CHN,,0,0,0,,然后在示波器上
 Dialogue: 0,0:00:43.06,0:00:45.75,ENG,,0,0,0,,the position of the mass over time.
-Dialogue: 0,0:00:43.06,0:00:45.75,CHN,,0,0,0,,
+Dialogue: 0,0:00:43.06,0:00:45.75,CHN,,0,0,0,,你就可以看到重物的位移随时间变化的图像
 Dialogue: 0,0:00:45.75,0:00:48.94,ENG,,0,0,0,,And I can vary the damping,
-Dialogue: 0,0:00:45.75,0:00:48.94,CHN,,0,0,0,,
+Dialogue: 0,0:00:45.75,0:00:48.94,CHN,,0,0,0,,我还可以改变阻尼
 Dialogue: 0,0:00:48.94,0:00:51.90,ENG,,0,0,0,,or the spring constant,
-Dialogue: 0,0:00:48.94,0:00:51.90,CHN,,0,0,0,,
+Dialogue: 0,0:00:48.94,0:00:51.90,CHN,,0,0,0,,或者弹簧的弹力系数
 Dialogue: 0,0:00:51.90,0:00:53.81,ENG,,0,0,0,,or the mass, and we can see
-Dialogue: 0,0:00:51.90,0:00:53.81,CHN,,0,0,0,,
+Dialogue: 0,0:00:51.90,0:00:53.81,CHN,,0,0,0,,又或者重物的质量
 Dialogue: 0,0:00:53.81,0:00:57.74,ENG,,0,0,0,,how the amplitude and duration of the oscillations change.
-Dialogue: 0,0:00:53.81,0:00:57.74,CHN,,0,0,0,,
+Dialogue: 0,0:00:53.81,0:00:57.74,CHN,,0,0,0,,然后我们就可以看到振幅和振动时长如何改变
 Dialogue: 0,0:00:57.74,0:01:00.06,ENG,,0,0,0,,Now what makes this an analog computer
-Dialogue: 0,0:00:57.74,0:01:00.06,CHN,,0,0,0,,
+Dialogue: 0,0:00:57.74,0:01:00.06,CHN,,0,0,0,,而它之所以被称作模拟计算机
 Dialogue: 0,0:01:00.06,0:01:03.44,ENG,,0,0,0,,is that there are no zeros and ones in here.
-Dialogue: 0,0:01:00.06,0:01:03.44,CHN,,0,0,0,,
+Dialogue: 0,0:01:00.06,0:01:03.44,CHN,,0,0,0,,是因为在它的概念里没有 0 和 1
 Dialogue: 0,0:01:03.44,0:01:06.81,ENG,,0,0,0,,Instead, there's actually a voltage that oscillates
-Dialogue: 0,0:01:03.44,0:01:06.81,CHN,,0,0,0,,
+Dialogue: 0,0:01:03.44,0:01:06.81,CHN,,0,0,0,,而是真正的有一个电压
 Dialogue: 0,0:01:06.81,0:01:10.26,ENG,,0,0,0,,up and down exactly like a mass on a spring.
-Dialogue: 0,0:01:06.81,0:01:10.26,CHN,,0,0,0,,
+Dialogue: 0,0:01:06.81,0:01:10.26,CHN,,0,0,0,,像重物在弹簧上一样上下振动
 Dialogue: 0,0:01:10.26,0:01:14.33,ENG,,0,0,0,,The electrical circuitry is an analog for the physical problem,
-Dialogue: 0,0:01:10.26,0:01:14.33,CHN,,0,0,0,,
+Dialogue: 0,0:01:10.26,0:01:14.33,CHN,,0,0,0,,这个电子电路模拟了这个物理问题
 Dialogue: 0,0:01:14.33,0:01:16.66,ENG,,0,0,0,,it just takes place much faster.
-Dialogue: 0,0:01:14.33,0:01:16.66,CHN,,0,0,0,,
+Dialogue: 0,0:01:14.33,0:01:16.66,CHN,,0,0,0,,使得运算快得多
 Dialogue: 0,0:01:16.66,0:01:19.12,ENG,,0,0,0,,Now, if I change the electrical connections,
-Dialogue: 0,0:01:16.66,0:01:19.12,CHN,,0,0,0,,
+Dialogue: 0,0:01:16.66,0:01:19.12,CHN,,0,0,0,,现在如果我换一组接线
 Dialogue: 0,0:01:19.12,0:01:20.30,ENG,,0,0,0,,I can program this computer
-Dialogue: 0,0:01:19.12,0:01:20.30,CHN,,0,0,0,,
+Dialogue: 0,0:01:19.12,0:01:20.30,CHN,,0,0,0,,我就可以把它编程成
 Dialogue: 0,0:01:20.30,0:01:22.27,ENG,,0,0,0,,to solve other differential equations,
-Dialogue: 0,0:01:20.30,0:01:22.27,CHN,,0,0,0,,
+Dialogue: 0,0:01:20.30,0:01:22.27,CHN,,0,0,0,,算其他的微分方程
 Dialogue: 0,0:01:22.27,0:01:24.01,ENG,,0,0,0,,like the Lorenz system,
-Dialogue: 0,0:01:22.27,0:01:24.01,CHN,,0,0,0,,
+Dialogue: 0,0:01:22.27,0:01:24.01,CHN,,0,0,0,,例如大气对流的基本模型
 Dialogue: 0,0:01:24.01,0:01:27.29,ENG,,0,0,0,,which is a basic model of convection in the atmosphere.
-Dialogue: 0,0:01:24.01,0:01:27.29,CHN,,0,0,0,,
+Dialogue: 0,0:01:24.01,0:01:27.29,CHN,,0,0,0,,称作洛伦茨振子
 Dialogue: 0,0:01:27.29,0:01:29.05,ENG,,0,0,0,,Now the Lorenz system is famous because
-Dialogue: 0,0:01:27.29,0:01:29.05,CHN,,0,0,0,,
 Dialogue: 0,0:01:29.05,0:01:32.27,ENG,,0,0,0,,it was one of the first discovered examples of chaos.
+Dialogue: 0,0:01:27.29,0:01:32.27,CHN,,0,0,0,,它作为最早发现的混沌系统而闻名
 Dialogue: 0,0:01:29.05,0:01:32.27,CHN,,0,0,0,,
 Dialogue: 0,0:01:32.27,0:01:35.52,ENG,,0,0,0,,And here, you can see the Lorenz attractor
-Dialogue: 0,0:01:32.27,0:01:35.52,CHN,,0,0,0,,
+Dialogue: 0,0:01:32.27,0:01:35.52,CHN,,0,0,0,,在屏幕上 你可以看到
 Dialogue: 0,0:01:35.52,0:01:38.40,ENG,,0,0,0,,with its beautiful butterfly shape.
-Dialogue: 0,0:01:35.52,0:01:38.40,CHN,,0,0,0,,
+Dialogue: 0,0:01:35.52,0:01:38.40,CHN,,0,0,0,,洛伦茨吸引子美妙的蝴蝶图样
 Dialogue: 0,0:01:38.40,0:01:39.90,ENG,,0,0,0,,And on this analog computer,
-Dialogue: 0,0:01:38.40,0:01:39.90,CHN,,0,0,0,,
+Dialogue: 0,0:01:38.40,0:01:39.90,CHN,,0,0,0,,在这台模拟计算机上
 Dialogue: 0,0:01:39.90,0:01:42.36,ENG,,0,0,0,,I can change the parameters
-Dialogue: 0,0:01:39.90,0:01:42.36,CHN,,0,0,0,,
+Dialogue: 0,0:01:39.90,0:01:42.36,CHN,,0,0,0,,我可以实时地看到
 Dialogue: 0,0:01:42.36,0:01:45.56,ENG,,0,0,0,,and see their effects in real time.
-Dialogue: 0,0:01:42.36,0:01:45.56,CHN,,0,0,0,,
+Dialogue: 0,0:01:42.36,0:01:45.56,CHN,,0,0,0,,我改变参数的效果
 Dialogue: 0,0:01:46.41,0:01:47.98,ENG,,0,0,0,,So these examples illustrate some
-Dialogue: 0,0:01:46.41,0:01:47.98,CHN,,0,0,0,,
+Dialogue: 0,0:01:46.41,0:01:47.98,CHN,,0,0,0,,这几个例子展示了
 Dialogue: 0,0:01:47.98,0:01:50.65,ENG,,0,0,0,,of the advantages of analog computers.
-Dialogue: 0,0:01:47.98,0:01:50.65,CHN,,0,0,0,,
+Dialogue: 0,0:01:47.98,0:01:50.65,CHN,,0,0,0,,模拟计算机的优势
 Dialogue: 0,0:01:50.65,0:01:53.26,ENG,,0,0,0,,They are incredibly powerful computing devices,
-Dialogue: 0,0:01:50.65,0:01:53.26,CHN,,0,0,0,,
+Dialogue: 0,0:01:50.65,0:01:53.26,CHN,,0,0,0,,它十分强大
 Dialogue: 0,0:01:53.26,0:01:56.58,ENG,,0,0,0,,and they can complete a lot of computations fast.
-Dialogue: 0,0:01:53.26,0:01:56.58,CHN,,0,0,0,,
+Dialogue: 0,0:01:53.26,0:01:56.58,CHN,,0,0,0,,运行得特别快
 Dialogue: 0,0:01:56.58,0:01:59.13,ENG,,0,0,0,,Plus, they don't take much power to do it.
-Dialogue: 0,0:01:56.58,0:01:59.13,CHN,,0,0,0,,
+Dialogue: 0,0:01:56.58,0:01:59.13,CHN,,0,0,0,,而且 它还非常省电
 Dialogue: 0,0:02:01.52,0:02:02.90,ENG,,0,0,0,,With a digital computer,
-Dialogue: 0,0:02:01.52,0:02:02.90,CHN,,0,0,0,,
+Dialogue: 0,0:02:01.52,0:02:02.90,CHN,,0,0,0,,在电子计算机里
 Dialogue: 0,0:02:02.90,0:02:05.60,ENG,,0,0,0,,if you wanna add two eight-bit numbers,
-Dialogue: 0,0:02:02.90,0:02:05.60,CHN,,0,0,0,,
+Dialogue: 0,0:02:02.90,0:02:05.60,CHN,,0,0,0,,把两个八位整数相加 *二进制八位
 Dialogue: 0,0:02:05.60,0:02:08.12,ENG,,0,0,0,,you need around 50 transistors,
-Dialogue: 0,0:02:05.60,0:02:08.12,CHN,,0,0,0,,
+Dialogue: 0,0:02:05.60,0:02:08.12,CHN,,0,0,0,,需要大概 50 个晶体管
 Dialogue: 0,0:02:08.12,0:02:09.76,ENG,,0,0,0,,whereas with an analog computer,
-Dialogue: 0,0:02:08.12,0:02:09.76,CHN,,0,0,0,,
+Dialogue: 0,0:02:08.12,0:02:09.76,CHN,,0,0,0,,而在模拟计算机里
 Dialogue: 0,0:02:09.76,0:02:12.24,ENG,,0,0,0,,you can add two currents,
-Dialogue: 0,0:02:09.76,0:02:12.24,CHN,,0,0,0,,
+Dialogue: 0,0:02:09.76,0:02:12.24,CHN,,0,0,0,,只要连两根线
 Dialogue: 0,0:02:12.24,0:02:15.76,ENG,,0,0,0,,just by connecting two wires.
-Dialogue: 0,0:02:12.24,0:02:15.76,CHN,,0,0,0,,
+Dialogue: 0,0:02:12.24,0:02:15.76,CHN,,0,0,0,,就能把两个电流加起来了
 Dialogue: 0,0:02:15.76,0:02:18.38,ENG,,0,0,0,,With a digital computer to multiply two numbers,
-Dialogue: 0,0:02:15.76,0:02:18.38,CHN,,0,0,0,,
+Dialogue: 0,0:02:15.76,0:02:18.38,CHN,,0,0,0,,而用电子计算机计算两个数的乘积
 Dialogue: 0,0:02:18.38,0:02:20.97,ENG,,0,0,0,,you need on the order of 1,000 transistors
-Dialogue: 0,0:02:18.38,0:02:20.97,CHN,,0,0,0,,
+Dialogue: 0,0:02:18.38,0:02:20.97,CHN,,0,0,0,,需要数以千计的晶体管
 Dialogue: 0,0:02:20.97,0:02:23.60,ENG,,0,0,0,,all switching zeros and ones,
-Dialogue: 0,0:02:20.97,0:02:23.60,CHN,,0,0,0,,
+Dialogue: 0,0:02:20.97,0:02:23.60,CHN,,0,0,0,,在 0 和 1 之间反复横跳
 Dialogue: 0,0:02:23.60,0:02:24.96,ENG,,0,0,0,,whereas with an analog computer,
-Dialogue: 0,0:02:23.60,0:02:24.96,CHN,,0,0,0,,
+Dialogue: 0,0:02:23.60,0:02:24.96,CHN,,0,0,0,,而在模拟计算机里
 Dialogue: 0,0:02:24.96,0:02:28.48,ENG,,0,0,0,,you can pass a current through a resistor,
-Dialogue: 0,0:02:24.96,0:02:28.48,CHN,,0,0,0,,
+Dialogue: 0,0:02:24.96,0:02:28.48,CHN,,0,0,0,,则只需要让电流流过一个电阻
 Dialogue: 0,0:02:28.48,0:02:31.85,ENG,,0,0,0,,and then the voltage across this resistor
-Dialogue: 0,0:02:28.48,0:02:31.85,CHN,,0,0,0,,
+Dialogue: 0,0:02:28.48,0:02:31.85,CHN,,0,0,0,,这样流过这个电阻两端的电压
 Dialogue: 0,0:02:31.85,0:02:34.29,ENG,,0,0,0,,will be I times R.
-Dialogue: 0,0:02:31.85,0:02:34.29,CHN,,0,0,0,,
+Dialogue: 0,0:02:31.85,0:02:34.29,CHN,,0,0,0,,就是 I*R 了
 Dialogue: 0,0:02:34.29,0:02:35.70,ENG,,0,0,0,,So effectively,
-Dialogue: 0,0:02:34.29,0:02:35.70,CHN,,0,0,0,,
+Dialogue: 0,0:02:34.29,0:02:35.70,CHN,,0,0,0,,这就等效于
 Dialogue: 0,0:02:35.70,0:02:38.88,ENG,,0,0,0,,you have multiplied two numbers together.
-Dialogue: 0,0:02:35.70,0:02:38.88,CHN,,0,0,0,,
+Dialogue: 0,0:02:35.70,0:02:38.88,CHN,,0,0,0,,你把两个数值做了乘法
 Dialogue: 0,0:02:40.01,0:02:42.93,ENG,,0,0,0,,But analog computers also have their drawbacks.
-Dialogue: 0,0:02:40.01,0:02:42.93,CHN,,0,0,0,,
+Dialogue: 0,0:02:40.01,0:02:42.93,CHN,,0,0,0,,但是模拟计算机也有缺点
 Dialogue: 0,0:02:42.93,0:02:43.76,ENG,,0,0,0,,For one thing,
-Dialogue: 0,0:02:42.93,0:02:43.76,CHN,,0,0,0,,
+Dialogue: 0,0:02:42.93,0:02:43.76,CHN,,0,0,0,,首先
 Dialogue: 0,0:02:43.76,0:02:46.43,ENG,,0,0,0,,they are not general-purpose computing devices.
-Dialogue: 0,0:02:43.76,0:02:46.43,CHN,,0,0,0,,
+Dialogue: 0,0:02:43.76,0:02:46.43,CHN,,0,0,0,,它不是通用计算设备
 Dialogue: 0,0:02:46.43,0:02:49.43,ENG,,0,0,0,,I mean, you're not gonna run Microsoft Word on this thing.
-Dialogue: 0,0:02:46.43,0:02:49.43,CHN,,0,0,0,,
+Dialogue: 0,0:02:46.43,0:02:49.43,CHN,,0,0,0,,在上面没法运行 Word
 Dialogue: 0,0:02:49.43,0:02:52.99,ENG,,0,0,0,,And also, since the inputs and outputs are continuous,
-Dialogue: 0,0:02:49.43,0:02:52.99,CHN,,0,0,0,,
+Dialogue: 0,0:02:49.43,0:02:52.99,CHN,,0,0,0,,并且由于它的输入是连续的
 Dialogue: 0,0:02:52.99,0:02:55.92,ENG,,0,0,0,,I can't input exact values.
-Dialogue: 0,0:02:52.99,0:02:55.92,CHN,,0,0,0,,
+Dialogue: 0,0:02:52.99,0:02:55.92,CHN,,0,0,0,,我并不能输入准确值
 Dialogue: 0,0:02:55.92,0:02:58.98,ENG,,0,0,0,,So if I try to repeat the same calculation,
-Dialogue: 0,0:02:55.92,0:02:58.98,CHN,,0,0,0,,
+Dialogue: 0,0:02:55.92,0:02:58.98,CHN,,0,0,0,,因此重复相同的运算
 Dialogue: 0,0:02:58.98,0:03:01.87,ENG,,0,0,0,,I'm never going to get the exact same answer.
-Dialogue: 0,0:02:58.98,0:03:01.87,CHN,,0,0,0,,
+Dialogue: 0,0:02:58.98,0:03:01.87,CHN,,0,0,0,,并不能得到相同的结果
 Dialogue: 0,0:03:01.87,0:03:04.66,ENG,,0,0,0,,Plus, think about manufacturing analog computers.
-Dialogue: 0,0:03:01.87,0:03:04.66,CHN,,0,0,0,,
+Dialogue: 0,0:03:01.87,0:03:04.66,CHN,,0,0,0,,除此之外
 Dialogue: 0,0:03:04.66,0:03:06.30,ENG,,0,0,0,,There's always gonna be some variation
-Dialogue: 0,0:03:04.66,0:03:06.30,CHN,,0,0,0,,
+Dialogue: 0,0:03:04.66,0:03:06.30,CHN,,0,0,0,,在模拟计算机的生产过程中
 Dialogue: 0,0:03:06.30,0:03:08.20,ENG,,0,0,0,,in the exact value of components,
-Dialogue: 0,0:03:06.30,0:03:08.20,CHN,,0,0,0,,
+Dialogue: 0,0:03:06.30,0:03:08.20,CHN,,0,0,0,,诸如电阻、电容的元件
 Dialogue: 0,0:03:08.20,0:03:10.37,ENG,,0,0,0,,like resistors or capacitors.
-Dialogue: 0,0:03:08.20,0:03:10.37,CHN,,0,0,0,,
+Dialogue: 0,0:03:08.20,0:03:10.37,CHN,,0,0,0,,参数也会有所浮动
 Dialogue: 0,0:03:10.37,0:03:12.26,ENG,,0,0,0,,So as a general rule of thumb,
-Dialogue: 0,0:03:10.37,0:03:12.26,CHN,,0,0,0,,
+Dialogue: 0,0:03:10.37,0:03:12.26,CHN,,0,0,0,,因此 一般来说
 Dialogue: 0,0:03:12.26,0:03:15.54,ENG,,0,0,0,,you can expect about a 1% error.
-Dialogue: 0,0:03:12.26,0:03:15.54,CHN,,0,0,0,,
+Dialogue: 0,0:03:12.26,0:03:15.54,CHN,,0,0,0,,它大概会有 1% 的误差
 Dialogue: 0,0:03:15.54,0:03:17.34,ENG,,0,0,0,,So when you think of analog computers,
-Dialogue: 0,0:03:15.54,0:03:17.34,CHN,,0,0,0,,
+Dialogue: 0,0:03:15.54,0:03:17.34,CHN,,0,0,0,,因此总结一下
 Dialogue: 0,0:03:17.34,0:03:20.82,ENG,,0,0,0,,you can think powerful, fast, and energy-efficient,
-Dialogue: 0,0:03:17.34,0:03:20.82,CHN,,0,0,0,,
+Dialogue: 0,0:03:17.34,0:03:20.82,CHN,,0,0,0,,模拟计算机很强大 跑得很快 很省电
 Dialogue: 0,0:03:20.82,0:03:25.73,ENG,,0,0,0,,but also single-purpose, non-repeatable, and inexact.
-Dialogue: 0,0:03:20.82,0:03:25.73,CHN,,0,0,0,,
+Dialogue: 0,0:03:20.82,0:03:25.73,CHN,,0,0,0,,但也有着用途单一、不可重复、不精确的缺点
 Dialogue: 0,0:03:25.73,0:03:28.14,ENG,,0,0,0,,And if those sound like deal-breakers,
-Dialogue: 0,0:03:25.73,0:03:28.14,CHN,,0,0,0,,
+Dialogue: 0,0:03:25.73,0:03:28.14,CHN,,0,0,0,,如果这些东西听上去很差劲
 Dialogue: 0,0:03:28.14,0:03:30.01,ENG,,0,0,0,,it's because they probably are.
-Dialogue: 0,0:03:28.14,0:03:30.01,CHN,,0,0,0,,
+Dialogue: 0,0:03:28.14,0:03:30.01,CHN,,0,0,0,,那么你是对的
 Dialogue: 0,0:03:30.01,0:03:31.85,ENG,,0,0,0,,I think these are the major reasons
-Dialogue: 0,0:03:30.01,0:03:31.85,CHN,,0,0,0,,
+Dialogue: 0,0:03:30.01,0:03:31.85,CHN,,0,0,0,,我认为以上这些
 Dialogue: 0,0:03:31.85,0:03:33.61,ENG,,0,0,0,,why analog computers fell out of favor
-Dialogue: 0,0:03:31.85,0:03:33.61,CHN,,0,0,0,,
 Dialogue: 0,0:03:33.61,0:03:36.90,ENG,,0,0,0,,as soon as digital computers became viable.
+Dialogue: 0,0:03:31.85,0:03:36.90,CHN,,0,0,0,,是电子计算机得以取代模拟计算机的原因
 Dialogue: 0,0:03:33.61,0:03:36.90,CHN,,0,0,0,,
 Dialogue: 0,0:03:36.90,0:03:41.31,ENG,,0,0,0,,Now, here's why analog computers may be making a comeback.
-Dialogue: 0,0:03:36.90,0:03:41.31,CHN,,0,0,0,,
+Dialogue: 0,0:03:36.90,0:03:41.31,CHN,,0,0,0,,现在我们来说说为什么模拟计算机可能重获青睐
 Dialogue: 0,0:03:43.80,0:03:46.50,ENG,,0,0,0,,It all starts with artificial intelligence.
 Dialogue: 0,0:03:43.80,0:03:46.50,CHN,,0,0,0,,这一切都源于人工智能的出现
 Dialogue: 0,0:03:46.50,0:03:50.04,ENG,,0,0,0,,- A machine has been programmed to see and to move objects.
