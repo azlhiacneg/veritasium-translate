@@ -700,221 +700,221 @@ Dialogue: 0,0:14:52.81,0:14:54.87,CHN,,0,0,0,,
 Dialogue: 0,0:14:54.87,0:14:57.37,ENG,,0,0,0,,or conditions can be tolerated.
 Dialogue: 0,0:14:54.87,0:14:57.37,CHN,,0,0,0,,
 Dialogue: 0,0:14:58.81,0:15:01.37,ENG,,0,0,0,,I went to an analog computing startup in Texas,
-Dialogue: 0,0:14:58.81,0:15:01.37,CHN,,0,0,0,,
+Dialogue: 0,0:14:58.81,0:15:01.37,CHN,,0,0,0,,我造访了德州的一家初创公司
 Dialogue: 0,0:15:01.37,0:15:03.37,ENG,,0,0,0,,called Mythic AI.
-Dialogue: 0,0:15:01.37,0:15:03.37,CHN,,0,0,0,,
+Dialogue: 0,0:15:01.37,0:15:03.37,CHN,,0,0,0,, Mythic AI （迷思智能？）
 Dialogue: 0,0:15:03.37,0:15:06.82,ENG,,0,0,0,,Here, they're creating analog chips to run neural networks.
-Dialogue: 0,0:15:03.37,0:15:06.82,CHN,,0,0,0,,
+Dialogue: 0,0:15:03.37,0:15:06.82,CHN,,0,0,0,,他们在这里创制模拟芯片以运行神经网络
 Dialogue: 0,0:15:06.82,0:15:09.92,ENG,,0,0,0,,And they demonstrated several AI algorithms for me.
-Dialogue: 0,0:15:06.82,0:15:09.92,CHN,,0,0,0,,
+Dialogue: 0,0:15:06.82,0:15:09.92,CHN,,0,0,0,,并且为我展示了几项人工智能算法
 Dialogue: 0,0:15:10.98,0:15:11.81,ENG,,0,0,0,,- Oh, there you go.
-Dialogue: 0,0:15:10.98,0:15:11.81,CHN,,0,0,0,,
+Dialogue: 0,0:15:10.98,0:15:11.81,CHN,,0,0,0,,哦 快看
 Dialogue: 0,0:15:11.81,0:15:13.29,ENG,,0,0,0,,See, it's getting you.
-Dialogue: 0,0:15:11.81,0:15:13.29,CHN,,0,0,0,,
+Dialogue: 0,0:15:11.81,0:15:13.29,CHN,,0,0,0,,它认出你了
 Dialogue: 0,0:15:13.29,0:15:14.77,ENG,,0,0,0,,Yeah. - That's fascinating.
-Dialogue: 0,0:15:13.29,0:15:14.77,CHN,,0,0,0,,
-Dialogue: 0,0:15:14.77,0:15:17.63,ENG,,0,0,0,,- The biggest use case is augmented in virtual reality.
-Dialogue: 0,0:15:14.77,0:15:17.63,CHN,,0,0,0,,
+Dialogue: 0,0:15:13.29,0:15:14.77,CHN,,0,0,0,,是的 - 这超棒的
+Dialogue: 0,0:15:14.77,0:15:17.63,ENG,,0,0,0,,- The biggest use case is augmented and virtual reality.
+Dialogue: 0,0:15:14.77,0:15:17.63,CHN,,0,0,0,,它主要应用在增强现实和虚拟现实中
 Dialogue: 0,0:15:17.63,0:15:19.15,ENG,,0,0,0,,If your friend is in a different,
-Dialogue: 0,0:15:17.63,0:15:19.15,CHN,,0,0,0,,
+Dialogue: 0,0:15:17.63,0:15:19.15,CHN,,0,0,0,,如果你的朋友们天各一方
 Dialogue: 0,0:15:19.15,0:15:20.71,ENG,,0,0,0,,they're at their house and you're at your house,
-Dialogue: 0,0:15:19.15,0:15:20.71,CHN,,0,0,0,,
+Dialogue: 0,0:15:19.15,0:15:20.71,CHN,,0,0,0,,他们和你分别在各自家中
 Dialogue: 0,0:15:20.71,0:15:24.12,ENG,,0,0,0,,you can actually render each other in the virtual world.
-Dialogue: 0,0:15:20.71,0:15:24.12,CHN,,0,0,0,,
+Dialogue: 0,0:15:20.71,0:15:24.12,CHN,,0,0,0,,你们要能在虚拟世界中渲染出对方的样子
 Dialogue: 0,0:15:24.12,0:15:27.28,ENG,,0,0,0,,So it needs to really quickly capture your pose,
-Dialogue: 0,0:15:24.12,0:15:27.28,CHN,,0,0,0,,
+Dialogue: 0,0:15:24.12,0:15:27.28,CHN,,0,0,0,,这就需要高效的动作捕捉
 Dialogue: 0,0:15:27.28,0:15:29.35,ENG,,0,0,0,,and then render it in the VR world.
-Dialogue: 0,0:15:27.28,0:15:29.35,CHN,,0,0,0,,
+Dialogue: 0,0:15:27.28,0:15:29.35,CHN,,0,0,0,,以及在 VR 世界中的渲染
 Dialogue: 0,0:15:29.35,0:15:31.33,ENG,,0,0,0,,- So, hang on, is this for the metaverse thing?
-Dialogue: 0,0:15:29.35,0:15:31.33,CHN,,0,0,0,,
+Dialogue: 0,0:15:29.35,0:15:31.33,CHN,,0,0,0,,所以 等等 这是给元宇宙准备的吗
 Dialogue: 0,0:15:31.33,0:15:35.64,ENG,,0,0,0,,- Yeah, this is a very metaverse application.
-Dialogue: 0,0:15:31.33,0:15:35.64,CHN,,0,0,0,,
+Dialogue: 0,0:15:31.33,0:15:35.64,CHN,,0,0,0,,是的 这是个很有元宇宙范的应用
 Dialogue: 0,0:15:35.64,0:15:38.63,ENG,,0,0,0,,This is depth estimation from just a single webcam.
-Dialogue: 0,0:15:35.64,0:15:38.63,CHN,,0,0,0,,
+Dialogue: 0,0:15:35.64,0:15:38.63,CHN,,0,0,0,,这是基于单摄像头的景深估计
 Dialogue: 0,0:15:38.63,0:15:39.95,ENG,,0,0,0,,It's just taking this scene,
-Dialogue: 0,0:15:38.63,0:15:39.95,CHN,,0,0,0,,
+Dialogue: 0,0:15:38.63,0:15:39.95,CHN,,0,0,0,,它只是拍摄了这幅画面
 Dialogue: 0,0:15:39.95,0:15:41.36,ENG,,0,0,0,,and then it's doing a heat map.
-Dialogue: 0,0:15:39.95,0:15:41.36,CHN,,0,0,0,,
+Dialogue: 0,0:15:39.95,0:15:41.36,CHN,,0,0,0,,然后把它转换成热力图
 Dialogue: 0,0:15:41.36,0:15:43.75,ENG,,0,0,0,,So if it's bright, it means it's close.
-Dialogue: 0,0:15:41.36,0:15:43.75,CHN,,0,0,0,,
-Dialogue: 0,0:15:43.75,0:15:45.98,ENG,,0,0,0,,And if it's far away, it makes it black.
-Dialogue: 0,0:15:43.75,0:15:45.98,CHN,,0,0,0,,
+Dialogue: 0,0:15:41.36,0:15:43.75,CHN,,0,0,0,,图上亮的地方意味着更靠近一些
+Dialogue: 0,0:15:43.75,0:15:45.98,ENG,,0,0,0,,And if it's far away, it makes it like black.
+Dialogue: 0,0:15:43.75,0:15:45.98,CHN,,0,0,0,,如果离远一些 颜色就会变深
 Dialogue: 0,0:15:45.98,0:15:48.85,ENG,,0,0,0,,- Now all these algorithms can be run on digital computers,
-Dialogue: 0,0:15:45.98,0:15:48.85,CHN,,0,0,0,,
+Dialogue: 0,0:15:45.98,0:15:48.85,CHN,,0,0,0,,- 目前以上所有算法都能在数字计算机上运行
 Dialogue: 0,0:15:48.85,0:15:51.01,ENG,,0,0,0,,but here, the matrix multiplication
-Dialogue: 0,0:15:48.85,0:15:51.01,CHN,,0,0,0,,
+Dialogue: 0,0:15:48.85,0:15:51.01,CHN,,0,0,0,,但是在这里 矩阵乘法
 Dialogue: 0,0:15:51.01,0:15:54.42,ENG,,0,0,0,,is actually taking place in the analog domain.
-Dialogue: 0,0:15:51.01,0:15:54.42,CHN,,0,0,0,,
+Dialogue: 0,0:15:51.01,0:15:54.42,CHN,,0,0,0,,其实是在模拟域进行的
 Dialogue: 0,0:15:54.42,0:15:55.80,ENG,,0,0,0,,To make this possible,
-Dialogue: 0,0:15:54.42,0:15:55.80,CHN,,0,0,0,,
+Dialogue: 0,0:15:54.42,0:15:55.80,CHN,,0,0,0,,为了实现这一点
 Dialogue: 0,0:15:55.80,0:15:59.49,ENG,,0,0,0,,Mythic has repurposed digital flash storage cells.
-Dialogue: 0,0:15:55.80,0:15:59.49,CHN,,0,0,0,,
+Dialogue: 0,0:15:55.80,0:15:59.49,CHN,,0,0,0,,Mythic 调整了数字闪存单元的用途
 Dialogue: 0,0:15:59.49,0:16:01.21,ENG,,0,0,0,,Normally these are used as memory
-Dialogue: 0,0:15:59.49,0:16:01.21,CHN,,0,0,0,,
+Dialogue: 0,0:15:59.49,0:16:01.21,CHN,,0,0,0,,它们一般被用作内存
 Dialogue: 0,0:16:01.21,0:16:03.63,ENG,,0,0,0,,to store either a one or a zero.
-Dialogue: 0,0:16:01.21,0:16:03.63,CHN,,0,0,0,,
+Dialogue: 0,0:16:01.21,0:16:03.63,CHN,,0,0,0,,每一位上记录的要么是1 要么是0
 Dialogue: 0,0:16:03.63,0:16:07.46,ENG,,0,0,0,,If you apply a large positive voltage to the control gate,
-Dialogue: 0,0:16:03.63,0:16:07.46,CHN,,0,0,0,,
+Dialogue: 0,0:16:03.63,0:16:07.46,CHN,,0,0,0,,如果你在控制门上施加较大的电压
 Dialogue: 0,0:16:07.46,0:16:10.21,ENG,,0,0,0,,electrons tunnel up through an insulating barrier
-Dialogue: 0,0:16:07.46,0:16:10.21,CHN,,0,0,0,,
+Dialogue: 0,0:16:07.46,0:16:10.21,CHN,,0,0,0,,电子将隧穿通过绝缘层
 Dialogue: 0,0:16:10.21,0:16:12.44,ENG,,0,0,0,,and become trapped on the floating gate.
-Dialogue: 0,0:16:10.21,0:16:12.44,CHN,,0,0,0,,
+Dialogue: 0,0:16:10.21,0:16:12.44,CHN,,0,0,0,,并被限制在悬浮门中
 Dialogue: 0,0:16:12.44,0:16:13.57,ENG,,0,0,0,,Remove the voltage,
-Dialogue: 0,0:16:12.44,0:16:13.57,CHN,,0,0,0,,
+Dialogue: 0,0:16:12.44,0:16:13.57,CHN,,0,0,0,,即使撤去电压
 Dialogue: 0,0:16:13.57,0:16:16.22,ENG,,0,0,0,,and the electrons can remain on the floating gate for decades,
-Dialogue: 0,0:16:13.57,0:16:16.22,CHN,,0,0,0,,
+Dialogue: 0,0:16:13.57,0:16:16.22,CHN,,0,0,0,,这些电子能在悬浮门中停留数十年
 Dialogue: 0,0:16:16.22,0:16:18.60,ENG,,0,0,0,,preventing the cell from conducting current.
-Dialogue: 0,0:16:16.22,0:16:18.60,CHN,,0,0,0,,
+Dialogue: 0,0:16:16.22,0:16:18.60,CHN,,0,0,0,,阻止闪存单元导通
 Dialogue: 0,0:16:18.60,0:16:21.32,ENG,,0,0,0,,And that's how you can store either a one or a zero.
-Dialogue: 0,0:16:18.60,0:16:21.32,CHN,,0,0,0,,
+Dialogue: 0,0:16:18.60,0:16:21.32,CHN,,0,0,0,,这样就能在单元中存储1或者0
 Dialogue: 0,0:16:21.32,0:16:25.06,ENG,,0,0,0,,You can read out the stored value by applying a small voltage.
-Dialogue: 0,0:16:21.32,0:16:25.06,CHN,,0,0,0,,
+Dialogue: 0,0:16:21.32,0:16:25.06,CHN,,0,0,0,,施加较小的电压就能读出存储的值
 Dialogue: 0,0:16:25.06,0:16:26.97,ENG,,0,0,0,,If there are electrons on the floating gate,
-Dialogue: 0,0:16:25.06,0:16:26.97,CHN,,0,0,0,,
+Dialogue: 0,0:16:25.06,0:16:26.97,CHN,,0,0,0,,如果有电子在悬浮门中
 Dialogue: 0,0:16:26.97,0:16:29.58,ENG,,0,0,0,,no current flows, so that's a zero.
-Dialogue: 0,0:16:26.97,0:16:29.58,CHN,,0,0,0,,
+Dialogue: 0,0:16:26.97,0:16:29.58,CHN,,0,0,0,,单元中没有电流流过 代表0
 Dialogue: 0,0:16:29.58,0:16:30.94,ENG,,0,0,0,,If there aren't electrons,
-Dialogue: 0,0:16:29.58,0:16:30.94,CHN,,0,0,0,,
+Dialogue: 0,0:16:29.58,0:16:30.94,CHN,,0,0,0,,如果悬浮门中没有电子
 Dialogue: 0,0:16:30.94,0:16:33.92,ENG,,0,0,0,,then current does flow, and that's a one.
-Dialogue: 0,0:16:30.94,0:16:33.92,CHN,,0,0,0,,
+Dialogue: 0,0:16:30.94,0:16:33.92,CHN,,0,0,0,,则电流可以流过 这代表1
 Dialogue: 0,0:16:33.92,0:16:35.03,ENG,,0,0,0,,Now Mythic's idea is
-Dialogue: 0,0:16:33.92,0:16:35.03,CHN,,0,0,0,,
+Dialogue: 0,0:16:33.92,0:16:35.03,CHN,,0,0,0,,现在 Mythic 的想法是
 Dialogue: 0,0:16:35.03,0:16:37.74,ENG,,0,0,0,,to use these cells not as on/off switches,
-Dialogue: 0,0:16:35.03,0:16:37.74,CHN,,0,0,0,,
+Dialogue: 0,0:16:35.03,0:16:37.74,CHN,,0,0,0,,把这些单元用作可变电阻
 Dialogue: 0,0:16:37.74,0:16:39.84,ENG,,0,0,0,,but as variable resistors.
-Dialogue: 0,0:16:37.74,0:16:39.84,CHN,,0,0,0,,
+Dialogue: 0,0:16:37.74,0:16:39.84,CHN,,0,0,0,,而不是开关
 Dialogue: 0,0:16:39.84,0:16:40.69,ENG,,0,0,0,,They do this
-Dialogue: 0,0:16:39.84,0:16:40.69,CHN,,0,0,0,,
+Dialogue: 0,0:16:39.84,0:16:40.69,CHN,,0,0,0,,他们在每个悬浮门中
 Dialogue: 0,0:16:40.69,0:16:43.93,ENG,,0,0,0,,by putting a specific number of electrons on each floating gate,
-Dialogue: 0,0:16:40.69,0:16:43.93,CHN,,0,0,0,,
+Dialogue: 0,0:16:40.69,0:16:43.93,CHN,,0,0,0,,放置指定数量的电子
 Dialogue: 0,0:16:43.93,0:16:45.67,ENG,,0,0,0,,instead of all or nothing.
-Dialogue: 0,0:16:43.93,0:16:45.67,CHN,,0,0,0,,
+Dialogue: 0,0:16:43.93,0:16:45.67,CHN,,0,0,0,,而不是非空即满
 Dialogue: 0,0:16:45.67,0:16:47.33,ENG,,0,0,0,,The greater the number of electrons,
-Dialogue: 0,0:16:45.67,0:16:47.33,CHN,,0,0,0,,
+Dialogue: 0,0:16:45.67,0:16:47.33,CHN,,0,0,0,,悬浮门中电子越多
 Dialogue: 0,0:16:47.33,0:16:49.81,ENG,,0,0,0,,the higher the resistance of the channel.
-Dialogue: 0,0:16:47.33,0:16:49.81,CHN,,0,0,0,,
+Dialogue: 0,0:16:47.33,0:16:49.81,CHN,,0,0,0,,通道中的电阻就越高
 Dialogue: 0,0:16:49.81,0:16:52.00,ENG,,0,0,0,,When you later apply a small voltage,
-Dialogue: 0,0:16:49.81,0:16:52.00,CHN,,0,0,0,,
+Dialogue: 0,0:16:49.81,0:16:52.00,CHN,,0,0,0,,如果之后在其上施加较小的电压
 Dialogue: 0,0:16:52.00,0:16:55.72,ENG,,0,0,0,,the current that flows is equal to V over R.
-Dialogue: 0,0:16:52.00,0:16:55.72,CHN,,0,0,0,,
+Dialogue: 0,0:16:52.00,0:16:55.72,CHN,,0,0,0,,电流就等于 V 除以 R
 Dialogue: 0,0:16:55.72,0:16:59.25,ENG,,0,0,0,,But you can also think of this as voltage times conductance,
-Dialogue: 0,0:16:55.72,0:16:59.25,CHN,,0,0,0,,
+Dialogue: 0,0:16:55.72,0:16:59.25,CHN,,0,0,0,,但你也可以把它视作电压与电导的乘积
 Dialogue: 0,0:16:59.25,0:17:02.51,ENG,,0,0,0,,where conductance is just the reciprocal of resistance.
-Dialogue: 0,0:16:59.25,0:17:02.51,CHN,,0,0,0,,
+Dialogue: 0,0:16:59.25,0:17:02.51,CHN,,0,0,0,,其中电导是电阻的倒数
 Dialogue: 0,0:17:02.51,0:17:04.47,ENG,,0,0,0,,So a single flash cell can be used
-Dialogue: 0,0:17:02.51,0:17:04.47,CHN,,0,0,0,,
+Dialogue: 0,0:17:02.51,0:17:04.47,CHN,,0,0,0,,于是一个单独的闪存单元
 Dialogue: 0,0:17:04.47,0:17:09.13,ENG,,0,0,0,,to multiply two values together, voltage times conductance.
-Dialogue: 0,0:17:04.47,0:17:09.13,CHN,,0,0,0,,
+Dialogue: 0,0:17:04.47,0:17:09.13,CHN,,0,0,0,,可以对两个值做乘法 即电压乘以电导
 Dialogue: 0,0:17:09.13,0:17:11.86,ENG,,0,0,0,,So to use this to run an artificial neural network,
-Dialogue: 0,0:17:09.13,0:17:11.86,CHN,,0,0,0,,
+Dialogue: 0,0:17:09.13,0:17:11.86,CHN,,0,0,0,,所以要用这种方法运行一个人工神经网络
 Dialogue: 0,0:17:11.86,0:17:14.75,ENG,,0,0,0,,well they first write all the weights to the flash cells
-Dialogue: 0,0:17:11.86,0:17:14.75,CHN,,0,0,0,,
+Dialogue: 0,0:17:11.86,0:17:14.75,CHN,,0,0,0,,他们会首先将所有的权重作为电导
 Dialogue: 0,0:17:14.75,0:17:16.87,ENG,,0,0,0,,as each cell's conductance.
-Dialogue: 0,0:17:14.75,0:17:16.87,CHN,,0,0,0,,
+Dialogue: 0,0:17:14.75,0:17:16.87,CHN,,0,0,0,,写入闪存
 Dialogue: 0,0:17:16.87,0:17:19.27,ENG,,0,0,0,,Then, they input the activation values
-Dialogue: 0,0:17:16.87,0:17:19.27,CHN,,0,0,0,,
+Dialogue: 0,0:17:16.87,0:17:19.27,CHN,,0,0,0,,然后 他们将激活值
 Dialogue: 0,0:17:19.27,0:17:21.49,ENG,,0,0,0,,as the voltage on the cells.
-Dialogue: 0,0:17:19.27,0:17:21.49,CHN,,0,0,0,,
+Dialogue: 0,0:17:19.27,0:17:21.49,CHN,,0,0,0,,作为电压施加在单元两端
 Dialogue: 0,0:17:21.49,0:17:23.63,ENG,,0,0,0,,And the resulting current is the product
-Dialogue: 0,0:17:21.49,0:17:23.63,CHN,,0,0,0,,
+Dialogue: 0,0:17:21.49,0:17:23.63,CHN,,0,0,0,,所得的结果就是
 Dialogue: 0,0:17:23.63,0:17:25.50,ENG,,0,0,0,,of voltage times conductance,
-Dialogue: 0,0:17:23.63,0:17:25.50,CHN,,0,0,0,,
+Dialogue: 0,0:17:23.63,0:17:25.50,CHN,,0,0,0,,电压和电导的乘积
 Dialogue: 0,0:17:25.50,0:17:28.30,ENG,,0,0,0,,which is activation times weight.
-Dialogue: 0,0:17:25.50,0:17:28.30,CHN,,0,0,0,,
+Dialogue: 0,0:17:25.50,0:17:28.30,CHN,,0,0,0,,也即激活函数的激活值乘以权重
 Dialogue: 0,0:17:28.30,0:17:30.86,ENG,,0,0,0,,The cells are wired together in such a way
-Dialogue: 0,0:17:28.30,0:17:30.86,CHN,,0,0,0,,
+Dialogue: 0,0:17:28.30,0:17:30.86,CHN,,0,0,0,,这些单元相互连接
 Dialogue: 0,0:17:30.86,0:17:34.00,ENG,,0,0,0,,that the current from each multiplication adds together,
-Dialogue: 0,0:17:30.86,0:17:34.00,CHN,,0,0,0,,
+Dialogue: 0,0:17:30.86,0:17:34.00,CHN,,0,0,0,,可以对每处乘法的结果求和
 Dialogue: 0,0:17:34.00,0:17:36.60,ENG,,0,0,0,,completing the matrix multiplication.
-Dialogue: 0,0:17:34.00,0:17:36.60,CHN,,0,0,0,,
+Dialogue: 0,0:17:34.00,0:17:36.60,CHN,,0,0,0,,这样就实现了矩阵乘法
 Dialogue: 0,0:17:39.04,0:17:40.92,ENG,,0,0,0,,- So this is our first product.
-Dialogue: 0,0:17:39.04,0:17:40.92,CHN,,0,0,0,,
+Dialogue: 0,0:17:39.04,0:17:40.92,CHN,,0,0,0,,- 这是我们的第一件产品
 Dialogue: 0,0:17:40.92,0:17:45.86,ENG,,0,0,0,,This can do 25 trillion math operations per second.
-Dialogue: 0,0:17:40.92,0:17:45.86,CHN,,0,0,0,,
+Dialogue: 0,0:17:40.92,0:17:45.86,CHN,,0,0,0,,它每秒能完成 25 万亿次数学运算
 Dialogue: 0,0:17:45.86,0:17:47.04,ENG,,0,0,0,,- 25 trillion.
-Dialogue: 0,0:17:45.86,0:17:47.04,CHN,,0,0,0,,
+Dialogue: 0,0:17:45.86,0:17:47.04,CHN,,0,0,0,,- 25 万亿次
 Dialogue: 0,0:17:47.04,0:17:49.40,ENG,,0,0,0,,- Yep, 25 trillion math operations per second,
-Dialogue: 0,0:17:47.04,0:17:49.40,CHN,,0,0,0,,
+Dialogue: 0,0:17:47.04,0:17:49.40,CHN,,0,0,0,,- 没错 每秒25万亿次数学运算
 Dialogue: 0,0:17:49.40,0:17:50.54,ENG,,0,0,0,,in this little chip here,
-Dialogue: 0,0:17:49.40,0:17:50.54,CHN,,0,0,0,,
+Dialogue: 0,0:17:49.40,0:17:50.54,CHN,,0,0,0,,这块小小芯片
 Dialogue: 0,0:17:50.54,0:17:52.62,ENG,,0,0,0,,burning about three watts of power.
-Dialogue: 0,0:17:50.54,0:17:52.62,CHN,,0,0,0,,
+Dialogue: 0,0:17:50.54,0:17:52.62,CHN,,0,0,0,,功耗大约是 3 瓦特
 Dialogue: 0,0:17:52.62,0:17:54.93,ENG,,0,0,0,,- How does it compare to a digital chip?
-Dialogue: 0,0:17:52.62,0:17:54.93,CHN,,0,0,0,,
+Dialogue: 0,0:17:52.62,0:17:54.93,CHN,,0,0,0,,- 它与数字芯片相比起来如何
 Dialogue: 0,0:17:54.93,0:17:57.90,ENG,,0,0,0,,- The newer digital systems can do anywhere
-Dialogue: 0,0:17:54.93,0:17:57.90,CHN,,0,0,0,,
+Dialogue: 0,0:17:54.93,0:17:57.90,CHN,,0,0,0,,较新的数字元件能在一秒内
 Dialogue: 0,0:17:57.90,0:18:00.68,ENG,,0,0,0,,from 25 to 100 trillion operations per second,
-Dialogue: 0,0:17:57.90,0:18:00.68,CHN,,0,0,0,,
+Dialogue: 0,0:17:57.90,0:18:00.68,CHN,,0,0,0,,完成 25 万亿到 100 万亿次数学运算
 Dialogue: 0,0:18:00.68,0:18:02.78,ENG,,0,0,0,,but they are big, thousand-dollar systems
-Dialogue: 0,0:18:00.68,0:18:02.78,CHN,,0,0,0,,
+Dialogue: 0,0:18:00.68,0:18:02.78,CHN,,0,0,0,,但是那都是些庞大而昂贵的系统 价值数千美元
 Dialogue: 0,0:18:02.78,0:18:06.59,ENG,,0,0,0,,that are spitting out 50 to 100 watts of power.
-Dialogue: 0,0:18:02.78,0:18:06.59,CHN,,0,0,0,,
+Dialogue: 0,0:18:02.78,0:18:06.59,CHN,,0,0,0,,它们的功率在 50 到 100 瓦特
 Dialogue: 0,0:18:06.59,0:18:07.68,ENG,,0,0,0,,- Obviously this isn't
-Dialogue: 0,0:18:06.59,0:18:07.68,CHN,,0,0,0,,
+Dialogue: 0,0:18:06.59,0:18:07.68,CHN,,0,0,0,,- 显然
 Dialogue: 0,0:18:07.68,0:18:09.46,ENG,,0,0,0,,like an apples apples comparison, right?
-Dialogue: 0,0:18:07.68,0:18:09.46,CHN,,0,0,0,,
+Dialogue: 0,0:18:07.68,0:18:09.46,CHN,,0,0,0,,这两者是没法相比的 对吧
 Dialogue: 0,0:18:09.46,0:18:10.58,ENG,,0,0,0,,- No, it's not apples to apples.
-Dialogue: 0,0:18:09.46,0:18:10.58,CHN,,0,0,0,,
+Dialogue: 0,0:18:09.46,0:18:10.58,CHN,,0,0,0,,- 不 完全没法比
 Dialogue: 0,0:18:10.58,0:18:13.66,ENG,,0,0,0,,I mean, training those algorithms,
-Dialogue: 0,0:18:10.58,0:18:13.66,CHN,,0,0,0,,
+Dialogue: 0,0:18:10.58,0:18:13.66,CHN,,0,0,0,,我的意思是
 Dialogue: 0,0:18:13.66,0:18:15.51,ENG,,0,0,0,,you need big hardware like this.
-Dialogue: 0,0:18:13.66,0:18:15.51,CHN,,0,0,0,,
+Dialogue: 0,0:18:13.66,0:18:15.51,CHN,,0,0,0,,你需要这些大家伙来训练神经网络
 Dialogue: 0,0:18:15.51,0:18:17.61,ENG,,0,0,0,,You can just do all sorts of stuff on the GPU,
-Dialogue: 0,0:18:15.51,0:18:17.61,CHN,,0,0,0,,
+Dialogue: 0,0:18:15.51,0:18:17.61,CHN,,0,0,0,,你可以在 GPU 上完成所有这些事
 Dialogue: 0,0:18:17.61,0:18:20.36,ENG,,0,0,0,,but if you specifically are doing AI workloads
-Dialogue: 0,0:18:17.61,0:18:20.36,CHN,,0,0,0,,
+Dialogue: 0,0:18:17.61,0:18:20.36,CHN,,0,0,0,,但是如果你想应用某个 AI
 Dialogue: 0,0:18:20.36,0:18:22.72,ENG,,0,0,0,,and you wanna deploy 'em, you could use this instead.
-Dialogue: 0,0:18:20.36,0:18:22.72,CHN,,0,0,0,,
+Dialogue: 0,0:18:20.36,0:18:22.72,CHN,,0,0,0,,并且部署它们 就可以使用芯片来替代 GPU
 Dialogue: 0,0:18:22.72,0:18:25.17,ENG,,0,0,0,,You can imagine them in security cameras,
-Dialogue: 0,0:18:22.72,0:18:25.17,CHN,,0,0,0,,
+Dialogue: 0,0:18:22.72,0:18:25.17,CHN,,0,0,0,,不难想象它们在安保摄像头
 Dialogue: 0,0:18:25.17,0:18:26.69,ENG,,0,0,0,,autonomous systems,
-Dialogue: 0,0:18:25.17,0:18:26.69,CHN,,0,0,0,,
+Dialogue: 0,0:18:25.17,0:18:26.69,CHN,,0,0,0,,自动化系统
 Dialogue: 0,0:18:26.69,0:18:29.12,ENG,,0,0,0,,inspection equipment for manufacturing.
-Dialogue: 0,0:18:26.69,0:18:29.12,CHN,,0,0,0,,
+Dialogue: 0,0:18:26.69,0:18:29.12,CHN,,0,0,0,,流水线检测中的应用
 Dialogue: 0,0:18:29.12,0:18:30.88,ENG,,0,0,0,,Every time they make a Frito-Lay chip,
-Dialogue: 0,0:18:29.12,0:18:30.88,CHN,,0,0,0,,
+Dialogue: 0,0:18:29.12,0:18:30.88,CHN,,0,0,0,,每生产一包乐事薯片
 Dialogue: 0,0:18:30.88,0:18:32.20,ENG,,0,0,0,,they inspect it with a camera,
-Dialogue: 0,0:18:30.88,0:18:32.20,CHN,,0,0,0,,
+Dialogue: 0,0:18:30.88,0:18:32.20,CHN,,0,0,0,,他们会用一个摄像头检查它
 Dialogue: 0,0:18:32.20,0:18:36.17,ENG,,0,0,0,,and the bad Fritos get blown off of the conveyor belt.
-Dialogue: 0,0:18:32.20,0:18:36.17,CHN,,0,0,0,,
+Dialogue: 0,0:18:32.20,0:18:36.17,CHN,,0,0,0,,然后移除传送带上的次品
 Dialogue: 0,0:18:36.17,0:18:37.75,ENG,,0,0,0,,But they're using artificial intelligence
-Dialogue: 0,0:18:36.17,0:18:37.75,CHN,,0,0,0,,
+Dialogue: 0,0:18:36.17,0:18:37.75,CHN,,0,0,0,,他们是在用人工智能
 Dialogue: 0,0:18:37.75,0:18:40.41,ENG,,0,0,0,,to spot which Fritos are good and bad.
-Dialogue: 0,0:18:37.75,0:18:40.41,CHN,,0,0,0,,
+Dialogue: 0,0:18:37.75,0:18:40.41,CHN,,0,0,0,,检查产品的质量
 Dialogue: 0,0:18:40.41,0:18:41.35,ENG,,0,0,0,,- Some have proposed
-Dialogue: 0,0:18:40.41,0:18:41.35,CHN,,0,0,0,,
+Dialogue: 0,0:18:40.41,0:18:41.35,CHN,,0,0,0,,有人提议在智能家居音箱中采用模拟芯片
 Dialogue: 0,0:18:41.35,0:18:43.92,ENG,,0,0,0,,using analog circuitry in smart home speakers,
-Dialogue: 0,0:18:41.35,0:18:43.92,CHN,,0,0,0,,
+Dialogue: 0,0:18:41.35,0:18:43.92,CHN,,0,0,0,,有人提议在智能家居音箱中采用模拟芯片
 Dialogue: 0,0:18:43.92,0:18:47.65,ENG,,0,0,0,,solely to listen for the wake word, like Alexa or Siri.
-Dialogue: 0,0:18:43.92,0:18:47.65,CHN,,0,0,0,,
+Dialogue: 0,0:18:43.92,0:18:47.65,CHN,,0,0,0,,来单独监听唤醒词 像是 Alexa 或者 Siri
 Dialogue: 0,0:18:47.65,0:18:48.93,ENG,,0,0,0,,They would use a lot less power
-Dialogue: 0,0:18:47.65,0:18:48.93,CHN,,0,0,0,,
+Dialogue: 0,0:18:47.65,0:18:48.93,CHN,,0,0,0,,这样可以降低功耗
 Dialogue: 0,0:18:48.93,0:18:50.92,ENG,,0,0,0,,and be able to quickly and reliably turn on
-Dialogue: 0,0:18:48.93,0:18:50.92,CHN,,0,0,0,,
+Dialogue: 0,0:18:48.93,0:18:50.92,CHN,,0,0,0,,同时能够稳定而快速地启动
 Dialogue: 0,0:18:50.92,0:18:53.31,ENG,,0,0,0,,the digital circuitry of the device.
-Dialogue: 0,0:18:50.92,0:18:53.31,CHN,,0,0,0,,
+Dialogue: 0,0:18:50.92,0:18:53.31,CHN,,0,0,0,,设备的数字电路
 Dialogue: 0,0:18:53.31,0:18:56.42,ENG,,0,0,0,,But you still have to deal with the challenges of analog.
-Dialogue: 0,0:18:53.31,0:18:56.42,CHN,,0,0,0,,
+Dialogue: 0,0:18:53.31,0:18:56.42,CHN,,0,0,0,,但是模拟信号中的挑战仍然亟待解决
 Dialogue: 0,0:18:56.42,0:18:58.12,ENG,,0,0,0,,- So for one of the popular networks,
-Dialogue: 0,0:18:56.42,0:18:58.12,CHN,,0,0,0,,
+Dialogue: 0,0:18:56.42,0:18:58.12,CHN,,0,0,0,,- 对于一个最为流行的神经网络
 Dialogue: 0,0:18:58.12,0:19:02.67,ENG,,0,0,0,,there would be 50 sequences of matrix multiplies that you're doing.
-Dialogue: 0,0:18:58.12,0:19:02.67,CHN,,0,0,0,,
+Dialogue: 0,0:18:58.12,0:19:02.67,CHN,,0,0,0,,其中有 50 个序列的矩阵乘法需要完成
 Dialogue: 0,0:19:02.67,0:19:05.04,ENG,,0,0,0,,Now, if you did that entirely in the analog domain,
-Dialogue: 0,0:19:02.67,0:19:05.04,CHN,,0,0,0,,
+Dialogue: 0,0:19:02.67,0:19:05.04,CHN,,0,0,0,,现在如果你完全在模拟域进行计算
 Dialogue: 0,0:19:05.04,0:19:06.34,ENG,,0,0,0,,by the time it gets to the output,
-Dialogue: 0,0:19:05.04,0:19:06.34,CHN,,0,0,0,,
+Dialogue: 0,0:19:05.04,0:19:06.34,CHN,,0,0,0,,在输出时
 Dialogue: 0,0:19:06.34,0:19:10.26,ENG,,0,0,0,,it's just so distorted that you don't have any result at all.
-Dialogue: 0,0:19:06.34,0:19:10.26,CHN,,0,0,0,,
+Dialogue: 0,0:19:06.34,0:19:10.26,CHN,,0,0,0,,信号会极度失真以至于完全得不到结果
 Dialogue: 0,0:19:10.26,0:19:12.13,ENG,,0,0,0,,So you convert it from the analog domain,
-Dialogue: 0,0:19:10.26,0:19:12.13,CHN,,0,0,0,,
+Dialogue: 0,0:19:10.26,0:19:12.13,CHN,,0,0,0,,所以需要把信号从模拟域
 Dialogue: 0,0:19:12.13,0:19:14.09,ENG,,0,0,0,,back to the digital domain,
-Dialogue: 0,0:19:12.13,0:19:14.09,CHN,,0,0,0,,
+Dialogue: 0,0:19:12.13,0:19:14.09,CHN,,0,0,0,,转换回数字域
 Dialogue: 0,0:19:14.09,0:19:15.97,ENG,,0,0,0,,send it to the next processing block,
-Dialogue: 0,0:19:14.09,0:19:15.97,CHN,,0,0,0,,
+Dialogue: 0,0:19:14.09,0:19:15.97,CHN,,0,0,0,,将它送入下一个处理模块
 Dialogue: 0,0:19:15.97,0:19:18.36,ENG,,0,0,0,,and then you convert it into the analog domain again.
-Dialogue: 0,0:19:15.97,0:19:18.36,CHN,,0,0,0,,
+Dialogue: 0,0:19:15.97,0:19:18.36,CHN,,0,0,0,,然后再把它转换到模拟域
 Dialogue: 0,0:19:18.36,0:19:20.49,ENG,,0,0,0,,And that allows you to preserve the signal.
-Dialogue: 0,0:19:18.36,0:19:20.49,CHN,,0,0,0,,
+Dialogue: 0,0:19:18.36,0:19:20.49,CHN,,0,0,0,,这样就可以避免信号失真
 Dialogue: 0,0:19:20.49,0:19:22.64,ENG,,0,0,0,,- You know, when Rosenblatt was first setting
 Dialogue: 0,0:19:20.49,0:19:22.64,CHN,,0,0,0,,
 Dialogue: 0,0:19:22.64,0:19:23.75,ENG,,0,0,0,,up his perceptron,
