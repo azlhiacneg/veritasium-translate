@@ -706,7 +706,7 @@ Dialogue: 0,0:15:01.37,0:15:03.37,CHN,,0,0,0,, Mythic AI （迷思智能？）
 Dialogue: 0,0:15:03.37,0:15:06.82,ENG,,0,0,0,,Here, they're creating analog chips to run neural networks.
 Dialogue: 0,0:15:03.37,0:15:06.82,CHN,,0,0,0,,他们在这里创制模拟芯片以运行神经网络
 Dialogue: 0,0:15:06.82,0:15:09.92,ENG,,0,0,0,,And they demonstrated several AI algorithms for me.
-Dialogue: 0,0:15:06.82,0:15:09.92,CHN,,0,0,0,,他们也为我展示了几项人工智能算法
+Dialogue: 0,0:15:06.82,0:15:09.92,CHN,,0,0,0,,并且为我展示了几项人工智能算法
 Dialogue: 0,0:15:10.98,0:15:11.81,ENG,,0,0,0,,- Oh, there you go.
 Dialogue: 0,0:15:10.98,0:15:11.81,CHN,,0,0,0,,哦 快看
 Dialogue: 0,0:15:11.81,0:15:13.29,ENG,,0,0,0,,See, it's getting you.
@@ -718,7 +718,7 @@ Dialogue: 0,0:15:14.77,0:15:17.63,CHN,,0,0,0,,它主要应用在增强现实和�
 Dialogue: 0,0:15:17.63,0:15:19.15,ENG,,0,0,0,,If your friend is in a different,
 Dialogue: 0,0:15:17.63,0:15:19.15,CHN,,0,0,0,,如果你的朋友们天各一方
 Dialogue: 0,0:15:19.15,0:15:20.71,ENG,,0,0,0,,they're at their house and you're at your house,
-Dialogue: 0,0:15:19.15,0:15:20.71,CHN,,0,0,0,,你的朋友和你分别在各自家中
+Dialogue: 0,0:15:19.15,0:15:20.71,CHN,,0,0,0,,他们和你分别在各自家中
 Dialogue: 0,0:15:20.71,0:15:24.12,ENG,,0,0,0,,you can actually render each other in the virtual world.
 Dialogue: 0,0:15:20.71,0:15:24.12,CHN,,0,0,0,,你们要能在虚拟世界中渲染出对方的样子
 Dialogue: 0,0:15:24.12,0:15:27.28,ENG,,0,0,0,,So it needs to really quickly capture your pose,
@@ -734,7 +734,7 @@ Dialogue: 0,0:15:35.64,0:15:38.63,CHN,,0,0,0,,这是基于单摄像头的景深�
 Dialogue: 0,0:15:38.63,0:15:39.95,ENG,,0,0,0,,It's just taking this scene,
 Dialogue: 0,0:15:38.63,0:15:39.95,CHN,,0,0,0,,它只是拍摄了这幅画面
 Dialogue: 0,0:15:39.95,0:15:41.36,ENG,,0,0,0,,and then it's doing a heat map.
-Dialogue: 0,0:15:39.95,0:15:41.36,CHN,,0,0,0,,然后把它转换成热图
+Dialogue: 0,0:15:39.95,0:15:41.36,CHN,,0,0,0,,然后把它转换成热力图
 Dialogue: 0,0:15:41.36,0:15:43.75,ENG,,0,0,0,,So if it's bright, it means it's close.
 Dialogue: 0,0:15:41.36,0:15:43.75,CHN,,0,0,0,,图上亮的地方意味着更靠近一些
 Dialogue: 0,0:15:43.75,0:15:45.98,ENG,,0,0,0,,And if it's far away, it makes it like black.
@@ -882,7 +882,7 @@ Dialogue: 0,0:18:36.17,0:18:37.75,CHN,,0,0,0,,他们是在用人工智能
 Dialogue: 0,0:18:37.75,0:18:40.41,ENG,,0,0,0,,to spot which Fritos are good and bad.
 Dialogue: 0,0:18:37.75,0:18:40.41,CHN,,0,0,0,,检查产品的质量
 Dialogue: 0,0:18:40.41,0:18:41.35,ENG,,0,0,0,,- Some have proposed
-Dialogue: 0,0:18:40.41,0:18:41.35,CHN,,0,0,0,,有人提议在智能家具音箱中采用模拟芯片
+Dialogue: 0,0:18:40.41,0:18:41.35,CHN,,0,0,0,,有人提议在智能家居音箱中采用模拟芯片
 Dialogue: 0,0:18:41.35,0:18:43.92,ENG,,0,0,0,,using analog circuitry in smart home speakers,
 Dialogue: 0,0:18:41.35,0:18:43.92,CHN,,0,0,0,,有人提议在智能家居音箱中采用模拟芯片
 Dialogue: 0,0:18:43.92,0:18:47.65,ENG,,0,0,0,,solely to listen for the wake word, like Alexa or Siri.
