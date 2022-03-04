@@ -487,214 +487,196 @@ Dialogue: 0,0:10:33.55,0:10:34.79,CHN,,0,0,0,,
 Dialogue: 0,0:10:34.79,0:10:38.15,ENG,,0,0,0,,experienced another lull in the 1990s.
 Dialogue: 0,0:10:34.79,0:10:38.15,CHN,,0,0,0,,
 Dialogue: 0,0:10:38.15,0:10:39.44,ENG,,0,0,0,,By the mid 2000s,
-Dialogue: 0,0:10:38.15,0:10:39.44,CHN,,0,0,0,,
+Dialogue: 0,0:10:38.15,0:10:39.44,CHN,,0,0,0,,直到 2000 年代中期
 Dialogue: 0,0:10:39.44,0:10:43.25,ENG,,0,0,0,,most AI researchers were focused on improving algorithms.
-Dialogue: 0,0:10:39.44,0:10:43.25,CHN,,0,0,0,,
+Dialogue: 0,0:10:39.44,0:10:43.25,CHN,,0,0,0,,大多数人工智能研究者都专注于改进算法
 Dialogue: 0,0:10:43.25,0:10:45.87,ENG,,0,0,0,,But one researcher, Fei-Fei Li,
-Dialogue: 0,0:10:43.25,0:10:45.87,CHN,,0,0,0,,
+Dialogue: 0,0:10:43.25,0:10:45.87,CHN,,0,0,0,,但有一位研究者——李飞飞
 Dialogue: 0,0:10:45.87,0:10:48.26,ENG,,0,0,0,,thought maybe there was a different problem.
-Dialogue: 0,0:10:45.87,0:10:48.26,CHN,,0,0,0,,
+Dialogue: 0,0:10:45.87,0:10:48.26,CHN,,0,0,0,,认为或许该另觅他路
 Dialogue: 0,0:10:48.26,0:10:50.35,ENG,,0,0,0,,Maybe these artificial neural networks
-Dialogue: 0,0:10:48.26,0:10:50.35,CHN,,0,0,0,,
+Dialogue: 0,0:10:48.26,0:10:50.35,CHN,,0,0,0,,可能这些人工神经网络
 Dialogue: 0,0:10:50.35,0:10:52.54,ENG,,0,0,0,,just needed more data to train on.
-Dialogue: 0,0:10:50.35,0:10:52.54,CHN,,0,0,0,,
+Dialogue: 0,0:10:50.35,0:10:52.54,CHN,,0,0,0,,只是需要更多数据去训练
 Dialogue: 0,0:10:52.54,0:10:56.17,ENG,,0,0,0,,So she planned to map out the entire world of objects.
-Dialogue: 0,0:10:52.54,0:10:56.17,CHN,,0,0,0,,
+Dialogue: 0,0:10:52.54,0:10:56.17,CHN,,0,0,0,,因此 她计划制作整个物体世界的地图
 Dialogue: 0,0:10:56.17,0:10:59.22,ENG,,0,0,0,,From 2006 to 2009, she created ImageNet,
-Dialogue: 0,0:10:56.17,0:10:59.22,CHN,,0,0,0,,
+Dialogue: 0,0:10:56.17,0:10:59.22,CHN,,0,0,0,,2006 年到 2009 年期间 她创立了 ImageNet
 Dialogue: 0,0:10:59.22,0:11:02.55,ENG,,0,0,0,,a database of 1.2 million human-labeled images,
-Dialogue: 0,0:10:59.22,0:11:02.55,CHN,,0,0,0,,
+Dialogue: 0,0:10:59.22,0:11:02.55,CHN,,0,0,0,,一个包含 120 万张人工标注图像的数据库
 Dialogue: 0,0:11:02.55,0:11:03.38,ENG,,0,0,0,,which at the time,
-Dialogue: 0,0:11:02.55,0:11:03.38,CHN,,0,0,0,,
 Dialogue: 0,0:11:03.38,0:11:06.33,ENG,,0,0,0,,was the largest labeled image dataset ever constructed.
-Dialogue: 0,0:11:03.38,0:11:06.33,CHN,,0,0,0,,
+Dialogue: 0,0:11:02.55,0:11:06.33,CHN,,0,0,0,,在当时 是有史以来最大的标记图像数据集
 Dialogue: 0,0:11:06.33,0:11:08.25,ENG,,0,0,0,,And from 2010 to 2017,
-Dialogue: 0,0:11:06.33,0:11:08.25,CHN,,0,0,0,,
+Dialogue: 0,0:11:06.33,0:11:08.25,CHN,,0,0,0,,从 2010 年到 2017 年
 Dialogue: 0,0:11:08.25,0:11:10.40,ENG,,0,0,0,,ImageNet ran an annual contest:
-Dialogue: 0,0:11:08.25,0:11:10.40,CHN,,0,0,0,,
+Dialogue: 0,0:11:08.25,0:11:10.40,CHN,,0,0,0,,ImageNet 举办每年一度的竞赛
 Dialogue: 0,0:11:10.40,0:11:13.74,ENG,,0,0,0,,the ImageNet Large Scale Visual Recognition Challenge,
-Dialogue: 0,0:11:10.40,0:11:13.74,CHN,,0,0,0,,
+Dialogue: 0,0:11:10.40,0:11:13.74,CHN,,0,0,0,,ImageNet 大规模视觉识别挑战赛（ILSVRC）
 Dialogue: 0,0:11:13.74,0:11:15.24,ENG,,0,0,0,,where software programs competed
-Dialogue: 0,0:11:13.74,0:11:15.24,CHN,,0,0,0,,
+Dialogue: 0,0:11:13.74,0:11:15.24,CHN,,0,0,0,,让软件程序互相竞争
 Dialogue: 0,0:11:15.24,0:11:17.97,ENG,,0,0,0,,to correctly detect and classify images.
-Dialogue: 0,0:11:15.24,0:11:17.97,CHN,,0,0,0,,
+Dialogue: 0,0:11:15.24,0:11:17.97,CHN,,0,0,0,,试图正确检测和分类图像
 Dialogue: 0,0:11:17.97,0:11:21.11,ENG,,0,0,0,,Images were classified into 1,000 different categories,
-Dialogue: 0,0:11:17.97,0:11:21.11,CHN,,0,0,0,,
+Dialogue: 0,0:11:17.97,0:11:21.11,CHN,,0,0,0,,测试用图像分为 1000 个不同类别
 Dialogue: 0,0:11:21.11,0:11:23.52,ENG,,0,0,0,,including 90 different dog breeds.
-Dialogue: 0,0:11:21.11,0:11:23.52,CHN,,0,0,0,,
+Dialogue: 0,0:11:21.11,0:11:23.52,CHN,,0,0,0,,其中包括 90 个不同犬种
 Dialogue: 0,0:11:23.52,0:11:25.46,ENG,,0,0,0,,A neural network competing in this competition
-Dialogue: 0,0:11:23.52,0:11:25.46,CHN,,0,0,0,,
+Dialogue: 0,0:11:23.52,0:11:25.46,CHN,,0,0,0,,参与这场比拼的神经网络
 Dialogue: 0,0:11:25.46,0:11:28.22,ENG,,0,0,0,,would have an output layer of 1,000 neurons,
-Dialogue: 0,0:11:25.46,0:11:28.22,CHN,,0,0,0,,
+Dialogue: 0,0:11:25.46,0:11:28.22,CHN,,0,0,0,,输出层包含 1000 个神经元
 Dialogue: 0,0:11:28.22,0:11:30.46,ENG,,0,0,0,,each corresponding to a category of object
-Dialogue: 0,0:11:28.22,0:11:30.46,CHN,,0,0,0,,
 Dialogue: 0,0:11:30.46,0:11:32.23,ENG,,0,0,0,,that could appear in the image.
-Dialogue: 0,0:11:30.46,0:11:32.23,CHN,,0,0,0,,
+Dialogue: 0,0:11:28.22,0:11:32.23,CHN,,0,0,0,,分别对应图像中出现的 1000 个物体大类
 Dialogue: 0,0:11:32.23,0:11:34.50,ENG,,0,0,0,,If the image contains, say, a German shepherd,
-Dialogue: 0,0:11:32.23,0:11:34.50,CHN,,0,0,0,,
+Dialogue: 0,0:11:32.23,0:11:34.50,CHN,,0,0,0,,如果图像中包含 比方说 一只德国牧羊犬
 Dialogue: 0,0:11:34.50,0:11:37.43,ENG,,0,0,0,,then the output neuron corresponding to German shepherd
-Dialogue: 0,0:11:34.50,0:11:37.43,CHN,,0,0,0,,
+Dialogue: 0,0:11:34.50,0:11:37.43,CHN,,0,0,0,,那么对应德国牧羊犬的那个输出神经元
 Dialogue: 0,0:11:37.43,0:11:39.77,ENG,,0,0,0,,should have the highest activation.
-Dialogue: 0,0:11:37.43,0:11:39.77,CHN,,0,0,0,,
+Dialogue: 0,0:11:37.43,0:11:39.77,CHN,,0,0,0,,就应该激活最高的输出
 Dialogue: 0,0:11:39.77,0:11:43.12,ENG,,0,0,0,,Unsurprisingly, it turned out to be a tough challenge.
-Dialogue: 0,0:11:39.77,0:11:43.12,CHN,,0,0,0,,
+Dialogue: 0,0:11:39.77,0:11:43.12,CHN,,0,0,0,,不出所料 事实证明这是一项艰巨的挑战
 Dialogue: 0,0:11:43.12,0:11:45.13,ENG,,0,0,0,,One way to judge the performance of an AI
-Dialogue: 0,0:11:43.12,0:11:45.13,CHN,,0,0,0,,
+Dialogue: 0,0:11:43.12,0:11:45.13,CHN,,0,0,0,,评判 AI 性能的一种方式
 Dialogue: 0,0:11:45.13,0:11:48.36,ENG,,0,0,0,,is to see how often the five highest neuron activations
-Dialogue: 0,0:11:45.13,0:11:48.36,CHN,,0,0,0,,
+Dialogue: 0,0:11:45.13,0:11:48.36,CHN,,0,0,0,,是看激活输出最高的 5 个神经元
 Dialogue: 0,0:11:48.36,0:11:50.92,ENG,,0,0,0,,do not include the correct category.
-Dialogue: 0,0:11:48.36,0:11:50.92,CHN,,0,0,0,,
+Dialogue: 0,0:11:48.36,0:11:50.92,CHN,,0,0,0,,均不是正确类别的频率
 Dialogue: 0,0:11:50.92,0:11:53.84,ENG,,0,0,0,,This is the so-called top-5 error rate.
-Dialogue: 0,0:11:50.92,0:11:53.84,CHN,,0,0,0,,
-Dialogue: 0,0:11:53.84,0:11:56.92,ENG,,0,0,0,,In 2010, the best performer had a top-5 error rate
-Dialogue: 0,0:11:53.84,0:11:56.92,CHN,,0,0,0,,
-Dialogue: 0,0:11:56.92,0:12:01.08,ENG,,0,0,0,,of 28.2%, meaning that nearly 1/3 of the time,
-Dialogue: 0,0:11:56.92,0:12:01.08,CHN,,0,0,0,,
+Dialogue: 0,0:11:50.92,0:11:53.84,CHN,,0,0,0,,这就是所谓的 Top-5 错误率
+Dialogue: 0,0:11:53.84,0:11:56.92,ENG,,0,0,0,,In 2010, the best performer had a top-5 error rate of 28.2%,
+Dialogue: 0,0:11:53.84,0:11:56.92,CHN,,0,0,0,,2010 年 表现最佳的程序达到了 28.2%
+Dialogue: 0,0:11:56.92,0:12:01.08,ENG,,0,0,0,,meaning that nearly 1/3 of the time,
+Dialogue: 0,0:11:56.92,0:12:01.08,CHN,,0,0,0,,这意味着在近三分之一的测试中
 Dialogue: 0,0:12:01.08,0:12:04.57,ENG,,0,0,0,,the correct answer was not among its top five guesses.
-Dialogue: 0,0:12:01.08,0:12:04.57,CHN,,0,0,0,,
+Dialogue: 0,0:12:01.08,0:12:04.57,CHN,,0,0,0,,正确答案都不在其前 5 个猜测之列
 Dialogue: 0,0:12:04.57,0:12:09.27,ENG,,0,0,0,,In 2011, the error rate of the best performer was 25.8%,
-Dialogue: 0,0:12:04.57,0:12:09.27,CHN,,0,0,0,,
+Dialogue: 0,0:12:04.57,0:12:09.27,CHN,,0,0,0,,2011 年 这个数字降低到 25.8%
 Dialogue: 0,0:12:09.27,0:12:11.36,ENG,,0,0,0,,a substantial improvement.
-Dialogue: 0,0:12:09.27,0:12:11.36,CHN,,0,0,0,,
+Dialogue: 0,0:12:09.27,0:12:11.36,CHN,,0,0,0,,这是很大的进步
 Dialogue: 0,0:12:11.36,0:12:12.37,ENG,,0,0,0,,But the next year,
-Dialogue: 0,0:12:11.36,0:12:12.37,CHN,,0,0,0,,
+Dialogue: 0,0:12:11.36,0:12:12.37,CHN,,0,0,0,,但是接下来的一年
 Dialogue: 0,0:12:12.37,0:12:13.62,ENG,,0,0,0,,an artificial neural network
-Dialogue: 0,0:12:12.37,0:12:13.62,CHN,,0,0,0,,
 Dialogue: 0,0:12:13.62,0:12:16.22,ENG,,0,0,0,,from the University of Toronto, called AlexNet,
-Dialogue: 0,0:12:13.62,0:12:16.22,CHN,,0,0,0,,
+Dialogue: 0,0:12:12.37,0:12:16.22,CHN,,0,0,0,,来自多伦多大学的人工神经网络 AlexNet
 Dialogue: 0,0:12:16.22,0:12:17.87,ENG,,0,0,0,,blew away the competition
-Dialogue: 0,0:12:16.22,0:12:17.87,CHN,,0,0,0,,
 Dialogue: 0,0:12:17.87,0:12:22.41,ENG,,0,0,0,,with a top-5 error rate of just 16.4%.
-Dialogue: 0,0:12:17.87,0:12:22.41,CHN,,0,0,0,,
+Dialogue: 0,0:12:16.22,0:12:22.41,CHN,,0,0,0,,以低至 16.4% 的 Top-5 错误率碾压对手
 Dialogue: 0,0:12:22.41,0:12:25.84,ENG,,0,0,0,,What set AlexNet apart was its size and depth.
-Dialogue: 0,0:12:22.41,0:12:25.84,CHN,,0,0,0,,
+Dialogue: 0,0:12:22.41,0:12:25.84,CHN,,0,0,0,,AlexNet 的规模和深度使之与众不同
 Dialogue: 0,0:12:25.84,0:12:27.72,ENG,,0,0,0,,The network consisted of eight layers,
-Dialogue: 0,0:12:25.84,0:12:27.72,CHN,,0,0,0,,
+Dialogue: 0,0:12:25.84,0:12:27.72,CHN,,0,0,0,,该网络共有个 8 神经层
 Dialogue: 0,0:12:27.72,0:12:30.70,ENG,,0,0,0,,and in total, 500,000 neurons.
-Dialogue: 0,0:12:27.72,0:12:30.70,CHN,,0,0,0,,
+Dialogue: 0,0:12:27.72,0:12:30.70,CHN,,0,0,0,,总共包含 50 万神经元
 Dialogue: 0,0:12:30.70,0:12:31.53,ENG,,0,0,0,,To train AlexNet,
-Dialogue: 0,0:12:30.70,0:12:31.53,CHN,,0,0,0,,
+Dialogue: 0,0:12:30.70,0:12:33.53,CHN,,0,0,0,,要训练 AlexNet 得通过训练集
 Dialogue: 0,0:12:31.53,0:12:35.58,ENG,,0,0,0,,60 million weights and biases had to be carefully adjusted
-Dialogue: 0,0:12:31.53,0:12:35.58,CHN,,0,0,0,,
 Dialogue: 0,0:12:35.58,0:12:37.50,ENG,,0,0,0,,using the training database.
-Dialogue: 0,0:12:35.58,0:12:37.50,CHN,,0,0,0,,
+Dialogue: 0,0:12:33.58,0:12:37.50,CHN,,0,0,0,,小心调整 6000 万个权重与偏置
 Dialogue: 0,0:12:37.50,0:12:40.04,ENG,,0,0,0,,Because of all the big matrix multiplications,
-Dialogue: 0,0:12:37.50,0:12:40.04,CHN,,0,0,0,,
+Dialogue: 0,0:12:37.50,0:12:40.04,CHN,,0,0,0,,由于这些巨大的矩阵乘法运算
 Dialogue: 0,0:12:40.04,0:12:43.57,ENG,,0,0,0,,processing a single image required 700 million
-Dialogue: 0,0:12:40.04,0:12:43.57,CHN,,0,0,0,,
 Dialogue: 0,0:12:43.57,0:12:45.33,ENG,,0,0,0,,individual math operations.
-Dialogue: 0,0:12:43.57,0:12:45.33,CHN,,0,0,0,,
+Dialogue: 0,0:12:40.04,0:12:45.33,CHN,,0,0,0,,处理一张图片需要 7 亿次简单数学运算
 Dialogue: 0,0:12:45.33,0:12:48.28,ENG,,0,0,0,,So training was computationally intensive.
-Dialogue: 0,0:12:45.33,0:12:48.28,CHN,,0,0,0,,
+Dialogue: 0,0:12:45.33,0:12:48.28,CHN,,0,0,0,,因此 训练它 是计算密集的
 Dialogue: 0,0:12:48.28,0:12:51.33,ENG,,0,0,0,,The team managed it by pioneering the use of GPUs,
-Dialogue: 0,0:12:48.28,0:12:51.33,CHN,,0,0,0,,
+Dialogue: 0,0:12:48.28,0:12:51.33,CHN,,0,0,0,,它的团队开创性地使用 GPU 完成计算
 Dialogue: 0,0:12:51.33,0:12:52.91,ENG,,0,0,0,,graphical processing units,
-Dialogue: 0,0:12:51.33,0:12:52.91,CHN,,0,0,0,,
+Dialogue: 0,0:12:51.33,0:12:52.91,CHN,,0,0,0,,GPU 即图形处理单元
 Dialogue: 0,0:12:52.91,0:12:56.33,ENG,,0,0,0,,which are traditionally used for driving displays, screens.
-Dialogue: 0,0:12:52.91,0:12:56.33,CHN,,0,0,0,,
+Dialogue: 0,0:12:52.91,0:12:56.33,CHN,,0,0,0,,通常用于驱动显示器、屏幕等
 Dialogue: 0,0:12:56.33,0:13:00.11,ENG,,0,0,0,,So they're specialized for fast parallel computations.
-Dialogue: 0,0:12:56.33,0:13:00.11,CHN,,0,0,0,,
+Dialogue: 0,0:12:56.33,0:13:00.11,CHN,,0,0,0,,因此适合快速并行计算
 Dialogue: 0,0:13:00.11,0:13:02.52,ENG,,0,0,0,,The AlexNet paper describing their research
-Dialogue: 0,0:13:00.11,0:13:02.52,CHN,,0,0,0,,
 Dialogue: 0,0:13:02.52,0:13:04.26,ENG,,0,0,0,,is a blockbuster.
-Dialogue: 0,0:13:02.52,0:13:04.26,CHN,,0,0,0,,
+Dialogue: 0,0:13:00.11,0:13:04.26,CHN,,0,0,0,,描述他们研究的 AlexNet 论文引起轰动
 Dialogue: 0,0:13:04.26,0:13:07.68,ENG,,0,0,0,,It's now been cited over 100,000 times,
-Dialogue: 0,0:13:04.26,0:13:07.68,CHN,,0,0,0,,
+Dialogue: 0,0:13:04.26,0:13:07.68,CHN,,0,0,0,,现在已经被引用十万余次
 Dialogue: 0,0:13:07.68,0:13:10.39,ENG,,0,0,0,,and it identifies the scale of the neural network
-Dialogue: 0,0:13:07.68,0:13:10.39,CHN,,0,0,0,,
 Dialogue: 0,0:13:10.39,0:13:12.98,ENG,,0,0,0,,as key to its success.
-Dialogue: 0,0:13:10.39,0:13:12.98,CHN,,0,0,0,,
+Dialogue: 0,0:13:07.68,0:13:12.98,CHN,,0,0,0,,论文认为 神经网络的规模是其成功的关键
 Dialogue: 0,0:13:12.98,0:13:16.16,ENG,,0,0,0,,It takes a lot of computation to train and run the network,
-Dialogue: 0,0:13:12.98,0:13:16.16,CHN,,0,0,0,,
+Dialogue: 0,0:13:12.98,0:13:16.16,CHN,,0,0,0,,训练和运行这一网络需要大量的计算
 Dialogue: 0,0:13:16.16,0:13:19.29,ENG,,0,0,0,,but the improvement in performance is worth it.
-Dialogue: 0,0:13:16.16,0:13:19.29,CHN,,0,0,0,,
+Dialogue: 0,0:13:16.16,0:13:19.29,CHN,,0,0,0,,但相较于性能的提升 是值得的
 Dialogue: 0,0:13:19.29,0:13:20.74,ENG,,0,0,0,,With others following their lead,
-Dialogue: 0,0:13:19.29,0:13:20.74,CHN,,0,0,0,,
+Dialogue: 0,0:13:19.29,0:13:20.74,CHN,,0,0,0,,在后来者的努力下
 Dialogue: 0,0:13:20.74,0:13:23.39,ENG,,0,0,0,,the top-5 error rate on the ImageNet competition
-Dialogue: 0,0:13:20.74,0:13:23.39,CHN,,0,0,0,,
+Dialogue: 0,0:13:20.74,0:13:23.39,CHN,,0,0,0,,ImageNet 挑战赛的 Top-5 错误率
 Dialogue: 0,0:13:23.39,0:13:25.02,ENG,,0,0,0,,plummeted in the years that followed,
-Dialogue: 0,0:13:23.39,0:13:25.02,CHN,,0,0,0,,
+Dialogue: 0,0:13:23.39,0:13:25.02,CHN,,0,0,0,,在随后的几年直线下降
 Dialogue: 0,0:13:25.02,0:13:28.21,ENG,,0,0,0,,down to 3.6% in 2015.
-Dialogue: 0,0:13:25.02,0:13:28.21,CHN,,0,0,0,,
+Dialogue: 0,0:13:25.02,0:13:28.21,CHN,,0,0,0,,到 2015 年已经降至 3.6%
 Dialogue: 0,0:13:28.21,0:13:31.16,ENG,,0,0,0,,That is better than human performance.
-Dialogue: 0,0:13:28.21,0:13:31.16,CHN,,0,0,0,,
+Dialogue: 0,0:13:28.21,0:13:31.16,CHN,,0,0,0,,这已经超越了人类表现
 Dialogue: 0,0:13:31.16,0:13:32.73,ENG,,0,0,0,,The neural network that achieved this
-Dialogue: 0,0:13:31.16,0:13:32.73,CHN,,0,0,0,,
 Dialogue: 0,0:13:32.73,0:13:35.03,ENG,,0,0,0,,had 100 layers of neurons.
-Dialogue: 0,0:13:32.73,0:13:35.03,CHN,,0,0,0,,
+Dialogue: 0,0:13:31.16,0:13:35.03,CHN,,0,0,0,,实现这一目标的神经网络包含 100 个神经层
 Dialogue: 0,0:13:35.03,0:13:36.49,ENG,,0,0,0,,So the future is clear:
-Dialogue: 0,0:13:35.03,0:13:36.49,CHN,,0,0,0,,
+Dialogue: 0,0:13:35.03,0:13:36.49,CHN,,0,0,0,,所以未来是明确的
 Dialogue: 0,0:13:36.49,0:13:38.39,ENG,,0,0,0,,We will see ever increasing demand
-Dialogue: 0,0:13:36.49,0:13:38.39,CHN,,0,0,0,,
 Dialogue: 0,0:13:38.39,0:13:40.82,ENG,,0,0,0,,for ever larger neural networks.
-Dialogue: 0,0:13:38.39,0:13:40.82,CHN,,0,0,0,,
+Dialogue: 0,0:13:36.49,0:13:40.82,CHN,,0,0,0,,我们将看到对更大神经网络的需求不断增长
 Dialogue: 0,0:13:40.82,0:13:43.04,ENG,,0,0,0,,And this is a problem for several reasons:
-Dialogue: 0,0:13:40.82,0:13:43.04,CHN,,0,0,0,,
+Dialogue: 0,0:13:40.82,0:13:43.04,CHN,,0,0,0,,从数个方面来看 这都是一个问题
 Dialogue: 0,0:13:43.04,0:13:45.15,ENG,,0,0,0,,One is energy consumption.
-Dialogue: 0,0:13:43.04,0:13:45.15,CHN,,0,0,0,,
+Dialogue: 0,0:13:43.04,0:13:45.15,CHN,,0,0,0,,其一是能源消耗
 Dialogue: 0,0:13:45.15,0:13:47.06,ENG,,0,0,0,,Training a neural network requires an amount
-Dialogue: 0,0:13:45.15,0:13:47.06,CHN,,0,0,0,,
+Dialogue: 0,0:13:45.15,0:13:47.06,CHN,,0,0,0,,训练一个神经网络所需的电量
 Dialogue: 0,0:13:47.06,0:13:49.46,ENG,,0,0,0,,of electricity similar to the yearly consumption
-Dialogue: 0,0:13:47.06,0:13:49.46,CHN,,0,0,0,,
 Dialogue: 0,0:13:49.46,0:13:50.99,ENG,,0,0,0,,of three households.
-Dialogue: 0,0:13:49.46,0:13:50.99,CHN,,0,0,0,,
+Dialogue: 0,0:13:47.06,0:13:50.99,CHN,,0,0,0,,相当于三个家庭的一年的用电量
 Dialogue: 0,0:13:50.99,0:13:52.59,ENG,,0,0,0,,Another issue is the so-called
-Dialogue: 0,0:13:50.99,0:13:52.59,CHN,,0,0,0,,
-Dialogue: 0,0:13:52.59,0:13:54.10,CHN,,0,0,0,,冯诺伊曼瓶颈
+Dialogue: 0,0:13:50.99,0:13:52.59,CHN,,0,0,0,,另一个问题被称为
+Dialogue: 0,0:13:52.59,0:13:54.10,CHN,,0,0,0,,冯·诺伊曼瓶颈
 Dialogue: 0,0:13:54.10,0:13:55.87,ENG,,0,0,0,,Virtually every modern digital computer
-Dialogue: 0,0:13:54.10,0:13:55.87,CHN,,0,0,0,,
 Dialogue: 0,0:13:55.87,0:13:57.20,ENG,,0,0,0,,stores data in memory,
-Dialogue: 0,0:13:55.87,0:13:57.20,CHN,,0,0,0,,
+Dialogue: 0,0:13:54.10,0:13:57.20,CHN,,0,0,0,,几乎所有现代数字计算机都将数据存入内存
 Dialogue: 0,0:13:57.20,0:14:00.36,ENG,,0,0,0,,and then accesses it as needed over a bus.
-Dialogue: 0,0:13:57.20,0:14:00.36,CHN,,0,0,0,,
+Dialogue: 0,0:13:57.20,0:14:00.36,CHN,,0,0,0,,然后按照需要 通过一条总线访问它
 Dialogue: 0,0:14:00.36,0:14:02.44,ENG,,0,0,0,,When performing the huge matrix multiplications
-Dialogue: 0,0:14:00.36,0:14:02.44,CHN,,0,0,0,,
 Dialogue: 0,0:14:02.44,0:14:04.23,ENG,,0,0,0,,required by deep neural networks,
-Dialogue: 0,0:14:02.44,0:14:04.23,CHN,,0,0,0,,
+Dialogue: 0,0:14:00.36,0:14:04.23,CHN,,0,0,0,,当执行深度神经网络所需的大量矩阵乘法时
 Dialogue: 0,0:14:04.23,0:14:05.36,ENG,,0,0,0,,most of the time and energy
-Dialogue: 0,0:14:04.23,0:14:05.36,CHN,,0,0,0,,
 Dialogue: 0,0:14:05.36,0:14:07.66,ENG,,0,0,0,,goes into fetching those weight values
-Dialogue: 0,0:14:05.36,0:14:07.66,CHN,,0,0,0,,
+Dialogue: 0,0:14:04.23,0:14:07.66,CHN,,0,0,0,,大部分时间和能源都用于获取这些数值
 Dialogue: 0,0:14:07.66,0:14:10.49,ENG,,0,0,0,,rather than actually doing the computation.
-Dialogue: 0,0:14:07.66,0:14:10.49,CHN,,0,0,0,,
+Dialogue: 0,0:14:07.66,0:14:10.49,CHN,,0,0,0,,而不是实际的数学运算
 Dialogue: 0,0:14:10.49,0:14:13.25,ENG,,0,0,0,,And finally, there are the limitations of Moore's Law.
-Dialogue: 0,0:14:10.49,0:14:13.25,CHN,,0,0,0,,
+Dialogue: 0,0:14:10.49,0:14:13.25,CHN,,0,0,0,,最后 还有摩尔定律的局限性
 Dialogue: 0,0:14:13.25,0:14:15.41,ENG,,0,0,0,,For decades, the number of transistors on a chip
-Dialogue: 0,0:14:13.25,0:14:15.41,CHN,,0,0,0,,
 Dialogue: 0,0:14:15.41,0:14:18.19,ENG,,0,0,0,,has been doubling approximately every two years,
-Dialogue: 0,0:14:15.41,0:14:18.19,CHN,,0,0,0,,
+Dialogue: 0,0:14:13.25,0:14:18.19,CHN,,0,0,0,,几十年来 芯片上的晶体管数量约两年翻一番
 Dialogue: 0,0:14:18.19,0:14:20.13,ENG,,0,0,0,,but now the size of a transistor
-Dialogue: 0,0:14:18.19,0:14:20.13,CHN,,0,0,0,,
 Dialogue: 0,0:14:20.13,0:14:21.91,ENG,,0,0,0,,is approaching the size of an atom.
-Dialogue: 0,0:14:20.13,0:14:21.91,CHN,,0,0,0,,
+Dialogue: 0,0:14:18.19,0:14:21.91,CHN,,0,0,0,,但现在晶体管的尺寸已经接近原子大小
 Dialogue: 0,0:14:21.91,0:14:24.69,ENG,,0,0,0,,So there are some fundamental physical challenges
-Dialogue: 0,0:14:21.91,0:14:24.69,CHN,,0,0,0,,
+Dialogue: 0,0:14:21.91,0:14:23.69,CHN,,0,0,0,,因此进一步小型化
 Dialogue: 0,0:14:24.69,0:14:26.88,ENG,,0,0,0,,to further miniaturization.
-Dialogue: 0,0:14:24.69,0:14:26.88,CHN,,0,0,0,,
+Dialogue: 0,0:14:23.69,0:14:26.88,CHN,,0,0,0,,在物理原理上面临挑战
 Dialogue: 0,0:14:26.88,0:14:30.27,ENG,,0,0,0,,So this is the perfect storm for analog computers.
-Dialogue: 0,0:14:26.88,0:14:30.27,CHN,,0,0,0,,
+Dialogue: 0,0:14:26.88,0:14:30.27,CHN,,0,0,0,,因此 模拟计算机正逢其时
 Dialogue: 0,0:14:30.27,0:14:32.64,ENG,,0,0,0,,Digital computers are reaching their limits.
-Dialogue: 0,0:14:30.27,0:14:32.64,CHN,,0,0,0,,
+Dialogue: 0,0:14:30.27,0:14:32.64,CHN,,0,0,0,,数字计算机正在接近其极限
 Dialogue: 0,0:14:32.64,0:14:35.88,ENG,,0,0,0,,Meanwhile, neural networks are exploding in popularity,
-Dialogue: 0,0:14:32.64,0:14:35.88,CHN,,0,0,0,,
+Dialogue: 0,0:14:32.64,0:14:35.88,CHN,,0,0,0,,与此同时 神经网络正在爆炸式发展
 Dialogue: 0,0:14:35.88,0:14:39.55,ENG,,0,0,0,,and a lot of what they do boils down to a single task:
-Dialogue: 0,0:14:35.88,0:14:39.55,CHN,,0,0,0,,
+Dialogue: 0,0:14:35.88,0:14:39.55,CHN,,0,0,0,,其所需的大部分操作 归结为一个单一任务
 Dialogue: 0,0:14:39.55,0:14:41.29,ENG,,0,0,0,,matrix multiplication.
-Dialogue: 0,0:14:39.55,0:14:41.29,CHN,,0,0,0,,
+Dialogue: 0,0:14:39.55,0:14:41.29,CHN,,0,0,0,,矩阵乘法
 Dialogue: 0,0:14:41.29,0:14:42.78,ENG,,0,0,0,,Best of all, neural networks
-Dialogue: 0,0:14:41.29,0:14:42.78,CHN,,0,0,0,,
 Dialogue: 0,0:14:42.78,0:14:45.35,ENG,,0,0,0,,don't need the precision of digital computers.
-Dialogue: 0,0:14:42.78,0:14:45.35,CHN,,0,0,0,,
+Dialogue: 0,0:14:41.29,0:14:45.35,CHN,,0,0,0,,最重要的是 神经网络不需要数字计算机提供的精度
 Dialogue: 0,0:14:45.35,0:14:48.99,ENG,,0,0,0,,Whether the neural net is 96% or 98% confident
-Dialogue: 0,0:14:45.35,0:14:48.99,CHN,,0,0,0,,
+Dialogue: 0,0:14:45.35,0:14:48.99,CHN,,0,0,0,,神经网络若认为图中包含一只鸡
 Dialogue: 0,0:14:48.99,0:14:50.41,ENG,,0,0,0,,the image contains a chicken,
-Dialogue: 0,0:14:48.99,0:14:50.41,CHN,,0,0,0,,
+Dialogue: 0,0:14:48.99,0:14:50.41,CHN,,0,0,0,,其 96% 或 98% 的置信度并不重要
 Dialogue: 0,0:14:50.41,0:14:52.81,ENG,,0,0,0,,it doesn't really matter, it's still a chicken.
-Dialogue: 0,0:14:50.41,0:14:52.81,CHN,,0,0,0,,
+Dialogue: 0,0:14:50.41,0:14:52.81,CHN,,0,0,0,,归根结底那仍是一只鸡
 Dialogue: 0,0:14:52.81,0:14:54.87,ENG,,0,0,0,,So slight variability in components
-Dialogue: 0,0:14:52.81,0:14:54.87,CHN,,0,0,0,,
 Dialogue: 0,0:14:54.87,0:14:57.37,ENG,,0,0,0,,or conditions can be tolerated.
-Dialogue: 0,0:14:54.87,0:14:57.37,CHN,,0,0,0,,
+Dialogue: 0,0:14:52.81,0:14:57.37,CHN,,0,0,0,,因此 零件和环境的轻微变化是可以容忍的
 Dialogue: 0,0:14:58.81,0:15:01.37,ENG,,0,0,0,,I went to an analog computing startup in Texas,
 Dialogue: 0,0:14:58.81,0:15:01.37,CHN,,0,0,0,,我造访了德州的一家初创公司
 Dialogue: 0,0:15:01.37,0:15:03.37,ENG,,0,0,0,,called Mythic AI.
