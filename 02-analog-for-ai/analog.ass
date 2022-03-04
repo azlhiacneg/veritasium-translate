@@ -544,10 +544,10 @@ Dialogue: 0,0:11:48.36,0:11:50.92,ENG,,0,0,0,,do not include the correct categor
 Dialogue: 0,0:11:48.36,0:11:50.92,CHN,,0,0,0,,均不是正确类别的频率
 Dialogue: 0,0:11:50.92,0:11:53.84,ENG,,0,0,0,,This is the so-called top-5 error rate.
 Dialogue: 0,0:11:50.92,0:11:53.84,CHN,,0,0,0,,这就是所谓的 Top-5 错误率
-Dialogue: 0,0:11:53.84,0:11:56.92,ENG,,0,0,0,,In 2010, the best performer had a top-5 error rate of 28.2%,
-Dialogue: 0,0:11:53.84,0:11:56.92,CHN,,0,0,0,,2010 年 表现最佳的程序达到了 28.2%
-Dialogue: 0,0:11:56.92,0:12:01.08,ENG,,0,0,0,,meaning that nearly 1/3 of the time,
-Dialogue: 0,0:11:56.92,0:12:01.08,CHN,,0,0,0,,这意味着在近三分之一的测试中
+Dialogue: 0,0:11:53.84,0:11:58.82,ENG,,0,0,0,,In 2010, the best performer had a top-5 error rate of 28.2%,
+Dialogue: 0,0:11:53.84,0:11:58.82,CHN,,0,0,0,,2010 年 表现最佳的程序达到了 28.2%
+Dialogue: 0,0:11:58.82,0:12:01.08,ENG,,0,0,0,,meaning that nearly 1/3 of the time,
+Dialogue: 0,0:11:58.82,0:12:01.08,CHN,,0,0,0,,这意味着在近三分之一的测试中
 Dialogue: 0,0:12:01.08,0:12:04.57,ENG,,0,0,0,,the correct answer was not among its top five guesses.
 Dialogue: 0,0:12:01.08,0:12:04.57,CHN,,0,0,0,,正确答案都不在其前 5 个猜测之列
 Dialogue: 0,0:12:04.57,0:12:09.27,ENG,,0,0,0,,In 2011, the error rate of the best performer was 25.8%,
@@ -652,9 +652,9 @@ Dialogue: 0,0:14:18.19,0:14:20.13,ENG,,0,0,0,,but now the size of a transistor
 Dialogue: 0,0:14:20.13,0:14:21.91,ENG,,0,0,0,,is approaching the size of an atom.
 Dialogue: 0,0:14:18.19,0:14:21.91,CHN,,0,0,0,,但现在晶体管的尺寸已经接近原子大小
 Dialogue: 0,0:14:21.91,0:14:24.69,ENG,,0,0,0,,So there are some fundamental physical challenges
-Dialogue: 0,0:14:21.91,0:14:23.69,CHN,,0,0,0,,因此进一步小型化
+Dialogue: 0,0:14:21.91,0:14:24.69,CHN,,0,0,0,,因此进一步小型化
 Dialogue: 0,0:14:24.69,0:14:26.88,ENG,,0,0,0,,to further miniaturization.
-Dialogue: 0,0:14:23.69,0:14:26.88,CHN,,0,0,0,,在物理原理上面临挑战
+Dialogue: 0,0:14:24.69,0:14:26.88,CHN,,0,0,0,,在物理原理上面临挑战
 Dialogue: 0,0:14:26.88,0:14:30.27,ENG,,0,0,0,,So this is the perfect storm for analog computers.
 Dialogue: 0,0:14:26.88,0:14:30.27,CHN,,0,0,0,,因此 模拟计算机正逢其时
 Dialogue: 0,0:14:30.27,0:14:32.64,ENG,,0,0,0,,Digital computers are reaching their limits.
@@ -671,7 +671,7 @@ Dialogue: 0,0:14:41.29,0:14:45.35,CHN,,0,0,0,,最重要的是 神经网络不需
 Dialogue: 0,0:14:45.35,0:14:48.99,ENG,,0,0,0,,Whether the neural net is 96% or 98% confident
 Dialogue: 0,0:14:45.35,0:14:48.99,CHN,,0,0,0,,神经网络若认为图中包含一只鸡
 Dialogue: 0,0:14:48.99,0:14:50.41,ENG,,0,0,0,,the image contains a chicken,
-Dialogue: 0,0:14:48.99,0:14:50.41,CHN,,0,0,0,,其 96% 或 98% 的置信度并不重要
+Dialogue: 0,0:14:48.99,0:14:50.41,CHN,,0,0,0,,不论置信度是 96% 或 98%
 Dialogue: 0,0:14:50.41,0:14:52.81,ENG,,0,0,0,,it doesn't really matter, it's still a chicken.
 Dialogue: 0,0:14:50.41,0:14:52.81,CHN,,0,0,0,,归根结底那仍是一只鸡
 Dialogue: 0,0:14:52.81,0:14:54.87,ENG,,0,0,0,,So slight variability in components
