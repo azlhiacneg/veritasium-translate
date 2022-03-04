@@ -377,115 +377,112 @@ Dialogue: 0,0:08:09.37,0:08:12.20,ENG,,0,0,0,,He drowned while sailing in Chesap
 Dialogue: 0,0:08:12.20,0:08:14.30,ENG,,0,0,0,,on his 43rd birthday.
 Dialogue: 0,0:08:09.37,0:08:14.30,CHN,,0,0,0,,他在 43 岁生日当天  在切萨皮克湾驾船时溺水身亡
 Dialogue: 0,0:08:17.33,0:08:19.66,ENG,,0,0,0,,- The NAV Lab is a road-worthy truck,
-Dialogue: 0,0:08:17.33,0:08:19.66,CHN,,0,0,0,,
+Dialogue: 0,0:08:17.33,0:08:19.66,CHN,,0,0,0,,- NAV 实验室是一辆适航性货车
 Dialogue: 0,0:08:19.66,0:08:22.29,ENG,,0,0,0,,modified so that researchers or computers
-Dialogue: 0,0:08:19.66,0:08:22.29,CHN,,0,0,0,,
+Dialogue: 0,0:08:19.66,0:08:22.29,CHN,,0,0,0,,它被改造后 能根据情况与需求
 Dialogue: 0,0:08:22.29,0:08:25.36,ENG,,0,0,0,,can control the vehicle as occasion demands.
-Dialogue: 0,0:08:22.29,0:08:25.36,CHN,,0,0,0,,
+Dialogue: 0,0:08:22.29,0:08:25.36,CHN,,0,0,0,,由被研究员或电脑来操控
 Dialogue: 0,0:08:25.36,0:08:28.09,ENG,,0,0,0,,- In the 1980s, there was an AI resurgence
-Dialogue: 0,0:08:25.36,0:08:28.09,CHN,,0,0,0,,
+Dialogue: 0,0:08:25.36,0:08:28.09,CHN,,0,0,0,,- 在20世纪80年代 卡耐基·梅隆大学的研究员在创造出其中一台
 Dialogue: 0,0:08:28.09,0:08:29.64,ENG,,0,0,0,,when researchers at Carnegie Mellon
-Dialogue: 0,0:08:28.09,0:08:29.64,CHN,,0,0,0,,
+Dialogue: 0,0:08:28.09,0:08:29.64,CHN,,0,0,0,,当时世界上最早的自动驾驶汽车的时候
 Dialogue: 0,0:08:29.64,0:08:32.47,ENG,,0,0,0,,created one of the first self-driving cars.
-Dialogue: 0,0:08:29.64,0:08:32.47,CHN,,0,0,0,,
+Dialogue: 0,0:08:29.64,0:08:32.47,CHN,,0,0,0,,曾经使人工智能一度再次兴起
 Dialogue: 0,0:08:32.47,0:08:35.48,ENG,,0,0,0,,The vehicle was steered by an artificial neural network
-Dialogue: 0,0:08:32.47,0:08:35.48,CHN,,0,0,0,,
 Dialogue: 0,0:08:35.48,0:08:36.78,ENG,,0,0,0,,called ALVINN.
-Dialogue: 0,0:08:35.48,0:08:36.78,CHN,,0,0,0,,
+Dialogue: 0,0:08:32.47,0:08:36.78,CHN,,0,0,0,,这辆车子的转向 是由一个叫 ALVINN 的人工神经网络来控制的
 Dialogue: 0,0:08:36.78,0:08:38.41,ENG,,0,0,0,,It was similar to the perceptron,
-Dialogue: 0,0:08:36.78,0:08:38.41,CHN,,0,0,0,,
+Dialogue: 0,0:08:36.78,0:08:38.41,CHN,,0,0,0,,它有点像感知器
 Dialogue: 0,0:08:38.41,0:08:41.08,ENG,,0,0,0,,except it had a hidden layer of artificial neurons
-Dialogue: 0,0:08:38.41,0:08:41.08,CHN,,0,0,0,,
+Dialogue: 0,0:08:38.41,0:08:41.08,CHN,,0,0,0,,只不过它在输入与输出之间
 Dialogue: 0,0:08:41.08,0:08:43.30,ENG,,0,0,0,,between the input and output.
-Dialogue: 0,0:08:41.08,0:08:43.30,CHN,,0,0,0,,
+Dialogue: 0,0:08:41.08,0:08:43.30,CHN,,0,0,0,,有一层隐藏起来的人工神经元
 Dialogue: 0,0:08:43.30,0:08:45.14,ENG,,0,0,0,,As input, ALVINN received
-Dialogue: 0,0:08:43.30,0:08:45.14,CHN,,0,0,0,,
+Dialogue: 0,0:08:43.30,0:08:45.14,CHN,,0,0,0,,作为输入端  ALVINN 以 30*32 像素的图像
 Dialogue: 0,0:08:45.14,0:08:48.40,ENG,,0,0,0,,30 by 32-pixel images of the road ahead.
-Dialogue: 0,0:08:45.14,0:08:48.40,CHN,,0,0,0,,
+Dialogue: 0,0:08:45.14,0:08:48.40,CHN,,0,0,0,,接收前面的路的信息
 Dialogue: 0,0:08:48.40,0:08:51.60,ENG,,0,0,0,,Here, I'm showing them as 60 by 64 pixels.
-Dialogue: 0,0:08:48.40,0:08:51.60,CHN,,0,0,0,,
+Dialogue: 0,0:08:48.40,0:08:51.60,CHN,,0,0,0,,在这里我将以60*64像素的清晰度来呈现
 Dialogue: 0,0:08:51.60,0:08:54.02,ENG,,0,0,0,,But each of these input neurons was connected
-Dialogue: 0,0:08:51.60,0:08:54.02,CHN,,0,0,0,,
+Dialogue: 0,0:08:51.60,0:08:54.02,CHN,,0,0,0,,但每一个输入的神经元都透过一个可调整的权重
 Dialogue: 0,0:08:54.02,0:08:57.95,ENG,,0,0,0,,via an adjustable weight to a hidden layer of four neurons.
-Dialogue: 0,0:08:54.02,0:08:57.95,CHN,,0,0,0,,
+Dialogue: 0,0:08:54.02,0:08:57.95,CHN,,0,0,0,,被连接到一层隐藏起来的4个神经元
 Dialogue: 0,0:08:57.95,0:09:01.60,ENG,,0,0,0,,These were each connected to 32 output neurons.
-Dialogue: 0,0:08:57.95,0:09:01.60,CHN,,0,0,0,,
+Dialogue: 0,0:08:57.95,0:09:01.60,CHN,,0,0,0,,而所有的这些隐藏层神经元 都连接到32个输出神经元
 Dialogue: 0,0:09:01.60,0:09:04.18,ENG,,0,0,0,,So to go from one layer of the network to the next,
-Dialogue: 0,0:09:01.60,0:09:04.18,CHN,,0,0,0,,
+Dialogue: 0,0:09:01.60,0:09:04.18,CHN,,0,0,0,,因此要从这网络的一层去到它的下一层
 Dialogue: 0,0:09:04.18,0:09:06.86,ENG,,0,0,0,,you perform a matrix multiplication:
-Dialogue: 0,0:09:04.18,0:09:06.86,CHN,,0,0,0,,
+Dialogue: 0,0:09:04.18,0:09:06.86,CHN,,0,0,0,,你必须要进行一次矩阵乘法
 Dialogue: 0,0:09:06.86,0:09:10.12,ENG,,0,0,0,,the input activation times the weights.
-Dialogue: 0,0:09:06.86,0:09:10.12,CHN,,0,0,0,,
+Dialogue: 0,0:09:06.86,0:09:10.12,CHN,,0,0,0,,输入激励乘以权重
 Dialogue: 0,0:09:10.12,0:09:12.58,ENG,,0,0,0,,The output neuron with the greatest activation
-Dialogue: 0,0:09:10.12,0:09:12.58,CHN,,0,0,0,,
+Dialogue: 0,0:09:10.12,0:09:12.58,CHN,,0,0,0,,输出神经元和最大的激励
 Dialogue: 0,0:09:12.58,0:09:14.48,ENG,,0,0,0,,determines the steering angle.
-Dialogue: 0,0:09:12.58,0:09:14.48,CHN,,0,0,0,,
+Dialogue: 0,0:09:12.58,0:09:14.48,CHN,,0,0,0,,决定了方向盘的转动角度
 Dialogue: 0,0:09:15.54,0:09:16.92,ENG,,0,0,0,,To train the neural net,
-Dialogue: 0,0:09:15.54,0:09:16.92,CHN,,0,0,0,,
+Dialogue: 0,0:09:15.54,0:09:16.92,CHN,,0,0,0,,要训练这个神经网络
 Dialogue: 0,0:09:16.92,0:09:18.55,ENG,,0,0,0,,a human drove the vehicle,
-Dialogue: 0,0:09:16.92,0:09:18.55,CHN,,0,0,0,,
+Dialogue: 0,0:09:16.92,0:09:18.55,CHN,,0,0,0,,需要一个人去开这辆车
 Dialogue: 0,0:09:18.55,0:09:22.61,ENG,,0,0,0,,providing the correct steering angle for a given input image.
-Dialogue: 0,0:09:18.55,0:09:22.61,CHN,,0,0,0,,
+Dialogue: 0,0:09:18.55,0:09:22.61,CHN,,0,0,0,,提供对于一个给定图像的正确的转动角
 Dialogue: 0,0:09:22.61,0:09:24.11,ENG,,0,0,0,,All the weights in the neural network
-Dialogue: 0,0:09:22.61,0:09:24.11,CHN,,0,0,0,,
+Dialogue: 0,0:09:22.61,0:09:24.11,CHN,,0,0,0,,所有在这个神经网络里面的权重
 Dialogue: 0,0:09:24.11,0:09:25.64,ENG,,0,0,0,,were adjusted through the training
-Dialogue: 0,0:09:24.11,0:09:25.64,CHN,,0,0,0,,
+Dialogue: 0,0:09:24.11,0:09:25.64,CHN,,0,0,0,,都在训练过程中被调整了
 Dialogue: 0,0:09:25.64,0:09:29.06,ENG,,0,0,0,,so that ALVINN's output better matched that of the human driver.
-Dialogue: 0,0:09:25.64,0:09:29.06,CHN,,0,0,0,,
+Dialogue: 0,0:09:25.64,0:09:29.06,CHN,,0,0,0,,这样能使 ALVINN 的输出能与人类司机更匹配
 Dialogue: 0,0:09:30.27,0:09:31.78,ENG,,0,0,0,,The method for adjusting the weights
-Dialogue: 0,0:09:30.27,0:09:31.78,CHN,,0,0,0,,
+Dialogue: 0,0:09:30.27,0:09:31.78,CHN,,0,0,0,,调整权重的方法
 Dialogue: 0,0:09:31.78,0:09:33.39,ENG,,0,0,0,,is called backpropagation,
-Dialogue: 0,0:09:31.78,0:09:33.39,CHN,,0,0,0,,
+Dialogue: 0,0:09:31.78,0:09:33.39,CHN,,0,0,0,,被称为反向传播算法
 Dialogue: 0,0:09:33.39,0:09:34.93,ENG,,0,0,0,,which I won't go into here,
-Dialogue: 0,0:09:33.39,0:09:34.93,CHN,,0,0,0,,
+Dialogue: 0,0:09:33.39,0:09:34.93,CHN,,0,0,0,,这我不会在这里深入探讨
 Dialogue: 0,0:09:34.93,0:09:37.35,ENG,,0,0,0,,but Welch Labs has a great series on this,
-Dialogue: 0,0:09:34.93,0:09:37.35,CHN,,0,0,0,,
+Dialogue: 0,0:09:34.93,0:09:37.35,CHN,,0,0,0,,但 Welch Labs  频道有一系列的影片讲解这个算法
 Dialogue: 0,0:09:37.35,0:09:39.25,ENG,,0,0,0,,which I'll link to in the description.
 Dialogue: 0,0:09:37.35,0:09:39.25,CHN,,0,0,0,,
 Dialogue: 0,0:09:40.09,0:09:41.90,ENG,,0,0,0,,Again, you can visualize the weights
-Dialogue: 0,0:09:40.09,0:09:41.90,CHN,,0,0,0,,
+Dialogue: 0,0:09:40.09,0:09:41.90,CHN,,0,0,0,,话说回来 你可以将这四个隐藏层神经元的权重
 Dialogue: 0,0:09:41.90,0:09:44.50,ENG,,0,0,0,,for the four hidden neurons as images.
-Dialogue: 0,0:09:41.90,0:09:44.50,CHN,,0,0,0,,
+Dialogue: 0,0:09:41.90,0:09:44.50,CHN,,0,0,0,,视觉化成图像
 Dialogue: 0,0:09:44.50,0:09:46.72,ENG,,0,0,0,,The weights are initially set to be random,
-Dialogue: 0,0:09:44.50,0:09:46.72,CHN,,0,0,0,,
+Dialogue: 0,0:09:44.50,0:09:46.72,CHN,,0,0,0,,在一开始 权重将被设置为随机数
 Dialogue: 0,0:09:46.72,0:09:48.21,ENG,,0,0,0,,but as training progresses,
-Dialogue: 0,0:09:46.72,0:09:48.21,CHN,,0,0,0,,
+Dialogue: 0,0:09:46.72,0:09:48.21,CHN,,0,0,0,,但随着训练进行着
 Dialogue: 0,0:09:48.21,0:09:51.76,ENG,,0,0,0,,the computer learns to pick up on certain patterns.
-Dialogue: 0,0:09:48.21,0:09:51.76,CHN,,0,0,0,,
+Dialogue: 0,0:09:48.21,0:09:51.76,CHN,,0,0,0,,计算机学会了如何去选一个特定的模式
 Dialogue: 0,0:09:51.76,0:09:54.89,ENG,,0,0,0,,You can see the road markings emerge in the weights.
-Dialogue: 0,0:09:51.76,0:09:54.89,CHN,,0,0,0,,
+Dialogue: 0,0:09:51.76,0:09:54.89,CHN,,0,0,0,,你可以看到路的标线出现在那些权重里
 Dialogue: 0,0:09:54.89,0:09:58.19,ENG,,0,0,0,,Simultaneously, the output steering angle coalesces
-Dialogue: 0,0:09:54.89,0:09:58.19,CHN,,0,0,0,,
+Dialogue: 0,0:09:54.89,0:09:58.19,CHN,,0,0,0,,而在同时 输出的转向角
 Dialogue: 0,0:09:58.19,0:10:00.62,ENG,,0,0,0,,onto the human steering angle.
-Dialogue: 0,0:09:58.19,0:10:00.62,CHN,,0,0,0,,
+Dialogue: 0,0:09:58.19,0:10:00.62,CHN,,0,0,0,,也在朝人类转向的模式靠近
 Dialogue: 0,0:10:00.62,0:10:03.08,ENG,,0,0,0,,The computer drove the vehicle at a top speed
-Dialogue: 0,0:10:00.62,0:10:03.08,CHN,,0,0,0,,
 Dialogue: 0,0:10:03.08,0:10:06.35,ENG,,0,0,0,,of around one or two kilometers per hour.
-Dialogue: 0,0:10:03.08,0:10:06.35,CHN,,0,0,0,,
+Dialogue: 0,0:10:00.62,0:10:06.35,CHN,,0,0,0,,计算机以每小时1-2公里的最高速度驾驶着这台汽车
 Dialogue: 0,0:10:06.35,0:10:07.83,ENG,,0,0,0,,It was limited by the speed
-Dialogue: 0,0:10:06.35,0:10:07.83,CHN,,0,0,0,,
+Dialogue: 0,0:10:06.35,0:10:07.83,CHN,,0,0,0,,限制它最高速度的瓶颈
 Dialogue: 0,0:10:07.83,0:10:10.76,ENG,,0,0,0,,at which the computer could perform matrix multiplication.
-Dialogue: 0,0:10:07.83,0:10:10.76,CHN,,0,0,0,,
+Dialogue: 0,0:10:07.83,0:10:10.76,CHN,,0,0,0,,是这台计算机进行矩阵乘法的速度极限
 Dialogue: 0,0:10:12.25,0:10:13.70,ENG,,0,0,0,,Despite these advances,
-Dialogue: 0,0:10:12.25,0:10:13.70,CHN,,0,0,0,,
+Dialogue: 0,0:10:12.25,0:10:13.70,CHN,,0,0,0,,尽管取得了这些进展
 Dialogue: 0,0:10:13.70,0:10:17.55,ENG,,0,0,0,,artificial neural networks still struggled with seemingly simple tasks,
-Dialogue: 0,0:10:13.70,0:10:17.55,CHN,,0,0,0,,
+Dialogue: 0,0:10:13.70,0:10:17.55,CHN,,0,0,0,,人工神经网络仍然很难完成看似简单的任务
 Dialogue: 0,0:10:17.55,0:10:19.92,ENG,,0,0,0,,like telling apart cats and dogs.
-Dialogue: 0,0:10:17.55,0:10:19.92,CHN,,0,0,0,,
+Dialogue: 0,0:10:17.55,0:10:19.92,CHN,,0,0,0,,像分辨猫和狗之类的
 Dialogue: 0,0:10:19.92,0:10:24.21,ENG,,0,0,0,,And no one knew whether hardware or software was the weak link.
-Dialogue: 0,0:10:19.92,0:10:24.21,CHN,,0,0,0,,
+Dialogue: 0,0:10:19.92,0:10:24.21,CHN,,0,0,0,,而且没有人知道这短板到底是来源于硬件还是软件
 Dialogue: 0,0:10:24.21,0:10:26.56,ENG,,0,0,0,,I mean, did we have a good model of intelligence,
-Dialogue: 0,0:10:24.21,0:10:26.56,CHN,,0,0,0,,
+Dialogue: 0,0:10:24.21,0:10:26.56,CHN,,0,0,0,,换句话说 我们是否拥有一个很智能的模型
 Dialogue: 0,0:10:26.56,0:10:28.59,ENG,,0,0,0,,we just needed more computer power?
-Dialogue: 0,0:10:26.56,0:10:28.59,CHN,,0,0,0,,
+Dialogue: 0,0:10:26.56,0:10:28.59,CHN,,0,0,0,,而我们所需要的 仅仅是更强的计算性能？
 Dialogue: 0,0:10:28.59,0:10:30.47,ENG,,0,0,0,,Or, did we have the wrong idea
-Dialogue: 0,0:10:28.59,0:10:30.47,CHN,,0,0,0,,
+Dialogue: 0,0:10:28.59,0:10:30.47,CHN,,0,0,0,,抑或是 我们对如何构建智能系统
 Dialogue: 0,0:10:30.47,0:10:33.55,ENG,,0,0,0,,about how to make intelligence systems altogether?
-Dialogue: 0,0:10:30.47,0:10:33.55,CHN,,0,0,0,,
+Dialogue: 0,0:10:30.47,0:10:33.55,CHN,,0,0,0,,拥有着完全错误的观念
 Dialogue: 0,0:10:33.55,0:10:34.79,ENG,,0,0,0,,So artificial intelligence
-Dialogue: 0,0:10:33.55,0:10:34.79,CHN,,0,0,0,,
-Dialogue: 0,0:10:34.79,0:10:38.15,ENG,,0,0,0,,experienced another lull in the 1990s.
-Dialogue: 0,0:10:34.79,0:10:38.15,CHN,,0,0,0,,
+Dialogue: 0,0:10:33.55,0:10:38.15,ENG,,0,0,0,,experienced another lull in the 1990s.
+Dialogue: 0,0:10:33.55,0:10:38.15,CHN,,0,0,0,,所以人工智能 在20世纪90年代陷入了另一个低谷
 Dialogue: 0,0:10:38.15,0:10:39.44,ENG,,0,0,0,,By the mid 2000s,
 Dialogue: 0,0:10:38.15,0:10:39.44,CHN,,0,0,0,,直到 2000 年代中期
 Dialogue: 0,0:10:39.44,0:10:43.25,ENG,,0,0,0,,most AI researchers were focused on improving algorithms.
