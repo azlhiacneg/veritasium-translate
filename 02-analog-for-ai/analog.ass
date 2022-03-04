@@ -912,60 +912,60 @@ Dialogue: 0,0:19:15.97,0:19:18.36,CHN,,0,0,0,,然后再把它转换到模拟域
 Dialogue: 0,0:19:18.36,0:19:20.49,ENG,,0,0,0,,And that allows you to preserve the signal.
 Dialogue: 0,0:19:18.36,0:19:20.49,CHN,,0,0,0,,这样就可以避免信号失真
 Dialogue: 0,0:19:20.49,0:19:22.64,ENG,,0,0,0,,- You know, when Rosenblatt was first setting
-Dialogue: 0,0:19:20.49,0:19:22.64,CHN,,0,0,0,,
+Dialogue: 0,0:19:20.49,0:19:22.64,CHN,,0,0,0,,所以  当罗森布拉特首次搭建感知机的时候
 Dialogue: 0,0:19:22.64,0:19:23.75,ENG,,0,0,0,,up his perceptron,
-Dialogue: 0,0:19:22.64,0:19:23.75,CHN,,0,0,0,,
+Dialogue: 0,0:19:22.64,0:19:23.75,CHN,,0,0,0,,所以  当罗森布拉特首次搭建感知机的时候
 Dialogue: 0,0:19:23.75,0:19:26.70,ENG,,0,0,0,,he used a digital IBM computer.
-Dialogue: 0,0:19:23.75,0:19:26.70,CHN,,0,0,0,,
+Dialogue: 0,0:19:23.75,0:19:26.70,CHN,,0,0,0,,用的还是IBM的数字计算机
 Dialogue: 0,0:19:26.70,0:19:28.33,ENG,,0,0,0,,Finding it too slow,
-Dialogue: 0,0:19:26.70,0:19:28.33,CHN,,0,0,0,,
+Dialogue: 0,0:19:26.70,0:19:28.33,CHN,,0,0,0,,但发现它太慢了
 Dialogue: 0,0:19:28.33,0:19:30.84,ENG,,0,0,0,,he built a custom analog computer,
-Dialogue: 0,0:19:28.33,0:19:30.84,CHN,,0,0,0,,
+Dialogue: 0,0:19:28.33,0:19:30.84,CHN,,0,0,0,,随后又搭建了定制的模拟计算机
 Dialogue: 0,0:19:30.84,0:19:32.57,ENG,,0,0,0,,complete with variable resistors
-Dialogue: 0,0:19:30.84,0:19:32.57,CHN,,0,0,0,,
+Dialogue: 0,0:19:30.84,0:19:32.57,CHN,,0,0,0,,这回用的是变阻器和小电机来驱动
 Dialogue: 0,0:19:32.57,0:19:35.29,ENG,,0,0,0,,and little motors to drive them.
-Dialogue: 0,0:19:32.57,0:19:35.29,CHN,,0,0,0,,
+Dialogue: 0,0:19:32.57,0:19:35.29,CHN,,0,0,0,,这回用的是变阻器和小电机来驱动
 Dialogue: 0,0:19:35.29,0:19:37.81,ENG,,0,0,0,,Ultimately, his idea of neural networks
-Dialogue: 0,0:19:35.29,0:19:37.81,CHN,,0,0,0,,
+Dialogue: 0,0:19:35.29,0:19:37.81,CHN,,0,0,0,,最终  人们发现他神经网络的想法是正确的
 Dialogue: 0,0:19:37.81,0:19:39.40,ENG,,0,0,0,,turned out to be right.
-Dialogue: 0,0:19:37.81,0:19:39.40,CHN,,0,0,0,,
+Dialogue: 0,0:19:37.81,0:19:39.40,CHN,,0,0,0,,最终  人们发现他神经网络的想法是正确的
 Dialogue: 0,0:19:39.40,0:19:42.37,ENG,,0,0,0,,Maybe he was right about analog, too.
-Dialogue: 0,0:19:39.40,0:19:42.37,CHN,,0,0,0,,
+Dialogue: 0,0:19:39.40,0:19:42.37,CHN,,0,0,0,,也许他的模拟计算机也会是正确的
 Dialogue: 0,0:19:43.25,0:19:45.56,ENG,,0,0,0,,Now, I can't say whether analog computers
-Dialogue: 0,0:19:43.25,0:19:45.56,CHN,,0,0,0,,
+Dialogue: 0,0:19:43.25,0:19:45.56,CHN,,0,0,0,,现在  我也不确定模拟计算机能否走上
 Dialogue: 0,0:19:45.56,0:19:48.69,ENG,,0,0,0,,will take off the way digital did last century,
-Dialogue: 0,0:19:45.56,0:19:48.69,CHN,,0,0,0,,
+Dialogue: 0,0:19:45.56,0:19:48.69,CHN,,0,0,0,,数字计算机在上个世纪的光辉道路
 Dialogue: 0,0:19:48.69,0:19:51.36,ENG,,0,0,0,,but they do seem to be better suited
-Dialogue: 0,0:19:48.69,0:19:51.36,CHN,,0,0,0,,
+Dialogue: 0,0:19:48.69,0:19:51.36,CHN,,0,0,0,,但是有些时候  模拟计算机更适合
 Dialogue: 0,0:19:51.36,0:19:55.21,ENG,,0,0,0,,to a lot of the tasks that we want computers to perform today,
-Dialogue: 0,0:19:51.36,0:19:55.21,CHN,,0,0,0,,
+Dialogue: 0,0:19:51.36,0:19:55.21,CHN,,0,0,0,,处理人们现在需要的计算任务
 Dialogue: 0,0:19:55.21,0:19:56.24,ENG,,0,0,0,,which is a little bit funny
-Dialogue: 0,0:19:55.21,0:19:56.24,CHN,,0,0,0,,
+Dialogue: 0,0:19:55.21,0:19:56.24,CHN,,0,0,0,,有趣的是
 Dialogue: 0,0:19:56.24,0:19:58.08,ENG,,0,0,0,,because I always thought of digital
-Dialogue: 0,0:19:56.24,0:19:58.08,CHN,,0,0,0,,
+Dialogue: 0,0:19:56.24,0:19:58.08,CHN,,0,0,0,,我总以为数字技术是处理信息的最佳选项
 Dialogue: 0,0:19:58.08,0:20:01.53,ENG,,0,0,0,,as the optimal way of processing information.
-Dialogue: 0,0:19:58.08,0:20:01.53,CHN,,0,0,0,,
+Dialogue: 0,0:19:58.08,0:20:01.53,CHN,,0,0,0,,我总以为数字技术是处理信息的最佳选项
 Dialogue: 0,0:20:01.53,0:20:03.77,ENG,,0,0,0,,Everything from music to pictures,
-Dialogue: 0,0:20:01.53,0:20:03.77,CHN,,0,0,0,,
+Dialogue: 0,0:20:01.53,0:20:03.77,CHN,,0,0,0,,从音乐到照片再到视频
 Dialogue: 0,0:20:03.77,0:20:07.86,ENG,,0,0,0,,to video has all gone digital in the last 50 years.
-Dialogue: 0,0:20:03.77,0:20:07.86,CHN,,0,0,0,,
+Dialogue: 0,0:20:03.77,0:20:07.86,CHN,,0,0,0,,我们身边的一切  在过去的50年里都变成了数字媒体
 Dialogue: 0,0:20:07.86,0:20:09.67,ENG,,0,0,0,,But maybe in a 100 years,
-Dialogue: 0,0:20:07.86,0:20:09.67,CHN,,0,0,0,,
-Dialogue: 0,0:20:09.67,0:20:11.10,ENG,,0,0,0,,we will look back on digital,
-Dialogue: 0,0:20:09.67,0:20:11.10,CHN,,0,0,0,,
-Dialogue: 0,0:20:11.10,0:20:15.06,ENG,,0,0,0,,not not as the end point of information technology,
-Dialogue: 0,0:20:11.10,0:20:15.06,CHN,,0,0,0,,
+Dialogue: 0,0:20:07.86,0:20:09.67,CHN,,0,0,0,,但也许再过一百年
+Dialogue: 0,0:20:09.67,0:20:11.44,ENG,,0,0,0,,we will look back on digital,
+Dialogue: 0,0:20:09.67,0:20:11.44,CHN,,0,0,0,,我们回望数字技术的时候
+Dialogue: 0,0:20:11.44,0:20:15.06,ENG,,0,0,0,,not as the end point of information technology,
+Dialogue: 0,0:20:11.44,0:20:15.06,CHN,,0,0,0,,发现它不是信息技术的终点
 Dialogue: 0,0:20:15.06,0:20:17.32,ENG,,0,0,0,,but as a starting point.
-Dialogue: 0,0:20:15.06,0:20:17.32,CHN,,0,0,0,,
+Dialogue: 0,0:20:15.06,0:20:17.32,CHN,,0,0,0,,而是起点
 Dialogue: 0,0:20:17.32,0:20:21.93,ENG,,0,0,0,,Our brains are digital in that a neuron either fires or it doesn't,
-Dialogue: 0,0:20:17.32,0:20:21.93,CHN,,0,0,0,,
+Dialogue: 0,0:20:17.32,0:20:21.93,CHN,,0,0,0,,神经元信号的发射（1）与不发射（0）代表的大脑是数字式的
 Dialogue: 0,0:20:21.93,0:20:24.04,ENG,,0,0,0,,but they're also analog
-Dialogue: 0,0:20:21.93,0:20:24.04,CHN,,0,0,0,,
+Dialogue: 0,0:20:21.93,0:20:24.04,CHN,,0,0,0,,但是他们也是模拟的
 Dialogue: 0,0:20:24.04,0:20:28.22,ENG,,0,0,0,,in that thinking takes place everywhere, all at once.
-Dialogue: 0,0:20:24.04,0:20:28.22,CHN,,0,0,0,,
+Dialogue: 0,0:20:24.04,0:20:28.22,CHN,,0,0,0,,我们思考的过程是同时发生在大脑各处的
 Dialogue: 0,0:20:28.22,0:20:32.49,ENG,,0,0,0,,So maybe what we need to achieve true artificial intelligence,
-Dialogue: 0,0:20:30.07,0:20:32.49,CHN,,0,0,0,,
+Dialogue: 0,0:20:28.22,0:20:32.49,CHN,,0,0,0,,因此  我们要想实现真正的人工智能
 Dialogue: 0,0:20:32.49,0:20:34.68,ENG,,0,0,0,,machines that think like us,
-Dialogue: 0,0:20:32.49,0:20:34.68,CHN,,0,0,0,,
+Dialogue: 0,0:20:32.49,0:20:34.68,CHN,,0,0,0,,造出像人类一样思考的机器
 Dialogue: 0,0:20:34.68,0:20:37.13,ENG,,0,0,0,,is the power of analog.
-Dialogue: 0,0:20:34.68,0:20:37.13,CHN,,0,0,0,,
+Dialogue: 0,0:20:34.68,0:20:37.13,CHN,,0,0,0,,模拟的力量也许真的不可或缺
