@@ -385,7 +385,7 @@ Dialogue: 0,0:08:28.09,0:08:29.64,CHN,,0,0,0,,造出其中一台世界上最早�
 Dialogue: 0,0:08:29.64,0:08:32.47,ENG,,0,0,0,,created one of the first self-driving cars.
 Dialogue: 0,0:08:29.64,0:08:32.47,CHN,,0,0,0,,人工智能一度再次兴起
 Dialogue: 0,0:08:32.47,0:08:36.78,ENG,,0,0,0,,The vehicle was steered by an artificial neural network called ALVINN.
-Dialogue: 0,0:08:32.47,0:08:36.78,CHN,,0,0,0,,这辆车的方向盘 由人工神经网络 ALVINN 控制
+Dialogue: 0,0:08:32.47,0:08:36.78,CHN,,0,0,0,,控制这辆车转向的  是一个人工神经网络
 Dialogue: 0,0:08:36.78,0:08:38.41,ENG,,0,0,0,,It was similar to the perceptron,
 Dialogue: 0,0:08:36.78,0:08:38.41,CHN,,0,0,0,,它有点像感知机
 Dialogue: 0,0:08:38.41,0:08:41.08,ENG,,0,0,0,,except it had a hidden layer of artificial neurons
@@ -669,7 +669,7 @@ Dialogue: 0,0:14:52.81,0:14:54.87,ENG,,0,0,0,,So slight variability in component
 Dialogue: 0,0:14:54.87,0:14:57.37,ENG,,0,0,0,,or conditions can be tolerated.
 Dialogue: 0,0:14:52.81,0:14:57.37,CHN,,0,0,0,,因此 零件和环境的轻微变化是可以容忍的
 Dialogue: 0,0:14:58.81,0:15:01.37,ENG,,0,0,0,,I went to an analog computing startup in Texas,
-Dialogue: 0,0:14:58.81,0:15:03.37,CHN,,0,0,0,,我造访了德州的一家
+Dialogue: 0,0:14:58.81,0:15:01.37,CHN,,0,0,0,,我造访了德州的一家
 Dialogue: 0,0:15:01.37,0:15:03.37,ENG,,0,0,0,,called Mythic AI.
 Dialogue: 0,0:15:01.37,0:15:03.37,CHN,,0,0,0,,名为 Mythic AI(神话智能) 的初创公司
 Dialogue: 0,0:15:03.37,0:15:06.82,ENG,,0,0,0,,Here, they're creating analog chips to run neural networks.
@@ -819,9 +819,9 @@ Dialogue: 0,0:18:00.68,0:18:02.78,CHN,,0,0,0,,但是那都是些庞大而昂贵�
 Dialogue: 0,0:18:02.78,0:18:06.59,ENG,,0,0,0,,that are spitting out 50 to 100 watts of power.
 Dialogue: 0,0:18:02.78,0:18:06.59,CHN,,0,0,0,,它们的功率在 50 到 100 瓦特
 Dialogue: 0,0:18:06.59,0:18:07.68,ENG,,0,0,0,,- Obviously this isn't
-Dialogue: 0,0:18:06.59,0:18:07.68,CHN,,0,0,0,,- 显然
+Dialogue: 0,0:18:06.59,0:18:07.68,CHN,,0,0,0,,- 显然 这两者是没法相比的
 Dialogue: 0,0:18:07.68,0:18:09.46,ENG,,0,0,0,,like an apples apples comparison, right?
-Dialogue: 0,0:18:07.68,0:18:09.46,CHN,,0,0,0,,这两者是没法相比的 对吧
+Dialogue: 0,0:18:07.68,0:18:09.46,CHN,,0,0,0,, 对吧
 Dialogue: 0,0:18:09.46,0:18:10.58,ENG,,0,0,0,,- No, it's not apples to apples.
 Dialogue: 0,0:18:09.46,0:18:10.58,CHN,,0,0,0,,- 不 完全没法比
 Dialogue: 0,0:18:10.58,0:18:13.66,ENG,,0,0,0,,I mean, training those algorithms,
@@ -894,8 +894,8 @@ Dialogue: 0,0:19:26.70,0:19:28.33,CHN,,0,0,0,,因为嫌弃它太慢
 Dialogue: 0,0:19:28.33,0:19:30.84,ENG,,0,0,0,,he built a custom analog computer,
 Dialogue: 0,0:19:28.33,0:19:30.84,CHN,,0,0,0,,他搭建了定制的模拟计算机
 Dialogue: 0,0:19:30.84,0:19:32.57,ENG,,0,0,0,,complete with variable resistors
-Dialogue: 0,0:19:30.84,0:19:35.29,CHN,,0,0,0,,这回用的是变阻器和小电机来驱动
 Dialogue: 0,0:19:32.57,0:19:35.29,ENG,,0,0,0,,and little motors to drive them.
+Dialogue: 0,0:19:30.84,0:19:35.29,CHN,,0,0,0,,使用变阻器和小电机来驱动
 Dialogue: 0,0:19:35.29,0:19:37.81,ENG,,0,0,0,,Ultimately, his idea of neural networks
 Dialogue: 0,0:19:37.81,0:19:39.40,ENG,,0,0,0,,turned out to be right.
 Dialogue: 0,0:19:35.29,0:19:39.40,CHN,,0,0,0,,最终  人们发现他神经网络的想法是正确的
@@ -910,10 +910,10 @@ Dialogue: 0,0:19:48.69,0:19:51.36,CHN,,0,0,0,,但是有些时候  模拟计算�
 Dialogue: 0,0:19:51.36,0:19:55.21,ENG,,0,0,0,,to a lot of the tasks that we want computers to perform today,
 Dialogue: 0,0:19:51.36,0:19:55.21,CHN,,0,0,0,,处理人们现在需要的计算任务
 Dialogue: 0,0:19:55.21,0:19:56.24,ENG,,0,0,0,,which is a little bit funny
-Dialogue: 0,0:19:55.21,0:19:56.24,CHN,,0,0,0,,有趣的是
+Dialogue: 0,0:19:55.21,0:19:56.24,CHN,,0,0,0,,我觉得这挺有趣的
 Dialogue: 0,0:19:56.24,0:19:58.08,ENG,,0,0,0,,because I always thought of digital
 Dialogue: 0,0:19:58.08,0:20:01.53,ENG,,0,0,0,,as the optimal way of processing information.
-Dialogue: 0,0:19:56.24,0:20:01.53,CHN,,0,0,0,,我总以为数字技术是处理信息的最佳选项
+Dialogue: 0,0:19:56.24,0:20:01.53,CHN,,0,0,0,,因为我总以为 数字技术是处理信息的最佳选项
 Dialogue: 0,0:20:01.53,0:20:03.77,ENG,,0,0,0,,Everything from music to pictures,
 Dialogue: 0,0:20:01.53,0:20:03.77,CHN,,0,0,0,,从音乐到照片再到视频
 Dialogue: 0,0:20:03.77,0:20:07.86,ENG,,0,0,0,,to video has all gone digital in the last 50 years.
