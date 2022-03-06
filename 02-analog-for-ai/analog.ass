@@ -40,12 +40,14 @@ Dialogue: 0,0:00:30.43,0:00:32.67,ENG,,0,0,0,,I can program it to solve a whole 
 Dialogue: 0,0:00:30.43,0:00:32.67,CHN,,0,0,0,,给它编写程序
 Dialogue: 0,0:00:32.67,0:00:34.87,ENG,,0,0,0,,of differential equations.
 Dialogue: 0,0:00:32.67,0:00:34.87,CHN,,0,0,0,,让它解不同的微分方程
-Dialogue: 0,0:00:34.87,0:00:37.74,ENG,,0,0,0,,For example, this setup allows me to simulate
-Dialogue: 0,0:00:37.74,0:00:40.80,ENG,,0,0,0,,a damped mass oscillating on a spring.
-Dialogue: 0,0:00:34.87,0:00:40.80,CHN,,0,0,0,,例如 我这样接线 就可以模拟一个带阻尼的重物在弹簧上振动
+Dialogue: 0,0:00:34.87,0:00:36.27,ENG,,0,0,0,,For example, this setup
+Dialogue: 0,0:00:34.87,0:00:36.27,CHN,,0,0,0,,例如 我这样接线
+Dialogue: 0,0:00:36.27,0:00:40.80,ENG,,0,0,0,,allows me to simulate a damped mass oscillating on a spring.
+Dialogue: 0,0:00:36.27,0:00:40.80,CHN,,0,0,0,,就可以模拟一个带阻尼的重物在弹簧上振动
 Dialogue: 0,0:00:40.80,0:00:43.06,ENG,,0,0,0,,So on the oscilloscope you can actually see
+Dialogue: 0,0:00:40.80,0:00:43.06,CHN,,0,0,0,,然后你就能在示波器上看到
 Dialogue: 0,0:00:43.06,0:00:45.75,ENG,,0,0,0,,the position of the mass over time.
-Dialogue: 0,0:00:40.80,0:00:45.75,CHN,,0,0,0,,然后在示波器上 就能看到重物的位移随时间变化的图像
+Dialogue: 0,0:00:43.06,0:00:45.75,CHN,,0,0,0,,重物的位移随时间变化的图像
 Dialogue: 0,0:00:45.75,0:00:48.94,ENG,,0,0,0,,And I can vary the damping,
 Dialogue: 0,0:00:45.75,0:00:48.94,CHN,,0,0,0,,我还可以改变阻尼
 Dialogue: 0,0:00:48.94,0:00:51.90,ENG,,0,0,0,,or the spring constant,
@@ -63,7 +65,7 @@ Dialogue: 0,0:01:03.44,0:01:06.81,CHN,,0,0,0,,而是真正的有一个电压
 Dialogue: 0,0:01:06.81,0:01:10.26,ENG,,0,0,0,,up and down exactly like a mass on a spring.
 Dialogue: 0,0:01:06.81,0:01:10.26,CHN,,0,0,0,,像重物在弹簧上一样上下振动
 Dialogue: 0,0:01:10.26,0:01:14.33,ENG,,0,0,0,,The electrical circuitry is an analog for the physical problem,
-Dialogue: 0,0:01:10.26,0:01:14.33,CHN,,0,0,0,,这个电子电路模拟了这个物理问题
+Dialogue: 0,0:01:10.26,0:01:14.33,CHN,,0,0,0,,这个电路模拟了前面的物理问题
 Dialogue: 0,0:01:14.33,0:01:16.66,ENG,,0,0,0,,it just takes place much faster.
 Dialogue: 0,0:01:14.33,0:01:16.66,CHN,,0,0,0,,使得运算快得多
 Dialogue: 0,0:01:16.66,0:01:19.12,ENG,,0,0,0,,Now, if I change the electrical connections,
@@ -74,15 +76,16 @@ Dialogue: 0,0:01:20.30,0:01:22.27,ENG,,0,0,0,,to solve other differential equati
 Dialogue: 0,0:01:20.30,0:01:22.27,CHN,,0,0,0,,算其他的微分方程
 Dialogue: 0,0:01:22.27,0:01:24.01,ENG,,0,0,0,,like the Lorenz system,
 Dialogue: 0,0:01:22.27,0:01:24.01,CHN,,0,0,0,,例如洛伦茨振子
-Dialogue: 0,0:01:24.01,0:01:27.29,ENG,,0,0,0,,which is a basic model of convection in the atmosphere.
-Dialogue: 0,0:01:24.01,0:01:27.29,CHN,,0,0,0,,这是大气对流的基本模型
-Dialogue: 0,0:01:27.29,0:01:29.05,ENG,,0,0,0,,Now the Lorenz system is famous because
+Dialogue: 0,0:01:24.01,0:01:27.15,ENG,,0,0,0,,which is a basic model of convection in the atmosphere.
+Dialogue: 0,0:01:24.01,0:01:27.15,CHN,,0,0,0,,这是大气对流的基本模型
+Dialogue: 0,0:01:27.15,0:01:29.05,ENG,,0,0,0,,Now the Lorenz system is famous because
+Dialogue: 0,0:01:27.15,0:01:29.05,CHN,,0,0,0,,洛伦茨振子出名是因为
 Dialogue: 0,0:01:29.05,0:01:32.27,ENG,,0,0,0,,it was one of the first discovered examples of chaos.
-Dialogue: 0,0:01:27.29,0:01:32.27,CHN,,0,0,0,,它作为最早发现的混沌系统而闻名
+Dialogue: 0,0:01:29.05,0:01:32.27,CHN,,0,0,0,,它是人类最早发现的混沌系统
 Dialogue: 0,0:01:32.27,0:01:35.52,ENG,,0,0,0,,And here, you can see the Lorenz attractor
-Dialogue: 0,0:01:32.27,0:01:35.52,CHN,,0,0,0,,在屏幕上 你可以看到
+Dialogue: 0,0:01:32.27,0:01:35.52,CHN,,0,0,0,,在屏幕上 你可以看到洛伦茨吸引子
 Dialogue: 0,0:01:35.52,0:01:38.40,ENG,,0,0,0,,with its beautiful butterfly shape.
-Dialogue: 0,0:01:35.52,0:01:38.40,CHN,,0,0,0,,洛伦茨吸引子美妙的蝴蝶图样
+Dialogue: 0,0:01:35.52,0:01:38.40,CHN,,0,0,0,,美妙的蝴蝶图样
 Dialogue: 0,0:01:38.40,0:01:39.90,ENG,,0,0,0,,And on this analog computer,
 Dialogue: 0,0:01:38.40,0:01:39.90,CHN,,0,0,0,,在这台模拟计算机上
 Dialogue: 0,0:01:39.90,0:01:42.36,ENG,,0,0,0,,I can change the parameters
@@ -157,22 +160,27 @@ Dialogue: 0,0:03:12.26,0:03:15.54,ENG,,0,0,0,,you can expect about a 1% error.
 Dialogue: 0,0:03:12.26,0:03:15.54,CHN,,0,0,0,,它大概会有 1% 的误差
 Dialogue: 0,0:03:15.54,0:03:17.34,ENG,,0,0,0,,So when you think of analog computers,
 Dialogue: 0,0:03:15.54,0:03:17.34,CHN,,0,0,0,,因此总结一下
-Dialogue: 0,0:03:17.34,0:03:20.82,ENG,,0,0,0,,you can think powerful, fast, and energy-efficient,
-Dialogue: 0,0:03:17.34,0:03:20.82,CHN,,0,0,0,,模拟计算机很强大 跑得很快 很省电
-Dialogue: 0,0:03:20.82,0:03:25.73,ENG,,0,0,0,,but also single-purpose, non-repeatable, and inexact.
-Dialogue: 0,0:03:20.82,0:03:25.73,CHN,,0,0,0,,但也有着用途单一、不可重复、不精确的缺点
+Dialogue: 0,0:03:17.34,0:03:18.13,ENG,,0,0,0,,you can think
+Dialogue: 0,0:03:17.34,0:03:18.13,CHN,,0,0,0,,好处有
+Dialogue: 0,0:03:18.13,0:03:27.73,CHN,,0,0,0,,{\pos(1160,260)\fad(0,2000)}强大
+Dialogue: 0,0:03:18.92,0:03:27.73,CHN,,0,0,0,,{\pos(1160,340)\fad(0,2000)}快速
+Dialogue: 0,0:03:19.68,0:03:27.73,CHN,,0,0,0,,{\pos(1160,420)\fad(0,2000)}省电
+Dialogue: 0,0:03:20.82,0:03:21.88,ENG,,0,0,0,,but also
+Dialogue: 0,0:03:20.82,0:03:21.88,CHN,,0,0,0,,但同时
+Dialogue: 0,0:03:21.84,0:03:27.73,CHN,,0,0,0,,{\an3\pos(660,280)\fad(0,2000)}用途单一
+Dialogue: 0,0:03:22.98,0:03:27.73,CHN,,0,0,0,,{\an3\pos(660,340)\fad(0,2000)}不可重复
+Dialogue: 0,0:03:24.35,0:03:27.73,CHN,,0,0,0,,{\an3\pos(660,400)\fad(0,2000)}不精确
 Dialogue: 0,0:03:25.73,0:03:28.14,ENG,,0,0,0,,And if those sound like deal-breakers,
 Dialogue: 0,0:03:25.73,0:03:28.14,CHN,,0,0,0,,如果这些缺陷让你感觉不可接受
 Dialogue: 0,0:03:28.14,0:03:30.01,ENG,,0,0,0,,it's because they probably are.
 Dialogue: 0,0:03:28.14,0:03:30.01,CHN,,0,0,0,,那么你是对的
 Dialogue: 0,0:03:30.01,0:03:31.85,ENG,,0,0,0,,I think these are the major reasons
-Dialogue: 0,0:03:30.01,0:03:31.85,CHN,,0,0,0,,我认为  以上这些理由
+Dialogue: 0,0:03:30.01,0:03:31.85,CHN,,0,0,0,,我认为  主要就是上述理由
 Dialogue: 0,0:03:31.85,0:03:33.61,ENG,,0,0,0,,why analog computers fell out of favor
 Dialogue: 0,0:03:33.61,0:03:36.90,ENG,,0,0,0,,as soon as digital computers became viable.
-Dialogue: 0,0:03:31.85,0:03:33.61,CHN,,0,0,0,,让电子计算机一出现
-Dialogue: 0,0:03:33.61,0:03:36.90,CHN,,0,0,0,,就取代了模拟计算机
+Dialogue: 0,0:03:31.85,0:03:36.90,CHN,,0,0,0,,让电子计算机一出现  就取代了模拟计算机
 Dialogue: 0,0:03:36.90,0:03:41.31,ENG,,0,0,0,,Now, here's why analog computers may be making a comeback.
-Dialogue: 0,0:03:36.90,0:03:41.31,CHN,,0,0,0,,现在我们来说说为什么模拟计算机可能重获青睐
+Dialogue: 0,0:03:36.90,0:03:41.31,CHN,,0,0,0,,我们现在谈谈  为什么模拟计算机有望重获青睐
 Dialogue: 0,0:03:43.80,0:03:46.50,ENG,,0,0,0,,It all starts with artificial intelligence.
 Dialogue: 0,0:03:43.80,0:03:46.50,CHN,,0,0,0,,这一切都源于人工智能的出现
 Dialogue: 0,0:03:46.50,0:03:50.04,ENG,,0,0,0,,- A machine has been programmed to see and to move objects.
@@ -319,11 +327,10 @@ Dialogue: 0,0:06:55.52,0:06:58.18,ENG,,0,0,0,,so long as it's possible to map th
 Dialogue: 0,0:06:58.18,0:07:00.03,ENG,,0,0,0,,into distinct groups.
 Dialogue: 0,0:06:55.52,0:07:00.03,CHN,,0,0,0,,前提是能把这两类图片映射到不同的组中
 Dialogue: 0,0:07:02.24,0:07:04.13,ENG,,0,0,0,,The perceptron was capable
-Dialogue: 0,0:07:02.24,0:07:04.13,CHN,,0,0,0,,感知机能够区分不同的形状
 Dialogue: 0,0:07:04.13,0:07:06.03,ENG,,0,0,0,,of distinguishing between different shapes
-Dialogue: 0,0:07:04.13,0:07:06.03,CHN,,0,0,0,,比如长方形和三角形
+Dialogue: 0,0:07:02.24,0:07:06.03,CHN,,0,0,0,,感知机能够区分不同的形状
 Dialogue: 0,0:07:06.03,0:07:09.22,ENG,,0,0,0,,like rectangles and triangles, or between different letters.
-Dialogue: 0,0:07:06.03,0:07:09.22,CHN,,0,0,0,,它也可以区分不同的字母
+Dialogue: 0,0:07:06.03,0:07:09.22,CHN,,0,0,0,,比如长方形和三角形  或是不同的字母
 Dialogue: 0,0:07:09.22,0:07:10.65,ENG,,0,0,0,,And according to Rosenblatt,
 Dialogue: 0,0:07:09.22,0:07:10.65,CHN,,0,0,0,,据罗森布拉特所说
 Dialogue: 0,0:07:10.65,0:07:14.02,ENG,,0,0,0,,it could even tell the difference between cats and dogs.
@@ -382,8 +389,10 @@ Dialogue: 0,0:08:28.09,0:08:29.64,ENG,,0,0,0,,when researchers at Carnegie Mello
 Dialogue: 0,0:08:28.09,0:08:29.64,CHN,,0,0,0,,造出其中一台世界上最早的自动驾驶汽车的时候
 Dialogue: 0,0:08:29.64,0:08:32.47,ENG,,0,0,0,,created one of the first self-driving cars.
 Dialogue: 0,0:08:29.64,0:08:32.47,CHN,,0,0,0,,人工智能一度再次兴起
-Dialogue: 0,0:08:32.47,0:08:36.78,ENG,,0,0,0,,The vehicle was steered by an artificial neural network called ALVINN.
-Dialogue: 0,0:08:32.47,0:08:36.78,CHN,,0,0,0,,控制这辆车转向的  是一个人工神经网络
+Dialogue: 0,0:08:32.47,0:08:35.49,ENG,,0,0,0,,The vehicle was steered by an artificial neural network
+Dialogue: 0,0:08:32.47,0:08:35.49,CHN,,0,0,0,,控制这辆车转向的  是一个人工神经网络
+Dialogue: 0,0:08:35.49,0:08:36.78,ENG,,0,0,0,,called ALVINN.
+Dialogue: 0,0:08:35.49,0:08:36.78,CHN,,0,0,0,,名叫 ALVINN
 Dialogue: 0,0:08:36.78,0:08:38.41,ENG,,0,0,0,,It was similar to the perceptron,
 Dialogue: 0,0:08:36.78,0:08:38.41,CHN,,0,0,0,,它有点像感知机
 Dialogue: 0,0:08:38.41,0:08:41.08,ENG,,0,0,0,,except it had a hidden layer of artificial neurons
@@ -391,17 +400,16 @@ Dialogue: 0,0:08:38.41,0:08:41.08,CHN,,0,0,0,,只不过它在输入与输出之�
 Dialogue: 0,0:08:41.08,0:08:43.30,ENG,,0,0,0,,between the input and output.
 Dialogue: 0,0:08:41.08,0:08:43.30,CHN,,0,0,0,,有一层隐藏的人工神经元
 Dialogue: 0,0:08:43.30,0:08:45.14,ENG,,0,0,0,,As input, ALVINN received
-Dialogue: 0,0:08:43.30,0:08:45.14,CHN,,0,0,0,,作为输入端  ALVINN 接收 30*32 像素的
 Dialogue: 0,0:08:45.14,0:08:48.40,ENG,,0,0,0,,30 by 32-pixel images of the road ahead.
-Dialogue: 0,0:08:45.14,0:08:48.40,CHN,,0,0,0,,包含前方道路信息的图像
+Dialogue: 0,0:08:43.30,0:08:48.40,CHN,,0,0,0,,ALVINN 会接收前方道路的 30×32 图像作为输入
 Dialogue: 0,0:08:48.40,0:08:51.60,ENG,,0,0,0,,Here, I'm showing them as 60 by 64 pixels.
-Dialogue: 0,0:08:48.40,0:08:51.60,CHN,,0,0,0,,在这里 我以 60*64 像素的清晰度呈现
+Dialogue: 0,0:08:48.40,0:08:51.60,CHN,,0,0,0,,在这里 我以 60×64 像素的清晰度呈现
 Dialogue: 0,0:08:51.60,0:08:54.02,ENG,,0,0,0,,But each of these input neurons was connected
 Dialogue: 0,0:08:51.60,0:08:54.02,CHN,,0,0,0,,每个输入神经元都通过一个可调整的权重
 Dialogue: 0,0:08:54.02,0:08:57.95,ENG,,0,0,0,,via an adjustable weight to a hidden layer of four neurons.
-Dialogue: 0,0:08:54.02,0:08:57.95,CHN,,0,0,0,,连接到一层隐藏起来的4个神经元
+Dialogue: 0,0:08:54.02,0:08:57.95,CHN,,0,0,0,,连接到一层隐藏起来的 4 个神经元
 Dialogue: 0,0:08:57.95,0:09:01.60,ENG,,0,0,0,,These were each connected to 32 output neurons.
-Dialogue: 0,0:08:57.95,0:09:01.60,CHN,,0,0,0,,而这层隐藏的神经元 各自连接到32个输出神经元
+Dialogue: 0,0:08:57.95,0:09:01.60,CHN,,0,0,0,,而这层隐藏的神经元  各自连接到 32 个输出神经元
 Dialogue: 0,0:09:01.60,0:09:04.18,ENG,,0,0,0,,So to go from one layer of the network to the next,
 Dialogue: 0,0:09:01.60,0:09:04.18,CHN,,0,0,0,,因此 要到达网络的下一层
 Dialogue: 0,0:09:04.18,0:09:06.86,ENG,,0,0,0,,you perform a matrix multiplication:
@@ -459,24 +467,23 @@ Dialogue: 0,0:10:07.83,0:10:10.76,CHN,,0,0,0,,是这台计算机进行矩阵乘�
 Dialogue: 0,0:10:12.25,0:10:13.70,ENG,,0,0,0,,Despite these advances,
 Dialogue: 0,0:10:12.25,0:10:13.70,CHN,,0,0,0,,尽管取得了这些进展
 Dialogue: 0,0:10:13.70,0:10:17.55,ENG,,0,0,0,,artificial neural networks still struggled with seemingly simple tasks,
-Dialogue: 0,0:10:13.70,0:10:17.55,CHN,,0,0,0,,人工神经网络仍然很难完成看似简单的任务
+Dialogue: 0,0:10:13.70,0:10:17.55,CHN,,0,0,0,,人工神经网络  仍然很难完成看似简单的任务
 Dialogue: 0,0:10:17.55,0:10:19.92,ENG,,0,0,0,,like telling apart cats and dogs.
 Dialogue: 0,0:10:17.55,0:10:19.92,CHN,,0,0,0,,比如分辨猫和狗
 Dialogue: 0,0:10:19.92,0:10:24.21,ENG,,0,0,0,,And no one knew whether hardware or software was the weak link.
-Dialogue: 0,0:10:19.92,0:10:24.21,CHN,,0,0,0,,而且没有人知道 这短板来自硬件还是软件
+Dialogue: 0,0:10:19.92,0:10:24.21,CHN,,0,0,0,,而且没有人知道 短板是在于硬件还是软件
 Dialogue: 0,0:10:24.21,0:10:26.56,ENG,,0,0,0,,I mean, did we have a good model of intelligence,
-Dialogue: 0,0:10:24.21,0:10:26.56,CHN,,0,0,0,,究竟是 我们不缺好模型
 Dialogue: 0,0:10:26.56,0:10:28.59,ENG,,0,0,0,,we just needed more computer power?
-Dialogue: 0,0:10:26.56,0:10:28.59,CHN,,0,0,0,,仅仅是需要更多的算力
+Dialogue: 0,0:10:24.21,0:10:28.59,CHN,,0,0,0,,究竟是“我们对智能的建模没错  只是需要堆算力”
 Dialogue: 0,0:10:28.59,0:10:30.47,ENG,,0,0,0,,Or, did we have the wrong idea
-Dialogue: 0,0:10:28.59,0:10:30.47,CHN,,0,0,0,,还是 我们对构建智能系统
 Dialogue: 0,0:10:30.47,0:10:33.55,ENG,,0,0,0,,about how to make intelligence systems altogether?
-Dialogue: 0,0:10:30.47,0:10:33.55,CHN,,0,0,0,,有着完全错误的观念
+Dialogue: 0,0:10:28.59,0:10:33.55,CHN,,0,0,0,,还是说 我们对构建智能系统的观念完全错误
 Dialogue: 0,0:10:33.55,0:10:34.79,ENG,,0,0,0,,So artificial intelligence
-Dialogue: 0,0:10:33.55,0:10:38.15,ENG,,0,0,0,,experienced another lull in the 1990s.
-Dialogue: 0,0:10:33.55,0:10:38.15,CHN,,0,0,0,,所以人工智能在20世纪90年代陷入了另一个低谷
+Dialogue: 0,0:10:33.55,0:10:34.79,CHN,,0,0,0,,所以人工智能
+Dialogue: 0,0:10:34.79,0:10:38.15,ENG,,0,0,0,,experienced another lull in the 1990s.
+Dialogue: 0,0:10:34.79,0:10:38.15,CHN,,0,0,0,,在20世纪90年代陷入了另一个低谷
 Dialogue: 0,0:10:38.15,0:10:39.44,ENG,,0,0,0,,By the mid 2000s,
-Dialogue: 0,0:10:38.15,0:10:39.44,CHN,,0,0,0,,直到 2000 年代中期
+Dialogue: 0,0:10:38.15,0:10:39.44,CHN,,0,0,0,,到了 2000 年代中期
 Dialogue: 0,0:10:39.44,0:10:43.25,ENG,,0,0,0,,most AI researchers were focused on improving algorithms.
 Dialogue: 0,0:10:39.44,0:10:43.25,CHN,,0,0,0,,大多数人工智能研究者都专注于改进算法
 Dialogue: 0,0:10:43.25,0:10:45.87,ENG,,0,0,0,,But one researcher, Fei-Fei Li,
@@ -490,12 +497,12 @@ Dialogue: 0,0:10:50.35,0:10:52.54,CHN,,0,0,0,,只是需要更多数据去训练
 Dialogue: 0,0:10:52.54,0:10:56.17,ENG,,0,0,0,,So she planned to map out the entire world of objects.
 Dialogue: 0,0:10:52.54,0:10:56.17,CHN,,0,0,0,,因此 她计划制作整个物体世界的地图
 Dialogue: 0,0:10:56.17,0:10:59.22,ENG,,0,0,0,,From 2006 to 2009, she created ImageNet,
-Dialogue: 0,0:10:56.17,0:10:59.22,CHN,,0,0,0,,2006 年到 2009 年期间 她创立了 ImageNet
+Dialogue: 0,0:10:56.17,0:10:59.22,CHN,,0,0,0,,2006 到 2009 年期间  她创立了 ImageNet
 Dialogue: 0,0:10:59.22,0:11:02.55,ENG,,0,0,0,,a database of 1.2 million human-labeled images,
 Dialogue: 0,0:10:59.22,0:11:02.55,CHN,,0,0,0,,一个包含 120 万张人工标注图像的数据库
 Dialogue: 0,0:11:02.55,0:11:03.38,ENG,,0,0,0,,which at the time,
 Dialogue: 0,0:11:03.38,0:11:06.33,ENG,,0,0,0,,was the largest labeled image dataset ever constructed.
-Dialogue: 0,0:11:02.55,0:11:06.33,CHN,,0,0,0,,在当时 是有史以来最大的标记图像数据集
+Dialogue: 0,0:11:02.55,0:11:06.33,CHN,,0,0,0,,在当时是最大的标记图像数据集
 Dialogue: 0,0:11:06.33,0:11:08.25,ENG,,0,0,0,,And from 2010 to 2017,
 Dialogue: 0,0:11:06.33,0:11:08.25,CHN,,0,0,0,,从 2010 年到 2017 年
 Dialogue: 0,0:11:08.25,0:11:10.40,ENG,,0,0,0,,ImageNet ran an annual contest:
@@ -554,37 +561,36 @@ Dialogue: 0,0:12:16.22,0:12:22.41,CHN,,0,0,0,,以低至 16.4% 的 Top-5 错误�
 Dialogue: 0,0:12:22.41,0:12:25.84,ENG,,0,0,0,,What set AlexNet apart was its size and depth.
 Dialogue: 0,0:12:22.41,0:12:25.84,CHN,,0,0,0,,AlexNet 的规模和深度使之与众不同
 Dialogue: 0,0:12:25.84,0:12:27.72,ENG,,0,0,0,,The network consisted of eight layers,
-Dialogue: 0,0:12:25.84,0:12:27.72,CHN,,0,0,0,,该网络共有个 8 神经层
+Dialogue: 0,0:12:25.84,0:12:27.72,CHN,,0,0,0,,该网络共有 8 个神经层
 Dialogue: 0,0:12:27.72,0:12:30.70,ENG,,0,0,0,,and in total, 500,000 neurons.
 Dialogue: 0,0:12:27.72,0:12:30.70,CHN,,0,0,0,,总共包含 50 万神经元
 Dialogue: 0,0:12:30.70,0:12:31.53,ENG,,0,0,0,,To train AlexNet,
-Dialogue: 0,0:12:30.70,0:12:33.53,CHN,,0,0,0,,要训练 AlexNet 得通过训练集
+Dialogue: 0,0:12:30.70,0:12:33.53,CHN,,0,0,0,,要训练 AlexNet
 Dialogue: 0,0:12:31.53,0:12:35.58,ENG,,0,0,0,,60 million weights and biases had to be carefully adjusted
 Dialogue: 0,0:12:35.58,0:12:37.50,ENG,,0,0,0,,using the training database.
-Dialogue: 0,0:12:33.58,0:12:37.50,CHN,,0,0,0,,小心调整 6000 万个权重与偏置
+Dialogue: 0,0:12:33.58,0:12:37.50,CHN,,0,0,0,,得通过训练集  小心调整 6000 万个权重与偏置
 Dialogue: 0,0:12:37.50,0:12:40.04,ENG,,0,0,0,,Because of all the big matrix multiplications,
 Dialogue: 0,0:12:37.50,0:12:40.04,CHN,,0,0,0,,由于这些巨大的矩阵乘法运算
 Dialogue: 0,0:12:40.04,0:12:43.57,ENG,,0,0,0,,processing a single image required 700 million
 Dialogue: 0,0:12:43.57,0:12:45.33,ENG,,0,0,0,,individual math operations.
 Dialogue: 0,0:12:40.04,0:12:45.33,CHN,,0,0,0,,处理一张图片需要 7 亿次简单数学运算
 Dialogue: 0,0:12:45.33,0:12:48.28,ENG,,0,0,0,,So training was computationally intensive.
-Dialogue: 0,0:12:45.33,0:12:48.28,CHN,,0,0,0,,因此 训练它 是计算密集的
+Dialogue: 0,0:12:45.33,0:12:48.28,CHN,,0,0,0,,因此 训练它需要在短时间内作大量计算
 Dialogue: 0,0:12:48.28,0:12:51.33,ENG,,0,0,0,,The team managed it by pioneering the use of GPUs,
-Dialogue: 0,0:12:48.28,0:12:51.33,CHN,,0,0,0,,它的团队开创性地使用 GPU 完成计算
+Dialogue: 0,0:12:48.28,0:12:51.33,CHN,,0,0,0,,研究团队开创性地使用 GPU 完成计算
 Dialogue: 0,0:12:51.33,0:12:52.91,ENG,,0,0,0,,graphical processing units,
-Dialogue: 0,0:12:51.33,0:12:52.91,CHN,,0,0,0,,GPU 即图形处理单元
+Dialogue: 0,0:12:51.33,0:12:52.91,CHN,,0,0,0,,GPU 意为“图形处理单元”
 Dialogue: 0,0:12:52.91,0:12:56.33,ENG,,0,0,0,,which are traditionally used for driving displays, screens.
-Dialogue: 0,0:12:52.91,0:12:56.33,CHN,,0,0,0,,通常用于驱动显示器、屏幕等
+Dialogue: 0,0:12:52.91,0:12:56.33,CHN,,0,0,0,,以往多用于驱动显示器和屏幕
 Dialogue: 0,0:12:56.33,0:13:00.11,ENG,,0,0,0,,So they're specialized for fast parallel computations.
-Dialogue: 0,0:12:56.33,0:13:00.11,CHN,,0,0,0,,因此适合快速并行计算
-Dialogue: 0,0:13:00.11,0:13:02.52,ENG,,0,0,0,,The AlexNet paper describing their research
-Dialogue: 0,0:13:02.52,0:13:04.26,ENG,,0,0,0,,is a blockbuster.
+Dialogue: 0,0:12:56.33,0:13:00.11,CHN,,0,0,0,,因此 GPU 适合快速并行计算
+Dialogue: 0,0:13:00.11,0:13:04.26,ENG,,0,0,0,,The AlexNet paper describing their research is a blockbuster.
 Dialogue: 0,0:13:00.11,0:13:04.26,CHN,,0,0,0,,描述他们研究的 AlexNet 论文引起轰动
 Dialogue: 0,0:13:04.26,0:13:07.68,ENG,,0,0,0,,It's now been cited over 100,000 times,
-Dialogue: 0,0:13:04.26,0:13:07.68,CHN,,0,0,0,,现在已经被引用十万余次
+Dialogue: 0,0:13:04.26,0:13:07.68,CHN,,0,0,0,,现在已经被引用超过十万次
 Dialogue: 0,0:13:07.68,0:13:10.39,ENG,,0,0,0,,and it identifies the scale of the neural network
 Dialogue: 0,0:13:10.39,0:13:12.98,ENG,,0,0,0,,as key to its success.
-Dialogue: 0,0:13:07.68,0:13:12.98,CHN,,0,0,0,,论文认为 神经网络的规模是其成功的关键
+Dialogue: 0,0:13:07.68,0:13:12.98,CHN,,0,0,0,,论文认为  神经网络的规模是其成功的关键
 Dialogue: 0,0:13:12.98,0:13:16.16,ENG,,0,0,0,,It takes a lot of computation to train and run the network,
 Dialogue: 0,0:13:12.98,0:13:16.16,CHN,,0,0,0,,训练和运行这一网络需要大量的计算
 Dialogue: 0,0:13:16.16,0:13:19.29,ENG,,0,0,0,,but the improvement in performance is worth it.
@@ -639,24 +645,23 @@ Dialogue: 0,0:14:15.41,0:14:18.19,ENG,,0,0,0,,has been doubling approximately ev
 Dialogue: 0,0:14:13.25,0:14:18.19,CHN,,0,0,0,,几十年来 芯片上的晶体管数量约两年翻一番
 Dialogue: 0,0:14:18.19,0:14:20.13,ENG,,0,0,0,,but now the size of a transistor
 Dialogue: 0,0:14:20.13,0:14:21.91,ENG,,0,0,0,,is approaching the size of an atom.
-Dialogue: 0,0:14:18.19,0:14:21.91,CHN,,0,0,0,,但现在晶体管的尺寸已经接近原子大小
+Dialogue: 0,0:14:18.19,0:14:21.91,CHN,,0,0,0,,但现在  晶体管的尺寸已经接近原子大小
 Dialogue: 0,0:14:21.91,0:14:24.69,ENG,,0,0,0,,So there are some fundamental physical challenges
-Dialogue: 0,0:14:21.91,0:14:24.69,CHN,,0,0,0,,因此进一步小型化
 Dialogue: 0,0:14:24.69,0:14:26.88,ENG,,0,0,0,,to further miniaturization.
-Dialogue: 0,0:14:24.69,0:14:26.88,CHN,,0,0,0,,在物理原理上面临挑战
+Dialogue: 0,0:14:21.91,0:14:26.88,CHN,,0,0,0,,因此  把元件继续做小  面临着物理原理的挑战
 Dialogue: 0,0:14:26.88,0:14:30.27,ENG,,0,0,0,,So this is the perfect storm for analog computers.
 Dialogue: 0,0:14:26.88,0:14:30.27,CHN,,0,0,0,,因此 模拟计算机正逢其时
 Dialogue: 0,0:14:30.27,0:14:32.64,ENG,,0,0,0,,Digital computers are reaching their limits.
 Dialogue: 0,0:14:30.27,0:14:32.64,CHN,,0,0,0,,数字计算机正在接近其极限
 Dialogue: 0,0:14:32.64,0:14:35.88,ENG,,0,0,0,,Meanwhile, neural networks are exploding in popularity,
-Dialogue: 0,0:14:32.64,0:14:35.88,CHN,,0,0,0,,与此同时 神经网络正在爆炸式发展
+Dialogue: 0,0:14:32.64,0:14:35.88,CHN,,0,0,0,,与此同时  神经网络正在爆炸式发展
 Dialogue: 0,0:14:35.88,0:14:39.55,ENG,,0,0,0,,and a lot of what they do boils down to a single task:
-Dialogue: 0,0:14:35.88,0:14:39.55,CHN,,0,0,0,,其所需的大部分操作 归结为一个单一任务
+Dialogue: 0,0:14:35.88,0:14:39.55,CHN,,0,0,0,,其所需的大部分操作  归结为一个单一任务
 Dialogue: 0,0:14:39.55,0:14:41.29,ENG,,0,0,0,,matrix multiplication.
 Dialogue: 0,0:14:39.55,0:14:41.29,CHN,,0,0,0,,矩阵乘法
 Dialogue: 0,0:14:41.29,0:14:42.78,ENG,,0,0,0,,Best of all, neural networks
 Dialogue: 0,0:14:42.78,0:14:45.35,ENG,,0,0,0,,don't need the precision of digital computers.
-Dialogue: 0,0:14:41.29,0:14:45.35,CHN,,0,0,0,,最重要的是 神经网络不需要数字计算机提供的精度
+Dialogue: 0,0:14:41.29,0:14:45.35,CHN,,0,0,0,,最重要的是  神经网络不需要数字计算机提供的精度
 Dialogue: 0,0:14:45.35,0:14:48.99,ENG,,0,0,0,,Whether the neural net is 96% or 98% confident
 Dialogue: 0,0:14:45.35,0:14:48.99,CHN,,0,0,0,,神经网络若认为图中包含一只鸡
 Dialogue: 0,0:14:48.99,0:14:50.41,ENG,,0,0,0,,the image contains a chicken,
@@ -667,13 +672,13 @@ Dialogue: 0,0:14:52.81,0:14:54.87,ENG,,0,0,0,,So slight variability in component
 Dialogue: 0,0:14:54.87,0:14:57.37,ENG,,0,0,0,,or conditions can be tolerated.
 Dialogue: 0,0:14:52.81,0:14:57.37,CHN,,0,0,0,,因此 零件和环境的轻微变化是可以容忍的
 Dialogue: 0,0:14:58.81,0:15:01.37,ENG,,0,0,0,,I went to an analog computing startup in Texas,
-Dialogue: 0,0:14:58.81,0:15:01.37,CHN,,0,0,0,,我造访了德州的一家
+Dialogue: 0,0:14:58.81,0:15:01.37,CHN,,0,0,0,,我造访了德州的一家初创公司
 Dialogue: 0,0:15:01.37,0:15:03.37,ENG,,0,0,0,,called Mythic AI.
-Dialogue: 0,0:15:01.37,0:15:03.37,CHN,,0,0,0,,名为 Mythic AI(神话智能) 的初创公司
+Dialogue: 0,0:15:01.37,0:15:03.37,CHN,,0,0,0,,名为 Mythic AI
 Dialogue: 0,0:15:03.37,0:15:06.82,ENG,,0,0,0,,Here, they're creating analog chips to run neural networks.
-Dialogue: 0,0:15:03.37,0:15:06.82,CHN,,0,0,0,,他们在这里研发用以运行神经网络的模拟芯片
+Dialogue: 0,0:15:03.37,0:15:06.82,CHN,,0,0,0,,他们在这里研发  运行神经网络的模拟芯片
 Dialogue: 0,0:15:06.82,0:15:09.92,ENG,,0,0,0,,And they demonstrated several AI algorithms for me.
-Dialogue: 0,0:15:06.82,0:15:09.92,CHN,,0,0,0,,并且向我展示了几个人工智能算法
+Dialogue: 0,0:15:06.82,0:15:09.92,CHN,,0,0,0,,并且向我展示了几个 AI 算法
 Dialogue: 0,0:15:10.98,0:15:11.81,ENG,,0,0,0,,- Oh, there you go.
 Dialogue: 0,0:15:10.98,0:15:11.81,CHN,,0,0,0,,哦 快看
 Dialogue: 0,0:15:11.81,0:15:13.29,ENG,,0,0,0,,See, it's getting you.
@@ -693,9 +698,9 @@ Dialogue: 0,0:15:24.12,0:15:27.28,CHN,,0,0,0,,这就需要高效的动作捕捉
 Dialogue: 0,0:15:27.28,0:15:29.35,ENG,,0,0,0,,and then render it in the VR world.
 Dialogue: 0,0:15:27.28,0:15:29.35,CHN,,0,0,0,,以及在 VR 世界中的渲染
 Dialogue: 0,0:15:29.35,0:15:31.33,ENG,,0,0,0,,- So, hang on, is this for the metaverse thing?
-Dialogue: 0,0:15:29.35,0:15:31.33,CHN,,0,0,0,,所以 等等 这是给元宇宙准备的吗
+Dialogue: 0,0:15:29.35,0:15:31.33,CHN,,0,0,0,,所以这是给元宇宙准备的吗
 Dialogue: 0,0:15:31.33,0:15:35.64,ENG,,0,0,0,,- Yeah, this is a very metaverse application.
-Dialogue: 0,0:15:31.33,0:15:35.64,CHN,,0,0,0,,是的 这是个很有元宇宙范的应用
+Dialogue: 0,0:15:31.33,0:15:35.64,CHN,,0,0,0,,是的  这是个很有元宇宙范的应用
 Dialogue: 0,0:15:35.64,0:15:38.63,ENG,,0,0,0,,This is depth estimation from just a single webcam.
 Dialogue: 0,0:15:35.64,0:15:38.63,CHN,,0,0,0,,这是基于单摄像头的景深估计
 Dialogue: 0,0:15:38.63,0:15:39.95,ENG,,0,0,0,,It's just taking this scene,
@@ -719,17 +724,17 @@ Dialogue: 0,0:15:55.80,0:15:59.49,CHN,,0,0,0,,Mythic 调整了数字闪存单元
 Dialogue: 0,0:15:59.49,0:16:01.21,ENG,,0,0,0,,Normally these are used as memory
 Dialogue: 0,0:15:59.49,0:16:01.21,CHN,,0,0,0,,它们一般被用作内存
 Dialogue: 0,0:16:01.21,0:16:03.63,ENG,,0,0,0,,to store either a one or a zero.
-Dialogue: 0,0:16:01.21,0:16:03.63,CHN,,0,0,0,,每一位上记录的要么是1 要么是0
+Dialogue: 0,0:16:01.21,0:16:03.63,CHN,,0,0,0,,每一位上记录的要么是1  要么是0
 Dialogue: 0,0:16:03.63,0:16:07.46,ENG,,0,0,0,,If you apply a large positive voltage to the control gate,
-Dialogue: 0,0:16:03.63,0:16:07.46,CHN,,0,0,0,,如果你在控制门上施加较大的电压
+Dialogue: 0,0:16:03.63,0:16:07.46,CHN,,0,0,0,,如果你在控制栅上施加较大的电压
 Dialogue: 0,0:16:07.46,0:16:10.21,ENG,,0,0,0,,electrons tunnel up through an insulating barrier
 Dialogue: 0,0:16:07.46,0:16:10.21,CHN,,0,0,0,,电子将隧穿通过绝缘层
 Dialogue: 0,0:16:10.21,0:16:12.44,ENG,,0,0,0,,and become trapped on the floating gate.
-Dialogue: 0,0:16:10.21,0:16:12.44,CHN,,0,0,0,,并被限制在悬浮门中
+Dialogue: 0,0:16:10.21,0:16:12.44,CHN,,0,0,0,,并被限制在浮栅中
 Dialogue: 0,0:16:12.44,0:16:13.57,ENG,,0,0,0,,Remove the voltage,
 Dialogue: 0,0:16:12.44,0:16:13.57,CHN,,0,0,0,,即使撤去电压
 Dialogue: 0,0:16:13.57,0:16:16.22,ENG,,0,0,0,,and the electrons can remain on the floating gate for decades,
-Dialogue: 0,0:16:13.57,0:16:16.22,CHN,,0,0,0,,这些电子能在悬浮门中停留数十年
+Dialogue: 0,0:16:13.57,0:16:16.22,CHN,,0,0,0,,这些电子能在浮栅中停留数十年
 Dialogue: 0,0:16:16.22,0:16:18.60,ENG,,0,0,0,,preventing the cell from conducting current.
 Dialogue: 0,0:16:16.22,0:16:18.60,CHN,,0,0,0,,阻止闪存单元导通
 Dialogue: 0,0:16:18.60,0:16:21.32,ENG,,0,0,0,,And that's how you can store either a one or a zero.
@@ -737,27 +742,26 @@ Dialogue: 0,0:16:18.60,0:16:21.32,CHN,,0,0,0,,这样就能在单元中存储1或
 Dialogue: 0,0:16:21.32,0:16:25.06,ENG,,0,0,0,,You can read out the stored value by applying a small voltage.
 Dialogue: 0,0:16:21.32,0:16:25.06,CHN,,0,0,0,,施加较小的电压就能读出存储的值
 Dialogue: 0,0:16:25.06,0:16:26.97,ENG,,0,0,0,,If there are electrons on the floating gate,
-Dialogue: 0,0:16:25.06,0:16:26.97,CHN,,0,0,0,,如果有电子在悬浮门中
+Dialogue: 0,0:16:25.06,0:16:26.97,CHN,,0,0,0,,如果有电子在浮栅中
 Dialogue: 0,0:16:26.97,0:16:29.58,ENG,,0,0,0,,no current flows, so that's a zero.
-Dialogue: 0,0:16:26.97,0:16:29.58,CHN,,0,0,0,,单元中没有电流流过 代表0
+Dialogue: 0,0:16:26.97,0:16:29.58,CHN,,0,0,0,,单元中没有电流流过  代表0
 Dialogue: 0,0:16:29.58,0:16:30.94,ENG,,0,0,0,,If there aren't electrons,
-Dialogue: 0,0:16:29.58,0:16:30.94,CHN,,0,0,0,,如果悬浮门中没有电子
+Dialogue: 0,0:16:29.58,0:16:30.94,CHN,,0,0,0,,如果浮栅中没有电子
 Dialogue: 0,0:16:30.94,0:16:33.92,ENG,,0,0,0,,then current does flow, and that's a one.
-Dialogue: 0,0:16:30.94,0:16:33.92,CHN,,0,0,0,,则电流可以流过 这代表1
+Dialogue: 0,0:16:30.94,0:16:33.92,CHN,,0,0,0,,则电流可以流过  这代表1
 Dialogue: 0,0:16:33.92,0:16:35.03,ENG,,0,0,0,,Now Mythic's idea is
 Dialogue: 0,0:16:33.92,0:16:35.03,CHN,,0,0,0,,现在 Mythic 的想法是
 Dialogue: 0,0:16:35.03,0:16:37.74,ENG,,0,0,0,,to use these cells not as on/off switches,
-Dialogue: 0,0:16:35.03,0:16:37.74,CHN,,0,0,0,,把这些单元用作可变电阻
+Dialogue: 0,0:16:35.03,0:16:37.74,CHN,,0,0,0,,不再把这些单元作为开关
 Dialogue: 0,0:16:37.74,0:16:39.84,ENG,,0,0,0,,but as variable resistors.
-Dialogue: 0,0:16:37.74,0:16:39.84,CHN,,0,0,0,,而不是开关
+Dialogue: 0,0:16:37.74,0:16:39.84,CHN,,0,0,0,,而是作为可变电阻
 Dialogue: 0,0:16:39.84,0:16:40.69,ENG,,0,0,0,,They do this
-Dialogue: 0,0:16:39.84,0:16:40.69,CHN,,0,0,0,,他们在每个悬浮门中
 Dialogue: 0,0:16:40.69,0:16:43.93,ENG,,0,0,0,,by putting a specific number of electrons on each floating gate,
-Dialogue: 0,0:16:40.69,0:16:43.93,CHN,,0,0,0,,放置指定数量的电子
+Dialogue: 0,0:16:39.84,0:16:43.93,CHN,,0,0,0,,他们在每个浮栅中放置特定数量的电子
 Dialogue: 0,0:16:43.93,0:16:45.67,ENG,,0,0,0,,instead of all or nothing.
 Dialogue: 0,0:16:43.93,0:16:45.67,CHN,,0,0,0,,而不是非空即满
 Dialogue: 0,0:16:45.67,0:16:47.33,ENG,,0,0,0,,The greater the number of electrons,
-Dialogue: 0,0:16:45.67,0:16:47.33,CHN,,0,0,0,,悬浮门中电子越多
+Dialogue: 0,0:16:45.67,0:16:47.33,CHN,,0,0,0,,浮栅中电子越多
 Dialogue: 0,0:16:47.33,0:16:49.81,ENG,,0,0,0,,the higher the resistance of the channel.
 Dialogue: 0,0:16:47.33,0:16:49.81,CHN,,0,0,0,,通道中的电阻就越高
 Dialogue: 0,0:16:49.81,0:16:52.00,ENG,,0,0,0,,When you later apply a small voltage,
@@ -769,23 +773,19 @@ Dialogue: 0,0:16:55.72,0:16:59.25,CHN,,0,0,0,,但你也可以把它视作电压�
 Dialogue: 0,0:16:59.25,0:17:02.51,ENG,,0,0,0,,where conductance is just the reciprocal of resistance.
 Dialogue: 0,0:16:59.25,0:17:02.51,CHN,,0,0,0,,其中电导是电阻的倒数
 Dialogue: 0,0:17:02.51,0:17:04.47,ENG,,0,0,0,,So a single flash cell can be used
-Dialogue: 0,0:17:02.51,0:17:04.47,CHN,,0,0,0,,于是一个单独的闪存单元
+Dialogue: 0,0:17:02.51,0:17:04.47,CHN,,0,0,0,,于是  单个闪存单元
 Dialogue: 0,0:17:04.47,0:17:09.13,ENG,,0,0,0,,to multiply two values together, voltage times conductance.
-Dialogue: 0,0:17:04.47,0:17:09.13,CHN,,0,0,0,,可以对两个值做乘法 即电压乘以电导
+Dialogue: 0,0:17:04.47,0:17:09.13,CHN,,0,0,0,,可以对两个值做乘法  即电压乘以电导
 Dialogue: 0,0:17:09.13,0:17:11.86,ENG,,0,0,0,,So to use this to run an artificial neural network,
-Dialogue: 0,0:17:09.13,0:17:11.86,CHN,,0,0,0,,所以要用这种方法运行一个人工神经网络
+Dialogue: 0,0:17:09.13,0:17:11.86,CHN,,0,0,0,,要想在这种元件上  运行人工神经网络
 Dialogue: 0,0:17:11.86,0:17:14.75,ENG,,0,0,0,,well they first write all the weights to the flash cells
-Dialogue: 0,0:17:11.86,0:17:14.75,CHN,,0,0,0,,他们会首先将所有的权重作为电导
 Dialogue: 0,0:17:14.75,0:17:16.87,ENG,,0,0,0,,as each cell's conductance.
-Dialogue: 0,0:17:14.75,0:17:16.87,CHN,,0,0,0,,写入闪存
-Dialogue: 0,0:17:16.87,0:17:19.27,ENG,,0,0,0,,Then, they input the activation values
-Dialogue: 0,0:17:16.87,0:17:19.27,CHN,,0,0,0,,然后 他们将激活值
-Dialogue: 0,0:17:19.27,0:17:21.49,ENG,,0,0,0,,as the voltage on the cells.
-Dialogue: 0,0:17:19.27,0:17:21.49,CHN,,0,0,0,,作为电压施加在单元两端
+Dialogue: 0,0:17:11.86,0:17:16.87,CHN,,0,0,0,,先要将所有的权重作为电导  写入闪存
+Dialogue: 0,0:17:16.87,0:17:21.49,ENG,,0,0,0,,Then, they input the activation values as the voltage on the cells.
+Dialogue: 0,0:17:16.87,0:17:21.49,CHN,,0,0,0,,然后将激活值作为电压  施加在单元两端
 Dialogue: 0,0:17:21.49,0:17:23.63,ENG,,0,0,0,,And the resulting current is the product
-Dialogue: 0,0:17:21.49,0:17:23.63,CHN,,0,0,0,,所得的结果就是
 Dialogue: 0,0:17:23.63,0:17:25.50,ENG,,0,0,0,,of voltage times conductance,
-Dialogue: 0,0:17:23.63,0:17:25.50,CHN,,0,0,0,,电压和电导的乘积
+Dialogue: 0,0:17:21.49,0:17:25.50,CHN,,0,0,0,,所得的结果就是电压和电导的乘积
 Dialogue: 0,0:17:25.50,0:17:28.30,ENG,,0,0,0,,which is activation times weight.
 Dialogue: 0,0:17:25.50,0:17:28.30,CHN,,0,0,0,,也即激活函数的激活值乘以权重
 Dialogue: 0,0:17:28.30,0:17:30.86,ENG,,0,0,0,,The cells are wired together in such a way
@@ -809,29 +809,27 @@ Dialogue: 0,0:17:50.54,0:17:52.62,CHN,,0,0,0,,功耗大约是 3 瓦特
 Dialogue: 0,0:17:52.62,0:17:54.93,ENG,,0,0,0,,- How does it compare to a digital chip?
 Dialogue: 0,0:17:52.62,0:17:54.93,CHN,,0,0,0,,- 它与数字芯片相比起来如何
 Dialogue: 0,0:17:54.93,0:17:57.90,ENG,,0,0,0,,- The newer digital systems can do anywhere
-Dialogue: 0,0:17:54.93,0:17:57.90,CHN,,0,0,0,,较新的数字元件能在一秒内
+Dialogue: 0,0:17:54.93,0:17:57.90,CHN,,0,0,0,,较新的数字系统能在一秒内
 Dialogue: 0,0:17:57.90,0:18:00.68,ENG,,0,0,0,,from 25 to 100 trillion operations per second,
-Dialogue: 0,0:17:57.90,0:18:00.68,CHN,,0,0,0,,完成 25 万亿到 100 万亿次数学运算
+Dialogue: 0,0:17:57.90,0:18:00.68,CHN,,0,0,0,,完成 25 万亿到 100 万亿次运算
 Dialogue: 0,0:18:00.68,0:18:02.78,ENG,,0,0,0,,but they are big, thousand-dollar systems
-Dialogue: 0,0:18:00.68,0:18:02.78,CHN,,0,0,0,,但是那都是些庞大而昂贵的系统 价值数千美元
+Dialogue: 0,0:18:00.68,0:18:02.78,CHN,,0,0,0,,但它们庞大、昂贵，价值数千刀
 Dialogue: 0,0:18:02.78,0:18:06.59,ENG,,0,0,0,,that are spitting out 50 to 100 watts of power.
-Dialogue: 0,0:18:02.78,0:18:06.59,CHN,,0,0,0,,它们的功率在 50 到 100 瓦特
+Dialogue: 0,0:18:02.78,0:18:06.59,CHN,,0,0,0,,会用掉 50 到 100 瓦左右的功率
+Dialogue: 0,0:18:02.78,0:18:06.59,CHN,,0,0,0,,{\an7}译者也不知道他指的是什么东西的功耗
 Dialogue: 0,0:18:06.59,0:18:07.68,ENG,,0,0,0,,- Obviously this isn't
-Dialogue: 0,0:18:06.59,0:18:07.68,CHN,,0,0,0,,- 显然 这两者是没法相比的
 Dialogue: 0,0:18:07.68,0:18:09.46,ENG,,0,0,0,,like an apples apples comparison, right?
-Dialogue: 0,0:18:07.68,0:18:09.46,CHN,,0,0,0,, 对吧
+Dialogue: 0,0:18:06.59,0:18:09.46,CHN,,0,0,0,,- 这两者显然没法相比
 Dialogue: 0,0:18:09.46,0:18:10.58,ENG,,0,0,0,,- No, it's not apples to apples.
-Dialogue: 0,0:18:09.46,0:18:10.58,CHN,,0,0,0,,- 不 完全没法比
-Dialogue: 0,0:18:10.58,0:18:13.66,ENG,,0,0,0,,I mean, training those algorithms,
-Dialogue: 0,0:18:10.58,0:18:13.66,CHN,,0,0,0,,我的意思是
-Dialogue: 0,0:18:13.66,0:18:15.51,ENG,,0,0,0,,you need big hardware like this.
-Dialogue: 0,0:18:13.66,0:18:15.51,CHN,,0,0,0,,你需要这些大家伙来训练神经网络
+Dialogue: 0,0:18:09.46,0:18:10.58,CHN,,0,0,0,,- 嗯  完全没法比
+Dialogue: 0,0:18:10.58,0:18:15.51,ENG,,0,0,0,,I mean, training those algorithms, you need big hardware like this.
+Dialogue: 0,0:18:10.58,0:18:15.51,CHN,,0,0,0,,我的意思是  你需要这些大家伙来训练神经网络
 Dialogue: 0,0:18:15.51,0:18:17.61,ENG,,0,0,0,,You can just do all sorts of stuff on the GPU,
 Dialogue: 0,0:18:15.51,0:18:17.61,CHN,,0,0,0,,你可以在 GPU 上完成所有这些事
 Dialogue: 0,0:18:17.61,0:18:20.36,ENG,,0,0,0,,but if you specifically are doing AI workloads
 Dialogue: 0,0:18:17.61,0:18:20.36,CHN,,0,0,0,,但是如果你想应用某个 AI
 Dialogue: 0,0:18:20.36,0:18:22.72,ENG,,0,0,0,,and you wanna deploy 'em, you could use this instead.
-Dialogue: 0,0:18:20.36,0:18:22.72,CHN,,0,0,0,,并且部署它们 就可以使用芯片来替代 GPU
+Dialogue: 0,0:18:20.36,0:18:22.72,CHN,,0,0,0,,并且部署它们  就可以使用芯片来替代 GPU
 Dialogue: 0,0:18:22.72,0:18:25.17,ENG,,0,0,0,,You can imagine them in security cameras,
 Dialogue: 0,0:18:22.72,0:18:25.17,CHN,,0,0,0,,不难想象它们在安保摄像头
 Dialogue: 0,0:18:25.17,0:18:26.69,ENG,,0,0,0,,autonomous systems,
@@ -845,25 +843,24 @@ Dialogue: 0,0:18:30.88,0:18:32.20,CHN,,0,0,0,,他们会用一个摄像头检查�
 Dialogue: 0,0:18:32.20,0:18:36.17,ENG,,0,0,0,,and the bad Fritos get blown off of the conveyor belt.
 Dialogue: 0,0:18:32.20,0:18:36.17,CHN,,0,0,0,,然后移除传送带上的次品
 Dialogue: 0,0:18:36.17,0:18:37.75,ENG,,0,0,0,,But they're using artificial intelligence
-Dialogue: 0,0:18:36.17,0:18:37.75,CHN,,0,0,0,,他们是在用人工智能
 Dialogue: 0,0:18:37.75,0:18:40.41,ENG,,0,0,0,,to spot which Fritos are good and bad.
-Dialogue: 0,0:18:37.75,0:18:40.41,CHN,,0,0,0,,检查产品的质量
+Dialogue: 0,0:18:36.17,0:18:40.41,CHN,,0,0,0,,他们在用 AI 检查产品的质量
 Dialogue: 0,0:18:40.41,0:18:41.35,ENG,,0,0,0,,- Some have proposed
-Dialogue: 0,0:18:40.41,0:18:41.35,CHN,,0,0,0,,有人提议在智能家居音箱中采用模拟芯片
+Dialogue: 0,0:18:40.41,0:18:41.35,CHN,,0,0,0,,有人提议
 Dialogue: 0,0:18:41.35,0:18:43.92,ENG,,0,0,0,,using analog circuitry in smart home speakers,
-Dialogue: 0,0:18:41.35,0:18:43.92,CHN,,0,0,0,,有人提议在智能家居音箱中采用模拟芯片
+Dialogue: 0,0:18:41.35,0:18:43.92,CHN,,0,0,0,,在智能家居音箱中采用模拟芯片
 Dialogue: 0,0:18:43.92,0:18:47.65,ENG,,0,0,0,,solely to listen for the wake word, like Alexa or Siri.
 Dialogue: 0,0:18:43.92,0:18:47.65,CHN,,0,0,0,,来单独监听唤醒词 像是 Alexa 或者 Siri
 Dialogue: 0,0:18:47.65,0:18:48.93,ENG,,0,0,0,,They would use a lot less power
 Dialogue: 0,0:18:47.65,0:18:48.93,CHN,,0,0,0,,这样可以降低功耗
-Dialogue: 0,0:18:48.93,0:18:50.92,ENG,,0,0,0,,and be able to quickly and reliably turn on
-Dialogue: 0,0:18:48.93,0:18:50.92,CHN,,0,0,0,,同时能够稳定而快速地启动
-Dialogue: 0,0:18:50.92,0:18:53.31,ENG,,0,0,0,,the digital circuitry of the device.
-Dialogue: 0,0:18:50.92,0:18:53.31,CHN,,0,0,0,,设备的数字电路
+Dialogue: 0,0:18:48.93,0:18:50.63,ENG,,0,0,0,,and be able to quickly and reliably
+Dialogue: 0,0:18:48.93,0:18:50.63,CHN,,0,0,0,,同时能够稳定而快速地
+Dialogue: 0,0:18:50.63,0:18:53.31,ENG,,0,0,0,,turn on the digital circuitry of the device.
+Dialogue: 0,0:18:50.63,0:18:53.31,CHN,,0,0,0,,启动设备的数字电路
 Dialogue: 0,0:18:53.31,0:18:56.42,ENG,,0,0,0,,But you still have to deal with the challenges of analog.
-Dialogue: 0,0:18:53.31,0:18:56.42,CHN,,0,0,0,,但是模拟信号中的挑战仍然亟待解决
+Dialogue: 0,0:18:53.31,0:18:56.42,CHN,,0,0,0,,但是  模拟信号的处理  仍有难题亟待解决
 Dialogue: 0,0:18:56.42,0:18:58.12,ENG,,0,0,0,,- So for one of the popular networks,
-Dialogue: 0,0:18:56.42,0:18:58.12,CHN,,0,0,0,,- 对于一个最为流行的神经网络
+Dialogue: 0,0:18:56.42,0:18:58.12,CHN,,0,0,0,,对于一个常见的神经网络
 Dialogue: 0,0:18:58.12,0:19:02.67,ENG,,0,0,0,,there would be 50 sequences of matrix multiplies that you're doing.
 Dialogue: 0,0:18:58.12,0:19:02.67,CHN,,0,0,0,,其中有 50 个序列的矩阵乘法需要完成
 Dialogue: 0,0:19:02.67,0:19:05.04,ENG,,0,0,0,,Now, if you did that entirely in the analog domain,
@@ -884,7 +881,7 @@ Dialogue: 0,0:19:18.36,0:19:20.49,ENG,,0,0,0,,And that allows you to preserve th
 Dialogue: 0,0:19:18.36,0:19:20.49,CHN,,0,0,0,,这样就可以避免信号失真
 Dialogue: 0,0:19:20.49,0:19:22.64,ENG,,0,0,0,,- You know, when Rosenblatt was first setting
 Dialogue: 0,0:19:22.64,0:19:23.75,ENG,,0,0,0,,up his perceptron,
-Dialogue: 0,0:19:20.49,0:19:23.75,CHN,,0,0,0,,所以  当罗森布拉特首次搭建感知机的时候
+Dialogue: 0,0:19:20.49,0:19:23.75,CHN,,0,0,0,,当罗森布拉特首次搭建感知机的时候
 Dialogue: 0,0:19:23.75,0:19:26.70,ENG,,0,0,0,,he used a digital IBM computer.
 Dialogue: 0,0:19:23.75,0:19:26.70,CHN,,0,0,0,,用的还是IBM的数字计算机
 Dialogue: 0,0:19:26.70,0:19:28.33,ENG,,0,0,0,,Finding it too slow,
@@ -896,11 +893,11 @@ Dialogue: 0,0:19:32.57,0:19:35.29,ENG,,0,0,0,,and little motors to drive them.
 Dialogue: 0,0:19:30.84,0:19:35.29,CHN,,0,0,0,,使用变阻器和小电机来驱动
 Dialogue: 0,0:19:35.29,0:19:37.81,ENG,,0,0,0,,Ultimately, his idea of neural networks
 Dialogue: 0,0:19:37.81,0:19:39.40,ENG,,0,0,0,,turned out to be right.
-Dialogue: 0,0:19:35.29,0:19:39.40,CHN,,0,0,0,,最终  人们发现他神经网络的想法是正确的
+Dialogue: 0,0:19:35.29,0:19:39.40,CHN,,0,0,0,,人们最终发现  他对神经网络的展望是正确的
 Dialogue: 0,0:19:39.40,0:19:42.37,ENG,,0,0,0,,Maybe he was right about analog, too.
-Dialogue: 0,0:19:39.40,0:19:42.37,CHN,,0,0,0,,也许他的模拟计算机也会是正确的
+Dialogue: 0,0:19:39.40,0:19:42.37,CHN,,0,0,0,,或许  他对模拟计算机的愿景也会应验
 Dialogue: 0,0:19:43.25,0:19:45.56,ENG,,0,0,0,,Now, I can't say whether analog computers
-Dialogue: 0,0:19:43.25,0:19:45.56,CHN,,0,0,0,,现在  我也不确定模拟计算机能否走上
+Dialogue: 0,0:19:43.25,0:19:45.56,CHN,,0,0,0,,我现在也不确定  模拟计算机能否走上
 Dialogue: 0,0:19:45.56,0:19:48.69,ENG,,0,0,0,,will take off the way digital did last century,
 Dialogue: 0,0:19:45.56,0:19:48.69,CHN,,0,0,0,,数字计算机在上个世纪的光辉道路
 Dialogue: 0,0:19:48.69,0:19:51.36,ENG,,0,0,0,,but they do seem to be better suited
@@ -912,10 +909,10 @@ Dialogue: 0,0:19:55.21,0:19:56.24,CHN,,0,0,0,,我觉得这挺有趣的
 Dialogue: 0,0:19:56.24,0:19:58.08,ENG,,0,0,0,,because I always thought of digital
 Dialogue: 0,0:19:58.08,0:20:01.53,ENG,,0,0,0,,as the optimal way of processing information.
 Dialogue: 0,0:19:56.24,0:20:01.53,CHN,,0,0,0,,因为我总以为 数字技术是处理信息的最佳选项
-Dialogue: 0,0:20:01.53,0:20:03.77,ENG,,0,0,0,,Everything from music to pictures,
-Dialogue: 0,0:20:01.53,0:20:03.77,CHN,,0,0,0,,从音乐到照片再到视频
-Dialogue: 0,0:20:03.77,0:20:07.86,ENG,,0,0,0,,to video has all gone digital in the last 50 years.
-Dialogue: 0,0:20:03.77,0:20:07.86,CHN,,0,0,0,,我们身边的一切  在过去的50年里都走向了数字化
+Dialogue: 0,0:20:01.53,0:20:04.31,ENG,,0,0,0,,Everything from music to pictures, to video
+Dialogue: 0,0:20:01.53,0:20:04.31,CHN,,0,0,0,,从音乐到照片再到视频
+Dialogue: 0,0:20:04.31,0:20:07.86,ENG,,0,0,0,,has all gone digital in the last 50 years.
+Dialogue: 0,0:20:04.31,0:20:07.86,CHN,,0,0,0,,这一切都在过去的半个世纪  走向了数字化
 Dialogue: 0,0:20:07.86,0:20:09.67,ENG,,0,0,0,,But maybe in a 100 years,
 Dialogue: 0,0:20:07.86,0:20:09.67,CHN,,0,0,0,,但也许再过一百年
 Dialogue: 0,0:20:09.67,0:20:11.44,ENG,,0,0,0,,we will look back on digital,
@@ -924,15 +921,17 @@ Dialogue: 0,0:20:11.44,0:20:15.06,ENG,,0,0,0,,not as the end point of informatio
 Dialogue: 0,0:20:11.44,0:20:15.06,CHN,,0,0,0,,发现它不是信息技术的终点
 Dialogue: 0,0:20:15.06,0:20:17.32,ENG,,0,0,0,,but as a starting point.
 Dialogue: 0,0:20:15.06,0:20:17.32,CHN,,0,0,0,,而是起点
-Dialogue: 0,0:20:17.32,0:20:21.93,ENG,,0,0,0,,Our brains are digital in that a neuron either fires or it doesn't,
-Dialogue: 0,0:20:17.32,0:20:21.93,CHN,,0,0,0,,神经元信号的发射（1）与不发射（0）代表的大脑是数字式的
+Dialogue: 0,0:20:17.32,0:20:19.01,ENG,,0,0,0,,Our brains are digital
+Dialogue: 0,0:20:17.32,0:20:19.01,CHN,,0,0,0,,我们的大脑是数字式的
+Dialogue: 0,0:20:19.01,0:20:21.93,ENG,,0,0,0,,in that a neuron either fires or it doesn't,
+Dialogue: 0,0:20:19.01,0:20:21.93,CHN,,0,0,0,,因为神经元信号有发射（1）与不发射（0）
 Dialogue: 0,0:20:21.93,0:20:24.04,ENG,,0,0,0,,but they're also analog
-Dialogue: 0,0:20:21.93,0:20:24.04,CHN,,0,0,0,,但是他们也是模拟的
+Dialogue: 0,0:20:21.93,0:20:24.04,CHN,,0,0,0,,但是它们也是模拟的
 Dialogue: 0,0:20:24.04,0:20:28.22,ENG,,0,0,0,,in that thinking takes place everywhere, all at once.
-Dialogue: 0,0:20:24.04,0:20:28.22,CHN,,0,0,0,,我们思考的过程是同时发生在大脑各处的
+Dialogue: 0,0:20:24.04,0:20:28.22,CHN,,0,0,0,,因为我们思考的过程  会在大脑各处同时发生
 Dialogue: 0,0:20:28.22,0:20:32.49,ENG,,0,0,0,,So maybe what we need to achieve true artificial intelligence,
-Dialogue: 0,0:20:28.22,0:20:32.49,CHN,,0,0,0,,因此  我们要想实现真正的人工智能
+Dialogue: 0,0:20:28.22,0:20:32.49,CHN,,0,0,0,,说不定  我们要想实现真正的人工智能
 Dialogue: 0,0:20:32.49,0:20:34.68,ENG,,0,0,0,,machines that think like us,
 Dialogue: 0,0:20:32.49,0:20:34.68,CHN,,0,0,0,,造出像人类一样思考的机器
 Dialogue: 0,0:20:34.68,0:20:37.13,ENG,,0,0,0,,is the power of analog.
-Dialogue: 0,0:20:34.68,0:20:37.13,CHN,,0,0,0,,模拟的力量也许真的不可或缺
+Dialogue: 0,0:20:34.68,0:20:37.13,CHN,,0,0,0,,模拟的力量真的不可或缺
