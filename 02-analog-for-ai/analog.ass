@@ -43,11 +43,9 @@ Dialogue: 0,0:00:32.67,0:00:34.87,CHN,,0,0,0,,让它解不同的微分方程
 Dialogue: 0,0:00:34.87,0:00:37.74,ENG,,0,0,0,,For example, this setup allows me to simulate
 Dialogue: 0,0:00:37.74,0:00:40.80,ENG,,0,0,0,,a damped mass oscillating on a spring.
 Dialogue: 0,0:00:34.87,0:00:40.80,CHN,,0,0,0,,例如 我这样接线 就可以模拟一个带阻尼的重物在弹簧上振动
-Dialogue: 0,0:00:37.74,0:00:40.80,CHN,,0,0,0,,
 Dialogue: 0,0:00:40.80,0:00:43.06,ENG,,0,0,0,,So on the oscilloscope you can actually see
 Dialogue: 0,0:00:43.06,0:00:45.75,ENG,,0,0,0,,the position of the mass over time.
 Dialogue: 0,0:00:40.80,0:00:45.75,CHN,,0,0,0,,然后在示波器上 就能看到重物的位移随时间变化的图像
-Dialogue: 0,0:00:43.06,0:00:45.75,CHN,,0,0,0,,
 Dialogue: 0,0:00:45.75,0:00:48.94,ENG,,0,0,0,,And I can vary the damping,
 Dialogue: 0,0:00:45.75,0:00:48.94,CHN,,0,0,0,,我还可以改变阻尼
 Dialogue: 0,0:00:48.94,0:00:51.90,ENG,,0,0,0,,or the spring constant,
