@@ -461,8 +461,7 @@ Dialogue: 0,0:10:07.83,0:10:10.76,CHN,,0,0,0,,是这台计算机进行矩阵乘�
 Dialogue: 0,0:10:12.25,0:10:13.70,ENG,,0,0,0,,Despite these advances,
 Dialogue: 0,0:10:12.25,0:10:13.70,CHN,,0,0,0,,尽管取得了这些进展
 Dialogue: 0,0:10:13.70,0:10:17.55,ENG,,0,0,0,,artificial neural networks still struggled with seemingly simple tasks,
-Dialogue: 0,0:10:13.70,0:10:17.55,CHN,,0,0,0,,人
-Dialogue: 0,0:01:29.05,0:01:32.27,CHN,,0,0,0,,工神经网络仍然很难完成看似简单的任务
+Dialogue: 0,0:10:13.70,0:10:17.55,CHN,,0,0,0,,人工神经网络仍然很难完成看似简单的任务
 Dialogue: 0,0:10:17.55,0:10:19.92,ENG,,0,0,0,,like telling apart cats and dogs.
 Dialogue: 0,0:10:17.55,0:10:19.92,CHN,,0,0,0,,比如分辨猫和狗
 Dialogue: 0,0:10:19.92,0:10:24.21,ENG,,0,0,0,,And no one knew whether hardware or software was the weak link.
