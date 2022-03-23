@@ -17,49 +17,48 @@ Style: CHN,MonyharOS Sans SC Medium,42,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.40,0:00:03.71,ENG,,0,0,0,,Are you all right to grab the back end?
-Dialogue: 0,0:00:02.40,0:00:03.71,CHN,,0,0,0,,
+Dialogue: 0,0:00:02.40,0:00:03.71,CHN,,0,0,0,,-你准备好来抓住蛇的尾巴了吗？
 Dialogue: 0,0:00:03.71,0:00:05.14,ENG,,0,0,0,,Uh, well, not at the moment.
-Dialogue: 0,0:00:03.71,0:00:05.14,CHN,,0,0,0,,
+Dialogue: 0,0:00:03.71,0:00:05.14,CHN,,0,0,0,,-呃 现在没有
 Dialogue: 0,0:00:05.14,0:00:06.67,ENG,,0,0,0,,Not yet.
-Dialogue: 0,0:00:05.14,0:00:06.67,CHN,,0,0,0,,
+Dialogue: 0,0:00:05.14,0:00:06.67,CHN,,0,0,0,,-不是现在
 Dialogue: 0,0:00:06.67,0:00:07.51,ENG,,0,0,0,,Get him up.
-Dialogue: 0,0:00:06.67,0:00:07.51,CHN,,0,0,0,,
+Dialogue: 0,0:00:06.67,0:00:07.51,CHN,,0,0,0,,抓紧它
 Dialogue: 0,0:00:07.51,0:00:08.49,ENG,,0,0,0,,You gotta lock him in.
-Dialogue: 0,0:00:07.51,0:00:08.49,CHN,,0,0,0,,
+Dialogue: 0,0:00:07.51,0:00:08.49,CHN,,0,0,0,,你得把它锁在里面
 Dialogue: 0,0:00:11.01,0:00:13.83,ENG,,0,0,0,,A scratch from this species will knock you.
-Dialogue: 0,0:00:11.01,0:00:13.83,CHN,,0,0,0,,
+Dialogue: 0,0:00:11.01,0:00:13.83,CHN,,0,0,0,,这种物种的抓伤会把你打倒
 Dialogue: 0,0:00:13.83,0:00:15.00,ENG,,0,0,0,,Knock you down...
-Dialogue: 0,0:00:13.83,0:00:15.00,CHN,,0,0,0,,
+Dialogue: 0,0:00:13.83,0:00:15.00,CHN,,0,0,0,,-把你打倒
 Dialogue: 0,0:00:15.00,0:00:15.83,ENG,,0,0,0,,Could kill you? Or...
-Dialogue: 0,0:00:15.00,0:00:15.83,CHN,,0,0,0,,
+Dialogue: 0,0:00:15.00,0:00:15.83,CHN,,0,0,0,,可以杀掉你吗？
 Dialogue: 0,0:00:15.83,0:00:17.19,ENG,,0,0,0,,Oh definitely, yeah, yeah, yeah.
-Dialogue: 0,0:00:15.83,0:00:17.19,CHN,,0,0,0,,
+Dialogue: 0,0:00:15.83,0:00:17.19,CHN,,0,0,0,,-绝对可以
 Dialogue: 0,0:00:17.19,0:00:17.92,ENG,,0,0,0,,Okay.
-Dialogue: 0,0:00:17.19,0:00:17.92,CHN,,0,0,0,,
+Dialogue: 0,0:00:17.19,0:00:17.92,CHN,,0,0,0,,-行
 Dialogue: 0,0:00:18.98,0:00:20.64,ENG,,0,0,0,,So I am back in Australia,
-Dialogue: 0,0:00:18.98,0:00:20.64,CHN,,0,0,0,,
+Dialogue: 0,0:00:18.98,0:00:20.64,CHN,,0,0,0,,我又回到了澳大利亚
 Dialogue: 0,0:00:20.64,0:00:21.74,ENG,,0,0,0,,and, of course, I'm a reminded
-Dialogue: 0,0:00:20.64,0:00:21.74,CHN,,0,0,0,,
 Dialogue: 0,0:00:21.74,0:00:24.17,ENG,,0,0,0,,that everything in this country is trying to kill you,
-Dialogue: 0,0:00:21.74,0:00:24.17,CHN,,0,0,0,,
+Dialogue: 0,0:00:20.64,0:00:24.17,CHN,,0,0,0,,当然 我被提醒过这个国家的一切都在试图杀死你
 Dialogue: 0,0:00:24.17,0:00:26.02,ENG,,0,0,0,,particularly snakes and spiders,
-Dialogue: 0,0:00:24.17,0:00:26.02,CHN,,0,0,0,,
+Dialogue: 0,0:00:24.17,0:00:26.02,CHN,,0,0,0,,特别是蛇和蜘蛛
 Dialogue: 0,0:00:26.02,0:00:28.23,ENG,,0,0,0,,and here at the Australian Reptile Park
-Dialogue: 0,0:00:26.02,0:00:28.23,CHN,,0,0,0,,
+Dialogue: 0,0:00:26.02,0:00:28.23,CHN,,0,0,0,,而在澳大利亚爬行动物公园这里
 Dialogue: 0,0:00:28.23,0:00:30.44,ENG,,0,0,0,,they actually milk snakes and spiders
-Dialogue: 0,0:00:28.23,0:00:30.44,CHN,,0,0,0,,
+Dialogue: 0,0:00:28.23,0:00:30.44,CHN,,0,0,0,,他们在培养蛇和蜘蛛
 Dialogue: 0,0:00:30.44,0:00:33.26,ENG,,0,0,0,,so they can use their venom to make antivenom
-Dialogue: 0,0:00:30.44,0:00:33.26,CHN,,0,0,0,,
+Dialogue: 0,0:00:30.44,0:00:33.26,CHN,,0,0,0,,这样他们就可以用他们的毒液来制作抗毒血清
 Dialogue: 0,0:00:33.26,0:00:34.49,ENG,,0,0,0,,and save lives.
-Dialogue: 0,0:00:33.26,0:00:34.49,CHN,,0,0,0,,
+Dialogue: 0,0:00:33.26,0:00:34.49,CHN,,0,0,0,,并拯救生命
 Dialogue: 0,0:00:34.49,0:00:36.39,ENG,,0,0,0,,Let's go see how they do it.
-Dialogue: 0,0:00:34.49,0:00:36.39,CHN,,0,0,0,,
+Dialogue: 0,0:00:34.49,0:00:36.39,CHN,,0,0,0,,让我们去看看他们是如何做到的
 Dialogue: 0,0:00:36.39,0:00:37.46,ENG,,0,0,0,,All right, so come on in, man.
-Dialogue: 0,0:00:36.39,0:00:37.46,CHN,,0,0,0,,
+Dialogue: 0,0:00:36.39,0:00:37.46,CHN,,0,0,0,,-进来吧 伙计
 Dialogue: 0,0:00:37.46,0:00:38.54,ENG,,0,0,0,,This is without a doubt
-Dialogue: 0,0:00:37.46,0:00:38.54,CHN,,0,0,0,,
+Dialogue: 0,0:00:37.46,0:00:38.54,CHN,,0,0,0,,毋庸置疑
 Dialogue: 0,0:00:38.54,0:00:40.56,ENG,,0,0,0,,the most dangerous room in the country.
-Dialogue: 0,0:00:38.54,0:00:40.56,CHN,,0,0,0,,
+Dialogue: 0,0:00:38.54,0:00:40.56,CHN,,0,0,0,,这是这个国家最危险的房间
 Dialogue: 0,0:00:40.56,0:00:42.13,ENG,,0,0,0,,You're currently surrounded floor to ceiling
 Dialogue: 0,0:00:40.56,0:00:42.13,CHN,,0,0,0,,
 Dialogue: 0,0:00:42.13,0:00:43.19,ENG,,0,0,0,,with venomous snakes.
@@ -157,28 +156,28 @@ Dialogue: 0,0:02:04.37,0:02:05.20,CHN,,0,0,0,,-是把它按住
 Dialogue: 0,0:02:06.70,0:02:08.27,ENG,,0,0,0,,Now, wait, wait, wait.
 Dialogue: 0,0:02:06.70,0:02:08.27,CHN,,0,0,0,,现在 等着
 Dialogue: 0,0:02:08.27,0:02:09.10,ENG,,0,0,0,,Get him up.
-Dialogue: 0,0:02:08.27,0:02:09.10,CHN,,0,0,0,,-抓起它
+Dialogue: 0,0:02:08.27,0:02:09.10,CHN,,0,0,0,,-抓紧它
 Dialogue: 0,0:02:09.10,0:02:09.94,ENG,,0,0,0,,Righty-O
 Dialogue: 0,0:02:09.94,0:02:10.77,ENG,,0,0,0,,There you go, you hold that,
-Dialogue: 0,0:02:09.10,0:02:10.77,CHN,,0,0,0,,-Righty-O 你拿着 把它按住
+Dialogue: 0,0:02:09.10,0:02:10.77,CHN,,0,0,0,,-Righty-O 你拿着这个 按住它
 Dialogue: 0,0:02:10.77,0:02:11.60,ENG,,0,0,0,,I'll take that vial off you.
-Dialogue: 0,0:02:10.77,0:02:11.60,CHN,,0,0,0,,我会把那个瓶子从你手上拿走
+Dialogue: 0,0:02:10.77,0:02:11.60,CHN,,0,0,0,,等下我会拿走你手上那个瓶子
 Dialogue: 0,0:02:11.60,0:02:12.96,ENG,,0,0,0,,Okay.
 Dialogue: 0,0:02:11.60,0:02:12.96,CHN,,0,0,0,,-好
 Dialogue: 0,0:02:15.16,0:02:16.88,ENG,,0,0,0,,This feels absurd.
-Dialogue: 0,0:02:15.16,0:02:16.88,CHN,,0,0,0,,这感觉荒谬
+Dialogue: 0,0:02:15.16,0:02:16.88,CHN,,0,0,0,,这听上去很荒谬
 Dialogue: 0,0:02:16.88,0:02:17.72,ENG,,0,0,0,,There we go.
 Dialogue: 0,0:02:16.88,0:02:17.72,CHN,,0,0,0,,-我们开始吧
 Dialogue: 0,0:02:17.72,0:02:18.88,ENG,,0,0,0,,As you can see, he's keen on the killing.
 Dialogue: 0,0:02:17.72,0:02:18.88,CHN,,0,0,0,,正如你所看到的 它热衷于杀人
 Dialogue: 0,0:02:18.88,0:02:20.04,ENG,,0,0,0,,Now snakes aren't stupid.
-Dialogue: 0,0:02:18.88,0:02:20.04,CHN,,0,0,0,,现在蛇不笨
+Dialogue: 0,0:02:18.88,0:02:20.04,CHN,,0,0,0,,这条蛇可不笨
 Dialogue: 0,0:02:20.04,0:02:20.95,ENG,,0,0,0,,He doesn't wanna bite the jar,
 Dialogue: 0,0:02:20.04,0:02:20.95,CHN,,0,0,0,,它不想咬这个玻璃罐
 Dialogue: 0,0:02:20.95,0:02:21.83,ENG,,0,0,0,,he wants to bite me.
 Dialogue: 0,0:02:20.95,0:02:21.83,CHN,,0,0,0,,它想咬我
 Dialogue: 0,0:02:21.83,0:02:23.39,ENG,,0,0,0,,Finger is the target.
-Dialogue: 0,0:02:21.83,0:02:23.39,CHN,,0,0,0,,手指是它的目标
+Dialogue: 0,0:02:21.83,0:02:23.39,CHN,,0,0,0,,我的手指是它的目标
 Dialogue: 0,0:02:27.50,0:02:28.33,ENG,,0,0,0,,There we go.
 Dialogue: 0,0:02:27.50,0:02:28.33,CHN,,0,0,0,,我们继续
 Dialogue: 0,0:02:28.33,0:02:30.50,ENG,,0,0,0,,Oh my goodness.
@@ -207,7 +206,7 @@ Dialogue: 0,0:02:47.13,0:02:49.46,CHN,,0,0,0,,-现在因为我的手开始抽筋
 Dialogue: 0,0:02:49.46,0:02:50.29,ENG,,0,0,0,,I'm gonna put him away.
 Dialogue: 0,0:02:49.46,0:02:50.29,CHN,,0,0,0,,我要把它关起来
 Dialogue: 0,0:02:50.29,0:02:52.17,ENG,,0,0,0,,So I'll get you guys to jump back for me.
-Dialogue: 0,0:02:50.29,0:02:52.17,CHN,,0,0,0,,
+Dialogue: 0,0:02:50.29,0:02:52.17,CHN,,0,0,0,,所以我会让你们为我腾出空间(???)
 Dialogue: 0,0:02:52.17,0:02:53.53,ENG,,0,0,0,,And this is the sketchy bit.
 Dialogue: 0,0:02:52.17,0:02:53.53,CHN,,0,0,0,,而这是最简单的部分
 Dialogue: 0,0:02:53.53,0:02:54.36,ENG,,0,0,0,,Yeah.
@@ -217,7 +216,7 @@ Dialogue: 0,0:02:54.36,0:02:55.60,CHN,,0,0,0,,当你把它弄出来的时候 你
 Dialogue: 0,0:02:55.60,0:02:57.53,ENG,,0,0,0,,when you're putting him back,
 Dialogue: 0,0:02:55.60,0:02:57.53,CHN,,0,0,0,,当你把它放回去的时候
 Dialogue: 0,0:02:57.53,0:02:58.73,ENG,,0,0,0,,it's just who's quicker.
-Dialogue: 0,0:02:57.53,0:02:58.73,CHN,,0,0,0,,只是谁更快而已
+Dialogue: 0,0:02:57.53,0:02:58.73,CHN,,0,0,0,,只是比谁更快而已
 Dialogue: 0,0:03:00.44,0:03:01.27,ENG,,0,0,0,,Ready?
 Dialogue: 0,0:03:00.44,0:03:01.27,CHN,,0,0,0,,预备
 Dialogue: 0,0:03:04.43,0:03:05.51,ENG,,0,0,0,,Two.
