@@ -646,9 +646,9 @@ Dialogue: 0,0:11:23.40,0:11:25.99,CHN,,0,0,0,,来逐渐加强对蛇毒的免疫�
 Dialogue: 0,0:11:25.99,0:11:28.52,ENG,,0,0,0,,He observed that the older snake handlers
 Dialogue: 0,0:11:25.99,0:11:28.52,CHN,,0,0,0,,他注意到年长的驯蛇师
 Dialogue: 0,0:11:28.52,0:11:30.42,ENG,,0,0,0,,were less affected by accidental bites
-Dialogue: 0,0:11:28.52,0:11:30.42,CHN,,0,0,0,,受到意外咬伤的影响比
+Dialogue: 0,0:11:28.52,0:11:30.42,CHN,,0,0,0,,受到意外咬伤的影响
 Dialogue: 0,0:11:30.42,0:11:31.67,ENG,,0,0,0,,than the younger ones.
-Dialogue: 0,0:11:30.42,0:11:31.67,CHN,,0,0,0,,年轻驯蛇师更小
+Dialogue: 0,0:11:30.42,0:11:31.67,CHN,,0,0,0,,比年轻驯蛇师更小
 Dialogue: 0,0:11:31.67,0:11:35.53,ENG,,0,0,0,,So this dangerous practice seemed to be paying off.
 Dialogue: 0,0:11:31.67,0:11:35.53,CHN,,0,0,0,,所以这种危险的做法似乎很有效
 Dialogue: 0,0:11:37.32,0:11:39.06,ENG,,0,0,0,,20 years later in Saigon,
@@ -698,7 +698,7 @@ Dialogue: 0,0:12:29.96,0:12:32.28,CHN,,0,0,0,,来对抗所有的蛇毒
 Dialogue: 0,0:12:32.28,0:12:34.07,ENG,,0,0,0,,just in case one bites you?
 Dialogue: 0,0:12:32.28,0:12:34.07,CHN,,0,0,0,,而仅仅就因为被一条蛇咬呢
 Dialogue: 0,0:12:34.07,0:12:35.81,ENG,,0,0,0,,It would be better, Calmette reasoned,
-Dialogue: 0,0:12:34.07,0:12:35.81,CHN,,0,0,0,,他推断，要是能在被咬之后
+Dialogue: 0,0:12:34.07,0:12:35.81,CHN,,0,0,0,,他推断 要是能在被咬之后
 Dialogue: 0,0:12:35.81,0:12:39.65,ENG,,0,0,0,,if you could administer antibodies after a bite.
 Dialogue: 0,0:12:35.81,0:12:39.65,CHN,,0,0,0,,能把抗体注射进去就好了
 Dialogue: 0,0:12:39.65,0:12:42.51,ENG,,0,0,0,,So he drew blood from a venom resistant rabbit
@@ -720,11 +720,11 @@ Dialogue: 0,0:12:57.86,0:13:01.68,CHN,,0,0,0,,对蛇毒的免疫力从一只兔�
 Dialogue: 0,0:13:01.68,0:13:04.05,ENG,,0,0,0,,This was the first antivenom,
 Dialogue: 0,0:13:01.68,0:13:04.05,CHN,,0,0,0,,这就是世界上第一个抗蛇毒血清
 Dialogue: 0,0:13:04.05,0:13:07.71,ENG,,0,0,0,,or as the Frenchman, Calmette called it, antivenin,
-Dialogue: 0,0:13:04.05,0:13:07.71,CHN,,0,0,0,,或者，这位法国人叫它 “Antivenin”
+Dialogue: 0,0:13:04.05,0:13:07.71,CHN,,0,0,0,,或者 这位法国人叫它 “Antivenin”
 Dialogue: 0,0:13:07.71,0:13:11.26,ENG,,0,0,0,,which is why my phone always makes that auto-correction.
 Dialogue: 0,0:13:07.71,0:13:11.26,CHN,,0,0,0,,这是我手机键盘一直自动更正的原因吧
 Dialogue: 0,0:13:11.26,0:13:14.96,ENG,,0,0,0,,To this day, antivenoms are made in much the same way.
-Dialogue: 0,0:13:11.26,0:13:14.96,CHN,,0,0,0,,直到现在，抗蛇毒血清还是按照差不多的方法制作
+Dialogue: 0,0:13:11.26,0:13:14.96,CHN,,0,0,0,,直到现在 抗蛇毒血清还是按照差不多的方法制作
 Dialogue: 0,0:13:14.96,0:13:16.15,ENG,,0,0,0,,At the Reptile Park,
 Dialogue: 0,0:13:14.96,0:13:16.15,CHN,,0,0,0,,在澳大利亚的爬行动物公园里
 Dialogue: 0,0:13:16.15,0:13:18.23,ENG,,0,0,0,,they collect and freeze the venom.
@@ -732,9 +732,9 @@ Dialogue: 0,0:13:16.15,0:13:18.23,CHN,,0,0,0,,他们收集蛇毒并冷冻起来
 Dialogue: 0,0:13:18.23,0:13:19.71,ENG,,0,0,0,,It's sent off to be diluted
 Dialogue: 0,0:13:18.23,0:13:19.71,CHN,,0,0,0,,蛇毒被送去稀释
 Dialogue: 0,0:13:19.71,0:13:24.00,ENG,,0,0,0,,and injected into a donor animal, usually a horse.
-Dialogue: 0,0:13:19.71,0:13:24.00,CHN,,0,0,0,,然后被注射到一只供体动物体内，通常是马
+Dialogue: 0,0:13:19.71,0:13:24.00,CHN,,0,0,0,,然后被注射到一只供体动物体内 通常是马
 Dialogue: 0,0:13:24.00,0:13:26.61,ENG,,0,0,0,,Horses are used because of their size.
-Dialogue: 0,0:13:24.00,0:13:26.61,CHN,,0,0,0,,马的体型庞大，所以被用作供体动物
+Dialogue: 0,0:13:24.00,0:13:26.61,CHN,,0,0,0,,马的体型庞大 所以被用作供体动物
 Dialogue: 0,0:13:26.61,0:13:29.39,ENG,,0,0,0,,After increasing the dose over a period of months,
 Dialogue: 0,0:13:26.61,0:13:29.39,CHN,,0,0,0,,在数月的时间内逐渐增加注射的剂量之后
 Dialogue: 0,0:13:29.39,0:13:31.86,ENG,,0,0,0,,the horse builds up immunity to the venom,
@@ -748,7 +748,7 @@ Dialogue: 0,0:13:35.62,0:13:36.99,CHN,,0,0,0,,提取时只取血浆
 Dialogue: 0,0:13:36.99,0:13:39.86,ENG,,0,0,0,,the red blood cells are returned to the horse.
 Dialogue: 0,0:13:36.99,0:13:39.86,CHN,,0,0,0,,红细胞会被注射回马体内
 Dialogue: 0,0:13:39.86,0:13:44.67,ENG,,0,0,0,,Those horse antibodies are the life saving antivenom.
-Dialogue: 0,0:13:39.86,0:13:44.67,CHN,,0,0,0,,这些马的抗体毒就是能救命的抗蛇毒血清
+Dialogue: 0,0:13:39.86,0:13:44.67,CHN,,0,0,0,,这些马的抗体就是能救命的抗蛇毒血清
 Dialogue: 0,0:13:44.67,0:13:47.70,ENG,,0,0,0,,Antivenom works for the same reason venom works,
 Dialogue: 0,0:13:44.67,0:13:47.70,CHN,,0,0,0,,抗蛇毒血清在我们体内产生作用的方式和蛇毒相似
 Dialogue: 0,0:13:47.70,0:13:49.83,ENG,,0,0,0,,because of our shared evolutionary history
@@ -784,7 +784,7 @@ Dialogue: 0,0:14:23.67,0:14:27.67,CHN,,0,0,0,,但现阶段只有这种方法能�
 Dialogue: 0,0:14:27.67,0:14:28.50,ENG,,0,0,0,,How's your arm?
 Dialogue: 0,0:14:27.67,0:14:28.50,CHN,,0,0,0,,你胳膊感觉如何
 Dialogue: 0,0:14:28.50,0:14:29.33,ENG,,0,0,0,,Yeah, it's a bit sore.
-Dialogue: 0,0:14:28.50,0:14:29.33,CHN,,0,0,0,,还行，有点酸
+Dialogue: 0,0:14:28.50,0:14:29.33,CHN,,0,0,0,,还行 有点酸
 Dialogue: 0,0:14:29.33,0:14:30.35,ENG,,0,0,0,,The shoulder is a bit tender.
 Dialogue: 0,0:14:29.33,0:14:30.35,CHN,,0,0,0,,肩膀有点软了
 Dialogue: 0,0:14:31.46,0:14:34.05,ENG,,0,0,0,,The work Zac and others like him do
